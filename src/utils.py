@@ -10,3 +10,4 @@ def save_to_csv(data, filename):
     filepath = f"data/{filename}.csv"
     df = pd.DataFrame(data)
     df.to_csv(filepath, index=False)
+    

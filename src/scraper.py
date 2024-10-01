@@ -5,7 +5,7 @@ import argparse
 from zoneinfo import ZoneInfo
 from config import get_credentials
 from utils import save_to_csv
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
@@ -21,28 +21,26 @@ class RedditScraper:
         self.keyword="coffee"
         self.max_attempts=5
 
-    def get_unix_timestamps_est(self, target_date=None):
-        """Get the start and end timestamps for a given date."""
-        est = ZoneInfo("America/New_York")
-        today = datetime.now(est).date()
-        start_of_day = datetime.combine(today, datetime.min.time(), tzinfo=est)
-        end_of_day = start_of_day + timedelta(days=1) - timedelta(seconds=1)
+    def get_unix_timestamps_two_hours(self):
+        """Gets the start and end timestamps for the last two hours in UTC timezone."""
+        current_time = datetime.now(timezone.utc)
+        start_time = current_time - timedelta(hours=2)
 
-        print("Target day: ", today)
-        print(f"Start of day: {start_of_day}, Start of day TS: {start_of_day.timestamp()}")
-        print(f"End of day: {end_of_day}, End of day TS: {end_of_day.timestamp()}")
+        print(f"Start time: {start_time} \t\t Current time: {current_time}")
+        print(f"Start of day: {start_time}, Start of day TS: {start_time.timestamp()}")
+        print(f"End of day: {current_time}, End of day TS: {current_time.timestamp()}")
 
-        return int(start_of_day.timestamp()), int(end_of_day.timestamp())
+        return int(start_time.timestamp()), int(current_time.timestamp())
 
     def scrape_posts(self, target_date=None):
         """Scrape reddit posts for keyword and target_date timeframe."""
-        start_timestamp, end_timestamp = self.get_unix_timestamps_est(target_date)
+        start_timestamp, end_timestamp = self.get_unix_timestamps_two_hours()
         posts = []
         attempt = 0
 
         while attempt < self.max_attempts:
             try:
-                submissions = self.reddit.subreddit("all").search(self.keyword, sort="new", limit=100)
+                submissions = self.reddit.subreddit("all").search(self.keyword, sort="new", limit=500)
                 new_posts = []
             
                 for submission in submissions:
@@ -58,18 +56,16 @@ class RedditScraper:
                             "text": submission.selftext,
                             "score": submission.score,
                             "created_utc": submission.created_utc,
-                            "subreddit": submission.subreddit,
+                            "subreddit": submission.subreddit.display_name,
                             "num_comments": submission.num_comments,
                             "upvote_ratio": submission.upvote_ratio,
                             "over_18": submission.over_18,
                         }
                         new_posts.append(post_data)
-                        posts.append(new_posts)
                 if new_posts:
                     logger.info(f"Collected {len(new_posts)} new posts, total: {len(posts)}")
-                attempt += 4
-
-                time.sleep(5)
+                
+                break
 
             except praw.exceptions.RedditAPIException as e:
                 logger.warning(f"Reddit API Expection: {e}. Retrying after a delay...")
@@ -80,7 +76,7 @@ class RedditScraper:
                 logging.error(f"An unexpected error occurred: {e}")
                 attempt += 10
                 # time.sleep(60)
-        return start_timestamp, end_timestamp, posts
+        return start_timestamp, end_timestamp, new_posts
 
     def run(self):
         logger.info("Starting reddit scraping process...")
