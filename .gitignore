@@ -169,3 +169,5 @@ cython_debug/
 
 .vscode
 data/
+logs/
+run_scraper.sh
