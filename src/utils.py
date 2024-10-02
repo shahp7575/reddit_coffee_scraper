@@ -1,5 +1,6 @@
 import pandas as pd
 import os
+import subprocess
 from datetime import datetime
 
 def save_to_csv(data, filename):
@@ -10,4 +11,3 @@ def save_to_csv(data, filename):
     filepath = f"data/{filename}.csv"
     df = pd.DataFrame(data)
     df.to_csv(filepath, index=False)
-    

@@ -168,6 +168,5 @@ cython_debug/
 **/.ipynb_checkpoints/
 
 .vscode
-data/
 logs/
 run_scraper.sh
