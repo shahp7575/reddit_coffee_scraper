@@ -1,0 +1,41 @@
+name: Reddit Coffee Scraper Every 2 Hours
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'  # Runs every 2 hours (in UTC)
+
+  workflow_dispatch:  # Allow manual triggering of the workflow
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Miniconda
+        uses: conda-incubator/setup-miniconda@v2
+        with:
+          python-version: 3.12
+          activate-environment: coffee_scraper
+          auto-update-conda: true
+
+      - name: Create Conda Environment
+        run: |
+          conda create -n coffee_scraper python=3.12 -y
+          conda activate coffee_scraper
+          pip install -r requirements.txt
+        shell: bash -l {0}
+
+      - name: Create .env file
+        run: |
+          echo "CLIENT_ID=${{ secrets.CLIENT_ID }}" >> .env
+          echo "CLIENT_SECRET=${{ secrets.CLIENT_SECRET }}" >> .env
+          echo "USER_AGENT=${{ secrets.USER_AGENT }}" >> .env
+
+      - name: Run scraper
+        shell: bash -l {0}
+        run: |
+          conda activate coffee_scraper
+          python3 src/scraper.py
