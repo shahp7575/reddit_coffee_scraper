@@ -40,8 +40,12 @@ jobs:
           conda activate coffee_scraper
           python3 src/scraper.py
 
-      - name: Upload output files
-        uses: actions/upload-artifact@v3
-        with:
-          name: data-output
-          path: data/
+      - name: Commit and push output
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git commit -m "Add output data from scraper run [skip ci]"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
