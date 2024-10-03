@@ -39,3 +39,9 @@ jobs:
         run: |
           conda activate coffee_scraper
           python3 src/scraper.py
+
+      - name: Upload output files
+        uses: actions/upload-artifact@v3
+        with:
+          name: data-output
+          path: data/
