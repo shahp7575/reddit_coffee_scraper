@@ -170,3 +170,5 @@ cython_debug/
 .vscode
 logs/
 run_scraper.sh
+src/kaggle_dataset
+src/kaggle_dataset_bin
