@@ -1,0 +1,1491 @@
+id,url,title,text,score,created_utc,subreddit,num_comments,upvote_ratio,over_18
+1get64u,https://www.reddit.com/r/NoStupidQuestions/comments/1get64u/found_dating_apps_on_gf_ipad/,Found dating apps on gf ipad,"I’ll try to keep it short
+
+Gf said she deleted all her dating apps once we started dating. Which i believe is true(atleast on her phone) 
+
+We been dating about 8 months. Slept at her place, she woke up and left to work. She left the house keys for me to lock up for when i leave.
+
+Saw her ipad, was curious and looked at it. The ipad is locked and i didn’t know the code but i saw siri suggestions. It suggested the dating app Coffee meet bagel. Although idk her passcode i was able to type and search for other apps. I found she also had bumble and hinge
+
+I made a fake account on bumble and hinge to see if i can find her. Put filters on to narrow my search for her age, and miles. Ran out of profiles and couldn’t find her. Didn’t check coffee meet bagel
+
+How do i bring this up to her? She trusted me staying at her place but i ended up looking into her ipad. What should i do?",1,1730204240.0,NoStupidQuestions,0,1.0,False
+1get5r1,https://www.reddit.com/r/Heroku/comments/1get5r1/very_weird_network_requests_on_dyno_should_i_be/,Very weird network requests on Dyno. Should I be worried?,"In my dyno log, I noticed these requests that were made last night, all around the same time:
+
+(these are regex-ed, the logs were too long to post them)
+
+`/berlin.php`
+
+`/wp-content/banners/about.php`
+
+`/wp-includes.bak/html-api/about.php`
+
+`/wp-content/upgrade-temp-backup/about.php`
+
+`/wp-content/blogs.dir/about.php`
+
+`/wp-content/gallery/about.php`
+
+`/wp-admin/css/about.php`
+
+`/.well-known/pki-validation/cloud.php`
+
+`/css/cloud.php`
+
+`/img/cloud.php`
+
+`/wp-admin/css/colors/coffee/cloud.php`
+
+`/wp-admin/images/cloud.php`
+
+`/avaa.php`
+
+`/wp-admin/js/widgets/cloud.php`
+
+`/wp-includes/Requests/Text/admin.php`
+
+`/wp-admin/includes/cloud.php`
+
+`/wp-admin/css/colors/blue/cloud.php`
+
+`/libraries/legacy/updates.php`
+
+`/libraries/phpmailer/updates.php`
+
+`/libraries/vendor/updates.php`
+
+`/wp-p.php7`
+
+`/wp-admin/repeater.php`
+
+`/wp-includes/repeater.php`
+
+`/wp-content/repeater.php`
+
+`/wp-content/plugins/seoo/wsoyanz.php`
+
+`/wp-content/plugins/seoo/wsoyanz1.php`
+
+`/cache-compat.php`
+
+`/ajax-actions.php`
+
+`/wp-admin/ajax-actions.php`
+
+`/wp-consar.php`
+
+`/admin-post.php`
+
+`/wp-admin/maint/maint/ajax-actions.php`
+
+`/about.php7`
+
+`/adminfuns.php7`
+
+`/ebs.php7`
+
+`/ws.php7`
+
+`/alfanew2.php7`
+
+`/alfa-rex2.php7`
+
+`/css/xmrlpc.php?p=`
+
+`/wp-admin/user/xmrlpc.php?p=`
+
+`/img/xmrlpc.php?p=`
+
+`/wp-admin/css/colors/xmrlpc.php?p=`
+
+`/wp-admin/css/colors/blue/xmrlpc.php?p=`
+
+`/wp-admin/xmrlpc.php?p=`
+
+`/403.php`
+
+`/content.php`
+
+`/wp-content/plugins/not/includes/about.php`
+
+`/wp-content/plugins/simple/simple.php`
+
+`/wp-content/themes/aahana/json.php`
+
+`/admin.php`
+
+`/wp-content/about.php`
+
+`/.well-known/about.php`
+
+`/img/about.php`
+
+`/wp-content/languages/about.php`
+
+`/wp-admin/js/about.php`
+
+`/.well-known/pki-validation/about.php`
+
+`/wp-content/themes/about.php`
+
+`/wp-admin/includes/about.php`
+
+`/images/about.php`
+
+`/cgi-bin/about.php`
+
+`/wp-admin/images/about.php`
+
+`/wp-admin/network/cloud.php`
+
+`/cloud.php`
+
+`/cgi-bin/cloud.php`
+
+`/wp-admin/user/cloud.php`
+
+`/images/cloud.php`
+
+`/wp-admin/css/colors/cloud.php`
+
+`/wp-admin/cloud.php`
+
+`/updates.php`
+
+`/alfa-rex.php7`
+
+`/alfanew.php`
+
+`/wp-content/plugins/Cache/Cache.php`
+
+`/wp-admin/js/widgets/about.php7`
+
+`/wsoyanz.php`
+
+`/yanz.php`
+
+`/repeater.php`
+
+`/wp-admin/dropdown.php`
+
+`/wp-admin/css/index.php`
+
+`/dropdown.php`
+
+`/about.php`
+
+`/alfanew.php7`
+
+`/wp-admin/images/index.php`
+
+`/wp-admin/css/colors/index.php`
+
+`/wp-content/themes/pridmag/db.php?u`
+
+`/wp-content/themes/seotheme/mar.php`
+
+`/wp-content/plugins/linkpreview/db.php?u`
+
+`/wp-content/themes/seotheme/db.php?u`
+
+`/wp-content/plugins/seoplugins/db.php?u`
+
+`/wp-content/plugins/seoplugins/mar.php`
+
+`/.well-known/pki-validation/xmrlpc.php?p=`
+
+`/wp-admin/network/xmrlpc.php?p=`
+
+`/xmrlpc.php?p=`
+
+`/cgi-bin/xmrlpc.php?p=`
+
+`/wp-admin/css/colors/coffee/xmrlpc.php?p=`
+
+`/wp-admin/images/xmrlpc.php?p=`
+
+`/images/xmrlpc.php?p=`
+
+`/wp-admin/js/widgets/xmrlpc.php?p=`
+
+`/wp-admin/includes/xmrlpc.php?p=`
+
+`/sftp-config.json`
+
+`/.vscode/sftp.json`
+
+They all seemed incredibly suspicious, especially because I should not have any of these paths.  
+Should I be worried? I am using a Node server on heroku dynos",1,1730204207.0,Heroku,0,1.0,False
+1get5g7,https://www.reddit.com/r/r4rpeyups/comments/1get5g7/18_f4m_uplb_hookup_rn/,18 [F4M] UPLB HOOKUP rn,"Let’s see first if we click.
+
+About me:
+
+• 5’1
+
+• Normal BMI
+
+• Freshie
+
+• Mahilig sa coffee
+
+• Confident w my look
+
+
+About you:
+
+• 5’11 (prefer q talaga matangkad lols)
+
+• must be pogi
+
+• normal BMI
+
+• 18-20
+
+• not a creep
+
+• has car/motor para we can stroll yeyy
+
+hmu w an intro and pic!",1,1730204178.0,r4rpeyups,0,1.0,False
+1get5aa,https://i.redd.it/xjxw0p5atoxd1.jpeg,I guess I didn’t want any more iced coffee this morning. ,,2,1730204163.0,CatsAreAssholes,0,1.0,False
+1get4xv,https://www.reddit.com/r/Fibromyalgia/comments/1get4xv/i_have_the_flu_or_common_cold_every_4_weeks_or_so/,I have the flu or common cold - every 4 weeks or so?!,"Right now I have it again. I have been getting the cold or flue every  4 weeks for a while now.   and from what I know, the symptoms are worse and it takes longer than when other people have it. 
+it also aggrevates my fibro pain.
+I take vitamins, eat healthy, work out,...  
+
+I am a bit fed up right now. 
+so this post is to rant... and maybe ask if you have some special thing to help you in those cases? I take anti inflammatory drugs (e.g. aspirin), nose spray, lozenges for throat pain, chicken soup, balm to put on skin, coffee, pro biotics, vitamins, minerals, colostrum powder, ... 
+
+
+
+",1,1730204129.0,Fibromyalgia,1,1.0,False
+1get3tk,https://www.reddit.com/r/diabetes/comments/1get3tk/lost_weight_glucose_changes/,Lost Weight Glucose Changes,"So 120 pounds down with more to go. I feel great and don't hate the mirror anymore. :) I am noticing a change in my daily numbers the past couple of weeks. I still have the dawn effect, and my overnight numbers could be a bit better. My days are going like this now. 
+
+Overnight I am mostly just above 100 or a bit below until I start to wake up around 4am. Really depends if I eat my after dinner almonds or cashews. I'm addicted.
+
+Morning dawn effect hits me pretty quickly to about 120 to maybe 130 after morning coffee with half and half. I only hit it for minutes and it settles down to 110 to less than 120 very quickly.
+
+By mid-morning or noon I am below 100, but the change now is I get into the 80's to high 70's until I eat dinner. That's new for me. Getting into the 80's and 70's 
+
+Most the time if I eat something that pushes me to 140 or 150 (not very often unless I'm testing a food to see what it does to me) I hit it only for minutes and then drop below120.
+
+I see an endo for the first time tomorrow and today I seem my regular doc about my weight loss and will get an  in office A1c test. Hoping I'm still at 5.5.
+
+Back to the 80's. When my glucose drops I get anxiety just seeing it drop. What number do you decide it's time to correct without waiting? ",1,1730204025.0,diabetes,0,1.0,False
+1get2ox,https://www.reddit.com/r/motorcycles/comments/1get2ox/commuting_triumph_400x_vs_honda_nx500/,Commuting: Triumph 400x vs. Honda nx500,"Hello, I am M. 183cm tall, and I would like to get a bike for intra-urban rides (work-home-coffee, etc.)— by car, the traffic is a pain.
+
+What would be the best between these 2 models?
+
+Thanks a lot!",1,1730203925.0,motorcycles,0,1.0,False
+1get2mn,https://www.reddit.com/r/yorkshire/comments/1get2mn/short_solo_break_in_robin_hoods_bay_and_york/,Short solo break in Robin Hoods Bay and York,"Hello! I'm British but Ive been based overseas for almost 20 years. When I'm in the UK I love old man pubs, walks, charity shops, cafes, local food etc.
+
+I've booked a short break next month: one night in Boggle Hole and one night in York. All using public transport. This is my rough plan:
+
+Day 1: am train to Scarborough. Anything to see or do there? I'll want a coffee at least. Bus to Robin Hoods Bay, mooch around there. Are there supermarkets there or should I stock up in Scarborough? (Staying in a hostel with a kitchen plus I want packed lunch things/snacks)
+
+Day 2: coastal walk from boggle Hole to Whitby. Ive been to Whitby before and will be perfectly happy pottering around the shops and maybe having lunch at the magpie. Is there anywhere I could leave my bag so I don't have to carry it round all day?
+
+Coastliner bus to York. I know it takes ages and I don't really mind.
+
+Stay in York that evening, find a nice pub to spend some time at.
+
+Day 3: nothing is fixed but I have a train home in the evening from Harrogate, so I'll need to get there (is bus or train best?) I've been to York before but it was during the pandemic so almost everything was closed. Id like to go to the railway museum and the tap pub in the station.
+
+Open to all and any suggestions! Really looking forward to it. ",2,1730203919.0,yorkshire,0,1.0,False
+1get2jq,https://www.reddit.com/gallery/1get2jq,Day #5 and #6 of drawing AB characters: Eject & Shifty!,"To make up for not uploading yesterday (school started up for a day), I'm uploading 2 requests at once!
+
+Eject requested by u/rome0379_
+Shifty requestes by u/Shftys1",1,1730203912.0,AnimaticBattle,0,1.0,False
+1get1r2,https://i.redd.it/mteva4g9soxd1.jpeg,Oh how the mighty have fallen. (Still bought it though),,1,1730203836.0,PardonMyTake,1,1.0,False
+1get1hn,https://www.reddit.com/r/ourvadodara/comments/1get1hn/uncharted_territory_seeking_fellow_adventurers/,Uncharted Territory: Seeking Fellow Adventurers!,"New to Vadodara! 22-year-old seeking friendly locals for coffee, adventures, and laughter. Foodies, music lovers, and outdoor enthusiasts welcome! Let's explore this beautiful city together.",1,1730203814.0,ourvadodara,0,1.0,False
+1get100,https://www.wrylettuce.de/2024/10/looking-to-cut-back-on-caffeine-here.html,Looking to Cut Back on Caffeine? Here Are 5 Ways to Survive the “I-Need-Coffee” Blues,,1,1730203774.0,InterestingQuickReads,0,1.0,False
+1get0jt,https://i.redd.it/cqw3bo60soxd1.jpeg,Exciting coffee day,"My new zp6 arrived, just in time to brew this beautiful geisha from taith, incredibly juicy cup with the lychee coming through the most. And this was the first brew so it will be even better when it’s dialled in !",3,1730203730.0,pourover,0,1.0,False
+1get0ep,https://www.reddit.com/gallery/1get0ep,The people who complain about women beating men in fights in video games and try to argue for how much melanin a mermaid can have are accusing the woke side of not being able to accept fiction.,,6,1730203717.0,saltierthankrayt,2,1.0,False
+1geszk3,https://www.reddit.com/r/AllTemuCodes/comments/1geszk3/sandy_claws_has_come_to_town/,Sandy Claws has come to town,"🏝️ 🦞 — Sandy Claws has come to your town and will leave town at 7:30 cst. 
+
+I hardly can ever get people to click my stuff so… wtf ever. So I will be the person I wish others would be. 
+
+Random acts of kindness - pretty sure I have all of my clicks available. Post 1 thing you would like a click in. Be smart with what you pick because once I’m out of clicks for that… I’m out 🤷🏼‍♀️. If you post a bunch of codes - I’m skipping you. I’m doing YOU the favor. Not vice versa. So PICK ONE.
+
+I will try to update what I’m out of - 
+*1 Fishland Click Used*
+
+If you see Niwornever110 - you got 🌞 💋 
+
+Should still have others. Chop chop - 7:30 CST and I go back in the ocean. 
+
+If people so choose - my links below. Do or do not, but there is no try. I’m tired of getting tricked so I am just doing and others can do as they wish. Be greedy. Be generous. Be… you. 
+
+Coffee Tree: cof1930703 
+Farmland: 384728920 
+Fishland: 384855962 
+Coffee Tree FERTILIZER: cof1068478 (***Sandy Claws says my my what a good boy/girl you must be)",1,1730203636.0,AllTemuCodes,0,1.0,False
+1gesz5k,https://www.reddit.com/r/germany/comments/1gesz5k/digitalisation_and_increment_in_tipping_culture/,Digitalisation and increment in tipping culture,"I have noticed something lately. Most restaurants/cafes opting for digital payment as opposed to physical cash always include a tipping option. It’s so awkward when trying to pay for a cup of coffee with my card, I have to go through the whole ‘no tip’ option before actually paying 🫣🫠
+",1,1730203602.0,germany,2,1.0,False
+1gesy7a,https://themockupsisters.etsy.com/listing/1399202011,"16oz Libbey Mockup, Frosted Glass Tumbler Mock Up, UV DTF Mockup, Coffee Cup Mock Ups, Beer Glass Can Mockup, 16 Oz Libbey Glass Template",,1,1730203512.0,TheMockupSisters,0,1.0,False
+1gesxwx,https://www.reddit.com/r/vegan/comments/1gesxwx/milk_alternatives/,Milk alternatives,"What is the best all-round milk altrernative?
+
+I was buying soya and oat drinks to cater for different uses, one for cereal and drinking, one for tea and coffee. I decided on just the one, soya, which is good for drinking and cereal. However, it does not seem so good for tea or coffee, it's sort of adequate. Is there one (almond, hazelnut, etc) that can be used all round? What are your thoughts?",2,1730203485.0,vegan,2,1.0,False
+1gesxoy,https://www.reddit.com/r/CleaningTips/comments/1gesxoy/i_cant_get_rid_of_mold_smell_from_my_freezer/,I can't get rid of mold smell from my freezer. ,"Hi everyone. A bit of background on what happened and what I have tried so far. 
+
+I unplugged my fridge/freezer (single wide, freezer on top) before going away, and the door wasn't properly propped open, so the dishtowel I had inside to catch the moisture molded in the freezer portion. 
+
+I have since cleaned the mold out, I have used vinegar, baking soda, a bleach solution (1 tbsp bleach to 1 gallon of water), coffee grounds inside the fridge, charcoal, newspaper. 
+
+The smell won't go away, I do not know what to try. 
+
+Any help greatly appreciated.  ",1,1730203463.0,CleaningTips,0,1.0,False
+1gesx5o,https://www.reddit.com/r/sixwordstories/comments/1gesx5o/make_time_to_smell_the_coffee/,Make time to smell the coffee.,,1,1730203413.0,sixwordstories,0,1.0,False
+1geswuh,https://www.reddit.com/r/vadodara/comments/1geswuh/new_to_vadodara_22yearold_seeking_friendly_locals/,"New to Vadodara! 22-year-old seeking friendly locals for coffee, adventures, and laughter. Foodies, music lovers, and outdoor enthusiasts welcome! Let's explore this beautiful city together. 💫",,2,1730203388.0,vadodara,0,1.0,False
+1gesw6x,https://i.redd.it/xd65vzfrpoxd1.png,The women-led DFW Urbanistas is hosting their Transit Together social this Saturday. Leaves from Akard Station at 10:20am.,,4,1730203331.0,dart,1,1.0,False
+1gesvkg,https://www.reddit.com/r/CoffeePH/comments/1gesvkg/coffee_shop_recos/,COFFEE SHOP RECOS ,"pls suggest coffee shops AROUND THE METRO na ig worthy and at the same time ay masarap ang food at drinks!!! pls wag naman yung maganda nga pero trash naman yung lasa ng food huhu. if u can rate pls do, thank u!! 😊❤️",1,1730203276.0,CoffeePH,0,1.0,False
+1gesvd8,https://i.redd.it/g1c1uzclqoxd1.jpeg,"I'm not in the mood to go back to work today, I just want to stay home and paint all day with hot coffees, jazz music, cute lacey pjs, and fresh fruit to snack on. And of course, money from subs while I enjoy my adorable cozy life. ",,1,1730203261.0,findommes,0,1.0,False
+1gesv4x,https://www.reddit.com/r/PHR4Rhookups/comments/1gesv4x/28_m4f_coffee_cuddles/,28 [M4F] Coffee & Cuddles,"This can be a one time thing or something constant if we vibe. So shoot your shot and let's go
+
+Me: 6'0"", Normal BMI, Working Professional, 7/10 in terms of looks depends on your taste, can hold your hand and ready to listen to your worries
+
+You: Confident, Clean and Discreet, Respect Boundaries, Knows what she wants",1,1730203243.0,PHR4Rhookups,0,1.0,False
+1gestpt,https://www.reddit.com/r/Semenretention/comments/1gestpt/any_of_you_guys_take_supplements_that_complement/,Any of you guys take supplements that complement your SR?,"Just cultivating a discussion thread here.   
+  
+I'm curious to know if you guys might be experimenting with supplements.   
+  
+This is my stack:  
+1. Creatine  
+2. Shilajit   
+3. Ashwagandha only 3 times per week.  
+4. Narutal mushrooms: chaga sclerotia, lion's mane, cordyceps  
+5. Magnesium  
+6. Protein powder (post workout only)  
+7. Cocoa powder, I'll mix it with my coffee.   
+8. Fedogia Agrestis + Tongkat Ali  
+9. Curcumin
+
+Overall I feel quite energetic, strong and balanced. My aim is for holistic performance, being mental and physical mostly. 
+
+I'll cycle off of these every two weeks for one week off. I grew tons of muscle in about 2 months.",1,1730203119.0,Semenretention,1,1.0,False
+1gesth9,https://i.redd.it/2rs5wh04qoxd1.jpeg,My setup ,"Started my venture into coffee just over a year ago. Moved this summer to a bigger place, thus more counter space for my setup 😌 came from years of nespresso and even before that Senseo (dutchies iykyk 🥲). 
+
+Currently saving for a Lelit Bianca v3, but for now the Sage is making great shots alongside the Niche ✨ (the grinder was my latest addition, hurt the wallet but boy oh boy, the grind is so much more consistent compared to the built in on the Sage). ",2,1730203094.0,espresso,0,0.75,False
+1gesso6,https://i.redd.it/xd65vzfrpoxd1.png,Want to learn how to take public transit in Dallas and make some new friends? The women-led DFW Urbanistas is hosting their Transit Together social this Saturday. Leaves from Akard Station at 10:20am.,,4,1730203015.0,Dallas,1,1.0,False
+1gesrpz,https://www.reddit.com/r/ketoendurance/comments/1gesrpz/cycling_and_nuts/,cycling and nuts,"so i have been doing some long bicycle rides recently. going 16ish hours fasted and on black coffee, then eating around 200g of nuts and seeds split in two portions. they add up to 20-30g of net carbs. eating my last portion around 3h before the end of my ride. 
+
+will i completely burn those carbs off and be able to feast at home? below 20g net of course. or do i have to take those nuts into account?",1,1730202919.0,ketoendurance,0,1.0,False
+1gesrpd,https://www.reddit.com/r/gaggiaclassic/comments/1gesrpd/decision_time_pidgaggiuino_or/,Decision time PID/GAGGIUINO or...,"Just some advice needed really as it's been racking my brain for weeks and I don't want to spend money needlessly. I've done the 9 bar spring mod, bottomless portafilter and an ims basket. I mainly do milk based coffee and don't need to do all that latte art as it looks pretty but tastes the same so I don't bother. The question is, will any of the mods (Shades of coffee PID kit/Gaggiuino) improve what I'm already making that much that I'll be glad I did it? I've tried temp surfing and don't find any difference in taste. I've tried the odd espresso but don't prefer it as much as the milk based although I do absolutely love the odd affogato.",1,1730202917.0,gaggiaclassic,2,1.0,False
+1gesrdy,https://www.reddit.com/r/distractible/comments/1gesrdy/ffs_im_old_learning/,FFS. I'm old & learning.,"I'm 38 & as I'm eating pie for breakfast, like the grown ass adult i am, & drinking coffee I learned that you can buy stamps at Walgreens. 
+I thought you could only buy stamps at the post office or if you had that stamps.com thing. 
+
+That's kinda cool you can buy stamps at not a post office. I'm still going to go to the PO bc I am a creature of habit & I dislike my local Walgreens. 
+
+Also, doctor offices still use fax machines.
+I learned this about a few months ago. I was sitting in the room waiting for my doctor. The room was near the nurses station. I heard 1998 AOL dial up. Wtf? This is an office that I can text & all that shit. 
+
+Doctor comes in, I saw nothing about it. As I'm walking past the nurses station, I stopped & said ""Do you guys still have dial up?"" The doctor looks at me with a half ass smile & half ass ""maybe we should go back & continue our medical conversation"" look.  The majority of the people behind the desk are looking at the doctor & the youngest one said 
+""No. It was a fax. We still have to fax some things."" 
+
+",11,1730202890.0,distractible,4,0.92,False
+1gesqtd,https://www.reddit.com/r/homeassistant/comments/1gesqtd/idea_for_bounty_system_for_new_features/,Idea for Bounty system for new features coding/creation/etc.,"I don't know if this is the correct place for this, but I have an idea, that might be of interest both to regular maintainers of the Home Assistant project, and us - simple nerds that use but can't contribute code-wise, but want to support:
+
+**What do everyone think about a bounty-based request system for features?** 
+
+I'd love to support a vector of the project I am interested in being developed, and am sure there are plenty others interested, that will chime in with coffee or lunch money. And when there are tens (or hundreds) of supporters/requesters for a feature, this will stack up pretty quick, giving incentive of open-source coders to contribute, and take (or share, if multiple) the bounty... 
+
+Someone smarter ( and more well-versed in coding/pulling/merging/forking, whatever it is called :D ) than me can iron out the details who gets the bounty and in what percentage if multiple contributers, but I guess it's feasible. 
+
+I am thinking of Home Assistant platform of course, but this could be adapted to any open source project with large following I guess. 
+
+I thought about starting it up as a platform, and paying someone to make a platform out of this, but my expertise is outside of code management, so I'd like to donate the idea to the badass open source coders out there, and the Home Assistant team that made ***the best piece of home automation software, hands down***. ",2,1730202835.0,homeassistant,0,1.0,False
+1gesqa5,https://www.reddit.com/r/Recommend_A_Book/comments/1gesqa5/something_to_read_in_the_morning/,Something to Read in the Morning,"As in, something motivational, but not religious. I’m open to a variety of topics. Just looking for something to engage my brain as I drink my coffee. ",1,1730202785.0,Recommend_A_Book,0,1.0,False
+1gesplw,https://www.reddit.com/gallery/1gesplw,Our Coffee Setup ☕,,6,1730202726.0,espresso,3,1.0,False
+1gesoph,https://www.reddit.com/r/IndianHaircare/comments/1gesoph/hair_care_routines/,Hair care routines ,"Listen, you, yea....don't go for medicines or treatments...
+
+Those r costly af.. believe me...instead . If you're facing hair loss, at the earliest..try this
+
+warm coconut oil massage 
+
+Castor oil on the scalp and affected areas in the morning before u go for ur routine (main aim is to let the oil be on your scalp for longer hours)
+
+
+Yoga and yoga and yogas..yes, yogas r mandatory..
+
+Cut out teas and coffees and replace em with water...
+
+No sugar..NO SUGAR.
+
+More protein rich foods..as in eggs, daliyas, lentils and flax seed...
+
+Amla juice everyday
+
+Upside down exercise....lie towards edge of bed and held ur face upside down to get more blood in the scalp..
+
+
+Neck exercise...slowly rotate ur necks so as to regulate the flow..
+
+
+Do cardio..like, for an hour atleast....
+
+",1,1730202639.0,IndianHaircare,0,1.0,False
+1gesoc1,https://i.redd.it/9vmekgp9ooxd1.jpeg,"Amsterdam from a coffee shop, Katy Simply, Pieces and peace, 500 pieces ",,4,1730202604.0,Jigsawpuzzles,0,1.0,False
+1gesobt,https://i.redd.it/j2y3zjmnooxd1.jpeg,Amex please fix this,"Needed to upload $2.90 to get me a cup of coffee, two declined but the 3rd one went through. ",0,1730202604.0,amex,1,0.36,False
+1geso46,https://www.reddit.com/r/Parenting/comments/1geso46/anyone_else_have_that_magic_combo_of_one_super/,Anyone else have that magic combo of one super slow walker and one non-stop talker?,"I’ve been walking home from coffee with grandma for a fortnight. 
+
+I know every leaf by memory because my youngest feels like they deserve his uninterrupted attention for at least six minutes each and my oldest has discussed the color pattern at length and “btw what’s your favorite color and did you know mine is red (yes I remember from when you told me six times already) and if you HAD TO CHOOSE between purple and pink why pink because no purple is better because”
+
+Did I mention it’s raining. 
+
+I’ve celebrated a birthday on these streets. I’ve warned my husband we won’t be home in time for Christmas. 
+
+Oh good here’s a friend. Let’s discuss the sweater she was wearing that one time Jimmy wasn’t in school because he was sick and for the love of God we don’t need to stop walking again my kingdom for your movement.",2,1730202585.0,Parenting,1,1.0,False
+1geso36,https://i.redd.it/epf2jwljooxd1.jpeg,Help! Spilled coffee all along my cubicle wall,"Hello! In true Monday fashion, I spilled my coffee all along my cubicle wall. I brought in stain remover and let it sit for 10 minutes, then scrubbed but it looks no different. How can I make this less noticeable?",2,1730202581.0,CleaningTips,4,1.0,False
+1gesnwa,https://www.reddit.com/r/PhR4Friends/comments/1gesnwa/27_m4f_coffee_pampanga/,27 [M4F] Coffee Pampanga,"Need lang magdestress and looking for great company. Details can be discussed sa chats. Hopefully masaya din kausap and kasamaaaa.
+
+5'9 chinito, business owner, 2 dogs mabait naman pero yung amo nangangagat, has car.  San fernando pampanga",1,1730202561.0,PhR4Friends,0,1.0,False
+1gesmo4,https://www.reddit.com/r/salesforce/comments/1gesmo4/very_weird_network_requests_on_dyno_should_i_be/,Very weird network requests on Dyno. Should I be worried?,"In my dyno log, I noticed these requests that were made last night, all around the same time:
+
+(these are regex-ed, the logs were too long to post them)
+
+`/berlin.php`
+
+`/wp-content/banners/about.php`
+
+`/wp-includes.bak/html-api/about.php`
+
+`/wp-content/upgrade-temp-backup/about.php`
+
+`/wp-content/blogs.dir/about.php`
+
+`/wp-content/gallery/about.php`
+
+`/wp-admin/css/about.php`
+
+`/.well-known/pki-validation/cloud.php`
+
+`/css/cloud.php`
+
+`/img/cloud.php`
+
+`/wp-admin/css/colors/coffee/cloud.php`
+
+`/wp-admin/images/cloud.php`
+
+`/avaa.php`
+
+`/wp-admin/js/widgets/cloud.php`
+
+`/wp-includes/Requests/Text/admin.php`
+
+`/wp-admin/includes/cloud.php`
+
+`/wp-admin/css/colors/blue/cloud.php`
+
+`/libraries/legacy/updates.php`
+
+`/libraries/phpmailer/updates.php`
+
+`/libraries/vendor/updates.php`
+
+`/wp-p.php7`
+
+`/wp-admin/repeater.php`
+
+`/wp-includes/repeater.php`
+
+`/wp-content/repeater.php`
+
+`/wp-content/plugins/seoo/wsoyanz.php`
+
+`/wp-content/plugins/seoo/wsoyanz1.php`
+
+`/cache-compat.php`
+
+`/ajax-actions.php`
+
+`/wp-admin/ajax-actions.php`
+
+`/wp-consar.php`
+
+`/admin-post.php`
+
+`/wp-admin/maint/maint/ajax-actions.php`
+
+`/about.php7`
+
+`/adminfuns.php7`
+
+`/ebs.php7`
+
+`/ws.php7`
+
+`/alfanew2.php7`
+
+`/alfa-rex2.php7`
+
+`/css/xmrlpc.php?p=`
+
+`/wp-admin/user/xmrlpc.php?p=`
+
+`/img/xmrlpc.php?p=`
+
+`/wp-admin/css/colors/xmrlpc.php?p=`
+
+`/wp-admin/css/colors/blue/xmrlpc.php?p=`
+
+`/wp-admin/xmrlpc.php?p=`
+
+`/403.php`
+
+`/content.php`
+
+`/wp-content/plugins/not/includes/about.php`
+
+`/wp-content/plugins/simple/simple.php`
+
+`/wp-content/themes/aahana/json.php`
+
+`/admin.php`
+
+`/wp-content/about.php`
+
+`/.well-known/about.php`
+
+`/img/about.php`
+
+`/wp-content/languages/about.php`
+
+`/wp-admin/js/about.php`
+
+`/.well-known/pki-validation/about.php`
+
+`/wp-content/themes/about.php`
+
+`/wp-admin/includes/about.php`
+
+`/images/about.php`
+
+`/cgi-bin/about.php`
+
+`/wp-admin/images/about.php`
+
+`/wp-admin/network/cloud.php`
+
+`/cloud.php`
+
+`/cgi-bin/cloud.php`
+
+`/wp-admin/user/cloud.php`
+
+`/images/cloud.php`
+
+`/wp-admin/css/colors/cloud.php`
+
+`/wp-admin/cloud.php`
+
+`/updates.php`
+
+`/alfa-rex.php7`
+
+`/alfanew.php`
+
+`/wp-content/plugins/Cache/Cache.php`
+
+`/wp-admin/js/widgets/about.php7`
+
+`/wsoyanz.php`
+
+`/yanz.php`
+
+`/repeater.php`
+
+`/wp-admin/dropdown.php`
+
+`/wp-admin/css/index.php`
+
+`/dropdown.php`
+
+`/about.php`
+
+`/alfanew.php7`
+
+`/wp-admin/images/index.php`
+
+`/wp-admin/css/colors/index.php`
+
+`/wp-content/themes/pridmag/db.php?u`
+
+`/wp-content/themes/seotheme/mar.php`
+
+`/wp-content/plugins/linkpreview/db.php?u`
+
+`/wp-content/themes/seotheme/db.php?u`
+
+`/wp-content/plugins/seoplugins/db.php?u`
+
+`/wp-content/plugins/seoplugins/mar.php`
+
+`/.well-known/pki-validation/xmrlpc.php?p=`
+
+`/wp-admin/network/xmrlpc.php?p=`
+
+`/xmrlpc.php?p=`
+
+`/cgi-bin/xmrlpc.php?p=`
+
+`/wp-admin/css/colors/coffee/xmrlpc.php?p=`
+
+`/wp-admin/images/xmrlpc.php?p=`
+
+`/images/xmrlpc.php?p=`
+
+`/wp-admin/js/widgets/xmrlpc.php?p=`
+
+`/wp-admin/includes/xmrlpc.php?p=`
+
+`/sftp-config.json`
+
+`/.vscode/sftp.json`
+
+  
+They all seemed incredibly suspicious, especially because I should not have any of these paths.  
+Should I be worried? I am using a Node server on heroku dynos",1,1730202447.0,salesforce,1,1.0,False
+1gesmk7,https://www.reddit.com/r/PwC/comments/1gesmk7/why_pwc_is_laying_off_while_everyone_is_hiring/,Why PwC is laying off while everyone is hiring and what happens next,"As someone who is deep inside the machine I'm going to tell you the truth whether you like it or not.
+
+1. 33% of the problem is the project freeze at our clients.
+2. 33% of the problem is due to the Indian co's stealing our biz.
+3. 33% of the problem is the mid-tier shitco's outcompeting us.
+
+And all of this comes down to our overhead which is WAAAAAY too high. Its that simple. We just don't have the edge any more from purely at $$$ perspective. If you've been in any project you'll know almost 80% of people sit around on their ass most o the time drinking coffee and browsing Reddit/Insta. The rest of the time its on some academy shit or other latest cause like DEI. The Indian firms and the shitco's dont have this overhead problem and grind their people to generate results.
+
+Early summer I was told by a partner after a few drinks that the end-game for this is streamline it and strip it down until a point where we are lean and mean - and then we merge with an Indian co. Its the only route out of this mess. Yes, thats the end point - a merger with one of the Indian co's. Likely we'll keep the PwC brand, but underneath the surface.
+
+Yes, we'll all be Indians now.",0,1730202437.0,PwC,3,0.5,False
+1geslhj,https://www.reddit.com/r/cafe/comments/1geslhj/how_many_grams_we_use_grams_system_in_my_country/,How many grams (we use grams system in my country) do you use to make coffee in your French press?,,1,1730202331.0,cafe,1,1.0,False
+1gesl2b,https://www.reddit.com/r/PHR4RCaviteEtivac/comments/1gesl2b/27_m4f_alam_ko_stress_kana_tara_coffee_or_night/,27 M4F Alam ko stress kana! Tara coffee? Or night ride ☺️🛵,"About me : 27 bearded, tattoo, cute and working professional.
+
+About you : basta cute, mabait , and conversationalist para di tayo mabored hahaha
+
+Looking for kasama kahit saan, SFW or NSFW G lang",2,1730202290.0,PHR4RCaviteEtivac,0,1.0,False
+1gesj0u,https://i.redd.it/ko6ix6r3noxd1.jpeg,Free flow drink + RM5.90++,"Nice. Lots of varieties. Different types of hot Tea (brew), cold tea/fruit tea,  herbal tea, soft drinks, sarsi, camerel latte, ice coffee, pink lemonade, hot coffee etc..
+
+A bowl of noodles add on RM5.90 for free flow drinks. Bowl of noodles starting RM14.90++",13,1730202082.0,MalaysianFood,4,0.88,False
+1gesicl,https://i.redd.it/v7nzeqswmoxd1.jpeg,Housemate left his half-drank cup of coffee in the fridge and forgot about it for 2 weeks.,We are on semester break and I went back to the dormitory to get some stuff when I found this in the fridge. It's been there for at least 2 weeks.,1,1730202022.0,mildlyinfuriating,10,0.54,False
+1geshpa,https://www.reddit.com/r/ausadhd/comments/1geshpa/vyvanse_60mg_dexy_10mg_not_working/,Vyvanse 60mg + dexy 10mg not working? ,"What is wrong with me! I’ve been on this medication dose for 1.5 months and I barely feel the difference from when I first started my medication journey. Although I am able to sleep earlier now than when I wasn’t on it, I’d usually have like coffee before bed. 
+
+I want to feel the clarity and have the organised thoughts just like what other people feel and experience when they get the right dose for their medications. I feel like I actually got worse though with my procrastination, time blindness, with my rejection sensitivity dysphoria, brain fogs, Forgetfulness and just glitching cuz I’m unable to decide what to prioritise! 
+
+What’s next after Vyvanse? Im actually scared cuz what if my psychiatrist just like increase my dose to 70 mg for 2 months and still get no effects. I feel so crap cuz I’m gaslighting my brain and just anxious saying to myself what if I’m just a fake and is just a stupid lazy person who can’t even do a simple task like laundry or get up? It’s so frustrating!!! I’ve been exercising  ( helps increase the effectiveness of Vyvanse and ups your Dopamine) and not taking my vitamin C (because I hear it decreases the effectiveness of Vyvanse ) Like I am trying… you guys got any Advice pls? ",2,1730201959.0,ausadhd,2,1.0,False
+1geshd0,https://www.reddit.com/r/intermittentfasting/comments/1geshd0/newish_to_fasting_70_days_in_214_kg_47lbs_down/,New(ish) to fasting - 70 days in 21.4 KG (47lbs) down ,"I started fasting 70 days ago today. I'm 46M and in the UK, I've always been a big unit, fairly active as I have played rugby since I was 15 (with a couple of breaks) as a front row forward, so we are expected to be larger than average.
+
+As I have become older and become a father, I thought it was time to shed the pounds. I have tried other things in the past, but inevitably the weight returns.
+
+Before covid, I was playing sports every week and had got down to 114 kg (252 lbs), then lockdown hit and working in I.T. I was getting up early and getting my arse on the couch by 07:30 to help with the hundreds of remote workers I would have calling me every day ""yes, restart your router and computer, no, I can see you last restarted a month ago, oh, what's that? The restart fixed it, OK, bye"" and not finishing until 18:00. it didn't help there was a great supermarket between my house and my son's nursery, so returning home after drop off with fresh doughnuts and sitting down for the day filled me out again.
+
+Being a dad and snacking was a massive part of the problem, it's the little things that you lie to yourself about and don't count - kid doesn't finish their Nutella toast - dad snack, making them lunch - cut an extra slice of ham or cheese for dad, kid decides to be picky and not eat the delicious dinner - BONUS!!
+
+I finished couch to 5 k at the beginning of the year, that shed some weight, but my hips started to hurt, so I had to rest from that for a couple of months.
+
+At my heaviest this year, I was 145KG (320lbs)
+
+70 days ago, I weighed in at 140KG. I never used to have weekday breakfast, and working in my job it is not uncommon to work through lunch to get things done, so I went straight in to OMAD.
+
+My last blow out on the Sunday night was a stuffed crust pizza with garlic bread, and a big helping of wings. Now my single evening meal consists of a large portion of air fried veg filling 2/3rds of the plate, and a big lump of protein. For the veg I go for a big handful of mushrooms and a big handful of cherry tomatoes, then dice half a red onion, half a courgette, half a bell pepper and two carrots. Spray them with some fry light, and a load of chilli flakes and herbs, and they are delicious and just over 100 calories. The protein which I cycle between red meat, white meat and oily fish is on a bed of spinach, so I'm getting the macro nutrients I need alongside my cod liver oil and multivitamin supplements.
+
+I don't miss eating breakfast or lunch, i no longer get hungry at midday. I've switched from milky coffee to black, started running again, and the pain is gone, have more energy in general, and I feel a lot sharper mentally, no more sugar cravings and my self-control around food is much imroved.
+
+as of this morning I am 21.4kg down, only another 28.6 kg to my target of 90!",6,1730201927.0,intermittentfasting,0,1.0,False
+1gesha1,https://www.reddit.com/r/PHR4Rhookups/comments/1gesha1/25_f4m_taraa_tonight/,"25 [F4M] taraa, tonight","Anyone who doesn't have a busy schedule tonight? I'm on leave from work and I wanna make the most of it. You and me. On a drive. Chat. Coffee. Cuddles+ if it goes well. Lf a good company.
+
+About me:
+- loc makati, single, 5'7, chubby/thicc, decent looking, working pro, well-mannered, respectful, fun to be with, speaks good english/taglish
+
+About you:
+- must be single, 25 to 30 y/o, at least 5'7, chubuff/bear bod, can drive/can hatid sundo, ++if can host, working pro, respectful, fun to be with, speaks good english/taglish
+
+Come with? Let's gooo. Send a decent intro to get a reply, thank you! Looking forward to be with you later 😙",3,1730201920.0,PHR4Rhookups,0,0.71,False
+1gesgh0,https://www.reddit.com/gallery/1gesgh0,"More coffee spam, another one bites the dust",,5,1730201841.0,LeatherClassifieds,1,1.0,False
+1gesfj4,https://www.reddit.com/r/Anemic/comments/1gesfj4/do_i_need_something/,do i need something…? ,"hi, just wanted to ask if anyone has something similar to my experience. 
+
+i’m 27. pregnant with my 2nd child. i found out i have a cervical erosion this pregnancy so i’ve been letting out brown-ish discharge kinda every few days. 
+
+my doctor has cleared me of any infections and have taken a blood test which she told me is not a cause for concern cuz everything is within range. only the RBC and lymphocytes are under the reference range (could it be because i have the cervical erosion?)
+
+now, i’m 22 weeks pregnant and have not regained that ‘energy’ after the first trimester. i’m so sluggish and tired. i try to perk up with coffee but sometimes after i just feel bleh. just tired. 
+
+i’m on prenatals (blackmore), calcium, fish oil and probiotics. i’m not sure if i should add an iron supplement to the mix. 
+
+😫 thanks in advance :( ",1,1730201750.0,Anemic,0,1.0,False
+1gesf6m,https://www.reddit.com/r/temu_old_users/comments/1gesf6m/sandy_claws_is_coming_to_town/,Sandy Claws is coming to town,"🏝️ 🦞 — ***You snooze - you lose. Sandy Claws has left the building and took their bag of clicks with them. Only 1 good little girl/boy amongst us. Congrats on getting your click!!!). Sandy Claws is outtie!!! 👋 👋***
+
+I hardly can ever get people to click my stuff so… wtf ever. So I will be the person I wish others would be. 
+
+Random acts of kindness - pretty sure I have all of my clicks available. Post 1 thing you would like a click in. Be smart with what you pick because once I’m out of clicks for that… I’m out 🤷🏼‍♀️. If you post a bunch of codes - I’m skipping you. I’m doing YOU the favor. Not vice versa. So PICK ONE.
+
+I will try to update what I’m out of - 
+
+If you see Niwornever110 - you got 🌞 💋 
+
+Should still have others. Chop chop - 7:00 CST and I go back in the ocean. 
+
+If people so choose - my links below. Do or do not, but there is no try. I’m tired of getting tricked so I am just doing and others can do as they wish. Be greedy. Be generous. Be… you. 
+
+Coffee Tree: cof1930703 
+Farmland: 384728920 
+Fishland: 384855962 
+Coffee Tree FERTILIZER: cof1068478 (***Sandy Claws says my my what a good boy/girl you must be)",1,1730201715.0,temu_old_users,4,1.0,False
+1gese5f,https://www.reddit.com/r/LoHeidiLita/comments/1gese5f/october_29/,October 29,"7:30am, Heidi from the beautiful but chilly deck of the river ferry.
+
+Yesterday Jammy finalized our Halloween playlist. I should say playlist***s*** because we need one list for the four weekend gigs at the restaurant and a second for the ACS benefit we are doing for Mrs Coleman and Mrs Joseph. 
+
+That will be a celebration for families that are reunifying after sometimes horrific separations. Working from the same set of songs, we will have to accommodate for children of all ages. Some kids there have experienced deep trauma so we have to screen carefully for music that could trigger it. 
+
+At the restaurant we are playing for people who are sipping on their coffee and chomping on bacon. For some we are just entertaining background noise and they can choose at any time to tune in or tune out. 
+
+But at the benefit, we have to entertain and monitor attention. We are talking about games,  audience participation, makeup, and costumes.
+
+So here's our master list. There is no way we can perform them all at each gig. We will have to pick and choose depending on our audience. 
+
+***Master Playlist (but not in the order we will play them)***
+
+*First, the three songs we have a reasonably ready:*
+
+1. Nena: *Das Alte Lied* with our own English lyrics 
+
+2. Michael Jackson: Thriller
+
+3. Ray Parker, Jr: Ghostbusters
+
+*Now the songs we have to learn:*
+
+4. Kay Starr and Billy Butterfield: The Headless Horseman
+
+5. Bobby Pickett: Monster Mash
+
+6. Lambert, Hendricks, and Ross: Halloween Spooks
+
+7. Louis Armstrong with Jimmy Dorsey & His Orchestra: The Skeleton In The Closet
+
+8. Peggy Lee: (Ghost) Riders in the Sky
+
+9. Anita O'Day and the Gene Krupa Orchestra: The Walls Keep Talking
+
+10. Blue Oyster Cult: Don’t Fear The Reaper
+
+11. Traditional: The *(Black)* Cat Came Back
+
+12. Traditional: Have You Seen the Ghost of John?
+
+13. Rockwell: Somebody’s Watching Me
+
+14. Duran Duran: Hungry Like The Wolf
+
+15. Sam the Sham & The Pharaohs: Wooly Bully
+
+16. Nina Simone: I Put A Spell On You
+
+17. The Guess Who: Clap for the Wolfman
+
+18. Wilson Pickett: In The Midnight Hour
+
+19. Stevie Wonder: Superstition
+
+20. Carol Burnett Halloween version: I Enjoy Being a Girl, ([here](https://youtu.be/kbNcueR00iU?si=RfrsIOigYNkyuukC))
+
+21. Taylor Swift: Haunted
+
+
+Now comes the impossible task of learning them all in just four days! How are we going to ever do that? 
+
+We want to thank Mr. Maniotis, our jazz band music teacher, who managed to convince the school to let us rehearse every day until 7:00 p.m. and also excused us from concert band practice.
+
+Thanks to Coach. She had at first been furious at Cardi and me for missing Community Service last night in order to rehearse. But she sent such a nice email last night. She apologized and said she hadn't known about the gig for the ACS kids. “It is far more important than Friday's game,” she wrote. She excused us from team practices this week! Also, she is treating us to DoorDash pizza tonight!
+
+Special thanks to my friend Jake who has an encyclopedic knowledge of popular music and worked very hard to give us many suggestions.
+
+Cardi, Lolita, and I got up extra early this morning to send laser Daimoku from three different places for the success of the Jammy gigs and the happiness and healing of the ACS families.
+",1,1730201610.0,LoHeidiLita,0,1.0,False
+1gesbje,https://i.redd.it/5ju7gxo1loxd1.png,Prisoner Coffee (a mood),,12,1730201407.0,slaytheprincess,0,1.0,False
+1gesbid,https://www.reddit.com/r/HilariousHaven/comments/1gesbid/if_2024_had_a_slogan_based_on_your_life_so_far/,"If 2024 Had a Slogan Based on Your Life So Far, What Would It Be?",Think of it like a movie tagline! Mine would probably be: “2024: Powered by Coffee and Mild Panic.” Share yours and make us laugh!,28,1730201405.0,HilariousHaven,0,1.0,False
+1gesb5r,https://www.reddit.com/r/taxPH/comments/1gesb5r/sikat_na_companies_na_hindi_nagbibigay_ng_sales/,Sikat na companies na hindi nagbibigay ng Sales Invoice outright. ,"Just wanna start a thread as guide for us here. When i represent out company sa meetings, or even hosting them outside, ciempre nagpapareimburse ako ng gastos. Nagulat lang ako when the receipt of the biggest coffee chain in the country issues only ""Invoice,"" and not Sales Invoice. Kailangan pang mag request for them to issue it. 
+
+Buti nalang i figured it the same day so it was easy for me to request. I remember this same store automatically gave OR before. Ano kayang nangyari at biglang pahirapan ang pagbibigay. 
+
+Any other companies doing this? ",0,1730201379.0,taxPH,2,0.5,False
+1gesan7,https://www.reddit.com/r/PHR4Rhookups/comments/1gesan7/23_m4f_looking_for_fubufwb_to_explore_with/,23 [M4F] Looking for fubu/fwb to explore with ,"Heyy. Life is very stressful recently. From acads to family, And I finally want to enter my fun era haha. Gaya nga ng title ng post I'm a virgin and want to finally do the deed. No preference as long as age 18 and up. We can hang and have some coffee to vibe check.
+
+I'm around North QC/Commonwealth/North Caloocan/Deparo pala. So if near sa area less hassle. Pero willing to travel naman if ever.
+
+This can be no strings attached one time thing or constant. Depends if we vibe, pero hopefully long term na din na ka fwb
+
+Me: 5'5, Saks lang looks and tools haha. Normal BMI, Mabango, Clean and is a student.
+
+You: Mabango, Decent, Clean, I'm not choosy naman. Pm lang if interested",0,1730201339.0,PHR4Rhookups,0,0.5,False
+1gesalp,https://www.reddit.com/r/newborns/comments/1gesalp/news_considered_screen_time/,News- considered Screen time?,I usually put the news on a drink my cup of coffee soon after my early riser 4 month old gets up.. Is this considered Screen time? ,0,1730201336.0,newborns,3,0.5,False
+1gesagr,https://www.reddit.com/r/dirtypr4r/comments/1gesagr/30_m4f_looking_for_a_constant_fwb/,30 [M4F] Looking for a constant FWB ,"Hello! Looking for a constant FWB here. I’m really easy to get along with, walang arte sa katawan and could also be a person you can share anything with. 
+
+About me:
+From QC
+5’8”
+Has a high sex drive
+Kinky
+Mabango 
+Decent looks. we can swap pic sa tg
+Moreno
+Working professional
+Loves music, coffee, games
+
+Looking forward with chatting with you!",1,1730201327.0,dirtypr4r,0,1.0,False
+1gesa4w,https://www.reddit.com/r/TemuThings/comments/1gesa4w/need_fish_have_multiple_hattrick_5gifts_coffee/,"Need Fish 🐟 have multiple Hattrick, 5Gifts , coffee and Redeem. No existing fish or farm. Write name you used for confirmation and code and I will do them right away . Ty",Fish 🐠 386547052 name CR ,1,1730201301.0,TemuThings,1,1.0,False
+1ges9bg,https://www.reddit.com/r/relationship_advice/comments/1ges9bg/loads_of_silly_lies_by_gf_f29_made_me_f30_very/,Loads of silly lies by gf (f29) made me (F30) very insecure in our relationship and now I can’t unsee it- what can I do?,"TLDR: my gf was feeling insecure about not having much sexual and relationship experience before we met and lied about it, but the images she planted are now very much haunting me. Is there hope?
+
+My gf (29) and I (F30) have been together for 7 months only. She realised she was a lesbian at 25 by getting drunk and having sex with a woman. Later this woman became her fuck buddy and basically used her for sex even though she wanted more. Fast forward to us dating, she tells me this woman is now her ‘friend’ but no friendship really happening (she calls her whenever she needs her and meet every 7 months). I told her I was not comfortable with this. And she decided to cut her off- as really she was just a shitty person to her. Here you can find my first red flag: friends with a shitty sex buddy that used her for years only because she supported her during one very hard time in life. She had spoken so much about her and even had pictures of her with her current gf at her apartment. At this stage I already feel like I’m a very stupid person but she re assured me nothing was happening. 
+
+Our relationship evolved and we are now in meeting family stage. My problem is that last weekend I found out many things that creating huge insecurities for me, weren’t completely true:
+
+1- She told me she was super sexually active- turns out she was just sleeping with people she dated and not in a very active way. This was for me hard because together, she has lost all the very firey aspect by now- sex is still amazing and daily, but not in the I wanna take you now way- which she implied with the others. (Yes, her taking about having sex with others in detail of course fucked me up too, very unnecessary)
+2- She told me she had introduced all her lovers and (non existent) fuck buddies to her friends. She actually only introduced one and by mistake because they run into her friends.
+3- she told me she would leave her friends in the middle of the night to have sex with her buddies. Now she says that never happened.
+
+Overall: she really overshared her sex life with me. From telling me ‘I generally did X position differently’ WHILE doing it- to yes I generally have dinner at home, have sex with them and take them for coffee in the morning to get rid of them. 
+
+It’s very clear Im an over thinker so that’s definitely on me and I am aware that this is my part to deal with in general for life. But it’s also clear that I feel she invited her exes into our bed/intimacy and lied a lot in the beginning to compensate for not having had a relationship or much sexual experience so far. For me, I can’t shake off the feeling of what the lies made me feel regardless of them not being true now, and I can’t ‘unsee’ the mental images she created with her over sharing. On top of that: I am very clearly insecure about this furst woman that she was unwilling to take out of her life.
+
+Why I am still with her? Because we are in love and life otherwise is amazing with her. These things have polluted our relationship yes, but in daily life our dynamics are tender and loving. It’s hard for me to make these two realities come together and it’s driving me crazy. I don’t know what to do.
+
+I have talked about all this with her btw, but that’s not making me feel better not even with her reassurance and support.
+ 
+
+What can I do?
+
+Thanks in advance!",1,1730201229.0,relationship_advice,5,1.0,False
+1ges842,https://www.reddit.com/r/PhR4Friends/comments/1ges842/29_f4m_platonic_friendship_with_opposite_gender/,29 [F4M] Platonic friendship with opposite gender. ♥,"I'm not ready for a committed relationship at the moment, but I enjoy having someone to connect with daily. I like exchanging stories, sharing frustrations, going on adventures, trying new resto, and having fun together. ♥
+
+About me:
+
+Fair, Slim, Medium length hair, 5'2
+
+Working professionally on a regular office hours
+
+Nice, Fun to be with and madaldal. 
+
+Looking for samgyup and coffee buddy, walk / run / gym companion, travel partner etc. (please, please, please)
+
+  
+About you: 
+
+Please be gentleman, older and taller than me. 
+
+Currently working overtime but will reply as much as I can. Hit me up! 😊",1,1730201129.0,PhR4Friends,0,0.6,False
+1ges6w9,https://www.reddit.com/r/MakeMoneyInUK/comments/1ges6w9/costa_coffee_free_cake_on_your_birthday_plus_5/,Costa Coffee | Free Cake on your Birthday | Plus 5 “Beans” after first purchase,"**Costa Coffee | Free Cake on your Birthday | Plus 5 “Beans” after first purchase**
+
+Download the Costa Coffee app and enter a referral code to get a **free** sweat treat of your choice. You **need to opt into receive marketing comms** to get the free cake voucher emailed to you.
+
+New customers will **also receive 5 free “beans”** (Costa Loyalty scheme) following your first purchase. This is in addition to the 1 point awarded for downloading the app. You collect 1 bean for every purchased drink (2 beans if you bring a reusable cup). Once you have accumulated 10 beans you can claim a free drink.
+
+———————————-
+
+Steps:
+
+* **Download the Costa app**. Direct from your App Store or find a link ([here](https://www.costa.co.uk/costa-club#app-promo)).
+* **Register** and enter the referral code **C9HgF**
+* Remember to opt into comms to receive the free cake email on your birthday!
+* To receive the “free” 5 beans first **make a purchase at Costa and scan the app when paying**.
+* The 5 free beans will be **credited to your account within 48 hours** (it was immediately for me).
+
+Pro tip, if it’s anything like Caffè Nero then you only get 1 free bean per drinks order maximum (2 if using a reusable cup). So if buying coffee for you and a friend ask to pay in 2 transactions and so scanning your app twice. Thus getting you 2 beans (or 4 if using reusable cups).
+
+Enjoy the free cake I recommend the Mini Cherry Bakewell!
+
+Referral code: **C9HgF**
+
+Non-referral link ([here](https://www.costa.co.uk))",3,1730201013.0,MakeMoneyInUK,1,1.0,False
+1ges5vp,https://www.reddit.com/r/verdaily_terrors/comments/1ges5vp/my_dead_husband_came_to_give_me_a_heartfelt/,My dead husband came to give me a heartfelt goodbye. I loved you and will love you,"My husband died of a heart attack on February 2, 2015; he was 60 years old. That morning, he drove our youngest daughter, who was 16, to the bus stop because it was dark and raining outside. When he came home, we sat and had a cup of coffee together. At 7 a.m., he went into our bedroom to shower and get ready for work. I told him I'd give him half an hour before I would come in to take my shower.
+
+When I did, I found him dead on the bathroom floor. His skin was grey, his eyes open, his glasses on, and his body twisted as if he had collapsed. I tried to get a response, then started chest compressions. Nothing. I called for my dad, who was in the kitchen, to call 911. When help arrived, it was a police officer, then later EMTs.
+
+The officer tried to give him a shock with those paddles, but it wouldn't go off at all to provide the shock; he was gone, unresponsive. The EMTs couldn't get his heart started either. He was dead. I was in shock. We had been together for 22 years and married for 17.5 years. He was the love of my life, my soulmate. The doctor at the hospital said he died instantly; he wouldn't have known what was happening, and he didn’t feel any pain. I'm so much regretful that I didn't have the chance to talk to him in his last breaths. God, at least once...
+
+A week after his passing, a female friend of mine was helping me go through my husband's things in our bedroom. I was standing by his side of the bed, gathering up papers and mail from his nightstand. I turned and looked up toward the hallway that was between the bathroom and a little dressing room where our closets were. I saw a dark shadow step out of the bathroom into the hallway and turn toward me, about 15 feet away.
+
+As I stared at it, I said to my friend, “There's a shadow.” She turned and looked but didn’t say anything. Then I said, “Honey, you died. Go to the light. You don't belong here anymore. Go see your father.” The shadow vanished.
+
+I miss my husband so much; he was a wonderful husband and father. I pray he is at peace in heaven. In the days that followed, I felt lost, wandering through the house that once echoed with laughter and warmth. Every corner reminded me of him. The smell of his cologne hung in our bedroom, a bittersweet reminder of the man I had loved for so long. I would often sit on the bed, staring at his side, waiting for him to walk in and share a joke or simply ask how my day had been.
+
+The initial shock slowly turned into a deep sense of loneliness. Although friends and family surrounded me with their condolences, nothing could replace the gap he left behind. It was during those quiet evenings, sitting alone with my thoughts, that his absence truly hit me. I recalled our late-night talks, how we would plan our weekends, and how he always knew how to make me laugh, even on my toughest days.
+
+As the days passed, I started to really feel how much I missed him. I looked for little hints that he was still around, like when a light blinked, the floor made a noise, or I felt a soft breeze on his side of the bed. I even began to talk to him, telling him about my day, what was bothering me, and what I dreamed about for the future. It made me feel better to think that he could hear me and was helping me in some way, even if he wasn’t here anymore.
+
+One evening, I decided to look through some of his things. It was hard to do, but I needed to. When I opened his drawers, I found an old photo album. As I turned the pages, I saw pictures of us together—our wedding, family trips, and funny moments that showed how much we loved each other. Each photo made me feel happy and reminded me of the good times we shared. It was like I could almost hear him laughing in those special moments.
+
+I realized how much he had shaped me. He had been my rock, always encouraging me to pursue my passions and dreams. He would often say, ""Life is too short not to enjoy it,"" and I knew I needed to honor that sentiment. In the weeks that followed, I began to explore activities that I had put on hold for years—painting, gardening, and even writing. Each brush stroke and every flower I planted felt like a tribute to him, a way of keeping his spirit alive in my heart, which would always be.
+
+One night, while lying in bed, I had a vivid dream. In it, my husband appeared, bathed in a soft, warm light. He looked as he did in his younger days, full of life and vitality. We spoke briefly, and he told me he was okay, that I needed to take care of myself, and that he would always be with me. I woke up feeling a sense of peace I hadn’t felt since he passed. It was as if he had wrapped me in a comforting embrace from the other side, assuring me that I wasn't alone.
+
+As the months came by, I started attending a support group for those who had lost loved ones. Sharing my story with others who understood my pain was cathartic. We laughed and cried together, finding solace in our shared experiences. The group became a safe space, allowing me to voice my fears and hopes without judgment. I learned that grief had no timeline and that it was okay to feel joy again while still missing him.
+
+One of the group members suggested writing letters to our loved ones as a way to process our feelings. I found this exercise to be incredibly therapeutic. Each week, I would pour my heart onto the page, telling him about my day, sharing my struggles, and letting him know how much I missed him. It felt like a way to keep our connection alive, and I cherished the moments I spent writing to him.
+
+Eventually, I started to feel a sense of renewal. I realized that while my husband may no longer be physically present, his love continued to guide me. I decided to take a trip to one of our favorite places— the beach where we had spent many summers together. It was a place filled with laughter, joy, and beautiful memories. As I walked along the shore, the salty breeze blew through my hair, and I could almost hear his voice mingling with the sound of the waves crashing against the shore.
+
+Sitting on the sand, I closed my eyes and imagined him beside me, his hand holding mine. I let the waves wash over my feet, feeling the warmth of the sun on my skin, and I whispered, “I love you, and I always will.” In that moment, I understood that love transcends even death, and the memories we create together remain etched in our hearts forever.
+
+As I began to move forward, I embraced life with a newfound perspective. I started volunteering at a local shelter, channeling my energy into helping others in need. It was rewarding and fulfilling, allowing me to honor my husband’s memory by spreading kindness and love. Every time I helped someone, I felt as if he were smiling down on me, proud of the person I was becoming.
+
+It’s been several years since I lost him, and while the pain of his absence still lingers, I have learned to cherish the moments we shared rather than dwell on the loss. I carry him with me in everything I do— in my art, my actions, and my heart. The shadow I saw that day in the hallway reminded me that while he may not be physically here, his spirit continues to guide me.
+
+In remembering him, I’ve learned to celebrate life, to embrace the beautiful messiness of it all, and to cherish the moments that make us feel alive. I often find myself smiling when I think of our life together, knowing that love is eternal and that he will always be a part of me. So, as I navigate this journey, I hold onto the lessons he taught me— to love fiercely, laugh often, and never take a single moment for granted.
+
+I pray he is at peace in heaven, and I know that one day, we will be reunited. Until then, I carry him with me in my heart, a guiding light through the darkness. And in that way, I will never truly be alone.
+
+LOVE YOU 💝My Evergreen Love!
+
+\[ A Heartwarming experience by — Sarah Smith \]",1,1730200925.0,verdaily_terrors,0,1.0,False
+1ges59x,https://www.reddit.com/r/CharacterRant/comments/1ges59x/remarkably_bright_creatures_is_a_perfect_example/,Remarkably Bright Creatures is a perfect example of overdoing a Flawed Character so much they torpedo the entire narrative,"For anyone reading this rant that hasn't read the book (probably most people?), Remarkably Bright Creatures is about Tova, a 70year old cleaning lady at an aquarium and the friendship she forms with a very intelligent, curmudgeony octopus called Marcellus, how he uncovers the truth about the sons' disappearance many years ago, and his efforts to reveal this to her before time is up for either of them. 
+
+That synopsis probably sounds silly, or like a detective/action story, but really it's an incredibly sincere, heartfelt story centralised around the core mystery. There's no big climatic moments or actions, no special or supernatural events, and outside of a single extremely intelligent octopus, it's a very grounded story. It's a character study of very real, very flawed characters going through ""the next stage"" of their lives, including death.
+
+The title, ""Remarkably Bright Creatures"" acts as a humourous point, being both how the humans see the Octopus and how the Octopus views (some) humans.
+
+It's also very good. It's a pretty light, easy, ready. I finished it in about 3 sittings and if the premise sounds interesting, I'd recommend you check it out. And yet, despite that, I'm now gonna tell you why it more or less fell flat to me.
+
+I mentioned above that all the characters are flawed, they're all very human. 
+
+The Octopus is arrogant, standoffish and curmudgeony. The Nit Wits are a bunch of old natters. The Safeway owner puts his nose in people's business and talks about private matters more than he should. Aunt Jeanne is a hoarder living in a squalid trailer. Avery is harsh and aggressive.
+
+Even Tova, the old cleaning lady who acts as our initial PoV character and who we start with an incredibly sympathetic introduction to, as her chapters go on you start to get the impression that, while yes, she's certainly had an extremely unfortunate life and it's clear that she's just keeping busy as a coping mechanism... she's also cold, harsh and unnecessarily prickly to almost everyone around her. At a certain point it feels like she's completely given up on human relations, which is why she's investing so much in this friendship she's formed at the aquarium.
+
+But none of these characters are bad, they're all good people, they're all heroes of their own story, they've all had difficulties and struggles and they're all more or less well intentioned. The Nit Wits do actually care about Tova, the Safeway owner is a kind and generous man, Aunt Jeanne became a hoarder after getting injured trying to break up a fight, Avery talked a woman out of suicide and set everything in motion etcetcetc.
+
+For a book that acts like a character study, this is good stuff, we can see a range of different characters from a range of different angles, through various viewpoints and we can get a bigger picture of them. It's all very enjoyable.
+
+But then... we come to Cameron. 
+
+Cameron is an incredibly important part of the narrative. He's not part of the town everyone else lives in, he's got nothing to do with anyone else's ongoing story, he's younger than the other characters (being ""only"" 30) and his story seems almost entirely disconnected from everything else. This is great, because it leaves this ongoing question as to just how he fits into the mystery, what his role is and why he's here, and as things start to make sense, it's a pretty decent reveal around a fairly contrived set of circumstances and it puts a pretty respectable bow on the entire narrative.
+
+The point is, he's not a small part of the story, he's equal to Tova and you couldn't and wouldn't want to remove him from the plot.
+
+But oh man, I wanted to remove him from the plot.
+
+All the characters are flawed, but Cameron is *nothing but* flaws. 
+
+He's a 30 year old deadbeat living at his girlfriend's expense, who's never worked a day in his life, plays for a band nobody listens to, he didn't graduate high-school, he's got zero plans, he's got zero ambitions, he's got no money, and he's got absolutely nothing going on.
+
+We see from the very start just how smart he is, he retains facts and knowledge with gusto, and he has -without question- had a very disadvantaged upbringing. He grew up without parents and has had a far harder life than pretty much anyone in the story, there's no doubt about that all. But the problem is that he only uses that intelligence to take advantage of people, and he wears that disadvantaged upbringing like a cloak that shields him from all criticism.
+
+Anyone that gets in his way is insulted in his internal monologues. The dentist who his girlfriend has an appointment with is a ""needle dick"" because that appointment means she busted him lazing around the house instead of going to work. The barkeep that won't rent him an apartment because he doesn't want anyone living there is a selfish asshole and we're told 'giving me a $2 beer doesn't make up for that' as Cameron stews to himself after being given a free beer from a guy he owes a money to, and whose property he's damaged previously (without repayment). His best friend (who has done him endless favours) is selfish for ""blowing up the band"" because it's going nowhere and he wants to focus on his newborn baby. He even resents that newborn baby, because he feels it's gonna take his place in the trio that was him and his two best friends (one male and one female).
+
+Similarly, nothing is ever his fault. When he got fired for turning up late, without excuses, on his first day on the job it was because his boss lacked empathy. When he broke a table at the bar and didn't pay any repayment for it, that was an art-piece and the guy should be happy. When his girlfriend calls him out for lying to her, it's because he was *trying* to tell her the truth (now, when caught, not before). Whenever he struggles with anything it's because of his hard upbringing and because he didn't have the family or support everyone else has, and how they should recognise that and make way for him.
+
+His Aunt Jeanne absolutely adores him and thinks he's fantastic. We're told about how him and his two friends grew up like ""The three Musketeers"" and she wonders why the girl married the other guy instead of him, when he's clearly so much better than the other boy (Note: This other boy has a stable job, has a house, has a car, graduated school, doesn't drink himself stupid, etcetc)
+
+Cameron plays it off like ""It was never like that between me and her"" but we can also see that he secretly agrees, because later on, rather than being a trio like we were originally told, it seems that Cameron always viewed the friendship as between him and the girl, with the other guy just hanging around. He wonders how she ever ended up with him, he was just a lame guy who hung around with them. A real mystery indeed, given what a catch Cameron is.
+
+The call to action for Cameron is his girlfriend finally realising he won't change, that he'll just keep lying to her and taking advantage of her, and kicking him out. Which leaves Cameron looking for family hierlooms to pawn so he can pay for a new place to live, which leads to him finding an old photograph of his mother and a guy who looks rich... A bit of digging later and he finds out who the guy is and that he's extremely wealthy... Which prompts Cameron to decide the guy must be his father, mooch some more money off his Aunt and then set off on a quest to find this guy and squeeze ""30 years of child support payments from him."" In short, he's off to go extort some random guy because, once again, Cameron is in trouble through absolutely no fault of his own and feels like the world owes him.
+
+So, it's pretty clear what's being setup. Cameron is an incredibly unlikable deuteragonist. He's selfish, he's mean, he's greedy, he's impulsive, he's entitled, he uses anyone and everyone around him without remorse and he has absolutely zero sense of shame or responsibility. He'll go on this journey, it won't work out at all like he expects, he'll be forced to change and grow and learn, and somewhere along the line that'll tie into the main plot with Tova and the Octopus. Okay! All good stuff! I was right on board...
+
+...And then that mostly just kind'a didn't happen! He absolutely did tie into Tova and the Octopos's story, and he did change and grow, but beyond that, he never really faced any difficulties or hardships, or really any roadblocks at all. Instead, he was pretty much glad-handed from the starting line to the finishing line.
+
+This guy isn't a particularly likable or charming person, he's not very charismatic, and given that he's currently living like a homeless person he's disheveled, he's dirty and it's suggested he smells like stale urine from the dirty mattress he's been sleeping on in the back of his camper.
+
+And yet everyone is just constantly going miles out of their way to give him favours!
+
+When he lands at the airport without any plans a random guy approaches him for no reason, keeps talking to him despite Cameron being pointedly rude and mean in his responses (he explicitly tries to just give one word answers to shut the guy up), gives him half his food for no reason, and then talks his friend into selling Cameron his van for cheap, again, for no reason.
+
+When he arrives in the town, every single person he meets gives him free food, gives him free opportunities, and goes out of their way to help him. He stops at a Safeway and orders a coffee... this prompts the owner to give him a full meal and the coffee on the house, to tow his camper to his house and let Cameron stay there, and then talks his friend into hiring Cameron for the job he's got open. He literally just met this guy and he's immediately giving him free food, free accommodation and a job!? (Note: Despite all this generosity Cameron later scorns this man and we're treated to a half page summary about what an asshole he is... because he didn't want to hire Cameron for a management position, with zero experience).
+
+When he goes to try find details about the guy he thinks is his father, everyone he talks to says they can't give out private information and then immediately gives it out and put themselves at risk for Cameron's sake to give him this guy's personal contact details, because he gives them a 2min sob story about how he's looking for his father.
+
+We meet Avery and the entirety of her introduction is about how beautiful she is, how amazing Cameron thinks she looks in her outfit, and more importantly, how she instantly sees right through him. She immediately recognises that he scammed her friend, she realises that he's just a dishevelled loser who's trying to take advantage of anyone he can... And then 5mins later she's cooing over how hard he's had it buying into his fake sob story 100%, she's giving him free stock from her store, and he's organised a date with her.
+
+That was the bit where I finally gave up on the guy. We're introduced to him with his bombshell girlfriend, miles out of his league, who he's been mooching off for years, then we follow his journey, and then -without making any improvements to himself at all- he almost immediately gets another bombshell girlfriend without any effort, or any charm at all.
+
+I won't say it's unrealistic, plenty of girls date losers, but it's amazingly narratively unsatisfying. When Avery put him in his place and immediately recognised him as a scammer I thought finally he was going to have to put some actual effort in and start being a better person... but instead she's almost immediately arranging a date with this homeless guy who stinks of stale urine. (Note: She's a single mother, this is a man she's gonna be bringing home to her son).
+
+He wields his sob story about ""I'm here looking for my long lost father"" like a club against all the residents, and they all buy into it 100% and give him endless freebies, favours and gifts, no matter how far it puts them out. 
+
+But the issue with this is that the reader knows the sob story is complete bunk. He doesn't care at all about his equally estranged mother, he only cares about his (supposed) father because he thinks he can get money out of him. So we know clearly that this is just him being manipulative, but it never matters! It's never critiqued, it never comes back to bite him! The entirety of his relationship with Avery is him conning her with this, but she never learns about it, or catches on, he just gets away with everything.
+
+He does legitimately change and he does legitimately become a (slightly) better person, if still an incredibly entitled deadbeat. And he never does manage to squeeze millions, or even any money at all, out of the guy he thought was his father.
+
+But man, it was not a satisfying journey, because it was just all too easy for him. At the point I gave up on him, it just felt like the heavens were parting before us to provide him with anything he needed, anytime he needed it, and without any cost to him at all.
+
+When he has no plans, a random stranger will tell him the right answer and then do him a favour. When he scams someone he never pays for it. When he hurts someone, makes their life worse or ruins their property it's all waved off because he's got no money anyway. 
+
+In reality, it feels like everyone should be treating him like the shifty, possibly dangerous vagrant he is.
+
+And the ultimate conclusion of this is that, in a book filled with a whole raft of wonderfully flawed character, this unlikable asshole wound up overshadowing them all. And, maybe as a consequence of him being only a secondary (maybe tertiary) protagonist, his storyline is handled with a series of fairly contrived outcomes that make things all seem far, far too easy for him.
+
+It's a sort of unearned redemption, I suppose.
+
+Anyway, if you want to read a book where an Octopus goes to the very limit of sacrificing its life to help show an old woman the truth about what happened to her son, and finally conclude the trauma that's haunted her for decades since his disappearance, it's a wonderful read.",2,1730200871.0,CharacterRant,0,1.0,False
+1ges4zg,https://www.reddit.com/r/Medieval2TotalWar/comments/1ges4zg/how_the_heck_do_i_slow_down_camera_speed_on_the/,how the heck do i slow down camera speed on the campaign map please help it feels like my cursor drank a lot of coffee,,1,1730200845.0,Medieval2TotalWar,2,1.0,False
+1ges4ow,https://i.redd.it/xjybkrzbtjxd1.jpeg,Who left their pen open?,,9,1730200817.0,FarmRPG,1,1.0,False
+1ges4c2,https://i.redd.it/dk8ap3i8joxd1.jpeg,Pedestrian crossing lights completely blocked during morning bothwell st,I was driving along here this morning and tall vans were parked up right on either side in front of both lights if I hadn’t seen the light further down the street I would have had no clue that there might have been a crossing here and luckily slowed down to turn right anyway. Has anyone else noticed this here where the roadworks are currently?,1,1730200782.0,glasgow,0,0.67,False
+1ges3ap,https://i.redd.it/44lmaogxioxd1.jpeg,"Diet, Fatigue and Weight Questions","I am gluten and dairy free, try not to consume too much soy. I eat mostly Whole Foods. My diet consists of meat, veggies, fruits. Sometimes rice and gluten free breads. I try not to eat too much of the things I bake (my kids are gluten and dairy free as well so I bake them muffins, cookies, etc) I have a high intolerance to sugar and seem to have an egg intolerance as well. I have gained at least 10lbs. (I am 5ft 2 female 170lbs) I have non-alcoholic fatty liver disease and I need to lose weight to get rid of it but it seems impossible. I have not been feeling great so I have been afraid to exercise because I don’t want to make my flare up worse, but at the same time if I don’t exercise I become worse as well. I seem to get really shaky and need to take longer breaks when strength training but it’s the only thing that helps my back pain. (Strength training, at home Mat Pilates , walking are my forms of exercise) I also can’t seem to shake the fatigue. I can’t drink coffee as it seems to trigger my anxiety. And when I do have it, it does nothing. I am on 88mcg of Euthyrox. When I was at 100mcg I started moving towards hyper and was having hyper symptoms. I have included a picture of my last lab results. I was taking biotin so I’m not sure how much that interferes but the doctor would not agree to a retest and refuses to test me again for another 6 months. There are no other doctors in my area that are taking patients so I’m stuck doing what I can at home. Thinking about trying Paloma Health or a Holistic doctor when I have more money. Any advice would be greatly appreciated. Thank you so much. ",1,1730200678.0,Hashimotos,0,1.0,False
+1ges1t8,https://www.reddit.com/r/gallbladders/comments/1ges1t8/almost_4_months_post_op/,Almost 4 months post op,"I was just sitting around watching tiktoks and someone popped up speaking about women's healthcare being a nightmare, and it brought me back lol. When I was in the ER the second or third time with an attack a doctor told me that since nothing really came up in testing that ""maybe the problem would just go away now that I KNEW nothing was wrong"" lmfao. Not long after I saw a primary care doctor and scheduled the HIDA for the following week. I got incredibly sick and a ton of abdominal pressure during it. Less than a month later my gallbladder was out and now I feel great! The only thing is dairy coffee and eggs can sometimes be iffy on the stomach, but very tolerable. Long story short, don't let doctors gaslight you into tolerating discomfort. ",5,1730200522.0,gallbladders,9,1.0,False
+1ges1in,https://www.reddit.com/r/PhR4Friends/comments/1ges1in/24_f4a_coffee_and/,24 [F4A] coffee and?,"hi guys, who’s free tonight? i miss going out and taking good photos para may mai-story 🥹 baka bet mo mag rant or bored ka, halika na. craving for coffee and pastry, or maybe pasta? g!!! this is a one time thing only.
+
+me: 5’3 / cutie / smells good / yapper / dota player / got&hotd / from the east side
+
+you: easy on the eyes / decent and clean / conversant / magaling kumuha ng pic 😝 / + if can drive (we can go to rizal) / di judgemental
+
+pass sa hello, brief details lang then let’s swap pics! i’ll 👀 you",3,1730200494.0,PhR4Friends,1,1.0,False
+1ges1dj,https://i.redd.it/n91o0w0cioxd1.png,"Good morning losers, refresh my mind. Why am I putting time into social media? Oh right, because these losers want to chat with me. Well, here is a photo instead. I'll enjoy my coffee sends while you enjoy my lovely face + body.","Seriously though, how perfect am I?! How could you not send to this bratty Goddess. ",0,1730200479.0,findommes,0,0.5,False
+1ges0q7,https://i.redd.it/ncpuwah4ioxd1.jpeg,"Bacon, eggs and a homemade chocolate muffin with a coffee",,8,1730200407.0,Breakfast,4,1.0,False
+1ges00q,https://www.reddit.com/r/adultingph/comments/1ges00q/am_i_over_caffeinated_i_only_drink_green_or_black/,Am I over caffeinated? I only drink green or black tea daily but lately I’ve been having heart palpitations? ,"I only drink green or black tea and I’ve been doing it for YEARS. But lately I feel like I’m having palpitations (lol ang weak) could green or black tea cause this? Anyone with similar experience? 
+
+Coffee lovers, don’t reply please. Haha I only to hear from tea drinkers 😆",1,1730200333.0,adultingph,7,1.0,False
+1gerzli,https://www.reddit.com/r/gayrelationships/comments/1gerzli/knowing_if_you_are_falling_in_love/,Knowing if you are falling in love? ,"Cringe but: 
+
+If you cant stop thinking about a guy that you have only met 3 times...Does it mean you really found someone you REALLY like.
+
+ We have not done anything sexually , just meet up for walks, coffee , driving around ,and showing him places because hes only been in the country for 11 months-and THIS is my dilemma:
+
+My original intention was to meet new people with no intentions of a relationship because hes on a work visa.
+
+ Hes said the same thing but hes given my hints like wanting to cuddle in bed but Ive resisted  and 'friend zoned' him but theres is something really attractive about his vulnerability to open up about personal struggles that makes me like him more. 
+
+Should I just still keep it at a friendship level.Im in my mid 30s and never felt this way in a long time and understand the dissappointment if he has to return home",0,1730200287.0,gayrelationships,1,0.5,False
+1geryj7,https://www.reddit.com/r/Celiac/comments/1geryj7/anyone_else_allergic_to_many_things/,Anyone else allergic to many things?,"Went to the allergist yesterday and got the skin prick test done. It came back with sensitivities to 24 foods. Anyone else have weird results like this? 
+
+Most were just a 1+, So some of them might be cross-reactions due to seasonal allergies, but I know some are definitely the problem as they've caused me pain for quite a long time. Apples and bananas have always caused stomach pain and diarrhea.
+
+Just curious if anybody else had some of these more rare reactions like coffee and lettuce?
+
+Cow's milk 
+Strawberry 
+Cucumber 
+Lettuce 
+Grapefruit 
+Honeydew 
+Oat 2+
+Apricot 
+Casein 2+
+Egg yolk (not the whites That's a separate one and it was fine) 2+
+GARLIC 
+Wheat 
+Sweet potato 
+Coffee 
+Tea
+Blueberry 
+Grape 
+Banana 
+Apple 2+
+Peach 
+Cashew 
+Pecan 
+Pistachio 
+Brazil nut
+",4,1730200179.0,Celiac,1,1.0,False
+1geryhf,https://www.reddit.com/r/TemuThings/comments/1geryhf/sandy_claws_is_coming_to_town/,Sandy claws is coming to town,"🏝️ 🦞 — *****Snoozers are losers. It is 6:30 and all clicks went unclaimed. Moving on. Sandy Claws on helps those who help themselves. And those who actually read the post hahaha.****** Back to the 🌊 I go. 
+
+I hardly can ever get people to click my stuff so… wtf ever. So I will be the person I wish others would be. 
+
+Random acts of kindness - pretty sure I have all of my clicks available. Post 1 thing you would like a click in. Be smart with what you pick because once I’m out of clicks for that… I’m out 🤷🏼‍♀️. If you post a bunch of codes - I’m skipping you. I’m doing YOU the favor. Not vice versa. So PICK ONE.
+
+I will try to update what I’m out of - 
+
+If you see Niwornever110 - you got 🌞 💋 
+
+Should still have others. Chop chop - 6:45 CST and I go back in the ocean. 
+
+If people so choose - my links below. Do or do not, but there is no try. I’m tired of getting tricked so I am just doing and others can do as they wish. Be greedy. Be generous. Be… you. 
+
+Coffee Tree: cof1930703 
+Farmland: 384728920 
+Fishland: 384855962 
+Coffee Tree FERTILIZER: cof1068478 (***Sandy Claws says my my what a good boy/girl you must be)",1,1730200173.0,TemuThings,3,1.0,False
+1gery3m,https://www.reddit.com/gallery/1gery3m,"""🎄 Discover Secondhand Finds & Delicious Food at the Christmas Bazaar! Join us at Anlichan Church Bazaar 🎁"" ",,2,1730200131.0,basel,0,1.0,False
+1gerxki,https://i.redd.it/vx35cin3hoxd1.jpeg,Has anyone ever tried a ‘Catrina’?,,1,1730200072.0,JamesHoffmann,13,0.55,False
+1gerwom,https://www.reddit.com/r/BreakUps/comments/1gerwom/thought_we_were_building_something_but_turns_out/,"Thought We Were Building Something, But Turns Out I’m Just a FWB. ","Started off asking this girl I like out, but she brushed me off, saying I was just a “bro.” We grabbed coffee, ended up at my place, and eventually had sex. She said it would be a one-time thing, but it became a regular thing. I developed real feelings, but she insisted nothing exclusive could happen since we work together.
+
+Then, she went through my phone and found I’d been chatting with another girl. She got upset, accused me of cheating, and wanted to call things off. To make her comfortable, I backed off with the other girl, and she started showing me more care and attention.
+
+I had already checked out emotionally because I felt she was just there for the sex, not for me. Recently, I asked her to take a beach trip with me, but she declined, saying she didn’t want to “nurture love” and that she still only sees me as a friend. Now I’m left feeling like I was just a hookup this whole time, while I was hoping we were building something real.
+
+",2,1730199972.0,BreakUps,4,1.0,False
+1gerw7j,https://i.redd.it/q2sn6giogoxd1.png,Happy Tuesday Morning ,Whos up and wanting to buy me coffee? ,1,1730199925.0,findommes,0,1.0,False
+1gerw4t,https://www.reddit.com/r/marriott/comments/1gerw4t/why_did_you_get_rid_of_the_keurig_machines/,Why did you get rid of the Keurig Machines? Marriot corporate green rules? Really?,"One of my most often used Marriot Hotels (RI City Center Boise) got rid of one of the best features, the simple Keurig Machine. They put in those terrible one cup put a bag of coffee in things. I love having a good cup of coffee in the morning before leaving the room!
+
+Anyway, I asked the hotel and they claimed it was a Marriott Corporate Green requirement. Really? The coffee pods are producing too much trash? I think the reason trash is reduced with the bag machines is no one uses them because they produce terrible coffee!
+
+Anyone know if this was actually a Marriott Corporate directive?
+
+",7,1730199918.0,marriott,29,0.65,False
+1gervxa,https://www.reddit.com/gallery/1gervxa,Last week I asked for ideas for my dog Buffy’s Halloween costume.,"Here are the results: Buffy wears a black baby shirt with the sleeves cut off, a leopard scarf and harness + her BTVS bandana for extra flair. She also had a coffee wood chew as her stake. I couldn’t find a little cross so I made one out of cardboard and stuck it to the harness. ",3,1730199897.0,buffy,0,1.0,False
+1gerv74,https://i.redd.it/a9bxm42egoxd1.jpeg,Gustong gusto talaga mang exploit ng mga tao eh no porket nasa probinsya lang,,9,1730199825.0,AntiworkPH,2,1.0,False
+1geruzs,https://www.reddit.com/r/nutracheck/comments/1geruzs/spritz_hits_cocktails_to_miss/,Spritz hits & cocktails to miss!,"Which drinks are the best – and worst – when you’re trying to lose weight.
+
+Keeping a food diary on holiday or at party season goes further than just what we’re eating: you may be missing hundreds of calories, and large amounts of sugar and fat, by failing to track your drinks!
+Let’s take a look at some of the most calorific tipples you might be knocking back without realising their full contents!
+
+* Worst for calories 
+
+🍹Piña colada (320 kcals)
+
+It’s delicious, it’s creamy, it’s sweet… so is it any surprise that it’s high in fat and calories? You don’t need to avoid altogether; but maybe limit to one, followed by some lower-cal drinks. Other cocktails to drink with caution include Mai Tais, which have a whopping 331 calories and 48.7 grams of sugar, White Russians which come in around 242 calories, and Amaretto Sours which pack in over 17 grams of sugar per glassful!
+
+🧋Full-fat cola (215 kcals)
+
+You may have steered clear of alcohol, but by opting for full-fat cola you will be drinking a whopping 215 calories per 500ml bottle – not to mention, 53g of sugar. That’s the same as two chocolate chip cookies! Switch to the zero sugar option for a no-calorie drink.
+
+☕️ Caramel Iced Frappe (319 kcals)
+
+Frappes and flavoured iced coffees are often made with full-fat milk, and sweetened with syrup or sugar; meaning they can add hundreds of calories sugar to your daily intake. Unlike a fresh fruit smoothie, these drinks don’t benefit from vitamins and fibre, either; so if you fancy something thicker and more filling from the hotel bar, a fruit smoothie is likely to be a better choice as the sugar content will be from natural sources.
+
+* Best for calories
+
+🍸 Mojito (127 kcals)
+
+the refreshing, zingy classic is predominantly made up of soda water and fresh lime; neither of which will rack up fat, sugar or calories. A small splash of rum and some sugar syrup are the only calorific elements in this glass, with the average cocktail coming in at 127 calories.
+
+🥂 White wine spritzer (130 kcals)
+
+It’s a no-brainer: enjoy the taste of a crisp glass of white wine, with half the calories. By adding soda water – or diet lemonade if you prefer a sweeter taste – you can cut the kcals of your glass of wine drastically.
+
+🍋‍🟩 Lime soda (53 kcals)
+
+Soda water, lime cordial or fresh lime juice, and that’s it. The clue is in the number of ingredients: this drink is simple, refreshing and low-calorie, clocking in at 53 kcals for a 250ml glass.
+
+* info from Nutracheck
+
+
+",1,1730199806.0,nutracheck,0,1.0,False
+1gertie,https://www.reddit.com/r/pourover/comments/1gertie/ask_a_stupid_question_about_coffee_week_of/,"Ask a Stupid Question About Coffee -- Week of October 29, 2024","There are no stupid questions in this thread! If you're a nervous lurker, an intrepid beginner, an experienced aficionado with a question you've been reluctant to ask, this is your thread. We're here to help!
+
+Thread rule: no insulting or aggressive replies allowed. This thread is for helpful replies only, no matter how basic the question. Thanks for helping each OP!
+
+Suggestion: This thread is posted weekly on Tuesdays.  If you post on days 5-6 and your post doesn't get responses, consider re-posting your question in the next Tuesday thread.",1,1730199666.0,pourover,2,0.67,False
+1gertf0,https://www.reddit.com/r/u_Constant_Base2127/comments/1gertf0/good_morning_babe/,Good Morning Babe 😘😘😘,"Good Morning Babe 😘😘😘 
+
+I trust you're still sound asleep and sleeping well!  I've been up for about 40 minutes.  Got a Bible reading in, did my exercise, showered, and I'm heading for coffee before work 😊 I drink coffee about every day now.  
+
+SHARING COFFEE WITH YOU 🥺🥰😘 
+
+What are you doing today?  Work, I'm sure, but after that?  I might be having lunch today with Christie, writing, reading, exercise ... It's a volunteer evening for me (Tuesday is From the Ashes) and we do tacos after.  I think that's my day...music and Lovely Melody, and writing you throught, too 💚💙🧡
+
+Whatever your day holds, be safe and enjoy yourself, and always remember you're capable of anything, and you can accomplish any and everything you set out to!  I believe in you, my Love 😘 
+
+My 😇, please always be sure to get enough sleep 😍
+
+I miss you, and I'm very proud of you, Baby 🥰😘😍
+
+Andi love you, Sweetheart 🌷🌹💐 
+
+Always and forever, Boo 💖👨‍❤️‍👨💒💍
+
+And beyond, Landin 👑💚💍💐😘🌌
+
+Your Love Superstar 🌠💚🌠💙🌠🧡🌠💖🌠❤️🌠 
+
+-AW 👑😇💍💒👨‍❤️‍👨💚💙🧡💖❤️🌹🌷💐🥰😘😍🌃🌌🌠🎡🎆😊🔥🥳
+
+",1,1730199657.0,u_Constant_Base2127,0,1.0,False
+1gerrlt,https://www.reddit.com/r/skyrimmods/comments/1gerrlt/mod_that_makes_the_story_within_the_book_look/,Mod that makes the story within the book look better while also adding a bunch of other new books. ,"For awhile now I wanted to find a mod to finish up my vanilla+ load order that makes reading books feel more immersive or just have a larger selection of in universe books/stories to look through from time to time. 
+
+Things that add in books from previous titles, add more detail to lesser known topics or stories entirely fanmade that fit within the universe of TES. Something that makes the words within the book look more attractive and not something that looks scribbled onto a coffee stained piece of paper. 
+
+I’ve spent a good time searching for this on Xbox but every mod I find is something that improves skill books or things that make the book covers a higher res or make cover design look better. ",1,1730199476.0,skyrimmods,0,0.67,False
+1gerrea,https://www.reddit.com/gallery/1gerrea,On Our Wedding Day My Finance Went On A Blind Date Novel,,0,1730199453.0,Novelnews,0,0.5,False
+1gerraa,https://www.reddit.com/gallery/1gerraa,Coffee Artea in Poblacion,"Coffee Artea has opened their new store in Poblacion, Makati! 🤩
+
+Sarap ng drinks nila esp the Horchata! Lasa pa rin yung coffee and balanced lang with the sweetness. They also added new items on their menu like pastries and fruit tea drinks.
+
+We got their: 
+Iced Leche Brûlée Latte (L) ₱240 
+Iced Horchata Manchado (R) ₱230
+
+Their new location is at the GF Bel-Air Tower, Felipe St. (same street with Tambai and El Chupacabra, near din sa Commune). They got a bigger space na air conditioned, more tables and chairs, and with limited sockets (wifi rin yata). Try niyo rin when you’re in the area. ☺️",8,1730199442.0,CoffeePH,0,1.0,False
+1gerquy,https://www.reddit.com/r/PHR4Rhookups/comments/1gerquy/40_m4f_tuesdays_with_tito/,40 [M4F] tuesdays with TiTo,"tuesdays need not be boring, let's celebtrate this tuesday by you making ""tuwad"" for me. from there anything can happen, me diving in to taste your, spanking, taking you from behind, anything...
+
+so, wanna celebrate tuwad tuesday with me? i'll be working from a coffee shop this afternoon. maybe you can tease me there and show me your fave tuwad pose/s. it'll be fun.
+
+it's pretty obvious what this post is about. i'm looking for a fine lady who wants to release her primal nature and yell and moan. young or matured, the important thing is that you have a deceiving attractive and innocent looking face but be deceivingly kinky naughty and nasty. if you want to be discreet just tell me. you know the drill.
+
+about me: legit single tito, about 5'8.5 athletic, easy on the eyes, practices good hygiene, conversationalist and joker, experienced matured and adventurous, aspiring startup founder, naturally dominant in bed, obnoxiously naughty and fun",2,1730199396.0,PHR4Rhookups,0,1.0,False
+1geroxu,https://v.redd.it/h0xr8qmfeoxd1,Weird orb under Boulevard/Stinky's coffee??,,6,1730199185.0,ArsenalRoblox,6,1.0,False
+1gerooz,https://www.reddit.com/r/TheBlock/comments/1gerooz/the_coffee_hub/,The Coffee Hub,"Am I the only one who thinks those coffee ladies should just make coffee and shut the fuck up?
+
+First, I thought I was watching a renovating show. Then, it became a 'Love Island', 'MAFS' rejects show. Now, it's the maccas coffee ladies opinion show.
+
+I don't want to hear them speak. I don't care what they think. I don't need to know their names or see their faces.
+
+Just make the coffee. That's all you're there for. Nothing else.",19,1730199159.0,TheBlock,16,0.71,False
+1gerogb,https://www.reddit.com/r/dating_advice/comments/1gerogb/should_i_text_the_guy_who_disappeared_for_a_week/,Should I text the guy who disappeared for a week?,"I (34f) met this guy (29m) on OLD 2 months ago. There was immediate connection at the first date. He asked me right away for the second date and my number, and since then we exchanged daily texts and had 4 more dates. We've been both busy with our schedules and we were frequently out of our city where we live. The dates were really long but every time it felt like a split second. So far we've kissed, held hands in public (+PDA) and made out once but didn't have intercourse yet. The last date we had was lunch and coffee, followed by with a passionate kiss and ""see you soon"".
+
+However, he just randomly stopped texting me out of nowhere last week. Usually both the parties were ok to double text- sometimes he did, sometimes I did. But I didn't double text this time because I was busy and noticed quite later that he's left me on read. Something felt strange because since we've known each other there was no more than a half-day gap in between the texts, but I decided to give him space and didn't try catching up.
+
+And this was a week ago.
+
+He hasn't blocked me neither on messenger nor on the dating app, I know this because I can see his last active status on whatsapp and sometimes we're online at the same time. He simply chose to not contact me. I now assume that he has lost interest on me for whatever reason, but it would have been nice to receive at least some written rejection or any closure like ""I don't see this working, let's leave this here"" instead of simply ghosting. Honestly it hurts and makes me like I've done something wrong, because I felt like the connection was genuine and he verbally stated that he liked me very much.
+
+Would it be ok for me to text something like ""I've noticed we haven't messaged in a while. Just confirming are we both moving on from this connection?"" or should I just leave it as it is?",4,1730199128.0,dating_advice,19,0.7,False
+1gernuw,https://www.reddit.com/r/UQreddit/comments/1gernuw/todays_free_breakfast_girl_is_annoying/,Today’s free breakfast girl is annoying ,Did anyone else notice how annoying she was? She talked and laughed loudly. I think she also did the snack and coffee thing at grassy knoll in the afternoon and was equally annoying ,0,1730199062.0,UQreddit,7,0.17,False
+1germq9,https://www.reddit.com/r/ADHD/comments/1germq9/been_sitting_on_my_desk_for_7_hours/,Been Sitting On My Desk For 7 hours...,"After making (another) very detailed hour-by-hour schedule last night for the next few months, for an upcoming exam, I have spent my entire day sitting at my desk, trying to make myself start working, only to have ended up spending the entire time pacing back and forth the browser tabs, seeking advice for ""consistency"", ""efficiency"", etc. then realizing I haven't eaten anything, going to the kitchen making a cup of coffee instead and coming back to the room, pacing the whole room daydreaming with music on for like 2 hours, then trying to sit again to start working, only to end up doing it all over again, dehydrated, hungry, unproductive then ranting about it all on Reddit, gives me deja vu every time. Am I doomed?
+
+Edit: I just realized I had an objective for the post, then I forgot as I started writing, now I don't remember what it was supposed to be about O\_O",7,1730198942.0,ADHD,5,0.74,False
+1gerlx6,https://i.redd.it/v3szcad6doxd1.png,house plant aesthetic ,,0,1730198850.0,plant,0,0.5,False
+1gerlcx,https://www.reddit.com/r/gaydating/comments/1gerlcx/20_m4m_south_east_europe_femboy_looking_for_a/,20 [M4M] #South East Europe - Femboy looking for a masculine boyfriend,"(Check profile for photos)
+
+Hii everyone, I’m a 20 yo guy from Serbia. Considering I’m closeted I don’t exactly wanna reveal my face on this sub but we can do that in private chat.         
+
+Also, tell me something about yourself in your first message if you decide to send me a message, instead of just saying “hey”, otherwise I won’t reply.
+
+
+My body pics are on my profile if that matters, I take care of myself in that sense.   
+
+
+Also, if we grow closer and form a serious relationship, I will delete the pics from my profile if it bothers you. I know it’s ironic lol, but the pics are there for you to at least see my body if not my face.     
+
+
+I’m 182 cm tall and around 70kg if height and weight matter to you.     
+
+
+I’m looking for a masculine, caring, loving and loyal boyfriend who is interested in a ldr and ltr.   I’d prefer someone who is from Europe as the time zones will be much easier to handle.     
+
+
+I’m looking for someone close to my age range but as long as you are 18+ it’s fine.        
+
+
+I’m a bottom exclusively if that matters and looking for a top, although romance and intimacy is way more important than sex.     
+
+
+I rly like gaming, I like going out although I don’t really go to bars and clubs as it’s not my thing, I really like going out for coffee, breakfast, lunch, dinner, with friends or dates and just chilling sometimes when I need to rest.
+
+     
+I mostly play: Throne of Liberty, Genshin Impact, Wuthering Waves and BDO these days.     
+
+
+I’m gay and I’m very secure in my sexuality and don’t need to explore any other options.     
+
+
+Due to a small repertoire of potential boyfriends in my country and the nature of being closeted, I’ve started doing long distance relationships and have had quite a couple of successful ones.     
+
+
+If you’re looking for something similar or the same thing as me, feel free to send a message and we can get to know each other :3.      
+
+
+Also I’m not interested in straight curious guys so please don’t waste your time.     
+
+
+I prefer talking on discord if that’s alright.",2,1730198784.0,gaydating,0,1.0,False
+1gerkpf,https://www.reddit.com/r/Wawa/comments/1gerkpf/third_shift_help_truck_and_other_tasks/,Third Shift Help? (Truck and other tasks),"Hello Wawa associates! I recently have been moved onto third shift. I've been on Thirds for about a month or two now. (My GM wants to push me into TS). 
+
+Naturally I was first shift, and was always a Deli-oriented worker. Now that I'm on Thirds, I have been acquiring a lot more floor exposure. With this in mind I am pretty good at keeping up with my tasks on non-truck nights, although when it is a truck night I seem to be incapable of keeping up with some of these tasks. Such as tonight, I missed out on cleaning out the coffee island and filling up the cappuccino machine. It bothers me as an employee looking into moving up, because I don't want my coworkers (on first shift) to be mad or annoyed. 
+
+I prioritize the truck items that I need to put away (candy/back stock/cigarettes/non-tobacco). Then I shift to Bakery when it arrives. I like to think I'm getting faster at putting truck items away. Is there any tips, tricks, advice, or anything in general that I could do to improve?
+
+Tldr: truck night seems to eat up my time a lot more than I hope. Making it so I miss out on some tasks at the end of my shift. Any advice to help myself improve? (Specifically for floor/register.) ",1,1730198715.0,Wawa,1,1.0,False
+1gerjyo,https://www.reddit.com/r/ForeverAloneDating/comments/1gerjyo/20_m4m_european_femboy_looking_for_a_masculine/,20 [M4M] European femboy looking for a masculine boyfriend,"(Check profile for photos)
+
+Hii everyone, I’m a 20 yo guy from Serbia. Considering I’m closeted I don’t exactly wanna reveal my face on this sub but we can do that in private chat.         
+
+Also, tell me something about yourself in your first message if you decide to send me a message, instead of just saying “hey”, otherwise I won’t reply.
+
+
+My body pics are on my profile if that matters, I take care of myself in that sense.   
+
+
+Also, if we grow closer and form a serious relationship, I will delete the pics from my profile if it bothers you. I know it’s ironic lol, but the pics are there for you to at least see my body if not my face.     
+
+
+I’m 182 cm tall and around 70kg if height and weight matter to you.     
+
+
+I’m looking for a masculine, caring, loving and loyal boyfriend who is interested in a ldr and ltr.   I’d prefer someone who is from Europe as the time zones will be much easier to handle.     
+
+
+I’m looking for someone close to my age range but as long as you are 18+ it’s fine.        
+
+
+I’m a bottom exclusively if that matters and looking for a top, although romance and intimacy is way more important than sex.     
+
+
+I rly like gaming, I like going out although I don’t really go to bars and clubs as it’s not my thing, I really like going out for coffee, breakfast, lunch, dinner, with friends or dates and just chilling sometimes when I need to rest.
+
+     
+I mostly play: Throne of Liberty, Genshin Impact, Wuthering Waves and BDO these days.     
+
+
+I’m gay and I’m very secure in my sexuality and don’t need to explore any other options.     
+
+
+Due to a small repertoire of potential boyfriends in my country and the nature of being closeted, I’ve started doing long distance relationships and have had quite a couple of successful ones.     
+
+
+If you’re looking for something similar or the same thing as me, feel free to send a message and we can get to know each other :3.      
+
+
+Also I’m not interested in straight curious guys so please don’t waste your time.     
+
+
+I prefer talking on discord if that’s alright.",1,1730198623.0,ForeverAloneDating,1,1.0,False
+1gerjmm,https://www.reddit.com/r/r4r/comments/1gerjmm/20_m4m_european_boy_looking_for_a_masculine/,20 [M4M] European boy looking for a masculine boyfriend #online,"(Check profile for photos)
+
+Hii everyone, I’m a 20 yo guy from Serbia. Considering I’m closeted I don’t exactly wanna reveal my face on this sub but we can do that in private chat.         
+
+Also, tell me something about yourself in your first message if you decide to send me a message, instead of just saying “hey”, otherwise I won’t reply.
+
+
+My body pics are on my profile if that matters, I take care of myself in that sense.   
+
+
+Also, if we grow closer and form a serious relationship, I will delete the pics from my profile if it bothers you. I know it’s ironic lol, but the pics are there for you to at least see my body if not my face.     
+
+
+I’m 182 cm tall and around 70kg if height and weight matter to you.     
+
+
+I’m looking for a masculine, caring, loving and loyal boyfriend who is interested in a ldr and ltr.   I’d prefer someone who is from Europe as the time zones will be much easier to handle.     
+
+
+I’m looking for someone close to my age range but as long as you are 18+ it’s fine.        
+
+
+I’m a bottom exclusively if that matters and looking for a top, although romance and intimacy is way more important than sex.     
+
+
+I rly like gaming, I like going out although I don’t really go to bars and clubs as it’s not my thing, I really like going out for coffee, breakfast, lunch, dinner, with friends or dates and just chilling sometimes when I need to rest.
+
+     
+I mostly play: Throne of Liberty, Genshin Impact, Wuthering Waves and BDO these days.     
+
+
+I’m gay and I’m very secure in my sexuality and don’t need to explore any other options.     
+
+
+Due to a small repertoire of potential boyfriends in my country and the nature of being closeted, I’ve started doing long distance relationships and have had quite a couple of successful ones.     
+
+
+If you’re looking for something similar or the same thing as me, feel free to send a message and we can get to know each other :3.      
+
+
+Also I’m not interested in straight curious guys so please don’t waste your time.     
+
+
+I prefer talking on discord if that’s alright.",1,1730198587.0,r4r,1,1.0,False
+1gerj4n,https://www.reddit.com/r/mumbaimeetups/comments/1gerj4n/lesssgooo_on_a_road_trip/,Lesssgooo on a road trip!!!,"Hello everyone! This week has been boring as most of my friends have gone to their hometowns. I am relatively free tomorrow (30th October) and on 1st November and I would love some company for a road trip.
+
+**Here is the plan:**
+
+* **Option 1:** A road trip around Mumbai, including Atal Setu and the coastal road.
+* **Option 2:** A day trip to Khandala for some fresh air.
+
+Let me know if anyone is interested and we can pick a day and plan the details. Also, I suggest starting with a coffee meet to get to know each other better and see if we vibe. Looking forward to some fun company.",6,1730198525.0,mumbaimeetups,6,0.88,False
+1gerj33,https://www.reddit.com/r/espresso/comments/1gerj33/sage_bambino_kingrinder_k6_now_upgrade_to_df64/,Sage Bambino + kingrinder k6 now upgrade to df64 gen2 ,"
+
+I have got for a year now sage Bambino with kingrinder k6 .I use the kingrinder for pour over too and espresso. I make espresso but i don't think that the taste is too good like from a coffee shop.I want to upgrade to Df64 gen 2 because i want an electric grinder and i want a better cup of espresso.Am i going to see any difference or is just the espresso machine that is not such a good quality to make nice espresso?Is the problem the grinder?And if its the grinder can Df64 be the best solution?I read a lot for this grinder and i believe it will make the difference ",2,1730198521.0,espresso,3,0.99,False
+1geriom,https://www.reddit.com/r/nottingham/comments/1geriom/i_have_3_weeks_in_nottingham/,I have 3 weeks in Nottingham. ,"Hello people, 
+
+I’ve just finished my studying in Nottingham and I have 3 weeks left here. I’m gonna leave the country on 20 November. I’m 26, female. 
+
+Anyone wants to hang out for a coffee? I usually spend my time at Effy. I can’t drink alcohol. Or anyone fancy a walk? 
+
+I am staying in Beeston at the moment, in the Graduation House. Hope to meet new people and have more new perspective 🤗🤗. ",6,1730198477.0,nottingham,2,0.88,False
+1geriaf,https://www.reddit.com/r/MakeNewFriendsHere/comments/1geriaf/32m_columbus_ohio_looking_for_a_cool_ace_girly_to/,"32M Columbus, Ohio; looking for a cool ace girly to be friends with! ","
+
+
+
+
+
+
+
+
+Hi! I’m in Columbus Ohio and I’m looking for cool women to be friends with! I’ve realized I’m ace for a few years now.
+
+About me: I’m 32, live in Columbus, Ohio, and I’m into all things horror and spooky. I like watching things about Bigfoot and aliens and ghost and unexplained mysteries. I also enjoy playing traditional card games and board games. I like football and I’m 420 friendly. I also am interested in religion and spirituality and I like watching and listening to things about those topics too. 
+
+I’m looking for a friend to get coffee with, hang out with, have movie nights or game nights with, and maybe have some late night smoke sesh philosophical conversations with. 
+
+If you want to message me, please be in central Ohio! ",0,1730198434.0,MakeNewFriendsHere,1,0.5,False
+1gerhzi,https://www.reddit.com/r/onionheadlines/comments/1gerhzi/trump_campaign_claims_that_comic_tony_hinchcliffe/,Trump Campaign Claims That Comic Tony Hinchcliffe Is Just A Coffee Boy Who Was Planted By Antifa And Is The Enemy Within. ,,8,1730198402.0,onionheadlines,0,1.0,False
+1gerhmw,https://www.reddit.com/gallery/1gerhmw,Unpopular opinion: Stock Android is better than Nothing OS,,71,1730198362.0,GadgetsIndia,31,0.84,False
+1gergcy,https://www.reddit.com/r/IndiaCoffee/comments/1gergcy/cold_coffee_machine_recommendations/,Cold coffee machine recommendations,"I want to gift my friend a coffee machine for her wedding. Budget is 10-15k. She loves getting iced cappuccinos and iced lattes. As a complete noob in this area, would anyone have recommendations on what  would be a nice gift idea?
+
+It doesnt have to be a 10 step coffee or a perfect blend. She just loves a cold coffee without too much effort from home.
+
+Thanks in advance!",0,1730198215.0,IndiaCoffee,1,0.5,False
+1gerf3b,https://www.reddit.com/r/alcohol/comments/1gerf3b/if_caffeinated_alcohol_is_banned_in_the_us_how/,"If caffeinated alcohol is banned in the US, how are canned whiskey and cokes sold?","FDA targeted 4Loko in 2010 and banned caffeinated alcohol drinks from being sold. But I still see drinks sold in cans that are technically (lightly) caffeinated like canned Jack and Coke. At bars, I can even order myself a red bull with jager. Not sure if it would be illegal to sell a canned version? That has always been normal. Ive seen coffee based drinks that are probably caffeinated. But for some reason the FDA made a huge fuss about 4Loko. ",2,1730198071.0,alcohol,1,0.75,False
+1gere3d,https://www.reddit.com/r/Nurnberg/comments/1gere3d/suggestion_for_a_cafewarm_cosy_place/,suggestion for a cafe/warm cosy place,"hey, I have been going through somewhat of tough time, and want to just relax and sit and have a cake and coffee read books and write, can you suggest a cafe that is also lgbtqia+ friendly and also affordable ? and they dont mind me spending a few hours ?",1,1730197959.0,Nurnberg,5,1.0,False
+1gerdo1,https://www.reddit.com/r/HoustonClassifieds/comments/1gerdo1/requesting_two_movers_for_150_each_afternoon_of/,Requesting two movers for $150 each. Afternoon of 11/22/2024,"Moving to Spring, TX and will need help moving my furniture to a second floor apartment. Most of my furniture is from Amazon/Wayfair so it's pretty light. Requesting two people because of stairs and size. I don't think it would take more than hour, but I would block out 2.5 hours just in case. The main things that I'll need help with are: bed frame, mattress, couch, chair, entertainment center, small bookshelf, coffee table. 
+
+The expected arrival time is the afternoon of 11/22.   
+",0,1730197908.0,HoustonClassifieds,3,0.5,False
+1gerd6e,https://www.reddit.com/r/SatisfactoryGame/comments/1gerd6e/more_lights_in_vanilla_please_please_coffee_stain/,"More lights in vanilla please ! Please, Coffee Stain, hear our plea!","Fellow pioneers, lend me your ears!  
+  
+Why must our lighting be so limited?  
+Why can't we bathe our spaghetti factories in the glorious glow of adjustable spotlights?  
+  
+These rigid, solitary lamps are a tragedy!  
+  
+Coffee Stain Studios, we implore you: let us illuminate our world with a thousand different lights for Ficsmas and beyond !
+
+https://preview.redd.it/anbd7g0eaoxd1.png?width=512&format=png&auto=webp&s=9ea6026090c533274c573a2ba0bed23b102e49a4
+
+",5,1730197854.0,SatisfactoryGame,1,0.86,False
+1gercp7,https://www.reddit.com/r/williamsburg/comments/1gercp7/best_pumpkin_spice_latte/,Best Pumpkin Spice Latte??,There are so many great coffee shops in Williamsburg but I have yet to find one that makes a good Pumpkin Spice Latte or generally has really good seasonal drinks.. any recommendations?,1,1730197803.0,williamsburg,0,0.67,False
+1gerbom,https://www.reddit.com/r/keto/comments/1gerbom/coffee_creamer/,Coffee creamer,"Hi everyone! I have been doing Keto since July. I haven't dropped weight like I thought but my body composition seems to have changed and I've lost inches off my waist. I am still 30lbs overweight so I am trying to eat more thoughtfully to try and move the scale. 
+
+Do you all see more progress with heavy cream in your coffee vs unsweetened almond milk? I am wondering if the fat in the cream is a better option over the lower calorie almond milk? I usually add a tbs of mct oil to it. I just want to see some scale progress! Thanks!!",2,1730197686.0,keto,17,0.75,False
+1gerb58,https://www.reddit.com/r/bloodpressure/comments/1gerb58/just_measured_my_bp/,Just measured my bp,And it was 121/82. Just an 45min ago had coffee and one nic pouch Not a good number for me. I have been addicted to nic pouches for 2 years and trying to get off them. I have always had a bit of a low pressure but they are affecting it negativeky by upping the number. My mom has high blood pressure disease. I have bit of a health anxiety about the elevated result,0,1730197622.0,bloodpressure,7,0.33,False
+1gerald,https://www.reddit.com/r/CoffeePH/comments/1gerald/coffee_beans_around_pampanga/,coffee beans around Pampanga,saan nakakabili ng coffee beans around san fernando or angeles city? thanks 👍,1,1730197564.0,CoffeePH,1,1.0,False
+1geraim,https://www.reddit.com/r/interactivebrokers/comments/1geraim/i_have_a_number_of_questions_or_maybe_just/,I have a number of questions or maybe just comments about IBKR (specifically TWS) I've picked up over the years. Thought I'd share and see if they're share experiences with resolutions?,"Firstly, the reason I just came here is one that I've been puzzling over for a LONG time. 
+
+Net liquidity. How frequently is it calculated, what set of variables does it use? I've noticed it so vividly again today as of a number of earnings announcements I've played. It appears that the platform (I imagine the computation behind it and not the software itself) covers for unrealised changes to your balance before market open, but this isn't REALLY reflected anywhere else. I don't know if it's a recent feature but I see shares do now update with out of hours prices.
+
+This leads me on to their calculation of IV. In my early days I had a $50,000 account. I placed an admittedly very stupid strangle on an earnings event at very far OTM strikes. The company far better than my naive mind expected (""hmm these premiums are very juicy despite being 40% away from their value"") but they came nowhere near to getting touched or breached.
+
+I received notification that I was facing liquidation due to margin requirements. My only deduction was that whilst the price had changed in their system, they were still applying the pre-close IV calculation. If the IV was still that high after announcement then yes the premium would put me over my margin allowance but within seconds of IV crush it would be fine. It luckily was as there was nothing to liquidate beyond options so they had their hands tied :).
+
+Next:
+
+In trade view I CANNOT get rid of the 'snapshot' column. I go back and forth with IBKR support about this and eventually it seemed to be solved. Very little changed except for a few days later it was back again, and with me attempting combination of ways to remove it it just jumped back at me. I am forced to have it permanently minimised.
+
+Another:
+
+In watchlists is there any way to make the green for every positive value the row. I do NOT like the Excel style green/different green look and they seem perfectly capable of doing it in portfolio.
+
+Related:
+
+Can you make your own calculative columns in watchlists? I sometimes like to break little campaigns out into their own watchlists, and I often make multi legged positions as their own parts rather than let the SMART algo get me a horrible fix with terrible commissions. Would be nice to have the various columns allowed per row aggregated. Daily PnL for my  madeup combo for example.
+
+I suppose further related- can I force SMART with multilegged trades to use MaxRebate (which it seems to always push through MEMX if I place the order during market hours? 
+
+FINALLY - Can I join my fake iron condors together myself in any way other than putting them in their own watchlist?
+
+  
+I'm sure I have more but I want to get some food and a coffee before McDonald's earnings.",2,1730197555.0,interactivebrokers,0,0.75,False
+1ger8xy,https://www.reddit.com/r/espresso/comments/1ger8xy/how_to_choose_between_fiorenzato_allground_sense/,How to choose between Fiorenzato AllGround Sense vs Eureka Atom 75 GBW (or 65) [$1500],"Title basically says it all, which would you recommend, and why? Or are there specific shortcomings of either that are red/yellow flags for you that would make you consider the other one?
+
+After a lot of soul searching my main requirements are GBW, and I would like the option to swap burrs if at some point in the future I felt like it. I do not switch between coffees often (typically finish a bag before opening another one), and if I did, I could always use the 1zspresso hand grinder l've been using for the past 3 or 5 years. This would probably be for 2-4 drinks per day with maybe up to 10 or 15 during parties (maybe more with some espresso martinis in the mix). I primarily use a local roaster, Trax's Guatemala Heuheutenango, a medium roast but will mix it up with other bags here and there. It may be that I don't actually know what good coffee is, but I really really like this roast. Highly recommend it to anyone in the NYC/Hudson Valley area. DeCicco's carries it if you're interested.
+
+Anyway, which would you recommend, or alternative if there is another GBW option I should be considering at roughly this price point? I'd especially love to hear from any owners of either about pain points you've experienced. Thank you so much!",2,1730197372.0,espresso,0,1.0,False
+1ger8eb,https://www.reddit.com/r/gurgaon/comments/1ger8eb/diwali_week_plan_peeps/,Diwali Week Plan Peeps,"Hey everyone! Using a throwaway here, but I've been around for a while, so I'm not a total stranger.
+
+I've been living in Gurgaon for about a year now, and honestly, it hasn’t been easy adjusting. Most of my friends are from work, but with Diwali here, they’ve all gone home for the holiday. The idea of spending Diwali week solo isn’t exactly thrilling, so I thought I’d reach out to see if others are in the same boat.
+
+I’ve seen a few posts from people staying in town, so maybe we could meet for a casual coffee or something low-key to start. This could be a good way for all of us to make a few connections, and we can decide from there if we’d like to do something more for Diwali.
+
+If you're interested, feel free to DM if that’s more comfortable, or just drop a comment here. Let’s see if we can make this Diwali a little brighter together!
+",1,1730197312.0,gurgaon,8,1.0,False
+1ger829,https://www.youtube.com/watch?v=M4Otf6anQ3Q,18ft Double Decker Coffee Trailer Display,,1,1730197273.0,HonluFoodTrailer,0,1.0,False
+1ger7z3,https://www.reddit.com/r/Aupairs/comments/1ger7z3/am_i_being_unreasonable/,Am I being unreasonable?,"I can't tell if I'm being unreasonable or just don't like the job, so any input is welcome! I've done a few jobs over the years, working in bars, on farms, at activity centres and as a tutor, but this is the first time I've felt so frustrated with a situation. I've been an Au Pair in Germany (Munich) for 3 months next week. Overall, the town (small and about an hour from the city centre via public transport) is nice, the kids are sweet and the family has tried to make me feel welcome. I really appreciate how they got a nut-free cake for my birthday, include me in trips and let my parents come and stay for the weekend. So it's not like everything is terrible. That being said, there are a few things that end up making me feel quite resentful a lot of the time. 
+
+First of all, the amount of criticism. At uni and in other jobs I'm very used to being given constructive criticism, so it's not like I just hate being given direction. However, I feel like I'm corrected and critiqued a lot, to the point where my first thought when I wake up for work has started being 'I wonder what I'll be told off for today'. I try so hard to take all the criticism on board, so they very rarely have to tell me something more than once. However, my host parents are very specific about how everything is done, so I can never predict what it is I'll be told to do better. The kitchen is badly designed and stains very easily, so it has to be cleaned fairly rigorously whenever it's used, so very often it's something new to take on board with the kitchen. But I work really hard to clean up when I cook (and often avoid cooking becuase it's so stressful to constantly be wondering if I've cleaned up well enough) and usually spend almost an hour cleaning up from cooking each evening even if I only cooking with one pan and a single chopping board (and I'm not a messy cook).  Even cleaning up from making a coffee or a sandwich takes about 10 minutes because of the extra steps they take to protect their wooden surfaces. And every day there is something new that I don't feel like I could have been able to predict, and I'm feeling quite hopeless that I'll ever be able to meet the family's standards.
+
+Recent examples of things I've been critiqued for include
+
+1. I put the chopping boards too close together in the dishwasher
+
+2. Although I rarely use baking paper (and the family uses it a lot for frozen pizzas etc) I should have told them earlier that they were running low so they could buy more before it ran out.
+
+3. I forgot to print a particular photo out when I was sent to print out some holiday photos for them.
+
+4. Having left the house to take the kids to school an hour earlier than usual due to their ballet class, I didn't take the bins out before leaving and so got a message halfway to school telling me it's not acceptable to leave it until I come back, even though we would have been late for ballet if I had taken the bins out before we'd left.
+
+5. I used a specific tupperware that is typically saved for the kids' school lunches (they haven't used it since I've lived here) to put some cut veggies in for them.
+
+If some of these things were mentioned gently or just less often, it would be fine. But I feel like a child being told off every couple of hours, and I'm so tired from constantly trying to do everything perfectly, and waking up earlier and earlier to give myself more time to do things. But every day there is still more criticism no matter how much I've managed to get done in a day.I feel like I'm told off for anything the mum herself wouldn't have done exactly the way I did, and there is no way to distinguish between things that matter more or less.
+
+  
+The next thing is that I feel expected to be available at any given moment, anbd changes to my work schedule aren't organised in advance. When I arrived I was told that I would work before (1-2 hours) and after (3-5 hours) school, totally 30 hours per week. In my contract it also says I shouldn't work more than 6 hours per day and that I should have 4 weekends per week off, in accordance with German Au Pair guidelines. My free time is the weekend, hours when the kids are at school and when they're in bed and all my tasks are finished. Since arriving there have been frequent occasions when I've had to reschedule my own free time plans very short notice because I'm spontaneously told I need to be available. I've had calls at 5pm several times to tell me I'll be babysitting that night as the parents are working late. Very often I'm told I need to be home during the day to let the cleaner in as the parents are going to the office unexpectedly. Last week the children were home from school for the second week of the half term holidays, but I wasn't told that they were on holiday until the day before. When I asked if my hours would change during the holidays I was told no because the kids would 'play on their own' during the day, and adult just needed to be in the house in case there were issues. But through the week I was told a few times to drop what I was doing immediately and take the kids out or do an activity for a few hours, meaning I missed a German class, couldn't get any homework done and also made more mistakes with my housework than normal. Essentially it feels like I'm always on call, and that I might be asked to work at any given moment. It's completely random whether I have a shorter or ,much much longer than usual day
+
+ I'm happy to be flexible if I'm asked to work different hours, but the best case scenario is what happened yesterday, when I was told 2 days in advance that I would be working an extra day at the end of the week. There was no acknowledgement that this is not part of my usual working week or that I'd have to change a lot around in order to be there. I'm beginning to feel super lonely because I don't have much time to see friends after all the spontaneous plan cancellations, and I'm so tired from always being ready to jump into action at any moment to do random extra tasks through the day. But I don't know if this is normal and I'm just not used to it yet. Any thoughts are super appreciated!
+
+Overall: I don't feel like I work too many hours but I feel like I work really hard and try really hard to meet very high standards, but get critiqued a lot for very small things. I don't feel like my free time is respected and, while I'm happy to be flexible if I have notice, I'm fed up of not knowing I need to change my plans until very last minute.",1,1730197263.0,Aupairs,0,0.99,False
