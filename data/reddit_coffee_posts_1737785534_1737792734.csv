@@ -1,0 +1,1521 @@
+id,url,title,text,score,created_utc,subreddit,num_comments,upvote_ratio,over_18
+1i9ibz5,https://www.reddit.com/r/Sororities/comments/1i9ibz5/cob_advice/,COB advice,"TLDR: coffee date interpretation and advice
+
+
+this week my school’s panhellenic houses started COB. I had my first experience on a coffee date with two girls from a sorority my friend is in (truthfully she got me to COB). Honestly it felt SO awkward. maybe that’s just my anxiety talking but idk. Awards i texted them saying i appreciated them making time for me and i enjoyed getting to know them. they responded along the lines of “ofc same here!” i also followed/ requested to follow them on instagram. one followed me back today, (is this a good sign?) the other hasn’t accepted or maybe she declined my follow request. I’ll be going to their house for an event tomorrow. 
+
+What questions/ topics of conversation should i bring up through this process. And any advice for PNMs in general would be helpful! ",1,1737792467.0,Sororities,1,1.0,False
+1i9ib8s,https://www.reddit.com/r/WarCollege/comments/1i9ib8s/reconnaissance_operations_a_short_primer/,Reconnaissance Operations: A short primer,"This is in part my own attempt to capture something I've had to explain many times, or I've encountered enough ""this vehicle is too heavy and too big for recon!"" or ""how do recon when people see you?"" etc statements, I just wanted a simple basic post that I could refer back to as required.  This post is designed to talk about ground recon although some principles will apply to some air based recon (most directly helicopters, UAS) although I will only address them in brief.
+
+Reconnaissance in a military sense  can be more or less distilled down to:
+
+*Gaining and maintaining contact with the enemy without becoming decisively engaged.*  
+
+There's a few concepts here to discuss:
+
+*Gaining:* This is the most traditionally understood part of scouting.  I do not know where the enemy is, and thus I need to figure out where he is or is not.  
+
+*Maintaining:* Not as often discussed.  Simply finding the enemy is not enough, ""stale"" contacts are much less valuable than knowing where the enemy is, and where they are actively not in allowing the commander to make good choices.  This places an imperative on the recon organization to keep in *contact* (which I will explain in detail) to ensure the situation is most current.  This may not be a mission for one recon system.  This introduces one of the uses of ""sensor cuing"" or ""target handoff"" in which one sensor/capability finds a target, then passes it off to a more appropriate sensor/capability.  My scout helicopter finds an enemy position.  I cannot stay on station forever so I pass the mission off to a UAS unit before the mission is assumed by a ground armored cavalry unit that will remain on station until friendly forces attack.  
+
+*Contact:* There's a few different forms of contact but where we're most interested in is:
+
+*Direct:* We are actively shooting at each other.  The firmest, but obviously most dangerous form of contact.
+
+*Visual:* I can see the enemy.
+
+There's others that are forms of contact but less useful for scouting (EW is a form of contact, but it doesn't tell the commander more than there's a jammer somewhere).  There are often sensors that will come into play like Ground Search Radar or GSR, but these sensors are usually regarded as a cue at where to look vs enough recon on their own (GSR returns are pretty low fidelity/confidence, seismic sensors let you know something is out there, but not enough to really know what it is, etc)
+
+When scouting visual contact is often best because it's the most information/least danger, but it's often impractical especially if you need to go fast (like in an armored attack) meaning often direct contact is most likely. 
+
+*Decisively Engaged:* Think of this like we're in a bar brawl.  If we're grappling, I am decisively engaged with you.  There's nothing you, or I can do but fight each other, if I try to leave you're going to gain the advantage then I'm getting choked out.  What scouts want to do is stay on their feet and mobile.  If you're mobile, if there's a good chance to get in a punch you take it, but if it's a bad situation, you keep your distance.  
+
+This makes for a scouting paradigm that's often not as close to ""snooping and pooping"" and closer to a cautious movement into contact, gaining contact, then using superior mobility to stay in contact, but not become decisively engaged.
+
+A Vignette:  *1/C Troop 1-1 CAV, a HMMWV scout platoon, has dismounted scout teams probing forward.  A scout team encounters an enemy outpost and is shot at.  The HMMWV scout trucks advance and suppress the enemy outpost with vehicle mounted weapons and mortar fire from their supported infantry battalion.  They pull the dismounted team back to safety, and establish positions where they are generally safe from return fire, but still positioned to put harassing fires and mortar fire on the enemy.  They are in a position to gain more distance if the enemy tried to close to destroy them, but they are also in a position where they can fully account for the position of the enemy.  This allows their supported forces to position on the enemy outpost to destroy it.*
+
+This isn't to say of course, that scouting won't be sneaky either, but sneaking is usually more deliberate which we'll talk about more in a sec.
+
+So there's effectively a few approaches to how recon is conducted.  This is a US Army-ism but it's a useful paradigm most countries use:
+
+*Tempo:* How fast you're going to go.
+
+*Rapid:* Aint got time to bleed, the priority is rapidly covering terrain to get in contact with the enemy or establish their absence.  This is very dangerous for the scouts because the enemy likely will see you first, but for mechanized forces that rely on speed for security and to accomplish maneuver warfare, it is often essential.  
+
+*Deliberate:* We have time to bleed.  Cautious slow movements, picking through terrain, infiltrating, and taking time.  This is the safest tempo, most likely to allow you to see the enemy first, and will take 8 hours to cover 2 KM of forward movement (small exaggeration, especially depending on the terrain).
+
+Okay now how angry are you?
+
+*Engagement Criteria*
+
+*Forceful:* You're here to break things.  Anything you can kill you do, anything bigger than you, you suppress until someone else can kill it.  This is another popular posture for armored cav
+
+*Discrete:* Don't shoot it if you absolutely don't have to, mission success means usually visual contact where you see them but they don't see you.
+
+You pair your tempo with your engagement criteria to come up with how you're going to do recon.
+
+Rapid, forceful recon is what IFV and tank based units usually do.  They maximize speed and killing power to overcome lesser enemies, while they use mobility, protection, and firepower to stay in contact with enemy forces (usually by shooting them) to allow the rest of their heavy, fast moving supported armored force to maneuver on the enemy the scouts are in contact with. 
+
+Deliberate, discrete recon is closer to what dismounted scouts do.  They're going to move mostly on food, possibly over days to maximize use of darkness, through swamps and bad terrain to avoid direct contact with the enemy, to get into position to observe the enemy without being observed.
+
+Those are your two primary ones.  You also occasionally run into ""deliberate, forceful"" which is basically search and destroy, that while forceful often accepts it'll leave isolated enemies in its wake, forceful deliberate will leave no rock unturned and cleared.  Rapid discrete is really, really hard to do as you're going to be obvious zipping along, but it's technically possible with very mobile recon forces (take contact, move back to out of engagement ranges).
+
+*Vignette/Examples:*
+
+*A six M3A3 Bradley platoon is very loud, and very obvious, but it's speed, protection and firepower makes it very well suited to rapid, forceful recon as it can aggressively move towards the enemy to gain contact, while having enough lethality to hold the enemy at a distance to avoid being decisively engaged.*
+
+*A two HMMWV scout section cannot do forceful, but because it's lower profile it is better suited to doing deliberate and discrete, with it's dismounted scouts moving far ahead of the trucks while the trucks are in reserve for a getaway or to carry enough supplies for extended operations.*
+
+It's also worth keeping in mind the kissing cousin of recon, which is often assigned to cavalry forces of ""security"" operations which is like in many ways, defensive scouting and uses the same kind of paradigms (not ""rapid forceful"" but usually set engagement criteria and differences in mission focus).  We'll talk about these in a sec.
+
+*Recon Missions:*
+
+Recon missions are generally broken down by scope and focus.
+
+*Zone Recon:* A less detailed but wide ranging mission (e.g. scout this valley)
+
+*Area Recon:* A more detailed mission focused on a given area (e.g. scout the town in this valley)
+
+*Route Recon:* Focused on a specific route or approach, spends more time looking for paths and passages while characterizing them (e.g. we need a route through this valley that'll handle MLC 140).  
+
+*Security Missions:*
+
+These are broken down by how much resistance you're going to offer and how
+
+*Screen*: This is usually more about making sure no one sneaks through an area. It may still involve engaging the enemy, but it's often limited, and often as part of breaking contact/handing off the engagement.  Basically it's a trip wire, the point is to keep an enemy from getting contact with the main force on their own terms.  This is well suited to forces that are okay at deliberate/discrete recon
+
+*Guard:* Like a screen only with the intention to do some killing too, basically the cavalry/recon force sticks between the enemy and protected element, buying time for the protected element to do it's thing.  It is different from a defense in the reality it's still a very mobility/avoiding being decisively engaged, like it's not to stand and fight, it's to make you fight my guard, shake you up, bleed you, while the Brigade behind my Squadron finishes its coffee so it can fuck you up.  This is usually a smaller mechanized or well augmented motorized force.
+
+*Cover:* Like a guard, but more fluid.  The Guard is pretty tightly tied to the protected organization, the cover is a classic cavalry mission in that it's somewhat independently operating in the space between hostile and friendly forces, denying enemy easy passage and disrupting/destroying enemy efforts.  Covers are the domain of armored cavalry as only they have the mobility and independence to 
+
+This isn't really a comprehensive guide, but it's intended to provide context for what ground based recon actually tends to look like for people's educations/saving me writing some variant of this again the next time someone asks ""how Bradly scout"" or something.",1,1737792380.0,WarCollege,0,1.0,False
+1i9ib1l,https://www.reddit.com/r/PhR4Friends/comments/1i9ib1l/32_m4f_need_a_break_from_ctrslets_chat/,32 [M4F] Need a Break From CTR's—Let’s Chat! 😜,"If you could create an ad campaign for your life, what would the tagline be? Mine would probably be, “Click here to get more coffee.” ☕",1,1737792355.0,PhR4Friends,0,1.0,False
+1i9i9o5,https://www.reddit.com/r/LowDoseNaltrexone/comments/1i9i9o5/liquid_dose_inconsistency/,Liquid dose inconsistency,"I am currently taking the liquid form of LDN suspended in olive oil twice a day for fibromyalgia. First couple of days were ok, then side effects seemed to hit harder and harder with each dose. Because of this I am currently taking a much lower dose than what I was originally, at least according to the syringe. I have followed instructions to the letter for storage, shaking before each dose and cleaning of the syringe and cap used with it after each dose. I spoke to the pharmacist and he told me that olive oil could increase absorption. That might be part of the story, it just seems so much stronger than the capsule forms I’ve tried, so I don’t think that’s all there is to it. Oddly enough dumping a capsule with Avicel in water and filtering it out with a coffee filter was fine but inconvenient to do twice a day and my doctor did not approve.
+
+I am awaiting a refill with capsules using organic rice flour. I had wanted to get the liquid since it’s easier to take twice a day instead of splitting capsules in half each day. I have a bag of empty capsules I got off amazon that I use to divide my dose for each day. I can’t afford to get 2 capsules compounded for each day and had really hoped this way would work.
+
+",1,1737792187.0,LowDoseNaltrexone,0,1.0,False
+1i9i8h2,https://www.alpinemountaincoffee.com/capresso-coffeeteam-ts-review/,"Capresso CoffeeTeam TS Review: The Capresso CoffeeTEAM TS combines a built-in grinder, programmable features, and customizable settings to deliver fresh, high-quality coffee with ease.",,1,1737792056.0,coffeelife,0,1.0,False
+1i9i876,https://www.reddit.com/r/GuyCry/comments/1i9i876/i_keep_getting_left_for_the_party_guys/,I keep getting left for the “party guys”,"Every time I get in a relationship doesn’t matter where I meet them I get left for some party guy after a while “the guy not to worry about”. 
+
+I was in a relationship for 2 years and I was happy and the fun guy at first, then my gf decided we should be together after 4 months and she would send mixed signals so I told her maybe we should just stay nothing. Then she came back and I told her if she wanted to become official she needed to be more there with me and both work on the relationship. 
+
+After a year she started trying to change me into her perfect guy, she would always tell me she loved me anyways but then it’s like she became bored like the others, I changed too much, stopped making money, started working on my engineering degree because she wanted me to not work too far anymore. Then she started going on tinder, going on night outs and she would always compare me or tell me she needs an ego boost. Then if I told her how would she feel about me doing that to her or being mean to her she would call me a narcissist. Anyways, I went to work across the country in the summer to pay for school and a vacation for us and her 10$ starbucks coffees and all I got was cheated on and destroyed self-esteem from all of this. I just wish she would have had clear intentions like the talks we had but I guess she likes to lie her way through life… should have known after the 2nd chance with her…
+
+",1,1737792027.0,GuyCry,1,1.0,False
+1i9i7je,https://i.redd.it/y363qjznj3fe1.jpeg,Battle of the century,,1,1737791946.0,adskifanclub,0,1.0,False
+1i9i6sx,https://www.reddit.com/r/IndiaCoffee/comments/1i9i6sx/does_anyone_have_agaro_moka_pothow_much_gms_of/,Does anyone have agaro moka pot?how much gms of coffee does it hold?,,1,1737791854.0,IndiaCoffee,1,1.0,False
+1i9i6fa,https://www.reddit.com/r/Anxiety/comments/1i9i6fa/one_stupid_avoidable_mistake/,one stupid avoidable mistake,"I have an exam this morning made the extremely stupid mistake of getting matcha last night with some friends. 3am now and I've tried every strategy for sleep and I'm just filled with dread now. I've literally maintained 7+ hours of sleep every night for over a year because I get horrible IBS flareups if I miss out on any sleep. 
+
+In the moment I'd completely forgotten tea has caffeine. I'm used to drinking decaf tea at night, and I never realized matcha had so much caffeine in it I guess because the L-theanine cancels out the jitters I get from coffee or yerba. I know it's my fault but still I wish this horrible drug wasn't so normalized, so many products don't even mention that they contain caffeine. I've been pretty depressed lately too and was overly excited to be doing something with other people. People say I'm smart but shit like this happens and I just can't be nice to myself at all",1,1737791806.0,Anxiety,2,1.0,False
+1i9i6bw,https://i.redd.it/pdwou7e7j3fe1.jpeg,happy weekend,,10,1737791794.0,sfwselfiesph,1,1.0,False
+1i9i5l1,https://i.redd.it/qz4t46oxi3fe1.jpeg,Documenting my coffee journey,"I always liked and had a knack for coffee drinking whether it was instant at home or cafe style at cafe. I remember have a coffee stop while on a trip on a volvo and we had a cappuccino from Barista, I loved that. Whether it were the memories of making a dalgona in the lockdown or the research I did for a good instant coffee. At that time I thought davidoff was peak and it can't get better than that. 
+
+So my first introduction to this speciality coffee was through reels and that page was amanwithcoffee. I saw one of his reels and that was the start for me. I binged almost all of his reels that exam night and got to learn so much. 
+
+We all (me and family) were oblivious of all this and thought that instant coffee was it as it is for so many people. I remember we visited kerala and an estate to see all the coffee making process and bought ground coffee for espresso. I had no idea what that was and thought it was the equivalent of an instant coffee. I was crazy for davidoff at those days. Guests came home and mummy prepared that ground coffee like one makes an instant coffee cup. God that was not a very pleasant cup for them. Now if they ever visit they never once ask for a cup of coffee all they want is tea. 
+
+So that detour aside, I finnally ordered (more appropriately asked my parents for) this moka pot and a French press on the 5th of May after a little research. I had that remaining espresso ground coffee so I made a cup of coffee. It was very hard for me for the first few days my coffee was watery I didn't expect that as I had just switched from instant and convinced myself that this was it this the shit. I was very confused and all, I thought that for making an iced coffee you need to make a cold brew and wasted so much grounds in the process. But then I just researched a little more and got to know that isn't how it works.
+
+I bought my first beans with that agaro grinder on 30th of August. Started my beans grinding journey. I obviously didn't know that this grinder was not it and was just so excited when it arrived and had fun with that I thought it was one the best cause I thought about the 1300 my parents paid for it. I already had a French press broke it, bought another one broke it too. Now parents ain't getting me one have already invested so much on my whims then came the aeropress filterpapers the weighing scale (that was just a pain to convince them to get even after the 200 price tag) then came the thermometer. 
+
+I really have been trying to learn latte art for so long but can't get it right. Now I am thinking of getting a pitcher and a frother with my saved money. Initially I thought of getting the lithium but got into my senses soon. Now I am looking for advice and recommendations for the future and what else should I get for the art. ",1,1737791702.0,IndiaCoffee,0,1.0,False
+1i9i5eq,https://www.reddit.com/r/meetjoeblack/comments/1i9i5eq/susan_must_feel_so_weird/,Susan must feel so weird,I wonder what Susan must feel. Thought she was having doing it with the guy from the coffee shop. then realizing she did it with death and then the guy from the coffee shop came back. She must have been going crazy,1,1737791681.0,meetjoeblack,0,1.0,False
+1i9i5c9,https://www.reddit.com/r/Cloisville/comments/1i9i5c9/fanfic_drunk_voicemail_from_lois_to_clark_rated/,Fanfic: Drunk Voicemail from Lois to Clark (Rated PG-13-ish),"Not sure if I'm doing this right, but here goes nothing:
+
+
+Lois' Drunk Voicemail on New Year's Eve
+
+By: Me (tearose79/Heather H.)
+
+Background noise of a party, people laughing, music playing—Lois sounds very tipsy, slurring her words and giggling.
+
+""Claaark… [hiccup]… Smallville! So, here’s the deal: it’s New Year’s Eve, and I’m standing here with a stupid glass of champagne, thinking about YOU. You’re so good at this whole 'being hot' thing, aren’t you? It should be illegal. Ssseriously...
+
+SO, someone is over here looking fine as HELL, and it’s not Todd or Chad or whoever the fuck is trying to talk to me. It’s you, farm boy. You with that smile, that flannel, and those arms that could...ugh, I don’t know… carry me away? [Giggles] Yeah, I said it.
+
+Listen, I’m not saying I’m gonna start kissing anyone at midnight, BUT… if you don’t show up, you might miss your chance. And I’m really good at kissing, Clark. Like, Olympic level. You’d be amazed. [Hiccup]
+
+And while I’m on a roll, let me just say: If you don’t get here soon, I’m gonna need a hero to come rescue me from a baad decision… and I know just the guy for the job. So, hurry up!
+
+Come on, Claaark, don’t leave me hanging. You can save me and maybe a little more... later. [Giggles]
+
+Alright...don’t make me wait, or I might just kiss the first guy who looks like he can lift me... [Hiccup] You know where to find me. Happy New Year, you big sexy farm boy.""
+
+Click.
+
+------
+
+[Clark listens to the voicemail, his face a mix of surprise, amusement, and bashfulness. He picks up his phone to call back.]
+
+Clark:
+""Uh… Lois? Hey, it’s Clark. I, um, just got your message. Sounds like you’re… enjoying yourself at the party. Are you okay? Do you need me to come pick you up?
+
+[Pauses, nervously chuckling]
+And, uh, about everything else you said… I’m not sure if that’s the champagne talking or if you really… mean all of it, but I’ll admit, you’ve got a way with words.
+
+[Clears throat]
+Anyway, just—just hang tight, okay? I’ll be there soon. Don’t do anything too, uh… impulsive before I get there. Happy New Year, Lois.""
+
+[He hangs up, grabs his jacket, and superspeeds out the door.]
+
+***
+
+Scene: Morning light streams through the window of the Kent farmhouse. Lois wakes up on the couch, clutching her head. Clark is in the kitchen, frying eggs. The smell of coffee fills the air.
+
+Lois: [groaning] ""Ugh. Did I get hit by a truck, or did I try to keep up with Chad’s tequila shots?""
+
+Clark: [smirking] ""No trucks. Just you and a very one-sided argument with gravity. You did win, though… if the goal was to land in my arms.""
+
+Lois: [squinting at him, wincing] ""Smallville, please tell me you’re kidding and that I didn’t actually… Oh God. Did I—did I call you last night?""
+
+Clark: [bringing her a glass of water] ""Oh, you called. Left a very memorable voicemail too.""
+
+Lois: [mortified, covering her face] ""Kill me now. What did I say?""
+
+Clark: [grinning as he leans on the counter] ""Oh, nothing much. Just how I should probably be arrested for being 'too hot' and how you’re an Olympic-level kisser. You were very… descriptive.""
+
+Lois: [groans, throwing a pillow at him] ""Oh, shut up! I was drunk! You’re supposed to ignore stuff like that, not bring it up like a farmer with a fresh crop of humiliation.""
+
+Clark: [laughing softly, catching the pillow] ""Hey, I’m not the one who said I should rescue you from making 'bad decisions.' Lucky for you, I take my hero duties seriously.""
+
+Lois: [sipping water, glaring] ""You know, you could’ve just left me at the party. Let me suffer the consequences.""
+
+Clark: [softly] ""That’s not really my style, Lois. Besides…"" [pauses, meeting her eyes] ""I didn’t mind. You were… honest.""
+
+Lois: [avoiding his gaze, trying to deflect] ""Well, drunk Lois is a bit of a loose cannon. You can’t trust her. She says all kinds of crazy things.""
+
+Clark: [leaning closer, his tone teasing but warm] ""Maybe. But I think she might’ve had a point.""
+
+Lois: [blinking, caught off guard, then quickly switching gears] ""Okay, time out, farm boy. I need coffee before you start getting all mysterious and broody on me.""
+
+Clark: [smiling, handing her a mug] ""Coffee’s already made. And for the record, I’m not broody.""
+
+Lois: [taking a sip, trying to mask her flustered expression] ""Right. You’re just insufferably noble and, apparently, 'too hot.' Must be a tough life, Smallville.""
+
+Clark: [grinning as he turns back to the stove] ""You have no idea.""
+
+They share a moment of quiet tension, the air charged with unspoken feelings, before Lois breaks it with a smirk.
+
+Lois: ""So… you’re not gonna hold that voicemail over my head forever, are you?""
+
+Clark: [glancing at her, his smile softening] ""Nah. But I might remind you… next New Year’s Eve.""
+
+Lois: [rolling her eyes but smiling] ""You’re the worst.""
+
+Clark: [playfully] ""And yet, you keep calling.""
+
+------
+
+",2,1737791673.0,Cloisville,0,1.0,False
+1i9i4cx,https://www.reddit.com/gallery/1i9i4cx,What I wore to a friend's birthday !!!,"Dress - local shop 
+
+Bag -  Savana
+
+Boots - khadi 
+
+It was a friend's birthday so didn't do much for jewellery , i am wearing butterfly earrings but you can't see in the pics because of my hair .....",7,1737791549.0,DesiWomenFashion,3,1.0,False
+1i9i43m,https://i.redd.it/s3pjsx5ei3fe1.jpeg,Morning coffee send is due now,,1,1737791519.0,CashCowChannels,0,1.0,False
+1i9i3jz,https://www.reddit.com/r/evilautism/comments/1i9i3jz/autism_with_ptsd_supplement_and_medication_regime/,Autism with PTSD supplement and medication regime which actually seems to be working,"TL:DR - Bupropion low dose instant release, (pure) guarana+ginseng, brahmi+ginkgo, B vitamins especially high on folate, taurine high dose, saffron extract and every few days microdosing shrooms. 
+Also some help from (very low THC) purified CBD oil, plus fish oils & probiotics for gut integrity.
+
+
+Hello, I'm level 1-2 autistic, originally lower masking in social situations (high masking other traits) but almost completely masking effectively now due to spead up social attention due to trauma.
+Experienced dramatic reduction in executive function, similar symptoms to burnout or adult regression, ADHD etc. More reactivity and rejection sensitivity. Difficulty with ethical decision making/seeing things clearly and more survival responses. These are all symptoms of low dopamine, which is an aspect of PTSD.
+
+Here is the medication and supplement regimen I've found actually has me knowing my own thoughts more and able to do a few things during the day and week, and yes, while the meds provide a stable base the supplements really do actually make life a lot easier:
+
+DAILY
+
+- Bupropion
+This is the only NDRI. It's like an SSRI but blocks dopamine and noradrenaline reuptake instead of serotonin. The listlessness of depression is a low dopamine symptom. It has fewer problematic side effects such as sexual dysfunction, weight gain and anxiety/jitteriness, that are typical or SSRIs as well as less chance of serotonin syndrome, but people often report harsher withdrawal symptoms after long term use so you know. Despite being an equally proven antidepressant, it's often used as an augmentive alongside SSRIs or to fix the side effects of SSRIs bc the neuronorms are weirdly obsessed with serotonin being the route of all mood issues. If you're like me, more serotonin from SSRIs just tends to make you jittery, so I advocated for Bupropion despite it not being a first line treatment.
+I read through a post on this sub some time ago which had 100s of comments. It asked people's most helpful antidepressants and mood meds, Bupropion was the one most often mentioned by autists. It is worth knowing though that it can lead to or accentuate mania symptoms in people prone to that because it has a ""speedy"" effect with dopamine, increasing motivation. Take note of the obvious risk if already suicidal but too depressed to act on it, too!
+Immediate release, slow release and delayed release versions exist but SR is the only one available in Australia. If trying out this medication in Australia pretend you are using for it's effects with quitting smoking as it is only subsidised by Medicare under that.
+I personally find even the low dose SR pills a bit to much, it's like a robotic hase of focus. So I cut the pills in half or thirds, even though they are coated, and take the total amount across the day as if it is an immediate release version which is typically taken multiple times (not available in Aus). This may not be nice for some people, but for me I'm able to have more emotions and dynamic thoughts this way as the amount of medication will fluctuate more throughout the day rather than keeping everything neutral. This was not medically advised (simply because it is not researched) and was off my own analysis, but is not dangerous because the amount in a half a low dose SR pill is actually less than that in an IR pill anyway. I've always been drug sensitive and almost everything I have ever taken I'm able to feel significant effects below therapeutic range, a pretty standard autism symptom, so have previously been advised by doctors to cut various (non-coated) medication many times.
+An interesting side effect I've found with all antidepressants is reducing my caffeine sensitivity. Which leads onto the next point:
+
+- Guarana extract:
+An NDRI reduces dopamine reuptake but that's not very helpful if there's not much dopamine in the system to begin with. Lying in bed a lot doesn't help, I notice an immediate boost as soon as I do anything at all. But to help with that I use caffeine from guarana for it's stimulant effects on dopamine and noradrenaline. This is similar to some adhders take both their stimulant medication and Bupropion to keep it in the system, but a light weight version cos I'm a baby. 
+Why not coffee? The caffeine in coffee processes much faster causing a tighter curve, in other words a high then a crash. This is reflected in how coffee tended to make me anxious for about a half hour then suddenly mean and tired for the rest of the day. The curve from guarana is elongated to nearly 8 hours so there is really no ""spike"". The supplement I take also has Korean Ginseng (clarity and memory) and B vitamins too, it's called ""cenovis energy support"" and I take a couple tablets twice a day instead of a morning and midday dip coffee.
+It's very hard to find single ingredients supplements for energy or focus. This leads me to my next point...
+
+- B vitamins:
+These help you think. They just do. They help you think and that gives motivation, and motivation gives energy. Be careful to read the back of any supplements you take because many seemingly unrelated ones - even those that look like single ingredients - have added B vitamins (probably so the manufacturer can give an instant ""boost"" feeling so you keep buying it). B6 is the main one it's important to make sure you're not having in excess as it had many bizarre symptoms if taken at toxic levels. B3 isn't particularly toxic but can have a weird side effect of facial flushing, so if you have rosacea or are a redhead you may want to be aware of that too. I don't specifically take a broad spectrum B vitamin supplement because they're all in so many other things, and sometimes I have supplement breaks to avoid B vitamin build up. However if you take nothing else, or lack money for too many supplements, get yourself B vitamins they're the shit.
+
+- Folate/folic acid
+This is actually a B vitamin (B9) but it's the only one I specifically take separately because virtually all autistic people are deficient in it. It's almost diagnostic, as if we genetically don't absorb it well. It's cheap and there's lots of brands in the pregnancy isle because pregnant women also need more folate (or, studies show, they're more likely to have autistic children... so at least we have a pathway for taking over the world now I guess (those studies couldn't possibly be highlighting folate defiency in mothers because the mothers themselves might be undiagnosed autistics who have autistic children because it's genetic?... no, the researchers always know exactly what they're doing and we should always trust the experts)).
+
+- Taurine
+It's in energy drinks. It's not a stimulant though, it's actually an anti-anxiety supplement (probably to balance all the stimulants!). It's a dietary amino acid that mimics the effects of the brain's calm and focus chemical, GABA. I take 3-5 grams across the day and I also supplement my dog in small amounts. All carnivorous animals will be used to taurine. The amino acid is a virtually flavourless crystal that dissolves in liquid. I find ""Healthwise"" to be a relatively cheap brand. Try to buy from health food stores or online rather than body building retailers because they jack the price up because ""man = hardcore ∴ expensive.""
+
+- Brahmi 
+This is an Ayurvedic herb meant to help memory. Well it's been extensively studied since and western science also agrees yes, it genuinely does help memory, as well as thinking, learning and mood by reducing anxiety. When I added this supplement it really made a mood difference, personally. This combination also has ginkgo (cognitive function) and... You guessed it, B vitamins. It's called ""Swisse memory + focus"" and I can't recommend it enough. I take one tablet twice a day at the same time as the guarana, if needed, because I tend to have a mode dip in the middle of the day.
+
+- Saffron
+Has well researched anti-depressant/anti-anxiety effects. It feels gentler than St John's Wart (which feels like an SSRI to me) and doesn't have all the interactions and side effects. I take two tablets of ""Swisse stress relief"". I don't feel a strong effect from it but when I was younger and had never taken antidepressants I definitely noticed a mood effect.
+
+- CBD oil
+Haven't actually taken in ages because my prescription oil is lost in the post. But CBD oil without high THC levels (NOT 10:10 oil that isn't CBD oil, or low purity gummies) helps anxiety, obviously, but anecdotally also helps with self compassion/softening around emotions and letting them out positively. I have also found this. Interestingly THC has been shown to reduce empathy (which is related to self compassion) but this is not seen with CBD. I wonder if CBD augments empathy and this is why it helps you be kinder around your own emotions. Endocannabinoids first come to us in breast milk believe it or not, which is why we have cannabinoid receptors. So feeling safer and softer around emotions when we experience it again kinda makes sense.
+
+- Pre-biotics
+Basically just eat your damn vegetables. Most things that have fibre, especially root vegetables, have some soluble fibre which is the most important supplement for gut health (though there's others). If you don't be cooking right now, or still think capsicum and tomato means you ate your vegetables and you're deathly afraid of kale, just get a powdered greens + soluble fibre jar from the supermarket and shot it in juice followed by a good chaser.
+
+OCCASIONAL 
+
+- Microdosing
+I microdose shrooms but LSD has been shown to have similar effects if that's easier for you. There's some bits going round saying microdosing can't work for mood because by definition it's less than a noticeable dose and that all the evidence is anecdotal, that it's no better than placebo. It's asking the wrong question I think. What has been demonstrated in microdosing is an increase in neuroplasticity which continues for up to two weeks after administration, that's the reason so many people find it helpful for trauma. Improved neuroplasticity may explain why people feel better, we tend to be less constrained by habitual thinking. That round about effect is hard to measure as a mood outcome though and may not be apparent immediately after taking it when the measurement is happening, because it's a sustained not an acute effect. Equal to placebo also doesn't mean it is placebo, and doesn't mean zero effect either. Placebo is a powerful effect, so something may equal placebo but for different reasons, it may also involve a different style of good feeling than the placebo, but those differences will be hard to establish with small sample sizes. Studies on restricted drugs are going to be small sample sizes because they're restricted drugs, so there is a lack of good research. In that instance, consistent anecdotal evidence is the most extensive we have. Many antidepressants are also only slightly better than placebo too, but they get government subsidised.
+The other area microdosing does have good evidence is in autism symptoms, in particular social issues. I actually vaguely enjoy small talk when I'm microdosing and can smile at strangers without making a conscious decision to do it. We're probably not the people being including in the studies on mood effects either, because we're not considered healthy population.
+The reason I only microdose every few days is shrooms build a tolerance after a few days of repeated use, and also because the ""next day effect"" is often better than the actual day I take it, something repeated by a lot of people. And if you're still sceptical yes I noticed it before reading that other people experience that too.
+If you're wondering what constitutes a microdose, basically it's less than you can feel. So just take a tiny slither that's so small you can be sure it won't have any effect and increase if you feel like it. I started by taking them right before bed so if there were any acute effects it didn't impact my day. That may not be advisable if you have a lot of trouble sleeping though because shrooms boost serotonin.
+
+- Melatonin
+Some nights, if I want to have a really early one or I think I'll have trouble calming down, I cut a tablet (of course) and take at most a half or a third. I still notice a little next-day drowsiness, but less than most over the counter sleeping pills which are drowsy antihistamines. Take it 1-2 hours before bedtime not at bedtime, and then actually get into bed at the time you decided so when it kicks in you're comfortable. Don't wait to feel tired to get yourself ready for bed because pushing through the tiredness once it kicks it will upregulate your stress hormones and you'll feel wakeful again by the time you're getting into bed. Ditto screentime shut off vs stress hormones. I do find melatonin in a pill means I don't have to turn the screen off as early before getting into bed though so that's cool.
+Many people also say taking melatonin can be antidepressant, because melatonin is converted into serotonin. I don't take it consistently enough to have a good sample.
+
+- Fish oils
+Specifically krill oil and cod liver oil are the more nutrient dense ones. These actually help mood because they are very effective at maintaining your gut lining and the gut brain is very much a thing. Damaged gut lining is typical in neurodivergent people because stress causes chemical reactions which damage the gut lining and that creates an environment for really bad bacteria (which actually encourage stress hormones even more because they are smart little fuckers) and this leads to symptoms such as irritability and aggression as well as a general worsening of the negative parts of autism. If you have colitis, leaky gut, allergies and intolerances you also want to be aware of constantly repairing your gut lining because it's being more damaged by food. Krill oil has additional antioxidants (astaxanthin) and is better for the environment, krill fisheries are 1/50th what they would need to be to start depleting krill populations and they're also invertebrates so if you're a vego who's never been able to benifit from fish oil, this is your best bet. Cod liver oil also beats general fish oil and is arguably the most healing on the gut but be careful of constant high doses because of vitamin A toxicity. Squeeze it onto your face on your off days if you like because it's basically liquid retinol.
+
+- Probiotics
+Probiotics are like scattering seeds on soil. You wouldn't scatter the same seeds in the same spot every day, it would be wasteful and expensive. You also wouldn't focus on scattering seeds if you were standing on concrete, you'd focus on improving the ground so the seeds had a change of survival. So because high quality probiotics are expensive I only take them once or twice a week, and focus on cheap pre-biotics like root veggies and garlic because bacteria should multiply thus they shouldn't need to be taken every day. If you don't eat pre-biotic food, it's worth taking probiotics every day though to maintain a constant population. You might argue that yoghurt is generally quite a cheap alternative, but most yogurts only have like 4 main bacteria and the lacto and bifida bacteria aren't the only good ones. I find the most complete probiotic bottle I can which is generally like 12 strains and just take it less often.
+
+
+Additional thoughts: 
+Although I don't regularly take these here are some other helpful supplements…
+
+- Zinc
+Commonly low in people with anxiety. Zinc and copper need to be in balance so if you get tested and they both have good levels, enquire about the ratio between them to know if Zinc needs supplementing. Don't overdo it as it's a heavy metal.
+
+- L-theanine 
+Found in tea, it's said to create a calm focus. If you don't want to buy another expensive thing just replace coffee with green tea.
+
+- Antioxidants in general
+Autistic children have the same gut oxidative stress production and neurotransmitter profiles as adults with PTSD. Read that again for effect. Poor kids hey?
+Probably poor us too it's just that kids are the only ones getting studied, because appealing to parents get more money for studies. Oxidative stress (ROS and NOS species) are produced by bad guy bacteria in a stressed out body and have a looping effect. They also produce stress related neurotransmitters in that kind of environment instead of the fun ones (yes gut bacteria make neurotransmitters like dopamine too, sucks hey). Antioxidants clean up that environment. Multiple studies have shown that various kinds of powerful antioxidants improve symptoms in autistic... well, children, of course. And mice, because they make autistic mice now. But the same should hold true for autistic adults and for PTSD. Readily available powerful antioxidants used in some of those studies include resveratol and green tea extract. I don't take these much now because virtually all herbal supplements have some antioxidant effects and virtually all antioxidants thin your blood. When I was taking a lot of different kinds I started to get occasional nose bleeds, so be aware of high dosing if you already have clotting issues. 
+
+- Liquorice and electrolytes
+There is a correlation between low blood pressure and anxiety. Basically your heart is working harder, your nervous system senses more danger and stays in a sympathetic fight/flight mode more. It's that feeling of something bad being about to happen for no reason. It can also show up alongside digestion tract issues because bowel movements impact blood pressure. Neurodivergent people tend to have autonomic issues such as low blood pressure. Increasing blood volume through hydration increases pressure, because physics. And plumbing. Liquorice root is very powerful at raising blood pressure, so much so it comes with warnings for people with with hypertension. Liquorice root tastes nothing like the candy which is a good thing because I've never been able to eat the candy. It comes in chewable dried root form (naturally sweet due to eg xylitol), teas, tablets and liquid extract. It's so effective at moving sodium around though it can cause a dangerous drop in potassium in high doses so if using the extract pay attention to the dosing. I find starting my day with a cup of liquorice tea makes the day better.
+The same effect can come from having salt dissolved in warm water first thing, or bicarb soda and tartar. All cheaper than drinking hydralyte every day.
+If your blood pressure is too low to get up first thing in the morning soak any of these over night and leave by your bedside table.
+
+- Keto diet
+This was invented for kids with epilepsy who were too young for medications. Epilepsy is many, many times more common in the autistic community probably because it's an electrical issue and we also tend to have more responsive, reactive brains. The keto diet has proven to be helpful in autism as well as in all mental health problems and all neurodivergence. I'm not exaggerating. The reason is your brain starts running on fat (ketones) instead of glucose. It's like switching from petrol to diesel. Fast burning and firey verses slow, powerful and consistent. Highly sensitive brains in general don't run well on glucose because it spikes and dips so much, and those spikes are magnified by our sensitive reactivity. Thats why this diet works in all mood disorders and neurodivergences it's been tried in (after all, epilepsy is a neurodivergence). It seems to work especially well in disorders that are the most resistant to treatment such as eating disorders, borderline personality and bipolar.
+(Of note, people with anorexia are likely to be in ketosis because they're running off body fat which is why a sense of being more in control is experienced, so a healthy keto diet brings the same mental and emotional control thus is more successful than most treatments).
+The diet is fucking challenging, ngl, and a lot of people miscalulate and get things wrong wondering why they're not benefiting or why they're feeling hungry. You can't eat as much protein as you would assume, that's a big one, because protein converts to glucose. I did it for a week but then was stuck in a country town with no supermarket and so broke. I did feel improvements almost immediately though, things weren't perfect but it didn't matter, I felt... Resilient? For once. I'm lucky I'm female bodied because female bodied people enter ketosis much faster that's how I noticed effects straight away. For males it takes a few hungry days to get into ketosis.
+
+
+Okay, done.",1,1737791448.0,evilautism,0,1.0,False
+1i9i3ao,https://www.reddit.com/r/UCSB4Sale/comments/1i9i3ao/lease_takeover_opportunity_sabado_tarde_rd/,✨ Lease Takeover Opportunity – Sabado Tarde Rd-  SPECIAL LIMITED DISCOUNT ✨,"Hey everyone!  
+I’m an international student heading home and looking for someone awesome to take over my lease for a cozy top-floor apartment near Manzanita on Sabado Tarde Rd. The lease is with Solis and runs until August.
+
+
+
+🏠 **What’s the deal?**
+
+* Fully furnished apartment (no need to worry about buying furniture!)
+* You’ll be sharing with one lovely roommate, and we’re specifically looking for a girl.
+* Laundry room (say goodbye to laundromats!)
+* Cute balcony for morning coffee or late-night stargazing 🌌
+* Literally so close to campus—sleep in a little longer!
+
+
+
+📅 **When?**  
+I’d love for someone to move in by February, but if you’re ready sooner, we can totally make that happen!
+
+
+
+💰 **Rent:**  1,050 dollars Special discount up until the 28th of Jan after that the rent will go back up to 1550 dollars
+
+  
+📧 **Contact:** [ritajabdullah@gmail.com](mailto:ritajabdullah@gmail.com)
+
+
+
+It’s a fantastic spot, and I’d love for someone to enjoy it as much as I have! Message me with any questions 😊
+
+
+
+Let’s find you your next home sweet home! 🏡✨
+
+  
+
+
+*Processing img 8tvfa0n0i3fe1...*
+
+*Processing img xc8p45x0i3fe1...*
+
+*Processing img jfqkpk61i3fe1...*
+
+",1,1737791416.0,UCSB4Sale,0,1.0,False
+1i9i30w,https://www.reddit.com/r/Christianity/comments/1i9i30w/why_cant_i_act/,why can’t i act?,"why can’t i act?
+
+hello, i’ve been experiencing what feels like almost oppression. i’ve at times assumed it was just my own person sloth but i’m very adamant about wanting to change and am looking for what seems like any good opportunity. i feel as tho i am weak or unable to attain these things but always always because of some sort of oppression (socially, physically, spiritually) which i dont care about but not strong enough to overcome? i dont get the overwhelming feeling of that when i myself hate it and also rebuke it and seriously have post 360 toward christ had been able to do at a high level but now am to weak to? doesn’t make sense. not like their are struggles in my way and i dont want to face them but almost like the struggles are the attempts to changes themselfs like i feel like im going against what im supposed to be doing when i go for these “goals” for example if i want to workout, or if i want to start a company or if i want to study something or if i want to be open about my faith or live out my faith boldly in a living sense fearlessly faithfully confidently ect ect. it’s almost as if im getting convicted of what seems like a call to patience and endurance, and at that revelation im at peace BUT then because their is nothing physically happening for me besides the day to day life i am then thrown into what feels like despair and torment for not being where i “want” or “need” or “am supposed to be”. has anyone experienced this? i mean it even causes me to doubt and seriously frightens me at times to think about. my life for the last 2 years has been so miserable physically and mentally but incredibly blessed spiritually i’ve grown in my faith emencely. where the only times i find myself doubting is when i am experiencing WEAKNESS. if i’m out and getting a coffee or whatever i’m instantly thrown to the floor in what seems like weakness, as if the moment i face any sort of “darkness” it crushes me into what feels like submission??? what is this anywhere i should read? 
+
+mind you i am not actively living in sin consciously, though at times i have slips either at the peaks and at the bottoms but not much on the rise or the descents mentally or spiritually. 
+
+has anyone had a experienced like this and if so any advice on anything to read? script, saints ect ect. ",1,1737791382.0,Christianity,0,1.0,False
+1i9i2vy,https://i.redd.it/ndlh90wxh3fe1.jpeg,Morning coffee send is due now,,1,1737791366.0,findommes,1,1.0,False
+1i9i2tu,https://i.redd.it/63bq97xwh3fe1.jpeg,I made the best focus timer app for students.,"Gamified/cozy pixel art visuals! Currently in TestFlight, im still working on on IOS live activity and widgets are still in development so stay tuned!",1,1737791357.0,ProductivityApps,0,1.0,False
+1i9i2rn,https://www.reddit.com/r/AskSF/comments/1i9i2rn/coffee_shopscafes_like_noe_cafe/,Coffee shops/cafes like Noe Cafe?,"Finally tried out Noe Cafe the other day and loved the vibes. Neighborhoody, good drink selects, delicious toast and small bites, and a sunny outdoor space! Is there anything similar in other neighborhoods? I am new to the city so I thought this would be a cute way to explore SF. Thanks!",2,1737791350.0,AskSF,2,1.0,False
+1i9i1k9,https://i.redd.it/gko3kk0gh3fe1.jpeg,I made a gamified/cozy pixel art themed focus timers. Pomodoro/Timeblock,"Made with React Native! Currently in testflight, who wants to try?",1,1737791203.0,SideProject,1,1.0,False
+1i9i1g7,https://www.reddit.com/r/CICO/comments/1i9i1g7/completely_undisciplined_in_eating_need_to_start/,"Completely Undisciplined in Eating, Need to Start a Realistic First Step","
+
+TLDR I literally never cook, need fast casual/fast food/pre made meals from grocery stores recommendations high protein and or fiber, allergic to beef and can’t stand eggs.
+I usually eat 2 big meals a day so high calories per meal I can work with 
+
+
+I am 5’6, female, fluctuate between 215-225lbs. When I say I eat almost all my meals out, not an exaggeration. What I do eat at home is stuff I can slap together without using the oven, and that’s usually only a couple times a week. I drink probably 500 calorie coffees nearly every day too or end up drinking other things that total up to that. I do not count my calories currently at all, but if I had to guess I’d say I probably get about 2,000 on a good day, 2,700 on a really bad day? I have struggled with sugar my entire life, due to being overly restricted as a kid. I also grew up with the finish your plate parenting and cannot stop myself from eating far past the point that I’m actually full. Just painting the picture, my lifestyle is on the extreme end of what it should be. I have already calculated how much exercise and calories I should aim for for a medium rate of weight loss. My concern is I do not want to compound the difficulty of developing healthier EATING habits with having  to also make the job of OBTAINING food more difficult. I would like to just find better options to eat out or get premade meals that I can easily track, that are high in protein, fiber or both. That’s my only focus at the moment, I don’t care if it’s high in fat, sugar, or sodium also, I just want to focus on eating less overall, and getting better quality calories in on what I do eat that will keep me full as much as possible as a first step. Every time I try to make too many changes in the past it just backfired, either I developed an eating disorder or the massive change was not sustainable. I’m hoping that I’ll be able to incorporate cooking at home, working out more, sleeping better etc as I get used to having discipline with myself, but what I’m eating is definitely my worst area. Living alone and working 50-60 hours a week does not leave me jazzed to spend 1-3 hours on food preparation and clean up every day. ",1,1737791190.0,CICO,0,1.0,False
+1i9i12u,https://www.reddit.com/r/halifax/comments/1i9i12u/seeking_a_buddy/,seeking a buddy!,"hey all! hope you're keeping warm over this cold spell.
+
+brace yourselves for a slightly unusual request lol 
+
+i am from calgary, just visiting for my birthday! i'm finding myself with a lot of free time on my hands, and i would love someone to hang with or to show me around this gorgeous city!
+
+here's some info about me:
+
+i just turned 22, and i am a proud member of the queer community. my pronouns are he/him/his, and i love chatting about music, movies, board games, or just life in general! i've got a cat at home who is my sweet angel, and singing is a great joy of mine.
+
+i'm trying to keep this trip as budget friendly as possible, so free/inexpensive activities are mostly what i gravitate toward. i'd prefer to meet only in public settings for safety reasons. if it sounds like we would get along, or you just wanna meet a calgarian guy for coffee, please lemme know!
+
+thank y'all in advance!! cheers :)",1,1737791147.0,halifax,1,1.0,False
+1i9i0qe,https://i.redd.it/6c7s7fq5h3fe1.jpeg,Morning coffee send is due now,,1,1737791103.0,paypigfindernow,0,1.0,False
+1i9i0p5,https://www.reddit.com/r/Teethgumhealth/comments/1i9i0p5/what_can_i_drink_after_teeth_whitening/,what can i drink after teeth whitening,"What Can I Drink After Teeth Whitening: The Ultimate Guide to Protecting Your Bright Smile
+
+Teeth whitening can transform your smile, giving you newfound confidence and a radiant appearance. However, the hours and days following the procedure are crucial for maintaining those brilliant results. Many people don't realize that what you drink can significantly impact the success of your teeth whitening treatment. Whether you've just had a professional whitening or used an at-home treatment, understanding the right beverages can make a world of difference in preserving your sparkling smile.
+
+Click here to learn more: https://prodentim.myofferdeals.com
+
+Understanding the Post-Whitening Sensitivity Period
+
+Immediately after teeth whitening, your teeth become more porous and vulnerable to staining. The whitening process opens up the dental tubules, making them temporarily more susceptible to discoloration and sensitivity. This means you'll need to be extra cautious about your beverage choices to protect your investment and maintain those pearly whites.
+
+What to Drink After Teeth Whitening
+
+1. Water: Your Best Friend
+Water is the ultimate safe beverage after teeth whitening. **Clear, room-temperature water** is the most recommended drink during the sensitive period. It helps:
+- Rinse away potential staining particles
+- Hydrate your mouth
+- Maintain oral pH balance
+- Prevent sensitivity
+
+Click here to learn more: https://prodentim.myofferdeals.com
+
+2. White Beverages: The Safe Color Zone
+When in doubt, stick to white or clear liquids:
+- Milk
+- White tea
+- Coconut water
+- Clear herbal teas
+
+These beverages are least likely to stain your newly whitened teeth and provide a safe option during the critical post-whitening period.
+
+Beverages to Avoid After Teeth Whitening
+
+1. **Immediate No-Nos: The Staining Culprits**
+For at least 48 hours after whitening, completely avoid:
+- Coffee
+- Red wine
+- Dark teas
+- Cola and dark sodas
+- Fruit juices
+- Colored sports drinks
+
+These beverages contain intense pigments that can quickly undo your whitening results.
+
+Click here to learn more: https://prodentim.myofferdeals.com
+
+2. The 48-Hour Staining Rule
+The first 48 hours are the most critical. During this time, your teeth are like a blank canvas – extremely susceptible to staining. Think of your teeth as having tiny open pores that can easily absorb color from any dark or deeply pigmented drink.
+
+Navigating Beverage Choices with Precision
+
+Expert Tips for Drinking After Teeth Whitening:
+- Use a straw to minimize contact with teeth
+- Rinse mouth with water after drinking
+- Wait at least 48 hours before consuming colored beverages
+- Choose lighter-colored alternatives
+
+Click here to learn more: https://prodentim.myofferdeals.com
+
+Long-Term Beverage Strategies
+
+While the initial 48 hours are crucial, maintaining your white smile requires ongoing strategy:
+- Limit staining beverages
+- Use a straw when drinking potentially staining drinks
+- Rinse mouth immediately after consuming colored beverages
+- Consider using a whitening toothpaste
+
+Hydration Hacks for Sensitive Teeth
+
+Dealing with post-whitening sensitivity? Try these hydration strategies:
+- Drink lukewarm water
+- Avoid extremely hot or cold beverages
+- Sip slowly
+- Use a soft-bristled straw
+
+Click here to learn more: https://prodentim.myofferdeals.com
+
+Professional Insights
+
+Dental professionals recommend a white and clear diet for the first two days after teeth whitening. This approach ensures maximum effectiveness of the whitening treatment and prevents unwanted staining.
+
+When to Reintroduce Colored Beverages
+
+After 48 hours, you can gradually reintroduce colored beverages. Start with lighter options and always practice good oral hygiene. Brush and rinse after consuming potentially staining drinks.
+
+Conclusion
+
+Protecting your bright smile after teeth whitening is about making smart beverage choices. By understanding which drinks to avoid and which are safe, you can maintain your dazzling results for weeks and months to come. Remember, patience and careful selection are key to preserving your investment in a beautiful, white smile. Your future self will thank you for the extra care you take during this critical",1,1737791099.0,Teethgumhealth,0,1.0,False
+1i9i0ns,https://www.reddit.com/r/BollyGlamandRP/comments/1i9i0ns/f4m_bollywood_fanfiction/,[F4M] Bollywood Fan-Fiction,"I love doing erotic fan-fiction especially within Bollywood films . This can be any TV show or movie.
+
+
+
+For example, imagine doing a cheating roleplay with characters from Khabhi Khushi Khabhi Gham. The slutty Pooh (Kareena Kapoor) constantly pushing her limits, always small satin robes or sheer robes and nothing else, the ends of the robe stopping at her mid-thigh, the loosely tied belt the only thing protecting her from flashing. Even though her exposed waist and cleavage told a story of their own, her nipples barely hidden and did slip out every few seconds.
+
+
+
+Or Andhadhun, When Simi had to test if Akash was really blind she came to his house to investigate and while he was making coffee, she pulled out her massive breasts in the kitchen to see what visible reaction he would have or maybe down in his pants?
+
+
+
+or how about a in-universe sequel to Humraaz?
+
+
+
+Following the steps of other successful choreographers before him (Farah Khan, Prabhu Deva, Ganesh Acharya, etc) - now Omi has plans to turn into a director and take the responsibility for an entire film.
+
+
+
+Raj Singhania (41) has occasionally financed a few films done by his friends. So he is known in the producers-directors circle. One of Omi’s acquaintances helps in setting up a meeting between Omi and Raj. The men meet.
+
+
+
+Omi tells Raj, that he wants to make a movie about a married woman, without her knowledge. The woman will be someone who has a dancing background, but has been away from the dancing world for years. Raj is intrigued by the idea, and decides to fund this movie. And asks him, whom Omi wanna cast in the movie.
+
+
+
+Omi drops a bomb, and shows Raj a short film. It’s shot with hidden camera, and features Priya (36) - Raj’s wife. It’s a film where Priya is dancing in a wedding baraat, and bumps into Omi. The two dance happily. Raj is pretty impressed with the way, Omi has used the camera, edit and music. And also, he likes the idea of his wife returning to something dance/entertainment related field. He gives green signal.
+
+
+
+Omi and his brother Karan had a ten year age gap, so after their parents death - Karan had practically been like a parent to him. Omi as a ten year old, was pretty fond of Priya (who back then, was his Bhaiya’s girlfriend). Omi used to constantly day dream about living a perfect life with Karan and Priya. Until one day - everything was over!
+
+
+
+As he grew up in this harsh world, he found what had happened to his brother. And how Priya was now living a luxurious life. He would often feel his brother inside his mind, and would want to take Priya for himself. In his head, that would unite Priya and Karan. He started learning to dance, his brother’s old videos and memories helped him a lot. And the hatred for Priya and Raj just fuelled his passion.
+
+
+
+Meanwhile Raj Singhania is going through a crisis. He has been not able to get his rod hard for any woman since years now. He loves his wife truly, and he knows that she loves him too. But the lack of sex is eating him up. There was no excitement or color in his life. Until Omi walked into his office with that short film…
+
+
+
+When Raj saw Omi (a young guy) dancing with his wife. He felt a current flowing through his body. He felt hard for the first time in years. He saw how Omi’s hands had brushed against the naked skin of Priya’s back and waist. How her giant melons had crushed on Omi’s chest a couple of times. He wanted more…
+
+
+
+=
+
+
+
+We can come up with different ideas to amplify the already existing objectification (e.g. how Katrina Kaif wearing even skimpier clothes in her songs Shiela ki Jawani & Chikni Chameli).
+
+
+
+Kinks: bareback, corruption, cheating, non-con, humiliation, risky, clothes ripping, unintentional baiting, cuckolding, being objectified, partner being GM, barefoot (just me), huge tits, ENF, being sub
+
+
+
+Limits: Scat, piss and blood
+
+
+
+Now Playing:
+
+
+
+Agni Sakshi
+
+
+
+Ajnabee
+
+
+
+Andhadhun
+
+
+
+Auzaar
+
+
+
+Bachna Ae Haseeno
+
+
+
+Bluffmaster
+
+
+
+Chor Nikal Ke Bhaga
+
+
+
+Chori Chori Chupke Chupke
+
+
+
+Daud
+
+
+
+Deewane
+
+
+
+De De Pyaar De
+
+
+
+Devdas
+
+
+
+Dhoom
+
+
+
+Dhoom 2
+
+
+
+Dil Chahta Hai
+
+
+
+Diljale
+
+
+
+Dil Kya Kare
+
+
+
+Dilwale Dulhania Le Jayenge
+
+
+
+Dil To Pagal Hai
+
+
+
+Don
+
+
+
+Dostana
+
+
+
+Duplicate
+
+
+
+Dus
+
+
+
+Gehraiyaan
+
+
+
+Gupt The Hidden Truth
+
+
+
+Hattrick
+
+
+
+Heroine
+
+
+
+Humraaz
+
+
+
+Ittefaq
+
+
+
+Jab We Met
+
+
+
+Jism
+
+
+
+Judaai
+
+
+
+Kabhi Alvida Naa Kehna
+
+
+
+Kabhi Khushi Kabhi Ghum
+
+
+
+Kismat Konnection
+
+
+
+Koyla
+
+
+
+Kuch Kuch Hota Hai
+
+
+
+Kurbaan
+
+
+
+Main Hoon Na
+
+
+
+Mast
+
+
+
+Mere Yaar Ki Shaadi Hai
+
+
+
+Mohabbatein
+
+
+
+Mujhse Dosti Karoge
+
+
+
+Nikamma
+
+
+
+Rangeela
+
+
+
+Rab Ne Bada Di Jodi
+
+
+
+Saawariya
+
+
+
+Soldier
+
+
+
+The Dirty Picture
+
+
+
+Thank God
+
+
+
+Toh Baat Pakki!
+
+
+
+Yugpurush
+
+
+
+Yuva
+
+
+
+\- Still holding out for Invasive Lust
+
+
+
+",1,1737791095.0,BollyGlamandRP,0,1.0,False
+1i9i0lw,https://www.reddit.com/r/nosurf/comments/1i9i0lw/help_quitting_tikok/,Help Quitting Tikok,"With the recent ban on tiktok in the US, I'm taking it as a sign to quit. For the most part I've been doing okay but I've found the hardest time to give up is right after work. For years now, I've had a ritual of drinking a coffee and mindlessly scrolling tiktok in my car after work to turn my brain off and decompress. I've been trying to find a substitute, but nothing really sticks since Doing Things inherently takes effort and the whole point of that time is to take a minute and just exist. I know nothing is going to fully fill that void because I don't want to be alone with my thoughts lol but I'd still love some suggestions",2,1737791087.0,nosurf,1,1.0,False
+1i9i0dg,https://i.redd.it/7ll1nep0h3fe1.jpeg,Does anybody's oil go bad fast? Medium 5.5 Premier pump,"I changed my oil after 4 batches because after the 4th batch I didn't use it for a long time and the manual said not to even keep used oil in the pump for an extended period of time. I forgot and only removed it after the extended period. I noticed that the color of the oil was already at 4 in the oil change picture in the manual. I used the new oil I changed it to(instead of using the previously filtered oil) and it already changed to the 2nd color after only one batch. Note these colors don't really show in the sight glass but when you pour it into the filter 
+Should I be worried about my pump? 
+",1,1737791056.0,HarvestRight,0,1.0,False
+1i9i0cs,https://www.reddit.com/r/DigitalMarketing/comments/1i9i0cs/contribution_to_an_ai_product_for_digital/,Contribution to an AI product for digital marketing.,"I’ve been working on a collection of 100+ AI tools, and I'm now expanding the project by building AI agents specifically designed for digital marketing tasks. Here’s what these AI agents can do for you:
+
+- Create SEO strategies tailored to your business
+- Review your website’s UX to optimize user experience
+- Generate backlink ideas to boost your site’s SEO ranking
+And much more…
+
+The best part? All of these tools are free to use with a simple Buy Me A Coffee link to support the project.
+
+If you're a developer, marketers or enthusiast looking to contribute, feel free to reach out! We can discuss more details, and I’m always open to collaboration.
+
+DM or write comment below 😊
+
+Cheers!",3,1737791053.0,DigitalMarketing,2,1.0,False
+1i9hzg2,https://www.reddit.com/r/ketobeginners/comments/1i9hzg2/tmi_is_this_normal/,Tmi- is this normal?,"I was wondering of anyone else is experiencing this or had done and then its regulated? I am peeing what feels like near constantly and when I go it's alot. I've done keto back in 2017-2019 with success but I seriously don't remember the intense peeing 😂 I am drinking alot of water, taking electrolytes and eating as clean and simply as possible but even yesterday my skin and lips felt chapped and dehydrated! I'm on day 5 now I'm 5""2 and 156lb (down 3lbs of what I assume water weight). Any thoughts or advice would be great! 
+
+Example of my daily intake food: breakfast Decaf coffee (instant) teaspoon of butter 20ml heavy cream and pinch of stevia,  lunch 2 bacon scrambled eggs cooked in butter, spinach mushrooms and half avo. Dinner chicken thighs green beans kale. If I snack its usually pickles or pre cooked chicken. Water intake around 3 litres.
+
+Thanks x",2,1737790935.0,ketobeginners,3,1.0,False
+1i9hylq,https://i.redd.it/xxivz1qcg3fe1.jpeg,breakfast today,"here’s my asian inspired breakfast. had it at 7:00 here in europe. part of it is japanese inspired, part of it isn’t. from bottom left clockwise … cucumber salad, udon with sriracha mayo, natto, miso soup, coffee, edamame. on the plate : rice with kimchi and sesame oil, rice cakes with shrimp and corn, sausages, fried egg.",3,1737790833.0,JapaneseFood,1,1.0,False
+1i9hy8a,https://www.reddit.com/r/dating_advice/comments/1i9hy8a/confused_by_signs_from_a_girl_i_like_need_advice/,Confused by signs from a girl I like – need advice,"
+Hey everyone, I’m a student and there’s this girl I’m interested in. She’s a receptionist at the university, and I’ve been getting mixed signals from her. I’m confused and could really use some advice to understand what’s going on. Here are the signs I’ve noticed:
+
+Signs that make me think she might be interested:
+	1.	At the food court, she looked at me and then passed in front of me, adjusting her hair to the other side.
+	2.	My friends told me that they’ve noticed her looking at me when I’m walking, even when I’m not looking at her.
+	3.	One time, she was with her friend, and her friend was looking at me too. It was clear they were talking about me because her friend kept glancing my way before turning back to talk to her.
+	4.	I was getting coffee with friends and heading to the elevators. She showed up behind us right after finishing her work. My friend said it felt like she was waiting for the perfect moment because there are multiple elevators she could’ve used.
+	5.	When I looked at her while she was walking, she got really nervous—her face looked like she was lost or unsure.
+
+Signs that confuse me:
+	1.	Sometimes when I look at her, she avoids eye contact and looks away immediately, especially when she’s at her desk.
+	2.	I’ve noticed her looking at other guys, which makes me second-guess things.
+	3.	She smiles at everyone except me. I get that she’s in customer service, so maybe it’s part of her job, but it still throws me off.
+	4.	Her frequent glances at other guys really confuse me—it makes it hard to tell if she’s just friendly or if she’s not interested.
+
+What do you think about these signs? Am I reading too much into things, or could she actually be interested but just shy or unsure? Any advice or similar experiences would be appreciated.  ",2,1737790787.0,dating_advice,1,1.0,False
+1i9hy6d,https://i.redd.it/jnpps1m6g3fe1.jpeg,"Sunday Drag Brunch with unlimited food for Php799 at Hoesik, Poblacion","Sa mga naghahanap ng ganap tomorrow Sunday, merong drag brunch sa Hoesik, Poblacion with unlimited food for only Php799!!!
+
+✨Mama Honey’s Unlimited Brunch✨
+
+UNLIMITED Bulgogi Silog, Samgyup Silog, Honeybutter Chicken Silog, and Spamsilog (vouch ko yung food dito, masarap!!!), unlimited coffee with family-friendly drag performances from Odasha (from Drag Den S1), Malayaugh and Giovanni. Sobrang sulit!!???
+
+Message Hoesik or their event promoter (@miannbalagon) on Instagram to secure a spot.
+
+https://www.instagram.com/p/DFC7uVCBgl5/?img_index=1",1,1737790779.0,CasualPH,0,1.0,False
+1i9hxzf,https://www.amazon.de/dp/B008YETL18?tag=andreade0a-21,"De'Longhi EcoDecalk Descaler DLSC500, 5 Descaler Cans, Coffee Machine Descaler, Coffee Machine Maintenance Accessories, Herbal Ingredients, Bottle of 5 Cans, 500ml #ADV #EcoDecalk #De'Longhi #Descaler #5 #DLSC500,",,1,1737790751.0,ItaliaBox,0,1.0,False
+1i9hxzc,https://www.reddit.com/r/BipolarReddit/comments/1i9hxzc/wellbutrin_and_seroquel_and_constipation/,Wellbutrin and Seroquel and constipation?,"Hi,
+In agony been to ER twice this week. Fainted on toilet. Trying to figure out what is causing this extreme constipation. Nothing is working. I puked this morning. I am on daily Wellbutrin 300 mg. And as needed Seroquel 25-50 mg. 
+I know now from looking on here that Wellbutrin can cause constipation. Has anyone had success resolving their constipation???? 
+
+In past month I tried senna about 5 times, then this week I took colace 3 tabs at a time , ducolax oral tabs twice, ducolax suppositories five times, three saline enemas, miralax, today Metamucil, today prunes, coffee, hydrating. The miralax I did 3-7 cap full of it at a time. Several times.
+
+Tonight snotty ER doctor told me mag citrate liquid would work. I drank two bottles. Nothing except more abdominal pain. What works? 
+
+",1,1737790750.0,BipolarReddit,0,1.0,False
+1i9hvqq,https://www.reddit.com/r/askSingapore/comments/1i9hvqq/ang_bao_guide_for_expats_dos_and_donts/,Ang Bao guide for expats- do’s and don’ts,"Its my first CNY in Singapore, beyond the family if I want to show appreciation to someone like my coffee lady. What’s the protocol? Nice? Weird? Help me ",6,1737790468.0,askSingapore,9,0.75,False
+1i9hvfj,https://www.reddit.com/r/makati/comments/1i9hvfj/sunday_drag_brunch_with_unlimited_food_for_php799/,"Sunday Drag Brunch with unlimited food for Php799 at Hoesik, Poblacion","https://preview.redd.it/0p54t1n4f3fe1.jpg?width=3277&format=pjpg&auto=webp&s=d7e89c2cde0a14643cbc4ee4074d52e33e0c8aa4
+
+Sa mga naghahanap ng ganap tomorrow Sunday, merong drag brunch sa Hoesik, Poblacion with unlimited food for only Php799!!!
+
+✨Mama Honey’s Unlimited Brunch✨
+
+UNLIMITED Bulgogi Silog, Samgyup Silog, Honeybutter Chicken Silog, and Spamsilog (vouch ko yung food dito, masarap!!!), unlimited coffee with family-friendly drag performances from Odasha (from Drag Den S1), Malayaugh and Giovanni. Sobrang sulit!!???
+
+Message Hoesik or their event promoter (@miannbalagon) on Instagram to secure a spot. ☺️
+
+[https://www.instagram.com/p/DFC7uVCBgl5/?img\_index=1](https://www.instagram.com/p/DFC7uVCBgl5/?img_index=1)",5,1737790426.0,makati,0,1.0,False
+1i9hvf4,https://www.reddit.com/r/KamenRider/comments/1i9hvf4/suga_in_gavv/,Suga in Gavv,"I just saw the latest episode and in the scene where Suga offers coffee to Shouma, he stole a piece of his hair.
+
+Is it possible Bitter Gavv will be a Shouma clone created by Suga and Nyelv where he gets the Black Gavv from Dente's notes and also the ability to generate new Gochizos by eating Earth snacks.
+
+I think Bitter Gavv will create Chocold Gochizo using which Dark Valen is created.
+
+Or that Suga and Nyelv will use Shouma's DNA to upgrade a Granute to bitter Gavv and for this help, Suga will get Vrastum gear and Valen Frappe will be created using that gear",1,1737790425.0,KamenRider,1,1.0,False
+1i9hvb6,https://www.reddit.com/r/santacruz/comments/1i9hvb6/killer_klowns_movie_research/,Killer Klowns Movie Research,"Hey y’all, 
+
+I’m a huge killer klowns from outer space fan and someone who’s been around here for quite some time. Over the years, I’ve met people who have had dads, uncles, family friends, etc. who have been apart of the movie. However, I’m always eager to learn more and meet more people who who were apart of, created, or know anything deeper about the film itself. 
+
+If you or anyone you know were a character, a editor, cameraman, whatever, please leave a comment or send a message as I would love to pick your brain more about the film and it’s conception. I’ll buy ya a beer or coffee as a token of my appreciation. Thanks in advance. 
+
+",9,1737790411.0,santacruz,0,1.0,False
+1i9hpdx,https://www.reddit.com/r/Market76/comments/1i9hpdx/h_coffee_w_canned_meat_stew/,H: coffee W: Canned meat stew,,1,1737789687.0,Market76,2,1.0,False
+1i9hoxq,https://www.reddit.com/gallery/1i9hoxq,"Yes, coffee + tea is a thing",,38,1737789631.0,PedroPeepos,7,0.97,False
+1i9hor2,https://i.redd.it/cnwsdblpc3fe1.jpeg,Green tea,,3,1737789608.0,omnimatter,0,1.0,False
+1i9ho88,https://www.reddit.com/r/7Brew/comments/1i9ho88/a_few_questions/,a few questions,"so, i have never been to 7brew. i have anxiety about going to new places like this and ive slowly been trying to learn about things but i thought it would be easier to just ask my specific questions here. im really interested in the energy drinks specifically. i’ve been a fan of the scooters energy drinks but i dont like that my favorite flavors have been a seasonal/limited time only thing and then they switched to redbull only which i really wasn’t a fan of.
+
+what im wondering is, ive tried to look up a 7brew menu and saw one where it just says you can add whatever flavors you want to the energy, however i haven’t seen a list of all the flavors they have, also i see people commenting these energy drink names all the time, im wondering if these are actual menu items, like if i went and asked for it will they know what im talking about?
+
+i’ve also seen about ordering things extra sweet which makes sense for the coffee but i also saw someone say that in reference to an energy drink, so what exactly does that mean, or am i just wrong about that?
+
+i just feel nervous about going there and not being prepared at all. do they have a more detailed menu for you to look at when you get there than what ive been able to find? im sorry if any of these questions are stupid but im grateful for any advice.",1,1737789543.0,7Brew,0,1.0,False
+1i9hlzc,https://www.reddit.com/r/Market76/comments/1i9hlzc/h_200_coffee_w_20k_caps/,H: 200 Coffee W: 20k Caps,,1,1737789272.0,Market76,11,1.0,False
+1i9hlgy,https://www.reddit.com/r/NoStupidQuestions/comments/1i9hlgy/why_dont_we_make_coffee_like_we_do_tea_by/,Why don't we make coffee like we do tea by steeping it?,Or vice versa? Why don't we make tea like we make coffee?,1,1737789204.0,NoStupidQuestions,9,0.67,False
+1i9hl7n,https://www.reddit.com/r/Advice/comments/1i9hl7n/how_to_function_at_work_open_plan_office/,How to function at work (open plan office),"I started this job 2 months ago. I have worked in other offices before but it had way less people.
+
+Current office has around 50 people in an open plan office. I genuinely cannot function at work. The noise, people walking around, talking, chewing gums, really noisy. Even the lights are real bright. And later in the day it gets real stuffy. I sit next to walkway and the lunch 'room' (which is the microwave, coffee maker, fridge, 3 seats and that's it) so people walkaround me all day. Even with headphones I can feel their steps through floor. There's no where to go where I can be alone and relax.
+
+Spending 9 whole hours day after day I am so drained.
+
+If I could focus on the work at hand and make some progress maybe I'll feel better but I can't focus long enough to make good progress so I'm behind at work and feeling utterly helpless.
+
+How do you manage this, should I try to get some days WFH  but I don't think they'll let a new person do that. Going out during lunch hour didn't help at all.
+
+I don't know how I'll ever manage full-time work. (I feel I'd be more productive with less hours in a day)
+
+Anyway, any advice? How do you manage full-time work?",1,1737789175.0,Advice,0,1.0,False
+1i9hjjg,https://www.reddit.com/r/creativewriting/comments/1i9hjjg/the_final_home/,The Final Home,"These days, I often find myself sleeping more than I usually do. Before, I used to sleep for just about 8 hours per day, but now it’s closer to 12. Even though I’ve slept a lot, I still feel restless and often spend my time lying in bed or on my couch. 
+
+As I woke up, I looked into the top of the cabinet where the picture of me and my late wife resides. That became one of my rituals in my day-to-day life. I still miss her but knowing that she’s sleeping undisturbed in her resting place calms my mind. 
+
+When I’m not sleeping or resting on my bed, I usually read, cook my own meal, and sit on the porch, drinking my coffee and reading a book whilst sitting on a rocking chair, but this time it was different. I can’t seem to have the energy to get out of my bed. As I was just lying here looking at the photograph of her, a thought flashed into my mind. “Can she see me right now? Is she happy? Will we meet again in the afterlife?” I kept thinking about those things before slowly drifting back to sleep.
+
+As I was sleeping, a vivid vision of my wife popped into my dreams. There she was, wearing her favorite shirt whilst looking at me. I can see her perfectly, unlike those dreams where you cannot decipher the image of the subject. She ran towards me, with her arms wide open, and smiling widely showing her small bucktooth---one of the traits that I came to love. I hugged her, and then she told me ***“I’ve missed you. Welcome to your new home.”*** Hearing those makes my heart feel likes it’s being crushed by the thorns of a thousand roses… and tears just fell into my eyes.
+
+I replied to her, whilst caressing her face “Where are the others?” and she replied, “They are over there, look.” I held her hand as we went towards the bright light, never looking back.",1,1737788967.0,creativewriting,0,1.0,False
+1i9hjc6,https://www.reddit.com/r/cyberpunkgame/comments/1i9hjc6/madrins_coffee/,Madrins Coffee,I recently saw the cyberpunk collab with Madrinas Coffee and was wondering if it was legit and worth buying. Anyone have any info on it?,0,1737788941.0,cyberpunkgame,0,0.5,False
+1i9hj2s,https://www.reddit.com/gallery/1i9hj2s,"I’m not sure if this is the right sub, but does anyone know if this is a quality supplement","I want to start taking lions mane, is this a good supplement thanks ",0,1737788907.0,mycology,14,0.36,False
+1i9hiv0,https://www.reddit.com/gallery/1i9hiv0,[Our Youth] Junsei & Kenshin for U! Magazine. 😏😊🤭,"It feels so nice to be able to make this post while on bed, drinking my morning coffee and listening to my favorite MV from Our Youth.
+
+It's extremely hard to move on from Our Youth. It gives me as much hard time as Utsukushii Kare and Happy of the end has given me.
+
+I am guessing the biggest reason for this has to do with the way all of them has gone to acknowledge that society is still so damn unfair, that it sucks most of the time ( i personally believe it too). Yet, at the same time they showed that is possible to find someone that can become a place of warmth, love, safe and hope for us.
+
+Despite dealing with heavy topics, all three were able to have an element of cosiness to them.
+
+I would to recommend Our Youth, Happy of the end and Utsukushii Kare all the time whenever you don't mind to hurt a bit in the process and are in the mood for something with a bit more of a quiet and an intimate vibe 😍
+
+ I would recommend When it rains, it pours for the same reason too. I am working hard to highlight it more and more from now on too. See you soon in relation to it 😍 ",16,1737788881.0,boyslove,3,1.0,False
+1i9hhx1,https://www.reddit.com/r/PelvicFloor/comments/1i9hhx1/how_quick_can_pelvic_floor_exercises_work/,How quick can pelvic floor exercises work??,"I've had this condition for Very long time. 
+Urologist told me to start pelvic floor relaxation exercises which I've been doing for about 25 days approx?
+
+Originally I was on 6mg doxazosin... Which helped .. But never really got to the bottom it
+Of it. He changed my meds to 10mg slow release Alfuzosin... Which caused some awful urine rention issues...I figure that the bladder was too relaxed?
+I don't know. 
+
+So about a week ago switched back to 6mg doxazosin. But to my surprise.. bladder has been really good. Even been able to ejaculate, drink coffee, eat sugar... All my big triggers. But strangely my bladder feels kind of numb. There's slight pain. Very slight. Again. Feels so if my bladder is maybe to relaxed? I'm only peeing now 6 or 7 times a day... Normal. 
+
+I can't imagine the 10mg Alfuzosin is still in my system after a full week off it. 
+Is it possible that the pelvic physio and belly breathing I've been doing has already helped out?
+
+Like I said.. Bladder of really weird now. Feels kind of numb. I don't really know if it's full or not. Just kind of get a funny urge to go. 
+This is new territory for me. For many years I've been used to pain and a full feeling if the bladder emptied.
+
+Stream is good... No dribble.. no bad pain... Just a very strange feeling.
+
+Anyone else relate?",1,1737788770.0,PelvicFloor,0,1.0,False
+1i9hhqf,https://www.reddit.com/r/legaladvice/comments/1i9hhqf/legality_around_questioning_potential_service/,Legality around questioning potential service animal owners on private property? (ADA question),"I work security for a medium sized metropolitan hospital near Philadelphia Pennsylvania. Our main lobby has a decent sized publicly accessible coffee shop staffed by hospital employees. Last week while grabbing coffee at the beginning of my shift a woman wandered in off the street with an unleashed adult pitbull. I was approached by one of the baristas and informed she felt uncomfortable with an unleashed dog in their store. During this conversation the unleashed dog barked multiple times and grueled at multiple customers including myself and a physician.
+
+I approached the woman with the dog and asked if she needed immediate medical aid, had an sort of appointment or intended to seek medical aid with us (to comply with emtala) to which she answered No. I followed up with asking if she was visiting a patient and she responded No again. I then asked if her dog was a service animal and she again answered No. I informed her that pets and non-service animal weren't permitted on hospital property and that she'd have to leave once she received her order. She was polite during the conversation and complied with the request. Following all of this I wrote and submitted a report summarizing the above information. Afterwards I was told that I violated federal law along with this woman's rights by asking if her dog was a service animal even though she did answer no. 
+
+This was a situation I was never trained on with my current employer and I was under the assumption from a prior employer that I could ask someone if their animal is a service animal followed by the two questions
+
+> 1) is the dog a service animal required because of a disability? 2) what work or task has the dog been trained to perform? 
+
+I'm fully aware that we're not authorized to ask for proof or authorization for service animals and once someone says Yes to those three questions they are good to go as long as the animal isn't disruptive. Did I violate the ADA in this situation? Are you not authorized to ask ""excuse me is your dog a service anima?""",2,1737788749.0,legaladvice,0,1.0,False
+1i9hg2y,https://www.reddit.com/r/PaidOnlineJobs/comments/1i9hg2y/tiny_home_kitchen_table/,Tiny Home Kitchen Table,"Designing a Functional Tiny Home Kitchen Table for Small Spaces
+---------------------------------------------------------------
+
+When living in a tiny home, every square inch counts, especially in the kitchen. One of the most versatile and essential pieces of furniture in this space is the kitchen table. Choosing or designing the right tiny home kitchen table can significantly enhance functionality while maximizing space. Here are some tips on how to create a functional kitchen table that fits snugly into your small quarters.
+
+### Prioritize Size and Shape
+
+The size and shape of your kitchen table are foundational elements to consider.
+
+- **Rectangular Tables:** These are classic and can be pushed against a wall when not in use. They are great for fitting more people around during meals.
+- **Round Tables:** A round table can create a cozy, communal atmosphere and suits smaller spaces well. Plus, there are no sharp corners, making it a safer option.
+- **Square Tables:** For extremely compact areas, a square table can provide a balanced aesthetic and is easy to navigate around.
+
+Always measure your available space before buying a table. Aim for at least 30 inches of clearance around the table for comfortable movement.
+
+Claim Here: https://digitalgooglyus.com/tiny-home-kitchen-table  
+  
+### Consider Multi-Functionality
+
+In a tiny home, it’s wise to choose furniture that serves multiple purposes. Here are some ideas:
+
+- **Drop-Leaf Tables:** These tables can easily expand for meals or fold down to save space.
+- **Extendable Tables:** An extendable kitchen table can offer flexibility, allowing you to accommodate guests without taking up space all the time.
+- **Storage-Integrated Designs:** Consider tables that come with built-in storage, such as shelves or drawers, to keep your dining essentials organized.
+
+### Choose the Right Materials
+
+When selecting materials for your tiny home kitchen table, consider both durability and style. Popular materials include:
+
+Claim Here: https://digitalgooglyus.com/tiny-home-kitchen-table  
+  
+- **Wood:** Classic and warm, wood adds natural beauty. Choose reclaimed or sustainable options for a stylish eco-friendly touch.
+- **Metal:** Sleek and modern, metal can create an industrial vibe and is easy to clean.
+- **Glass:** A glass table can make a small space feel bigger. It reflects light and has a more open appearance.
+
+### Incorporate Smart Design Features
+
+Think about features that enhance usability:
+
+- **Adjustable Height:** Tables that allow you to raise or lower the height can adapt to different activities, from dining to working.
+- **Built-in Lighting:** Including LED lights underneath can brighten the space and provide practical task lighting.
+- **Foldable Chairs:** To save space, opt for chairs that can be folded and stored away when not in use.
+
+### Personalize Your Space
+
+Your kitchen table should reflect your style. Consider adding personal touches, such as:
+
+Claim Here: https://digitalgooglyus.com/tiny-home-kitchen-table  
+  
+- **Table Runner:** A colorful or textured table runner can serve as a focal point and adds warmth.
+- **Decorative Items:** Fresh flowers, candles, or artwork can enhance the overall vibe.
+- **Functional Accessories:** Use trays or baskets to keep your items organized and visually appealing.
+
+### Opt for a Color Scheme
+
+When designing your kitchen space, selecting a cohesive color scheme can make the area feel larger and more inviting. Light colors often make spaces feel open, while accents can be introduced through your choice of table design or decor items.
+
+Choosing the right kitchen table for your tiny home involves thoughtful consideration of size, multi-functionality, and materials. By focusing on these aspects, you can create a kitchen space that is not only practical but also aesthetically pleasing. Tailoring the design to suit your personal style and needs will make your tiny home feel more like home, ensuring a warm and inviting space for meals and gatherings.
+
+Creative Storage Solutions for Tiny Home Dining Areas
+-----------------------------------------------------
+
+Living in a tiny home offers unique opportunities and challenges, especially when it comes to dining areas. Creative storage solutions can transform a small space into a functional, enjoyable area for meals. By maximizing storage options, you can make the most of every square inch while keeping your dining area inviting and clutter-free.
+
+Claim Here: https://digitalgooglyus.com/tiny-home-kitchen-table  
+  
+### Utilizing Vertical Space
+
+One of the best ways to enhance storage in a tiny home dining area is by using vertical space. Instead of solely relying on horizontal surfaces, consider these options:
+
+- **Wall-mounted shelves:** Install shelves above your dining table or along the walls to store dishes, tableware, or decorative items. This keeps essentials within reach while freeing up floor space.
+- **Hanging pot racks:** If you have cooking pots and utensils that you use often, a hanging pot rack can save cabinet space and add a touch of charm to your kitchen.
+- **Over-the-door organizers:** Use the back of your dining area door to hang light shelving or hooks for additional storage of items you'd like to keep handy, such as aprons or napkins.
+
+### Multi-functional Furniture
+
+Furniture that serves multiple purposes is a must-have for tiny spaces. Look for the following:
+
+Claim Here: https://digitalgooglyus.com/tiny-home-kitchen-table  
+  
+- **Drop-leaf tables:** These tables can be expanded when you have guests and folded down when not in use, allowing for flexibility without occupying too much room.
+- **Storage benches:** Benches with built-in storage beneath the seat can serve as extra seating while hiding dining essentials like table linens or board games.
+- **Ottomans with storage:** An ottoman can double as a coffee table or extra seating for guests. Choose one that has hidden storage to tuck away items like coasters or magazines.
+
+### Stylish Furniture Arrangements
+
+The arrangement of furniture plays a crucial role in maximizing space and creating a comfortable dining experience. Consider these tips:
+
+- **Corner dining nooks:** If you can, place your dining table in a corner. A corner seating arrangement can add charm and is perfect for intimate meals.
+- **Stackable chairs:** Opt for stackable or folding chairs that can be easily stored away when not in use. This keeps the area spacious and tidy.
+- **Use a round table:** A round table can create a cozy atmosphere and may take up less floor space compared to square tables, making it easier to navigate around the dining area.
+
+### Smart Use of Containers
+
+Containers can change the game when it comes to organization. Using clear containers allows you to see what you have while keeping everything orderly:
+
+Claim Here: https://digitalgooglyus.com/tiny-home-kitchen-table  
+  
+- **Baskets:** Use decorative baskets on shelves or tables to store tableware like napkins and dinner plates. They are easy to grab and add a rustic touch to your decor.
+- **Drawer organizers:** Inside drawers, use organizers to separate utensils for easier access and a cleaner look. This prevents clutter and makes your essentials easy to find.
+- **Clear jars:** Use glass jars for pantry items like snacks or spices. They not only keep food fresh but also serve as decorative elements on your shelves.
+
+### Extend Your Storage Outside
+
+Don’t forget about outdoor storage for items that may be spilling over in your tiny home! Planning an outdoor dining area can also provide extra space.
+
+- **Outdoor cabinets or shelves:** Create a small outdoor kitchen area with cabinets that can hold dining supplies for alfresco meals, freeing up indoor storage.
+- **Patio storage benches:** An outdoor storage bench doubles as seating for guests while keeping outdoor dining essentials safe and organized.
+
+In a tiny home, every inch counts. By implementing these creative storage solutions, you can create a dining area that is not only functional but also stylish and welcoming. Remember, the goal is to maintain both efficiency and comfort, allowing you to enjoy meals without feeling cramped. From smart furniture choices to innovative organization techniques, your dining space can truly feel like home.
+
+### Conclusion
+
+Creating the perfect tiny home kitchen table involves balancing functionality and style while making the most of limited space. By carefully considering your layout and selecting a design that suits your lifestyle, you can have a dining area that feels both welcoming and efficient. Whether you opt for foldable options or extendable tables, the goal is to ensure that your kitchen table serves multiple purposes—whether it is for meals, work, or enjoyment.
+
+Claim Here: https://digitalgooglyus.com/tiny-home-kitchen-table  
+  
+Creative storage solutions can elevate your tiny home dining experience even further. Think about using benches with hidden compartments or wall-mounted shelves to keep your space organized and clutter-free. This allows you to maintain a tidy environment while still having all essential items within easy reach. Emphasizing vertical space, taking advantage of under-table storage, or using decorative baskets can also make a big difference in maximizing functionality.
+
+By focusing on these aspects, you can transform your tiny home kitchen table into a multifunctional hub that reflects your style and meets your needs. The key lies in flexibility and creativity; each decision should prioritize space-saving while ensuring comfort. Remember, every choice shapes your living experience in a tiny home. With the right design and clever storage methods, your dining area can become a vibrant part of your life, fostering connections over meals, showcasing your personality through decor, and providing a sanctuary within your compact space. Embrace the challenge and enjoy the process of creating a tiny kitchen that is uniquely yours.
+
+Claim Here: https://digitalgooglyus.com/tiny-home-kitchen-table",1,1737788560.0,PaidOnlineJobs,0,1.0,False
+1i9hfzl,https://i.redd.it/q8ghpwek93fe1.jpeg,"Not the first time, won't be the last.",,110,1737788550.0,adhdmeme,9,0.98,False
+1i9hf8u,https://www.reddit.com/gallery/1i9hf8u,H: mods w: canned coffee & melee bobs,,1,1737788470.0,Market76,1,1.0,False
+1i9hekn,https://www.reddit.com/gallery/1i9hekn,why can’t i act?,"why can’t i act?
+
+hello, i’ve been experiencing what feels like almost oppression. i’ve at times assumed it was just my own person sloth but i’m very adamant about wanting to change and am looking for what seems like any good opportunity. i feel as tho i am weak or unable to attain these things but always always because of some sort of oppression (socially, physically, spiritually) which i dont care about but not strong enough to overcome? i dont get the overwhelming feeling of that when i myself hate it and also rebuke it and seriously have post 360 toward christ had been able to do at a high level but now am to weak to? doesn’t make sense. not like their are struggles in my way and i dont want to face them but almost like the struggles are the attempts to changes themselfs like i feel like im going against what im supposed to be doing when i go for these “goals” for example if i want to workout, or if i want to start a company or if i want to study something or if i want to be open about my faith or live out my faith boldly in a living sense fearlessly faithfully confidently ect ect. it’s almost as if im getting convicted of what seems like a call to patience and endurance, and at that revelation im at peace BUT then because their is nothing physically happening for me besides the day to day life i am then thrown into what feels like despair and torment for not being where i “want” or “need” or “am supposed to be”. has anyone experienced this? i mean it even causes me to doubt and seriously frightens me at times to think about. my life for the last 2 years has been so miserable physically and mentally but incredibly blessed spiritually i’ve grown in my faith emencely. where the only times i find myself doubting is when i am experiencing WEAKNESS. if i’m out and getting a coffee or whatever i’m instantly thrown to the floor in what seems like weakness, as if the moment i face any sort of “darkness” it crushes me into what feels like submission??? what is this anywhere i should read? 
+
+mind you i am not actively living in sin consciously, though at times i have slips either at the peaks and at the bottoms but not much on the rise or the descents mentally or spiritually. 
+
+has anyone had a experienced like this and if so any advice on anything to read? script, saints ect ect. ",6,1737788406.0,OrthodoxChristianity,2,0.88,False
+1i9he89,https://www.reddit.com/r/u_Connect_Goal108/comments/1i9he89/how_can_we_make_money_from_twitter/,How can we make money from Twitter?,"Making money on Twitter is all about leveraging the reach and audience of the platform. Here are ways to monetize Twitter:
+
+1. Build a Strong Personal or Brand Presence
+
+Create value with your content: Share interesting tweets, tips, news, or humor that is relevant and appeal to your audience.
+
+Grow your followers: Engage with others, use trending hashtags, and keep to a regular posting schedule.
+
+Niche down: Focus on a specific topic or industry to attract a targeted audience.
+
+2. Sponsored Tweets
+
+Team up with brands or businesses to move their products or services using paid tweets.
+
+Sites such as SponsoredTweets or Izea will link you up with the brands looking for influencers.
+
+3. Affiliate Marketing
+
+Share affiliate links to products or services that your audience would like.
+
+You will get paid a commission when there is a sale via your link.
+
+4. Sell Products or Services
+
+Utilize Twitter for the promotion of your own products or services, like e-books, merchandise, consulting, or courses.
+
+Special deals or bundles of your tuck shop products could be promoted to your local followers as a very good example.
+
+5. Twitter Blue Subscription Features
+
+If eligible, enable subscriptions to provide exclusive content for paying followers.
+
+Twitter opens up an opportunity for creators to make money by providing premium content for loyal fans.
+
+6. Host Twitter Spaces
+
+Monetize through live audio discussions; you can share your insight or expertise in some area.
+
+You could even sell tickets for exclusive Spaces events.
+
+7. Run Ads for Others
+
+If one has a huge audience, then businesses may pay for amplifying certain tweets or their products.
+
+8. Promote Freelance or Consulting Services
+
+Let your profile show your skills: writing, design, marketing, or other, and sell to clients.
+
+9. Crowdfunding or Donations
+
+Via Patreon or Buy Me a Coffee, you can ask people to support creators like you due to your good content.
+
+Share your tipping link directly on the profile.
+
+10. Twitter Ad Revenue Share
+
+If you meet Twitter's requirements, you will be able to join the revenue-sharing program that pays in ads on certain tweets.
+
+11. Drive Traffic to Other Monetized Channels
+
+Drive fans to a monetized blog, YouTube channel, or store.
+
+Tips for Success:
+
+Interact actively with the followers.
+
+You should understand by analytics what fits best.
+
+Being more authentic helps trust and credibility.
+
+Dive into an explanation of just one of those options?",1,1737788367.0,u_Connect_Goal108,0,1.0,False
+1i9he1k,https://i.redd.it/3w31x64y83fe1.jpeg,Secure free kettles & scales. (Up to 25 free),"I’ve been calling around using my network and one of bigger EU scale and kettle company offered me promotional products. Per my phone convo it’s about 12 kettles (retail $250) 9 scales ($84-120)
+
+Cool
+
+On to the next ",2,1737788341.0,coffeerotation,4,1.0,False
+1i9hdxi,https://i.redd.it/dpoc5cew83fe1.jpeg,Funniest Nintendo memes,,11,1737788326.0,tomorrow,2,1.0,False
+1i9hdt0,https://www.reddit.com/r/Sohailtech/comments/1i9hdt0/how_can_we_make_money_from_twitter/,How can we make money from Twitter?,"Making money on Twitter is all about leveraging the reach and audience of the platform. Here are ways to monetize Twitter:
+
+1. Build a Strong Personal or Brand Presence
+
+Create value with your content: Share interesting tweets, tips, news, or humor that is relevant and appeal to your audience.
+
+Grow your followers: Engage with others, use trending hashtags, and keep to a regular posting schedule.
+
+Niche down: Focus on a specific topic or industry to attract a targeted audience.
+
+2. Sponsored Tweets
+
+Team up with brands or businesses to move their products or services using paid tweets.
+
+Sites such as SponsoredTweets or Izea will link you up with the brands looking for influencers.
+
+3. Affiliate Marketing
+
+Share affiliate links to products or services that your audience would like.
+
+You will get paid a commission when there is a sale via your link.
+
+4. Sell Products or Services
+
+Utilize Twitter for the promotion of your own products or services, like e-books, merchandise, consulting, or courses.
+
+Special deals or bundles of your tuck shop products could be promoted to your local followers as a very good example.
+
+5. Twitter Blue Subscription Features
+
+If eligible, enable subscriptions to provide exclusive content for paying followers.
+
+Twitter opens up an opportunity for creators to make money by providing premium content for loyal fans.
+
+6. Host Twitter Spaces
+
+Monetize through live audio discussions; you can share your insight or expertise in some area.
+
+You could even sell tickets for exclusive Spaces events.
+
+7. Run Ads for Others
+
+If one has a huge audience, then businesses may pay for amplifying certain tweets or their products.
+
+8. Promote Freelance or Consulting Services
+
+Let your profile show your skills: writing, design, marketing, or other, and sell to clients.
+
+9. Crowdfunding or Donations
+
+Via Patreon or Buy Me a Coffee, you can ask people to support creators like you due to your good content.
+
+Share your tipping link directly on the profile.
+
+10. Twitter Ad Revenue Share
+
+If you meet Twitter's requirements, you will be able to join the revenue-sharing program that pays in ads on certain tweets.
+
+11. Drive Traffic to Other Monetized Channels
+
+Drive fans to a monetized blog, YouTube channel, or store.
+
+Tips for Success:
+
+Interact actively with the followers.
+
+You should understand by analytics what fits best.
+
+Being more authentic helps trust and credibility.
+
+Dive into an explanation of just one of those options?",1,1737788311.0,Sohailtech,0,1.0,False
+1i9hdra,https://www.reddit.com/r/RotmanCommerce/comments/1i9hdra/scotiabank_interview/,Scotiabank Interview,Has anyone heard back from scotiabank regarding group coffee chat yet. Previous interviewees how long did it take from the closing date on the website? ,1,1737788306.0,RotmanCommerce,0,1.0,False
+1i9hd6t,https://www.reddit.com/r/Market76/comments/1i9hd6t/h_200_canned_coffee_w_glowing_fas_mask/,H: 200 canned coffee w: glowing fas mask,,0,1737788228.0,Market76,1,0.33,False
+1i9hbq4,https://www.reddit.com/r/picopresso/comments/1i9hbq4/kingrinder_k6_burrs_jammed/,Kingrinder K6 burrs jammed,"Hey guys recently my K6 could no longer grind coffee and would have much resistance and a sound even when just rotating the handle with no coffee in it. I suspect it’s due to me setting it at a too fine setting, leading to the burrs getting jammed. Have tried turning it all the way coarse, heating and freezing it, but still no fix. Anyone know any possible fixes? Thanks!",1,1737788053.0,picopresso,3,1.0,False
+1i9hbq1,https://www.reddit.com/r/london/comments/1i9hbq1/kensington_suggestions/,Kensington Suggestions??,"Hi! We’re staying at a hotel in Kensington that looks lovely , but I haven’t found much in the area to do. Design Museum and a couple restaurants but…it’s…a sparse list. I know everything we want to do is pretty much elsewhere (we usually stay in soho and like camden or shoreditch vibes more) but since we’ll be there I’m wondering if there are any locals that know of more underground things in the area or on that side of town-even cute coffee shops would be good! ♥️",0,1737788053.0,london,16,0.25,False
+1i9hbp3,https://i.redd.it/ygys05o283fe1.jpeg,😅,,1,1737788050.0,u_witch_bitch09,0,1.0,False
+1i9hai6,https://www.reddit.com/r/homelabsales/comments/1i9hai6/fsusaor_lenovo_tiny_pcs_ubiquiti_usg_hp_laptops/,"[FS][USA-OR] Lenovo Tiny PCs, Ubiquiti USG, HP Laptops, Cables, docks and DDR4/DDR5 SODIMM RAM","timestamps and pics: https://imgur.com/a/NGMMNTp
+
+Older timestamps, detailed photos of specific laptops: https://imgur.com/a/mriK0Pi
+
+~
+
+Good used electronics for sale! Love to sell multiples, open to reasonable offers, OBO. **Will provide more timestamped pictures for anything you're interested in, just ask!**  I accept paypal, cash, and other payment systems. 
+
+~
+
+**Ready to go Laptops with chargers and windows 11 installed:**
+
+- 3X HP Probook 445 G8, 14in 1080p, Ryzen 7 5800u, 16GB RAM, 512GB SSD, $239 shipped
+- 1X HP Probook 445 G8, 14in 1080p, Ryzen 7 5800u, 16GB RAM, 256GB SSD, Ugly duckling, fully functional, see pics of A2115. Some denting on chassis. $199 shipped
+- 1X HP Probook 445 G8, 14in 1080p, Ryzen 7 5800u, 16GB RAM, 256GB SSD, had coffee spilled on it. Cleaned it up, tested, fully functional, $199 shipped
+
+~
+
+Desktops (Linux Mint installed):
+
+- 2X Lenovo M710q 10MR003UUS, i5-7500T, 16GB RAM, 128GB SSD, with 65W AC adapter, $65 shipped
+- 1X Lenovo M700 10HY001RUS, i5-6500T, 16GB RAM, 128GB SSD, with 65W AC adapter, $60 shipped
+
+~
+
+**U-FIXIT Laptops (most do not come with chargers):**
+
+These make great Proxmox/homelab machines! Or if you're handy, combine a couple parts laptops into a perfectly good one!
+
+- A2108, HP Probook 445 G8, 14in 1080p, Ryzen 7 5800u, 16GB RAM, 256GB SSD, KB not functioning, no charger, $165 shipped
+- A2113, HP Probook 445 G9, 14in 1080p, Ryzen 5 5625u, 16GB RAM, 256GB SSD, Damaged chassis, dents in top, broken screen, boots just fine. Great for parts or proxmox/headless server. No charger, $99 shipped
+- A2034, HP Zbook 15v G5, i7-9750H, 15.6in TOUCHSCREEN, 16GB RAM, 512GB SSD, broken screen, no charger, great homelab/Proxmox machine! $99 shipped
+
+~
+
+**RAM, Webcams, CAT6 cables, Switches,etc:** 
+
+- Schitt stack, Magni/Modi 2 Amp and DAC with nice cables. Offer!
+- 20X Brand new in packaging Crucial 8GB DDR4-2400 SODIMM RAM modules $10 each+ship
+- 7X Micron 8GB DDR5-5600b SODIMM RAM Modules $12 each+ship
+- 4X CODI 7 port mini dock, can do USB-C Power delivery! $15 each+ship
+- 3X Monoprice 13in1 dual HDMI DP MST dock model 44467, on Monoprice for $50, asking $30+ship
+- 2X Euasoo USB-C Hub Pro, model ES-HB007, they go for around $50 online, Asking $30 each+ship. really nice hub/docks!
+- 2X HP USB-C G5 dock, $30+ship each
+- 1X Ubiquiti Unifi USG-PRO-4, good used working condition. $60+ship
+- 3X 11.6in 1080p Industrial Touchscreen monitors. They sell for $110+ on top of shipping on Aliexpress. Asking $50+shipping each on these.
+- 15X Used 720P webcams, Logitech and Microsoft, $5 each, 1 Free with laptop purchase, just ask.
+- MANY Lenovo 90w and 65W yellow square tip chargers. $9 per 90W, $6 per 65W+ship
+- 6X Logitech Mk120 Mouse and keyboard combo NIB, $9+ship each, One free with any laptop purchase, just ask.
+- 4X Logitech C920e pro 1080p webcam, used, $25+ship
+- Many USB-C cables of various lengths and kinds, offer. One free with any laptop purchase, just ask.
+
+- 75X (yes, Seventy Five HP Prodisplay P240va 24in 1080p monitors, $25 each, $45 per pair. WILLING TO SHIP IN PAIRS, cross country shipping costs on average $30. Some come with VESA mount installed. Local pickup in SW PDX. For shipping, it is understood you're taking a risk that one or both monitors may arrive broken. Cross country shipping monitors is always risky. If you get these shipped, I am not liable if they arrive damaged. They are used, and being shipped without official monitor packing. I will do my best to pack them so they don't get damaged, but again, it's a risk you are taking! **I have shipped 4 orders of these, no reports of damage so far!** 
+
+**I have HDMI, Displayport and power cables I can ship with the monitors for $3 each cable. Old Timestamp of HP Monitors: https://imgur.com/a/ldBRao0** Will supply new ones for those interested.
+
+
+**Cat6 Blue cables, $40 minimum order for free shipping on cable orders:**
+
+ - 18X 6in 5pack open bag, monoprice brand, $5 each pack.
+ - 17X 2ft 5pack open bag, Belkin brand, $5 each pack.
+ - Many CAT6 cables of various lengths and colors. Let me know what you're wanting. 
+
+~
+
+This sidegig helps keep me afloat at the moment and I've been selling a lot of equipment here. Thank you all for the support, especially my repeat customers and those who send me referrals!",3,1737787903.0,homelabsales,4,1.0,False
+1i9h9dc,https://www.reddit.com/r/redscarepod/comments/1i9h9dc/how_do_you_balance_life_without_bitch_and_moaning/,How do you balance life without bitch and moaning about it ?,"Too much sugar in coffee, seed oil, Air quality, the Chinese stealing my data, Cryptofascim, blah blah you can’t even go for your daily peaceful runs now, most friends are now either gooner or addicts or trust fund baby! Bleak but won’t kms",4,1737787764.0,redscarepod,3,1.0,False
+1i9h942,https://v.redd.it/dechkfs473fe1,my cat is obsessed with croissants,maybe once a week i get a croissant from a coffee place down the street. my cat will tackle my body every time in an attempt to get a bite of the croissant! or he will just smack it out of my hand ,5,1737787734.0,OneOrangeBraincell,3,1.0,False
+1i9h927,https://i.redd.it/xaw85rsj9yee1.jpeg,My dad sent me this.,,1,1737787730.0,Anything_Post_Here,0,1.0,False
+1i9h8ec,https://www.reddit.com/r/Life/comments/1i9h8ec/its_a_good_day/,It's a good day,"Yes I'm waking up at 12 in the noon. Just happy I can have some days like this. Will make omelettes for myself, have some coffee, and will start the day. It just feels good to have a day after being heavily burnt out since some days. ",3,1737787650.0,Life,1,1.0,False
+1i9h5x5,https://www.reddit.com/r/SeveranceAppleTVPlus/comments/1i9h5x5/pineapples/,Pineapples!,"Haven’t seen this posted anywhere so forgive me if I missed it- but did anyone else catch Colbelvig’s comment to Mark during the confrontation outside her house (I’m paraphrasing, can’t remember the exact phrase)-
+
+“They convinced you to stay. Tell me, did it involve a pineapple? You’re so easy to sway.”
+
+The video last week that showed new rewards including pineapple bobbing (which others have called out looked more like a punishment…) makes me think there’s some sort of programming in the chip that makes pineapples a trigger for persuasion or behavioral change. Like a Pavlovian response to drive compliance. 
+
+Other things I caught-
+
+- When Milchik comes to Mark’s house and interrupts him changing the lightbulb- he comes in and starts talking to him about his innie- “he’s funny. He’s found love.” And reels off a bunch of short statements about the innie- Etc- that feels a LOT like a wellness session (was half expecting him to wrap up with “please enjoy each fact about your innie equally”). Again, thinking that could be some kind of behavioral programming to drive compliance and prime Mark to agree to return. 
+
+- In Pip’s diner with Devon and Mark- she texts him to ask if she can buy him shitty diner food- but then there’s nothing but water and coffee on the table. Recurring theme of meals on the outside being only water and not involving food. ",3,1737787360.0,SeveranceAppleTVPlus,1,1.0,False
+1i9h5jm,https://www.reddit.com/gallery/1i9h5jm,"I built a little coffee drive-thru hut 🤗 on the 20x15 ""honeydew fields"" lot in Britchester. Put a mini library too 📚☕️",,11,1737787313.0,thesims4,0,0.93,False
+1i9h4tk,https://www.reddit.com/r/IndiaCoffee/comments/1i9h4tk/looking_for_recommendations_delonghi_ec_685_vs/,Looking for Recommendations : Delonghi EC 685 vs Profitec Go,"Hi everyone,
+
+I currently have the **Delonghi EC 685**, which has served me well for about 3 years. It pulls some *extraordinary shots* with darker roasts and makes fantastic coffee overall. It's compact, easy to use, and has been a great starter machine. However, I’ve noticed it **struggles a bit with lighter roasts** — not as consistent or precise as I’d like, especially when dialing in those more delicate flavors.
+
+I’m now thinking of upgrading to the **Profitec Go**, which is a single boiler with PID control. I've seen some great reviews and watched a few YouTube videos, and it seems like a promising machine. The **price** is currently around ₹101,798 with GST (thanks to a Republic Day sale), so I’m getting it at a pretty decent price.
+
+Here’s what I’m wondering:
+
+* **How much of a difference** in shot quality and flavor can I expect with the Profitec Go, especially when it comes to working with lighter roasts?
+* If you’ve made a similar upgrade, did you notice any **extraordinary changes in the flavors** or overall espresso experience?
+* Since I’ve only ever worked with the EC 685, I don’t have much to compare it to, so I’d really appreciate any insight from those who have used both or upgraded from a similar entry-level machine.
+
+Thanks in advance for your thoughts and recommendations!
+
+https://preview.redd.it/eofjedj063fe1.jpg?width=1170&format=pjpg&auto=webp&s=2a5ca24b31e084eca3639ac90e4a6d453f002b7a
+
+",1,1737787224.0,IndiaCoffee,1,1.0,False
+1i9h48l,https://www.reddit.com/gallery/1i9h48l,I was wrong about Tetsu's New Switch Hybrid Recipe,"Earlier I made a post saying that no matter what I did, I was getting a lot of bitterness and astringency in the cup, even with a coarser grind, the coffee was bitter with this new recipe, the truth is that after watching the recipe video again, I saw that he was using a very coarse grind, maybe even coarser than for a French press as you can see in the video below, different from what I imagined and is recommended in the video, as suggested, that was the problem, what do you think?
+
+https://youtu.be/4FeUp_zNiiY?si=Jtlld6joWEc7IhVi",9,1737787155.0,pourover,3,0.91,False
+1i9h3mt,https://www.reddit.com/r/ChickFilA/comments/1i9h3mt/milkshakes_and_frozen_coffee_drinks_tasting_like/,Milkshakes and frozen coffee drinks tasting like spoiled milk?,"At my 2 local stores, every time I get a milkshake or frozen coffee or anything with milk in it, they taste like the milk is rotten. I told an employee the first time and they gave me reward for next time. I figured it was just  one time thing. I get another one a few months later at a different location and it tastes the same. I can barely take a sip of it without wanting to throw up, the milk in it tasted so disgusting. I tried milkshakes etc at McDonald’s and other places and did not experience this, so I don’t think it’s my tastebuds or anything. I’m not sick. I was alone each time so I couldn’t ask anyone else if they tasted it too. These 2 experiences were a couple months ago. Today I try a frozen coffee drink there for the first time. The spoiled milk taste is there too! It’s slightly more tolerable because the coffee disguises it better than in a milkshake, but it’s still noticeable with each sip. These stores are in very wealthy areas in California where IMO it’s unlikely they aren’t changing the milk or cream out enough. They literally tasted like they were filled with rotten/curdling milk or cream 
+
+Has anyone else experienced this? Is the milk or cream or ice cream they use just disgusting to me? I’ve never tasted a dairy drink this disgusting I’ll be honest ",3,1737787079.0,ChickFilA,2,1.0,False
+1i9h392,https://www.reddit.com/gallery/1i9h392,Gursken shelving ideas?,"I have a Gursken Wardrobe that I’d really like to repurpose for use as a coffee station/breakfast items storage unit. The dimensions are perfect for a wall that bridges my dining and living rooms - and the depth is necessary due to owning a rather, umm, long espresso machine. 
+
+Alas, as you can see in this pic, it’s sold with only one shelf, which is supposed to be mounted at the top. IKEA doesn’t offer extra shelves for it, nor do they appear to make any other shelving, carts, cabinetry, etc. that’s similarly sized enough to support a simple hack effort. The same seems true for other furniture sellers, since I spent a few hours scouring the web for non-IKEA pre-fab options and found nothing.
+
+Wondering what you all would do or recommend under the circumstances. Would you pick up some plywood and 2x4s and install your own shelves within the frame, keep looking for flat pack type shelving units/storage racks to put inside it, or scrap the idea and try to find something else? I’m thinking the latter but hoping there’s a way to pull something off fairly easily and cheaply ;) ",2,1737787031.0,ikeahacks,0,0.76,False
+1i9h346,https://www.reddit.com/r/dropshipping/comments/1i9h346/looking_for_likeminded_people/,Looking for like-minded people!,"Hi everyone, I am looking for 3-5 people (depending on the level of interest) who want to start dropshipping this year, to join a private Discord server where we will keep each other motivated and on track for our goals in becoming successful with dropshipping.
+
+Requirements:
+
+1. Must be of legal age where you live, please provide your age and country of residence in your reply.
+2. You MUST have read the [Beginner's Guide](https://www.reddit.com/r/dropshipping/comments/11xm1fw/beginners_guide_to_dropshipping/) linked on this subreddit-- if you can't manage to get through this and understand at least 85-90% of it, you aren't suited to dropshipping...I'm not suggesting it's the most failproof way to succeed at dropshipping but you should at least have this basic knowledge and I personally want to know that you have at least this minimum amount of discipline and motivation! If you actually do read and understand it, you'll also recognize the value of this Discord group, especially the way I'm hoping to set this up!
+3. You have to be willing to participate, if you're not active, what's the point? Due to how small the group is, to have active participation, we should all be available sometime between **12:00 PM - 9:00 PM EST**. Not the entire time but you need to be available *during* this time to contribute! I don't want to restrict this to one specific country/time zone but again, as the group will be maximum six people, our schedules for this should align somewhat. THIS IS NOT A 'SET IT AND FORGET IT' venture -- at least not till you're making STACKS! We'll plan calls and actually work on our sites, ads, and whatnot together. We'll do brainstorming and feedback sessions. We'll talk about our finances, our profits, our losses. We will set goals together as a group and achieve them together as a group. So if we can't be available at the same times, it's not feasible for you to join this group.
+4. You should be planning on using Shopify.
+5. You should have money that you are willing to LOSE, to invest in this dropshipping venture, towards set-up fees, creatives, social media, advertisements, etc.
+   * I am not trying to do this with $0! That is not feasible.
+   * I do not think it is realistic to start this with the last few dollars you have. Do NOT do that. Make sure you always have enough money to sustain your life and living situation. DO NOT take your kids college fund for this. DO NOT put your rent/mortgage payment to this.
+      * DO - cutdown on takeout, subscriptions, etc. and put those savings to this.
+      * DO - side hustles to generate some cash (for example, personally I'll be flipping some items on my local marketplace) to invest into this.
+      * BASICALLY - MANAGE YOUR LIFE AND FINANCES ACCORDINGLY IF DOING THIS!!! Of course the hope is that we **succeed** and this is an investment in our futures but if for whatever reason it doesn't end up becoming the success you hope for, at least your life manages to go on while you recoup your losses and learn from your mistakes! Keep in mind, you should set a point where you decide to cut your losses and stop if things aren't working, maybe this is a certain amount in $$ lost or a certain amount of time spent-- basically where is the point you say, 'hey this isn't working, I have to stop here'? Hopefully, you never hit it, but be realistic with yourself and we will keep each other grounded.
+
+Here is what I need to know from you, in no particular order of importance, to see if we're a good fit to do this journey together:
+
+* What *type* of dropshipping are you planning on doing?
+   * Examine the skills, resources, level of effort, and amount of time you have.
+   * The guide has some examples, you can also ask ChatGPT, 'let's figure out what type of dropshipping is right for me'.
+* What is your niche/product(s)?
+   * I do not want any of us to have the same niche/product(s).
+   * Note: I am not likely to invite you to this if your plan is a 'one stop/product' shop, unless you can genuinely make the case for how you plan on making money and succeed using this model.
+   * If you do not know yet, what your niche is / product(s) are, that's okay, we can figure it out together! But do some brainstorming, I'm/we're not here to give you the winning blueprint.
+   * If you have picked a niche/product(s) and are hesitant on sharing this information publicly then feel free to reply on here and DM me this part...but I do need to know :)
+* If you know your niche/product(s), WHY this niche/product(s)?
+   * I want to know the motivation you have...is it something personal you use? Is it because of research you've done? Do you have an amazing price per unit or supplier for your niche/product(s)? Let me know!
+   * Again, if you're hesitant on providing this, DM me...to be upfront, I'm not looking for people who are in this to become a millionaire-- ever! I'm looking for people who want to build a sustainable strategy for dropshipping. If this results in millions then FANTASTIC haha but the goal is that you're in the green, consistently! I believe that's only possible if your motivation for your niche/product(s) aligns with that goal.
+* Do you identify as a male or as a female? It'll be an even ratio. No if's and's or but's. I'm sorry if you identify as something else, I completely support you, however to keep things simple, I'm setting this rule. I do not want to be in the position of having to mediate in a tricky discussion or situation.
+   * In similar vein: no religious talk, no talk about sex/sexual intercourse/sexual preference/sexual ANYTHING, politics, etc., we are just here to DROPSHIP that is it.
+   * At the end of the day, I am the admin of this group, if I feel like I don't want your presence, goodbye. OF COURSE, neither are you ever being held at gun-point, you are free to leave whenever and if-ever you want! Harmony is important! Trust is important!
+* Are you willing to skill share? Meaning, if you're good at graphic design and I'm good at SEO then  would you be willing to do the graphic design for both of us and I'd do the SEO for both of us-- nothing else exchanged? Meaning no money! Which leads me to...
+
+**There is to be NO sales/selling of services. No affiliate links. Do not recommend a paid resource such as a course or AI tool until you yourself can post concrete proof of having purchased, used, and succeeded from it. We are not here to profit off one another or potentially set each other up for financial losses. Ultimately though I nor anyone else is responsible or liable for any potential financial losses you may face.**
+
+In addition to this, I am also hoping you're committed to living well, here are some basic guidelines for this (yes, the 'New Year' has inspired me but I'm hoping we keep each other motivated for ALL Year and more!), I expect us to talk about this without getting into controversy!:
+
+1. Commit to strengthening your mental health and sustaining strong mental health. Dropshipping, entrepreneurship, LIFE, is ***hard.*** You might be in the red, you might end up failing, you have a personal life to deal with, this sort of stuff will impact how you show up in this group. If you're in a poor mood, or have a shitty attitude, then take that somewhere else. Therapy, meditation, journaling, crocheting, proper sleep, whatever you need to do and put time towards, do so!
+2. Commit to strengthening your physical well-being and sustaining the best physical you possible. This means 2-4L of water/day, at least 30 mins of exercise a day and/or 10k steps a day, 10 minutes outside a day (15 if gloomy weather and 20 minutes if piss poor weather), pick at least one physical vice to give up and commit to that (for me I'm doing no coffee/espresso, no alcohol, and no taurine), pick a diet that works for YOU and stick to it 80% of the time, and practice the 20-20-20 rule (every 20 minutes, take a break from your screen and look at something 20 feet away, and focus on it for at least 20 seconds).
+3. Enter this with an investment mindset. My plan is to take my potential profits from dropshipping and put it towards assets that'll make me more money. I don't want to ball out and buy a Porche and all designer clothes. I want us to keep us other motivated and share potential knowledge in this endeavor! I want to retire comfortably *and* young.
+
+Hopefully some of you made it to the end of this giant post and are ready to join me in achieving our goals!",2,1737787018.0,dropshipping,0,1.0,False
+1i9h208,https://www.reddit.com/r/teenagers/comments/1i9h208/feeling_so_good_at_a_bad_party/,Feeling so good. At a bad party,"Don’t have to talk. I know that you want me. Gotta keep it nice, we cannot be naughty. We could get drinks. Or we could get coffee. Drinks, Coffee. Drinks, Coffee. Drinks or Coffee. Just call me, yeah",1,1737786885.0,teenagers,0,1.0,False
+1i9h1el,https://www.reddit.com/r/pourover/comments/1i9h1el/issues_with_xbloom/,Issues with XBloom,"XBloom is marketed as a device that can deliver delicious coffee at the push of a button, but that hasn’t been my experience. The X Pods are often not fresh, and the pre-programmed recipes consistently fail to deliver a good cup.
+
+I’ve been brewing pour-overs for as long as I can remember, and I can’t recall the last time one of my hand-poured cups was bad. Since getting the XBloom Studio, I’ve wasted a significant amount of time and beans trying to achieve a decent cup. At best, only 1 out of 5 attempts tastes even half as good as my hand-poured coffee.
+
+When I reached out to their support team, they were not particularly helpful. They offered preprinted manuals and the option to return the device for a refund or exchange. I’ve decided to return it and will be trying the Fellow Aiden instead.",1,1737786812.0,pourover,4,1.0,False
+1i9h19q,https://www.reddit.com/r/Market76/comments/1i9h19q/h_x250_coffee_w_canned_meat_stew/,H: x250 coffee W: Canned Meat Stew,,1,1737786797.0,Market76,8,1.0,False
+1i9h0g1,https://www.reddit.com/gallery/1i9h0g1,Conversation with my dad,"TW: animal abuse, sensitive language 
+
+New to this subreddit, posting on a back up account! My dad and I have had a strained relationship for a long time now due to his anger issues but I have always been able to tolerate it for family sake. This is a conversation from this past November that’s really encompasses how my dad is now that he has become political and angry over the past few years. I noticed it started with Fox News but now he says Fox News is “mainstream” and he only follows “independent journalists” (Ben Shapiro and Tucker Carlson, I’m guessing)
+
+This conversation is after I was on the phone my mom and dad and my dad chimed in about people abandoning their pets after going back into the office after working from home during COVID, and how awful it is that people can do that. I had just finished looking into Kristi Noem and her memoir where she described killing her dog in a brutal way. I thought I could connect with my dad over this because above all else, he’s always been a dog lover, how could he possibly dismiss this?
+
+This conversation was where I decided to give up. I held it together thru the holidays. And after a conversation between my mom and I where I mentioned Dr Oz and his green coffee bean scam and my dad had another melt down for me “criticizing a republican” I decided to go no contact. I hope I can find the strength to maintain it as he still lives with my mom who I don’t want to lose. Luckily she understands me. 
+
+Thanks for reading this far. Reading other peoples conversations here has been very validating for me. I appreciate you guys ",2,1737786700.0,FoxBrain,1,0.75,False
+1i9gzei,https://www.reddit.com/gallery/1i9gzei,Living Room Layout Help,"Hi everyone!
+
+I’ve. been very active on here.  You’ll most likely know who I am once you scroll through the pictures below! 😅
+
+I need SERIOUS help with my living room layout. I’m getting new furniture and getting rid of the sofas and ottoman coffee table on one half of the room. The other half is done. I’m thinking of an L-shaped sofa that seats 5-6 people, and replacing the gray sofa with something narrower but still seating two. Seating is very important to me as i have a huge family. 
+
+I also considered swapping the gray sofa for a console table with two ottomans underneath, but not sure if it’ll look good. I also want to replace the large ottoman coffee table with something rectangular and dark wood for more texture.
+
+Please share any layout ideas or furniture links you think would work. And yes, I know my TV is too high, but due to space limitations, I can’t move it. Right now, the furniture layout is my main focus.
+
+Thanks for your help!",2,1737786579.0,DesignMyRoom,4,1.0,False
+1i9gxrs,https://www.reddit.com/gallery/1i9gxrs,Need help with layout 🥲,"Hi everyone!
+
+I’ve been really active on this sub lately, so you’ve probably seen one of my posts. You’ll know who I am once you scroll through the pictures below! 😅
+
+I need SERIOUS help with my living room layout. I’m getting new furniture and getting rid of the sofas and ottoman coffee table on one half of the room. The other half is done. I’m thinking of an L-shaped sofa that seats 5-6 people, and replacing the gray sofa with something narrower but still seating two. Seating is very important to me as i have a huge family. 
+
+I also considered swapping the gray sofa for a console table with two ottomans underneath, but not sure if it’ll look good. I also want to replace the large ottoman coffee table with something rectangular and dark wood for more texture.
+
+Please share any layout ideas or furniture links you think would work. And yes, I know my TV is too high, but due to space limitations, I can’t move it. Right now, the furniture layout is my main focus.
+
+Thanks for your help!",2,1737786392.0,interiordecorating,2,1.0,False
+1i9gxp5,https://www.reddit.com/r/jjsquad300/comments/1i9gxp5/bubbles/,Bubbles,"I saw this girl on my fyp and I broke my leg runnin' over here to Reddit to see if I wasn't the only one ...BUBBLES!  Only scrolled for a few minutes before I was instantly nauseous watching her ""coffee"" and ""water"" videos.  In those few short minutes I learned that she doesnt know how to accurately read a nutrition label and doesn't know how to properly use a food scale. I also can't tell if she post mukbang content or is on a weight loss journey 🥴",3,1737786382.0,jjsquad300,0,1.0,False
+1i9gxdh,https://www.reddit.com/r/u_homeandsoul/comments/1i9gxdh/reviving_your_space_10_simple_home_decor_updates/,Reviving Your Space: 10 Simple Home Decor Updates That Make a Big Impact,"Updating your home doesn’t always require a major renovation. Sometimes, a few thoughtful changes can breathe new life into your space. From incorporating [natural home decoration](https://www.homeandsouldubai.com/decoration) elements to embracing the latest [modern home decor](https://www.homeandsouldubai.com/furniture) trends, you can make a big impact with small updates. Here are 10 simple ways to refresh your home effortlessly.
+
+# 1. Add Greenery for Natural Elegance
+
+Plants are the perfect way to bring life and vibrancy to any room. Incorporating indoor plants or dried botanicals adds a touch of natural home decoration to your interiors, promoting a calming and fresh atmosphere.
+
+**Quick Tip:** Group plants of varying heights together to create a dynamic visual effect.
+
+# 2. Revamp with Throw Pillows and Blankets
+
+Updating your soft furnishings is one of the easiest ways to refresh a room. Opt for throw pillows in bold patterns or luxurious textures that reflect modern home decor trends.
+
+**Budget Hack:** Check out a [home accessories sale](https://www.homeandsouldubai.com/decoration) to snag stylish options at a fraction of the price.
+
+# 3. Incorporate Statement Rugs
+
+A well-chosen rug can anchor a room and tie all your [home decor items](https://www.homeandsouldubai.com/decoration) together. Whether you prefer neutral tones or bold prints, rugs instantly enhance a room’s coziness and style.
+
+**Styling Idea:** Layer rugs for a contemporary and textured look.
+
+# 4. Upgrade Your Wall Art
+
+Replacing or adding wall art is a simple yet effective way to give your walls personality. Opt for oversized abstract pieces for a modern home decor vibe or create a gallery wall with smaller frames for a curated aesthetic.
+
+# 5. Switch Out Light Fixtures
+
+Lighting plays a crucial role in setting the mood of a space. Swap outdated fixtures for trendy pendant lights or sleek floor lamps to elevate your decor. Look for pieces that incorporate natural materials for a blend of natural home decoration and modern style.
+
+# 6. Reorganize with Stylish Storage Solutions
+
+Decluttering your space and upgrading your storage can make a huge difference. Use decorative baskets, sleek shelves, or multipurpose furniture that doubles as storage to combine functionality with style.
+
+**Pro Tip:** Look for deals on storage pieces during a home accessories sale to stay within budget.
+
+# 7. Bring in Natural Textures
+
+Incorporate materials like wood, rattan, or jute to create a warm and earthy ambiance. These elements fit perfectly with natural home decoration themes while adding texture and depth to your interiors.
+
+# 8. Refresh Your Tabletop Decor
+
+Switch out your home decor items like vases, candle holders, or trays for updated versions. Use metallic accents, geometric shapes, or textured ceramics to keep your surfaces stylish and on-trend.
+
+**Quick Fix:** Group three items of varying heights on your coffee table for a balanced and elegant look.
+
+# 9. Create a Feature Wall
+
+Transform a plain wall into a focal point by adding wallpaper, a bold paint color, or wood paneling. This simple update can dramatically change the feel of a room and align with your modern home decor vision.
+
+# 10. Accessorize with Scent
+
+Don’t underestimate the power of scent in creating a welcoming atmosphere. Use candles, diffusers, or essential oils to enhance the sensory experience in your home. Choose calming or refreshing scents to complement the natural and modern aesthetic of your decor.
+
+**Final Thoughts**
+
+Refreshing your space doesn’t have to be time-consuming or expensive. By incorporating natural home decoration elements, shopping smartly at a home accessories sale, and embracing modern home decor trends, you can easily transform your home. From adding greenery to upgrading lighting, these simple updates are sure to make a big impact and leave your space feeling fresh and stylish.
+
+Start small, and watch how these changes completely revive your home!",1,1737786344.0,u_homeandsoul,0,1.0,False
+1i9gxbz,https://www.reddit.com/gallery/1i9gxbz,Need help with my layout 🥲,"Hi everyone!
+
+I’ve been really active on this sub lately, so you’ve probably seen one of my posts. You’ll know who I am once you scroll through the pictures below! 😅
+
+I need SERIOUS help with my living room layout. I’m getting new furniture and getting rid of the sofas and ottoman coffee table on one half of the room. The other half is done. I’m thinking of an L-shaped sofa that seats 5-6 people, and replacing the gray sofa with something narrower but still seating two. Seating is very important to me as i have a huge family. 
+
+I also considered swapping the gray sofa for a console table with two ottomans underneath, but not sure if it’ll look good. I also want to replace the large ottoman coffee table with something rectangular and dark wood for more texture.
+
+Please share any layout ideas or furniture links you think would work. And yes, I know my TV is too high, but due to space limitations, I can’t move it. Right now, the furniture layout is my main focus.
+
+Thanks for your help!",1,1737786339.0,nychomes,0,1.0,False
+1i9gx4d,https://i.redd.it/9sbhcqjw23fe1.jpeg,"Good morning, sunshine! 🌸☀️  
+Here’s your daily reminder to shine bright, sip some coffee, and make today amazing! 💕✨",,1,1737786313.0,HealthyLifeForYou,0,1.0,False
+1i9gwuq,https://www.reddit.com/gallery/1i9gwuq,Need help with layout 😅,"Hi everyone!
+
+I’ve been really active on this sub lately, so you’ve probably seen one of my posts. You’ll know who I am once you scroll through the pictures below! 😅
+
+I need SERIOUS help with my living room layout. I’m getting new furniture and getting rid of the sofas and ottoman coffee table on one half of the room. The other half is done. I’m thinking of an L-shaped sofa that seats 5-6 people, and replacing the gray sofa with something narrower but still seating two. Seating is very important to me as i have a huge family. 
+
+I also considered swapping the gray sofa for a console table with two ottomans underneath, but not sure if it’ll look good. I also want to replace the large ottoman coffee table with something rectangular and dark wood for more texture.
+
+Please share any layout ideas or furniture links you think would work. And yes, I know my TV is too high, but due to space limitations, I can’t move it. Right now, the furniture layout is my main focus.
+
+Thanks for your help!",1,1737786280.0,HomeDecorating,0,1.0,False
+1i9gvwp,https://www.reddit.com/r/mumbaimeetups/comments/1i9gvwp/aromas_cafe_powai_for_coffee_and_fries_anyone_now/,Aromas Cafe Powai for Coffee and Fries? Anyone Now?,Just gonna go  over to have some snacks. If you are around hit me up. ,1,1737786173.0,mumbaimeetups,0,1.0,False
+1i9gvtc,https://www.reddit.com/gallery/1i9gvtc,Need help with layout,"Hi everyone!
+
+I’ve been really active on this sub lately, so you’ve probably seen one of my posts. You’ll know who I am once you scroll through the pictures below! 😅
+
+I need SERIOUS help with my century-old NYC living room layout. I’m getting new furniture and getting rid of the sofas and ottoman coffee table on one half of the room. The other half is done. I’m thinking of an L-shaped sofa that seats 5-6 people, and replacing the gray sofa with something narrower but still seating two. Seating is very important to me as i have a huge family. 
+
+I also considered swapping the gray sofa for a console table with two ottomans underneath, but not sure if it’ll look good. I also want to replace the large ottoman coffee table with something rectangular and dark wood for more texture.
+
+Please share any layout ideas or furniture links you think would work. And yes, I know my TV is too high, but due to space limitations, I can’t move it. Right now, the furniture layout is my main focus.
+
+Thanks for your help!",2,1737786162.0,centuryhomes,2,1.0,False
+1i9gv0f,https://www.reddit.com/r/writing/comments/1i9gv0f/how_do_you_deal_with_self_doubt/,How do you deal with self doubt?,"‘No one will read this. It’s not compelling enough. It won’t be perfect. Why is my coffee cold? What am I doing with my life?’
+
+That sort of thing.",7,1737786064.0,writing,11,1.0,False
+1i9guxd,https://www.reddit.com/r/CharteredAccountants/comments/1i9guxd/are_you_in_guilt/,Are you in guilt ?,"If you are feeling guilty because you haven’t studied for 12 hours today, couldn’t stick to the plan you spent an hour making, slept a little extra, or forgot to set your alarm, remember this: it’s completely normal and part of being human. Yes, this is just a gentle reminder that we are humans, not robots.
+
+However, this doesn’t mean you should do nothing. Instead of wasting time on unnecessary guilt (which you might try to escape by scrolling through reels or browsing YouTube, only to feel even worse afterward), you can do the following:  
+
+- Cook your favorite meal.  
+- Talk with your siblings or parents.  
+- Enjoy a healthy drink like black coffee, green tea, or anything you like.  
+- Scribble on a piece of paper.  
+- Go for a walk.  
+- Talk to your best friend.  
+- Watch a productivity vlog (just one).  
+- And just spend some time alone and embrace yourself.  
+
+These small actions truly help, and there are countless other things you can do. Just one thing I would suggest that please avide social media till your exam if your exam are due within 6 month, it helps me.
+
+Create a plan for your ideal day and try to follow it. If you can’t, take time to identify the problem. Sometimes, the issue isn’t with you—it’s with the plan.  
+
+Finally, take a moment to appreciate how far you’ve come. Give yourself credit. You’re doing better than you think!",22,1737786055.0,CharteredAccountants,9,0.97,False
+1i9gu27,https://www.reddit.com/gallery/1i9gu27,Need help with layout 🥲,"Hi everyone!
+
+I’ve been really active on this sub lately, so you’ve probably seen one of my posts. You’ll know who I am once you scroll through the pictures below! 😅
+
+I need SERIOUS help with my living room layout. I’m getting new furniture and getting rid of the sofas and ottoman coffee table on one half of the room. The other half is done. I’m thinking of an L-shaped sofa that seats 5-6 people, and replacing the gray sofa with something narrower but still seating two. Seating is very important to me as i have a huge family. 
+
+I also considered swapping the gray sofa for a console table with two ottomans underneath, but not sure if it’ll look good. I also want to replace the large ottoman coffee table with something rectangular and dark wood for more texture.
+
+Please share any layout ideas or furniture links you think would work. And yes, I know my TV is too high, but due to space limitations, I can’t move it. Right now, the furniture layout is my main focus.
+
+Thanks for your help!",2,1737785960.0,femalelivingspace,0,0.75,False
+1i9gt85,https://i.redd.it/5tg9397i13fe1.jpeg,[OC] Filter coffee,,7,1737785863.0,ITookAPicturePH,1,1.0,False
+1i9gt3o,https://i.redd.it/dq3ops2j13fe1.jpeg,Started working out and this is the diet which is prescribed.,"Hello,
+30M, started working out since 2 months. So this is the chart which is given. Is it fine? I think something it causes me digestion problem. Let me know if anything concerns here. I am not 100% sure but I have cut out every outside food. I eat only breakfast like idli or poha from outside. Rest I cook on my own.",2,1737785848.0,Fitness_India,8,1.0,False
+1i9gs42,https://www.reddit.com/r/Market76/comments/1i9gs42/wtt_h_400_coffee_w_40_leaders/,WTT; H: 400 coffee W: 40 leaders,,1,1737785734.0,Market76,1,1.0,False
+1i9grkm,https://www.reddit.com/r/MarkNarrations/comments/1i9grkm/this_past_christmas/,This past Christmas,"Hey Mark, love to listen, just wanted to share something nice.
+
+So, a lot of people, especially women, get the short end of the stick for Christmas gifts. My fiance, (mid thirties) actually did awesome this past Christmas. He bought me a beautiful taxidermy butterfly in a frame and this cool mushroom mug with a snazzy lid, and this chocolate passport box.  Why are these such awesome gifts? Well, for one, my fiance hates my mug hoarding, so getting me a mug was a pretty big deal. I know part of him died buying it, and that sustained my life force. Its also become my go-to mug for morning coffee and my little boy loves putting the lid on it. The butterfly was something he didn't realize I liked until I told him, despite being together so long I forgot I always wanted framed insects. Just one of those things you forgot you liked or wanted when you were a kid, and then as an adult you're like ""Oh yeah I loved that stuff!"" He's already asking what other bugs I like and would want, so I see these becoming his go-to for gifts. And the chocolates are just always welcome. 
+
+My gifts weren't fancy or to most people a reflection of nearly ten years together, but these were genuinely awesome gifts for me.   It was surprisingly an amazing Christmas for me, that I'm still thinking about a month later, but in a super happy way.",2,1737785672.0,MarkNarrations,1,1.0,False
