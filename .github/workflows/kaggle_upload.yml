@@ -31,16 +31,16 @@ jobs:
         run: |
           mkdir -p ~/.kaggle
           echo "${{ secrets.KAGGLE_JSON }}" > ~/.kaggle/kaggle.json
-          chmod 600 ~/.kaggle/kaggle.json
-          export KAGGLE_USERNAME=$(jq -r '.username' ~/.kaggle/kaggle.json)
-          export KAGGLE_KEY=$(jq -r '.key' ~/.kaggle/kaggle.json)
+         # chmod 600 ~/.kaggle/kaggle.json
+         # export KAGGLE_USERNAME=$(jq -r '.username' ~/.kaggle/kaggle.json)
+         # export KAGGLE_KEY=$(jq -r '.key' ~/.kaggle/kaggle.json)
 
 
-      - name: Run Kaggle Upload Script
-        shell: bash -l {0}
-        run: |
-          conda activate kaggle_env
-          python3 src/push_kaggle.py
+     # - name: Run Kaggle Upload Script
+      #  shell: bash -l {0}
+      #  run: |
+      #    conda activate kaggle_env
+      #    python3 src/push_kaggle.py
 
       - name: Commit and Push Updates
         run: |
