@@ -32,6 +32,9 @@ jobs:
           mkdir -p ~/.kaggle
           echo "${{ secrets.KAGGLE_JSON }}" > ~/.kaggle/kaggle.json
           chmod 600 ~/.kaggle/kaggle.json
+          export KAGGLE_USERNAME=$(jq -r '.username' ~/.kaggle/kaggle.json)
+          export KAGGLE_KEY=$(jq -r '.key' ~/.kaggle/kaggle.json)
+
 
       - name: Run Kaggle Upload Script
         shell: bash -l {0}
