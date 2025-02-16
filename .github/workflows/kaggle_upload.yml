@@ -32,10 +32,6 @@ jobs:
           mkdir -p ~/.kaggle
           echo "${{ secrets.KAGGLE_JSON }}" > ~/.kaggle/kaggle.json
           chmod 600 ~/.kaggle/kaggle.json
-          ls -la ~/.kaggle  # List the contents of the .kaggle directory
-          cat ~/.kaggle/kaggle.json  # Print the kaggle.json file to check contents
-       # export KAGGLE_USERNAME=$(jq -r '.username' ~/.kaggle/kaggle.json)
-       # export KAGGLE_KEY=$(jq -r '.key' ~/.kaggle/kaggle.json)
 
 
       - name: Run Kaggle Upload Script
@@ -44,8 +40,6 @@ jobs:
           conda activate kaggle_env
           export KAGGLE_USERNAME=${{ secrets.KAGGLE_USERNAME }}
           export KAGGLE_KEY=${{ secrets.KAGGLE_KEY }}
-          echo "usss - $KAGGLE_USERNAME"
-          echo "pppp - $KAGGLE_KEY"
           python3 src/push_kaggle.py
 
       - name: Commit and Push Updates
