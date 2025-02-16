@@ -42,6 +42,10 @@ jobs:
         shell: bash -l {0}
         run: |
           conda activate kaggle_env
+          export KAGGLE_USERNAME=${{ secrets.KAGGLE_USERNAME }}
+          export KAGGLE_KEY=${{ secrets.KAGGLE_KEY }}
+          echo "usss - $KAGGLE_USERNAME"
+          echo "pppp - $KAGGLE_KEY"
           python3 src/push_kaggle.py
 
       - name: Commit and Push Updates
