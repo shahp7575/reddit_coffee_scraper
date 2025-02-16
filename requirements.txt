@@ -1,3 +1,4 @@
 pandas==2.2.3
 praw==7.7.1
 python-dotenv==1.0.1
+kaggle==1.6.17

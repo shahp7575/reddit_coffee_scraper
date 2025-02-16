@@ -1,0 +1,51 @@
+name: Kaggle Upload Weekly
+
+on:
+  schedule:
+    - cron: "15 23 * * 6"  # Runs every Friday at 11:15 PM UTC
+  workflow_dispatch:  # Allows manual execution from GitHub Actions
+
+jobs:
+  upload-to-kaggle:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Miniconda
+        uses: conda-incubator/setup-miniconda@v2
+        with:
+          python-version: 3.12
+          activate-environment: kaggle_env
+          auto-update-conda: true
+
+      - name: Create Conda Environment
+        run: |
+          conda create -n kaggle_env python=3.12 -y
+          conda activate kaggle_env
+          pip install -r requirements.txt
+        shell: bash -l {0}
+
+      - name: Set Up Kaggle Credentials
+        run: |
+          mkdir -p ~/.kaggle
+          echo "${{ secrets.KAGGLE_JSON }}" > ~/.kaggle/kaggle.json
+          chmod 600 ~/.kaggle/kaggle.json
+
+      - name: Run Kaggle Upload Script
+        shell: bash -l {0}
+        run: |
+          conda activate kaggle_env
+          python3 src/push_kaggle.py
+
+      - name: Commit and Push Updates
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .  # Add updated dataset files or logs
+          git commit -m "Upload new version of Kaggle dataset [skip ci]" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
