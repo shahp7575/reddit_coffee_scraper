@@ -1,0 +1,2107 @@
+id,url,title,text,score,created_utc,subreddit,num_comments,upvote_ratio,over_18
+1iqsxra,https://www.reddit.com/r/learnpython/comments/1iqsxra/task_given_by_international_organization/,Task Given by International Organization,"Please helpp the task had been given by organization but still one test case is not able to run can you please check. I have divided the sections with:
+
+1. \#############################   The code given by organization:
+2. \########################################  I am getting error in:
+3. \############################ The question asked by the organization is
+
+\###################################   The code given by organization:  
+import string
+
+def count\_occurrences\_in\_text(word, text):
+
+""""""
+
+Return the number of occurrences of the passed word (case insensitive) in text without regex.
+
+This function matches whole words or phrases only.
+
+Handles words enclosed in single/double quotes and with punctuation.
+
+""""""
+
+text\_lower = text.lower()
+
+word\_to\_search = word.lower().strip(""'\\""“”"")  # Remove surrounding quotes if present
+
+\# Remove punctuation except valid apostrophes (inside words) and hyphens
+
+allowed\_punctuation = ""'-""
+
+translation\_table = str.maketrans({p: "" "" for p in string.punctuation if p not in allowed\_punctuation})
+
+text\_lower = text\_lower.translate(translation\_table)
+
+\# Convert text into a list of words
+
+text\_words = text\_lower.split()
+
+search\_words = word\_to\_search.split()
+
+count = 0
+
+for i in range(len(text\_words) - len(search\_words) + 1):
+
+if text\_words\[i:i + len(search\_words)\] == search\_words:
+
+count += 1
+
+return count
+
+def test\_count\_occurrences\_in\_text():
+
+text = """"""Georges is my name and I like python. Oh ! your name is georges? And you like Python!
+
+Yes is is true, I like PYTHON
+
+and my name is GEORGES""""""
+
+\# test with a little text.
+
+assert 3 == count\_occurrences\_in\_text(""Georges"", text)
+
+assert 3 == count\_occurrences\_in\_text(""GEORGES"", text)
+
+assert 3 == count\_occurrences\_in\_text(""georges"", text)
+
+assert 0 == count\_occurrences\_in\_text(""george"", text)
+
+assert 3 == count\_occurrences\_in\_text(""python"", text)
+
+assert 3 == count\_occurrences\_in\_text(""PYTHON"", text)
+
+assert 2 == count\_occurrences\_in\_text(""I"", text)
+
+assert 0 == count\_occurrences\_in\_text(""n"", text)
+
+assert 1 == count\_occurrences\_in\_text(""true"", text)
+
+\# regard ' as text:
+
+assert 0 == count\_occurrences\_in\_text(""maley"", ""John O'maley is my friend"")
+
+\# Test it but with a BIG length file.
+
+text = """"""The quick brown fox jump over the lazy dog.The quick brown fox jump over the lazy dog."""""" \* 500
+
+text += """"""The quick brown fox jump over the lazy dog.The quick brown Georges jump over the lazy dog.""""""
+
+text += """"""esrf sqfdg sfdglkj sdflgh sdflgjdsqrgl """""" \* 4000
+
+text += """"""The quick brown fox jump over the lazy dog.The quick brown fox jump over the lazy python.""""""
+
+text += """"""The quick brown fox jump over the lazy dog.The quick brown fox jump over the lazy dog."""""" \* 500
+
+text += """"""The quick brown fox jump over the lazy dog.The quick brown Georges jump over the lazy dog.""""""
+
+text += """"""esrf sqfdg sfdglkj sdflgh sdflgjdsqrgl """""" \* 4000
+
+text += """"""The quick brown fox jump over the lazy dog.The quick brown fox jump over the lazy python.""""""
+
+text += """"""The quick brown fox jump over the lazy dog.The quick brown fox jump over the lazy dog."""""" \* 500
+
+text += """"""The quick brown fox jump over the lazy dog.The quick brown Georges jump over the lazy dog.""""""
+
+text += """"""esrf sqfdg sfdglkj sdflgh sdflgjdsqrgl """""" \* 4000
+
+text += """"""The quick brown fox jump over the lazy dog.The quick brown fox jump over the lazy python.""""""
+
+text += """"""The quick brown fox jump over the true lazy dog.The quick brown fox jump over the lazy dog.""""""
+
+text += """"""The quick brown fox jump over the lazy dog.The quick brown fox jump over the lazy dog."""""" \* 500
+
+text += """""" I vsfgsdfg sfdg sdfg sdgh sgh I sfdgsdf""""""
+
+text += """"""The quick brown fox jump over the lazy dog.The quick brown fox jump over the lazy dog."""""" \* 500
+
+assert 3 == count\_occurrences\_in\_text(""Georges"", text)
+
+assert 3 == count\_occurrences\_in\_text(""GEORGES"", text)
+
+assert 3 == count\_occurrences\_in\_text(""georges"", text)
+
+assert 0 == count\_occurrences\_in\_text(""george"", text)
+
+assert 3 == count\_occurrences\_in\_text(""python"", text)
+
+assert 3 == count\_occurrences\_in\_text(""PYTHON"", text)
+
+assert 2 == count\_occurrences\_in\_text(""I"", text)
+
+assert 0 == count\_occurrences\_in\_text(""n"", text)
+
+assert 1 == count\_occurrences\_in\_text(""true"", text)
+
+assert 1 == count\_occurrences\_in\_text(
+
+""'reflexion mirror'"", ""I am a senior citizen and I live in the Fun-Plex 'Reflexion Mirror' in Sopchoppy, Florida""
+
+)
+
+assert 1 == count\_occurrences\_in\_text(
+
+""reflexion mirror"", ""I am a senior citizen and I live in the Fun-Plex (Reflexion Mirror) in Sopchoppy, Florida""
+
+)
+
+assert 1 == count\_occurrences\_in\_text(""reflexion mirror"", ""Reflexion Mirror\\"" in Sopchoppy, Florida"")
+
+assert 1 == count\_occurrences\_in\_text(
+
+""reflexion mirror"", ""I am a senior citizen and I live in the Fun-Plex «Reflexion Mirror» in Sopchoppy, Florida""
+
+)
+
+assert 1 == count\_occurrences\_in\_text(
+
+""reflexion mirror"",
+
+""I am a senior citizen and I live in the Fun-Plex \\u201cReflexion Mirror\\u201d in Sopchoppy, Florida""
+
+)
+
+assert 1 == count\_occurrences\_in\_text(
+
+""legitimate"", ""who is approved by OILS is completely legitimate: their employees are of legal working age""
+
+)
+
+assert 0 == count\_occurrences\_in\_text(
+
+""legitimate their"", ""who is approved by OILS is completely legitimate: their employees are of legal working age""
+
+)
+
+assert 1 == count\_occurrences\_in\_text(
+
+""get back to me"", ""I hope you will consider this proposal, and get back to me as soon as possible""
+
+)
+
+assert 1 == count\_occurrences\_in\_text(
+
+""skin-care"", ""enable Delavigne and its subsidiaries to create a skin-care monopoly""
+
+)
+
+assert 1 == count\_occurrences\_in\_text(
+
+""skin-care monopoly"", ""enable Delavigne and its subsidiaries to create a skin-care monopoly""
+
+)
+
+assert 0 == count\_occurrences\_in\_text(
+
+""skin-care monopoly in the US"", ""enable Delavigne and its subsidiaries to create a skin-care monopoly""
+
+)
+
+assert 1 == count\_occurrences\_in\_text(""get back to me"", ""When you know:get back to me"")
+
+assert 1 == count\_occurrences\_in\_text(
+
+""don't be left"", """"""emergency alarm warning.
+
+Don't be left unprotected. Order your SSSS3000 today!""""""
+
+)
+
+assert 1 == count\_occurrences\_in\_text(
+
+""don"", """"""emergency alarm warning.
+
+Don't be left unprotected. Order your don SSSS3000 today!""""""
+
+)
+
+assert 1 == count\_occurrences\_in\_text(""take that as a 'yes'"", ""Do I have to take that as a 'yes'?"")
+
+assert 1 == count\_occurrences\_in\_text(""don't take that as a 'yes'"", ""I don't take that as a 'yes'?"")
+
+assert 1 == count\_occurrences\_in\_text(""take that as a 'yes'"", ""I don't take that as a 'yes'?"")
+
+assert 1 == count\_occurrences\_in\_text(""don't"", ""I don't take that as a 'yes'?"")
+
+assert 1 == count\_occurrences\_in\_text(""attaching my c.v. to this e-mail"", ""I am attaching my c.v. to this e-mail."")
+
+assert 1 == count\_occurrences\_in\_text(""Linguist"", ""'''Linguist Specialist Found Dead on Laboratory Floor'''"")
+
+assert 1 == count\_occurrences\_in\_text(
+
+""Linguist Specialist"", ""'''Linguist Specialist Found Dead on Laboratory Floor'''""
+
+)
+
+assert 1 == count\_occurrences\_in\_text(
+
+""Laboratory Floor"", ""'''Linguist Specialist Found Dead on Laboratory Floor'''""
+
+)
+
+assert 1 == count\_occurrences\_in\_text(""Floor"", ""'''Linguist Specialist Found Dead on Laboratory Floor'''"")
+
+assert 1 == count\_occurrences\_in\_text(""Floor"", ""''Linguist Specialist Found Dead on Laboratory Floor''"")
+
+assert 1 == count\_occurrences\_in\_text(""Floor"", ""\_Linguist Specialist Found Dead on Laboratory Floor\_"")
+
+assert 1 == count\_occurrences\_in\_text(""Floor"", ""'''''Linguist Specialist Found Dead on Laboratory Floor'''''"")
+
+assert 1 == count\_occurrences\_in\_text(""Linguist"", ""'''Linguist Specialist Found Dead on Laboratory Floor'''"")
+
+assert 1 == count\_occurrences\_in\_text(""Linguist"", ""''Linguist Specialist Found Dead on Laboratory Floor''"")
+
+assert 1 == count\_occurrences\_in\_text(""Linguist"", ""\_Linguist Specialist Found Dead on Laboratory Floor\_"")
+
+assert 1 == count\_occurrences\_in\_text(""Linguist"", ""'''''Linguist Specialist Found Dead on Laboratory Floor'''''"")
+
+SAMPLE\_TEXT\_FOR\_BENCH = """"""
+
+A Suggestion Box Entry from Bob Carter
+
+Dear Anonymous,
+
+I'm not quite sure I understand the concept of this 'Anonymous' Suggestion Box. If no one reads what we write, then how will anything ever change?
+
+But in the spirit of good will, I've decided to offer my two cents, and hopefully Kevin won't steal it! (ha, ha). I would really like to see more varieties of coffee in the coffee machine in the break room. 'Milk and sugar', 'black with sugar', 'extra sugar' and 'cream and sugar' don't offer much diversity. Also, the selection of drinks seems heavily weighted in favor of 'sugar'. What if we don't want any sugar? But all this is beside the point because I quite like sugar, to be honest. In fact, that's my second suggestion: more sugar in the office. Cakes, candy, insulin, aspartame... I'm not picky. I'll take it by mouth or inject it intravenously, if I have to. Also, if someone could please fix the lock on the men's room stall, that would be helpful. Yesterday I was doing my business when Icarus nearly climbed into my lap.
+
+So, have a great day!
+
+Anonymously,
+
+Bob Carter
+
+""""""
+
+def doit():
+
+""""""
+
+Run count\_occurrences\_in\_text on a few examples
+
+""""""
+
+i = 0
+
+for x in range(400):
+
+i += count\_occurrences\_in\_text(""word"", SAMPLE\_TEXT\_FOR\_BENCH)
+
+i += count\_occurrences\_in\_text(""sugar"", SAMPLE\_TEXT\_FOR\_BENCH)
+
+i += count\_occurrences\_in\_text(""help"", SAMPLE\_TEXT\_FOR\_BENCH)
+
+i += count\_occurrences\_in\_text(""heavily"", SAMPLE\_TEXT\_FOR\_BENCH)
+
+i += count\_occurrences\_in\_text(""witfull"", SAMPLE\_TEXT\_FOR\_BENCH)
+
+i += count\_occurrences\_in\_text(""dog"", SAMPLE\_TEXT\_FOR\_BENCH)
+
+i += count\_occurrences\_in\_text(""almost"", SAMPLE\_TEXT\_FOR\_BENCH)
+
+i += count\_occurrences\_in\_text(""insulin"", SAMPLE\_TEXT\_FOR\_BENCH)
+
+i += count\_occurrences\_in\_text(""attaching"", SAMPLE\_TEXT\_FOR\_BENCH)
+
+i += count\_occurrences\_in\_text(""asma"", SAMPLE\_TEXT\_FOR\_BENCH)
+
+i += count\_occurrences\_in\_text(""neither"", SAMPLE\_TEXT\_FOR\_BENCH)
+
+i += count\_occurrences\_in\_text(""won't"", SAMPLE\_TEXT\_FOR\_BENCH)
+
+i += count\_occurrences\_in\_text(""green"", SAMPLE\_TEXT\_FOR\_BENCH)
+
+i += count\_occurrences\_in\_text(""parabole"", SAMPLE\_TEXT\_FOR\_BENCH)
+
+return i
+
+def test\_profile():
+
+with cProfile.Profile() as pr:
+
+assert doit() == 2000
+
+pr.print\_stats()
+
+test\_count\_occurrences\_in\_text()
+
+\##############################################  I am getting error in:
+
+\---------------------------------------------------------------------------
+
+AssertionError                            Traceback (most recent call last)
+
+Input In \[166\], in <cell line: 1>()
+
+\----> 1 test\_count\_occurrences\_in\_text()
+
+Input In \[163\], in test\_count\_occurrences\_in\_text()
+
+43 assert 0 == count\_occurrences\_in\_text(""n"", text)
+
+44 assert 1 == count\_occurrences\_in\_text(""true"", text)
+
+\---> 45 assert 1 == count\_occurrences\_in\_text(
+
+46     ""'reflexion mirror'"", ""I am a senior citizen and I live in the Fun-Plex 'Reflexion Mirror' in Sopchoppy, Florida""
+
+47 )
+
+48 assert 1 == count\_occurrences\_in\_text(
+
+49     ""reflexion mirror"", ""I am a senior citizen and I live in the Fun-Plex (Reflexion Mirror) in Sopchoppy, Florida""
+
+50 )
+
+51 assert 1 == count\_occurrences\_in\_text(""reflexion mirror"", ""Reflexion Mirror\\"" in Sopchoppy, Florida"")
+
+\################################## The question asked by the organization is  
+The purpose of count\_ccurrences\_in\_text is to count the number of occurrences of a given word in a sentence. task is to implement this function so that all tests pass WITHOUT changing any tests. ALL the tests
+
+Make changes only in def count\_occurrences\_in\_text(word, text):",1,1739714894.0,learnpython,0,1.0,False
+1iqsx2c,https://www.reddit.com/r/PakistanRishta/comments/1iqsx2c/guy_28_trying_luck/,"Guy 28, trying luck 🍀","
+Trying my luck to see if i can actually meet someone here!  Although not sure if this is the right place :) 
+
+Guy here 28 from isb ,
+
+About my personality: 
+
+
+
+I am a ambi vert person, 
+My current issues ( panic attacks and anxiety) made me an introvert but i still want to live life again and go to nice coffee shops or go into the mountains and travel! I love the idea of camping and cooking steaks. Do cycling! I cook aswell! 
+
+I love to make my close friends happy and i am emotionally empathetic person, at this stage i really wanna come Close to deen that i am trying yet i am still not able to reach that level 
+
+I do want kids and i love children tbh
+I wanna take them to park and chill with them 
+
+I am graduated and i belong to good family who is very supportive and very sweet with me. They have been with my 24/7 with my bad days and i am sure my dad and mum are literally one of the nicest person youll meet. 
+
+What i dont want in a partner: too materialistic, i myself love to buy things and stuff but i just like that thinking where we completely forget our real purpose in this world and start comparing our selves with people, i just want a peaceful life
+- i want her to be understanding that i do have a provider mindset and i want to take care of her  but i do want to first recover totally! 
+- I want you to support me and give me hope about the future! 
+- Be honest with my about your fears and anything that bothers you 
+
+I guess its enough for now, as the paragraph is already big , feel free to dm :)",1,1739714833.0,PakistanRishta,1,1.0,False
+1iqswwd,https://i.redd.it/qpndzrqcdije1.jpeg,someone add to this years milkshake count 😭😭😭,"LMFAOO thought this was funny and bc we have nothing to rlly talk about as she’s not posting atm 😭 i suppose for mental health reasons like i guessed, honestly i didn’t even realise she wasn’t posting",2,1739714819.0,innasyamackenzie,0,1.0,False
+1iqswpf,https://i.redd.it/eygxqhpadije1.jpeg,Coffee pods from Ontario,I bought these Muskoka Roastery Coffee Co. coffee pods. Roasted and packaged in Canada. The company is from Huntsville ON. I’m having my first cup this morning and can confirm it’s very good! ,2,1739714802.0,BuyCanadian,0,1.0,False
+1iqswop,https://www.reddit.com/r/AtariVCS/comments/1iqswop/evercade_announces_new_cart_new_atari_game_coming/,"Evercade Announces New Cart, New Atari Game Coming Soon, New Review Coming Soon.","Get your coffee's ready for Dadisajoke Weekend Report Ep69
+
+[https://youtu.be/x89AFaEbz2w](https://youtu.be/x89AFaEbz2w)",1,1739714800.0,AtariVCS,0,1.0,False
+1iqsv8e,https://www.reddit.com/r/MakeNewFriendsHere/comments/1iqsv8e/43m_north_carolina_ive_recently_learned_cotton/,43/M - North Carolina - I’ve recently learned cotton candy grapes are a thing and OH BABY are they delicious…next level fruit eating!,"Happy weekend all you fantastic Reddit peeps!
+
+Hope you are having an amazing Sunday out there, ready to sip some coffee and chomp some breakfast!
+
+Ok I’m totally rambling now…let’s share a lil about this guy…
+
+So, hello, I’m 43, loving life in North Carolina, married, have a couple kiddos, couple dogs, love spending time outdoors, enjoying a nice patio fire in the backyard, attempting to think I can cook, playing a little hockey, watching movies annnnd traveling when the opportunity arises!
+
+Right now I’m enjoying a tasty adult beverage, while staying warm and cozy on a cold and rainy night!
+
+If you’re still reading down here, hey there, I hope you have a lovely night!",1,1739714670.0,MakeNewFriendsHere,1,1.0,False
+1iqsv1i,https://www.reddit.com/r/orlando/comments/1iqsv1i/coffee_atmosphere_in_orlando/,Coffee & Atmosphere in Orlando?,I’ve learned that Lineage Coffee is good just from scrolling this subreddit. But if I’m also looking for something “trendy” or fun to take someone who isn’t from here - is there somewhere specific I should take them? A cool place to sit and chat and sip on coffee - what’s your go to local place? ,3,1739714654.0,orlando,0,1.0,False
+1iqsurh,https://i.redd.it/mfdvrv9scije1.jpeg,Idk,This keeps appearing. It’s bothering me right now but it goes away. I do smoke I drink energy drinks coffee and eat a lot of chips idk ,1,1739714627.0,SkincareAddicts,0,1.0,False
+1iqstwj,https://i.redd.it/s6kmmkujcije1.jpeg,Greg LeMond,,1,1739714549.0,Ciclismo,0,1.0,False
+1iqssvn,https://www.reddit.com/r/AskCulinary/comments/1iqssvn/i_made_tiramisu_will_it_be_good_if_i_did_this/,I made tiramisu will it be good if I did this,"2-3 packs of biscuits
+
+3 tbsp Nescafé
+
+1 cup boiling water
+
+2 cups heavy cream
+
+1/4 cup powdered sugar or condensed milk
+
+These are the ingredients I used. 
+I have 3 questions:
+1. With just these ingredients will it be sweet?
+
+2.I think the whipping cream was only whipped like 95% of the way through. Will it get ruined overnight?
+
+3.do the coffee biscuit layers need to be thick cuz I've only done a layer only a biscuit thick and cream layer like 3-4cm thick?
+
+",1,1739714471.0,AskCulinary,0,1.0,False
+1iqssu5,https://www.reddit.com/r/MakeNewFriendsHere/comments/1iqssu5/34m_us_snow_day_and_coffee_chats/,34m us - snow day and coffee chats,"Good morning. It's been snowing off and on all weekend. I've only left the house to run errands and take the dogs to the park.  It's been a pretty relaxing weekend.  Tell me about your weekend.  
+
+A bit about me is I'm a pretty big nerd with a variety of interests and hobbies.   I'd love to meet someone who's looking for chats, gaming or in the small chance we're local(wi), a beer or coffee.  Im a gay man in a relationship and I'm only looking for platonic chats. 
+
+Some of my interests include
+
+I love food.  I like to cook and try new food.  What's the best thing you've tried recently? 
+
+I like to game. I have a PS5 and lately been into fortnite and marvel rivals.  Recently got into DND and board gaming as well.  
+
+I like to read. Mostly sci Fi and fantasy. 
+
+I also enjoy outdoorsy activities like hiking with our two huskys, foraging and gardening  
+
+Love going to breweries and trying new beer
+
+Music - some of my favorites are, sleep token, tender, bad omens, suicide bois, purity ring and bmth
+
+420 friendly 
+   ",1,1739714468.0,MakeNewFriendsHere,1,1.0,False
+1iqssji,https://www.reddit.com/r/GetStudying/comments/1iqssji/coffee/,coffee,"I have mixed feelings about coffee. I feel like it gives me an initial motivation boost but the caffeine crash I feel like negates all the benefits. And also does it not mess with your sleep cycle? coffee has a half life of like 12 hours btw... so yeah... idk considering dropping caffeine as a whole, or sticking purely to a morning small coffee.
+
+Sorry if this is very vague, but would love to hear some general thoughts on coffee for studying. I see people drink a shit ton of coffee to study and just think to myself that that cant be healthy...",2,1739714446.0,GetStudying,0,1.0,False
+1iqssis,https://www.reddit.com/gallery/1iqssis,How to use the info on a coffee bag to brew,"Please skip to the last two paragraphs if you can't be bothered to read my elongated introduction.
+
+Hello guys, I've been in and around this lovely
+community for a few months now. As many of you may have also experienced, as one's coffee hobby grows deeper, creating a cup of coffee you feel satisfied with becomes rarer. Ignorance is well and truly bliss in the world of coffee. Worrying about grind size, temperature, bloom time, swirl or wiggle?!?! is quite frankly enough to drive a man insane.
+
+I'm now too deep in this world to turn back so I thought it was about time I asked you guys for some friendly advice because.. well, i want to be 
+able to enjoy my cups of coffee again!
+
+It is no secret that different coffee's brew differently. I know that how you brew, grind, heat the water, may be understood by reading the information on the bags of coffee. The trouble is I still have no idea how to digest the information on a bag of coffee. For example, i recently brewed an Anerobically washed Ethiopian coffee the other day and had absolutely no idea what
+an Ethiopian coffee requires to achieve an excellent cup. I spent too long worrying about if i should be using boiling water. But I heard April Coffee tends to brew Ethiopians at 92? Well how about ratios? I should change my water ratio to 1:17 to achieve a higher extraction, right? Or should i just grind finer and get a sweeter up?
+Wait! Does the fact its Anerobically washed change anything?!?! You get the jist. I know there's articles out there but quite frankly, finding something specific to your bag is tricky to find. I also understand that is all down to preference at the end of the day, however, im just looking for some pointers that can push me in the right direction when I buy a new bag of coffee.
+
+This brings me to the question I came here to ask all you experts today:
+
+What can i understand about how i should be brewing a cup of coffee based on the information on the bag? Also, how specifically will the effect my cup? I know this probably requirea a long winded answer so i appreciate anything you can add. I understand i may have to do some digging myself. 
+
+I will attach some photos of some coffee ill be brewing in a few days. l'l be extremely grateful if someone can explain how i should be brewing them (not techniques per say but more to do
+with grind size, water ratio, temperature etc.)
+
+All help is much appreciated :)",1,1739714445.0,LanceHedrick,0,1.0,False
+1iqss79,https://www.reddit.com/r/glassblowing/comments/1iqss79/frit_making_machine/,Frit making machine,"Hello All
+
+I am looking to make my own frit.   So far I have found the manual pistons, which are a pain in the ass. 
+
+The other thing I have found is the ""fritenator 3000"" which is probably a bit more than I need (and expensive).  
+
+The internet suggested a coffee grinder, which actually worked, but the blade was worn down after little use. IS there maybe one with a high hardness blade? 
+
+Does anyone know of a machine that automatically makes frit that's for the individual user?  thanks.",1,1739714419.0,glassblowing,0,1.0,False
+1iqss69,https://www.reddit.com/r/Microbiome/comments/1iqss69/no_judgement/,No judgement.,"I already know where this is going to end so please try to spare me the “you need medical attention” - Because I know. I’d just like to tell you what’s up and see if anyone can recognize what’s going on. I believe in 2019 I was having a bunch of issues I was also 21 years old. So I was drinking a lot and barley eating and not eating the right stuff and probably not being hydrated- anyways I was drinking one night and I went to go eat some ramen, Please Stomach Forgive Me, and all the sudden it felt like a band snapped in my stomach, I truly thought I was dying but did nothing about it, for probably a month I was in extreme pain (stomach) my friends knew, a lot of people knew, I was a delivery driver so I legit had my friends hop in my car and help me deliver pizza for like 2 weeks straight until I could operate and move easier. (Please understand I grew up in a bad environment and no one around me was ever actually self aware about anything so I got no help.)  after that- digestive issues no oils, seeds,coffee, dairy, gluten, red meat, the WORKS 
+
+Anyways, 6 years later, I still have not actually figured out what’s wrong but became more aware about it, been to a primary talked about it, they obviously want to do a colonoscopy and a EDG 
+My digestion had significantly improved, as I can eat seeds, have oils(acid reflux so not much), (small amounts of dairy) red meat are all back on the okay side of things 
+On the other hand …Gluten, Processed foods I’m noticing just always hurt, I’m assuming because these things are not good for us. I get food stuck in the track right underneath my ribs if I eat something my stomach doesn’t like and a crap tone of gas. 
+
+Well if all I did was annoy you because I didn’t hop on the chance to figure out what was wrong, life’s hard okay? Honestly giving the circumstances my parents should’ve never had a kid, because quite frankly, they both fucked up another persons life because they couldn’t get their shit together. So quite frankly if I piss you off, GTFO this post. 
+",0,1739714416.0,Microbiome,0,0.5,False
+1iqsrmk,https://www.reddit.com/r/LetsChat/comments/1iqsrmk/45_m4f_its_a_lazy_sunday_morning_watching_it_snow/,"45 [M4F] It's a lazy Sunday morning, watching it snow and would love some company.","Hi! Married and in a DB situation. Looks like I'm getting snowed in today.  
+Just started a fire, made some coffee and hanging out here - scrolling Reddit. 
+It's nice to have a quiet morning to myself but I'm wishing there was someone here to enjoy it with. It's not as warm here under my blanket alone 😉",1,1739714370.0,LetsChat,0,1.0,False
+1iqsrk9,https://www.reddit.com/r/PhR4Friends/comments/1iqsrk9/28_f4m_usap_til_antukin/,28 [F4M] usap til antukin,"Wala akong magawa since tinatamad ako mag watch or mag laro ng mobile games. Nasa mood lang ako mahiga at makipag daldalan about sa kahit anong topic. Nsfw topic will do basta KWENTUHAN lang. Yung hindi one time usap lang din, constant please. Call haaaa, CALL and hindi chat. Please be madaldal
+
+Maybe pag comfortable na sa isa't isa pwede naman mag meet and coffee pero hindi ako from Metro. From Bulacan ako. 
+
+Anywayyy, message me your age and tg username ",1,1739714365.0,PhR4Friends,0,1.0,False
+1iqsrjn,https://www.reddit.com/r/relationship_advice/comments/1iqsrjn/final_update_i_f_27_saw_him_m_32_witg_his/,"Final Update: I, F 27 saw him M 32 witg His coworker at 2am as i came home from a trip early to surprise. He Has No Idea. It's 6am I'm drunk nd idk what to do next.","
+
+Link to original post: https://www.reddit.com/r/relationship_advice/s/YauJn50U0J
+
+Sunday 16th 6:50am.
+
+Hi guys! I just wanted to say first and foremost thank you to everyone far and wide who's offered support and friendship. You've really helped me get through this mess. Here's the update :)
+
+After breakfast Friday morning, we left straight for his place, it was about 7:45am we arrived. He was still home at this point and it was expected. We waited a while longer and eventually maybe about 45 minutes later we see him open the door, step out with his coffee then looks down the street both ways and then just stands there looking at his phone. We thought he was leaving. Wrong!! Omg, guess who was there?. Her, yes her! If I didn’t have anyone to get me through the last few days I would have been fuming red, but naw. It's almost like I expected it. She had walked up from behind him and hugged him but he took her arms off him, looked around and he quickly lead her back inside. I looked at both my dad and brother. My brother just hollers as my dad shakes his head. Guys, I hope you're not going to be upset that we didn't exactly ghost him.  Well i have technically. After they walked in i felt a ping in my chest and and it wasn't just anger anymore, it was finality. It felt as if the last thread of whatever we had snapped inside. I looked away or must have looked sick. I wasnt sure if i wanted to run in there or just tell my brother to drive and leave all my things. I didn't even realize my dad opened the door from the backseat until he shut it behind him. He didn't say a word to us. He just started slowly walking towards the door, he's a police Sergeant so I knew he'd be fine. Omg i remember this moment as if it's happens again each time I think about it. My dad knocked twice. Nothing both times, finally, the door cracked open just enough for me to see his face from afar. His entire expression changed the second he realized who was was at the door. His smug, relaxed look vanished and his face from where we could see too lit up cherry red. Were laughing at this point.
+
+He didn't close the door, just shifted his body in the frame like some pathetic human shield, as if he tried to hide what we just witnessed.
+
+I knew he was scrambling to figure out his next move. At this point I'm not sure what my dad told him but my dad must have told him to move because he stepped aside to let my dad in. I got worried for a second. Because I couldn't see him anymore but not even seconds later SHE comes out. Embarrassed as hell and she walks to apparently her car parked a little down the street. Ugh. Disgusting. We waited to see what happens as the door is still open. As she drives away, my brother gets a text from Dad, he says only my brother come help, we all agreed to just grab my clothes, my art, my records, my pictures, my keep sake jewelry all of which I told them where everything was and as time went by I just kept texting with my brother. Omg guys my brother had texted me saying ""he looks like he's gonna shit his pants"". It kept my spirits up after what i had jst witnessed, yet again. I didn't mind AT ALL not going in. I'm happy it happened this way, it may not have happened the way everyone hoped. But i sure as hell know he was embarrassed as fuck and left wondering. He can keep that hat. My dad is a God send. I told my family about the post and my Dad offered to write his perspective since he was face to face with my ex
+
+He's just the best, my family is just the best I can't even begin to express how much you've guys helped me. Gave advice and just shared some of your experiences as well. God cheaters fucking suck. He can rot inside as he wonders and I'm free now. We left without looking back literally, and I think this is the final Update. Thanks so much guys. 
+
+From my Dad: 
+
+""I approached my daughter's ex’s residence and immediately heard a woman laughing inside. I knocked once. The laughter stopped. I knocked again, and I could hear muffled voices and movement inside. When he opened the door, his expression immediately changed; he recognized me and looked caught off guard.
+
+I told him, 'X, don’t try to hide anything. It didn’t have to be like this. All we want is O’s belongings.' He hesitated but let me inside. As I stepped in, I continued, 'You owe her at least that much—the decency to collect her things after what you’ve done.'
+
+I saw a young woman inside and told her she should leave. She gathered her things and exited without protest. Meanwhile, X kept asking how much my daughter knew, attempting to justify his actions. I ignored his attempts at explanation and texted my son to come help move O’s belongings.
+
+X continued pressing, insisting he had made a mistake and wanting to know exactly what O was aware of. He was visibly anxious. X ran a hand through his hair, eyes darting between me and the door. ""I never meant to hurt her,"" he muttered. ""It just happened.""
+
+I shook my head at him and stated. ""No, X. You made a choice.""
+
+He swallowed hard. ""What does she know?""
+
+I held his gaze. ""Enough.""
+
+A knock at the door; my son had arrived. Without another word, we started gathering O’s things. X stood there, silent, as we moved past him.
+
+As I reached the door to leave, I spotted O’s hat where she left it. I grabbed it, turned to X, and lightly tossed it to the floor. ""You keep this,"" I said, then shut the door behind me.
+
+At some point I left the engagement ring on the island counter. I told my daughter that, if you pawn that ring, some poor couple will be with that ring, it's more of a punishment to him, he lost the real diamond. 
+
+
+
+
+
+
+",3,1739714363.0,relationship_advice,0,1.0,False
+1iqsqgk,https://i.redd.it/gs9lb3mzlgje1.jpeg,"You cant use this phrase nomore. ""Everybody's a fucking drama queen these days""",,2,1739714269.0,stewartlee,0,1.0,False
+1iqsqfv,https://www.reddit.com/r/letters/comments/1iqsqfv/fuck_a_flower_ill_buy_a_garden_next_time/,"fuck a flower, I'll buy a garden next time","fuck a flower, ill buy a garden when we are together again, took you to the hills just to feed you some lemon rice. then i looked up in the sky, asked the hand of god to  testify to the truth, asked varuna to rain upon us, and when he did, we ran back to your a4. you kissed me. i still remember the scent of you like burning oak, the taste of your lips, the taste of lime from the rice we ate with love. your saliva was antiseptic for me.
+
+but seek the sun next time. i promised to buy you some flowers next time we met, it didn’t conjure. now the winter is over, i miss you. and you cried for me that night, i wiped the tear from your cheek. my t was wet cuz of your crying, but that’s how i like it. so never fucking mind.
+
+fuck it though, i’m not good enough for you. you might relapse cuz of me. sometimes i wonder why i’m so toxic. it’s funny to see the trauma bonding, but the bitch in me won’t let it be. the blood in me is of demigods, ain’t my fault, i just hurt people like the cactus. ran through bangaluru just to get me some filter coffee, and it spilled on my sneakers.
+
+but fuck a cactus, i buy you a whole garden next time. homeboy said you can’t just forget this one, it’s just gonna come back. but there’s a sense of peace living with regret. i close my eyes, look inside, stare in the mirror, ask shankara to stand by me. and then i look behind there’s an army of people guarding me, so i don’t worry too much.
+
+but the visions are all fallacy. or maybe not but next time we are together ill buy you a garden. 
+
+\~chandra ",2,1739714267.0,letters,1,1.0,False
+1iqsqds,https://www.reddit.com/r/PhR4Friends/comments/1iqsqds/27m4f_cubao_expo_coffee/,27[M4F] Cubao Expo? Coffee?,Meron pa bang nasa Cubao Expo ngayon? Sama ako! Ahahah. Ayoko pa sana umuwi ehh. Kape na rin tayo okaya kuwentuhan. Huhuhu. ,1,1739714262.0,PhR4Friends,0,1.0,False
+1iqsq4q,https://www.reddit.com/r/minnesota/comments/1iqsq4q/pizza_luce_molly_bar_recipe/,Pizza Luce Molly Bar Recipe?,"Hey folks,
+
+I'm wondering if anyone has an inside scoop on the recipe for Pizza Luce's Molly Bars. They are SO GOOD, very fudgey. 
+
+They are described as a vegan and gluten free brownie, but their texture and the presence of some bits of rice krispie makes me think they are probably no bake. There are some recipes for ""molly bars"" online but they are very different, essentially a rice krispie and peanut butter bar with chocolate drizzled on top. Def some minor similarities (no bake bar with rice krispies), but there is no peanut butter in the PL molly bar, they are overwhelming chocolate flavored, not just a drizzle, and the ratio of rice krispies seems very different. The label says contains soy and I'm pretty sure I can taste instant coffee/espresso powder in there. I know the legally they need to provide the full ingredient list if asked, but i figured I would also if anyone had insight here first. ",2,1739714239.0,minnesota,0,1.0,False
+1iqspo3,https://www.reddit.com/r/mokapot/comments/1iqspo3/flying_with_moka_pot_in_carryon/,Flying with moka pot in carryon,TSA doesn't seem to recognize my coffee obsession. Anyone here flown with a mokapot in their carry on? I ask because it looks like a device that might be able to be turned into something explody...,1,1739714195.0,mokapot,0,1.0,False
+1iqsp67,https://www.reddit.com/gallery/1iqsp67,S9 + 45i,,5,1739714151.0,Lumix,0,1.0,False
+1iqsp20,https://www.reddit.com/r/Leeds/comments/1iqsp20/new_to_town/,New to town,"Hi Leeds. 
+
+I’m not necessarily new to Leeds but went to uni here about 10 years ago…moved to Scotland and decided that Yorkshire is the best and returned to my favourite city in the UK. 
+
+I’m a recently qualified (1 year ago) sports massage therapist and trying to build my client base in Leeds (Headingley and Cross Gates). 
+
+I’m doing all I know to do which is flyering, posting on socials, emailing gyms etc but I really miss that element of word of mouth of living somewhere your whole life. 
+
+Basically my question is: can anyone send me some advice which might come in the form of a business connection, networking events, friendly motivation, coffee chat, suggesting friends to me…just anything you can think of. 
+
+I’m trying to target the sports industry but obviously anyone is welcome. Just emailed Andy’s man club to see if I can help there. I’m a graphic designer full time and this is my side hustle currently. I do it because I love helping people and like anatomy. But moving from the creative industries to sports is quite a side step and I literally have zero connections. 😳
+
+Hopefully this won’t be removed for breaking promotion rules because I’m genuinely asking for help from this community and not looking to directly gain clients from Reddit. 
+
+Much appreciated. 
+
+Tom ",2,1739714138.0,Leeds,0,1.0,False
+1iqsorm,https://www.reddit.com/r/usyd/comments/1iqsorm/looking_to_make_friends/,Looking to make friends,"
+Hey everyone!
+
+I’m a first year ms cs student and I’m looking to meet new people and make some friends. Whether it’s for grabbing coffee, studying together, or just hanging out on campus, I’d love to connect with some like-minded people!
+
+I am always up for trying new things. If you’re also looking to expand your social circle, feel free to drop a comment or DM me!
+
+Looking forward to meeting some awesome people.
+
+",2,1739714113.0,usyd,0,1.0,False
+1iqso40,https://www.reddit.com/r/DeLonghi/comments/1iqso40/setting_for_the_delonghi_eletta_explore/,Setting for the delonghi eletta explore,"Hello! I recently bought an eletta explore and the coffee is really bad but for sure i didn t put the right settings..so please please help a poor girl with some advice 😂 i put the grinding at 3 and when i make a capucino i select the intensity 4.
+The coffee is really bitter but the colour it s very very light like it s mostly water..",1,1739714056.0,DeLonghi,0,1.0,False
+1iqsnc4,https://i.redd.it/mlr9brhvaije1.jpeg,coffee with the captain in the cold ☕️❄️,,3,1739713988.0,CoffeeAndACard,0,1.0,False
+1iqsn1b,https://i.redd.it/8sd5k5wbaije1.jpeg,"The Olive Tree, High Peak, Derbyshire. Big Breakfast £10.50 incl. mug of Tea or Coffee.",,2,1739713961.0,fryup,1,1.0,False
+1iqsmd4,https://www.reddit.com/r/MakeNewFriendsHere/comments/1iqsmd4/22m_from_nyc_and_down_to_talk/,22m from nyc and down to talk.,"22m from nyc and down to talk.
+
+Hey there! 22-year-old guy in NYC looking to connect with some cool people. I'm a big soccer fan, always down for a good chat, and I love exploring random interests. I'd love to listen to you and make you happy. Hit me up if you're interested in grabbing coffee or just hanging out",1,1739713900.0,MakeNewFriendsHere,1,1.0,False
+1iqsll8,https://www.reddit.com/r/PSSD/comments/1iqsll8/should_i_try_wellbutrin/,Should I try wellbutrin?,"Hello everyone I hope you all are well.
+
+A little background history, I took mirtazapine for insomnia back in 2023 I only took it for 4 days and then I quit it made me feel really groggy and tired.
+Then in 2024 I took 25mg of zoloft for 2 months, approximately 60 days. After 2 months of use I quit cold turkey. Then that’s when I began to experience symptoms such as: blank mind, severe anhedonia, no endorphins after exercise, no adrenaline, no dopamine, reduced sensation on penis and low libido. 
+
+It’s been 9 months since I quit Zoloft and I’m still struggling with the symptoms. I think my problem may be related to low dopamine because drinking coffee makes me feel a little better. Should I try Wellbutrin? I have heard people getting better from taking it or should I wait at least a year before I try any meds?
+
+I would really appreciate any advice, thanks guys.
+",1,1739713832.0,PSSD,2,1.0,False
+1iqslg5,https://www.reddit.com/r/VirtualAssistant4Hire/comments/1iqslg5/hire_me_your_ecommerce_specialiststore_manager/,[HIRE ME] Your e-commerce Specialist/Store manager.,"Want to enjoy your coffee without a hurry? 
+Let me help! 
+
+I've been working as an E-commerce Specialist for over four years, specializing in Shopify and Etsy. I have experience in Print on Demand and dropshipping businesses across the UK, US, and Singapore.
+
+My expertise includes order management, fulfillment, product listings, customer service, inventory management, and vendor coordination. I’m well-versed in all aspects of running an e-commerce business.
+
+Let me know if you need any assistance!
+
+",1,1739713819.0,VirtualAssistant4Hire,1,1.0,False
+1iqsl75,https://www.reddit.com/r/candycrush/comments/1iqsl75/no_boosters_for_the_needy/,No Boosters for the Needy,"HELP! Whenever I have to close out of the game, be it for lost lives, loss of Wi-Fi, or coffee runs, I lose ALL my boosters, even if they are permanent, not timed. It doesn't matter if I have won them or purchased them.  I can't play Candy Crush 24/7! What's the story on this? I don't think this should happen.",2,1739713796.0,candycrush,0,1.0,False
+1iqsku1,https://www.reddit.com/r/Edinburgh/comments/1iqsku1/nectar_on_leithwalk/,Nectar on Leithwalk,"I see Nectar on leith walk is now gone. Anyone know what happened? It was a fantastic place for coffee and breakfast, very well priced and had a perfect 5 star review on Google with 100s of ratings which I think is fairly warranted. Can’t imagine a place like that going out of business given how busy it was. Any insight?",2,1739713763.0,Edinburgh,0,1.0,False
+1iqskmh,https://www.reddit.com/gallery/1iqskmh,How to use the info on a coffee bag to brew,"Please skip to the last two paragraphs if you can't be bothered to read my elongated introduction.
+
+Hello guys, I've been in and around this lovely
+community for a few months now. As many of you may have also experienced, as one's coffee hobby grows deeper, creating a cup of coffee you feel satisfied with becomes rarer. Ignorance is well and truly bliss in the world of coffee. Worrying about grind size, temperature, bloom time, swirl or wiggle?!?! is quite frankly enough to drive a man insane.
+
+I'm now too deep in this world to turn back so I thought it was about time I asked you guys for some friendly advice because.. well, i want to be 
+able to enjoy my cups of coffee again!
+
+It is no secret that different coffee's brew differently. I know that how you brew, grind, heat the water, may be understood by reading the information on the bags of coffee. The trouble is I still have no idea how to digest the information on a bag of coffee. For example, i recently brewed an Anerobically washed Ethiopian coffee the other day and had absolutely no idea what
+an Ethiopian coffee requires to achieve an excellent cup. I spent too long worrying about if i should be using boiling water. But I heard April Coffee tends to brew Ethiopians at 92? Well how about ratios? I should change my water ratio to 1:17 to achieve a higher extraction, right? Or should i just grind finer and get a sweeter up?
+Wait! Does the fact its Anerobically washed change anything?!?! You get the jist. I know there's articles out there but quite frankly, finding something specific to your bag is tricky to find. I also understand that is all down to preference at the end of the day, however, im just looking for some pointers that can push me in the right direction when I buy a new bag of coffee.
+
+This brings me to the question I came here to ask all you experts today:
+
+What can i understand about how i should be brewing a cup of coffee based on the information on the bag? Also, how specifically will the effect my cup? I know this probably requirea a long winded answer so i appreciate anything you can add. I understand i may have to do some digging myself. 
+
+I will attach some photos of some coffee ill be brewing in a few days. l'l be extremely grateful if someone can explain how i should be brewing them (not techniques per say but more to do
+with grind size, water ratio, temperature etc.)
+
+All help is much appreciated :)",0,1739713743.0,JamesHoffmann,2,0.33,False
+1iqskbz,https://www.reddit.com/r/SouthAsianMasculinity/comments/1iqskbz/stop_being_weak_victims/,Stop Being Weak Victims,"I’m genuinely scared for the next generation of South Asians because too many of you come across as whiny losers.
+
+Yes, South Asian hate exists, even amongst ourselves, but instead of complaining, there are things we can do to combat it.
+
+
+
+1️⃣ Physicality – Get Stronger & More Athletic
+
+Hit the gym at least 3 times a week, focusing on full-body workouts (our bodies respond best to this).
+
+
+
+Nutrition tip:
+	•	Cut your carbs in half every meal.
+	•	Increase your protein intake.
+	•	If you’re Muslim, incorporate higher-fat meats (we respond better to them) – e.g. lamb, chicken thighs/legs, salmon.
+
+
+
+If you’re weak, small, or out of shape – fix it. Your physical presence should command respect.
+
+
+
+
+2️⃣ Looks – Present Yourself Better
+
+Looking good isn’t just genetics, it’s maintenance.
+
+✅ Eyebrows: Trim them, pluck the monobrow (break the stereotype).
+
+✅ Facial Hair:
+	•	Clean shave if your beard is weak.
+	•	Grow a beard that suits your face shape.
+
+✅ Haircuts: Get a proper fade/haircut twice a month – make sure it actually looks fresh.
+
+✅ Line yourself up at home in between (cheap trimmers + YouTube tutorials).
+
+When you look sharp, you feel sharp.
+
+
+
+
+
+
+3️⃣ Hygiene – Fix This ASAP
+
+Some of you need to hear this. We already have a stereotype of smelling bad. Don’t reinforce it.
+
+🚿 Shower daily (minimum)
+
+	•	Use proper shower gel (not a 3-in-1 garbage bottle).
+
+	•	Shampoo 1-3x a week, condition every other day (prevents breakage).
+
+	•	Use a loofah – washing with your hands does NOTHING.
+
+
+
+
+🛁 Post-Shower Routine
+	•	Use separate oils for hair & beard (if applicable).
+
+	•	Moisturize (face, ears, nose, and body).
+
+	•	Double up on deodorant (Roll-on + Spray).
+
+
+If you stink at Jummah or have smelly feet, fix it. People notice.
+
+
+
+
+
+
+4️⃣ Intellect – Level Up Your Mind
+
+✅ Education matters. Study, study, study.
+
+
+✅ Social skills matter. Interact with people, especially women, so you don’t act weird around them.
+(Asking your mum to make roti doesn’t count.)
+
+✅ Work on your accent.
+I was lucky to grow up in a white area, so I don’t have that South Asian twang, but some of you sound fresh off the boat despite being born in the UK, USA, or Canada.
+
+	•	Work on pronunciation – accents affect perception.
+
+	•	Let’s be real: our accents aren’t the most attractive.
+
+✅ Be street smart.
+
+	•	Observe South Asian roadmen – take the good aspects (confidence, presence), not the criminality.
+
+	•	You should never be an easy target for Goreh or Kaleh.
+
+
+✅ Know your history & be ready for racists.
+
+	•	If someone tries it, physically and verbally check them.
+
+	•	Learn to debate and articulate your points (watch Muslim debaters like M. Hijab).
+
+	•	Remember: India made Britain rich while they were throwing urine into the streets.
+
+	•	Muslim Moors introduced perfume and bathing to Europe. (Google it if you don’t believe me.)
+
+
+
+
+
+
+5️⃣ Be Proud of Your History
+
+We’re one of the most successful immigrant groups despite facing racism.
+✅ Top CEOs.
+✅ Highest-earning households.
+✅ Warrior traditions – we’re NOT weak.
+
+
+Look at:
+🥇 The Great Gama (wrestling legend)
+
+🥊 Amir Khan, Adam Azim, Hamzah Sheeraz, Nishant Dev
+
+💪 Pehlwani (stone lifting, kabaddi, wrestling)
+
+Embrace your heritage – there’s nothing weak about it.
+
+
+
+
+6️⃣ Clothing – Dress Like a Man, Not a Teenager
+
+✅ Start fresh with these staples:
+
+👕 T-Shirts (High Quality)
+	•	2x Black
+	•	2x White
+	•	2x Coloured
+
+👖 Jeans/Trousers:
+	•	2x Black Jeans
+	•	2x Light Blue/Grey Jeans
+	•	2x Blue Jeans
+	•	2x Cargos
+
+🧥 Jackets/Hoodies:
+	•	2x Black Hoodie
+	•	2x Black Bomber Jacket
+	•	2x Leather Jacket
+	•	2x Smart Casual Jacket
+	•	2x Winter Puffer
+
+👟 Trainers:
+	•	1x Black Trainers
+	•	1x White Trainers
+
+📌 Keep it clean, mix & match.
+📌 Doesn’t need to be designer, just high quality (Zara, H&M, etc.).
+
+
+
+
+7️⃣ Dating – Stop Moving Like a Victim
+
+🚫 Stop taking dad selfies.
+
+✅ Fix your Instagram (Watch Jack Hopkins’ ‘A G’s Guide to Instagram’).
+
+✅ Use the right dating apps: Hinge, Tinder, Dil Mil, Muzz.
+
+✅ Stop being awkward.
+
+✅ First date = Coffee/Chai, NOT an expensive meal.
+(Are you her dad?)
+
+
+
+
+
+
+8️⃣ Finances – Secure the Bag
+
+💰 Earning power = Respect.
+
+✅ Make good money.
+✅ Invest in stock dividends.
+✅ Start a business.
+✅ Have 6-12 months’ worth of living expenses saved.
+✅ Have an emergency fund your wife doesn’t know about (DTA – Don’t Trust Anybody.).
+
+Being broke is a choice in 2025 – level up.
+
+
+
+
+
+
+
+
+
+Final Thoughts – No More Weakness
+
+I shouldn’t have to make this post, but too many of you need guidance.
+
+✅ Stop whining like little kuriya.
+
+✅ Change starts with YOU.
+
+A lot of our women look elsewhere because they don’t see us as leaders and protectors anymore.
+
+Our ancestors provided for entire families, protected their own, and moved with strength.
+We need to go back to that.
+
+Big Papa, over and out.
+
+💬 DMs are open. I’m 31, I’ve seen life. Let’s get it.",5,1739713714.0,SouthAsianMasculinity,0,1.0,False
+1iqsjsp,https://www.reddit.com/r/interviews/comments/1iqsjsp/dream_company_next_step_advice/,Dream Company - Next Step Advice,"About a year ago, I ran into an old high school buddy. We weren't in the same friend group but got along pretty well. We talked about 5 minutes and he says we should grab coffee. A couple of months went by and we never connected for coffee. I reach out and say we should at least catch up on old times, even if we don't have time for coffee. Oh, he also just happens to work at a company I really really want to work for. And is in upper management in the department I would be in. During the call, he mentions he saw my Linkedin and would love for me to meet with the hiring manager. 
+
+So he does an intro, and the hiring manager and I have an informal ad hoc interview. I think the ""interview"" went well, or at least it wasn't bad. In fact, in response to my thank you email, the hiring manager responded by saying she would welcome the opportunity to speak with me down the road when there is more headcount and to ""please stay in touch"". She even requested to connect on Linkedin afterwards. 
+
+Fastforward 8 months, I respond to her last email to see how the department is coming along and if she anticipates any headcount being added this year. No response. I follow up a week later. Still no response. So I reach back out to my buddy who is again, a notch or two above her in the organization. He says good to hear from me and he may in fact be adding headcount and will know more within the coming weeks. He told me to feel free to follow up in a couple of weeks for an update. Well, we are at the two week mark.
+
+Any advice on how to navigate this? It seems my buddy is in my corner based off of his actions. However, he isn't the hiring manager and that person went from ""please keep in touch"" to not responding. 
+
+TL;DR  
+I have a buddy at my dream company. He put me in touch with the hiring manager who is a peg or two ""under"" him in the org. Did not get the job but thought the ad hoc interview went well. Hiring manager told me to follow up down the road and stay in touch. When I followed up twice, I got no response. Talked to buddy recently and he said he may be adding additional headcount. How do I navigate this knowing the hiring manager ignored me? ",1,1739713667.0,interviews,7,1.0,False
+1iqsjlm,https://www.reddit.com/r/UMD/comments/1iqsjlm/anyone_know_what_volume_is_held_by_coffee_mugs_or/,Anyone know what volume is held by coffee mugs or bowls of the dining halls?,For the purposes of dieting. Do we know if the coffee mug holds one cup? The bowls seem to hold way more than one cup. ,1,1739713648.0,UMD,2,1.0,False
+1iqsixo,https://www.reddit.com/r/astoria/comments/1iqsixo/breakfast/,Breakfast,"Best place to sit alone and get a big breakfast and just read on my phone for an hour plus. 
+
+Not concerned with what food; it just has to be a big portion and good. There has to be coffee.
+
+I also don’t want to go to a place where I’m being rushed out to turn the table. I just want to chill and read my book(via my phone) and drink coffee and eat a giant meal.
+
+I have a car so I’m open to anywhere in the neighborhood or adjacent.",8,1739713584.0,astoria,17,0.9,False
+1iqsi5b,https://www.projectzionpodcast.org/podcast/808-coffee-to-go-6th-sunday-after-epiphany-year-c/,"Project Zion #808 Coffee to Go - 6th Sunday After Epiphany - Year C: In today’s passage from the Gospel of Luke, Jesus lays it on the line with the disciples…proclaiming both blessings and woes.",,1,1739713517.0,CommunityOfChrist,0,1.0,False
+1iqsha6,https://i.redd.it/udweyhz89ije1.jpeg,Bbq coffee rub? Have you seen it?,Has anyone seen the bbq coffee rub in stores?  I ran out and desperately need more for my burger nights.  I have purchased on Amazon before from a seller out of desperation but I can’t even find it there! Don’t tell me it’s discontinued! (I know it’s seasonal.),2,1739713438.0,traderjoes,1,1.0,False
+1iqsh5a,https://www.reddit.com/r/ProfitecGo/comments/1iqsh5a/need_help_to_improve_my_espresso_skills_with_my/,Need help to improve my espresso skills with my new profitec go,"Hello friends,
+
+I have bought the following tools in addition to my profitec go: 
+
+1) Normcore Puck Screen 58,5mm:
+(Question: Which side must look up? The rough side or the side with the lettering ?)
+
+2) IMS Shower Screen (https://amzn.eu/d/f4ESPDj)
+(Installed it)
+
+3) Leveler (https://www.coffeefriend.at/p/mahlkaffee-verteiler-motta-black-58-mm/)
+
+(Question: Whenever I use this tool, the sieve tends to have only slight unevenness and it never becomes flat, and ground coffee also forms on the edge... also i cannot adjust the height/depth of the leveler) 
+
+4) Tamper from ECM
+(It's thicker and heavier than the original one that was delivered with the Go) 
+
+5) grinder: Eureka Mignon Specialità 16CR
+
+
+I know it's hard to tell without seeing the whole process (basically: grinding - Needle coffee dispenser - leveling- tempering- add puck), but so far - after 1 week - I haven't been able to produce a good espresso yet.  The temperature is at 94, the pressure bar at about 9 - but mostly it's too thin or sometimes when I temper a bit more, nothing comes out...
+
+I am grateful for any tips!!!",1,1739713424.0,ProfitecGo,2,1.0,False
+1iqsgvr,https://lasfincas.com/pages/our-story,Montreal Coffee Roaster - Las Fincas,"If you are Looking to support a local company that sources coffee beans from outside of Canada and roasts them in Montreal. Try las fincas. The coffee is amazing! 
+
+",1,1739713401.0,BuyCanadian,0,1.0,False
+1iqsgkb,https://i.redd.it/v3bu2qs19ije1.jpeg,How accurate are Mooboo calories?,,1,1739713371.0,caloriecount,0,1.0,False
+1iqsgjd,https://www.reddit.com/r/SeveranceAppleTVPlus/comments/1iqsgjd/anyone_else_feel_like_devon_has_been_kind_of/,Anyone else feel like Devon has been kind of de-fanged this season?,"I love Devon as a character and I loved what a ""doesn't take any shit from anyone"" firebrand she was in season 1. Sure, she was sensitive and empathetic to Mark's struggles, but she also didn't put up with his self-defeating and woe-is-me behavior, because she knew it wasn't healthy for him. By comparison, Devon's characterization is the only element of season 2 that I'm lukewarm on, in a season that's otherwise been pretty phenominal. Her presence in the season has been fairly sparse, but when she is in the show there are two things that bother me about her behavior.
+
+One, she just discovered that the shady company that Devon works for has apparently, somehow, faked her close friend Gemma's death and is keeping her trapped underground. That would cause anyone to freak out and be filled with a sense of urgency to save her! But whenever we see Devon this season she's... generally calm and unbothered? Like she doesn't mention Gemma to her husband Ricken ever, that we see. She's helping Mark with his little experiment to burn an image into his vision, but even that doesn't feel like such a priority to her. If you found out your very close friend who you thought had been killed had actually been kidnapped and imprisoned underground by a shady company, I don't know, I think you'd be spending every day and evening researching the company online, talking to your husband about whether you should go to the police or government, etc. But all we see is her puttering around the house drinking coffee.
+
+Two, she's a lot more passive than she was in season one. She kind of lets Mark walk all over her, like in the early episode scene in her house where she's trying to get Mark to talk about what he said re: Gemma, and he pretty rudely dismisses and mocks her, and she just folds and they move on. I find every scene between her and Ricken odd as well, as she behaves like a fairly passive observer to Ricken becoming involved with Lumen, \*something that both her and Ricken should have zero interest in, and in fact should be revolted by, because they just found out that Lumen has faked the death of and kidnapped their close friend.\* Instead, the scenes with Ricken and Devon about the book he's writing for Lumen involve her saying a passively aggressive dissaproving comment, and then leaving the room. Where is the conversation where Devon gets pissed at Ricken as says ""I supported you completely when you wrote the first version of this book, but it's not acceptable for you to start writting Lumen propaganda when we know that they're human traffficking Gemma and who knows how many other people!""
+
+I love this show and I miss my fiery Devon!
+
+Edit: Something I forgot and another reason that both both Ricken and Devon should be more revolted at the idea of Ricken now basically doing work for Lumen, is that last season a Lumen employee spent weeks? Months? Posing as a nursing-aid to their baby! Which is a massive personal violation. Again, Devon doesn't bring it up after episode 1.",0,1739713369.0,SeveranceAppleTVPlus,2,0.5,False
+1iqsgez,https://www.anthropologie.com/anthrohome/shop/sullivan-reclaimed-wood-coffee-table?color=014&type=STANDARD&size=59%22&quantity=1,No room yet but…,We’re redoing our living room. We already bought this coffee table but I’m having a hard time finding a 2-3ft heigh by 60in wide tv stand/console table that doesn’t look ridiculous with it. Any help would be appreciated!!!,1,1739713359.0,DesignMyRoom,0,1.0,False
+1iqsfrm,https://www.reddit.com/r/WegovyWeightLoss/comments/1iqsfrm/hypoglycemia_after_eating_while_on_wegovy/,Hypoglycemia after eating while on Wegovy??,"Has anyone experienced hypoglycemia after eating while on Wegovy? I’ve had two episodes lately and am a bit concerned. The first of which was on Thursday, and was a couple of hours after having a sugary coffee drink. I feel kind of weak and shaky so I checked my glucose and it was 62. Had some crackers and juice and it normalized. Friday went by with normal eating and without any dips in glucose. 
+
+Yesterday, I worked out in the morning, and then had a protein shake and hydrated. For lunch I had a bowl of pasta (appx 80 carbs) and some chicken and monitored my glucose throughout the afternoon. It peaked at 137 about 2 hours after eating but then dipped to 54 an hour later, though I didn’t feel any symptoms. Within 15 minutes of dipping to 54 it had increased to 77 and stabilized at around 88 within about 25 minutes. I did not consume any carbs after it dipped; it rebounded on its own. 
+
+I’m on 1.7 mg Wegovy for weight loss; my doctor Dxed me with pre diabetes about 2 years ago. Ag that time I had some glucose readings that were in the high prediabetic/borderline diabetic range. I addressed with diet and exercise and have maintained an A1C in the 5.5 range for about 2 years with no diabetic medication. My A1C has been 4.7 since taking Wegovy. 
+
+I have a message out to my doctor expressing my concerns, but it’s Sunday morning so I don’t suspect I’ll hearing back until sometime next week. 
+
+This is all new and overwhelming to me and I don’t have a lot of experience dealing with diabetes so I’m not real well versed on a lot of these things, but it seems like I may be experiencing reactive or postprandial hypoglycemia?
+
+This confused me even more because from what I’ve read, Wegovy and GLP-1’s as supposed to stabilize glucose and prevent reactive hypoglycemia. 
+
+I’ve monitored my glucose fairly regularly over the past two years and have never experienced any episodes of hypoglycemia such as this so I’m guessing that the Wegovy has to somehow be causing this. 
+
+Has anyone else experienced this while on Wegovy? Should I talk to my doctor about stopping the medication?
+
+I read these terrible stories about severe hypoglycemia and people having seizures and falling into comas and stuff, though that seems like it’s mainly type 1 diabetics and severe type 2 diabetics who take insulin, so that’s probably just my imagination running.
+
+Anyway, I’m just a bit freaked out and any insight is much appreciated. ",1,1739713301.0,WegovyWeightLoss,0,1.0,False
+1iqse0p,https://www.reddit.com/r/dating_advice/comments/1iqse0p/after_months_and_months_of_small_talk_reciprocal/,"After months and months of small talk, reciprocal smiles; waves and minimal chit-chat my gym crush asked for my name “I can’t believe we don’t know each other’s name yet” she said. Then we exchanged names.","She also told me her mom’s and sister’s names who also go w her. Before this, she asked if I lived near by, I told her I work close by and come before work. She’s told me they talk about me when they’re not in the gym “that guy w the backwards north face hat”. lol 
+
+It seems im basically green lit on this but I’m still hesitant to ask her to go for a coffee or something after our workouts because of the whole guys asking girls out at the gym thing. Go for it right??? 
+
+Also I’m in my late 30s she’s probably early - mid 20s. But there’s obvious interest from her. 🤷‍♂️",4,1739713144.0,dating_advice,3,1.0,False
+1iqsdhq,https://www.reddit.com/r/devlogs/comments/1iqsdhq/new_game_making/,New game making,"Hi! I'm a new member. I really want to make a pixel game. But not alone. I learn software development and testing. I have an idea. 
+
+About the game:
+I imagine it like a cozy barista game. Where you can make any drinks that you want. Like make a presso and put some milk in it and put some cream on it, then bumm you have the recepie of a latte. And you could serve interesting characters and know about there life to choose what drink they should have. A coffee? Or a bubble tea? You know it.
+
+
+Thats why i searc for people who would join me! ❤️",1,1739713097.0,devlogs,0,1.0,False
+1iqsczx,https://i.redd.it/0cwffdi38ije1.jpeg,just a baby with coffee and toaster,my roubit can't bite toast yet :') ID : 35654067,1,1739713051.0,Roubit,0,1.0,False
+1iqscto,https://www.reddit.com/r/OffMyChestPH/comments/1iqscto/kaibigan_nating_pala_aya_magkape/,Kaibigan nating pala aya magkape,"[ t r i g g e r    w a r n i n g]
+
+For the last 2 weeks, I was on the verge of either cutting myself,  mag-overdose ng pain reliever,  tumalon ng swimming pool, or mag-duct tape ng ulo. It wasn't burn out sa work neither pressure sa graduate school. It was the untiring flashbacks of betrayal and lies. While on those thoughts are draining me palaging nagriring yung phone ko, non-stop yun. Nag-aaya kasi magkape yung katrabaho (28F) ko almost every night. Tatawag sya ng sobrang kulit, paulit-ulit at hindi titigil yun hanggat hindi ako lalabas ng kwarto ko.
+
+
+Maglalakad lang kami papunta sa coffee shop kahit gabi na at kahit may sakayan naman. Later did I know stressed pala sya sa wedding preparation nya this April. Two nights ago, nagkape kami ulit kasi nga valentine's. While my hot coffee is getting cold napamura ako sa isip ko, 
+
+""Shet. Tang ina. Kung hindi dahil sayo baka malamig na din ako"". 
+
+
+Naiiyak ako while typing all these, Feb pa lang pero kagabi kasi recorded yung 4th patient (F) na nagsuic*de sa work namin. 2 dead on the spot, 2 failed attempts. She's conscious now. Thanks be to God. 
+
+
+Sa lalim ng pagkalunod ko araw-araw hindi na ako nakakafunction ng maayos. I forgot that I have a loving family, healthy work environment & good bosses, supportive friends, & goals to finish. 
+
+
+My fren, salamat sa bawat aya mo magkape, with high hopes, makakapunta ako sa kasal mo na buhay at maganda. 
+
+🥹
+
+",3,1739713035.0,OffMyChestPH,1,1.0,False
+1iqschi,https://www.reddit.com/r/henna/comments/1iqschi/indigo_with_coffee/,Indigo with coffee,"Has anyone tried mixing indigo with coffee concoction
+I hate the smell of indigo ..the smell stays even after washing my hair ",1,1739713006.0,henna,0,1.0,False
+1iqsby9,https://i.redd.it/d0yvbh1p0yie1.png,"I work in a grocery store in tagging. Everything is going up, hardly anything is going down.",,1,1739712955.0,u_MomoMikey,0,1.0,False
+1iqsbeb,https://www.reddit.com/gallery/1iqsbeb,ISO! Trying to finish this bedroom,Hi ya’ll. I am desperately trying to finish the one bedroom I didn’t finish when I was younger. Idk why my poor googles only had half a room. I’m missing just a few more things and have gone through my possessions. If anyone would like to trade pls lmk :-) thank you ,1,1739712903.0,Webkinz,1,1.0,False
+1iqsb0k,https://www.reddit.com/r/Python/comments/1iqsb0k/redcoffee_a_personal_pypi_project_that_crossed_6k/,RedCoffee: A Personal PyPi Project That Crossed 6K+ Downloads,"Hi everyone,  
+I hope you are doing well.
+
+I just wanted to take a moment to say thank you to everyone in this community. When I first built [RedCoffee](https://pypi.org/project/redcoffee/), it was just a hobby project—something that solved a personal need. I never imagined it would cross 6,000 downloads or that so many of you would find it useful. Seeing the response, the feedback, and the feature requests has been incredibly motivating, and I truly appreciate all the support.
+
+# What my project does ?
+
+Just a quick recap - RedCoffee is a CLI tool that generates PDF reports from SonarQube Community Edition’s code analysis, which lacks a native PDF export feature. While some GitHub projects addressed this need, they are no longer actively maintained. This was my pain point while working with my fellow developers and hence I built this solution.
+
+With that, I’ve just pushed v1.8, which includes a few important fixes:
+
+* Fixed: Duplication % was always showing as 0—this has now been corrected.
+* Resolved: The last issue from the API response wasn’t appearing—this is now fixed.
+* UI Tweaks: Minor improvements to the PDF formatting.
+
+# Lessons Learned & What’s Next
+
+While building this, I made some classic mistakes—ones that I often advise others to avoid:
+
+1. Not Enough Test Coverage : I focused too much on quick iterations and didn’t invest enough in unit/integration tests. As someone who strongly believes in test automation, this was something I should have done from the start. Fixing this is my top priority for the next update.
+2. Code Structure : Needs Work Right now, app . py has way too much logic packed into it. Without proper tests, refactoring is tricky. So, once I have good test coverage, cleaning up the structure is next on my list.
+
+# Upgrade to v1.8
+
+If you’re using RedCoffee, I recommend upgrading to the latest version. v1.1 is still the LTS release, but v1.8 is the most up-to-date and stable.  
+If you are already using RedCoffee, here is the command to upgrade it
+
+    pip install redcoffee --upgrade
+
+If you are installing RedCoffee for the first time, here is the command to get up and running
+
+    pip install redcoffee==1.8
+
+# Target Audience:
+
+RedCoffee is particularly useful for:
+
+* Small teams and startups using SonarQube Community Edition hosted on a single machine.
+* Developers and testers who need to share SonarQube reports but lack built-in options.
+* Anyone learning Click – the Python library used to build CLI applications.
+* Engineers looking to explore SonarQube API integrations.
+
+# A humble request
+
+If you find the tool useful, I’d really appreciate it if you could check out the GitHub repo and leave a star—it helps independent projects like this stay visible.
+
+# Relevant Links
+
+i) [RedCoffee - Github Repository](https://github.com/Anubhav9/RedCoffee)  
+ii) [RedCoffee - PyPi](https://pypi.org/project/redcoffee/)",3,1739712868.0,Python,1,0.8,False
+1iqsaej,https://www.reddit.com/gallery/1iqsaej,Help me repair this! Where there's a will there's a way!,"Hi all! So I just managed to luckily pick up this great frame and fork for the cost of a coffee. Has a couple of cracks above and below the cable inserts on the left side of the down tube.
+
+I'm super keen to fix up and build this back to its former glory. Doesn't have to look pretty, but gotta be safe.  
+
+The frame is a Ritte Phantom. There is some evidence of rust in the bottom bracket.
+
+Just picked it up. I'll pop the cable routing inserts out at home and have an inspect and report back.
+
+Have done 5 mins of reading and saw various ideas such as:
+
+Replace down tube?
+Internally sleeve?
+Externally sleeve?
+Just weld?
+
+Happy to buy torch / tools and can borrow as required.
+
+Appreciate any help and can provide any photos and investigate any condition of the frame as required.
+
+Cheers.",2,1739712809.0,Framebuilding,6,0.75,False
+1iqsaaq,https://www.reddit.com/r/okstorytime/comments/1iqsaaq/that_time_i_tried_polyamory/,That time I tried polyamory…,"This is old news to me but I think it’s an interesting story so here it is. 
+
+I will preface this by stating that I don’t have any issue with polyamory when it is done with clear communication and consent from everyone. I actually think it can be beautiful, it just turns out it isn’t for me. 
+
+A few years back I (then 31F) met let’s call him Josh (then 29M). There was an immediate attraction both physically and emotionally. He was open about being polyamorous after a few dates and I was curious about it and really interested in him so I continued seeing him and after about a month we began officially dating. 
+
+Being brand new to poly I explained that I was excited but also a little nervous and was open about past relationship trauma that I knew could cause some insecurities. We talked about boundaries, letting each other know if we started dating someone else, letting each other know if we were sleeping with anyone else (didn’t have to be a heads up just as soon as reasonable after the fact) and to use protection with anyone else outside of our dynamic. I had done a bunch of research and it all seemed healthy to me and like we were doing well on the communication front. 
+
+He worked a busy job often working doubles and nights so finding time to see each other was difficult from the beginning but we made it work. There were a lot of times we’d only see each other for a few hours every week or two but when we did we would have really intense discussions. As much as it was difficult I really believed I had found the love of my life and after a couple of months when he called me his primary partner I was stoked! We talked about one day settling down in a throuple or polycule dynamic as an ideal however he initially suggested that we built a solid foundation for our relationship first. I followed his lead being very new to things. We had more discussions about poly and I remember one specifically where he said he wasn’t ready for me to start seeing other people yet. Not long after that he said girls were okay but not other men 🚩🚩🚩but a week or so later said he’d thought about it and that wasn’t fair on me. 
+
+One day driving back to his place he told me he was going for coffee with an acquaintance of mine, Grace, and that they had matched on an app. I was caught a bit off guard because I thought we weren’t dating other people yet but it was okay. On the day of their date I did feel quite overwhelmed and insecure, I sent him a message about it and he called me. He was really reassuring and after chatting I felt heaps better about it. They arranged to hang out again and I started messaging an old friend with benefits, let’s call him Jake, we arranged to hang out on the same day as Josh and Grace were seeing each other. 
+Unfortunately Grace cancelled their plans but I still hung out with Jake and we had sex. I called Josh afterwards and we chatted about it, it all seemed good but I noticed he started making jokes here and there about “big dick Jake.” I never said anything about size to either of them. 
+
+Things continue and Josh started struggling with his mental health and workload, becoming seriously burnt out. Which meant I saw him less and our sex life became pretty much nonexistent. He wasn’t talking to or dating anyone else for months either. I cared about him, so as much as it felt lonely I stuck by him. I became self employed and tried to make my hours work so we could see each other more but it didn’t help much. 
+
+I saw Jake once more, only fooling around a bit after he helped me sort out something for my business but not having sex and I went on a couple of dates with a guy named Jim but it didn’t go anywhere. I started talking to an old flame James (yes all J names!) but after talking to Josh decided not to pursue it further at that stage. 
+
+Months go by and it’s pretty much the same, I paid for us to get away out of state for a few days, he slept most of the trip but I was okay with it as he needed the rest. At this stage we were barely even affectionate, my love language is physical touch but he said he didn’t have the capacity for that so I accepted that. A couple of weeks before our trip he let me know that Grace was going to come over to his place, he let me know the day before. He had night duty and after thinking about it all day I sent him a message, I didn’t call because he was on night shift, and explained that I was feeling insecure because of the lack of affection and intimacy between us and that while I didn’t want him to change his plans, if he was intimate with someone else when we hadn’t had that in so long would be painful. He called me and chewed me out saying that I was emotionally manipulating him and that I had double standards. This sent me into a spiral of doubting myself. I had actually started becoming friends with Grace and didn’t have any issue with her at all, just insecurities about the relationship with Josh. I checked in with other polyamorous friends who said that I hadn’t done anything wrong but I really beat myself up about it. 
+
+Another few months go by, eventually his work settles down a little but in that time mine work and social schedule picked up. I still made an effort, or thought I did, to make time for Josh. But he began telling me that I never had time for him. 
+
+He began hanging out with Grace again and I happened to bump into James (the old flame) at a friend’s birthday party. He called me a few days later and we hadn’t a massive chat, he asked about polyamory and we decided that I’d talk to Josh about it but if we got the okay we’d like to start hanging out again. I spoke to Josh the next day and explained my past with James, that we had had feelings for each other in the past and that I’d like to start seeing him again. Josh said he was a bit confused because I decided not to peruse it months back but told me to do whatever made me happy. I also had a date lined up with a woman Claire for that night which he knew about. 
+
+My date with Claire went really well, but she is also good friends with Grace and on the date she asked me if Josh and Grace were dating or just having sex. I was a bit taken back by that because Josh hadn’t told me that they were having sex yet. James messaged me after I got home from the date and asked if I was free. I called Josh to check if he was okay with me going to see James and he said he was, so off I went. James and I had a long discussion about where things had gone wrong for us before and how we could avoid that again and ended up having sex. In the morning Josh called to check in and asked about James, I told him and he asked “are you in love with him?” I replied that I wasn’t yet but that I thought the feelings were coming back and it could go that way. Josh blew up at me, telling me he felt cheated on and that he felt like he was losing me. 
+
+The following week Josh saw Grace four times and still hadn’t told me they were having sex. I had a big falling out with a friend so I called him to talk about it, he was very rushed on the phone but still supportive. I messaged in my group chat with Claire and Grace, who I was becoming very close with now and asked if they were free for a group video call which we had started doing a lot of. Grace replied that she wasn’t because Josh was over, but that she assumed I knew that. (Context: a few weeks before Josh had put in a boundary that we let each other know when we were seeing other people so we could respect that time.) 
+I called Josh a bit upset and asked why he hadn’t told me, he told me that he didn’t want to make things worse while we were in a rough spot. I then asked why he hadn’t told me that him and Grace were having sex, and he said the same thing but I reminded him that it was going on before I started hanging out with James again. While on the phone to Josh, I got a message from Grace, “just confirming that you know Josh and I had unprotected sex.” I’ll admit I lost my mind a little bit at that and we began yelling at each other. I hung up on him. 
+The next day he came past my business and asked if I was going to keep the plans we had for that night, I said no and broke up with him. 
+
+A couple of weeks later we met up and had a big talk were we agreed to be friends and work towards building trust and getting back together. We began hanging out weekly as friends but still told each other we loved each other. Over a couple of months I thought it looked like we were on a good track, we even spent a day in bed cuddling. But about a week before my birthday he went cold on me then on my birthday I didn’t hear from him until night time and he left me a voice note on messenger. I was okay though because Claire and Grace held me through all of it, Grace saw him a couple more times but decided to drop him and they made my birthday so special. 
+
+Another week or so goes by and I get a call from Josh before work telling me that after the breakup he started sleeping with someone he met through work and that she was pregnant which was why he’d gone quiet. He asked me to be his friend through it. Initially I agreed but later told him that I didn’t think I could do it. We went for a walk and had a long talk, I tried to express that I was hurt by the situation which resulted in being lectured for over an hour, being told I should be happy for him and then being yelled at. Now I’ll agree I was emotional about the whole thing but I don’t think I deserved that. By the end of the conversation I decided to go no contact. 
+
+Aside from tying up loose ends and returning property to each other that was the end of that.
+
+So there’s my little story of that time I tried polyamory. I’m actually grateful for it, as much as Josh hurt me I don’t think he is necessarily a bad person just definitely not my person. I learnt a lot for all of it, learnt a lot about myself and I wouldn’t change a moment of it because it all lead me to where I am right now.
+
+Grace, Claire and I became best friends, they are my ride or die girls and we now have matching butt tattoos. 
+
+I closed my business but have just been offered an amazing new career opportunity. 
+
+I had stopped seeing James by the time I went no contact with Josh too, but immediately and I mean immediately (literally minutes) after going no contact with Josh I got a message from another old flame, my literal dream man from a fling years ago that I never thought would come back into my life. 
+
+We started hanging out again and after a few months started dating. We are still together and this is the most beautiful healthy relationship I have ever been in. He treats me like a princess, makes so much time for me and shows so much affection. We are making plans to travel the world, with our first overseas trip in a few months, and plan on getting a house together in the next couple of years. I honestly couldn’t be happier. 
+",3,1739712797.0,okstorytime,0,1.0,False
+1iqs8ik,https://youtu.be/LiAE2DTlGho?si=Y2uh-a2IYyYdC4fR,My castle build,"My castle build from a recent play through. The RP is that I'm Jo Slocum, the heir to the Slocum's Joe coffee and donut empire and PI partner to Nick Valentine. Each settlement has a unique donut shop and a detectives office so if you're in the wasteland and have a problem, you can sit down, get a warm coffee and talk to someone who can get to the bottom of things.
+
+Hope you like it, comments and suggestions appreciated. YT is a means to and end for me so production quality is not as good as the pros.
+
+Take care",2,1739712635.0,falloutsettlements,0,1.0,False
+1iqs7z1,https://www.reddit.com/r/Market76/comments/1iqs7z1/h_360_canned_coffee_200_salt_98_canned_meat_stew/,"H: 360 Canned coffee, 200 salt 98 canned meat stew W: 350 leaders for everything",,2,1739712587.0,Market76,1,1.0,False
+1iqs7v0,https://www.reddit.com/r/PhR4Friends/comments/1iqs7v0/29_m4f_chill_makati/,29 [M4F] Chill @ Makati?,"Anyone at Pobla who wants to chill?? Inom or coffee, g lang! Sunday’s too slow so let’s hang! Drop a me a message if ur around the area lang",1,1739712577.0,PhR4Friends,0,1.0,False
+1iqs7nr,https://www.reddit.com/r/TrueOffMyChest/comments/1iqs7nr/i_am_such_a_boring_person/,I am such a boring person,"For some reason, I don’t like the taste of alcohol, coffee. I really don’t and all of my friends and partner drink. I can’t drink for the life of me, even the smell of alcohol makes me want to puke and that makes me miss out the enjoyment. 
+
+Ironic is that I do love the smell of coffee only but I can’t drink coffee when sitting in a cafeteria and everyone drinks coffee and I am the outsider. 
+
+
+Also, I do not like Techno music, I like all the genres but techno music I can’t because my ocd has synchronise this music with bad memories that come with intrusive thoughts. 
+
+Because of that I don’t get invited to clubs or rave parties and I also haven’t smoke in my entire life or do any light drugs or hard drugs. 
+
+I don’t say it as a flex, I don’t see it as a flex, I see it as a curse because I feel like an outsider, all the people I have met so far in my entire life like school, university, work, etc everyone loves going out to party, drinking, smoking anything and then going out in the morning for a coffee. 
+
+And I can’t fit it in, I just can’t and I hate myself for that, why I had to different and boring and don’t like clubbing, I sound so miserable due to this and it’s not like I am miserable, I am a 22yr old girl, with my 2 cats and my healthy relationship, but i feel most people would find me boring and miserable at my age.
+
+Also none of them knows what techno does to my ocd. ",2,1739712559.0,TrueOffMyChest,3,0.75,False
+1iqs7eg,https://v.redd.it/j7llbl7k6ije1,Weird noise/slow to no brew,"Hello everyone,
+First post here.  My breville oracle touch is making a horrible noise when brewing, and producing almost no coffee on brew.  At first I thought it was a grind size issue, since one of my kids was messing with it the other day, but it still does it even with grind as course as possible.  Kinda sounds like when a solenoid is bad on a motor, if that makes any sense.",2,1739712535.0,BrevilleCoffee,8,1.0,False
+1iqs7a8,https://www.reddit.com/r/shortscarystories/comments/1iqs7a8/the_last_ride/,The last Ride,"
+
+I’ve been a night-shift bus driver for over fifteen years. You see all kinds of people when you drive after midnight—drunks, lost souls, tired workers heading home. But what happened on that rainy night still haunts me.
+
+It started like any other shift.
+
+The rain had been falling since sundown, soft at first, then heavy. The kind of rain that made the roads slick and the air thick with mist. My wipers scraped across the windshield, barely keeping up with the downpour. The bus was nearly empty—just one old man sitting in the back, staring out the window, his breath fogging up the glass.
+
+I followed my usual route, stopping at empty stations, the headlights cutting through the rain. The streets were quiet. Only the occasional car passed by, their red taillights glowing like distant eyes.
+
+Then, at a stop near the edge of town, I saw him.
+
+A lone figure stood under the dim streetlight, hood up, shoulders hunched against the rain. He didn’t wave, didn’t move—just stood there, waiting.
+
+I pulled over, the brakes hissing in the cold air. The doors swung open.
+
+He stepped in.
+
+The first thing I noticed was how **soaked** he was. Rain dripped from his clothes, pooling on the floor. His hood was pulled low over his face, but I caught a glimpse of his pale skin, his sharp jawline. He smelled like wet earth, like a basement that hadn’t been opened in years.
+
+“Cold night,” I said, forcing a polite smile.
+
+He didn’t reply. Just nodded and moved to sit near the middle of the bus.
+
+I shut the doors and pulled away, glancing at him in the mirror. He sat stiffly, his hands resting on his knees. He never took his hood off.
+
+Something about him made me uneasy.
+
+Maybe it was how quiet he was. Most people at least muttered a “thank you” or sighed as they sat down. He made no sound, no movement.
+
+The old man in the back shifted uncomfortably, but he didn’t speak. He just kept staring out the window, his face blank, eyes lost in the rain. I could see the reflection of his tired eyes in the glass, following the passing streetlights in silence.
+
+But nothing strange happened.
+
+The bus rumbled along the wet road. The wipers droned on. The old man got off a few stops later, leaving just me and the hooded passenger.
+
+I focused on the drive, trying to shake the odd feeling.
+
+The passenger never moved. Never reached for his phone. Never checked a watch. He just sat there, **staring out the window.**
+
+Fifteen minutes later, he finally stirred.
+
+“Next stop,” he said. His voice was low, hoarse.
+
+I nodded. “Got it.”
+
+A few minutes later, I slowed near an empty stretch of road. No houses. No stores. Just trees and the sound of rain.
+
+The doors hissed open.
+
+He stood up and stepped off the bus without a word.
+
+Then—**he was gone.**
+
+I didn’t see him walk away. One second, he was stepping into the rain. The next, the road was empty.
+
+I stared into the darkness, my heart hammering.
+
+The doors shut. The bus groaned as I pulled away, my hands clammy on the wheel.
+
+But I didn’t think much of it.
+
+Not for **six months.**
+
+# Six Months Later
+
+It was a slow afternoon. I had just finished my shift and stopped by a small diner for coffee. The place had a rack of old newspapers stacked in the corner, free for anyone to read.
+
+I grabbed one randomly, just looking for something to skim while I sipped my drink.
+
+Then my eyes locked on a headline.
+
+**""Unsolved Tragedy: Man Killed in Bus Accident Still Unidentified – 20 Years Later""**
+
+I felt a chill creep up my spine.
+
+My breath hitched as I looked at the grainy black-and-white photo beneath the headline.
+
+It was **him.**
+
+The same sharp jawline. The same hollow eyes.
+
+According to the article, **a man had died on that exact stretch of road one rainy night, 20 years ago.** He had been the only passenger when the accident happened—**the driver lost control in the storm and crashed.** No ID, no family, no name. Just an unclaimed body and a mystery that never got solved.
+
+My fingers tightened around the paper.
+
+The date of the accident?
+
+**The same night I had picked him up.**
+
+I felt sick. My coffee sat untouched as I sat frozen in my seat.
+
+I drove that road every night.
+
+And six months ago, I picked up a passenger [who never left.](https://www.youtube.com/watch?v=vQfDJoKMYDE)",2,1739712524.0,shortscarystories,0,1.0,False
+1iqs6tl,https://www.reddit.com/gallery/1iqs6tl,How to use the info on a coffee bag to brew,"Please skip to the last paragraph if you cant be bothered to read my elongated introduction.
+
+
+Hello guys, I've been in and around this lovely community for a few months now. As many of you may have also experienced, as one's coffee hobby grows deeper, creating a cup of coffee you feel satisfied with  becomes a rarer event. Ignorance is well and truly bliss in the world of coffee. Worrying about grind size, temperature, bloom time, swirl or wiggle?!?! is quite frankly enough to drive a man insane. 
+
+I'm now too deep in this world to turn back so I thought it was about time I asked you guys for some friendly advice because.. well, i want to be able to enjoy my cups of coffee again!
+
+It is not secret that different coffee's brew differently. I know that how you brew, grind, choose a temperature, can be dictated by the information on the bags of coffee. The trouble is I still have no idea how to digest the information on a bag of coffee. For example, i recently brewed an Anerobically washed Ethiopian coffee the other day and had absolutely no idea what an Ethiopian coffee requires to achieve an excellent cup. Should i use boiling water? But I heard April Coffee tends to brew Ethiopians at 92°. Should i change my water ratio to 1:17 to achieve a higher extraction? Or should i just grind finer and get a sweeter up? Wait! Does the fact its Anerobically washed change anything?!?! You get the jist. I know there's information out there but quite frankly, finding something specific to your bag is tricky to find. 
+
+This brings me to the question I came here to ask all you experts today:
+
+Which sets of information on a bag of coffee should i focus on when crafting a cup of coffee and what does changing them effect in my final cup? I know this is probably a long winded question so maybe i have to continue digging myself. I will attach some photos of some coffee ill be brewing in a few days. I'll be extremely grateful if someone can explain how i should ne brewing them (not techniques per say but more to do with grind size, water ratio, temperature etc.) 
+
+All help is much appreciated :)
+
+",2,1739712479.0,pourover,12,1.0,False
+1iqs6ka,https://www.reddit.com/r/SportsCardTracker/comments/1iqs6ka/negative_uleftservice2052/,[negative] u/Left-Service-2052,"Made a post a few months ago about sending out some free cards to kids.  We spoke about my niece and nephews liking Yankees and pokemon cards so he showed me some stuff he had.   Claimed he had already sent out a ton of free stuff to people and asked me for a few bucks for a coffee or to cover shipping 
+
+I sent him $8, and then he completely disappeared.    Messaged me weeks later that he got busy with work or life or some nonsense but he would still send me extra stuff and fix it.    Fast forward and he still hasn’t sent anything and each time I message I get another excuse 
+
+At this point I feel it’s safe to say he was a scammer and probably did this to as many people as he could 
+
+Avoid doing anything wit him ",11,1739712450.0,SportsCardTracker,1,1.0,False
+1iqs5cu,https://www.reddit.com/r/Birmingham/comments/1iqs5cu/dog_friendly_coffee_shops/,dog friendly coffee shops,"Highland Park - which coffee shops in/around highland park allow dogs?
+
+I know Punch Love in Avondale does (best place ever) but it’s a little far of a walk for me and my puppy in the mornings. ",1,1739712338.0,Birmingham,1,0.67,False
+1iqs58l,https://www.reddit.com/gallery/1iqs58l,Roasts my hostel coffee corner.,"I finally have a permanent place for all this. I have made a good enough relation with warden that now he won't take away my equipment. And my roommate allready knew how obsessed I was, so he ain't an issue. ",14,1739712327.0,IndiaCoffee,1,1.0,False
+1iqs553,https://www.reddit.com/gallery/1iqs553,Snow,Indiana- Saw some fresh wet powder on the ground when I woke this am so definitely went on a coffee run to test out the new cross climate 2 tires I got put on in January. Holy shit y’all these cut through the snow like BUTTAH. I feel like a nerd but idc I love AWD and these tires. Highly recommend if you get a variety of weather like this throughout the year and want some good tires. Worth the price for the new shoes on the old 2018 crosstrek 2.0L premium ,6,1739712317.0,Crosstrek,1,1.0,False
+1iqs4c0,https://www.reddit.com/gallery/1iqs4c0,Tiny coffee house,Miniature model 85x75x75 transit coffee house ,10,1739712244.0,cozy,1,1.0,False
+1iqs44h,https://www.reddit.com/gallery/1iqs44h,Black Lightning talks about how he moved past his initial dislike of John Stewart (The Other History of the DC Universe #1),,5,1739712226.0,Greenlantern,0,0.86,False
+1iqs3wa,https://www.reddit.com/r/superautomatic/comments/1iqs3wa/philips_ep_82000_without_aquaclean_with_central/,Philips EP 820/00 without AquaClean with central water treatment system,"Hi guys,
+
+I just bought a Philips EP 820/00, this is my first coffee maker of this kind, I used to use a Bialetti Moka Espresso on a ceramic stove... I bought it without AquaClean filter, because I have a central water treatment system in my house, a 4-stage filters (activated carbon at the end) and a 3M SF18-S scale inhibition filter. I think I don't need another separated filter for the coffee maker after this... am I right? The manual mentioned the ""AquaClean"" more than 80 times... :)",1,1739712202.0,superautomatic,1,1.0,False
+1iqs3qu,https://www.reddit.com/r/relationship_advice/comments/1iqs3qu/my_27f_partner_29ms_love_language_is_act_of/,My 27F partner 29M’s love language is act of service and wants me to do thing out of my way,"We have been together for over 3 years and this has been an issue for me so I want to hear people's opinion on this. It's kind of a small thing so I'm kind of embarrassed to talk about it but I am feeling unsettled about it.
+
+We live together and I work from home and he goes to the office 3 times a week. He told me he feels loved by me getting him coffee from outside or snacks, food something from outside or shop, or doing something for him even though I didn't need to.
+
+Sometimes he texts me things like ""Can you go get me a bread"" or ""can you go get me coffee"" while he's outside and I am at home relaxing, and we always argue when I say no, and he is always very disappointed, so I feel like I HAVE to say yes.
+
+Sometimes I don't want to go outside since I am already at home having 'me time' and since he is already out so he can go get whatever he wants while he's out? I feel so much pressure by receiving message from him like that..
+Does anyone face similar situation like this? How can make this situation better..
+I know it is such a small thing but I would love to hear your thoughts on this.",5,1739712188.0,relationship_advice,12,1.0,False
+1iqs3kl,https://lensdump.com/i/YK3p1c,To the dry mouth sufferers out there.,"You may have searched for help for dreaded dry mouth and all you get is 'give up smoking '. Yes, ok but how about some help? 
+
+I found several ingredients that could help and a few easy to make solutions like salt and baking soda mouth rinse. You can look up how to make this easily.
+
+By chance I did find one mouth wash with all of the good ingredients. It's not cheap but it goes a long way. It comes in a concentrate so you add water which means no huge containers of nasty blue or green mouth wash and it's natural.
+It's called 'Hello' mighty and tiny.
+
+(I am in no way affiliated with the brands I mention here)
+
+It comes with a tiny cup that shows you how much water to fill up too.
+You can use one or two squirts. I love this stuff. My mouth is feeling so much better. No burning and it feels fresh.
+As well it doesn't linger too long. I can have coffee soon after without too much flavor influence from it's lovely flavor. You could always rinse with water. 
+
+On top of that sugar free gum is a must.  I tried Simply Gum.
+Quite a few squares of gum are included in its tiny box. Once again all natural. It helps to produce saliva which is also important for teeth and gums. It's also not cheap. I found sales on both of these products.
+
+I hope this is helpful to someone.",1,1739712171.0,RYO,0,1.0,False
+1iqs2vk,https://i.redd.it/b7d58lv95ije1.jpeg,my friends brother doesn’t want us to stay with them 😭😭😭😭,,1,1739712102.0,adultsnew,4,1.0,False
+1iqs2sx,https://youtube.com/watch?v=Sjnbd1zvYDA&si=gdTH9ngJVmjrzeao,New Coffee mate Cold Foam 2025 commercial,,1,1739712095.0,u_Bullnbearit,0,1.0,False
+1iqs1t1,https://i.redd.it/oagsqhvx4ije1.png,Store Meeting Food,"Sausage, Eggs (considering how expensive they are rn), Bacon, coffee/creamer, Orange Juice.
+
+Grapes, Bagels, Muffins, Oranges and Bananas.
+
+Best part is the bacon 🤤",1,1739712002.0,Lowes,2,1.0,False
+1iqs04u,https://i.redd.it/4i4uasbi4ije1.jpeg,Beard fam.....post crossfit WOD and chillin you can see where! A delicious looking lady said that I was venerable. Been called a lot of things but never that......I invited her to coffee and conversation! Peace,,11,1739711845.0,beards,2,1.0,False
+1iqs018,https://www.reddit.com/r/PakistanRishta/comments/1iqs018/24_m_lets_be_alone_together/,24 m let's be alone together,"
+Gender: Male
+
+ 
+Age: 24
+
+
+Height & Build: 5'5"", relatively fit
+
+
+Relationship Status: Single
+
+
+Education & Profession:
+I have a Bachelor’s in Software Engineering and currently work as a software engineer in Sydney, Australia.
+
+
+A Little About Me:
+I was born and raised in the UAE and I have spent much time in Pakistan tbh, originally from Punjab. These days, I’m living the Sydney life, balancing my tech career with my love for the outdoors(I know it's quite cliche 🤣). I’m a practicing Muslim who doesn’t smoke, drink, or do drugs. I’d call myself a coffee addict and an adventurous soul who enjoys camping, hiking, fishing, and long walks. I also love gaming when I’m not exploring the great outdoors. Romantic at heart, I value honesty, love, and strong family connections.
+
+
+Family:
+I come from a Punjabi family with two older brothers, one younger brother, and my amazing mom and dad. We’re big on supporting each other and value good vibes all around.
+
+
+Where I Live:
+I currently reside in Sydney and family in Pakistan lives in Punjab.
+
+
+Religion:
+I am a practicing Muslim as I pray all the prayers and have done umrah multiple times in my life. I keep all my fasting in order aswell and hopefully you are aligned on the same level as me.
+
+
+What I’m Looking For:
+I’m looking for someone who is kind, beautiful in her own way, and amazing to be around. A partner who values family, has a positive outlook on life, and enjoys the little adventures. Bonus points if you love coffee and are up for camping or fishing trips!
+
+
+Deal Breakers:
+I don’t get along with overly emotional or cold personalities, and I’d prefer someone with no major family issues. Excessive male friendships or negativity in relationships are also not my vibe. I don't mind if you had past relationships as long as you have overcome it.
+
+
+My Timeline:
+I’m hoping to take the plunge in about 1-2 years. In the meantime, I’d love to get to know the right person and grow together. The reason for this is that I wish to build my financial situation a bit more and then get married.
+
+
+Why You Should Say Yes:
+If you’re someone who wants a romantic, caring, and supportive partner who can cook almost everything, I’m your guy. I’ll always prioritize our happiness, keep the spark alive, and make sure life feels like an adventure we’re on together.
+
+
+Let’s connect if this sounds like the kind of journey you’re ready for!",1,1739711835.0,PakistanRishta,1,1.0,False
+1iqryms,https://www.reddit.com/gallery/1iqryms,Join #cc.Wave 253+,We are doing pretty well currently,1,1739711708.0,Arrasio,0,1.0,False
+1iqryif,https://www.reddit.com/r/snapchat/comments/1iqryif/34_f4r_snow_day_and_coffee/,34 [f4r] snow day and coffee,"Hey hey future pals of Reddit, iso of new pals, music recs, podcasts, YouTube channels. Anything to pass the day really. My birthday is coming up this week and I’m pretty sure I’m spiraling into a midlife crisis. Would ideally like long term pals/streaks but I’m fine just chewing away today. I’d rather you be over 25, east coast us would be lovely but I keep bakers hours so UK and beyond is fine too. No junk mail, no SA. Send me your asl and your favorite musical artist, let’s be besties. ",2,1739711696.0,snapchat,1,1.0,False
+1iqry4y,https://www.reddit.com/r/RelationshipIndia/comments/1iqry4y/i_21f_almost_got_forcefully_kissed_by_my_date_23m/,I (21F) almost got forcefully kissed by my date (23M),"I was out with this guy, we went to have some pizza in Hudson Lane which followed by a coffee at ama but mid way through the date this guy started acting differently. He started talking about his ex a lot, I find it a bit weird but okay l'd tolerate it. It started getting weirder when he got all touchy, held my hand without asking (which I thought was fine cause people often get a little awkward while asking for such stuff) but he then takes me to a dark lane and tries kiss me? Out of nowhere? Of course I resisted and told him that I'm not ready and then shortly later the date ended. It was either his first date EVER or he's very very deprived of a woman's touch.
+Regardless we're never going out ever again.",23,1739711659.0,RelationshipIndia,27,0.96,False
+1iqrxze,https://www.reddit.com/r/offmychest/comments/1iqrxze/accidentally_made_an_old_mans_day_at_starbucks/,"Accidentally made an old man’s day at Starbucks, now I’m weirdly emotional about it","So last friday morning, I stopped at Starbucks before work, running on autopilot, half-dead, just needing caffeine to function. As I was waiting for my order, I noticed this older guy at the self-serve station, looking completely lost. He had one of those reusable cups, just staring at the oat milk like it personally offended him.
+
+I hesitated for a sec because, yknow, social anxiety, but then I just asked, “Hey, do you need help?” He looked so relieved and admitted he had no idea how the whole milk-and-syrups situation worked. Apparently, his wife used to make his coffee every morning before she passed, and now he’s trying to “figure out how to make it taste right” but can never get it the same. Thatt alone kinda punched me in the chest.
+
+So I walked him through it two pumps of vanilla, a little oat milk, and a stir (he said because she always stirred it 3 times ToT). He took a sip, smiled, and went, “You just saved me four dollars. This tastes better than what they make behind the counter.” Then he patted me on the shoulder like I just fixed his whole life.
+
+I know it was such a tiny thing, but I’ve been thinking about it all day. Like, one day, the person who knows exactly how you like your coffee might not be there anymore, and that’s just,, life? I don’t know why this wrecked me at 8 AM on a Friday, but here we are.
+
+Anyway, I just needed to put this somewhere. Hope he enjoys his coffee tomorrow.
+
+edit: meant to say friday",349,1739711645.0,offmychest,28,1.0,False
+1iqrxqj,https://www.reddit.com/r/ADHD/comments/1iqrxqj/tried_green_tea_for_the_first_timegame_changer/,Tried Green Tea for the First Time—Game Changer for Focus and Relaxation!,"
+I’ve been a lifelong fan of Indian masala tea, but the acidity it causes is brutal—sometimes to the point where I can’t even eat. I finally gave green tea a shot, and wow… what a difference!
+
+For the first time, I felt both relaxed and focused at the same time. No jitters, no energy crashes, just a smooth, calm clarity. It’s like my brain got the stimulation it needs without the side effects.
+
+I know caffeine affects ADHD differently for everyone, but this was a huge win for me. Anyone else have experience with green tea vs. other teas or coffee for ADHD focus? Would love to hear what works for you!
+
+",5,1739711620.0,ADHD,3,1.0,False
+1iqrwr0,https://www.reddit.com/gallery/1iqrwr0,La Fortuna Itinerary,"Open to suggestions or changes, I was told to swap Mistico bridges before La Fortuna waterfall. Also drop restaurant recommendations!",1,1739711526.0,CostaRicaTravel,0,1.0,False
+1iqruv1,https://www.reddit.com/r/cnvmp3/comments/1iqruv1/youtube_to_mp3_converter_that_is_safe_and_adfree/,YouTube to MP3 Converter that is safe and ad-free,"I’ve heard from many people that they cannot download YouTube videos as MP3 without getting viruses on their devices. Most converters show popup ads that cause viruses to enter their devices. So, I found an ad-free, safe, easy-to-use converter with more features than other available converters.
+
+I am using [CnvMP3](https://cnvmp3.com/), a Youtube to MP3 converter, which is safe to use and does not have ads. They cover server costs through coffee donations.
+
+The youtube videos are going to be downloaded directly to your device with the highest quality.
+
+Give it a try, and i hope you will love it!",2,1739711352.0,cnvmp3,0,1.0,False
+1iqrtwr,https://www.reddit.com/r/BuyCanadian/comments/1iqrtwr/keurig_kcups_made_in_canada_or_with_coffee/,Keurig K-Cups made in Canada or with coffee prepared or roasted in Canada?,"I have a Keurig machine and love how it's so convenient. However, I am trying to find some K-cups that are made in Canada or at the very least, contain coffee that is roasted or prepared in Canada. Are you aware of any?",3,1739711259.0,BuyCanadian,4,1.0,False
+1iqrtgs,https://www.reddit.com/r/CatholicDating/comments/1iqrtgs/ready_to_mingle/,Ready to Mingle😇☺️❤️,"
+
+Hi everyone! 👋 I’m relatively new to Canada and currently living around the Toronto/Etobicoke area. I’m a practicing Catholic and part of the St. Andrew’s Church community. 
+
+As a single Catholic guy with a background in math (yes, I love numbers and problem-solving! 😊), I’m hoping to meet new friends, explore the area, and maybe even find someone special to share meaningful conversations and faith with. 
+
+If you’re up for a coffee, a walk, or just chatting, feel free to reach out! Looking forward to connecting with some wonderful people here. God bless! 🙏  
+
+",1,1739711217.0,CatholicDating,1,1.0,False
+1iqrt6h,https://www.reddit.com/r/Vent/comments/1iqrt6h/had_my_first_date_in_years_felt_like_shit/,Had my first date in years- felt like shit,"M25 F22, met this super cute girl online and we eventually went out on a date after two weeks (she postponed it twice).
+
+We finally sit in a coffee shop. She's the most adorable girl ever, gives me a big hug, but for the first 20ish minutes of our discussion she just stress dumps on me. She talks about studying for her MCAT, job, dealing with her friends, and dog sitting. I tried my best to be part of this conversation and pay attention but I could hardly get a word in, one second she was on this topic the next she was on another. I felt like if I were to say something it would've been rude to interrupt her. We had our back and forth from there on but she never really asked a question at all about me, just once or twice. It didn't feel like she was there to get to know me she just wanted someone to talk her woes about. I'm happy that I had the opportunity to get to know her but it felt one sided. She then had to take a call from her brother about something stupid in the middle of a date. 
+
+Admittedly, when I was trying to pick up the conversation I was trying to talk about my passion for dentistry, and how I helped made lives better as a n assistant, and how I got into it thinking it could relate to her. *She started talking about her dental health, which was when things just went south.* I was hoping she'd follow up with why she choose medicine. 
+
+At the end of the date, she hugged me again and said she wanted to see me again. Few hours pass, I text her, she now said she didn't feel a connection....
+
+Bro, the date was at best 50 minutes long; She ran a little late and we got our coffees. It wasn't bad but you're just gonna cut things off after the first date?
+
+Maybe I'm just coping for fucking up.
+
+Edit: finding dates, no less love, have been so difficult for me. I had such bliss with the match, building up to the date, meeting her, leaving the shop only for it to be cut up. Before this I didn't think I'm worth love- now what?",10,1739711189.0,Vent,20,0.86,False
+1iqrsxz,https://i.redd.it/pe84yzih2ije1.jpeg,"Still my go to morning cup, especially if I want my coffee with a sweet treat in the morning",,6,1739711166.0,AeroPress,2,1.0,False
+1iqrs9b,https://www.reddit.com/r/BuyCanadian/comments/1iqrs9b/costco_trip_on_autopilot_post_mortem/,Costco Trip on Autopilot- post mortem,"Yesterday I went to Costco with my wife and was distracted talking while filling the cart. Completely slipped my mind to stay aware of source of products. Only after I got home did I realize and take a good look at where everything came from. It was interesting:
+
+CANADIAN:
+- Bear Paws
+- Siwin potstickers
+- butter
+- BabyBel cheese
+- Bothwell cheddar
+- cremini mushrooms
+- mini potatoes
+
+AMERICAN:
+- Little Bites cookies (I think)
+- instant bone broth packets
+- cara cara oranges
+- kanzi apples
+- cauliflower
+- broccoli
+- blueberries
+- strawberries
+
+MEXICAN:
+- green beans
+- zucchini
+
+OTHER INTERNATIONAL:
+- dried mango
+- frozen cherries
+- Kirkland skipjack tuna 
+- coffee
+- RiceBox instant rice packs
+
+From this analysis it looks like I should consider eating more seasonally, with the easiest being Canadian apples. I do love the kanzi apples though… damn they’re good. But I can find BC Ambrosia which are pretty nice. I suppose I can consider frozen cauliflower and broccoli? But I’d be checking the label first…",6,1739711102.0,BuyCanadian,1,1.0,False
+1iqrrmx,https://i.redd.it/sn1h6gq32ije1.png,I just noticed that in literally every round MMT's elbow is like this when Ermes presses him,,27,1739711039.0,armwrestling,9,1.0,False
+1iqrr9k,https://www.reddit.com/r/gratitude/comments/1iqrr9k/sunday_gratitude/,Sunday Gratitude,"Today, I am grateful for:
+
+-my dogs sleeping on the couch while I putter around them
+
+-the birds in their custom aviary singing for the morning 
+
+-hot coffee and fresh raspberries 
+
+-soft fabric against my skin
+
+-fresh air
+
+
+
+",5,1739711000.0,gratitude,0,1.0,False
+1iqrq88,https://www.reddit.com/r/FlairEspresso/comments/1iqrq88/leftover_pull_is_delicious/,Leftover pull is delicious?!,"Like everyone else, after I pull my shot I put another cup underneath and pull the leftover water through the puck. This morning, the bowl I usually use was still in the dishwasher so I just grabbed a coffee mug. Did 2 shots, leftover water from both pulled into the same mug and left it on the counter, then I went to go take a shower. I come out my wife is like “what was the coffee you made me?” I said what coffee? She grabs the mug and shows me, “this coffee, it’s so good, completely different than what you usually make me”. I took a sip expecting thin bodied bitterness, while body was a bit thinner than the usual pour over I make for her, it was well rounded and sweet, with still a fair amount of the origin flavors coming through. 
+
+Why wasn’t it just super bitter? The shots were dialed in pretty well so it’s not like they were under extracted. ",2,1739710903.0,FlairEspresso,4,1.0,False
+1iqrpx2,https://www.reddit.com/gallery/1iqrogs,Tram Cream Coffee (hiring),,2,1739710877.0,ElkGrove,0,1.0,False
+1iqrohk,https://www.reddit.com/gallery/1iqrohk,H: Mods W: Coffee,,1,1739710746.0,Market76,1,1.0,False
+1iqrogs,https://www.reddit.com/gallery/1iqrogs,Tram Cream Coffee (hiring),Used to like like them more but probably enjoy their snacks more than the coffee since the last time I've had them in the Bay.,0,1739710744.0,Sacramento,2,0.5,False
+1iqrocp,https://www.reddit.com/r/pourover/comments/1iqrocp/when_did_rules_for_resting_coffee_change/,When did rules for resting coffee change,"So when I started drinking coffee five years ago I remember the rule of thumb was two days of rest is when you can start drinking it.
+
+But it seems people are suggesting longer resting periods now, when did this start and why? Or was it always longer but two days for impatient people or people who didn't have room to store like ten bags of coffee?",6,1739710733.0,pourover,12,0.8,False
+1iqro71,https://i.redd.it/uv08cwm51ije1.jpeg,Tastes like the Infiniment Fruité!,I loved the Infiniment Fruité capsules and have been looking for something to compare it with. I put it in the chocolate flavored coffee and love it! Anyone else try this creamer? ,3,1739710716.0,nespresso,1,1.0,False
+1iqrnqb,https://i.redd.it/8j7aat101ije1.png,My Girlfriend Leaked My Nudes to Her Friends... I Don't Know what to Do Now & How to Face her Friends Now 😔,"Last Week I met a Friend of My Girlfriend for some Work & Many times she was Laughing while Looking at me. Times while we were having Coffee 
+
+After some time I angrily asked but she wasn't Telling... 
+Finally I gave her Warning that I will tell about her Affair to her parents... 
+
+Then She Told me that My Girlfriend Showed Our Private Pics to Their whole Group of Friends & Everyone has Seen me in that Zone
+
+Now , Tomorrow I'm Going on Manali Trip with their Gang & Now I don't Know how they will behave with me or Laugh at Me 
+
+How do I Handle this Situation 
+If anyone Has Experience of such Thing... Please Guide Me... 
+
+",11,1739710669.0,ask_Bondha,20,0.87,False
+1iqrnjm,https://www.reddit.com/r/dating_advice/comments/1iqrnjm/all_i_said_was_that_valentines_day_matters_and/,All I said was that valentines day matters and bow I am ahted on tiktok,"Dont get me wrong. I love everyday small gestures. I made a coffee for you, I know this is your favorite book so I read it and now we can discuss it type of thing.
+
+
+Buuut. But. I love valentines day. I usually got to spend time with my SO and be grateful for eachother and make an effort to take time off and just slow down. Appreciate. Admire. Be still for a minute just us. Its a reminder for me to celebrate all love friendships, platonic, whatever. When I was single I would go out with friends. 
+
+If I love someone, ofc I want them to feel loved everyday and extra loved on holidays. And I want celebrations and I want them to feel special. Why all this hatred towards a day that you could spwnd with your SO and be happy and celebrate your relationship?
+
+People on tiktok slandered me for saying that while yes YES, YOU NEED TO LOVE YOUR PARTNER EVERYDAY, VDAY IS SPECIAL. 
+
+I got called shallow, materialistic, showing off. 
+
+
+What???? How do you guys feel?",1,1739710647.0,dating_advice,2,0.67,False
+1iqrn9f,https://i.redd.it/9se3hadu0ije1.jpeg,Just joined the club!,First super automatic after 4 years with an aeropress. Got this baby for $200aud on marketplace. Just descaled and cleaned!! Great espresso and cappuccino!,7,1739710613.0,superautomatic,0,1.0,False
+1iqrm4v,https://i.redd.it/dss3hxnh0ije1.jpeg,Sunday Scaries,"Beating my sunday scaries with a cup of coffee and Valorant. People who work 6 days a week, how do you spend your Sundays? 
+Do you go out? Or do you enjoy staying at home.",5,1739710495.0,gurgaon,2,0.86,False
+1iqrlup,https://i.redd.it/7gx06sde0ije1.jpeg,Enjoying a coffee at the love Cape Garden Centre,Coffee is life. ,15,1739710467.0,capetown,1,1.0,False
+1iqrlsy,https://www.reddit.com/r/anhedonia/comments/1iqrlsy/has_anyone_experienced_relief_after_quitting/,Has anyone experienced relief after quitting coffee?,"Hi everyone,
+
+I've been struggling with anhedonia, which I believe was induced by antipsychotics. Recently, I've been wondering if quitting coffee could make any difference in my symptoms. I know caffeine affects dopamine and adenosine, so I’m curious if anyone here has noticed any improvement after stopping coffee.
+
+Has anyone experienced even a slight relief in motivation, pleasure, or emotional depth after cutting out caffeine? Or did it make no difference at all?
+
+I’d really appreciate hearing your experiences. Thanks!",4,1739710462.0,anhedonia,1,1.0,False
+1iqrjxy,https://i.redd.it/hgrxu01uzhje1.png,Lange Hose anziehen ab Montag Coffee,"Was meint ihr?
+",4,1739710272.0,wallstreetbetsGER,6,1.0,False
+1iqrjns,https://www.reddit.com/r/stories/comments/1iqrjns/wake_alan_ii/,WAKE ALAN II,"**Chapter 1: The Third Verse**
+
+**Tillamook State Forest, Oregon | October 17, 2023 | 06:47 PST**
+
+The fog hung like wet gauze over the Douglas firs, their trunks bleeding rust-colored sap where bark beetles had burrowed. 
+
+Deputy Carla Ruiz’s boots sank into the loam as she picked her way uphill, radio crackling static. 
+
+Her flashlight beam cut through the mist, catching the glint of a Mylar emergency blanket tangled in blackberry thorns. *Hunters* , she thought—until the smell hit her. Not the earthy rot of deer carcasses. This was sweet, metallic, *human* .
+
+“Sheriff? Got something.” Her voice wavered. “Off Trail 12, near Marker 9. Bring CSU.”
+
+**07:22 PST**
+
+Sheriff Ed Corbin arrived with two CSIs in tow, their gear clattering like scrap metal. The scene was textbook rural law enforcement chaos: a rookie vomited into a fern while a paramedic chain-smoked by his rig. Corbin, a walrus of a man with a ’90s-era mustache, squatted beside the body.
+
+The victim—male, late 20s—lay spread-eagled in a mossy clearing. His chest cavity had been split sternum-to-pelvis, ribs pried outward like wings. No blood pooled beneath him; the ground was bone-dry.
+
+“Jesus wept,” muttered CSI Nguyen, adjusting her nitrile gloves. “Livor mortis suggests he’s been here 8–10 hours, but…” She gestured to the wound. “No animal scavenging. No flies.”
+
+Corbin grunted. “What’s that on his forehead?”
+
+Nguyen leaned in. A symbol had been carved into the skin: **ᛉ** . “Elder Futhark rune. *Algiz* —protection, or maybe a warning.” She paused. “Or it’s some TikTok shit. Kid’s got a fresh Blackcraft Cult tattoo on his forearm. Could be LARPing gone wrong.”
+
+“Bullshit. Since when do LARPers yank out a guy’s *heart* ?” Corbin pointed to the hollow chest cavity.
+
+Nguyen’s flashlight trembled. “Who said anything about the heart?”
+
+**09:15 PST | FBI Field Office, Portland**
+
+Special Agent Eleanor Voss scrolled through the crime scene photos on her tablet, her coffee going cold. Across the bullpen, her partner, Special Agent Marcus Rojas, argued with a junior analyst over jurisdictional semantics.
+
+“Look,” Rojas snapped, “if the vic was dragged across state lines *postmortem* , it’s still our circus. *Jones v. California* (2021)—check the damn memo.”
+
+Voss tuned him out. She’d spent six years in Behavioral Analysis, profiling ritual killers from Appalachia to Anchorage. This case reeked of something older. The rune. The excision of the heart—a textbook *macto* offering in certain neopagan traditions. But the precision of the cuts…
+
+“Rojas.” She didn’t look up. “We’re rolling to Tillamook. Tell Quantico to dust off the Franklin County files.”
+
+“The ’98 farmhouse cult thing?”
+
+“They used the same rune.”
+
+Rojas groaned. “You’re gonna make me read *another* 1,200-page casefile, aren’t you?”
+
+“Yep. And you’re driving.”
+
+**11:03 PST | Crime Scene**
+
+The forest hummed with forensics techs and the whine of a portable generator. Voss ducked under the police tape, her blazer snagging on a thistle. Rojas lagged behind, cursing as mud suctioned his Oxfords.
+
+“Agents.” Corbin nodded, arms crossed. “Welcome to the freak show.”
+
+Voss ignored him, zeroing in on the victim’s left hand. The fingers were curled inward, nails caked with soil and… *resin?* She bagged a sample.
+
+“Missing heart’s one thing,” Rojas said, squatting beside her. “But why peel his fingertips? No prints, sure, but that’s overkill.”
+
+“Not if they wanted to send a message.” Voss gestured to the victim’s splayed ribs. “This is a *display* . The heart’s removal suggests a sacrificial offering, but the mutilation… this is rage. Personal.”
+
+Corbin snorted. “You profilers ever just say ‘dude’s fucked up’ and call it a day?”
+
+Rojas stood, wiping his hands. “We’ll need the victim’s dental records sent to our field office. Also, any security cam footage from—”
+
+“Yeah, good luck. Nearest traffic cam’s 20 miles south.” Corbin spat tobacco. “But talk to Old Bill at the Shell station. DVRs everything ’cause of ‘the deep state.’”
+
+**13:17 PST | Shell Station, Highway 6**
+
+Bill Gunderson, a sinewy Vietnam vet with a “DON’T TREAD ON ME” tat peeking from his collar, squinted at Voss’ badge.
+
+“Feds, huh? Here to blame them Antifa kids again?”
+
+Voss forced a smile. “Just need to see your parking lot footage from last night.”
+
+Bill grunted, leading them to a backroom crammed with deer-hunting magazines and a CRT monitor. The footage showed a muddy Subaru Outback pulling in at 22:03. The driver—a woman in a Patagonia fleece—bought a Monster Energy and beef jerky.
+
+“Recognize her?” Rojas asked.
+
+“Nope. City plates, though. Washington.”
+
+Voss froze the frame. The woman’s sleeve had ridden up, revealing a tattoo: **ᛉ** .
+
+**16:49 PST | FBI Mobile Command Unit**
+
+Rojas slammed the van door. “Victim’s ID came through. Jason Hilder, 28. Uber driver from Seattle. Reported missing by his roommate… three days *after* he left for a ‘camping trip.’”
+
+Voss cross-referenced Hilder’s phone data. “Last ping was near Silver Falls. Same area where two hikers vanished in August.” She pulled up a map dotted with red pins. “There’s a pattern. Every 13 weeks—October, July, April. Like a lunar calendar.”
+
+Rojas frowned. “Cult?”
+
+“Or a buyer. Organs, trafficking…”
+
+“Nah. Traffickers don’t do ritualistic carvings. This is *devotional* .”
+
+Voss’ phone buzzed. Nguyen’s lab report: resin from Hilder’s nails matched frankincense. Commonly used in religious ceremonies.
+
+“We need to find that Subaru,” Voss said.
+
+Rojas checked his Glock’s magazine. “And if the driver’s our unsub?”
+
+“Then we’ll ask her why she’s copycatting a 25-year-old murder.”
+
+**19:55 PST | Forest Service Road 14**
+
+The Subaru was parked askew in a pullout, driver’s door ajar. Voss approached low, flashlight in her left hand, Sig Sauer in her right. No footprints. No blood. Just a half-eaten Clif Bar on the dash and a faint hum.
+
+“Smell that?” Rojas whispered.
+
+Frankincense.
+
+Voss’ beam hit a trail of white petals leading into the woods. *Hellebore* . Toxic if ingested.
+
+“They’re baiting us,” she said.
+
+“Yep.” Rojas thumbed his radio. “Sheriff? We’re gonna need SWAT.”
+
+The radio fizzed. No signal.
+
+“Shit.”
+
+Somewhere in the trees, a low chant began.
+
+**Chapter 2: Communion**
+
+**Tillamook State Forest, Oregon | October 17, 2023 | 20:03 PST**
+
+The chant swelled—a guttural drone, more animal than human. Voss motioned Rojas toward a cluster of boulders, their flashlights off now. Moonlight bled through the fog, glinting off the hellebore petals strewn like breadcrumbs. Too obvious, Voss thought. They want us to follow.
+
+Rojas mouthed, Ambush?
+
+She shook her head. Flank left.
+
+They split, Voss crouch-walking parallel to the trail while Rojas hugged the tree line. His Oxfords skidded on lichen; he caught himself silently. Twenty yards ahead, the forest opened into a clearing.
+
+Voss froze.
+
+Six figures stood in a semicircle, cloaked in burlap sacks stitched with red thread. No faces visible—just the glint of a blade in the moonlight. At their feet, a fire pit smoldered, the air thick with frankincense and something acrid. Burning hair.
+
+The center figure raised a deer femur, rattling a string of human molars. The chant shifted to garbled Old Norse: ""Þegi þú, heiðni véurr, ok gefa blóð...""
+
+Rojas edged closer, Glock trained. A branch snapped under his heel.
+
+The chanting stopped.
+
+**20:07 PST**
+
+Voss lunged behind a cedar as the first shot rang out—not Rojas’. A muzzle flash lit the clearing. Revolver, .38 Special. The bullet splintered bark above her head.
+
+""FBI! DROP YOUR WEAPONS!"" Rojas bellowed, voice cracking.
+
+The figures scattered. One bolted toward Voss, burlap flapping. Female, early 30s, machete in hand. Voss sidestepped, sweeping her leg. The woman face-planted into mud, machete skidding away.
+
+""STOP! ON THE GROUND—""
+
+The woman rolled, flinging a handful of powdered lime. Voss gagged, eyes burning. Blinded, she fired twice. A wet thud. A scream.
+
+When her vision cleared, the woman was crawling toward the trees, blood seeping through her cloak. Gut shot. Nonfatal.
+
+""Marcus! STATUS!""
+
+No answer.
+
+**20:11 PST**
+
+Rojas was pinned behind a rotting log, trading fire with two cultists. One wielded a crossbow—homemade, rebar bolts—while the other lobbed Mason jars filled with gasoline. The third jar shattered at Rojas’ feet, flames licking his pant leg.
+
+""FUCK—"" He beat out the fire with his sleeve, sweat blurring his aim.
+
+The crossbowman lunged. Rojas fired. Missed. The bolt grazed his bicep, slicing through fabric and skin.
+
+""Goddamn LARPers—"" He tackled the man, both crashing into a blackberry thicket. Thorns ripped at Rojas’ neck as they grappled. The cultist stank of body odor and myrrh.
+
+""Hann mun eta hjarta þitt!"" the man spat.
+
+""Eat this—"" Rojas headbutted him, breaking his own sunglasses. The cultist went limp.
+
+**20:19 PST**
+
+Voss zip-tied the gut-shot woman’s wrists, her own hands shaking. ""Who’s your leader? Where’s Jason Hilder’s heart?""
+
+The woman laughed, blood bubbling on her lips. ""Þú ert of seint... hann er þegar ofurgestur.""
+
+A twig snapped. Voss spun, Sig Sauer raised.
+
+Sheriff Corbin emerged, shotgun leveled, flanked by three deputies. ""Jesus Christ, Voss! You lit up the whole damn forest!""
+
+""SWAT’s still 10 minutes out!"" a deputy yelled.
+
+""Tell ’em to bring body bags,"" Rojas muttered, limping into the clearing. His arm bled freely, mixing with blackberry juice.
+
+**20:32 PST**
+
+The cultists were gone—all but two. The gut-shot woman bled out en route to the ambulance. The crossbowman, cuffed in the back of Corbin’s cruiser, muttered in Icelandic.
+
+""Ran his prints,"" Voss said, pressing a gauze pad to Rojas’ arm. ""Turns out he’s Björn Þorsteinsson. Deported twice for ecoterrorism. Linked to a neo-Heathen group in Reykjavik.""
+
+Rojas winced. ""Since when do Vikings do human sacrifice?""
+
+""Since never. This isn’t Ásatrú—it’s a blend. The rune, the Old Norse… but the macto ritual’s Roman. They’re mixing pantheons. Improvising.""
+
+Corbin spat. ""So we got a buncha college kids playin’ Dungeons & Dragons too hard?""
+
+Voss stared at the dying fire pit. Amid the ash lay a half-melted Zippo engraved with a logo: RED CROW CONSULTING.
+
+""Jason Hilder’s roommate said he drove for Uber,"" she said slowly. ""But his tax returns show he worked part-time… here."" She showed Rojas the logo on her phone.
+
+""Red Crow. Land development firm. Clearcut half the forest last year.""
+
+""Until the EPA shut them down for arsenic in the groundwater.""
+
+Rojas smirked. ""So our ‘cult’ is pissed-off hippies?""
+
+""Or a smokescreen."" Voss pocketed the Zippo. ""Someone’s using folklore to hide corporate body disposal.""
+
+**21:45 PST | FBI Mobile Command Unit**
+
+The medic stitched Rojas’ arm under a battery-powered lamp. ""Lucky the bolt was rusty. Tetanus shot’s in the fridge.""
+
+""Just give me whiskey,"" Rojas grumbled.
+
+Voss scoured Red Crow’s employee database. Jason Hilder, Björn Þorsteinsson, and two missing hikers all drew paychecks from the same shell company.
+
+""Bingo,"" she whispered.
+
+A shadow passed the van’s window.
+
+Voss glanced up. A figure stood in the tree line—tall, gaunt, wearing a stag skull mounted on weathered wood. It raised a hand, palm outward, revealing the same **ᛉ** rune burned into flesh.
+
+Then it vanished.",1,1739710248.0,stories,0,1.0,False
+1iqrjfy,https://i.redd.it/u0soishozhje1.jpeg,Old packet of single serves,"We’re clearing out my dad’s (hoarder?) apartment, and there were some plastic packages containing these items (some had tea mix instead of coffee). Ideas about where they came from? Who needs that much salt in one packet?",2,1739710224.0,whatisit,10,0.67,False
+1iqri1s,https://www.reddit.com/gallery/1iqri1s,Changing Brita Pitcher Filters,"I think those pitcher filters are quite commonly used to soften and filter brew water. I noticed that the filters have a different form factor in the US and the EU (or at least Germany), see pictures. Maybe also different filter composition?
+
+I wonder how often you should exchange the filters. On my model the instructions say once per month but I'm not sure it they could also be used twice as long. Probably also depends on the amount of filtered water. I'm not too concerned about germs because I only use it for coffee and am thus always boiling it but of course it should also not accumulate germs to a point where it gets icky.
+
+It would be really interesting to see some data on how the TDS and mineral composition of the filtered water changes over the weeks. Does someone have any data on this?
+
+And how often do you change your filters if you use such a pitcher?
+
+Because of the slow degradation I don't really notice a difference from cup to cup, maybe only when changing the filter. But then still I can't recall a noticeable difference, so maybe I could really use them for longer. 
+",1,1739710081.0,pourover,4,1.0,False
+1iqri01,https://www.reddit.com/r/gamedevscreens/comments/1iqri01/pixel_game_making/,Pixel game making,"Hi! I'm a new member. I really want to make a pixel game. But not alone. I learn software development and testing. I have an idea. 
+
+About the game:
+I imagine it like a cozy barista game. Where you can make any drinks that you want. Like make a presso and put some milk in it and put some cream on it, then bumm you have the recepie of a latte. And you could serve interesting characters and know about there life to choose what drink they should have. A coffee? Or a bubble tea? You know it.
+
+
+Thats why i searc for people who would join me! ❤️",0,1739710076.0,gamedevscreens,2,0.5,False
+1iqrhyf,https://www.reddit.com/r/GoFrance/comments/1iqrhyf/visiting_the_palais_idéal_du_facteur_cheval/,Visiting the Palais Idéal du Facteur Cheval.,"## Visiting the Palais Idéal du Facteur Cheval: A Dream Made of Stone
+
+Have you ever heard of a postman who built a palace?  No, it's not a fairytale. It's the incredible true story of Ferdinand Cheval and his Palais Idéal, a truly unique and unforgettable place to visit in southern France.
+
+This isn't your typical palace – it's a whimsical, fantastical creation built entirely from stones collected over 33 years!  Ferdinand Cheval, a simple postman, dedicated his life to this extraordinary project, sculpting his dreams into a breathtaking monument.  
+
+**What to Expect at the Palais Idéal:**
+
+Imagine a building that defies architectural norms.  Think elaborate towers, intricate carvings, and fantastical creatures sculpted into the very fabric of the stone.  The Palais Idéal is a vibrant tapestry of styles, blending elements of Roman, Gothic, Hindu, and Egyptian architecture – all stemming from Cheval's imagination.
+
+Prepare to be amazed by:
+
+* **The sheer scale of the project:**  It's bigger than you might imagine, with numerous rooms and hidden corners to explore. Allow plenty of time to wander and soak it all in.
+* **The intricate detail:**  Every inch of the palace is bursting with intricate details, from tiny carvings to larger-than-life figures. Look closely – you'll discover new wonders with every glance.
+* **The unique atmosphere:**  The Palais Idéal has an almost magical aura. It feels otherworldly, transporting you to a realm of fantasy and creativity.
+* **The surrounding gardens:** The palace isn't just the building itself; the surrounding gardens are equally captivating, adding to the overall enchanting experience.
+
+
+**Practical Information for your visit:**
+
+* **Location:** The Palais Idéal is situated in Hauterives, a small village in the Drôme department of France. It's easily accessible by car.
+* **Opening Hours:** Check the official website for the most up-to-date opening times and potential closures.  This is crucial, as opening times can vary depending on the season.
+* **Admission Fee:**  There's a small entrance fee, well worth the cost for the experience.
+* **Getting There:**  While a car offers the most flexibility, public transport options may be available, though potentially less convenient.  Check local bus schedules in advance.
+
+
+**Beyond the Palace: Exploring Hauterives**
+
+While the Palais Idéal is the star attraction, Hauterives is a charming village worth exploring. Take a leisurely stroll through the streets, enjoying the peaceful atmosphere and perhaps grabbing a coffee at a local café.
+
+
+**Why you should visit the Palais Idéal du Facteur Cheval:**
+
+This isn't just a building; it's a testament to human creativity, perseverance, and the power of a dream.  It's a place where you can escape the ordinary and embrace the extraordinary.  It's a truly unique experience you won't soon forget. So, pack your bags, plan your trip to southern France, and prepare to be enchanted by the Palais Idéal du Facteur Cheval. You won't regret it!
+##",1,1739710071.0,GoFrance,0,1.0,False
+1iqrhc5,https://www.reddit.com/r/PixelGameMaker/comments/1iqrhc5/pixel_game_making/,Pixel game making,"Hi! I'm a new member. I really want to make a pixel game. But not alone. I learn software development and testing. I have an idea. 
+
+About the game:
+I imagine it like a cozy barista game. Where you can make any drinks that you want. Like make a presso and put some milk in it and put some cream on it, then bumm you have the recepie of a latte. And you could serve interesting characters and know about there life to choose what drink they should have. A coffee? Or a bubble tea? You know it.
+
+
+Thats why i searc for people who would join me! ❤️",1,1739710006.0,PixelGameMaker,0,1.0,False
+1iqrh77,https://www.todocanada.ca/aw-canada-launches-week-long-bogo-free-deals-starting-family-day/,PSA: A&W daily promos from Feb 17th to 23rd,"A&W running week long promo from Feb 17th to 23rd with each day being a different special. No better time to try them out! 
+
+Monday, February 17: BOGO Mama Burger 
+Tuesday, February 18: BOGO Teen Burger  
+Wednesday, February 19: Free Onion Rings  with purchase  Thursday, February 20: BOGO Papa Burger 
+Friday, February 21: Free Fries with purchase
+Saturday, February 22: Free A&W Root BeerR  with purchase 
+Sunday, February 23: Free Pret Coffee with  purchase 
+
+These are exclusive deals are available on the mobile app. Each deal is available for 24 hours and can only be redeemed through the app. Customers must create an account and navigate to the Offers section to claim their discounts.",8,1739709991.0,BuyCanadian,2,1.0,False
+1iqrh66,https://www.reddit.com/r/GameDevelopment/comments/1iqrh66/pixel_game_making/,Pixel game making,"Hi! I'm a new member. I really want to make a pixel game. But not alone. I learn software development and testing. I have an idea. 
+
+About the game:
+I imagine it like a cozy barista game. Where you can make any drinks that you want. Like make a presso and put some milk in it and put some cream on it, then bumm you have the recepie of a latte. And you could serve interesting characters and know about there life to choose what drink they should have. A coffee? Or a bubble tea? You know it.
+
+
+Thats why i searc for people who would join me! ❤️",0,1739709988.0,GameDevelopment,0,0.5,False
+1iqrgyc,https://www.reddit.com/r/SFWr4rIndia/comments/1iqrgyc/23m4f_bangalore_coffee_conversations_hopefully/,"23[M4F] Bangalore - Coffee, Conversations & (Hopefully) Some Chemistry – Let’s Make Bangalore Fun","
+Hey there,
+
+I’ll be in Bangalore from next week, and while I could just explore the city solo, I think it’d be way more fun with the right company. So, I’m looking for someone who enjoys good conversations, effortless banter, and maybe a little bit of mischief (the fun kind).
+
+A little about me: I’m a doctor, a coffee enthusiast, and someone who can probably diagnose your caffeine addiction while enabling it. I enjoy music, spontaneous adventures, and deep conversations—preferably over a flat white. I also firmly believe in the scientific method, which means we should first test our conversational chemistry online before taking this experiment to real life.
+
+If we vibe, I’d love to take you out—maybe a cozy café, a rooftop bar, or a live music spot. And if the chemistry is undeniable… well, I’m all for seeing where the night (or morning) takes us, with full consent, mutual enthusiasm, and zero awkwardness the next day.
+
+So, if you’re fun, open-minded, and up for making my Bangalore trip a little more interesting, drop me a message! Let’s chat, flirt, and see where this goes.
+
+Looking forward to meeting someone who gets my jokes (or at least pretends to).",2,1739709967.0,SFWr4rIndia,0,1.0,False
+1iqrfp9,https://www.reddit.com/r/awakened/comments/1iqrfp9/you_are_only_goodness_the_rest_is_deception_false/,"You are only goodness, the rest is deception. false self versus real self.","# AM visions
+
+ God did not make in mankind anything but goodness, everything else was satans deception and part of the great delusion of false self that would test mankind, remember you are good and forget the things that deceived you, they will be blotted out.
+
+three weeks of just insisting on Gods spirit within being the only spirit and it was kinda hell honestly.
+
+Deep staters need to read this God doesnt care what youve done , you werent the you he created but a false image of self contrived to separate you from God , the you he made is good through and through, if you can find it there may be somethings youve done that will revile you and you might ask "" how could i have been so horrifically spelled?""
+
+God made the real you the world hid it behind a veil of deception it was to create slaves and division to hide their schemes  in an attempt to take this world from us. the real you is an amazingly good person, i wish you the best in finding it. I think thats better than coffee for waking up to the spell you were under.
+
+who has the righteousness to point a finger if someone stops being what they arent? the false being? no one. as all are in false being not realizing true being is divine. should be a good week of people proclaiming shift energies. To everyone thats messed with me in life, thats not your true self, your true self is really really good and you were sleeping.
+
+humanity as a whole got sucked into the sewer and go off at each other like vicious animals but that isnt the truth of being thats the delusion we fell under, on the other side of that we are all very helpful  to one another, thats the REAL truth of being.
+
+we cant go on doing the whole false being thing, we need to be what we genuinely are,  with Gods presence in us thats some really good stuff.",3,1739709834.0,awakened,2,1.0,False
+1iqre3h,https://www.reddit.com/r/MtF/comments/1iqre3h/good_morning_ladies/,Good Morning Ladies!,"Just wanted to toss out a positive post and see how y'all are doing today.
+
+It's a gloriously snowed in morning here in the American Midwest.  Coffee + cat in the lap and a freshly applied Estradiol patch for breakfast today!
+
+Anyone got any cool plans or news to share with the group?",1,1739709667.0,MtF,0,0.67,False
+1iqrdr3,https://www.reddit.com/gallery/1iqrdr3,Conhecem esse?,,3,1739709633.0,cafebrasil,5,0.81,False
+1iqrdc7,https://www.reddit.com/r/SatisfactoryGame/comments/1iqrdc7/complaint_no_tea_option/,COMPLAINT: No tea option,"Guys, this may seen like a small... insignificant thing. But truly, it is vital. 
+
+Everyone knows that a cup of tea is the correct beverage to hold in ones hand when surveying your handywork.  
+
+Coffee is a fine drink, and maybe some of the ex-colonial variety prefer it for this purpose, fine of course as far as it goes, there is nothing wrong with making mistakes.
+
+But for us connoisseurs, whose forebares scoured the earth for the answer and helped refine it into the exquisite refreshment in which we now partake, tea is the required sustainance. Be it flat pack furniture, a particularly level shelf, lawn well mowed or final construction of a zero waste nuclear power plant. Tea, tea, tea is required.
+
+Please ficsit, fix it.  
+
+Give us a choice.
+
+",87,1739709597.0,SatisfactoryGame,26,0.83,False
+1iqrd8h,https://i.redd.it/fr1jquqqxhje1.jpeg,wisdom enjoy the coffee,,0,1739709587.0,Olivesplace,0,0.5,False
+1iqrc7x,https://www.reddit.com/r/nsw/comments/1iqrc7x/nsw_strikes_train_and_nurses/,Nsw Strikes . Train and Nurses,"It means nurses should follow the lead of train people . Strike do not work. Zero staff in hospital will work until pay rise. Govt does not care. Evry year they got pay rise . Cheapest coffee 7 eleven is 1 then now 2 dollars.
+
+Many people did not work on covid but nurses are required to work even sick. No pay rise for 3 years. (This should be eduated to nursing schools). The nursing truth.  Govt will not care, patient, families, managers will always expect quality of care. ",1,1739709482.0,nsw,0,1.0,False
+1iqrbwf,https://cults3d.com/en/3d-model/home/coffee-mug-3d-model,Coffee Cup 3D Model by CGHawk,,1,1739709450.0,cults3d,0,1.0,False
+1iqrar7,https://www.reddit.com/r/FriendshipAdvice/comments/1iqrar7/should_i_attempt_to_salvage_the_friendship/,Should I attempt to salvage the friendship?,"Should I attempt to salvage the friendship?
+
+I honestly never thought I would be in this situation but genuinely I am conflicted with what I should do. I had a falling out with some of my friends I made in exchange and I’m contemplating if I should attempt to talk it out. 
+
+A bit of backstory;
+
+I went to the uk for exchange last year, and that was when I met D, K and Z. I was happy to meet them as we travelled around the city together. D, K and I are from the same country while Z was from a different one. Admittedly during the exchange, I did decline their invitations to hang out because I wanted to focus on my modules which I assumed they would be okay with since they said it was okay. One of the days which, I didn’t know at the time was K’s birthday to which I was extremely apologetic for. During this period, during hangouts D and K would always be late. Not 5-10 minutes late. But an hour or two late without any notice, which irked me (and I have brought it up)
+
+Fast forward to end January. Z was coming to our country as a holiday, during the lunar new year period which I celebrate. We had all wanted to meet up which I was excited for. I mentioned to D and K that I would be late for the meet up as I had reunion dinner and family commitments but would join soon after. They were supposed to meet at around 7pm, at around 7:30pm, Z called me saying they were late to which I said yeah they always are, that’s why I intend to give them an invitation with an hour earlier so they would arrive ‘on time’. (This comment was made through text). A bit later I joined, I assumed they were finishing up dinner already so I opted to wait outside and shop around, not knowing they were only partially done. As to which one of them ran out to grab me, in hindsight I admit this is weird on my part. 
+
+During the dinner conversation, I tried to make conversation but I don’t know if it was because I was too soft or what they didn’t respond to my questions. K did ask me if I was ok and I said I was simply tired from visitations but still wanted to hang out. At this point I knew they had taken Photobooth pictures without me and assumed we were gonna do it again together. But apparently not? We went straight to a jazz bar, and the entire ride when I was sitting in front I felt like I was being left out of conversation to the point the taxi driver asked if we were friends, and I think this was when I checked out of the conversation. At the bar itself, D did ask me if I was okay and tried to include me but I think a combination of tiredness and frustration just made me seem unapproachable. I decided to leave after the bar, citing I had work the next day. 
+
+On the train ride home, I crafted a paragraph and sent it to Z with me saying that I felt excluded in the activities and also apologised from making myself seem distant, admitting that they did try but I was so in my feels I didn’t respond positively. In hindsight, I REALLY SHOULD HAVE SENT THID AFTER SHE LEFT THE COUNTRY. I sent the same message to D as well. The next morning at 4am, Z responded to my message with an 8 min recording, basically saying that I was negative energy, I brought bad aura and I was the only one at fault and that maybe time apart would be okay. To this I responded that yup that’s fair, I hope you enjoy your time here and I genuinely thought that was the end of it. It wasn’t. A few hours later, she sent a screenshot of me saying that D and K were always late to the group chat claiming I was starting shit. And I was genuinely so frustrated I said bye and deleted her number. She claimed she was just being direct and honest, which to me meant you would have brought it up earlier?? A few hours later, I wrote a message to D and K explaining my side and that I didn’t think me saying they were late was shit talking and that yes I am also to blame. D wrote a message saying that I was selfish for sending that message knowing Z was here a few days. Maybe it’s a difference in lifestyle, but for me I would like to talk it out and that was what D and K claims they like to do as well. D concluded the statement saying that time apart would be good for now. 
+
+
+I don’t know how this blew up so badly because I really wanted to talk this out and thought this could have been discussed like adults. I cannot be bothered with Z anymore because of her sending screenshots painting me as a bad person when I barely even talk to her in the first place. But I liked my friendship with D and K, where we were all supposed to travel together. 
+
+I am thinking of asking D and K out for coffee in mid March and just talk it out, no matter if we remain friends or not in the end. My close friends says it isn’t worth saving the friendship but my parents are on the side where I should at least try to talk it out. I’m so conflicted on what to do and if I am actually the negative energy and a blight on the friendship. 
+
+I want to reiterate saying I know I’m not completely innocent and I am a cause of the issue, but did it warrant such a big blow up? 
+
+I’m at a loss on what to. Please any advice and insights are appreciated ",1,1739709329.0,FriendshipAdvice,0,1.0,False
+1iqrai6,https://i.redd.it/311nojhqwhje1.png,The sub is completely un-manageable and could face suspension...,,0,1739709304.0,walkwithme_tim,7,0.44,False
+1iqra93,https://www.reddit.com/r/PCOSPhilippines/comments/1iqra93/collagen_drinks_beauty_milk/,collagen drinks? (beauty milk),"hi! ur tots on beauty milk (specifically coffee bean and melon flavors)? are they really effective + nakakapayat? im desperate 😭
+
+if not po, what about barley drinks?
+
+if wala talaga, what can you suggest po 🥹",3,1739709276.0,PCOSPhilippines,3,1.0,False
+1iqr9lz,https://i.redd.it/bfa92dynwhje1.jpeg,Impulse coffee team,Did everyone leave impulse ?? I only see bonaita. Where are the rest ??,2,1739709207.0,InstaCelebsGossip,1,1.0,False
+1iqr8q9,https://www.reddit.com/r/UKJobs/comments/1iqr8q9/adjusting_to_a_desk_job_after_working/,adjusting to a desk job after working hospitality/retail,"i recently started my first full time 9-5 desk job. absolutely no complaints. great benefits and i’m having a much better time overall in
+comparison to my previous job where i was on my feet all day every day as a barista.
+
+but i am struggling with the difference in workload. in my old jobs you’re expected to be on the ball at all times, you really get so much wrung out of you for minimum wage- serve customers constantly, cleaning, making coffee, closing tasks. 
+
+but now i feel like if i worked wall to wall at my current job i could get all of my stuff done fairly quickly. but the pace is just so relaxed. i can take a 10 minute break every half an hour and it has no consequence. i almost feel bad about it. at my old job toilet breaks were pretty much timed, and if you skived off in the back for 5 minutes it was noticed. 
+
+and furthermore, my current job feels inconsequential to me, like it’s not making any difference in the world. but my previous job where i was a barista in a hospital the results of my work were pretty instantaneous, and sometimes it felt nice to provide a service that people appreciated. i don’t really care a lot about this (i’m **so** glad i no longer have to work a customer facing job) but it’s something i’ve noticed. 
+
+it’s funny that i used to work so hard for pennies- especially when i was 21/22 and feel like i was looked down on for my job- when now that i have a job people might consider more ‘respectable’ it means nothing in the world. 
+
+",13,1739709112.0,UKJobs,6,1.0,False
+1iqr8n2,https://www.reddit.com/gallery/1iqr8n2,"PAC Lip liner set of 10. Swatched some shades, Selling for 700 including shipping.","MRP 1299
+SP 700
+MFD 4/23
+EXP 4/27
+Recieved as a gift, don't use it. ",1,1739709102.0,IndianBeautyDeclutter,2,0.67,False
+1iqr87k,https://www.reddit.com/r/WorcesterMA/comments/1iqr87k/coffeecafe_at_union_station/,Coffee/cafe at Union Station?,Hi Woo! About to start commuting into Boston via commuter rail. I'll take any advice but I'm mainly wondering if there is a cafe that sells coffee in the mornings?,1,1739709058.0,WorcesterMA,1,1.0,False
+1iqr748,https://i.redd.it/vhdrjltvvhje1.jpeg,Replace this kallax with what? Airfryer needs to stay,"Hi, I will move this Kallax + the coffee stuff somewhere else in the house, but wondering what to put in its place 🤔
+
+I need something taller and with more storage, but at the same time I wanted to have something with this “space” for the Airfryer.
+
+I store some random stuff in the doors + plastic bags but wanted do have more space for more random kitchen stuff as my kitchen is very small.
+
+This wall has 80cm
+
+Appreciate any help 😃",6,1739708943.0,IKEA,10,1.0,False
+1iqr73m,https://i.redd.it/sy4xy6hvvhje1.jpeg,"Eggs, sausage and a coffee",,4,1739708942.0,Breakfast,0,0.75,False
+1iqr6f1,https://www.fanatical.com/en/pick-and-mix/build-your-own-bento-bundle,"Coffee Talk, Until Then, Spirittea and more cozy games in new Bento Fanatical Bundle",There's few games that you may like. Check it out. :) ,9,1739708867.0,CozyGamers,0,1.0,False
+1iqr5iw,https://www.reddit.com/gallery/1iqr5iw,First test shots with my M1 - liking this!,,2,1739708772.0,chuzhao,1,1.0,False
+1iqr4of,https://www.reddit.com/r/FlairEspresso/comments/1iqr4of/unable_to_make_espresso/,Unable to make espresso,"I have tried making espresso with the neo flex (2024) multiple times. The first two times espresso did come out of it. However, the remaining times, no matter how much I push the lever, no espresso is coming out of it. I tried 4 times. 
+I'm using the red basket with pre ground coffee. 
+What am I doing wrong??",3,1739708685.0,FlairEspresso,5,1.0,False
+1iqr4ka,https://www.reddit.com/r/smallbusinessuk/comments/1iqr4ka/is_being_selfemployed_still_worth_it/,Is being self-employed still worth it?,"I’m a 53-year-old self-employed engineer/technician in the UK, servicing and repairing equipment like dishwashers and coffee machines for restaurants, cafés, and hotels. I’ve been doing this for years, but since COVID, it feels like it’s getting harder and harder to make a meaningful profit for the hours I put in.
+
+Costs are rising—van expenses, insurance - van, public liability, tools, calibration of tools, and purchasing spare parts—and at the end of the month, after chasing late payments (which is a constant battle), I sometimes wonder what the point is. If I break down all the hours I work, including admin, weekends, and chasing invoices, I’m earning less than minimum wage. Remember, being self employed, we have no sickness pay, holiday pay or pension contributions from the employer.
+
+Many customers push for cheaper rates, and I often end up caving in, because I feel bad for them. My partner keeps telling me, *“You run a business, not a charity!”* But the worry is that if I charge more, someone else will just undercut me, especially new younger guys coming onto the scene.
+
+I was talking to an old mate—he’s a plumber 59 years old, and he said he’s looking to get out soon because the stress isn’t worth it anymore. He knows younger self-employed tradespeople in their 40's who feel the same.
+
+So, my question is: **Are other self-employed tradespeople in the UK feeling the same pressures? Is this just how it is now, or am I doing something wrong—like not charging enough?**
+
+Would really appreciate any words of advice, comfort, or just knowing I’m not alone in this!
+
+Apologies if you have already read this. Also posted it on the r/selfemployed  thread.",9,1739708672.0,smallbusinessuk,16,0.91,False
+1iqr4i7,https://www.reddit.com/r/Referrals/comments/1iqr4i7/get_30_off_lunch_and_dinner_at_wonder/,Get $30 off lunch and dinner at Wonder,"Wonder is offering **$30** in credits for new customers. Spend **$20** on lunch or dinner to get **$30** in Wonder credits for your next two meals to be free at Wonder (before tip, taxes and fees).
+
+At Wonder, you can order multiple meals from one restaurant (Wings, Tacos, Salads, Pizza, Burgers, Poke Bowls, Fried Chicken, Pad Thai, and more). Download the [Wonder app with my link](https://www.wonder.com/order?auto_applied_promo_code=VIJAR753) to order your free meal today. Pick-up or delivery. In exchange, I get **$15** off my next order too. Valid for first-time customers only who spend +$20 on their first order.
+
+After placing the first order, share your [referral code](https://www.wonder.com/order?auto_applied_promo_code=VIJAR753) with friends for **another $15 in credits**. Plus every time you order a new type of meal, you will receive a survey for an additional **+$3** in credits.
+
+Below is a list of current and upcoming [Wonder locations](https://www.wonder.com/order?auto_applied_promo_code=VIJAR753):
+
+**Current locations**
+
+* Upper West Side (NYC)
+* Westfield (NYC)
+* Chelsea (NYC)
+* Downtown Brooklyn (NYC)
+* Upper East Side (NYC)
+* Park Slope (NYC)
+* East Village (NYC)
+* Larchmont (NY)
+* Hoboken (NJ)
+* Springfield (NJ)
+* Midland Park (NJ)
+* Cresskill (NJ)
+* Ledgewood (NJ)
+* Quakertown (PA)
+* Lenox Hill (NYC)
+* East Providence (RI)
+* Bedstuy/Clinton Hill (NYC)
+* Hudson Square (NY)
+* Teterboro (NJ)
+* Livingston (NJ)
+* West Harrison (NY)
+* Green Brook (NJ)
+* Flatbush (NYC)
+* Randolph (NJ)
+* Lower East Side (NYC)
+* Jackson Heights (NYC)
+* Central Harlem (NYC)
+* West Brighton (NY)
+* New Providence (NJ)
+* Williamsburg (NYC)
+* Astoria (NYC)
+* Financial District (NYC)
+* 97th & Columbus (NYC)
+* Scarsdale (NY)
+* Midtown East (NYC)
+* Stamford (CT)
+* Bay Ridge (NY)
+* Fairfield (CT)
+
+The following locations will open in Q1 & Q2 2025. More locations will be announced soon in New Jersey (NJ), New York (NY), Rhode Island (RI), Connecticut (CT) and Pennsylvania (PA). Wonder will have +40 locations in the tri-state soon.
+
+* King of Prussia (PA)
+* Middletown (NJ)
+* Pleasantville (NY)
+* Ardmore (PA)
+* Northeast Philly (PA)
+* South Philly (PA)
+* Fishtown (PA)
+
+You can now order food from other local restaurants through the [Wonder app](https://www.wonder.com/order?auto_applied_promo_code=VIJAR753). Similar to UberEats, DoorDash or GrubHub. Your **$30 credit** can be applied to those local restaurant meals too. Which means you can buy breakfast, lunch, dinner or coffee from another restaurant.
+
+P.S. **Blue Apron meal kits** are now available to order through the [Wonder app](https://www.wonder.com/order?auto_applied_promo_code=VIJAR753) too.
+
+*Disclaimer: I have no connection with Wonder, any specific location or the restaurants.*",1,1739708666.0,Referrals,0,1.0,False
+1iqr4g3,https://www.reddit.com/gallery/1iqr4g3,Just bought a new build and fallen down the interior design rabbit hole—help needed!,"So… I may have gone a little overboard and 3D-printed an entire scale model of my house! 😂 But despite all my planning, I’m completely stuck on the living room.
+
+The beige carpet is set, but everything else is open to change! I'm struggling to make the space feel cohesive while incorporating:
+
+A beige carpet (already installed)
+
+An oak coffee table (which I made and want to display)
+
+An IKEA Besta media wall for extra storage ( this only comes in white, black or grey, but I wouldn't be opposed to painting one) 
+
+Some green accents to tie in with the rest of the house 
+
+Couches of any colour. 
+
+
+I’d love some advice on the colour scheme—what would work well with these elements? And if you have any other feedback on the house as a whole, I'd love to hear it!
+
+Thanks ! 
+",3,1739708660.0,interiordecorating,1,1.0,False
+1iqr4ar,https://i.redd.it/rrekpf5zuhje1.png,Butter Brews Model Colony,"Forgot to take photos except of this French Toast that i had. Review below:
+1. Salted Caramel Frappe: the first time it was decent but when we repeated the order, it tasted like an ordinary cold coffee 
+2. Banana Caramel Shake: Tasted like milk and banana, nothing like caramel or like the price we paid
+3. Iced Sea Salt Mocha: Have had the hot version of this in KP branch and loved however this was an utter fail
+4. French toast: Still okay compared to the rest however their mascarpone cheese tastes like fresh ghee out of kadhai, not good
+
+We paid 1600 for all of this, which in my opinion is quite heavy for the taste and the presentation. Nothing special. I've been to the KP one and somehow that one was better. Maybe the chef was having a bad weekend or i just dont know, bad day for us i guess",6,1739708643.0,PuneFoodPorn,3,1.0,False
+1iqr444,https://i.redd.it/6n587x6xuhje1.jpeg,Beauty of Old Books,"Opened up an old Sidney Sheldon that was a hand-me-down from my Massi and found this! 
+
+This is why I love old books, they always have a story to tell beyond what is printed. ",2,1739708623.0,IndiansRead,1,1.0,False
+1iqr3jl,https://i.redd.it/zbme29lquhje1.jpeg,Beauty of Old Books,"Opened up an old Sidney Sheldon that was a hand-me-down from my Massi and found this! 
+
+This is why I love old books, they always have a story to tell beyond what is printed. ",5,1739708560.0,Indiabooks,1,0.86,False
+1iqr2pu,https://www.reddit.com/r/LondonSocialClub/comments/1iqr2pu/230225_london_coffee_social_5_relaunch_fwd_coffee/,"[23/02/25] London Coffee Social #5 (relaunch) - FWD Coffee, Farringdon","Hi all, here to restart something we had going on [before the pandemic](https://www.reddit.com/user/NeonChill/search/?q=London+coffee+social&cId=6f0d8313-753c-4983-8d8e-2d02b196b223&iId=e3e55da3-7d2e-486d-97a2-2f3647cba7e4) \- a semi-regular meet to explore London's amazing coffee scene. Each meet up in a different spot. 
+
+* When: Sunday, 23rd February 2025, 12pm midday
+* Where: FWD:Coffee, 54 Farringdon Rd, London EC1R 3BL ([map](https://maps.app.goo.gl/iL7gjdFgmsej5Zkt9))
+* Who?: Anyone who likes coffee and wants to come, taste some coffee and meet new people!
+
+On the day, the staff there will know where to direct you, but I will also keep an eye out for anyone looking to find us. I have also rebooted the old WhatsApp group where I will post details, let me know if you would like to join, but I will make sure the event is always posted here first and foremost. Hope to see you there!
+
+(*P.S. for future meet ups, we will try to move around London each time - both to try different coffee spots, but also to be as* accommodating *to people in different areas as possible. If you can't make it this week, hopefully we'll see you another time.)*",14,1739708472.0,LondonSocialClub,3,1.0,False
+1iqr1bg,https://i.redd.it/b4eys6ezthje1.jpeg,Human Unpredictability,,73,1739708324.0,humansarespaceorcs,4,0.97,False
+1iqr0uo,https://www.reddit.com/r/glasgow/comments/1iqr0uo/god_im_missing_mcgees_coffee_buns/,God I’m missing McGee’s coffee buns,"Used to love these, but after coming back to Glasgow after a few years can’t find them anywhere… did they stop making them? Any alternatives? ",3,1739708277.0,glasgow,2,0.81,False
+1iqr093,https://www.reddit.com/r/RVLiving/comments/1iqr093/brown_coffee_ground_like_material_coming_from/,Brown coffee ground like material coming from vent under fridge,"Hey all! Class C sunseeker here. 
+
+Would love some insight. Under my RV fridge where the return vent is, I’m getting granulated brown sand like material. Ideas? Breaking down of some mesh or filter?
+
+Thanks!",1,1739708214.0,RVLiving,0,1.0,False
+1iqqzyy,https://i.redd.it/aok9ihgmthje1.jpeg,Rainy morning thoughts,"Mandatory coffee picture from my parents counter since I can't afford tile and marble, and neither can they but the fake stuff looks great too. Drinking my current daily rotation since I knew I wouldn't have temp controlled water. Will probably have a sample later, I fucked this morning brew up so bad. 
+
+Shoutout to the lurkers in the page: why not participate? 800+ views and multiple shares, yet the average post here is under 10 upvotes. How about instead of glossing over the page and making pointless comments for the optics we actually participate? Post your weird ass brewers, your recipes, your weird memes. Do it all. Upvote people comments and posts, make people feel welcome. There is clearly some active campaign to kill this, the biggest middle finger to those gatekeeping twats is to keep enjoying what we do. Nothing makes haters more mad than seeing what they hate thrive. 
+
+Let's thrive, together.
+
+No samples? Post about your own personal rotation.
+
+No friends? Make some here 
+
+No skills? Learn from others, post your trial and errors like I am with this fucking Aeropress I decided to toy with. 
+
+Have fun here y'all, but the way for us to have the most fun is to actually be there for one another and not just begging with our hands out for samples, that shit comes off as corny anyway. ",1,1739708184.0,coffeerotation,0,1.0,False
+1iqqzqs,https://www.reddit.com/r/webscraping/comments/1iqqzqs/scraping_google_maps/,Scraping Google Maps,"Need to find specific types of vendors e.g. Coffee Shops, Urgent Care Clinics, and seems that Google Maps is only comprehensive option. Just need name and Phone numbers, nothing copyrighted. Is it possible to write a script to get her that info or does Maps prevent that. I am not a programmer and will be hiring one. ",7,1739708158.0,webscraping,12,0.89,False
+1iqqy1i,https://www.reddit.com/r/UnsentLetters/comments/1iqqy1i/what_will_you_do_for_me/,What will you do for me?,"Would you sit next to me if I asked? 
+
+Would you smile at me if I glanced at you? 
+
+Would you touch my lower back when escorting me? 
+
+Would you hold my hand when we go for a walk? 
+
+Would you know when I’m hurt? 
+
+Would you play with my hair in bed? 
+
+Will you hug me when I tell you my story?  
+
+Would you eat with me when I’m hungry? 
+
+Would you dance with me while I’m cooking? 
+
+Would you buy me something fancy to wear?
+
+Would you take me on a road trip when I’m bored? 
+
+Would you know when someone hurts me? 
+
+Would you protect me from the people that want to hurt me? 
+
+Would you respect me? 
+
+Would you share a dessert with me for the simple reason of it being a Tuesday? 
+
+Would you touch my face when I’m crying? 
+
+Would you drink martinis with me when he hurts me? 
+
+Will you call me to make sure I’m ok? 
+
+Would you buy me an animal that I could love? 
+
+Would you get in bed with me when I’m sick? 
+
+Will you call me when you can’t sleep? 
+
+Will you take me in a helicopter on a Wednesday afternoon for lunch? 
+
+Would you run your fingers down my back to let me know you’re there? 
+
+Would you dance in the rain with me? 
+
+Will you have a snowball fight with me on the first snowfall of the season? 
+
+Would you acknowledge my tears when he hurt me? 
+
+Would you listen to me when I talk? 
+
+Would you take me to a cafe for a coffee because I can’t sleep? 
+
+Would you buy me a donut for dinner when I’ve had a bad day? 
+
+Would you know what the most important things are to me without me telling you? 
+
+Would you stay in bed with me when the world is ending? 
+
+Will you protect me from the evil in the world? 
+
+Would you believe me? 
+
+Would you find me in a room? 
+
+Would you watch me walk down the street to make sure I’m ok? 
+
+When I’m dying, will you know? 
+
+Would you show up at my funeral? 
+
+Will you always remember me? 
+
+",2,1739707972.0,UnsentLetters,2,1.0,False
+1iqqxia,https://www.reddit.com/r/carnivorediet/comments/1iqqxia/how_do_you_cheat_and_why/,How do you cheat and why?,"Hi,  
+I am currently thinking about adding tea (only herbal or green tea), black coffee, lime, garlic and nuts (walnut, almond and macadamia) into my regular diet. And some cheat days (no restrictions)  
+What do you think about that?
+
+Maybe it helps me to hear about the way you cheat.",0,1739707910.0,carnivorediet,9,0.38,False
+1iqqxi1,https://i.redd.it/48786o4tshje1.jpeg,If anyone is willing to help get me to 700 I’d be very grateful and I’ll wish that you always hit green lights and your coffee is the perfect temperature.,Play MONOPOLY GO! with me! Download it here: https://mply.io/hCYmCHKoQRU,1,1739707909.0,Monopoly_GO,1,1.0,False
+1iqqx6c,https://www.reddit.com/gallery/1iqqx6c,Happy 60th Birthday to Dave Lombardo!!!,May you have all the Cuban coffee you desire.,58,1739707872.0,Slayer,1,0.99,False
+1iqqx67,https://i.redd.it/i4mu4ninshje1.jpeg,"iMethod Lip Stain - Lip Liner Stain, Long Lasting Lip Stain Peel Off, Waterproof Stay On All Day, Transfer-Proof, Highly Pigmented, Natural Instant Peel Off Lip Stain Color, Coffee | link in comments",,1,1739707872.0,FemmeFinds,1,1.0,False
+1iqqwsg,https://www.reddit.com/r/Fitness_India/comments/1iqqwsg/no_caffeine_pre_workout/,No Caffeine Pre Workout,"I just have black coffee as a pre workout as of now, and I don’t want to go for pre workouts with caffeine in them because of the large quantity of caffeine in them ig. Are caffeine free/no caffeine pre workouts effective and safe?",2,1739707829.0,Fitness_India,7,1.0,False
