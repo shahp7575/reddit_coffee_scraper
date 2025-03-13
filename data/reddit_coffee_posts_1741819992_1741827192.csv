@@ -1,0 +1,1666 @@
+id,url,title,text,score,created_utc,subreddit,num_comments,upvote_ratio,over_18
+1j9zqo3,https://www.reddit.com/r/homeassistant/comments/1j9zqo3/sip_smoke_tracker_code_share/,Sip & Smoke Tracker Code Share,"Hey All, 
+
+Heres an integration that was created to allow Home Assistant to be able to track and feature your Wines, Whiskys, Rums and Cigars in a similar manner to how Smartthings Food allows you to for Wine only.   
+  
+[Sip & Smoke Tracker](https://github.com/ZCZGit/sip-and-smoke-tracker)
+
+Also a few links to some custom cards that allow you to display your collections or single items on some pretty neat cards.  
+  
+[Sip & Smoke Tracker Consumables Card](https://github.com/ZCZGit/sip-and-smoke-tracker-consumables-card) \- Card to manually display a single item. I use this on my Kitchen Diner dashboard for displaying what coffee beans im currently using. 
+
+[Sip & Smoke Tracker Card](https://github.com/ZCZGit/sip-and-smoke-tracker-card) \- Card to scrape the integration and display your collections by type. Lets say you add 10 Wines into the integration and set consumable\_type: wines, this card will automatically nest an above consumable card for each bottle as long as the amount is greater than 1. 
+
+The card will automatically feature a consumable by most recent date unless manually specified. It will aggregate some statistics based on all cards nested within, e.g. Most Popular Type: Red / White. If the amount of a consumable is set to 0 then the card will automatically remove the nested card for that item. 
+
+[Sip & Smoke Amount Changer](https://github.com/ZCZGit/sip-and-smoke-tracker-amount-changer) \- Card to display values of your consumables and allow you to update. Can be nested in the automated Tracker Card or added directly to a dashboard stand alone. If nested with `include_updater: true`, the card respects the consumable\_type and therefore will only show the inventory for that type. If standalone and consumable\_type isnt set then it will show every device in the integration. 
+
+Im not a programmer by trade, this was frankensteined together by a bunch of googling, arguing with Co Pilot and trial & error so im confident the code will have flaws. Please take it and amend it in any way you see fit if you find it useful.   
+
+",1,1741826734.0,homeassistant,0,1.0,False
+1j9zpp6,https://www.reddit.com/r/snackexchange/comments/1j9zpp6/request_japan_to_us/,[Request] Japan to US,"On vacation in Japan last year my girlfriend and I really gained a love for BOSS Coffee. Black, premium, Cafe au lait. They're all so good (except the rainbow blend). The manufacture some here in America but it's just not the same. I can exchange any American snack or gift one may possibly want! Thanks in advance :)",1,1741826658.0,snackexchange,1,1.0,False
+1j9znoe,https://i.redd.it/0sjm0uigscoe1.jpeg,Roommate for modern 2b/2ba in Brooklyn,"Native new yorker back after a long hiatus, looking for housing for at least a year, possibly longer. Hoping to find someone who has an existing place or is up for searching together for a 2b/2ba with modern amenities (did my time with NYC radiators, looking for central air or ductless) in a nicer location and building than either of us could really afford a 1 bed in. Targeting a few Brooklyn neighborhoods but open to ideas. My budget is ~$2000 - $2700.
+
+I’m a 44 yo gay male working in academia. Work mainly from home but will also use co-working space, coffee shops, etc. Out most evenings – I do improv, team sports, take classes, go out to dinner. Most of my friends are in their 30s but what’s old about me is I go to bed by 11, even most weekends, and I want a quiet, clean home. Guests and small gatherings welcome, though. Allergic to cats. Moving out of a condo I own so I have some nice stuff if there’s room, and for some reason 2 Dyson stick vaccuums.
+
+May 1 is ideal but flexible. Contact me to chat and see if we’re a match if this sounds promising to you.
+",2,1741826497.0,NYCroommates,0,1.0,False
+1j9zlil,https://www.reddit.com/r/teenagers/comments/1j9zlil/i_want_to_develop_a_caffeine_addiction/,I want to develop a caffeine addiction,"I need to start drinking coffee
+
+4 aps this year is making me tweak I need caffeine 
+
+I NEED TO LIKE CAFFEINE (I wish I liked how coffee and energy drinks taste)",1,1741826335.0,teenagers,16,1.0,False
+1j9ziyh,https://www.reddit.com/r/u_Background-Number-36/comments/1j9ziyh/we_launched_our_first_mvp_and_it_was_messier_than/,"We Launched Our First MVP! (And It Was Messier Than We Expected, But We Did It!)","After months of late nights, endless debates, and more coffee than I care to admit, we finally launched our MVP! 🎉 And let me tell you, it was a wild ride.
+
+
+The Struggle Bus:
+
+- Scope Creep is Real: We started with a ""simple"" idea, but feature creep hit us HARD. We learned the hard way that ""nice-to-haves"" can wait.
+
+- Tech Debt Mountain: Let's just say our initial code wasn't exactly...elegant. We prioritized getting it out the door, and now we're paying the price (but it's a lesson learned!).
+
+-Imposter Syndrome: There were moments where we doubted everything. ""Is this even a good idea?"" ""Are we wasting our time?"" If you've been there, you're not alone.
+
+- The Unexpected Bugs: We thought we tested everything, but Murphy's Law prevailed. Users found bugs we never even imagined. (Shoutout to our early adopters for being patient!)
+ 
+Huhhhhh.... Finally its doneeee🎉🎉",1,1741826138.0,u_Background-Number-36,0,1.0,False
+1j9zhzs,https://i.redd.it/d8s0qg56rcoe1.jpeg,Tier list of all the crap I’ve tried in last week of no vaping (typical stuff found in UK),"Out of these I found the Nordic pouches and gum the best, didn’t necessarily stop the cravings but made those days with them easiest. Would use the strong (9mg) after a coffee in the morning, and through out the day use the regular (6mg) or gum. I found the higher strength one best in morning and after a meal, flavour was ok and lasted at least 40mins.
+
+The lozenges I found too weak and the texture was horrible especially when almost done it had a weirdness to it, so hardly used.
+
+The Velo’s were awful, yes they are a higher strength (10mg & 11mg) but they had no mint flavour at all and all I could taste was salt.. also had a bad nicotine trip on them, hiccups and nausea.
+
+The inhalator is garbo, useless and complete waste of money. If it was easier to draw the nicotine without so much effort it would be decent.",4,1741826066.0,QuitVaping,1,1.0,False
+1j9zgto,https://i.redd.it/vjzytf6wqcoe1.jpeg,Lf Captured,,1,1741825971.0,Monopoly_GO,1,1.0,False
+1j9zg3d,https://i.redd.it/9fpfg1lpqcoe1.jpeg,Stinky,Hahahaahaha not the sniffy dirty laundry from her suitcase again ,5,1741825909.0,CharlestonSnark,5,1.0,False
+1j9zdu8,https://www.reddit.com/gallery/1j9zdu8,Looking for my sets or I’ll take stars for lower stuff,,1,1741825736.0,Monopoly_GO,1,1.0,False
+1j9zd71,https://www.reddit.com/r/Market76/comments/1j9zd71/h30k_caps_w300_coffee_1001/,H:30k caps W:300 coffee 100:1,,1,1741825686.0,Market76,1,1.0,False
+1j9z895,https://i.redd.it/9lmvxm1wocoe1.jpeg,Another reset video,Another riveting post travel “reset” with Anna where she makes her nasty at home coffee. All the comments are already eating her up about her being out of touch,9,1741825297.0,CharlestonSnark,7,1.0,False
+1j9z5ye,https://i.redd.it/4zolg2fcocoe1.jpeg,OG switch recipie,"I’ve tried a few different brew methods for the switch since I got it. I prefer the stall the fall method and James Hoffman daily driver recipe best.
+
+I realized I didn’t even look at the directions that came with the actual switch in the first place and was kind of surprised. 
+
+A medium grind with a 1:12 ratio, steeped 2 mins then drained. My mind can’t make sense of it haha. 
+
+Has anyone tried the OG recipe? Am I understanding it correctly?
+
+",2,1741825114.0,pourover,2,1.0,False
+1j9z3j2,https://www.reddit.com/r/Fallout76Marketplace/comments/1j9z3j2/ps4_h_hag_mask_w_coffee/,[Ps4] H: Hag mask W: coffee,,0,1741824919.0,Fallout76Marketplace,9,0.5,False
+1j9z2yf,https://www.reddit.com/r/ControversialOpinions/comments/1j9z2yf/cocaine_is_simply_not_that_bad_for_you/,Cocaine is simply not that bad for you,"Hear me out if you do Cocaine just in its natural form of coca leaf  you are unlikely to add adverse effects or even get high from the cocaine. The type of cocaine that is bad for you is the extracted cocaine from the leaves which they also add lots of chemicals to. It's kind of like how a cup of coffee is not that harmful, but if you extract all the caffeine from coffee and just snort a huge line, it's probably going to be a lot more harmful to your body than just drinking a cup of coffee... Kind of like how tomatoes are not harmful but they contain nicotine and also how kombucha is generally not harmful and it contains alcohol.",0,1741824873.0,ControversialOpinions,13,0.4,False
+1j9z27l,https://www.reddit.com/gallery/1j9z27l,Week 11: nostalgic. Chicken noodle soup with homemade bread and apple pie.,"As a kid every Sunday we had soup for lunch. Usually Meatball but my middle daughter prefers chicken noodle. And my mom always made bread and we had Gouda usually cumin spiced but my kids haaate that.
+
+And my mom always sold apple pie and coffee at the concession for the school ladies aid at the town auction. I'd go with her and accidentally bid for random items by dancing in the back of the room. And have leftover pieces of pie afterwards. This meal was very nostalgic for me. ",5,1741824816.0,52weeksofcooking,0,1.0,False
+1j9yyvw,https://www.reddit.com/gallery/1j9yyvw,My last trade of the day. Would love to finish this set. Anyone?,,1,1741824559.0,MonopolyGoTrading,2,1.0,False
+1j9ywgy,https://www.reddit.com/r/toogoodtogo/comments/1j9ywgy/are_we_overreacting/,Are we overreacting?,"We’re a small, local bakery in Los Angeles—one of the only independent businesses using Too Good To Go in our area. Everyone else within a five-mile radius is a chain. We've been on the app for two years, originally joining to reduce food waste when we had baked goods left at the end of the day. At first, our owner loved it, but now we’re questioning if it’s still worth it.
+Our mystery bags cost $4.99 with an estimated value of $15.00 (though our MSRP is closer to $19). After fees, we make $3.21 per bag. While this isn’t a huge profit, it helps move surplus product instead of tossing it (only so much we can take home and give away can’t always plan when it will be busy.) Plus, an extra $12 bucks at the end of the day doesn’t hurt. 
+
+However, we've noticed a shift in customer expectations. Some treat it as a discount program rather than a food waste initiative. A recent complaint really highlighted this problem:
+A customer called, upset that their muffins were ""too hard""—but they had picked up their bag two days prior and only ate them that morning. This was frustrating because pastries made with animal products have a short shelf life. We also see complaints about flavor choices, even though the whole point is that it’s surplus that will be tossed—not a customizable order. It’s quite literally a mystery bag.
+
+Some customers even try to re-pick pastries, assuming we operate like chains (e.g., Whole Foods, Coffee Bean), which sometimes let customers choose their mystery bag items. While we’ll accommodate allergies or dietary restrictions, we don’t see a reason to change our approach otherwise. It a cheap way to buy surplus, not really a coupon deal.
+
+Inflation has also hit hard—ingredients like eggs and dairy are more expensive, and packaging adds up. Very few customers bring their own containers (which we understand— it’s easy to forget, but it still means cost). The work involved in assembling bags, plus the occasional pushback from customers, has made our team feel disheartened. It takes someone 20-30 minutes daily to pack all bags and label it clearly. 
+
+That said, we do see positives plus we always immediately sell out our bags the day prior. We’ve built relationships with some regular Too Good To Go users, and it’s rewarding when someone uses the bags for a small birthday or gathering.
+
+But with all this in mind, we’re debating: Should we leave the app? Our rating is 4.7, which feels harsh considering that skilled professional bakers make everything, and we do our best to fill each bag.  Many users google our menu before hand (which is smart) but believe they can pick through our menu as they please. (Once again very clearly labeled “mystery bag”) We’re torn between the mission we originally signed up for and the way customers now perceive it. Many customers will also have attitudes picking it up or treat us as we are wasting their time despite always having our mystery bags ready 10 minutes before pick up. It’s an attitude non app users do not have— ever. 
+
+Are we overreacting, or is it time to step away?
+",25,1741824370.0,toogoodtogo,7,0.96,False
+1j9yw87,https://www.reddit.com/r/colonoscopy/comments/1j9yw87/suprep_ibsc/,Suprep - IBS-C,"Hi everyone. My colonoscopy is tomorrow at 3pm. I was on a low fiber diet the last few days and incorporating miralax into my daily coffee. I am typically constipated-ish I find that the only thing that makes me go is coffee on an empty stomach. I was worried I wouldn’t be clear enough so I started mag citrate tablets daily for 3 days with miralax and had senna tea last night with not much success. This morning day of prep I had some diarrhea but not a huge amount and I took linzess and trulance in the morning which don’t really ever work for me anyway but I wanted to maximize my chances. 
+At 3pm I had to take the first bottle of suprep and within an hour I went to the bathroom and it was just dark brown liquid right away twice, then light brown and even risky within an hour went completely clear. It’s been going clear but I feel like there is no way I am fully cleared out it’s only 5pm. I have a second dose tomorrow morning but has anyone had this experience before? 
+
+I feel like I should be having chunks come out or brown poop but it’s just clear liquid running through me. ",1,1741824353.0,colonoscopy,0,1.0,False
+1j9yvmm,https://www.reddit.com/r/RentSanDiego/comments/1j9yvmm/smooth_relocation_tips_to_keep_your_move_calm_and/,"""Smooth Relocation: Tips to Keep Your Move Calm and Organized""","Hey everyone,
+
+I just wanted to share a little nugget from my recent moving experience that might save some of you a headache or two. So, I just moved across the city last month, and naturally, I was expecting the usual moving chaos. You know, losing things, things falling apart, perhaps me falling apart too. But surprisingly, things went pretty smooth.
+
+A buddy recommended Grizzly Moving, and I was like, ""Why not give it a shot?"" Tbh, wasn't expecting anything out of the ordinary. But these folks were like a moving dream team. I’m usually pretty skeptical about these things, but they really had their stuff together.
+
+Here’s a trick that saved me a ton of effort: labeling boxes by room AND by priority. Like, “Kitchen - Open first” or “Bedroom - Not urgent.” It helped a lot when unpacking because you’re not frantically tearing open boxes just to find a coffee mug.
+
+Another tip I picked up was to take pictures of the back of your electronics (TVs, computers, etc.) before unplugging all the cables. Makes setting up so much easier when all I want is to watch Netflix after a long day.
+
+Anyway, using Grizzly was something I just kinda stumbled into, but it was a great call. They showed up on time, super chill folks, and handled my stuff like it was their own. I even got two fragile items packed with zero injuries, which is a first.
+
+So yeah, if you're stressing about moving, give these tips a go. I can't guarantee zero stress, but it'll definitely help calm the storm a bit. And while this ain't a promo post or anything, trying Grizzly Moving might just be worth your while. Cheers! 😊",1,1741824308.0,RentSanDiego,0,1.0,False
+1j9yt3c,https://www.reddit.com/r/McDonaldsEmployees/comments/1j9yt3c/am_i_supposed_to_quit_or_what_usa/,Am I supposed to quit or what? (USA),"  Sort of a Rant and a Question.
+  
+  Back in January I (16yr old) was hired at my local Mcdonald’s. I had my first day of work the following Monday. I showed up 10 minutes early and was very eager to learn. I had a smile on my face and was learning very quickly. I watched the onboarding video (I think that’s what it’s called) and was immediately told to put a headset on and listen to another guy take orders and take the customers money. I believe I did a great job, only needing to be told once how to do it. After that, I was told to help hand orders out at the second window. Only needing to be told once to dump the pick list or whatever it’s called. I never handed out a wrong order. I also made coffees and ice creams with no error. I went home that day feeling great. The next day I came in there was a whole new set of crew members to learn with, which wasn’t a problem for me. I walked in yet again eager to learn and on time. That day was a bit more busy and i wasn’t instructed to go anywhere. No biggie. I started restocking cups in the machines, making sure the straws were full, and wiped the tables down. Then one of the girls walked up to me seemingly angry and asked what i was doing when i finished wiping the tables. I said respectfully I might add “I was wiping down the tables since I saw some fries and lettuce on a few of them. Is there something you’d like me to do instead?” And she just rolled her eyes and asked very annoyed if I knew how to take orders yet. I told her I didn’t, but if she teaches me I can start doing that right away. She rolled her eyes and told me never mind, and walked away. And that’s how my whole second day went, being asked by 4 people if I could take orders and telling them all no, and asking to be taught, and nobody would. I showed up my next work day and was told I wasn’t on the schedule that day, so I asked when i should expect to work again as I was confused. They told me to call next week and ask again. I have called once every two weeks and asked to speak to the store manager, and have been blowed off. 
+
+So, the grand question is: Am i meant to quit, or wait to be formally fired? ",2,1741824109.0,McDonaldsEmployees,11,1.0,False
+1j9ysa9,https://www.reddit.com/gallery/1j9ysa9,Someone left their huge caramel Frappuccino coffee unattended >:),,69,1741824056.0,KoboldLegion,3,1.0,False
+1j9yrwh,https://www.reddit.com/r/thinkinitalian/comments/1j9yrwh/italian_grammar_lesson_present_conditional/,Italian grammar lesson: Present conditional explained,"**Understanding Italian conditional mood: A teacher's tale**
+
+When I first started teaching Italian, I remember a student asking, ""How do I say 'I would like' in Italian?"" It was like trying to teach a cat to swim! The **conditional mood** was a bit of a tongue twister for them. But once they got the hang of it, it was like they had found the secret sauce to polite requests and hypothetical scenarios. 
+
+**Why the conditional mood matters**
+
+The Italian **conditional mood** is your go-to tool for:
+
+- Expressing **possibilities**
+- Making **hypotheses**
+- Crafting **polite requests**
+- Sharing **wishes**
+
+Picture this: You're at a cozy Italian café. You want to order a coffee, but you want to be polite. You'd say, _""Vorrei un caffè, per favore.""_ (I would like a coffee, please.) See how it softens the request?
+
+**Getting the hang of it**
+
+The present conditional is all about dropping the infinitive ending and adding the right ones, like a puzzle piece fitting perfectly. 
+
+For regular verbs like _cantare_ (to sing), it’s _""Io canterei una canzone""_ (I would sing a song). The endings are consistent across the board, making it a breeze once you get the rhythm. 
+
+**The fun of irregular verbs**
+
+Now, don't let irregular verbs throw you off your game. They have their quirks, but the endings stay the same. Think of _avere_ turning into _avr-_ or _essere_ becoming _sar-_. It's like a secret code! 
+
+**Using the conditional like a pro**
+
+Imagine you're in Rome, soaking up the culture. You might say, _""Non vivrei mai a Roma, troppo caotica.""_ (I would never live in Rome, too chaotic.) But Florence? _""Andrei a Firenze.""_ (I would go to Florence.) 
+
+**Your turn!**
+
+Now, it's your time to shine! Use the conditional to express desires, make polite requests, or talk about possibilities. What would you say in Italian? Share your thoughts!
+
+Full grammar notes with audio examples, podcasts, quizzes, games, and more here:
+    https://www.thinkinitalian.com/present-conditional-italian-grammar-lesson",1,1741824032.0,thinkinitalian,0,1.0,False
+1j9yrl8,https://i.redd.it/xzvefiy1lcoe1.jpeg,Coffee anyone,,6,1741824008.0,gaybrosgonemild,2,0.8,False
+1j9yqkl,https://www.reddit.com/r/graz/comments/1j9yqkl/local_shops/,Local Shops,"Hey everybody,
+I am new here due to my new job and I am a big fan of local shops such as tea houses, coffee roasters (not Auer for example) and so on...
+Since I think that this small local shops disappear more and more I would like you to suggest me your favourite local shop here in Graz, may it either be coffee, gaming, food etc... ",1,1741823932.0,graz,1,1.0,False
+1j9yqi0,https://www.reddit.com/gallery/1j9yqi0,Appreciation for Kurosawa (Cherry Magic),"Mainly wanted to show some appreciation for Cherry Magic, since it’s not mentioned a lot. Which means Kurosawa isn’t discussed a lot. 😭 He’s truly one of the best love interests in any of the BL series I’ve read through or watched. I truly adore how much he loves and encourages Adachi. He was great in the anime but even better in the manga. >!He literally had  a fund to make sure Adachi was cared for and had MULTIPLE bucket lists of things he wanted to do if they ever dated, got married, etc.!< Kurosawa is honestly the greenest of green flags. 🥺 Kurosawa is one of my favorite characters, and I just adore him! 🥹",30,1741823927.0,BoysLoveAnime,2,1.0,False
+1j9ypsd,https://www.reddit.com/r/Weird_dreams/comments/1j9ypsd/had_another_weird_movie_dream/,Had another weird movie dream,"Sucks I can’t remember but I woke up thinking “damn this is a good one I gotta remember it” then went back to sleep and had another weird movie dream and forgot both of them lol
+
+Does any else have constant movie dreams? Weird how the 2nd one was literally a cartoon, I vaguely remember it being in some sort of factory
+
+I had one dream where Peter griffin went to extreme lengths to get a job at a chocolate factory just to shit in his boss’s coffee for shits and giggles (ha literally lol) and to make a stupid pun about it, too bad I don’t remember what it was either lol",2,1741823873.0,Weird_dreams,3,1.0,False
+1j9yosg,https://www.reddit.com/r/Market76/comments/1j9yosg/h_consumablesplans_below_w_list_below_too_much_to/,H: Consumables/plans below W: list below too much to fit in title,"Help make my mule mobile
+
+Priority wants: g-alien or any new glows followed by pinpointers, polished, pounder, tanky, powered, followed by lvl 5 pink/yellow bats and other apparel or possibly leaders
+
+1500 Coffee
+
+2k Berry Mentats
+
+300 Nuka-Quantums
+
+90 Nuka-Crans
+
+500 Nuka-Original
+
+100 Nuka-Grape
+
+100 Nuka-Orange
+
+750 sugar b0mbs w/rads
+
+150 Psychotats
+
+50 Psychobuff
+
+70 Canned Meat Stew \*\* Trade pending
+
+500 Energy bobbles
+
+1000 SG bobbles
+
+500 GB3 - \*\*trade pending
+
+3k Ash Heap 2 \*\* trade pending for 2500
+
+2k Mire 2
+
+Plans: 50 leaders each
+
+Ultracite Emergency Protocols
+
+Dr Bones
+
+Giant Red Bronto
+
+Golf Carts
+
+Princess Backpack
+
+Shielded Casual Underarmor
+
+TV Aquarium",1,1741823795.0,Market76,21,1.0,False
+1j9yofm,https://www.reddit.com/r/Teethgumhealth/comments/1j9yofm/how_often_can_you_have_your_teeth_whitened/,how often can you have your teeth whitened,"How Often Can You Have Your Teeth Whitened: The Essential Guide to a Brighter Smile
+
+Are you dreaming of a dazzling, movie-star-worthy smile? Teeth whitening has become increasingly popular, offering a quick and effective way to boost your confidence and appearance. However, many people wonder about the frequency of teeth whitening treatments and how to maintain those pearly whites safely. Understanding the right approach to teeth whitening can help you achieve and maintain a bright, radiant smile without compromising your dental health.
+
+Click here to learn more: https://prodentim.myofferdeals.com
+
+Understanding Teeth Whitening Frequency
+
+Professional teeth whitening treatments are not a one-time solution. The frequency of whitening depends on several factors, including your oral hygiene, lifestyle habits, and the type of whitening method you choose. Generally, most dental professionals recommend waiting between 6 to 12 months between professional whitening treatments to protect your tooth enamel and overall dental health.
+
+Types of Teeth Whitening Methods
+
+In-Office Professional Whitening
+Professional dental whitening offers the most dramatic and immediate results. These treatments typically:
+- Provide the most significant color change
+- Take about 60-90 minutes
+- Use high-concentration bleaching agents
+- Require less frequent applications
+
+Click here to learn more: https://prodentim.myofferdeals.com
+
+At-Home Professional Whitening Trays
+Custom-fitted whitening trays from your dentist offer a more gradual approach:
+- Can be used more frequently
+- Provide more controlled whitening
+- Typically used for 1-2 weeks
+- Less intense than in-office treatments
+
+Over-the-Counter Whitening Products
+
+Store-bought whitening options include:
+- Whitening strips
+- Whitening toothpaste
+- Gel trays
+- Typically less effective than professional treatments
+- Can be used more frequently but with minimal results
+
+Factors Affecting Whitening Frequency
+
+Several key factors influence how often you can safely whiten your teeth:
+
+Tooth Sensitivity
+**Tooth sensitivity** is a critical consideration when determining whitening frequency. Some individuals experience more sensitivity than others, which may limit the number of treatments you can undergo.
+
+Enamel Health
+Your tooth enamel's condition plays a crucial role in whitening frequency. Overwhitening can lead to:
+- Increased tooth sensitivity
+- Enamel erosion
+- Potential long-term dental damage
+
+Click here to learn more: https://prodentim.myofferdeals.com
+
+Lifestyle Factors
+Certain habits can impact how quickly your teeth stain and how often you might want to whiten:
+- Coffee and tea consumption
+- Smoking
+- Red wine drinking
+- Certain medications
+
+Recommended Whitening Schedule
+
+Professional Recommendations
+Most dental professionals suggest:
+1. In-office treatments: Every 6-12 months
+2. At-home professional trays: Every 3-6 months
+3. Over-the-counter products: As directed on packaging
+
+Potential Risks of Excessive Whitening
+
+Overwhitening can lead to several dental issues:
+- Increased tooth sensitivity
+- Gum irritation
+- Enamel damage
+- Unnatural-looking teeth
+
+Click here to learn more: https://prodentim.myofferdeals.com
+
+Maintaining Your Whitened Smile
+
+To extend the life of your teeth whitening:
+- Practice good oral hygiene
+- Use whitening toothpaste
+- Avoid staining foods and drinks
+- Regular dental check-ups
+- Touch-up treatments as recommended
+
+Cost Considerations
+
+Teeth whitening costs vary:
+- Professional in-office: $500-$1,000
+- Custom at-home trays: $250-$500
+- Over-the-counter products: $20-$100
+
+Alternative Whitening Options
+
+If traditional whitening methods don't suit you:
+- Natural whitening methods
+- Cosmetic dental procedures
+- Veneers
+- Bonding
+
+Click here to learn more: https://prodentim.myofferdeals.com
+
+When to Consult a Dental Professional
+
+Always consult your dentist before starting any whitening regimen, especially if you:
+- Have sensitive teeth
+- Have existing dental work
+- Experience unusual symptoms
+- Want personalized whitening advice
+
+Conclusion
+
+Achieving and maintaining a bright smile requires a balanced approach to teeth",1,1741823768.0,Teethgumhealth,0,1.0,False
+1j9ynwf,https://www.reddit.com/r/Bend/comments/1j9ynwf/so_expensive_here/,So. Expensive. Here.,"Anybody else finding Central Oregon hard to live in these days? Even if you have a house... I get fantastic restaurant ramen for $9 in Eugene. Why is it $18 in Bend, and not as good?
+
+I feel like I can barely go out for coffee any more. Much less buy hardware or see a show at Hayden. Anyone else feeling the squeeze?",52,1741823726.0,Bend,48,0.87,False
+1j9yndr,https://www.reddit.com/r/52WeeksOfCocktails/comments/1j9yndr/week_11_introduction_thread_telephone_game/,Week 11 Introduction Thread: Telephone Game,"No relation to [Lady Gaga](https://www.youtube.com/watch?v=EVBsypHzF3U)’s timely return - known by many epithets, the [telephone game](https://en.wikipedia.org/wiki/Telephone_game) refers to a children’s game where a message is whispered from person to person down a chain until it has changed so much as to be almost completely unrecognisable from the original message.
+
+And that’s what we’re playing this week! Your challenge is to take a cocktail recipe you’ve tried before and swap out every single ingredient for something similar, but undeniably different. Vodka? Try another clear spirit. Angostura bitters? Well, coffee is bitter! You’re sure the recipe called for grenadine… or was it Gatorade? Maybe you’ll end up creating something new and wonderful, or else just new.
+
+And if you’d like to hang up on all that nonsense, you can opt for something like a [Tin Can Telephone](https://drunkardsalmanac.com/tin-can-telephone-cocktail/), [Golden Phone](https://www.diffordsguide.com/en-au/cocktails/recipe/20878/golden-phone), [Pisco Bell-Ringer](https://www.diffordsguide.com/en-au/cocktails/recipe/3009/pisco-bell-ringer), or even get the [Last Word](https://www.liquor.com/recipes/the-last-word/).
+
+[Purple Monkey Dishwasher](https://www.beeradvocate.com/beer/profile/29022/116670/).",3,1741823684.0,52WeeksOfCocktails,1,1.0,False
+1j9ymvj,https://www.reddit.com/gallery/1j9ymvj,I did my first rebody!,"I finally got a dupe Buried Secrets Frankie, so I put their head on my spare Coffee Break Frankie's body. I was nervous, but it was easier than I was worried it would be. Also, just for funsies, I took a pic of both together (I think it's funny that the first one I got came with two blue shoes, instead of mismatched blue and pink). Also took a pic of all three Buried Secrets dolls I have (minus the rebodied Frankie and a dupe Clawdeen-- I feel like at this point I should probably just get Cleo, too, and have the full set, even though I'm mostly just a Frankie collector)",15,1741823647.0,MonsterHigh,2,1.0,False
+1j9ymjj,https://i.redd.it/gzppa996fcoe1.png,Hate will never win.,,1,1741823621.0,u_DeWittLives1987,0,1.0,False
+1j9ym76,https://www.reddit.com/r/vestalphases/comments/1j9ym76/vestal_phases_the_first_interlude_heavyspace/,Vestal Phases: The First Interlude-- Heavyspace,"[Prologue](https://www.reddit.com/r/vestalphases/comments/z731kv/once_upon_a_time/)/[Part 1](https://www.reddit.com/r/vestalphases/comments/1j6votk/vestal_phases_part_1_trial_by_combat_with_ivy_snow/)/[Part 2](https://www.reddit.com/r/vestalphases/comments/1j6vpz3/vestal_phases_part_2_audience_with_ivy_snow/)/[Part 3](https://www.reddit.com/r/vestalphases/comments/1j7ma0t/vestal_phases_part_3_fantasy_with_ivy_snow/)/[Part 4](https://www.reddit.com/r/vestalphases/comments/1j8c6ph/vestal_phases_part_4_lullaby_with_ivy_snow/)/[TheFirstDream](https://www.reddit.com/r/vestalphases/comments/1j919tq/vestal_phases_the_first_dream/)/
+
+**listen: there's a hell**
+
+**of a good universe next door; let's go**
+
+**-- ee cummings, 1944**
+
+*She's a good girl*
+
+*Loves her mama*
+
+*Loves Jesus*
+
+*And America, too*
+
+*She's a good girl*
+
+*Crazy about Elvis*
+
+*Loves horses*
+
+*And her boyfriend, too*
+
+Tears dribbled off Padd's pathetic chin as he sat in Janice's car, parked at the curb and waiting for Janice to get back.
+
+On the radio, John Mayer sang his version of Tom Petty's Free Fallin' in his sexy steam cloud of a voice. A stellar live performance.
+
+Padd had been thinking about Leslie nonstop for the past two weeks.
+
+*It's a long day*
+
+*Living in Receda*
+
+*There's a freeway*
+
+*Running through the yard*
+
+...here came the part that always sent Padd over the edge:
+
+*And I'm a bad boy*
+
+*Cause I don't even miss her*
+
+*I'm a bad boy*
+
+*For breaking her heart*
+
+Padd let lose for what felt like the hundredth time that day, leaking his guts into his lap, shoulders shaking.
+
+*And I'm free*
+
+*Free fallin', fallin'*
+
+The passenger door opened, spilling the song onto the sidewalk.
+
+It was Janice.
+
+""Oh, Jesus Christ,"" Padd heard her say. “Again?”
+
+""It-it-it hurts so much,"" he choked out. He'd said this several times today.
+
+Passerby were probably staring at him right now. This chubby white dude hunched over in the passenger seat of a small purple Kia, bawling his eyes out while John Mayer blared. Padd didn't give a fuck.
+
+""Come on,"" said Janice, tugging his arm. ""God...""
+
+Padd gathered himself, swallowing his sadness like a lump of mud. He unplugged his phone from the USB, cutting off the song.
+
+The cafe was moderately loud, full of college students and a few older, scholarly folks trying to look hip and productive. Padd’s eyes were puffy and his throat muscles felt like an overused exercise band but he'd managed to stop sniveling by the time they were seated.
+
+He'd been with Janice since that morning. After several days of reading his agonized, self-pitying texts, she'd finally made the near-hour drive to come get him for a day of friendly support and commiseration. She'd found him on his dad's front porch, crying like a two year old. It was the first time they’d seen each other in quite awhile.
+
+""I got us wine,"" said Janice, returning from the counter and squeezing herself into the booth. ""Why do you do that to yourself, anyway?""
+
+""Do what?""
+
+""Listen to that corny-ass song. Torture yourself. Why do you do that?""
+
+""I dunno,"" said Padd. ""Leslie loves John Mayer... I feel like I deserve it. It's like, a self-flogging.""
+
+Janice snorted.
+
+""What are you, like, a 15th century monk or something?""
+
+""I haven't felt this shitty since my mom died,"" Padd croaked into the tabletop. “I don’t know what I did wrong…”
+
+The barista brought over their wine and scones. Padd gazed out onto the street. The windows had soap-paint illustrations on them-- a happy Spongebob advertising the coffee blends, a happy Patrick advertising the pie. Cars whooshed past. The sun was out. It was terrible.
+
+""I don’t know why you’re so fucking, you know, like this,"" Janice told him for the fiftieth time. ""You two never even officially dated. You weren’t even with her. Fuck, did you even ever *meet* her?”
+
+Her words didn't help, and Padd didn't say anything. His wine and scone sat untouched. He hadn't had an appetite in days.
+
+""How long's it been now?"" Janice asked.
+
+""Like two weeks,"" said Padd. ""I don’t know how they met. But they’re on her profile pic across all platforms… it’s fucking official… he’s a total Chad and I’ve always been a fucking loser… they put out a video, and I had to watch them…watch them…”
+
+His lip bowed and his throat fattened up again.
+
+Janice glared.
+
+""I've said this already, and I'm sorry, but I'm making every effort to cheer you up here, and you're barely giving me anything to work with.""
+
+""I'm weak,"" Padd whispered. ""I've always been weak...I’ll be weak and alone forever…”
+
+""Fuck me,"" said Janice. “I need a cigarette.”
+
+She chowed on a scone, washed it down with a gulp of wine.
+
+Observing her soggy friend, she pulled out her phone and opened the web browser.
+
+""I take it you haven’t heard the news,"" she said. ""Remember that super-advanced VR thing I was telling you about? They're pretty much finished with it. They just invented a whole other reality, basically. It’s like, on top of ours, or in between it, or something.""
+
+She slid the Android across the table. Padd looked down at it through blurry eyes. Google News Headlines.
+
+Turmoil pulsated in foreign lands, Congress still refused to get anything done, hyper-capitalism ran rampant and unchecked in all corners of the globe, climate change continued its slow and unstoppable encroach on civilization, but Padd didn’t see any of that. The top stories were all about one thing, and it was riveting every nation on earth.
+
+Padd clicked the first link.
+
+""‘*Maya* has officially launched,’ he read aloud, his voice a creaking door hinge. ‘Developed by researchers based in Bangaluru in collaboration with MIT, the platform introduces a simulated reality that is said to be indistinguishable from our own—limitless in scale and scope.’
+
+He looked up.
+
+""MIT invented this? I thought it was Facebook.”
+
+""You’re thinking of that shitty metaverse thing that never went anywhere,” said Janice. “It’s not them. Actually, the original technology for this came from some company in India. They were doing brain research or studying the physics of light or something, I can’t remember.”
+
+""But it’s basically the Metaverse,” said Padd. “Second Life. No one will use that.”
+
+Janice shook her head.
+
+“That’s like saying, fucking, like the Turing machine is the same as an iPhone. That breakthrough from the company in India made it, like, into something else entirely. Apparently Silicon Valley is suicidal over it not being completely privatized.”
+
+Padd stared at the phone and thought about Leslie. Janice prattled on.
+
+""But yeah, they've been saying this would happen for years. The Internet and VR combined. But it's not even VR. It's like, tapped directly into your brain. You can do anything. Feel anything. It's like, you know, it’s like you're *there*. It’s like they hacked reality itself, isn’t that fucking insane?""
+
+""I don’t care,"" Padd mumbled, eyes partially scanning the article. He knew he should care about this more, somehow, but he couldn't not think about Leslie. “It won’t make my life better. Nothing ever does.”
+
+""Yeah, they're calling it the Maya,"" said Janice, ignoring his soppy bullshit and sipping more wine. ""After some term in Hindu religion.""
+
+“This technology challenges fundamental notions of existence in a way unprecedented in human history,” murmured Padd as he scanned the article. “It transcends articulation, beyond waves, beyond pixels, beyond even the atomic fabric of existence...The culmination of billions of years of cosmic evolution and centuries of accelerating technological progress, this moment marks a new epoch—like Oppenheimer’s Trinity, humanity will now conceive of its existence in two eras: before the Maya, and after.”
+
+His mind wasn’t free of Leslie, but Padd couldn’t help but notice those words gave him a faint jolt of anxiety. The magnitude of what had been set in motion was gently creeping in. It was clear something irreversible had just happened, and yet he didn’t give a fuck. The world around him looked the same. He felt no different, not about himself or anything else.
+
+He realized other people in the cafe were all talking about the Maya, as well, all of them in hushed, hurried tones, awe and fear. He’d been so locked in his chamber of despair he hadn’t bothered to notice.
+
+“Are we real,” he heard someone say with an unmistakable twinge of helplessness in their voice. “Does this mean *anything* was ever real?”
+
+*And I’m free*
+
+*free fallin’*
+
+*fallin’*
+
+Janice was still talking to him, shoving scones in her mouth and spraying crumbs.
+
+""Yeah, they've already, like, created a ton of spaces in it. They're called vistas, the spaces. They’re like the equivalent of websites. The Internet's going to become a place you can go and it’s called The Maya. They're manufacturing the headsets now. Some Indian tech company. They're called Halos. When they come out it's gonna fucking explode. They're sending the first batch to this village in Africa somewhere as like a promotional charity thing…hey, wake up.”
+
+She snapped her fingers in front of Padd’s face and he blinked at her.
+
+“We live in the future and it’s amazing. So stop blubbering because some camgirl from Arizona doesn't love you. Drink your fucking wine.”
+
+Padd glared at her, incensed.
+
+“She wasn’t just a camgirl,” he snapped. “She was… she was just… I don’t know, more than that. She talked to me more than any other subscriber!”
+
+“She’s a fucking camgirl, Padd,” said Janice. “I told you. She doesn’t care about your feelings. She never did. She sold you a product. You bought it. You could’ve fucking had like eight strippers for what you gave her over the past year, and it probably would’ve been better for you. God, you’ve never changed, I could’ve seen this coming back in Miss Hanson’s class, you—”
+
+Padd wasn't listening. He was back to thinking about Leslie, his crush, his infatuation, his beauty, his all of the things, staring blankly at Janice's phone, not reading anymore, life-changing technology or not.
+
+His lip began to tremble. He was such a pathetic sorry bitch and he hated himself for being everything wrong with civilization. His throat fattened.
+
+Janice abruptly stopped excoriating him, seeing him caught in the throes of another emotional flare-up.
+
+""Jesus God,"" she said, snatching her phone back. ""I'm taking you home and you're taking a Xanax.""
+
+""I don't want any drugs,"" Padd whimpered.
+
+Janice stared at him. There were crumbs on her chin. She'd eaten all but one of the scones herself. There were also crumbs on her purple sweatshirt, caught on her enormous shelf of a bust. Her wine was almost gone.
+
+""Take one fucking sip of wine,"" she said, nudging Padd's cup towards him. “And eat this last scone. It’s tiny. One bite.”
+
+Padd obeyed, unhappily. The food and drink might as well have been Styrofoam as it slid down his dry throat.
+
+Twenty minutes later they were on Janice’s grungy living room couch watching The Big Lebowski, a movie they'd both enjoyed since their teen years. Janice was smoking again, and the apartment reeked of cigarettes.
+
+The Dude danced to Kenny Rogers in his roofie-induced fever dream.
+
+*Yeah, yeah, oh yeah what condition my condition was in,* sang a shrill chorus as the Dude did a bowling ball dance with a viking-horned Julianne Moore.
+
+Padd was remembering how Leslie loved Jeff Bridges, especially in that country music movie where he talked like his mouth was full of marbles. Jeff Bridges reminded Leslie of her deceased grandfather whom she'd loved dearly. At least that’s what she’d told Padd once, along with a hundred other viewers.
+
+They’d never really been together, Padd and Leslie. Padd had never even met her in person. He’d thought they would someday, the way she’d acted; it was like she was sort of interested, but nothing ever came of it. The old negative reservations bit at the back of his brain, but Padd let himself believe it. He’d finally have a girlfriend, in his mid-twenties. A beautiful one. One that people paid to see naked. It had taken forever but it was finally happening with this beautiful smokeshow of a young woman named Leslie who went by idol\_infusor on Twitch and TikTok and lavendervap0r on Onlyfans and Fansly and sometimes on MFC and Chaturbate.
+
+The first video he ever saw of her—intoxicating. She licked her armpit, slow and deliberate. “Here I am, baby,” she cooed, eyes locked on the lens, on him.
+
+Padd had experienced many aching crushes before, but nothing like this. This had gone from a blinding lust to a desperate, mind-bending need.
+
+He realized Janice was staring at him from across the couch. The cigarette smoldered in her fingers, a little cat's tail curling off the end.
+
+*Yeah, yeah, oh yeah, what condition my condition was in*
+
+Padd stared back at her.
+
+""What?"" he asked.
+
+It happened quickly.
+
+First, Janice put her cigarette out. Then she said, “Fuck it.” Then she leaned over and kissed him. She tasted like an ashtray.
+
+Padd surprised himself by kissing her back. He’d never kissed anyone before. It was a strange, mushy, warm sensation, the sliding of tongues, the occasional sharpness and hardness of teeth. But it was happening. This was his first kiss. Janice. On today of all days.
+
+Then they were all over each other, arms around each other, hands in each other's hair. Padd found the movements almost automatic.
+
+""Come to bed,"" said Janice, breaking off the kiss and stripping off her sweatshirt.
+
+Padd stood up and kissed her again without replying. Janice yanked him toward the bedroom.
+
+Then there they were, Padd thrusting away on top of her. He could smell something faint and foul, his dick plunging into the tepid, toothless hollow between Janice’s legs. It was lower than he’d thought it would be. And hairier. Leslie’s pussy was as bald as an egg.
+
+This was it-- the feeling of pussy.
+
+Padd had jacked off into baggies full of lube since he'd discovered the technique on 4chan at 15, and though it wouldn’t occur to him until later, the baggies felt better than this. There was too much motion involved, too much weight, too many foul scents, too many odd muscles.
+
+Janice moaned. Padd thrust. She moaned some more. Padd tried to bend down to kiss her again but the motion was ill-timed and her head was turned. He was surprised at how tired he was getting, how fast it was happening, the physical exertion of it. Porn stars made it look so easy. Leslie fucking her new boyfriend in the video she’d put out (without even a warning!) made it look so easy, so pleasurable, so all-encompassing.
+
+*I’m losing my virginity,* Padd thought. *I’m 26 and I’m finally doing it. With Janice Cohen. From Miss Hanson’s 2nd grade class.*
+
+The sensation wasn’t nearly as euphoric as he’d always dreamed. It was cumbersome and tiring and there was that faint foul smell that Padd suddenly realized was Janice’s vagina and possibly some hastily-wiped part of him, too. Or her.
+
+The bed creaked loudly under their weight. Their middle American twentysomething corn syrup guts— his covered with wiry hair, hers bread-dough-pale and smooth— smushed together. Padd thought about Janice's neighbors hearing through the wall— it was late afternoon-- and adjusted his thrusting. He sped up again, slowed down.
+
+He tried to concentrate, Janice underneath him, her eyes closed, her mouth hung open, her heavy breasts sagging, fleshy belly bouncing like a waterbed with every thrust he made. Her arms were strewn out to the sides, her legs cocked up.
+
+""This feels good,"" Padd said. It seemed like the right thing to say. It did, sort of. He sped up again. His dick was getting soft.
+
+""Mmm,"" Janice said, putting her hands behind her head and biting her lip. She rocked her hips. Padd tried to match her rhythm and failed. They both stopped, started again.
+
+""This feels SO good,"" Padd said.
+
+His dick was shrinking out of her.
+
+""Mmm..."" Janice said, biting her lip some more and rocking the bed with her hips.
+
+Padd stopped thrusting. His dick shrank right out of Janice with a sad, wet little noise. She hadn't shaved and the outside of her vulva felt like a hair brush. That strange, musky stink hung in the air.
+
+A moment passed, Padd's shriveled, lubed dick resting on Janice's moist vag crack. They'd fucked maybe five minutes.
+
+They looked into each other's eyes.
+
+A moment passed. Then another.
+
+""Let's never speak of this again,"" said Janice.
+
+""Yeah,"" said Padd.
+
+Two minutes later they were dressed and sitting back on the couch.
+
+*Yeah, yeah, oh yeah, what condition my condition was in,* sang Kenny Rogers and the First Edition as Jeff Bridges bowled with Julianne Moore who was dressed in a viking outfit. Padd realized this scene was meant to parody a porno film.
+
+""We should talk about that,"" Janice said, pausing the movie and putting her half-smoked cigarette out in the glass skull ashtray on the coffee table in front of them. “As much as I know I’m going to hate it, I hate sitting here not talking about it more.”
+
+""We should,"" said Padd.
+
+Neither of them said anything for a second, not looking at each other.
+
+Finally, Padd said what he thought Janice wanted him to say.
+
+""I'm sorry. I didn't mean to — ""
+
+""No, I'm sorry,"" interrupted Janice. ""I just, I dunno, I thought it's what I wanted... I thought it's what you would want, too.""
+
+""It's all right,"" said Padd. ""Thank you. I mean, it wasn't terrible... it's not you. It's not that you're unattractive — ""
+
+""No, you either,"" said Janice.
+
+"" — I did need some closeness like that. It just... felt... wrong. But not in a wrong way, you know?""
+
+He didn’t tell her he’d been a virgin fifteen minutes before. How would she react? Maybe she’d known already. She had to have known. He’d told her about it many times, but how long had it been since he’d last brought it up?
+
+""Yeah,"" said Janice.
+
+""It's just, I've known you too long, you know, not sexually. Since—”
+
+""Yeah, I know, you don’t have to bring it up.”
+
+""Yeah, it just didn't feel right.""
+
+""Yeah. It's fine.""
+
+They sat in silence again.
+
+""I still want to be friends, though,"" said Padd.
+
+""...yeah. Good.""
+
+Padd looked at everything in the room except Janice—the black cat clock, her book collection including Stephen King and Brandon Sanderson and NK Jemisen, her spider plant, her poster of the Titanic, her poster of Bill Hicks, her poster of Tom Waits' Rain Dogs album, the collection of DVDs and Blu-Rays under the TV that included Buffy the Vampire Slayer, Game of Thrones, Cowboy Bebop and an impressive assortment of Disney animated classics from Snow White to Wreck-It Ralph.
+
+""I'm glad we tried it, though,"" said Padd, knowing he should just keep quiet. ""It was, you know, like, worth a try.""
+
+Janice lost her plaintive expression and frowned at him.
+
+""‘Worth a try'?""
+
+*Yep, that was the wrong thing to say.*
+
+""...I mean, yeah.""
+
+""It was worth a try.""
+
+""Yeah, I mean, you started it.""
+
+Janice turned away from him.
+
+""You think I'm disgusting,"" she said.
+
+""No, I do not!"" Padd squeaked.
+
+""I saw your fucking face when you were on top of me. It, like, dawned on you. 'Oh, God, I'm fucking a fat chick.'""
+
+Padd sputtered.
+
+""That-that-that's completely unfair! You fucking took me over here and kissed ME!""
+
+""And you could've just broken it off and been straight with me instead of waiting until your dick was in me to say no.""
+
+""But I didn't say no!""
+
+""You said no with your dick. Your dick explicitly said, 'No.'""
+
+""This is insane,” said Padd, brow burning, babbling. “It’s like, I mean—I’m fat, too! Look how fat I am! Look at what a slob I am! No one will touch me! That’s why I fell in love with a girl who gets naked for a living on the internet! But now I’ve had sex in real life! So, you know, *thank you* for that. I knew you were a true friend when we were in 2nd grade, and now, you know, I know it even more.”
+
+Janice shot him a look that could’ve killed a small animal.
+
+There was no point in continuing. The damage was done.
+
+Padd got up.
+
+""I should be going.""
+
+""I assume you'll need a fucking ride, then.""
+
+""No, I'll Uber home,"" Padd snapped.
+
+""How will you pay for it? You've never had a real fucking job.""
+
+""I'll use my credit card. Like everyone else.""
+
+""Oh, how adult of you. And then your lawyer daddy will pay it off again like he always has.”
+
+Padd didn't want to leave this way. He tried to think of something nice to say.
+
+Janice's phone went off. A pretty ascending melody, female voice.
+
+*Scuse me, too busy, you're writing your tragedy*
+
+*these mishaps you bubble wrap*
+
+*when you've no idea what you're like--*
+
+Janice silenced it.
+
+""What was that?"" Padd asked.
+
+""My birth control,"" she grumbled, crossing her arms and turning away.
+
+Padd tried to think of something nice to say.
+
+""Thanks for being my friend, Leslie.""
+
+He caught himself.
+
+""Shit, I mean — I mean, JANICE.”
+
+Janice snorted.
+
+""Just get out of here so I can cry about this.""
+
+Padd couldn't think of anything else to say, so he walked over to the door. He was about to open it when he had a thought.
+
+He meant to pay Janice a compliment. He wanted to boost her self esteem. She had been a good friend for a good majority of his life, maybe his only friend, and he’d tried to be what he hoped was a good friend to her. He didn't want to walk away angry if he could help it. They didn’t see each other like they had when their moms were still friends, and that was a long time ago.
+
+“If you lost weight, you'd be hotter than Leslie,” said Padd. “Probably.”
+
+The words were past his lips and in the air before he realized this was, again, not the thing to say.
+
+Too late, always too late.
+
+Janice turned and glared at him hard enough to shatter steel. Her eyes were wet.
+
+""Don’t worry, Lawrence,” she said. “Even if I was the hottest woman in the universe. Even if we were the last two fucking people in existence, I wouldn't fuck you again. You’re welcome for your mercy fuck. Now get out of my life.""
+
+It was time to go. Padd shut the door hard. He knew when arguing with Janice was useless. He got the hell out of there and went down to the street.
+
+*That was bad,* he thought as he summoned an Uber. *But I'll see her again.*
+
+Yes, he was sure of it. He’d see her again. It would be awkward, but he would.
+
+She’d always been there. Why would that change now?
+
+",1,1741823595.0,vestalphases,0,1.0,False
+1j9ym25,https://www.reddit.com/r/OffMyChestIndia/comments/1j9ym25/dating_a_woman_with_20_years_of_age_gap/,Dating a woman with 20 years of age gap,"Hey.
+I am 29 m married and she is 49 f married.
+This all started on instagram.
+I sent her a request and began talking her through there.
+She was in my neighbours account and had uploaded a reel on public information,i developed a crush on her.
+It was her professional account and she is a public speaker and appeares at events.
+I contacted her and made an excuse i wanted to speak to her about work and we spoke and chatted for a while,it was just a mere excuse but i really liked her and wanted to get to know her.
+Over the next few months we spoke or chatted 2-3 times only and after a while it became evident i was just trying to talk to her more.
+She at times didnt even used to reply but i kept knocking her doors politely.
+Finally i got a chance to open up to her that i found her interesting and liked her.
+She handled it very maturely and replied to me that after a while she knew i messaged her to make conversations and was making excuses for her to reply and she finds it very surprising i liked her because i was so young.
+So we became friends after that and she was talking to me but always putting my chances down by saying it wasnt possible for us to have anything between us.
+I still flirted with her.
+She finally agreed to meet and we kept telling me how she really likes this friendship and before i was leaving she said to me that i should maybe stop trying on her and she would not have an affair. She said it in a polite manner and she said meeting was the best way she thought was telling me that i should stop thinking about if anything was going to happen.
+I lay lowed for a while but i really had began liking her and after few weeks again knocked her doors and she was finding it funny that i was still hitting on her.
+After a while she finally said yes to going out for a date and we instantly took off.
+I still remember we went for a coffee and after it we got closer.
+She opened up to me that she liked me and our meetings and outing became often.
+She is a super busy person but sometimes half an hour or 10 minutes,she always made time and we used to have quick meetings.
+We got closer and i could see her dressing had changed and she wore clothes that a much younger girl would wear.
+She later admitted she was trying to impress me.
+She called me over one day things took off and we got intimate.
+Little funny was that i picked her and didnt knew which bedroom to head towards and i entered into sons (he is 26 now).
+I made love to her that day and just a day after that she opened up to me she was in love and after a lot of thought she had decided to give this a chance.
+I asked her what this was and she told me we were partners now.
+ There is a lot more to it but its already too long...... might write later
+I just wanted to share this today here.",0,1741823585.0,OffMyChestIndia,8,0.5,False
+1j9yl9j,https://www.reddit.com/r/Serverlife/comments/1j9yl9j/people_using_big_table_at_rush_hour/,People using big table at rush hour,"I’m having a problem with clients that seat alone at a table of 5 during lunch/rush hours because of people that seat on a table of 2 just to drink a small coffee and stay for 2 hours using the WiFi. 
+
+Did you guys have this problem? What was a solution you found? ",1,1741823525.0,Serverlife,1,1.0,False
+1j9yl93,https://i.redd.it/wwgtf05mjcoe1.jpeg,When I go to the coffee shop to be alone but I find someone I know,,6,1741823524.0,SchizoidAdjacent,1,1.0,False
+1j9ykxt,https://www.reddit.com/r/StardewValley/comments/1j9ykxt/speed_tip/,Speed tip,"(If I'm doing math right) buying joja cola (75 g/21 second speed) is slightly more g efficient then coffee (300 g/1.24 min speed) correct my math if I'm wrong (3.61 g a second coffe, 3.57 joja)",2,1741823500.0,StardewValley,4,0.75,False
+1j9yji8,https://www.reddit.com/r/medicalschool/comments/1j9yji8/i_called_my_local_reps_you_can_too/,I called my local reps! You can too!,"The uncertain state of PSLF and IBR got you down? Are you worried about the future of Medicaid/Medicare? Want to make sure that life-saving vaccines remain available to your patients?
+
+YOU can make a difference. Reach out to your local reps and share how these changes will impact your life and the lives of your future patients!
+
+1. Identify your local representatives: [https://www.congress.gov/members/find-your-member](https://www.congress.gov/members/find-your-member)
+2. Search for their contact information. Phone numbers available on the website above & often each rep's website has a ""Contact Me"" form if you prefer to write your message out.
+3. Identify which issues matter most to you. Pick one or two things that you're passionate about! No need to address every issue in one call/email.
+4. Draft your outreach ""Hi \[Representative name e.g. Senator X\]! My name is \[Name\] and I am a medical student living in \[home state\]. I'm calling to urge you to \[support/protect certain issue\]. This matters to me because \[reason it matters to you\]. Thank you for your time and consideration.""
+5. Reach out!
+6. Treat yourself to a cookie or coffee or nap. You deserve it 😎
+
+You've got this. The ennui and existential dread of life itself can feel enormous - taking action feels fantastic.",28,1741823389.0,medicalschool,0,0.94,False
+1j9yhi9,https://www.reddit.com/r/Crushes/comments/1j9yhi9/i_have_a_major_crush_on_my_friendco_worker_but/,I have a major crush on my friend/co worker.. but found out he has a girlfriend..,"Well… my crush left our job to work somewhere else. He asked me to get coffee some day (made it sound like more than friends), of course I said yes… well fast forward he came back to work with us and found out he has a girlfriend… I’m trying so hard to get over him but I’m having trouble. He literally has no red flags, and there’s no other guys like him… 
+
+I need advice on getting over him. ",3,1741823237.0,Crushes,0,1.0,False
+1j9yh7v,https://www.reddit.com/r/sandiego/comments/1j9yh7v/new_phone_scam_technique/,New phone scam technique!,"gotta give it to these degenerates with how they're staying creative in scams. Today I got a vm from an unknown number (""San Jose"") with the message, ""Hi this is Betsy, I'm going to come by right now, hope that's ok! I wanted to talk about those services. See you soon!""
+
+Now sure this \*could\* be a legit wrong # but considering how many scams are going around, I'm guessing this requires the recipient calling back only to get the ol' ""oh sorry about that! Can I buy you coffee to make it up to you?"" or some kind of ""pig butchering scam'. ",0,1741823216.0,sandiego,5,0.5,False
+1j9ygnc,https://www.reddit.com/r/BreakUps/comments/1j9ygnc/i_might_be_leaving_soon_how_do_i_reach_out/,"i might be leaving soon, how do i reach out?","ive had a few interviews out of state and might be leaving my shitty job soon. my ex starts rotations for med school after this semester, and bc we haven’t spoken idk where he’s heading, if anywhere. 
+
+it’s been 6 months since the breakup. 3mos NC, then a single text exchange between us, and another 3mos NC. i still miss him and think about him every day. i’d really love to catch up before either of us moves away and just see what the vibe is. the thought of never seeing him again is breaking my heart. 
+
+how do i reach out? i feel like if i send one of the “elephant in the room” messages it’ll come on too strong. if i just send a quick “hey would you want to get a drink/coffee catch up sometime soon” will he get defensive? ",1,1741823173.0,BreakUps,1,1.0,False
+1j9ygld,https://www.reddit.com/gallery/1j9ygld,3 Star trade,"Looking for Whodunnit
+
+Have feathered flight, looking, terrific match,M for Marquee, phantom presence, Gotcha & Coffee Break ",1,1741823168.0,Monopoly_GO,2,1.0,False
+1j9yfra,https://www.reddit.com/gallery/1j9yfra,"I made a village bakery with coffee shop next door and cookery school in the back. There's a 3 bedroom family flat above using just base game, businesses and hobbies and cottage living :D",,13,1741823107.0,Sims4,0,1.0,False
+1j9yfpz,https://i.redd.it/3308b4ucicoe1.jpeg,New Coffee Shop,New coffee shop coming soon corner of Hudson and Newark ,9,1741823104.0,Hoboken,8,0.91,False
+1j9yfjt,https://i.redd.it/wpp30whbicoe1.jpeg,My coffee plant is super dry and I only got it two weeks ago,I have a humidifier running next to it constantly and I’ve watered it once a week since I got it and it gets about 8 hours of lower indirect light,2,1741823091.0,plantclinic,3,1.0,False
+1j9yc8s,https://www.reddit.com/gallery/1j9yc8s,LF Feathered Flight (set 6),,1,1741822829.0,Monopoly_GO,1,1.0,False
+1j9ybwv,https://www.reddit.com/r/AITAH/comments/1j9ybwv/aitah_for_telling_my_friend_she_shouldnt_have/,AITAH for telling my friend she shouldn't have gotten married?,"This one might be a little long so please bear with me, there's  lot of backstory that's needed before I explain the situation. 
+
+I'll call my friend A(29F) and her husband B(30M).
+
+I've known A since we were in kindergarten, our mothers were middle school friends and she and her brother often slept over at our house. Now as an adult I know that it was mostly due to her mother abandoning them for days at a time while she left the city and sometimes state to visit her boyfriends. By the time we got into middle school we started drifting away from each other, she hung out with more popular kids and I hung out more with the athletic kids. Sometimes she would come to my house, we'd watch a movie, she would eat and go home late at night but at school she never looked my way. It was a tough period for her and I never took it to heart. 
+
+When we graduates she went to a different high school and we lost complete contact with each other. During this time I went through extreme familial circumstances and found myself often shifting between angst and depression. I ran into her on the bus sometime after and she opened up to me, she told me she wasn't living with her mom anymore and that her step mother opened the door for her to stay with them after her mother started bringing her boyfriends into her house. 
+
+She admitted she wasn't eating well and that she had 2 jobs on top of going to school in order to pay for her food and rent. Taken a back I empathize with her and reconnected. We sometimes met just for ice cream and told each other our problems. At the time, that was enough for both of us to not off ourselves. 
+
+Before I moved to the US for college she told me she started dating B at her job, he was kind and often brought her food. She seemed happy but I didn't really like B since he was kinda ugly tbh. I felt like she was attaching herself to him because he was giving her the attention she needed but I didn't tell her that. 
+
+A few years later I come back to my home country and they are still together. Both of them continue to live with their respective families, working, and putting themselves through college. She began to prepare herself to become a family affairs lawyer and he was trying to become a math teacher. I found that to be so exciting and I began seeing him in a good light. He was really a good influence on her so I was extremely happy to see where she was in life. 
+
+Later on they graduated and got their first jobs but she broke up with him a few times because he had cheated on her with someone from his job. From what she told me they went out on dates and he had been texting her as if he was single for some time. They later got back together and he had an open phone policy so she could check whenever she felt insecure. 
+
+Reminder, he's ugly. She isn't a 10 but she is stereotypically pretty and tall, while he is shorter than her and obese. So when I found out he cheated I was shocked. Over a few more years she became increasingly insecure and often controlled every aspect of their relationship. If he wanted to meet his friends she would tag along, if he wanted to buy something she had to go with him. She checked his location periodically and called him when he was stuck in one place for too long. It was evidently unhealthy but I didn't feel I could tell her since she had a very short temper and I feared losing our friendship. 
+
+For more context of As mother, she is textbook narcissistic and often prioritized herself over the basic needs of her children. She heavily required male validation to exist and would bounce between boyfriends very quickly. At some point she even tried flirting with my father infront of my mother and brother who was underage at the time. She was so gross my mother stopped talking to her and our doors were shut for them. In 2019 she dated a man that was 22 years old, around 20 years younger than herself, he managed to scam her out of all her money and even convinced her to sell her car and get a loan as a collateral of their home. This caused A and her brother to temporarily be homeless and since then their relationship was damaged. 
+
+In 2020 A, her mom, and her brother, moved into a 2 bedroom apartment and they all equally contributed to the rent since they were old enough to work. A and her mom shared room and slept on the same bed. Some time after this As mom began brining men to the apartment when no one was home and when A and her brother found out they had a bad fight and kicked As mom out. Due to this, rend was now split in 2 and her brother resented it, he also didn't cooperate in food or cleaning so A often felt like she just wanted to leave. For a few years she talked about marriage and leaving her home to begin living with her longtime boyfriend but her only requirement was a civil wedding. 
+
+
+Last year, she contacted me and asked me to be her maid of honor and I happily agreed. I flew in to my home town as she just told me her wedding was in August and then a whole month passed by and there never was a wedding. I talked to her, trying to see if the wedding plans were still ongoing since I had to travel back to the US soon but she didn't have a clear answer. I told her I was heading back and she broke down and told me she had a fight with B because of his sisters taking his money. Apparently he was the main source of income for his family and now that they wanted time get married A wanted to make sure his sisters were aware that they needed to start working. (his sisters were over 25) 
+
+B didn't like that A wanted him to separate from his family and even said ""just because you don't have a family doesn't mean you have to take me out of mine"". That really hurt her but she had already given a final months notice at her apartment and had no where to go. She ended up moving in with him before their wedding, and finances started getting hard when she realized he wasn't paying 50-50 as they agreed. 
+
+Sometime after, she realized he was spending on coffee everyday, and taking it to his female coworker. She became anxious and demanded he stopped that. He clarified that she covered his shifts and was just being thankful, the lady was even married. A became a helicopter again and went into his phone and saw him texting one of his female friends. though I don't know what the texts were about she seemed upset he even talked to women. She even told me about them going to meet his friends to play pokemon go, and one of his friends brought his girlfriend. She was upset he added her on the game because she was a ""sl/t"" the guy friend had met on tinder. I told her that was wrong of her, since it's a valid way of meeting people and that in the game there is no text features so I didn't see the problem with it but she got upset. 
+
+She stopped talking to me for about 2 weeks and one day I woke up to Instagram storied of her wedding. She didn't invite me because of what I said. I took 2 steps back in our friendship, mostly limiting conversation to when she reached out. And yet whenever she did, she complained of her husband. 
+
+Last I spoke to her I was with both of them and he looked extremely tired. She complained about him infront of him, saying he was still sending his sisters money and wasn't participating in the home spending since he couldn't afford to (he bought a house for her and paid mortgage himself). 
+
+The issue now, and what brought up me telling her she shouldn't have gotten married with him, was she often was anxious about him. She was making them both tired because of those insecurities. He had lost all freedom and she lost all trust. It was so bad that he couldn't even see his sisters. A complained about everything and often victimized herself but ignored the abuse she was also putting in. I told her how toxic her relationship was, and that if she really felt that she couldn't trust him, she shouldn't have married him.
+
+All she said was ""we've been together for 10 years, if I didn't marry him it would've been a loss"". I explained why it would be okay to desolve the marriage and that it wasn't time lost but experience gained but she got upset with me, called me a fake friend for not being happy for her, and hadn't talked to me in about 2 months. 
+
+Meanwhile I've also gone through a lot and she never once asked me for my wellbeing. I accepted losing this friendship because it became extremely toxic being with her, she tried controlling my friendships and while undergoing a health crisis she insisted on my meeting her. I felt obligated to be with her because of our generational friendship but I'm honestly tired. Last I heard from my mom was that she had a physical altercation with someone because of her husband. I'm not sure what happened but I don't know if I should reach out to her and ask if she's okay or just leave it. I don't want to abandon her but I also am tired. Does anyone have any advice of dealing with this situation? I worry for her but I also feel she doesn't worry for me. 
+",1,1741822802.0,AITAH,1,1.0,False
+1j9ybni,https://www.reddit.com/r/AIxpert/comments/1j9ybni/breaking_generative_ai_viral_tools_reshaping/,🚀 Breaking: Generative AI & Viral Tools Reshaping 2025/2026 Trends – Why Everyone's Talking About the Future of AI 💡📈,"Hey AIxperts! 🌟
+
+Have you ever daydreamed about the future while sipping on your morning coffee, imagining all the futuristic wonders that 2025 and 2026 might bring? Well, buckle up because something extraordinary is happening in the world of AI! 🚀 The winds of innovation are blowing strong, reshaping trends and propelling us into an era where generative AI and viral tools are redefining how we interact with technology. Let's dive into why everyone's talking about this buzzworthy topic and what it means for us tech enthusiasts! 🤖✨
+
+### The Rise of Generative AI: Unleashing Creativity
+
+Generative AI is like the Da Vinci of the digital age. 🖌️ It's not just about analyzing data; it creates—whether it's inventing awe-inspiring artworks or composing symphonies that tug at your heartstrings. Imagine a future where your favorite virtual assistant can design a new logo for your startup or write your next bestseller with just a few prompts. The potential is limitless! 
+
+### Viral Tools: The TikTok of Tech Trends
+
+Remember that viral meme you couldn't escape from last year? The same viral magic is now shaping AI tools! Platforms are offering intuitive, trend-driven interfaces that anyone can use. Think of drag-and-drop simplicity combined with deep learning capabilities, enabling users to create sensational content that captures attention as quickly as a TikTok dance challenge! 📱🔥
+
+### What's Shaping Tomorrow's Trends?
+
+1. **Personalization on Steroids**: The AI of the future will not just know what you like; it will cater to your whims before you even realize them. Expect hyper-personalized experiences that fit your mood, schedule, and interests to a tee. 
+
+2. **Sustainability and Ethics**: Amidst technological advancements, we're seeing a meaningful shift toward ethical AI. Sustainable practices and fair use are at the forefront, ensuring these innovations don't just thrill us today but also serve the planet tomorrow.
+
+3. **Seamless Integration**: Picture a world without app overload. We're moving towards a future where AI integrates effortlessly across devices and applications. Your smart fridge will not just suggest recipes; it'll sync with your fitness goals and dietary preferences to keep you on track!
+
+### Join the Conversation!
+
+As tech enthusiasts, there's no better time to get involved. Whether you're a developer, AI hobbyist, or simply AI-curious, these trends offer something revolutionary for everyone. What aspect of generative AI excites you the most? Or perhaps you've stumbled upon a viral tool that's changed the way you work? Share your thoughts and insights in the comments below! Let's grow this conversation together and ride the wave of the future! 💬🌊
+
+And if you're eager for more AI wisdom, tips, and community vibes, don't forget to check out our amazing resources [here](https://beacons.ai/aixpertus). Happy exploring, fellow futurists! 😊🔍
+
+Looking forward to your insights! 🗣️✨",1,1741822783.0,AIxpert,0,1.0,False
+1j9yafq,https://www.reddit.com/r/HydroHomies/comments/1j9yafq/no_one_drinks_anything_during_my_virtual_meetings/,No one drinks anything during my virtual meetings!,"I was in a meeting today, it’s an hour and a half long with a 10 minute break in between. I never see anyone drink water, there are some who may have coffee but it’s not the norm. I understand that folks may be drinking water during the break when cameras are off but no one ever steps away from the meeting. (I drink water regularly and have to use the bathroom at least every hour or so depending on how frequently Im drinking.) I needed to vent to a community that would understand 😔 ty ",22,1741822684.0,HydroHomies,7,1.0,False
+1j9y9xf,https://www.reddit.com/r/BuyCanadian/comments/1j9y9xf/canadian_alternative_to_silk_oat_coffee_creamer/,"Canadian alternative to: Silk Oat Coffee Creamer, Vanilla,?",I’m absolutely obsessed with it for my coffee but I learned today it’s American and I want a Canadian alternative. Does anyone know a similar product?,3,1741822645.0,BuyCanadian,5,1.0,False
+1j9y9n3,https://i.redd.it/utbywdjxgcoe1.png,Kangen Water: Because Regular Water Isn’t Expensive Enough,"The script is always the same—dramatic health story, fancy buzzwords like “molecular hydration,” and a pricey machine that’s just a glorified water filter. There’s no solid science behind ionized water doing anything special, but there is a well-documented MLM scheme behind Kangen. At the end of the day, the real product is recruitment, not water.",5,1741822621.0,MLMHorrorStories,4,1.0,False
+1j9y879,https://www.reddit.com/r/starbucks/comments/1j9y879/very_low_sugar_below_100_calories_drink_ideas/,very low sugar & below 100 calories drink ideas?,"hey guys! i been recently really getting into starbucks and my go to drink is the matcha latte (i edit it so its low sugar and below 100 calories)
+
+for those interested, this is usually what i get:
+- grande iced matcha latte, light ice 
+- no classic
+- almond milk 
+- 2 sf vanilla
+- 1 stevia 
+I’m not exactly sure how much calories it is but i’m pretty sure it’s below 100 (and i recently found out their almond milk had added sugars in it 🥲)
+
+
+do you guys have any other drinks that r low cal and very low sugar? anything, can be coffee or anything
+
+
+thanks! ",3,1741822507.0,starbucks,5,0.71,False
+1j9y81i,https://www.reddit.com/r/ItalyTravel/comments/1j9y81i/caffe_recommendations_in_rome/,Caffe recommendations in Rome,"I have a feeling that they are mostly good in general. I wonder if anyone has any caffe to recommend - just for coffee, or with good bakeries and snacks, or for breakfast as well. And any sharing on why you like it yourself. Thanks a lot.",1,1741822496.0,ItalyTravel,0,1.0,False
+1j9y80s,https://i.redd.it/57hh6cyjgcoe1.jpeg,"tequila espresso martini, with xila","1.5 oz reposado tequila 
+
+1 oz xila apertif
+
+1 oz hot espresso
+
+1/3 oz cardamom coffee syrup
+
+2 drops of 4:1 saline solution 
+
+2 dash of mole bitters
+
+1 dash cardamom bitters
+
+shaken over ice, fine strain into chilled coupe 
+
+
+notes: this was mostly an excuse to try the xila in an espresso martini variation, plus I'm trying to finish this reposado. next time, I think mezcal would work better. taste wise, it'a light, fruity and has a very light spicy note in the finish. initially made with .5 oz cardamom coffee syrup but that felt too sweet to me, not quite sure if I nailed that yet. the cardamom coffee syrup is a 1:1 simple made with extra strength coffee; a few green cardamom pods thrown in to steep.",5,1741822494.0,cocktails,2,1.0,False
+1j9y7u4,https://www.reddit.com/r/UniUK/comments/1j9y7u4/no_friends_uni/,No friends Uni,"second year uni student 
+
+so far made no friends - i also didn't get a bf 
+
+my goals for uni were simple 
+ - make friends 
+- get a bf 
+- achieve good / great grades 
+- get a part - time job / save money 
+
+so far, i've made zero friends, made no boyfriends, have below average grades, no part time job, and £400 in credit card debt ( no savings ) 
+
+I have tried everything. joining societies and going to events, but absolutely nothings is working, it's actually making me suicidal at this point, I try my best at everything yet i'm 21 with no memories or experience 
+
+i've never celebrated my birthday, never went out, never been invited anywhere, never went on holiday, never been cinema etc or simply even a coffee shop - although I could go by myself, i'd rather go with someone 
+
+I've delayed everything in my life for uni, I thought once I get here i'll get the ' uni experience ' - I got nothing. biggest regret of my life. Now I have one year left then i'm back home 
+
+waste of time & money 
+
+",9,1741822481.0,UniUK,6,0.91,False
+1j9y7c3,https://i.redd.it/sq5xbecegcoe1.jpeg,Small deposits in my coffee,"I’ve had a used Nespresso vertuoline for about half a year and I’ve been getting these small hard deposits (next to nail for scale) in my coffee. 
+
+No matter which pod I use, whether I use dairy or non dairy milk (I use the aeroccino frother), I will get these deposits in my coffee. 
+
+I descaled my Nespresso just a week ago to see if it would fix the problem and it didn’t. 
+
+If anyone has experienced this before please let me know what I should do!",2,1741822442.0,nespresso,2,1.0,False
+1j9y6xq,https://www.reddit.com/r/Poems/comments/1j9y6xq/31225/,3.12.25,"In my dream last night, you were ashamed.
+
+That's how I knew it was a dream--you were ashamed, and I was angry
+
+And in real life
+
+In every day life
+
+You never admitted to the scars you made in me
+
+And I never held you accountable, not once.
+
+In my dream last night, you apologized
+
+Your black hair shone in front of your eyes and you wept
+
+In front of mistaken by-standers who thought they were aiding and abetting
+
+True love.
+
+The coffee shop at a stand-still
+
+Blond wood and tinny music, the scent of vanilla in the air.
+
+And I was righteously angry
+
+And I quoted the poem I wrote before I met you
+
+That made you fall in love with me
+
+And I gave you a book dedicated to you
+
+And I left before I cried, the delicate sound of the bell
+
+breaking the peal of your lamentation
+
+I looked cool.
+
+And you looked like you loved me.
+
+Dreams betray me in the strangest ways; we both know how it would go in real life
+
+Me begging you to be different in ways you cannot
+
+So you can love me in ways you could not
+
+And you
+
+Wondering how soon you can leave.
+
+The pause between when I inhale and I exhale full
+
+of water
+
+Real life betrays me too.
+
+I wish I never dreamed of you again
+
+I tell myself when I wake up on a damp pillow
+
+I will never dream of him again
+
+But I know I will.  In real life
+
+In this life
+
+I bargain with my memories
+
+To try to shape a future that has forgotten you.
+
+In real life
+
+I find your face impressed upon my palm
+
+Like a burn built into my lifeline
+
+I find you everywhere
+
+In real life.
+
+",2,1741822414.0,Poems,0,1.0,False
+1j9y66r,https://i.redd.it/g2b8aab5gcoe1.jpeg,The time is Nigh,Hello fellas (& ladies?)! Drop the name of your favorite team and a fond memory of them to earn a chance at receiving a mystery lot of your team (or you could choose some stuff if you have TCDB). Winner will be randomly selected on Friday around 5pm Pacific.,7,1741822357.0,CoffeeAndACard,13,1.0,False
+1j9y63n,https://www.reddit.com/r/u_johnsmithmath89/comments/1j9y63n/how_many_cups_of_coffee_per_day_are_healthy/,How Many Cups of Coffee Per Day Are Healthy?,"Coffee is one of the most consumed beverages worldwide, providing a daily boost of energy and a host of health benefits. However, the question remains: how many cups of coffee per day are healthy? The answer depends on various factors, including individual tolerance, lifestyle, and overall health.
+
+In this article, we’ll explore the science-backed recommendations for daily coffee consumption, its health benefits, potential risks, expert opinions, user experiences, and interviews with coffee specialists.
+
+ 
+
+# 1. The Science Behind Coffee Consumption
+
+# Recommended Daily Coffee Intake
+
+Research suggests that **3 to 4 cups of coffee per day** is considered safe for most adults and is even linked to numerous health benefits. The U.S. Food and Drug Administration (FDA) and European Food Safety Authority (EFSA) agree that up to **400 mg of caffeine per day** (equivalent to about four 8-ounce cups of brewed coffee) is safe for most healthy adults.
+
+However, coffee consumption varies among individuals due to factors such as metabolism, caffeine sensitivity, and existing health conditions. Some people can drink multiple cups without issues, while others may experience side effects after just one.
+
+# Caffeine Sensitivity and Tolerance
+
+People process caffeine differently, and factors such as **genetics, age, weight, and liver function** play a role in caffeine metabolism. There are three types of caffeine sensitivity:
+
+· **High Sensitivity:** Some people metabolize caffeine slowly and may feel jittery, anxious, or have trouble sleeping even after a small amount.
+
+· **Normal Sensitivity:** Most people fall into this category and can safely consume **3 to 4 cups of coffee** daily without adverse effects.
+
+· **Low Sensitivity:** These individuals metabolize caffeine quickly and may tolerate higher amounts (5 to 6 cups or more) without issues.
+
+If you’re unsure about your tolerance, it’s best to **start with a lower intake and gradually increase** while monitoring how your body reacts.
+
+ 
+
+# 2. Health Benefits of Moderate Coffee Consumption
+
+# A. Brain Health & Cognitive Function
+
+Coffee is known for its stimulating effects, which can enhance mental alertness, focus, and cognitive function. Studies show that moderate coffee consumption may reduce the risk of **Alzheimer’s disease, dementia, and Parkinson’s disease** due to its high levels of antioxidants and anti-inflammatory compounds.
+
+# B. Heart Health & Longevity
+
+A study published in the Journal of the American Medical Association (JAMA) found that **drinking 2 to 3 cups of coffee daily was associated with a lower risk of heart disease and stroke**. Additionally, research suggests that coffee drinkers may have **a longer lifespan** due to its protective effects on the cardiovascular system.
+
+# C. Metabolism & Weight Loss
+
+Coffee can boost metabolism by **3–11%** and promote fat burning, making it a popular choice for those looking to lose weight. Caffeine stimulates thermogenesis, which helps the body convert stored fat into energy.
+
+# D. Reduced Risk of Type 2 Diabetes
+
+Several studies indicate that **regular coffee drinkers have a lower risk of developing type 2 diabetes**. The antioxidants in coffee help regulate blood sugar levels and improve insulin sensitivity.
+
+# E. Liver Health & Detoxification
+
+Coffee contains compounds that help protect the liver, reducing the risk of liver diseases such as **fatty liver, hepatitis, and liver cancer**. Drinking coffee has also been linked to a lower risk of cirrhosis, especially in individuals who consume alcohol.
+
+ 
+
+# 3. Potential Risks of Excessive Coffee Consumption
+
+While moderate coffee intake offers many health benefits, drinking too much can have **negative effects**:
+
+# A. Increased Anxiety & Nervousness
+
+High caffeine intake can lead to **jitters, increased heart rate, and anxiety**, especially in individuals who are sensitive to caffeine.
+
+# B. Sleep Disruptions
+
+Caffeine stays in the bloodstream for **up to 6 hours**, meaning drinking coffee too late in the day can disrupt sleep patterns.
+
+# C. Digestive Issues
+
+Coffee is acidic, and excessive consumption may cause **acid reflux, heartburn, or stomach discomfort** in some individuals.
+
+# D. Increased Blood Pressure
+
+For people with hypertension, consuming more than **4 cups of coffee per day** may temporarily raise blood pressure.
+
+ 
+
+# 4. How Different People Experience Coffee Consumption
+
+To provide a well-rounded answer, we spoke with coffee enthusiasts, nutritionists, and baristas to understand how coffee affects different individuals.
+
+# Interview with a Coffee Expert: James Carter (Certified Barista & Coffee Researcher)
+
+""I’ve been drinking coffee for over 20 years, and from my experience, 2 to 3 cups per day works best for most people. The key is choosing high-quality, low-acid coffee that suits your body’s needs. Also, avoid adding too much sugar or artificial creamers, as they negate coffee’s health benefits.""
+
+# User Experience: Maria, 32 (Fitness Enthusiast & Coffee Lover)
+
+""As someone who works out regularly, I find that drinking a cup of black coffee before my workout enhances my performance and endurance. I stick to 3 cups a day, which keeps me energized without affecting my sleep.""
+
+# Survey Results from the Coffee Community
+
+We conducted a survey among coffee lovers, and here’s what we found:
+
+· **67%** of participants reported feeling more productive with **3 cups per day**.
+
+· **20%** mentioned that **more than 4 cups** led to jitteriness and headaches.
+
+· **13%** preferred **decaf** to reduce caffeine-related side effects.
+
+ 
+
+# 5. Factors to Consider When Determining Your Ideal Coffee Intake
+
+# A. Age & Health Status
+
+· Pregnant women should **limit caffeine intake to 200 mg per day** (about 1–2 cups).
+
+· Individuals with heart conditions should consult a doctor before increasing coffee consumption.
+
+# B. Type of Coffee & Additives
+
+· **Black coffee** is the healthiest choice, as adding sugar and syrups can lead to unwanted calories.
+
+· **Espresso** contains less caffeine than brewed coffee per ounce, but people tend to drink it in smaller amounts.
+
+# C. Best Time to Drink Coffee
+
+To avoid caffeine crashes and sleep disruptions, experts recommend drinking coffee **in the morning or early afternoon** rather than in the evening.
+
+ 
+
+# Conclusion: What’s the Perfect Coffee Intake?
+
+Based on scientific research, expert opinions, and user experiences, **3 to 4 cups of coffee per day** is the sweet spot for **maximizing health benefits while minimizing risks**. However, **everyone’s tolerance is different**, and listening to your body is crucial.
+
+For more insights on coffee, brewing methods, and health benefits, visit [GoMehedi.com](https://gomehedi.com) – your go-to source for coffee guides and expert advice!
+
+ 
+
+# Frequently Asked Questions (FAQs)
+
+# Q1: Can I drink coffee on an empty stomach?
+
+Yes, but it may cause acid reflux in some individuals. If you have digestive issues, drink coffee after a meal.
+
+# Q2: Is decaf coffee a good alternative?
+
+Yes! Decaf offers many of the same health benefits without the stimulating effects of caffeine.
+
+# Q3: Does coffee cause dehydration?
+
+No, moderate coffee consumption does not dehydrate you, but drinking water alongside coffee is recommended.",1,1741822350.0,u_johnsmithmath89,0,1.0,False
+1j9y5su,https://www.reddit.com/gallery/1j9y5su,Alright what does my fridge say about me?,tupperware has ground turkey for dog food and baked tofu for human food,7,1741822329.0,FridgeDetective,6,1.0,False
+1j9y569,https://www.reddit.com/r/auscorp/comments/1j9y569/colleague_coffee_etiquette_update_pt_2/,Colleague coffee etiquette - UPDATE (pt. 2),"So...for all of those that were invested...or following...
+
+Ive just had coffee again, with the same colleague.
+
+She came up to me this morning and asked for a coffee and walk again. She insisted before we left that it was her turn to shout since last time I did it. Initially I was hesitant, maybe she had read my last post, maybe she felt guilty? I had to be careful.
+
+I agreed, tentatively of course. I was keen to see what she would order (the only reason I accepted) this time that she was paying.
+
+We arrive, and she gestures me to go first. I order my usual; small flat white. 
+
+*now I know what you all are gonna say: why didnt you order something expensive/fancy like she did last time? Simply because I dont like the sugary drinks. Man likes coffee and milk only. Plus im no hypocrite*
+
+Anyhow, I order and move aside, watching, poised, waiting, almost holding my breath to see what she orders. Its all happening in slow motion...
+
+She turns to the barista, smiles sweetly and orders ..... a small cappuccino.
+
+Betrayal.
+
+Realisation kicks in. Anger seeps into every node of my body. I was used and then cast aside. I curse her and her kin to never benefit from the kick of the caffeine and only ever suffer the crash.
+
+If she is reading this on here....never hit me up for a coffee catch up ever again. 
+
+Respectfully (as per HR guidelines), of course,
+
+The guy who you used to get a free french white chocolate ice mocha with smuzzle struzzle whipped cream on top or whatever.",120,1741822282.0,auscorp,46,0.98,False
+1j9y4ne,https://v.redd.it/a30bgcjrfcoe1,Flying the Korok skies,Thanks to u/WhiskeyAM_CoffeePM for the tip.,1,1741822245.0,TOTK,0,1.0,False
+1j9y40i,https://www.reddit.com/r/UCSD/comments/1j9y40i/make_ucsd_access_regulated/,Make UCSD Access Regulated,"Hi guys,
+
+Something needs to be done about campus access. We are tired of seeing sketchy people and homeless on campus acting out and being creepy and STEALING.
+
+Last week I got my scooter stolen at pepper canyon hall, literally from a spot I have class, go for testing and even meetings and appointments. It was locked and secured and someone literally took it apart to steal it and left the lock…..
+
+Thieves and Homeless people have extremely easy access to/on campus and are/have been in student areas and spaces creeping people out. Also the public has been taking advantage of our space and study room, we see multiple spaces where the public sets up their own office seemingly taking seating and outlets that we have the right to as students, we pay for this!
+
+As I am a young woman I want to feel safe.
+Seemingly every other few weeks someone gets assaulted or attacked in Warren or pepper Canyon and it makes sense. The police officer explained to me (when I called bc my scooter) that the trolly is a major issue to safety and they see it all the time people get off that DO NOT have any business here on campus and then they steal or loiter or pass out in our student spaces, and then bounce back on the trolly. 
+
+I really want to see if we can start something as students to get a gate or something around our school. We have a gorgeous campus and it deserves to be treated like the jewel it is. At least where the trolly is, I mean you need a card to get up to the platform but to get down to the ground it’s a free for all? They care more for their profits than our safety. A fence, a scanner at the trolly, a fence AND scanner at the trolly, just something because this is crazy.
+
+At the price center last week as well we saw some sketchy guy walk past and then run out 10 min later because he was stealing from target like what???
+
+This is our home for most of us, we live here and go to school here, eat here and hang out with friends here, idk about everyone else but ik I want to feel safe where I live my life, especially as a student we have enough to worry.
+
+SO like making sure your not sexually assaulted studying or getting a coffee, or being stared down for an hour (today in sun god lounge) by some creepy random non-student, or being punched by a random stranger nut (see the ucsd alerts) going home at night on ur bike are definitely unneeded stresses.
+
+Students, people that are a student’s guest or people with actual business on campus should be the ones allowed access, not everyone just because it’s a public UC…… the state may own the school but I mean even public offices, the courts, post offices, places of state business have access regulations regarding what you are doing there and your place there. Why is our safety not a concern for the school?
+
+
+
+
+",0,1741822197.0,UCSD,15,0.4,False
+1j9y3hl,https://i.redd.it/aqyieymcfcoe1.png,Ariana what are you doing there?,,13,1741822156.0,signalis,1,0.94,False
+1j9y3dg,https://www.reddit.com/r/Blockmandev/comments/1j9y3dg/russian_central_bank_proposes_3year_crypto_trial/,🚨 Russian central bank proposes 3-year crypto trial for select investors,"The Bank of Russia is stirring the pot with a bold new proposal that could flip the script on its crypto regulations. Picture this: a three-year experimental legal framework allowing a select club of investors—those holding a minimum of $1.1 million in securities and deposits—to dip their toes into the world of cryptocurrencies. However, this isn’t an open invitation to every crypto enthusiast. Only the elite will be able to trade, while strict penalties loom for those who stray outside this controlled environment.
+
+Interestingly, the central bank maintains a firm stance on ruling out cryptocurrency as a payment method. Under this proposed regime, transactions involving cryptocurrencies between residents outside of this experiment will face serious repercussions. So, if you were hoping to pay for your coffee in $BTC or $ETH, you'll have to wait a bit longer.
+
+The goal? To crank up market transparency and develop standards for those daring enough to provide crypto services. It seems they’re looking to introduce fresh investment opportunities for seasoned traders brave enough to take on the accompanying risks. And let’s not forget about our friendly neighborhood financial institutions—some could even join in on this crypto trial. Who knows? Maybe they'll adopt a Bitcoin accumulation strategy akin to some prominent players in the market.
+
+What’s next? While direct crypto trading is filtered to an exclusive audience, derivatives closely tied to cryptocurrency values will be available to all qualified investors. Plus, as Russia cautiously explores digital assets for international trade, the stage is set for potential shifts in how they approach crypto on their home turf.
+
+While the government has yet to give the green light, if approved, this initiative could significantly weave digital assets into the fabric of Russia's financial system. Keep your eyes peeled!
+
+#memecoin #crypto #solana #Ethereum #ai #bitcoin #cryptocurrency
+
+⚠️ Disclaimer: This analysis is for informational purposes only and should not be considered financial or investment advice.",1,1741822147.0,Blockmandev,0,1.0,False
+1j9y2z3,https://www.reddit.com/r/chat/comments/1j9y2z3/35f_bad_day_bubble_bath_spilled_coffee_bubble/,35F Bad day? Bubble bath. Spilled coffee? Bubble bath. Boss sent a quick email at 4:59 PM? Bubble bath. Crush left you on read? Extra bubbles. Existential crisis? Bubble bath plus rubber duck therapy.,"No matter what life throws at you, warm water and fluffy bubbles are basically a reset button for the soul. 🛁🐥🫧",1,1741822114.0,chat,6,1.0,False
+1j9y2ss,https://www.reddit.com/r/milwaukee/comments/1j9y2ss/any_chess_clubs_at_coffee_shops_or_bars/,Any Chess Clubs at Coffee Shops or Bars?,"Was wondering if there were any chess clubs in the area? Hoping to get a few games in at some point, boys. ",1,1741822102.0,milwaukee,1,0.67,False
+1j9y29s,https://www.reddit.com/r/MakeNewFriendsHere/comments/1j9y29s/30m_ukonline_on_the_search_for_my_clingychatty/,[30/M] - UK/Online - On the search for my clingy/chatty bestie,"
+Ello ello, I'm Lewis, 30M and from the UK.
+
+I'll try and keep it short and sweet. Unlike me, I'm your typical tall skinny white guy.
+
+I'm on the search for a new bestie to join me on this journey called life. Someone to share the day with, build a connection, have some fun, live love laugh toaster bath. I'm interested in investing in something long term with someone who we can be out silly selves.
+
+I've come out of a long term relationship a while back and kind of missing that close connection with someone. I'm not looking for anything romantic, but I am looking for someone who wants a deeply connected friendship.
+
+This isn't for everyone but ideally I'm looking for someone kind of clingy. Someone who wants to talk all day, checks their phone for messages from each other, doesn't care about stuff like double messaging or spamming the f*ck out of each other. Someone to get excited to check your phone for.
+
+
+I'm like an onion. Peel back the layers to find out what's underneath. Try not to cry while you do it. I like my humour how I like my coffee, dark. I will probably p*ss you off.
+
+Some stuff about me so you know I'm not a blank slate ready to get smashed to death by the hammer of life:
+
+- Recently started the gym. About time I started taking better care of myself. I need someone to hold me accountable!
+- When I leave the house I like to cycle, hike explore and occasionally socialise with the unlucky sods I call friends.
+- Heavy metal fan - You'll sometimes find me ar a concert/gig with the above mentioned friends. Bloodstock 2025!
+- I play games. Currently playing POE2 but was obsessed with Satisfsctory the past two months. You'll usually find me AFKing on OSRS.
+- I've been creating an android game for the past year or so in my spare time. Programming is hard at times but very rewarding. 
+- I also have a 5 year old daughter with my ex. Would be great to connect with other parents.
+
+What I'm looking for in you:
+- Age 21-40 - Not opposed to people outside this range but Ideally I'm looking for people around my age
+- We don't need 100% compatibility on hobbies/likes, just show interest.
+- Timezones don't matter. I work a crazy schedule
+- Wanting to be supportive of each other and push each other
+- Can hold a conversation and willing to put the effort in.
+- Silly/chaotic vibes preferred
+
+Accepting applications via DM. Photos preferred by not required.",1,1741822062.0,MakeNewFriendsHere,2,1.0,False
+1j9y26n,https://www.reddit.com/r/PetiteFitness/comments/1j9y26n/i_have_lost_100lbs_before_but_i_honestly_dont/,I have lost 100lbs before but I honestly don't know how to lose anything ever again,"I used to be 230. I once got down to 130 by being restricted vegan (no oils, and skipping meals). I couldn't maintain it for obvious reasons. Had a few babies and couldn't be vegan anymore (having meat dreams and I was so deficient nutritionally). 
+
+Decided to try carnivore after my last baby (1 year old) and I lost baby weight. But between food boredom, food costs and the stress of eating differently than my family....I decided I needed a break. 
+
+Carnivore honestly made me feel good. No joint pain, clear mind, energy good, cycles regular, etc ...but the restrictions (coming from ED background) was so hard. 
+
+I'm currently 163 at 5'4 and feel so lost. I have joint pain again, my brain feels like it's on fire, mood swings, whole body feels inflamed and eating vegetables and fiber makes me constantly bloated and gassy. 
+
+I just want to eat like a normal person and eat clean. But I honestly don't even know what that means. I truly don't ever believe I will eat intuitively without restrictions. 
+
+I can't even weight lift with as bad as I feel eating plant heavy with protein/animal fats. I can't do anything. 
+
+I can't count calories because everything I make is from scratch. I make our bread, snacks, all meat, etc. Ita just not sustainable to try to count every single item in every single recipe. I have 3 kids...I'm lucky if I even get to eat without screaming...much less weigh and input it all. 
+
+What are some basic food rules I can implement that can keep me losing without calculating. I've never calculated as a vegan but lost 100lbs...I just can't do it. I  get obsessive and either starve myself or lose motivation. 
+
+High protein? Do I use animal fats like butter? I don't like seed oils...I just want real milk in my coffee. I feel like shit with veggies but I am Open to adding a few.  Can I eat rice? It's so cheap and groceries are expensive. 
+
+Should I just do OMAD and eat whatever I want? Give me some direction! ",0,1741822055.0,PetiteFitness,5,0.5,False
+1j9y1v7,https://i.redd.it/gzppa996fcoe1.png,Hate will never win.,,360,1741822030.0,lgbt,8,1.0,False
+1j9y12m,https://www.reddit.com/r/NarcissisticMothers/comments/1j9y12m/i_found_out_my_mother_is_dying_and_i_feel_nothing/,I found out my mother is dying and I feel nothing.,"My mother went to see a cardiologist because she's been having chest pain. To make a long story short, she has severe heart palpitations when she goes to sleep. The cardiologist said it's almost as if her heart is going into fibrillation when she lays down. This means she's at a very high risk of stroke.
+
+The doctor doesn't know for sure, but he suggested it may be caused by either her anorexia or by the fact that she drink 12-15 cups of coffee a day. My mother, of course, is refusing to give up coffee and won't admit that she has anorexia to go on a healthy diet. 
+
+So at this point, she could die at any time... 
+
+my mother is an extremely abusive and manipulative narcissistic person. She was my first bully and is the direct casue of 95% of my low self esteem, growning up. We have a very complicated relationship.
+
+But, after hearing the news that her heart is giving out. I just feel nothing. I'm neither happy or sad. I'm straight up indifferent. 
+
+Idk, I feel like this news should have gotten some kind of reaction from me. Am I a bad person for not feeling anything? She may be a bad person, but she is still the only mother i have...||",7,1741821971.0,NarcissisticMothers,2,0.89,False
+1j9y0x4,https://www.reddit.com/r/Gta5Modding/comments/1j9y0x4/is_there_a_version_of_hot_coffee_that_works_for/,Is there a version of Hot Coffee that works for the current version of GTAV?,"Asking for a friend, if so where can I find it",0,1741821961.0,Gta5Modding,1,0.4,False
+1j9y0ww,https://www.reddit.com/r/starbucks/comments/1j9y0ww/no_more_caffè_vanilla_frappuccino/,No more Caffè Vanilla Frappuccino?,"It used to be on the app and now I don’t see it anymore.  Only the non-coffee, Vanilla Bean Crème Frappuccino. Is anyone else seeing it? ",0,1741821961.0,starbucks,4,0.33,False
+1j9y0sk,https://www.reddit.com/r/Redding/comments/1j9y0sk/summer_job/,Summer Job,Graduating college and moving back to Redding in early April. Looking for a full time or upper part time job as a barista or bartender but open to other positions or industries. Please let me know if any of your favorite coffee shops or restaurants are hiring!,1,1741821952.0,Redding,1,1.0,False
+1j9y0h9,https://i.redd.it/l2cxi8zuecoe1.jpeg,El Yucateco flavors,Came across flavors I’ve never seen,3,1741821928.0,hotsauce,2,0.72,False
+1j9xzo7,https://www.reddit.com/gallery/1j9xzo7,"You guys loved my mug, so here she is again next to today's lunch","Coffee with skimmed milk, turkey ham sandwich and 60g of grapes.
+Cals for the sandwich on 2nd slide ",26,1741821866.0,goodrestrictionfood,0,0.97,False
+1j9xzie,https://i.redd.it/a6jy22inecoe1.jpeg,Lf Captured set 8,,1,1741821855.0,Monopoly_GO,1,1.0,False
+1j9xyx5,https://www.reddit.com/r/learnprogramming/comments/1j9xyx5/do_you_have_a_system_for_coding_everyday/,Do you have a system for coding everyday?,"As I was browsing YouTube while drinking coffee this morning, I stumbled upon this [video](https://youtu.be/a0eB7tMkvs4?si=TtJH3XSOMIQuhcHH) about a system for coding everyday by having a spreadsheet organize programming activities you can do within a suggested timeframe and energy level (how big of a task it is). As an unorganized lazy programmer, I found this interesting and now I'm wondering if other people have their own personal system or how they go about coding everyday for practice. ",0,1741821811.0,learnprogramming,6,0.33,False
+1j9xyu4,https://www.reddit.com/gallery/1j9xyu4,Anyone?,,3,1741821805.0,Monopoly_GO,17,1.0,False
+1j9xysb,https://www.reddit.com/r/Greenpoint/comments/1j9xysb/local_greenpoint_coffee_subscription/,Local Greenpoint Coffee Subscription,"Launching a monthly subscription for your favorite local coffee shops starting in greenpoint and expanding into greater Brooklyn. If you are interested or have owner friends let us know here!
+
+[https://www.aromacoffee.shop/](https://www.aromacoffee.shop/)",0,1741821801.0,Greenpoint,8,0.14,False
+1j9xya4,https://i.redd.it/td02vzidecoe1.jpeg,Sub $500 all new coffee station. Anything you would change?,,18,1741821761.0,coffeestations,5,0.96,False
+1j9xy1h,https://www.reddit.com/r/raisedbynarcissists/comments/1j9xy1h/panicanxiety_attacks_after_going_lcnc/,Panic/anxiety attacks after going LC/NC?,"I'm curious to hear if this is as common as my therapist claims to be. 
+
+I'm 34 and only recently I realized I grew up with a narcissistic mother. I moved out about two years ago, and I was enjoying my peace and freedom, happy that I can do whatever I want and have my privacy. She's not interested in my life so it was easy to maintain low contact. We had couple of big arguments on few occassions when we did get together for coffee/lunch, and I decided to finally give up on our relationship. 
+
+It was all great until I started being anxious while sitting on the bus, and then it expanded to grocery stores. I was worried I was developing agoraphobia, until I started having intense panic attacks while alone at home. 
+
+Sometimes it's a sense of impeding doom, sometimes it's a feeling of chilling fear in my body. When it first happened I was petrified. No idea where it came from, I was eating dinner, watching Youtube. Suddenly I felt pain in my chest, a deep uneasy feeling, heart was pounding and my breathing was shallow. It took me many hours and many different attempts at trying to occupy my brain with something distracting. It only happened when I was alone, and while generally I am pretty lonely, I was never afraid to be alone so this felt very unexpected. 
+
+I just started seeing a new therapist who claims to be very experienced in cPTSD, family trauma and NPD. She assures me that it's a natural response to everything I survived, and now that I'm finally feeling safe, my body and mind is trying to process the trauma, since it wasn't able to do it before when I was in survival mode. It kinda makes sense, but also kinda sounds strange. 
+
+I also haven't seen anyone mention this on this subreddit for as long as I've been lurking here, people would usually mention great sense of relief or a feeling of releasing their inner child when going LC/NC. That sort of happened to me as well, but then it took a dark twist all of a sudden.
+
+I'm curious to hear your thoughts on this, and I'm sending you all a big hug.",2,1741821742.0,raisedbynarcissists,4,1.0,False
+1j9xxph,https://www.reddit.com/r/AmIOverreacting/comments/1j9xxph/aio_for_being_so_upset_while_on_a_nice_family/,AIO for being so upset while on a nice family trip most people never get?,"It’s my (18m) spring break for college and me and my mom knew we were gonna do something and ended up deciding on Italy and she was also gonna have her boyfriend join. 
+
+For a bit of background, my mom is very clearly bipolar and has been in what I believe is a state of mania for a long time (reorganizing the house 3 times a week, going to a different country every other week, sleeping 3 hours, unable to focus on one task or listen, insanely dilated pupils with very visible whites above her eyes.) She isn’t diagnosed but her mother is the exact same and also diagnosed and we’ve all always known it’s bipolar. Her boyfriend is British and lives in London (we are American, east coast) and is diagnosed with autism and struggles a lot with social/spacial awareness. 
+
+Before the trip even started I tried to calmly bring up my worries of being a third wheel to her, expressing that the constant pda they do made me really uncomfortable and that I was blatantly ignored when he was over despite it being our house. Which she immediately blew up and snapped at me getting defensive. I honestly can’t remember what she said this was like a month ago and she snaps like this whenever I try to communicate something she’s doing so I kinda block it out of my head. But then apologized for getting angry (never for the actual issue at hand) and did her weird guilty face that makes it clear she knows she’s in the wrong. 
+
+Despite all of this I still was trying to keep a positive outlook- because in my mind I’m literally going to Italy how can I not enjoy that. It’s genuinely beautiful here and I love the food and culture. Plus she told me to tell her one thing I wanted to do and I said either a ghost tour or go into catacomb, I know it’s odd but I find it very interesting. 
+
+The first day was amazing! I went to Riomaggiore and walked around the whole little island. Pet some strays, had some coffee, and had a few little moments just enjoying the beauty of it alone completely unplugged. 
+
+The second day was her birthday, I told her happy birthday and that she will get her gift when we get back home because I couldn’t bring it through TSA. She said all she wanted to do was have pizza and tiramisu by the leaning tower so we did that. Her bad phone habits came up today, which was annoying. She tends to be on her phone 24/7 especially at dinner tables when I’m trying to bond/talk to her. She was playing a game on her phone instead of just enjoying being at a amazing place with her boyfriend and son drinking coffee, I started feeling alone cause eventually they were both on their phones and I was just kinda people watching with coffee and gave up talking cause I was blatantly ignored. By night we headed to Florence cause that’s where the next Airbnb we stayed at was and we walked the streets after dinner, my mom was drunk, despite me asking her not to be around me. (She has an issue with bringing up triggering topics and playing devils advocate people who hurt me when she drinks.) I ignored and just walked ahead cause it was her birthday so whatever. Both my mom and her boyfriend were getting just odd. (Massaging eachother randomly in public and he wouldn’t stop saying beautiful girl and just staring at her like I wasn’t there.)
+
+Day three we went to the gallery of Florence (where the statue of David is) I was a bit nervous cause I knew it was gonna be insanely crowded and I struggle with unorganized groups of people. I have a diagnosis of anxiety and autism but normally I can manage like any other person would. It ended up being way more crowded and I felt so genuinely bad for not being able to enjoy it because the art was beautiful. But there were literal hoards of people slamming into me or shoving to see something when I just wanted to read a description or look at the art instead of take a picture and just go. I eventually got to a point I needed to step away as I felt panic arising so I told my mom I was going to sit down and I assumed it was fine as her boyfriend was also clearly overwhelmed and stepped away for a second. She glared at me and told me I can “do this one thing for her” to which I told her I was trying to just get out of the way and let her enjoy it and im not at all trying to rush her or get her attention. She scoffed and eventually we left after a few hours. she nurtured her boyfriend being anxious about the crowds but then made a joke applying to both of us and didn’t even ask how I was doing. She did point out that I was “moving weird” (when I get to those points I sometimes wiggle my fingers or sway it’s unintentional and I get genuinely embarrassed when others point it out) 
+
+ Day four is when I genuinely started purposefully walking away from them cause I wanted to enjoy the trip. She had booked and planned a wine tour, as I can legally drink here. I’ve never really liked wine or drinking. But despite that everyone else wanted to do that so  I agreed, plus even if I don’t like wine I told myself this is insanely nice wine and they will have food too I will have fun. Which for the most part I actually enjoyed the tour, there were dogs at one winery and a cat at the other and I loved them. Even though I didn’t like the wine I enjoyed trying them and also Italian countryside’s are so pretty so the bus ride there was great. But I yet again felt alone sitting by them, my mom again ignored me and just talked to her boyfriend the whole time. To the point at the second winery she didn’t even realize how much wine I had drank. It was samples and the owner talked about how expensive these wines more and so I felt so genuinely guilty not drinking the full sample so I drank them all. I was not huge on any but they were not awful and I knew I was drunk. My mom looked over to my glass and realized how much and said my name then laughed but whatever. Getting back on the bus going home she started making fun of me, looking over everything this is the first time she gave me attention and it was to make fun of me for being drunk after taking me on a wine tour knowing I’m a light weight. She took out her phone and tried to sneakily record me and I looked at her telling her “I’m tipsy not stupid.” And she laughed and said other stuff with her bf. I felt very sad because I was just excited about that cat there I wanted to talk to her or literally anyone about how pretty it was and she just made fun of me with her bf and got on the bus. 
+
+Day five was yesterday I was getting more and more agitated with her, plus I hadn’t been getting good sleep so I was more irritable than normal. We went to Rome our next Airbnb was there, we saw ancient ruins and she talked to me a bit but I wanted her to leave me alone honestly, because whenever I spoke she interrupted me or ignored me. And when she talked it was to point out the exact thing I was looking at or tried to point out to her, or even better complaining that the WiFi is bad in-front of the fucking coliseum. We were all tired and found a restaurant to sit  and have coffee and gelato at. I kept trying to talk to her about the dogs passing, where we think certain tourists are from, the architecture, she was kinda responsive. But her boyfriend responded more than her. She just wouldn’t stop talking about how stressed she is about moving to New York and her new job cause she will be “away from us” (me and my sister.) to which I told her I’m moving out in fall and my sister is 22 and has a full time job and that we do fine independently whenever she’s gone. But she ignored what I said and talked over me telling me I rely on her for everything because I needed her to drive me back from the eye doctor. I have a weird thing with eyes I always have but every other appointment I set and go to on my own without help. Plus she’s not home enough to reliably take me to even annual appointments frankly. That agitated me so at this point I got on my phone too. This made me really sad cause I just wanted to talk about my surroundings with someone. But my mom started also just acting like my personality was too much, I do have a lot of personality but like idk I just wanted to talk or be listened too. We started heading to a famous fountain and she was on her phone the whole walk there to the point I kept having to shout mom at her cause she was in the way. She also stared at her phone asking her boyfriend (with 0 navigation skills) over and over where it is and ignored me telling her there was a sign pointing right there 4 times straight. While walking I saw a guy literally lick something off someone and I thought it was funny so I turned to my mom and tried to tell her saying “if you would have looked up from your phone you would have-“ then she immediately interrupted me snapping “I’m finding directions!!” And I went completely silent and just walked ahead livid atp. I had seen she was texting a friend. Navigation wasn’t even opened. I walked ahead trying to enjoy my surroundings but I couldn’t just get all of how my mom kinda sucks out of my head, it was like I was arguing with her internally. We got to the fountain and took a selfie and she laughed saying “you look so angry” and I just said “yeah.” Which might have been an asshole move cause I know how annoying being with someone super negative can be. But in my defense she didn’t pick up or realize and just took pictures kissing her boyfriend and we went back to the Airbnb, where I very angrily sped ahead. Not ahead enough to hear my mom talking about how she never got this as a kid and her boyfriend telling her she’s an amazing mother over and over. I used the excuse I just had to pee really bad to avoid being forced into a conversation, or into a blow up explaining how my mother is a big reason I’m in therapy.
+
+Then today, since about 5 now I’ve been refusing to leave my room. Other than quick dinner. We went to Vatican City and toured a bit, I genuinely loved it I loved the history and it was crowded but not the point I was being slammed and packed like a sardine. I got agitated anytime I was by my mom or her boyfriend cause they both just walk like idiots my mom will suddenly stop in the worst spot or cut you off and her bf also walks in the perfect spot you cannot get around him or see in-front of him. But I avoided it and her. My mom per usual was just pointing out ONLY stuff I was looking at or our guide was actively talking about which idk just made me extra angry today. Then when we got in one of the extra holy places that has specific rules to get in and you cannot talk or take pictures and where the pope is elected  (sorry I’m so bad with names of things) she immediately full force grabbed me away from the group to point at more stuff In a giant crowd, where I accidentally was slammed into some poor lady just trying to walk normally. I mouthed sorry but again, no speaking. She was mouthing something but all I could focus on was the fact I could literally see nothing but mental illness in her eyes, like fully crazy eyes and just mouthed “what” angrily. Per usual she sensed no anger and just continued and I caught up to the crowd. Once out she immediately started joking about Christianity cause she’s been on a weird “I hate Christian’s” thing right now cause her mother has religious psychosis and instead of recognizing that her mother is severely ill and most Christian’s aren’t like that she’s been subjecting a giant broad range of people to her projections. I looked at her and said “can we maybe just be respectful.” I was genuinely embarrassed with the stupid ignorant shit she was saying on literal so called holy lands. I’m not a Christian whatsoever but I’m also not an ignorant asshole and can comprehend respect.  She just continued and I walked ahead per usual hoping I wouldn’t be associated with her, honestly, delusional thoughts and words. Stuff like “oh he looks like he molested that one” or “Christian’s love pedophiles” or “they are so uptight looking because they take it in the ass.” Except she genuinely actually believes some of it as a fact for every single Christian, which is stupid. Also literally the absolutely worse place to say stuff like that joke or not. We got late lunch after that and I was also soaked cause it was raining and the roads were flooded, adding to my irritability a lot. Per usual, mother ignoring me, her boyfriend not picking up on his surroundings at all to the point we need to point out how to do simple tasks. She talked a bit more than normal to me but a lot of it was her just making faces at what I’m saying like I’m so outlandish and like she has a joke about me with her boyfriend (she shit talks everyone especially my sister so she probably does to me too) I just ignored it cause I mean hey at least I’m being somewhat listened too. She started drinking and got tipsy, her bad type of tipsy. She brought up my dad randomly and I just made a small joke about my relationship with him cause we talked about parents showing up and my dad usually was too drunk or depressed to show for little me- and somehow this got to his girlfriend and my mom defending my fathers girlfriend and her treatment of me despite both knowing her from two singular conversations and shit talking her more than anyone I know. Being talked over, that triggers me a bit. ignored? yes quite a bit honestly. snapped at? Yeah ofc nobody likes that. But playing the devils advocate or giving me bad advice is how to piss me off 101 and everyone who knows me knows this. I play devils advocate in my head within like 5 seconds of the situation happening it, so I understand the reasoning for actions I just refuse to not hold the person accountable. She was basically saying I should be close and love his girlfriend because even though they fight constantly she does a lot behind the scenes and the fact she completely separates me from others because I am queer (I literally NEVER talk about it because I don’t want to) doesn’t matter and I need to just be “open minded and accepting of others and to stop being judgmental.” And so I snapped before I could think telling her “oh did you get that from the two conversations?” To which she laughed and said I need another drink. She was trying to immediately shut the situation down I could see in her eyes she knew she was wrong and she knew I have the words to explain how she is and make her “look bad” and she couldn’t have that happen. I was so angry I forgot a lot of what happened after but I do remember somehow getting to me going home alone because it somehow got back to me “being dependent on her” so I said “if you give me my wallet and the keys to the Airbnb I will make it fine.” And she said “sure” and handed them to me. So I went home alone, through the metro and to the place. I had remembered the signs decently, and the metro is very insanely simple. I saw my mom called and I called her back cause I didn’t have any WiFi till I got to the Airbnb. She immediately asked where I was and I told her I was at the apartment and she just was kinda quiet. She told me she thought I would turn around once I walked to the metro and she didn’t want me to actually go alone. I just said “I’m fine.” And then we haven’t talked much since. I had a tension filled dinner with her after her and her bf ate. She washed dishes behind me and I moved as I’ve told her 100 times now I hate people being behind me, she knows why I do. She brings up that’s trauma to seem like a super parent too much to forget why I feel stressed with it. 
+
+Now I’m in my room not looking forward to the last few days or even heading back. I wanted a break from college and my house as it’s been pure chaos with my mother around. This just feels like more stress and I feel guilty for feeling like that. The first day felt like vacation but now I’m just on edge hoping we sit on a bus so I can sit very far away with headphones and pretend I’m here alone. I could be overdramatic cause my relationship with my mom has built more and more resentment to the point I can barely tolerate her flaws right now. I also messed up some grades for this trip and for some reason can log into my school account here so I can’t fix it, I’m honestly just wanting to go home to finish what I need to do cause I’m doing pretty bad in one class. My mom also let it slip that the one thing I wanted to do we won’t because her boyfriend doesn’t like it. Maybe I’ll just buy tickets myself and go tomorrow night. I feel like I just need at least one thing in my control this trip because I feel like a show dog being dragged around to look good in pictures and by my mom and nothing else. 
+
+
+Thank you if you read all of this, I know it’s a lot. I typed it here cause I know my friends have their own issues and I already briefly mentioned some of it and I don’t wanna be that one friend who won’t stop oversharing every little issue.
+I hope I don’t sound spoiled, I know how lucky I am and I’m insanely grateful I’ll keep trying my best to be positive and focus on where I am but it’s just hard with this going on. ",2,1741821715.0,AmIOverreacting,8,1.0,False
+1j9xxiq,https://www.reddit.com/r/bodylanguage/comments/1j9xxiq/guys_how_long_would_you_keep_a_work_flirtation/,"Guys, how long would you keep a work flirtation going without escalation  out of nerves or because of HR?","That’s the question. Would it be normal for a work flirtation to go on for, say, months without escalating to for ex. Making up an excuse to get a phone number or asking out for coffee,‘etc.? How sure would a guy have to be of a woman’s interest before escalating at work? Would she have to literally tell him?",7,1741821700.0,bodylanguage,14,0.89,False
+1j9xxfu,https://www.reddit.com/r/relationship_advice/comments/1j9xxfu/what_do_i_24f_do_when_my_boyfriend_29m_makes_me/,What do I (24F) do when my boyfriend (29M) makes me feel like I’m only allowed to have 1 emotion? Is it manipulation?,"Throwaway account: My boyfriend and I have been together for 2 years and anytime I get upset, frustrated or annoyed he gets sad to the point where he can’t do anything. Like today I got frustrated because he misplaced my keys when I was running late for class, then when I got to my car I saw that he left my car dirty and the passenger window rolled down in the rain when he used it to get food the other day since his is in the shop. I was already stressed about the keys and to come down to my car being dirty and wet put me over the edge so I left in a hurry while he just moped and waved bye.
+
+Afterwards he just doesn’t do anything but pout. I call on the phone and he just sounds sad even after I said I’m over being upset about the stuff.
+
+ Also, it’s always hard to talk to him when I’m actually upset about stuff because he always responds, “I never say no to you and do everything you ask. So I don’t know what I else I can do”.
+
+He jokingly calls himself the bread winner house wife because he pays the bills while I can only help out a little and he does the house work like clean, laundry and the dishes. But I have school and I don’t work remote like he does. Then he’ll tell me all the things he’s done for me. Like when we moved out of our studio to a two bedroom so he could have a home office, I asked him if I could make the spare room my she-shed since I get overwhelmed easily and wanted a place to decompress when I got overstimulated and when the dogs wouldn’t leave me alone.  Then when I started school he bought me a couple monitors and a desk for my laptop. Now he’ll “jokingly” be like, babe i love you so much i work in a corner of the house and you have a home office for school even though i work remote. Or he’ll bring up the fact that he’s the one who takes care of our 3 dogs / pays for our vacations. Again, I work and have school so I’m not home as much as he is. He really doesn’t say no to the point where it’s frustrating because he will have no money later in the week because he spends it on me. And in my head, it doesn’t matter if someone does all these things. If the dog pees on the floor and I’m upset about that, then that’s what I’m upset about right now. it defeats the purpose of doing something nice if you’re going to throw it back in my face later. 
+
+I’ve tried explaining that I’m just the type of person who can get very flustered easily. But he has a hard time understanding because he’s literally happy all the time. He’s the type where nothing bothers him, so he can’t comprehend how these little things can make me upset. Like one time his best friend got drunk and crashed his car when he was borrowing it and my boyfriend didn’t care at all about the car. After he found out his friend was okay the first thing he did was pull a prank on him about needing the car back asap and then laughed about it. So in the morning when he wakes up all jumpy and excited and tries waking me up with coffee, I’m not a morning person so sometimes I’ll be aggravated or cranky and have a bad tone. Then he’ll just be sad the whole day until I’m sweet to him because he just refuses to understand that not everyone can be happy all the time like him.
+
+Sometimes he takes my moods to the extreme too. My boyfriend has a hard time opening up. So the one and only time he was upset and I asked what was wrong, he said life’s been really hard and all he needed was a hug. I told him I didn’t feel like hugging him since Im not normally affectionate. After I said no he pouted and did nothing  but lay in bed for 3 days. After I finally gave in and gave him a hug he got out of bed and started being productive and happy again. Just because I wasn’t in the mood for affection at that time once, he hides when he’s having a rough time.  Now he just puts on a fake smile even when I can tell something’s wrong. 
+
+TLDR; when I get upset my boyfriend gets sad to the point where he can’t do anything. Makes me feel like I have to be happy all the time and can’t have other emotions. It’s hard because no one else makes him sad just me, even though all I’m doing is having emotions.",1,1741821694.0,relationship_advice,3,1.0,False
+1j9xwsu,https://www.reddit.com/r/ADHDIreland/comments/1j9xwsu/tyvense_with_caffeine/,Tyvense with Caffeine,"Taking 30mgs for about 2 weeks with no improvement except for side effects. Tried having one coffee with it yesterday and all of a sudden I can do anything!!! I tried it again today and got the same results - I finally feel a difference!!!
+The only issue is that I have a crazy high heart rate for roughly two or three hours after taking my meds with the coffee, so I’m wondering if it’s safe enough to do that all the time? As happy as I am that something is working, I am very paranoid that I will soon get a heart attack and die if I continued doing that",2,1741821644.0,ADHDIreland,2,1.0,False
+1j9xwef,https://www.reddit.com/r/tipping/comments/1j9xwef/refused_to_tip_in_la/,Refused to tip in LA,"*unless it was a sit down service with servers bringing food*
+
+I went to LA (Los Angeles in this context) recently to visit my friend and was sooo happy that each time (and there were many for coffee, ice cream, antique shops, thrift stores, etc) I was suggested to tip I chose 0% very happily! Even once at a Parisian breakfast place in downtown I refused to tip when it was an order at the cashier and be “served” the $10 plastic cup parfait that I could get for $6 at the airport that’s worth $2.",19,1741821615.0,tipping,33,0.73,False
+1j9xwe8,https://www.reddit.com/r/HoustonPlatonicR4R/comments/1j9xwe8/27_m4m_la_marque_tx_friends/,"27 [M4M] La Marque, TX. Friends","Don’t know anyone down here. Would be nice to go out for coffee, to the beach, the mall, maybe play some video games. 
+Someone I can chat with about life and have good convos. 
+I also use Snapchat if you’d rather chat there. 
+
+Plz be lgbt friendly (doesn’t have to be lgbt)",1,1741821615.0,HoustonPlatonicR4R,1,1.0,False
+1j9xvx4,https://www.reddit.com/gallery/1j9xvx4,the vocaloids fanart,"i need some help plsss (read last image)
+when i decide the foods i will post here ^^!!
+
+srry bad english i learned playing japanese translated games :p",8,1741821581.0,ProjectSekai,3,0.91,False
+1j9xutf,https://i.redd.it/6rbgpuhfdcoe1.jpeg,war and peas vampire Coffee,,12,1741821498.0,vampires,1,1.0,False
+1j9xu3b,https://i.redd.it/6rbgpuhfdcoe1.jpeg,war and peas vampire Coffee,,3,1741821446.0,Trailerclub,2,1.0,False
+1j9xtgh,https://www.reddit.com/r/CostaRicaTravel/comments/1j9xtgh/coffee_farm_and_coffee_cafes/,Coffee Farm and Coffee Cafes,We fly in and out of Liberia. What is the closest farm to visit and a nice area nearby to stay? Northfield might be a pick but seek your opinions. ,2,1741821400.0,CostaRicaTravel,0,1.0,False
+1j9xsx6,https://www.reddit.com/gallery/1j9xsx6,New Apartment,"First time living in an apartment and I’m ki d of struggling with this layout. With the floor switching from tile to laminate, I can’t decided where I should put a dinner table. And what should I get to fill the open space. I have a couch, am planning on getting a coffee table and a media set for the tv. Maybe a sideboard against the living room/bedroom wall.   
+
+My room is mirrored to the layout image. The bedroom is to the left of where I am standing in the pictures. ",3,1741821359.0,DesignMyRoom,1,0.81,False
+1j9xsbv,https://www.reddit.com/r/Anxietyhelp/comments/1j9xsbv/anyone_else_switch_from_coffee_to_tea_for_anxiety/,Anyone else switch from coffee to tea for anxiety?,"I’ve been drinking coffee for years, but it’s been making me anxious, irritable, and unfocused for a long time. I’m finally trying to quit, but I still need that caffeine boost, so I’ve been looking into matcha and other teas. Has anyone else made the switch? Did it help with anxiety while still keeping you energized? Would love to hear your experiences!",7,1741821318.0,Anxietyhelp,7,1.0,False
+1j9xrta,https://www.reddit.com/r/Anxiety/comments/1j9xrta/anyone_else_switch_from_coffee_to_tea_for_anxiety/,Anyone else switch from coffee to tea for anxiety?,"I’ve been drinking coffee for years, but it’s been making me anxious, irritable, and unfocused for a long time. I’m finally trying to quit, but I still need that caffeine boost, so I’ve been looking into matcha and other teas. Has anyone else made the switch? Did it help with anxiety while still keeping you energized? Would love to hear your experiences!",2,1741821282.0,Anxiety,0,1.0,False
+1j9xrt0,https://www.reddit.com/r/CaffeineFreeLife/comments/1j9xrt0/reminder_on_why_its_important_to_quit_and_stay/,Reminder on why it’s important to quit and stay quit,"I was caffeine free for 2 months. My life was the best it had been in years although there were ups and downs with withdrawals. 
+
+The start of my downfall was meeting people at coffee shops. I did it a few times and got herbal tea and I was fine. Then one day, I decided to get a decaf espresso drink. It’s only 10mg per shot I’m like hey that’s not that bad. Honestly, it wasn’t bad. I was completely fine and thought it was a good balance. It’s about control, right? But I got into the habit of drinking decaf espresso drinks every morning.
+
+Then, I went in vacation in the Bahamas and they did not serve decaf coffee. They only had regular coffee and espresso. 
+
+Here I am after 2 months back on caffeine and had nothing short of a mental breakdown on Monday. I travelled all week, caught a cold, had a bad day at work, then dealt with some drama. Life happens, but when I’m running on caffeine I don’t cope with these things well. 
+
+I also gained 15lbs in those 2 months.
+
+I’m 24 hours now and feel great minus an annoying headache. I slept a lot but I was able to get my work done. It was too urgent to wait for a weekend to quit.
+
+I welcome any tips for sustaining this lifestyle long term so it doesn’t happen again.",3,1741821281.0,CaffeineFreeLife,1,1.0,False
+1j9xrr8,https://i.redd.it/ea4bzjsxccoe1.jpeg,Financial Goal Planning Approach,,1,1741821278.0,SurveyCircle,1,1.0,False
+1j9xrph,https://i.redd.it/ttf7g9dxccoe1.jpeg,How to age paint canvas like this,"I want to draw this on a canvas, but how do i age my canvas background like this? It has that yellow/greenish tint. I saw some people do it with coffee and water, but on paper, still this is stiffer and less brown, any advice.",1,1741821274.0,paint,0,1.0,False
+1j9xrn2,https://www.ebay.com/itm/155383754243?mkcid=16&mkevt=1&mkrid=711-127632-2357-0&ssspo=5m3qfks_rsy&sssrc=2380676&ssuid=5m3qfks_rsy&widget_ver=artemis&media=REDDIT,Pfaltzgraff 3 Village Stoneware Coffee or Tea Cups,,1,1741821269.0,u_Alternative_Cry_9329,0,1.0,False
+1j9xqs7,https://www.reddit.com/gallery/1j9xqs7,"Found in northern Victoria, aus",What is this ant? For size: this is a small decaf coffee jar. The one with the brown/gold logo or something.,1,1741821204.0,ants,1,1.0,False
+1j9xqe3,https://www.reddit.com/r/pourover/comments/1j9xqe3/top_three_tips_for_improving_pourover_coffee/,Top Three Tips for Improving Pourover Coffee!,"Latest video from Lance Hedrick
+
+[https://youtu.be/UYxEEKxgsRM](https://youtu.be/UYxEEKxgsRM)",0,1741821175.0,pourover,3,0.5,False
+1j9xpst,https://i.redd.it/xcs54wqhccoe1.jpeg,"to the ""Tod"" that went up near Bear's Den Scenic Lookout at the Appalachian Trail today (just near bluemont, va)...","next time you bring your coffee onto the trail, take the damn cup back down with you. don't litter in one of the biggest national nature areas we have on the east coast, thanks. I threw it away for you, right in the, big red trash can in the Snickers Gap parking lot where you probably parked. jerk.
+
+seriously though, anybody. if you're gonna bring your plastic trash cups onto any kinda trail, please take it back with you and throw it away. nobody else on the trail wants to see your trash. the appalachian mountains don't deserve that disrespect. (also, multiple people passed it on their way back down and it was still there 3 hrs after I first saw it. promised myself that if it was still there when I was heading back to my car, I'd toss it.)",93,1741821131.0,nova,10,0.96,False
+1j9xprt,https://www.reddit.com/r/LifeAdvice/comments/1j9xprt/a_job/,A job,"I went to college for theatre, but I'm starting to realize I have to give up on that dream. What are some good career paths for me too choose from where it is possible to work up the latter and make over 100k a year. Keep in mind I only have customer service as a current skill. (I've worked at a chocolate/coffee shop, and a nursery, so haven't exactly gained any real skills yet). I'm 28 and would just like to hear from people that there is hope  Or did I ruin any opportunity of making a life for myself by choosing theatre as a major. ",1,1741821129.0,LifeAdvice,2,1.0,False
+1j9xpl5,https://i.redd.it/6wgdnb3gccoe1.jpeg,120996,,1,1741821115.0,CountOnceADay,0,1.0,False
+1j9xpkk,https://www.reddit.com/gallery/1j9xpkk,Sparkling water choices on Alaska and United Airlines,"I recently flew on both United and Alaska and Alaska has both Original and Cranberry Lime Polar sparkling water while United has Seagrams Seltzer and AHA Pineapple + Passionfruit and Blueberry + Pomegranate listed for their sparkling water choices. I never got around to asking for an AHA on my United flight as it was a morning flight and I usually get coffee and juice on morning flights but was wondering how United still has AHA. I believe AHA was discontinued by Coca Cola so I was wondering if United has a huge stash of AHA, Coca Cola still makes AHA for United, or if United forgot to update their in flight menus that seemed pretty current? I didn’t order an AHA on my United flight so I may never know. ",21,1741821113.0,sparklingwater,6,1.0,False
+1j9xpdh,https://www.reddit.com/r/Xcaret/comments/1j9xpdh/more_first_timer_questions/,More First Timer Questions,"Leaving in ten days and more questions that I'm hoping you all can answer:
+
+1. Is there drink service (alcohol) or a bar at Mercado? Do servers bring drinks to your table or do you fetch them along with your food? Does Mercado also have a coffee bar or a is there a place at the resort to get specialty coffee drinks?
+
+2. I've seen people talking about being provided reusable tumblers at Arte. Do they also do this at Mexico or should we bring our own?
+
+3. Has anyone who booked a garden suite/base level room NOT been offered a room upgrade (for a price) at check in? Wondering if they don't/can't offer upgrades during high occupancy times. This feels like a stupid question, and I may be overthinking this. I'm asking anyway because I know sometimes there are weird formulas/strategies hotels employ as it relates to % of types of rooms booked, etc that allow them increase revenue through always offering upgrades. 
+
+4. King bed vs two queen bed suites. I know the hotel can't guarantee one or the other, and I'm super nervous about this. Our two kids (aged 10 and 15) are in the room with us. I've read about people having their younger kids sleep on the sofa bed, but has anyone had two older kids on the sofa bed together? Were they completely miserable? Anything we can bring or do to make it more comfortable should we get stuck with a one king suite?
+
+5. Clothes question - how dressed up do you have to be for dinners at Cuevas and Xin Gao? Obviously we can't go in swimwear, are shorts and a nice shirt acceptable? Or should we pack pants/dresses?
+
+I feel like there is still soooo much I don't know. We are pretty faithful resort guests and once we find a place we like in an area, we keep going back. It's been a while since we've tried somewhere new so this is making me a little anxious! I'm excited but overwhelmed as I like to be able to anticipate everything!  
+",3,1741821100.0,Xcaret,3,1.0,False
+1j9xp6u,https://i.redd.it/q3ylnb1dccoe1.jpeg,Cervical Pillows,Has anyone bought one of these and seen an improvement? I can no longer sleep on my side without aggravating my shoulders and ribs. Trying to learn to sleep on my back however without neck support now my neck is hurting. These sound like they will help but there aren’t too many reputable reviews.,1,1741821089.0,ankylosingspondylitis,6,1.0,False
+1j9xp3u,https://www.reddit.com/gallery/1j9xp3u,"My first order from S&W, and my first co-ferment and Ultralight coffees","Decided to try a few different beans to try some variation, including what I'm assuming is an ultralight a PNG Natural, my first, and their lightest ever, and co-ferments.  Anything I need to do to get the best from the Colombian Lychee co-ferment and the Colombian Green Apple Honey process with yeast?  Low or high water temp, low or high agitation etc?  Or just treat like any other brew?",13,1741821084.0,pourover,3,0.85,False
+1j9xos3,https://www.reddit.com/r/HawkinsAVclub/comments/1j9xos3/new_to_hawkinsavclub_read_this_first/,🚨  New to HawkinsAVClub? Read This First!,"# HawkinsAVClub has switched back to a restricted subreddit in anticipation of the final season.
+
+This means that while anyone can comment on posts (unless locked by mods), only approved members can create posts. This helps us keep discussions high-quality and free from spam, trolls, and low-effort content.
+
+# How Do I Become Approved to Post?
+
+First things first, to be approved, you must:  
+✅ Have a history of posting in this subreddit or related communities (Stranger Things, TV/media or other fandom subs, etc.)  
+✅ Have a **positive karma score** (new accounts won’t be approved until they’ve built up karma)  
+✅ Show a history of good-faith participation on Reddit (yes, we do check your post history!)
+
+If your account is **brand new** or mostly inactive, we recommend engaging in discussions first. Commenting and participating will help build karma and demonstrate that you’re here for genuine fandom discussion.
+
+# Get Approved to Post (Step-by-Step)
+
+**1. Make sure you meet the qualifications above \^\^:**
+
+* You have **positive karma** (not negative or zero).
+* You have a **history of posting in related subs** (Stranger Things, TV/media fandom, etc.).
+* Your account has a record of **good-faith participation** (no trolling, rule-breaking, or excessive low-effort posts).
+
+**2. Engage with the community first.**
+
+* If you're new or haven’t posted here before, start by **commenting** on existing posts. This helps build karma and shows you're here for real discussion.
+
+**3. Request approval by messaging the mods.**
+
+* Once you’ve met the qualifications, send a **modmail request** (NOT a chat or DM).
+* Go to the subreddit’s homepage, click **""Message the Mods"" or send a request approval by clicking the create new post link**, and include:
+   * A short intro (e.g., “Hi, I’d like to be approved to post!”)
+   * A brief mention of your activity in this or related subs.
+   * Anything else relevant (like if you’ve been approved before but lost posting access).
+
+**4. Be patient!**
+
+* We review requests manually, so approval isn’t instant. If you meet the criteria, we’ll get to you as soon as possible!
+* If you’re denied, don't take it personally! Keep engaging in discussions and try again later.
+
+# What We Like to See in This Sub:
+
+🔥Thoughtful discussion and analysis of Stranger Things  
+🔥 Well-sourced news and updates  
+🔥 Fun fandom content (fan theories, creative edits, respectful speculation)  
+🔥 Related discussions that align with our community’s interests (ie. articles about the actors where they have mentioned Stranger Things, Duffer Bros. new projects, analysis of movies/songs/tv that inspired ST)
+
+# What We Don’t Want:
+
+🚫 Low-effort or spammy posts  
+🚫 Personal attacks, trolling, or off-topic/fandom drama  
+🚫 Clickbait or misinformation  
+🚫 Reposts of content already circulating widely, unless there’s something new to add
+
+Before posting, ask yourself: **Will this post add to the overall meaningful discussion in the subreddit?** If the answer is no, consider commenting instead! We have a general discussion Free Chat post every Saturday at 9am PST called ""Weekend Coffee & Contemplation"" where you can post pretty much whatever you like as long as it doesn't break our rules.
+
+# Where to Find the Rules:
+
+**⭐️ On Desktop:** Rules are listed in the sidebar on the right.  
+**⭐️ On Mobile (Reddit App):** Tap the subreddit name at the top, then tap ""About"" to find the rules.
+
+Familiarizing yourself with the rules helps keep this space fun and engaging for everyone.
+
+The comments will stay open below for a short time for any suggestions or questions you might have :) We will also pin this post in the next 48 hours.
+
+# Thanks for being here Nerds, and happy posting!",12,1741821061.0,HawkinsAVclub,0,1.0,False
+1j9xnd5,https://i.redd.it/ll3txh0ybcoe1.jpeg,So is Wine and Cacti a thing ?,Coffee and cacti are definitely a regular habit but since I’m off today I decided to do a little day drinking !  Anyone else switch things up when admiring the prickly garden? ,1,1741820952.0,sanpedrocactus,1,0.57,False
+1j9xmpg,https://www.reddit.com/r/covidlonghaulers/comments/1j9xmpg/no_strength_and_aged_hands/,No strength and aged hands,"I’ve been going to doctors trying to figure out if I have LC. To me it is undeniable. I got Covid for the first time last January. My wife broke protocol and brought it home. My infection was mild but it has had lasting effects. 
+
+Originally my digestive system was the first to show LC symptoms. I got it under control with pro/prebiotics. I also had to stop consuming rice and coffee. I’ve only recently started to reintroduce caffeine in my diet. 
+
+Simultaneously I started developing sleep problems. I could only sleep for maybe for hours per night if I was lucky. This went on for the better part of a year, not even max dose melatonin helped. I started taking magnesium and it seemed to have gotten things back to a more typical sleep pattern. While this was happening I was experiencing extreme tiredness all day long. I could barely keep my eyes open. Prior to the sleep issues I would wake at 4 am daily no issue. I had enough energy for the day and then some. The doctor discovered that my ALT numbers were very high. I developed fatty liver and my spleen is also enlarged. 
+
+Currently, I am very weak. I was stronger and had more energy than my peers. Now I  get tired easily and need many breaks during my job. When I look at my hands after much effort and physical exertion they look very old and wrinkled than they would at rest. I recently got my testosterone checked and they told me it was low. I have a follow up appointment tomorrow. 
+
+On top of it all my memory is burnt, especially short-term memory. I find myself asking my wife the same questions over and over again frequently. I have to make repeat runs to the store because I keep forgetting the main thing I went to the store for. It kinda feels like early Alzheimer’s at times. 
+
+I needed to vent. It’s been a while since I’ve participated on this sub which has helped me a ton over the last year. I feel like I’ve added 20 years onto my life after the infection. I’m am currently fixing up my home and expect my first child soon. I’m trying anything and everything to get my former energetic, strong body and mind back so I can age gracefully.",10,1741820904.0,covidlonghaulers,5,0.92,False
+1j9xmmh,https://www.reddit.com/r/anime/comments/1j9xmmh/need_help_finding_an_anime/,Need help finding an Anime,"Not sure if this is the right place for this, but recently I've been looking for an anime I watched a while ago. I watched it on YouTube somewhere around 2014, sometime before anime episodes got wiped out from YT. 
+
+From what I remember, the anime was some sort of magic-related anime. It seemed to have dark themes, and there are really only a couple scenes I remember from more than a decade ago. I can really only remember two episodes in specific, and I can't really make out any character appearances from my memories.
+
+I'll try to list them chronologically, though I don't know when each of these take place.
+
+EP 1?: The protagonist moves to a new town (I'm not that sure about this,) and becomes interested in a mansion on a hill. He walks up a windy road that leads up the hill the find the mansion. I don't remember his motives behind going to the mansion, but one way or another it led to him being inside and having tea... or maybe coffee with the person living inside. It was a woman, not sure about any of her details though. At the end of the episode, demon dogs or something attack the mansion, and the protagonist is sucked into a world (metaphorically, this isn't an isekai) of magic.
+
+EP 4\~8?: I don't exactly know what episode it could be, it could be one earlier or one later. And I genuinely only remember one thing about it. It was an episode where the protagonist and the cast are on some sort of railroad tracks. This is the vaguest memory I have of it, but I figured it would help regardless. 
+
+I don't remember how many characters are in the main cast, nor do I remember any of the genres other than the Supernatural and magic aspects of it. I think there was magic circles too, but other than that, I don't remember anything. If anyone knows what I'm talking about, I'd be really grateful as it's been eating away at me.",0,1741820898.0,anime,2,0.4,False
+1j9xmhu,https://www.reddit.com/r/pourover/comments/1j9xmhu/wfh_carafe/,WFH Carafe?,"I’ll just start out by saying I completely acknowledge that this is a ridiculously unnecessary request that’ll probably get me on one of the circle jerk subs. But this is why I love this sub so here we go. I’ve started working from home full time recently, but it’s not a job that allows me to pop back into the kitchen whenever I want to fill up my cup. I have an origami sensory cup that I really enjoy drinking out of, so I don’t really want to buy a travel mug to drink out of at my desk. I’m looking for a ceramic or glass carafe, or tumblr, that can keep my coffee hot and tasting good, that will allow me to easily pour from into my origami cup. I have the standard hario carafe right now but it doesn’t really keep the heat well enough. I’ve been considering getting the fellow carter since I like the idea of also having it for times I do need to bring coffee with me, and the fact that I’ll be able to clean it right after finishing with it, but can’t find any reference to people talking about pouring from it, and I know pouring from certain lip’d edges can be tricky. Does anyone have any recommendations, or can they tell me how the Carter would be for pouring? Would ideally like it to be glass or ceramic and ideally one I could also bring with me when necessary. Again I know this is way over the top, but whatever.",0,1741820891.0,pourover,6,0.5,False
+1j9xlo7,https://www.reddit.com/r/orangecounty/comments/1j9xlo7/coffee_with_parents/,COFFEE with PARENTS,"Our next meeting will be on Tuesday evening 3/18 at 7-8:30 pm at Lake Forest II, 24752 Toledo Way in Lake Forest. We will be upstairs in the adult lounge. Please come join us and celebrate the life of your loved ones. ",8,1741820833.0,orangecounty,0,0.79,False
+1j9xkkw,https://www.reddit.com/r/Market76/comments/1j9xkkw/h_brahmin_buffoon_raven_winter_man_w_coffee/,"H: Brahmin, Buffoon, Raven, Winter Man W: Coffee",I need some bulk coffee ☕ ,1,1741820754.0,Market76,7,1.0,False
+1j9xk73,https://www.reddit.com/r/askvan/comments/1j9xk73/where_can_i_get_coffee_jelly/,Where can I get coffee jelly?,"Anyone know where I can go for coffee jelly milk teal or iced coffee?
+
+I used to get coffee jelly coffee milk tea at Chattime.. But a while back they stopped doing coffee jelly and changed the drink up.
+
+Thanks! :) ",1,1741820726.0,askvan,1,1.0,False
+1j9xk2u,https://www.reddit.com/r/nova/comments/1j9xk2u/does_anyome_have_friemds_or_family_who_work_for_a/,Does anyome have friemds or family who work for a police force in DC or surrounding areas?,"I was daydreaming about how great it would be if people quietly took their loved ones aside and gently suggested that they consider their core values, and whether their jobs are asking them to betray their own moral compass. Obviously do what you want...but if I had a single friend on the force right now I'd be taking them out for coffee and a heart-to-heart.",0,1741820718.0,nova,15,0.23,False
+1j9xk0k,https://www.reddit.com/r/BellevueWA/comments/1j9xk0k/finally_in_bellevue/,Finally in Bellevue !,"So I’m visiting for two nights Single M mid 20’s
+Seems like it’s a gorgeous city with many things to do, I just want a chill a bit lovely vibe, coffee drinker, pool player and also wouldn’t mind going to a place with nice views.
+
+
+Help me out !! No car staying in downtown",2,1741820714.0,BellevueWA,6,0.75,False
+1j9xizm,https://www.reddit.com/r/UnsentLetters/comments/1j9xizm/come_back_be_here/,"Come back, be here","I’m unsure of how our mornings of tousled hair and coffee turned into me jumping for my phone first thing when I wake up hoping to see your name across the screen with the words “I love you, I’m sorry”. 
+
+You planted wildflowers in the darkest parts of my soul and left me to supply the sunshine and water. There’s no sunshine without you. No water, just my tearful eyes replaying every memory we ever made and the plans we had made for our future together. 
+
+You say this is for the better, but the better part of me was always you. 
+",10,1741820638.0,UnsentLetters,1,0.92,False
+1j9xiun,https://www.reddit.com/r/LawBitchesWithTaste/comments/1j9xiun/casual_jackets_that_are_wearable_in_the_office/,Casual jackets that are wearable in the office,"Hi LBWT, 
+
+The weather is warming up and I wanted to treat myself to a new jacket. I can get away with the casual end of business casual at my firm, and I already have enough suits, so I wanted to get one that I could also wear out and about. I am currently looking at the [Aritzia Little Cropped](https://www.aritzia.com/us/en/product/little-cropped-jacket/121461009.html) and the [Sezane Marion](https://www.sezane.com/us/product/marion-jacket/coffee), but I wanted to get some more inspo before I make a decision!
+
+So: what casual jackets are you ladies wearing to the office when you don't need to/want to wear a blazer or a tweed jacket?",2,1741820628.0,LawBitchesWithTaste,1,1.0,False
+1j9xikz,https://www.reddit.com/r/NintendoDS/comments/1j9xikz/good_coffee_great_coffee_or_pizza_as_a_3ds_game/,good coffee great coffee (or pizza) as a 3ds game would be so fun!,It’s literally the perfect game. What other games would be fun?,1,1741820608.0,NintendoDS,0,1.0,False
+1j9xi84,https://www.reddit.com/r/NoStupidQuestions/comments/1j9xi84/coffee_helps_anxietystress/,Coffee helps anxiety/stress?,"I don't drink coffee often but I've noticed that during the times I'm having ""a day"" ""a week"", the life is testing me type moments I go to coffee specifically and I usually feel better.
+
+Does coffee help calm you down when stressed? ",3,1741820581.0,NoStupidQuestions,8,0.81,False
+1j9xhvp,https://www.reddit.com/r/theholotaco/comments/1j9xhvp/polish_quality_changed/,Polish quality changed?,"I have been using holo taco and only holo taco since its release. My nails have been great, really healthy, but ever since she’s been releasing new polishes and cremes this year, my nails have become complete trash. The top layer of nail keeps coming off and the polish doesn’t last even with long lasting base coat. My nails are all ruined and I don’t know what changed but I am wondering if it’s the formulas of recent launches? When I use old polishes like the coffee crushed holos or the rainbow linear holos from several years ago, everything is great and holds up much better, but these newer polishes (David’s tea, cottage core for example) have really ruined my nail beds. I don’t know what to do except stop using nail polish until my nails can completely grow out and restrengthen. I’m pretty upset because I hate stubby nails and unpolished nails, but idk what else to do. Has anyone else had this issue??? ",7,1741820557.0,theholotaco,4,1.0,False
+1j9xhn0,https://www.reddit.com/r/espresso/comments/1j9xhn0/grind_retention_2_grinders_vs_single_dose_800/,Grind retention: 2 grinders vs single dose [$800],"So as the title suggests, let's talk about grind retention. It has become a pretty major issue for me over the past couple weeks introducing issues I've never had to deal with.
+
+ Picked up a clever dripper the other week so that I could make cleaner, lighter coffees to add a little more variety every now and again. Eventually I may also take the clever dripper into work because the autotamping gaggia there is uuh not superb but functional enough. Anyway I digress....
+
+My current grinder is a Breville smart grinder. For what I payed for it. It allows me to get pretty good espresso. That's what I drink mostly anyway. That is unless you also want multiple grind sizes. Even 3, 4 shots after returning to where it had been set and what should be a reasonable espresso grind; consistency is down. The way I see it. I have two options. 
+
+Timmore c3 for immersion and keep my bes for espresso. Adds portability
+
+Second hand Niche off marketplace (there is one at the moment. Guy moved interstate) and get rid of my bes to allow for low retention grinding so I can switch between grind sizes and still get consistent results for my espresso. Thoughts?",1,1741820539.0,espresso,2,0.67,False
+1j9xhmj,https://i.redd.it/hahah0jqacoe1.jpeg,Lf Captured,,1,1741820538.0,Monopoly_GO,1,1.0,False
+1j9xgkv,https://www.reddit.com/r/NonZeroDay/comments/1j9xgkv/days_190_191_192/,"Days 190, 191, 192","Mon-Wed
+
+• on time at work/early rise on the weekend: yes x3!!! 💪🏼
+
+• free overtime count (start from 14.11, goal as little as possible, to keep myself from staying too long st work): 3hrs
+
+• reading: onyx storm, witch,  dark matter 
+
+• intermittent fasting (eating hours): 8:00-17:00 but on Tuesday and today had a coffee later 
+
+• food prep for tomorrow: no, yes, yes
+
+• exercise: Saturday: no
+
+•12k steps: yes 13,658; 13,465 and 12,30t
+
+• water: ~1l should still improve 
+
+• ✨️writing: yes, journaling x3 and attic notebook on Monday 
+
+• podcasts: becoming witchy, the witch wave
+
+• shower and change as soon as I get back home: yes x3
+
+• skin care: yes x2
+
+• sth productive: no
+
+• did I go to bed at 10pm yesterday: no x3
+
+Overall: finally not late for work! And writing- even journal seems enough for now to build the habit again.",1,1741820466.0,NonZeroDay,0,1.0,False
+1j9xgb5,https://www.reddit.com/gallery/1j9xgb5,Coffee Crisp,"So there is a twitter hashtag about sweets : #スイーツの日らしいので甘い物と絡めたうちのこを貼る
+
+…I was a little trigger happy about taking photos of my poster girl and my favorite chocolate bar…",18,1741820448.0,MegamiDevice,1,1.0,False
+1j9xfvj,https://www.reddit.com/r/bartenders/comments/1j9xfvj/preferencesstandards_for_espresso_martini/,preferences/standards for espresso martini ingredients,"hello! i am a coffee industry professional (microroaster with cafe+wholesale) looking to pitch a small batch coffee reduction to bars/bartenders in my area. i’m purely looking for insight from industry professionals, not selling to y’all (unless you’re buying! lol)
+
+a little about the product:
+
+we have an extremely high quality of bean and cold brew, both of which we already wholesale. we are trying to expand our wholesale to include a reduction made from a house blend for our bar/restaurant partners to use in their espresso martinis. 
+
+our current approach:
+hand deliver “packages” to bars with a small bottle of our reduction, our pricing info, a little about our company, and a suggested recipe for espresso martinis (that includes our reduction.)
+
+I would love any insight you think may be helpful!
+
+
+
+",0,1741820420.0,bartenders,0,0.5,False
+1j9xfif,https://www.reddit.com/r/CVS/comments/1j9xfif/cvs_pharmacy_customers_heres_why_im_gonna_keep/,"CVS Pharmacy customers: here's why Im gonna keep makimg you wait at pick up when you walk up to the ""register"" (floater pharmacist)","Hey CVS pharmacy customer:
+
+Alot of times I'll go to pickup to help my person at Pickup and I don't like how you pop up without being called. Im not an automatic atm machine that you just walk right up to as soon as the person in front of you walks off. Yes im helping pickup but that does not obligate me to stand there while people pop up in front of my face one after the other. I have to ""multitask"" and go back to the computer because when I have 23 QVs that are about to go ""past due"" within the next 6 minutes, and someone asks ""what is my priority? The person in front of me or the ques....Guess which one I would choose?....yep youre gonna  stand there for 3 minutes until you get called just like you happily do at starbucks. And if you really piss me off I'll just stop helping pickup altogether and just go to the back again. You'll have the same patience with me that you have at the supermarket, coffee place etc....why tf are so demanding when it comes to pharmacy staff? But youre so patient in other settings.......
+
+",3,1741820396.0,CVS,7,0.6,False
+1j9xd2p,https://ulverston.com/event/urg-coffee-morning/,URG Coffee Morning - 15 March @ 9:30 am - 11:30 am,,1,1741820216.0,WholesomeCumbria,0,1.0,False
+1j9xcra,https://www.youtube.com/watch?v=JiYbaCbZAOU,"""Let's Chat about Polygamy."", Notes to Self 444, 12 Mar 2025 [2:28:49] ""Cory & Melanie were born & raised in the polygamist group Apostolic United Brethern. Let's chat about sister wives, polygamy, cults the abuses that occur. Buy Me A Coffee @ buymeacoffee.com/Notestoself444 Follow us on our soci…""",,1,1741820191.0,cultpodcasts,0,1.0,False
+1j9xco9,https://i.redd.it/zx9rm8po9coe1.jpeg,Soft launching NYC again?,A,8,1741820185.0,innasyamackenzie,5,1.0,False
+1j9xby2,https://i.redd.it/ksyf6tyi9coe1.jpeg,With Great Coffee Comes Coffee Responsibility,,14,1741820132.0,GoodCoffeeGreatCoffee,2,1.0,False
+1j9xbh1,https://www.reddit.com/r/askTO/comments/1j9xbh1/ideas_for_a_day_trip/,Ideas for a day trip?,"My wife has been feeling cooped up at home lately so I got a sitter for this Sunday and I’m going to surprise her with a trip to Toronto (we’re from Peterborough)
+
+We were there about 2 weeks ago, taking the kids to the aquarium and she said she’d love to explore a bit more.
+
+We’re taking the train from Oshawa and so far our trip is going to be hockey hall of fame -> st Lawrence market -> eaton centre.
+
+I want to do the CN tower but shes terrified of heights 
+
+Any suggestions for things to do, nice coffee shops or bars in that area would be greatly appreciated 
+
+",6,1741820099.0,askTO,8,0.88,False
+1j9xbdj,https://i.redd.it/gkobq1pe9coe1.jpeg,Shop Local,,1,1741820091.0,VictorValley,0,1.0,False
+1j9xaly,https://www.reddit.com/r/Market76/comments/1j9xaly/h1000_canned_coffee_w_offers/,H:1000 canned coffee w: offers,,2,1741820038.0,Market76,1,1.0,False
+1j9xafd,https://i.redd.it/5eem8lo79coe1.jpeg,RAMBLIN JOES,This coffee shop at Poplar & Perkins has been sighted for not renewing their food service license for at least 4-5 months past due. This sign was given to them on March 11th to hang on the door. The owner will not put the sign up and has been running this shop illegally for a while now.  They also had a toilet back up into the barista area & cafe & never closed or ask customers to vacate. Then attempted to make the young employees clean it up without biohazard training or knowledge. Someone will get sick soon. YALL QUIT GIVING THiIS GUY YOUR MONEY. ,36,1741820025.0,memphis,19,0.92,False
+1j9xacm,https://www.reddit.com/r/tea/comments/1j9xacm/gongfu_set_for_pu_erh/,Gongfu set for Pu Erh...,"Life long coffee lover here, but I recently tried pu Erh tea for the first time and I found both the taste and the process of making it to be very enjoyable so I bought some nuggets for myself. 
+I've been trying to find a tea set to begin with, but all in finding is $35 sets travel sets that didn't inspire me with a lot of confidence in their quality and stuff that's like $250++
+Does anyone have recommendations for a set in the 50-$125 ish price range? I'm feeling both overwhelmed and underwhelmed ",1,1741820021.0,tea,3,1.0,False
+1j9xaaw,https://www.reddit.com/r/fukuoka/comments/1j9xaaw/itinerary_check_fukuoka_kumamoto_kagoshima_in_9/,"Itinerary Check - Fukuoka, Kumamoto, Kagoshima in 9 days","Hi all, will be visiting as a couple in mid-May and wanted to get some thoughts on our itinerary. We're generally the more of the chill type of people when it comes to how dense we want our itinerary's to be, and it will be our first time visiting the Kyushu region.
+
+**Day 1** (Arrive in Fukuoka in the morning)
+
+* Plan is to just check-in and give ourselves time to settle in and explore near Tenjin & Hakata
+* Tochoji Temple, Ohori Park, Fukuoka Castle Ruins, Tenjin Underground
+
+**Day 2**
+
+* Dazaifu Area (Tenmangu, Tenkai Inari Shrine, Remains of Govt Office, Kyushu Museum)
+* Late-ish dinner back at Fukuoka. Probably Shin Shin or Issou plus a Gyoza place after.
+
+**Day 3**
+
+* Yanagawa River Cruise + Unagi Lunch @ Ganso Motoyoshiya
+* Back to Fukuoka, teamLab Forest, Fukuoka Tower
+
+**Day 4**
+
+* Uminonakamichi Seaside Park
+* Lunch at Fukuoka before train to Kumamoto
+* Settle down in Kumamoto, Kumamon Square, explore Sakura-no-Baba Josaien
+
+**Day 5**
+
+* Kumamoto Castle
+* Suizenji Jojuen Garden
+
+**Day 6**
+
+* Mount Aso (would like to know how feasible this is without a car? Saw that there are buses that stop at the train station, but experience-wise, is it more of a hassle?)
+
+**Day 7**
+
+* Train to Kagoshima, check-in and settle down
+* Shiroyama Park Observation Deck, Kotsuki River, Meiji Restoration Museum
+* Hotel Onsen after dinner (for those who've stayed at Shiroyama Hotel before, will this be too dark to enjoy the Sakurajima view?)
+
+**Day 8**
+
+* Sakurajima Day Trip
+
+**Day 9**
+
+* Sengan-en Area, lunch at Kagoshima before train
+* Back to Fukuoka, check-in, dinner, flexible slot for last evening before leaving
+
+**Day 10** (Morning Flight, so pretty much just going to the airport after checkout)
+
+Would like to know if the above itinerary looks doable, and how does it look like in terms of pacing? Will we have some time to venture off the main path from time to time as we run into stuff that intrigues us? Also, if anyone happens to have local coffee recommendations, that would be awesome.
+
+Food-wise, here's a rough list of main foods we plan to go after, anything we're missing out on? Will probably only figure this out in more concrete detail once the above itinerary is more or less finalized.
+
+* Fukuoka: Hakata Ramen, Gyoza, Mizutaki, Motsunabe, Goma Saba, Udon
+* Kumamoto: Horse, Kumamoto Ramen, Aka Beef
+* Kagoshima: Kurobuta Tonkatsu, Sweet Potatoes, Kagoshima Ramen",0,1741820017.0,fukuoka,2,0.44,False
