@@ -1,0 +1,1669 @@
+id,url,title,text,score,created_utc,subreddit,num_comments,upvote_ratio,over_18
+1jy2qam,https://v.redd.it/hr4san7y7kue1,I think I’m in love with this,Bought a 2 cup moka pot and this is the best coffee I’ve made so far,2,1744531566.0,IndiaCoffee,0,1.0,False
+1jy2ovd,https://www.reddit.com/r/Market76/comments/1jy2ovd/h15k_canned_coffee_woffers/,H:1.5k canned coffee W:offers,,1,1744531395.0,Market76,1,1.0,False
+1jy2ohq,https://www.reddit.com/r/uBlockOrigin/comments/1jy2ohq/help_with_improving_my_filters/,Help with improving my filters,"Hello everyone, I think I finally managed to get the perfect filter combination for me ! 
+
+The problem is that it is a combination of every reddit post I have seen and I just duplicated it and duplicated. I was wondering if someone could help me make it more efficient please.
+
+This is my current filters:  
+www.youtube.com##:is(ytd-browse\[page-subtype=""home""\] ytd-rich-item-renderer, #related ytd-compact-video-renderer):has(#video-title-link:is(\[title\*=""2023""\], \[title\*=""2024""\], \[title\*=""Nomad""\], \[title\*=""frugal""\], \[title\*=""Frugal""\], \[title\*=""Money""\], \[title\*=""Android""\], \[title\*=""Survival""\], \[title\*=""money""\]))
+
+
+
+www.youtube.com##:is(ytd-browse\[page-subtype=""home""\] ytd-rich-item-renderer, #related ytd-compact-video-renderer):has(#video-title-link:is(\[title\*=""2023""\], \[title\*=""SURVIVAL""\], \[title\*=""Finances""\], \[title\*=""Hollywood""\], \[title\*=""survival""\], \[title\*=""Travel""\]))
+
+
+
+www.youtube.com##:is(ytd-browse\[page-subtype=""home""\] ytd-rich-item-renderer, #related ytd-compact-video-renderer):has(#video-title-link:is(\[title\*=""Knives""\], \[title\*=""Navaja""\], \[title\*=""Flashlight""\], \[title\*=""Journal""\], \[title\*=""DIY""\], \[title\*=""Notebook""\]))
+
+
+
+www.youtube.com##:is(ytd-browse\[page-subtype=""home""\] ytd-rich-item-renderer, #related ytd-compact-video-renderer):has(#video-title-link:is(\[title\*=""SEAL""\], \[title\*=""Ranger""\], \[title\*=""Army""\], \[title\*=""Reloj""\], \[title\*=""Montre""\], \[title\*=""Watches""\]))
+
+
+
+www.youtube.com##:is(ytd-browse\[page-subtype=""home""\] ytd-rich-item-renderer, #related ytd-compact-video-renderer):has(#video-title-link:is(\[title\*=""Supervivencia""\], \[title\*=""supervivencia""\], \[title\*=""reloj""\], \[title\*=""SUPERVIVENCIA""\], \[title\*=""Calamar""\], \[title\*=""CALAMAR""\]))
+
+
+
+www.youtube.com##:is(ytd-browse\[page-subtype=""home""\] ytd-rich-item-renderer, #related ytd-compact-video-renderer):has(#video-title-link:is(\[title\*=""Habits""\], \[title\*=""Hábitos""\], \[title\*=""ahorro""\], \[title\*=""ahorrar""\], \[title\*=""CIA""\], \[title\*=""Coffee""\]))
+
+
+
+www.youtube.com##:is(ytd-browse\[page-subtype=""home""\] ytd-rich-item-renderer, #related ytd-compact-video-renderer):has(#video-title-link:is(\[title\*=""Camera""\], \[title\*=""Latte""\], \[title\*=""ahorro""\], \[title\*=""ahorrar""\], \[title\*=""Criqueza""\], \[title\*=""Luxurious""\]))
+
+
+
+www.youtube.com##:is(ytd-browse\[page-subtype=""home""\] ytd-rich-item-renderer, #related ytd-compact-video-renderer):has(#video-title-link:is(\[title\*=""Movies""\], \[title\*=""Kitchen""\], \[title\*=""kitchen""\], \[title\*=""cocina""\], \[title\*=""CHaul""\], \[title\*=""Musk""\]))
+
+
+
+www.youtube.com##:is(ytd-browse\[page-subtype=""home""\] ytd-rich-item-renderer, #related ytd-compact-video-renderer):has(#video-title-link:is(\[title\*=""Cameras""\], \[title\*=""Content""\], \[title\*=""Creator""\], \[title\*=""Camara""\], \[title\*=""estudiante""\], \[title\*=""fat""\]))
+
+
+
+www.youtube.com##:is(ytd-browse\[page-subtype=""home""\] ytd-rich-item-renderer, #related ytd-compact-video-renderer):has(#video-title-link:is(\[title\*=""souvenirs""\], \[title\*=""coffee""\], \[title\*=""luxury""\], \[title\*=""trip""\], \[title\*=""ipod""\], \[title\*=""phone""\]))
+
+
+
+www.youtube.com##:is(ytd-browse\[page-subtype=""home""\] ytd-rich-item-renderer, #related ytd-compact-video-renderer):has(#video-title-link:is(\[title\*=""car""\], \[title\*=""japan""\], \[title\*=""Car""\], \[title\*=""Fat""\], \[title\*=""Japan""\], \[title\*=""Japón""\]))
+
+
+
+www.youtube.com##:is(ytd-browse\[page-subtype=""home""\] ytd-rich-item-renderer, #related ytd-compact-video-renderer):has(#video-title-link:is(\[title\*=""lofi""\], \[title\*=""radio""\], \[title\*=""mix""\], \[title\*=""Adobe""\], \[title\*=""Lo-fi""\], \[title\*=""japonesa""\]))
+
+
+
+www.youtube.com##:is(ytd-browse\[page-subtype=""home""\] ytd-rich-item-renderer, #related ytd-compact-video-renderer):has(#video-title-link:is(\[title\*=""dinero""\], \[title\*=""money""\], \[title\*=""fotografía""\], \[title\*=""Japonés""\], \[title\*=""Lo-fi""\], \[title\*=""japonesa""\]))
+
+
+
+! Jul 13, 2024 [https://www.youtube.com](https://www.youtube.com)
+
+[www.youtube.com###foreground-content](http://www.youtube.com###foreground-content)
+
+
+
+! YT Home - Remove all playlists
+
+www.youtube.com##ytd-rich-item-renderer:has(ytd-playlist-thumbnail:not(\[hidden\]))
+
+[www.youtube.com##ytd-rich-item-renderer:has(.yt-collection-thumbnail-view-model--has-stacks)](http://www.youtube.com##ytd-rich-item-renderer:has(.yt-collection-thumbnail-view-model--has-stacks)) 
+
+
+
+youtube.com##ytd-rich-grid-row:style(--ytd-rich-grid-items-per-row: 1 !important;)
+
+youtube.com##ytd-rich-grid-row>#contents, ytd-rich-grid-row ytd-rich-grid-media:style(max-width: unset !important;)
+
+  
+Thank you very much     ",1,1744531350.0,uBlockOrigin,0,1.0,False
+1jy2o5f,https://www.reddit.com/r/Nurnberg/comments/1jy2o5f/do_you_know_any_suggestions_or_websites_for/,Do you know any suggestions or websites for non-German speakers near Nuremberg?,"I live near Frankfurt at the moment and I try to find a job in Nuremberg or in the near areas. Unfortunately, I don’t speak German yet. I have some very basic knowledge and I will start soon to learn. Right now, I’m working in a coffee shop near Frankfurt and it is really bad and the payment, but I want to move to Nuremberg, bc I’ll live with my bf and I want to find anything. I have experience with hospitality, and I graduated from journalism and graphic design, which I have 5y of experience. I want to find anything, idc, so to have the time to study web development and start my German lessons soon. Any suggestions or if you know sth will be highly appreciated.",1,1744531307.0,Nurnberg,0,1.0,False
+1jy2nt2,https://www.reddit.com/r/AITAH/comments/1jy2nt2/i_fell_for_someone_else_while_in_a_relationship/,"I fell for someone else while in a relationship, and the guilt is eating me alive","I’m not sure how to begin—everything in my life feels like a complete mess, and I can’t even lie to myself about who started it. It was me.
+
+A few years ago, I was in a serious relationship with someone I met early in college. He was a senior, and eventually, our families got involved. We exchanged meaningful gifts, stayed at each other’s homes, and made plans for the future. I was genuinely happy.
+
+But things slowly started falling apart—mainly because of tension between me and someone in his family. A huge fight broke out, and even though I know deep down it wasn’t my fault, he didn’t stand up for me. He just stayed quiet. That hurt me deeply. I suggested we break up, but it didn’t actually happen—we lived nearby, and somehow we just continued, even though I had already started emotionally pulling away.
+
+Later, I moved to a different college for further studies and became friends with someone from my class. At first, it was innocent—coffee at the canteen, sitting together during lectures, lunch breaks. We got close fast. We even joked about being each other’s “side person.”
+
+Eventually, he asked for a platonic hug. I gave it, but it didn’t feel so platonic. At the time, we were just friends—he had a girlfriend, and I was still technically with my boyfriend.
+
+One day, I needed to buy a blanket and asked my partner to come with me. He didn’t want to—told me to order it online or go with someone else. I explained why I wanted to go in person, but he kept pushing the idea away. So I went with my friend. He joked about it being a “date,” and I said no—just friends.
+
+But on the way back, he touched my hand, then my thigh. I didn’t stop him. It felt… comforting. Safe, even. But later that night, I told him we shouldn’t meet again—what we were doing wasn’t right. And we didn’t, for about a week.
+
+Then we bumped into each other again. Things escalated—we kissed. And after that, we ended up sleeping together a few times. I hated myself for it, but I also realized… I loved him.
+
+I tried ending things with my boyfriend. He didn’t take it well. He knows a bit—about the hug and the kiss—but not everything. Still, he was willing to forgive me.
+
+But my heart was no longer with him. It was with the other guy.
+
+The one I fell for said he was planning to leave his girlfriend anyway, that their relationship had already been rocky before we even got close. He said I wasn’t to blame.
+
+But I still feel like I am.
+
+Even if it was “going to happen” anyway, I was still part of the cheating. I feel like I became the “other woman,” and it’s tearing me up. I regret how it all happened. But I love him. I wanted a life with him. I still do.
+
+But I don’t know if I can carry this guilt forever.
+",1,1744531270.0,AITAH,4,0.66,False
+1jy2nij,https://www.reddit.com/r/Bacolod/comments/1jy2nij/where_to_grind_coffee_beans/,Where to Grind Coffee Beans,I have coffee beans I got from Manila. Can I get them ground from Coffee Culture or any othee 3rd party places? Thanks in advanced!,1,1744531243.0,Bacolod,0,1.0,False
+1jy2n08,https://www.reddit.com/r/PHR4Rhookups2/comments/1jy2n08/22_m4f_morning_cuddles_and_fondle_boob_action/,22 [M4F] morning cuddles and fondle boob action?,"Hello good day! Been craving for some morning action lately. As the title says, naghahanap ako ng ka-cuddles tomorrow morning hehe. Like pagkagising ganon haha. Pampa init lang ng mood and also the perfect wag to start the day right since monday nanaman. I do also love some boobies action kaya I want to suck/fondle/ play some tits hehe. No penetration and intercourse involved. Cuddles, boobs, tsaka overall lambingan lang haha. 
+
+About me:
+- single
+- 5’8
+- average looks and build
+- dresses neatly
+- clean
+- works on GY Shift
+- lives near sta. mesa
+- can’t host but will shoulder check ins
+- smells good
+- loves to play boobies
+- loves coffee and plays online games minsan
+- has a deep voice if that’s a plus :P
+
+About u:
+- single
+- any looks/type are fine. all welcome
+- any age
+- lives near sta. mesa sana or within MM (willing to travel po)
+- small or big sizes of boobs are very much welcome to me, basta magpapadede po :))
+- loves cuddles hehe
+- mabait and doesn’t chickened out 
+
+If interested kindly dm me right away, will not entertain dry ahh messages such as “hi”, “hey”, and “hello”. Please introduce yourself briefly :)). See u!
+",1,1744531192.0,PHR4Rhookups2,0,1.0,False
+1jy2mf8,https://www.reddit.com/r/punemeetup/comments/1jy2mf8/casual_talk_or_meet/,Casual talk or meet,Any female/ girl is up for casual talk or coffee meet?,0,1744531121.0,punemeetup,1,0.5,False
+1jy2jpp,https://www.reddit.com/r/abortion/comments/1jy2jpp/i_have_the_pills_but_do_not_know_if_i_should/,i have the pills but do not know if i should listen to my seller’s process,"I am from the Philippines. I have done this before and have bought from the same seller, it was a success. But i have to know if i still have to do the preparation they suggested. 1) Drink Primrose 1 hr before meal 2) Insert Primrose every night and elevate for 2 hours 3) Drink Ginger and Coffee 3x a day 4) drink pineapple juice * No eating too much * No eating sweets 
+
+Again, i have done this process before i just want to know if these can actually help me and if this increases the chance of effectiveness. 
+
+* pls dont delete this i really need advices ",1,1744530796.0,abortion,2,1.0,False
+1jy2itb,https://i.redd.it/6u6rkq6e5kue1.jpeg,Spotlight positioning? Help!,"Hi everyone, how would you position the spotlights in our living room (53m2 / 570 ft2) ?? we will have a pendant light above the table and the coffee table. 
+
+The ceiling height is 2.4m/7’10” 
+
+Thanks for sharing your ideas!
+",1,1744530684.0,interiordesignideas,0,1.0,False
+1jy2ird,https://www.reddit.com/r/PHR4Rhookups2/comments/1jy2ird/37_m4f_looking_for_a_vibe_qc/,37 [M4F] Looking for a vibe QC,"I'm looking for a girl who's chill on the streets and fun in the sheets. I will reciprocate the energy you will give me. This is for a long term arrangement. ✌️
+
+I am:
+- 5'7, moreno, and on the lean and athletic side
+- I'm 37 but look much younger.
+- Living in the accessible part of QC(Cubao/Katipunan) and I drive.
+- While I try to keep convos engaging, I just return the energy that is given to me.
+- Into current events but do not engage in the social media circus.
+- When not in the gym or working, I am stapled to my couch in front of the pc.
+- I drink coffee like it's water. 🤤
+
+Hopefully, you:
+- are free right now.
+- are from QC, but I'm willing to go as far as Makati or BGC.
+- ++ for tiny and slim girls. Bonus if you have chubby cheeks.
+- Early 20s to 30s.
+- You also believe coffee is good any time of the day.
+- A real gym enjoyer is a huge +
+- A yapper that has opinions.
+- Will not ask me to send a selfie first. It's my post afterall. I'll send one too before checking yours. 😗
+
+To make sure you read all the way to this part, kindly answer this in your first message: Tell me something you'd really love to do if you had the time and money.",1,1744530677.0,PHR4Rhookups2,0,1.0,False
+1jy2il9,https://www.reddit.com/r/AppIdeas/comments/1jy2il9/irl_quest_app/,IRL Quest App,"An app that encourages people to explore their city through small quests (for example try a new restaurant, go on a walk in the park, visit a museum) and gives real-world rewards (free coffee or discounts) from local businesses for completing them. Trying to help people make the most of what’s around them.
+
+Would you use it?
+
+[View Poll](https://www.reddit.com/poll/1jy2il9)",2,1744530655.0,AppIdeas,3,1.0,False
+1jy2gia,https://www.reddit.com/r/dating/comments/1jy2gia/what_to_say_after_a_date_when_youre_unsure/,What to say after a date when you’re unsure?,"Just a coffee date, he was really lovely, introverted, intelligent, both had heritage ties and it turns out we both did the same course at the same uni 3 years apart and now work in the same industry. I liked him, but then talking about his ex of 18 years we are VERY different women, she’s all fake tan & fillers and that’s just not me - I ruin my nails climbing, end up covered in mud on adventures etc so I really don’t feel like I’d be his type at all. I have no idea what to do. He’s so quiet so I feel like I’d need to initiate any further contact either way. I’d be up for a second date to guage things but I don’t want to suggest it if I’m just not his type. What to do?",2,1744530404.0,dating,9,0.75,False
+1jy2flq,https://www.reddit.com/r/wayfair/comments/1jy2flq/why_does_my_wayfair_delivery_tracking_feel_like/,Why does my Wayfair delivery tracking feel like Im watching a suspense thriller?,"One moment it's “Out for delivery,” next it vanishes like it joined witness protection. Somewhere in Ohio, my coffee table is living a new life. Meanwhile, Amazon folks get updates every 3 minutes like their box is royalty. We? We manifest deliveries with sheer willpower. WHO ELSE IS STILL WAITING??",2,1744530293.0,wayfair,0,1.0,False
+1jy2fla,https://i.redd.it/edc2wtw74kue1.jpeg,of a Coffee cup,I needed to have this. 22lbs.,8,1744530292.0,AbsoluteUnits,0,0.9,False
+1jy2fie,https://www.reddit.com/r/Market76/comments/1jy2fie/h15k_canned_coffee_woffers/,H:1.5k canned coffee W:offers,,2,1744530281.0,Market76,2,1.0,False
+1jy2f3k,https://www.reddit.com/r/pingpongtheanimation/comments/1jy2f3k/what_is_being_conveyed_by_the_repeat_shot_of_taku/,What is being conveyed by the repeat shot of Taku yelling silently?,"I've been a long time fan of this show, but there was always one small detail that I was never able to make sense of or interpret the meaning of.
+
+When Taku Kazama takes a bite of Yuri's desert, it cuts to a completely silent shot of Taku with a pained, silently screaming expression. And then later when they're at a coffee shop, it cuts to an identical shot of the same thing (except his clothes are different) when he eats the ice-cream/ice from his drink.
+
+It's very odd, and doesn't feel like it's organically happening as part of the scene. At first I thought it might have been a flashback conveying some emotion he's felt that he's reminded of (like he feels bad remembering how hard he was on Dragon in the past or something), but his clothes match the scene, so that can't be it. Is it maybe just an attempt at humor that's flying over my head (something about the food being bad or not handling sweets well?), and the budget limitations of the animation just make it feel odd?
+
+Has the fanbase ever discussed it or reached a conclusion on what's happening there?",1,1744530230.0,pingpongtheanimation,0,1.0,False
+1jy2ezg,https://www.reddit.com/r/gurgaon/comments/1jy2ezg/new_couplein_early_twentiesin_gurgaon_looking_to/,New Couple(in early twenties)in Gurgaon – Looking to Make Friends and Explore the City!,"Hey folks, 
+My partner and I recently moved to Gurgaon and we’re still finding our footing here. We don’t really know anyone in the city yet and would love to meet like-minded people to hang out with, explore the area, maybe grab a coffee, hit a weekend event, or just chill and talk life.
+Are there any active communities, meetups, or networking spots (online or offline) where people connect socially here? Maybe a community center, club, or even a local Reddit or WhatsApp group where newcomers get to meet others?
+We’re pretty easygoing, enjoy food, movies, walks, exploring new places, and deep conversations. If you’re also looking to connect or can suggest where  we can find friendly folks around here, that would mean a lot!
+Thanks in advance!",1,1744530213.0,gurgaon,2,1.0,False
+1jy2eze,https://www.reddit.com/r/printondemand/comments/1jy2eze/drop_shipping_coffee_from_dripshipper/,Drop shipping Coffee from dripshipper,"Is dropshipping coffee business profitable in 2025? 
+",1,1744530213.0,printondemand,0,1.0,False
+1jy2eij,https://www.reddit.com/r/madisonwigradstudents/comments/1jy2eij/welcome/,Welcome!,"🎓 Welcome to r/MadisonGradStudents! 🎓
+
+A cozy corner of the internet for grad students in Madison, Wisconsin or just eternally stuck in a coffee shop pretending to write your thesis.
+
+Here, you can:
+
+Connect with fellow grad students across disciplines
+
+Share tips on surviving research, teaching, and that one professor who emails at 2am
+
+Swap housing leads, event info, and the best spots for late-night snacks
+
+Find memes, support, and solidarity in the chaos of grad life
+
+
+Whether you’re new in town or already on a first-name basis with the squirrels on Bascom Hill, come hang out!",1,1744530155.0,madisonwigradstudents,0,1.0,False
+1jy2ef9,https://www.reddit.com/r/gayfriendfinder/comments/1jy2ef9/27m_belgium_looking_for_gaming_friends_and_maybe/,27M Belgium looking for gaming friends and maybe more,"Hi everyone, I'm looking for someone to play games with and get to know each other. Initially I'm looking for friends but i am open for more if we hit it off. I moved to Brussels from Sweden not too long ago so if anyone wants to grab a coffee that would be nice too!",1,1744530143.0,gayfriendfinder,0,1.0,False
+1jy2e35,https://i.redd.it/mu5jr93n3kue1.jpeg,"The cheapest way to make your guitar look like a $3,000 art piece","
+
+I’ve always wanted my guitar to look like something hanging in an art gallery — but I didn’t want to spend a fortune or spend weeks hand-painting it.
+
+
+
+What most people underestimate is how powerful vinyl wrap can be when done right.
+
+I used a custom-designed skin and spent £35.00 to pull this off. From prep to finish, it took me around 5–6 hours (with coffee breaks in between 😄).
+
+
+
+Here’s how I did it:
+
+
+
+I installed the skin on a guitar with binding, and here’s the trick that makes it look seamless:
+
+
+
+First, I removed the binding and all the hardware.
+
+
+
+Then I carefully laid down the vinyl skin across the body.
+
+
+
+I cut into the top edge of the binding channel, making sure the skin tucked just under where the binding would go.
+
+
+
+Finally, I reinstalled the binding, which now hides the edges of the skin perfectly, giving it that ultra-clean, professional look.
+
+
+
+I need to say thank you to The Guitar Fabrik, they sold me the skin, and instructed me step by step through the whole process.",18,1744530105.0,Luthier,1,0.95,False
+1jy2e0z,https://www.reddit.com/r/JaipurBrews/comments/1jy2e0z/welcomeing_shot/,Welcomeing Shot,"Hey fellow brewers,
+Welcome to this cozy new corner of Reddit made just for Jaipur's coffee lovers. Whether you're a homebrewer, café-hopper, or just someone who loves a quiet cup with good vibes — you’re home.
+
+This community is here for:
+
+☕ Sharing café finds & hidden gems in Jaipur
+
+🌱 Talking beans, brews, gear & grind sizes
+
+📸 Posting pics, reviews, memes & moments
+
+🤝 Connecting over coffee — maybe even meetups soon?
+
+
+No gatekeeping. No pretentiousness.
+Just good coffee, good people, and Pink City vibes.
+
+Introduce yourself below — your go-to café, favorite brew, or just say hi!
+
+
+
+P.S. Application for mods are open 
+as we are 10 people strong ",1,1744530097.0,JaipurBrews,0,0.99,False
+1jy2du7,https://www.reddit.com/r/CIN_Web3/comments/1jy2du7/quantum_entanglement_proves_youre_already_dead/,"Quantum Entanglement Proves You're Already Dead (And Alive, And Everything In Between)","Quantum Entanglement Proves You're Already Dead (And Alive, And Everything In Between)
+
+You think this is the only version of you—reading, breathing, scrolling. But somewhere, in a parallel slice of spacetime, you're not. In one, you never clicked. In another, you became a monk in 2016. And in one? You didn’t make it past last Tuesday.
+
+This isn’t sci-fi. It’s the Many-Worlds Interpretation of quantum mechanics—and it makes every ghost story sound quaint.
+
+
+---
+
+Schrödinger’s Cat Was an Optimist
+
+You’ve heard the parable:
+
+Cat in a box, simultaneously alive and dead
+
+Copenhagen Interpretation: Reality snaps into one state when observed
+
+Many-Worlds: Both outcomes happen—the universe splits in two
+
+
+Here’s the kicker: there's no line where “observation” starts. You blink, a quantum event fires, and the cosmos branches. Endlessly. Including in your brain.
+
+
+---
+
+You're a Cloud of You
+
+Right now, at this precise moment:
+
+A thousand yous are reading this
+
+Some check their phone mid-sentence
+
+One chokes on coffee
+
+Another has an epiphany and rewrites their will
+
+
+The math doesn’t suggest possibility. It suggests inevitability:
+
+A version of you never learned to read
+
+Another rules a world where dinosaurs never went extinct
+
+One is currently being digested by a bear (sorry)
+
+
+
+---
+
+The Dreadful Beauty of Quantum Immortality
+
+This one’s a trip:
+
+1. In every fatal moment, some branch survives
+
+
+2. Your consciousness follows the path that doesn’t end
+
+
+3. To you, you never die—just barely make it every time
+
+
+
+That fall you narrowly avoided? In other branches, you didn’t. But those don’t include a you to remember it.
+
+
+---
+
+So What Now? Besides Panic
+
+1. Morality: If all choices play out somewhere, does ethics collapse? (Spoiler: Not in your thread.)
+
+
+2. AI Risk: Somewhere, the AI already broke free
+
+
+3. Identity: Which you is you when infinity versions are walking around?
+
+
+
+
+---
+
+Field Guide to Multiversal Madness
+
+Next time you:
+
+Catch a lucky break → Thank your branch
+
+Feel a chill of déjà vu → Close neighbors brushing past
+
+Regret a choice → Somewhere, you chose right
+
+
+Cold comfort: All your pain is balanced by joy you’ll never feel.
+(But hey—your other yous are rooting for you. Probably.)
+
+
+---
+
+Questions That Shouldn’t Have Answers
+
+1. What’s the worst possible version of you that might exist?
+
+
+2. Does knowing all paths unfold make choice feel heavier, or meaningless?
+
+
+3. How do you prove this is the real timeline?
+(Hint: You can’t. Welcome to the paradox.)
+
+Want to go darker? Let’s dive into quantum suicide—where your consciousness never stops. Or lighter? Maybe “Many-Worlds Dating Advice: Somewhere You’re a Catch.” 
+
+",1,1744530073.0,CIN_Web3,0,1.0,False
+1jy2cdt,https://www.reddit.com/r/chemistry/comments/1jy2cdt/filter_type_for_liqueurs_with_sugar_syrup/,Filter Type for Liqueurs with Sugar Syrup,"Hello r/chemistry,
+
+I've gotten into liquer-making recently and I'm having a struggle with filtering particulate out of liqueurs with higher sugar content. The filter (paper coffee filter) gets clogged and liquid stops flowing (the filter actually seems to become hydrophobic!).
+
+Some details about my most difficult case: 
+*Amount to filter:* 1L
+*Time requirement:* none
+*Sugar concentration:* 400g/L
+*Purpose:* removal of organic particulate
+
+Since I have no experience with this, I asked some AI platforms and the general response I got was: 
+
+Use a 0.45um pore size membrane filter made of Cellulose Acetate (CA) or Polyethersufone (PES).
+
+I appreciate any and all advice. 
+Thanks in advance!",2,1744529892.0,chemistry,9,1.0,False
+1jy2bl5,https://i.redd.it/ba6rqarr2kue1.jpeg,Making coffee on a rainy day. OC,,9,1744529802.0,pics,2,0.8,False
+1jy2bcr,https://www.reddit.com/r/IndiaCoffee/comments/1jy2bcr/good_coffee_machines_that_will_help_me_make_good/,Good coffee machines that will help me make good Americanos at home,"Hello! I am trying to find a good machine that will help me make good americanos at home (I do not have a budget per se). Online I only see some basic equipment or ones with a foaming milk/frother or milt outlet (which I don't need). Is there anything specifically for espressos and americanos? 
+
+  
+Would appreciate any recommendations.",1,1744529775.0,IndiaCoffee,3,1.0,False
+1jy2b4s,https://www.reddit.com/r/u_myredditreadings/comments/1jy2b4s/christmas_decoration_bait_and_switch/,Christmas decoration bait and switch.,"I posted this on a different sub a couple days ago, but thought you guys might get a kick out of it. Hopefully this is okay to post here. 
+
+A little background. 
+
+My husband and I have this board hanging on our wall. It's a list of all the things we want and need, how much it will cost, how much we saved for it, and when we should be able to have it. It has things like new fridge, dishwasher, nice knife set, wish list items, ect.  I even include pictures, model numbers, or other specific descriptions for a lot of these items. I'm very proud of it. 
+
+My father and his wife come to visit on a semi-regular basis. Smom always makes sure to look at my board, comment on it, and express her sadness that we are unable to afford the stuff. Within a week or so she will buy one of the exact things on my board(edit: for herself). Sometimes it's a smaller item like the coffee maker, other times it's larger item, like a motorized toy car for her children. Her buying these things isn't really what bugs me, what bugs me is her rubbing it in my face that she was able to ""get it first"" or how I was ""copying"" her when I do finally get the item. It's super annoying and childish. 
+
+Anyway. I was walking through a local store's Christmas section right after Thanksgiving. I was looking for board ideas and happened upon a giant, ugly(imo), super pricey outdoor Christmas decorations set. Which gave me an idea. It was definitely not Smom's style. But hey, why not try?
+
+When I got home I put the set on the high priority section of my board. Going as far to erase the money I had pooled for other things and move it to this Christmas monstrosity so we could ""buy"" it sooner. I was hoping this trap would be tempting enough for Smom, especially if I made this set seem super important. 
+
+A couple days after that my father and Smom visit. Smom looks at my board  and asks about the set. I gush over it, describing it as the way to make my Christmas dreams come true( I loooooove Christmas honestly). I really lay it on thick. 
+
+On Monday we go to visit my dad at Smom's request. Sure as shit, she bought and put up the entire set. It's ugly and over the top. I hate it. It's hilarious. Immediately she dives into to describing why she just  ""fell in love with it"" and how she ""had to have it"". Making a huge deal on every little piece and how it was soooo worth the money. Finally she concludes her gloat fest with telling me that I really do have great taste and sorry she beat me to it. 
+
+""Oh, I don't actually like the set. I just put it on the board and said I liked it to mess with [husband]. He hates the over the top stuff like this crap. Glad *you* love it though"" I tell her.  
+
+If her smile fell any harder it would have fallen right off her face. The rest of the visit she was quite, didn't say much. She looked like a kid who got coal for Christmas. My Dad kept asking her what was wrong and got a lot of ""I'm fines"" and then finally she got a headache and went to bed early. 
+
+She now refuses to talk to me, none of her usual texts or calls. Best Christmas ever. 
+
+I would like to add. She put up the decorations on a Facebook sell group this morning for pick up after Christmas.  So yeah, definitely best Christmas ever.  
+
+Merry Christmas everyone. 
+
+
+
+Edit: For those interested in my board I made a layout for it in some comment replies.  Sorry If I didn't get to anyone's request, there's a lot of comments to look through.  Anyways. Glad this made you guys smile. 
+",1,1744529750.0,u_myredditreadings,0,1.0,False
+1jy2b49,https://www.reddit.com/r/DreamlightValley/comments/1jy2b49/play_smarter_not_harder_fast_leveling_up/,Play smarter not harder - fast leveling up characters on steamdeck,"Sometimes you just want to level up a character FAST and it can take for ages. Until now ;-) !!!I just wanted to share this for those who don’t know this is possible on steamdeck (as I just figured this out yesterday)….. 
+
+For all of you who are playing on steamdeck you can adjust the controller settings and assign a button to repeat A very fast with just holding it. I have assigned R5 to this task. 
+
+So to level up a character fast I put 50 gems in the first position of my inventory go talk to the character and hold the button for a while! And drink coffee while doing that ;-) 
+It takes about 100 gems from level 8-10. So it is
+Expensive. But if you have enough gems like me it is a nice way to speed up the process of leveling up. 
+
+And it is a great button to use for timebending. Because you get the item a bit faster!! 
+
+
+
+
+",0,1744529748.0,DreamlightValley,0,0.5,False
+1jy2aqf,https://www.reddit.com/r/PhR4Friends/comments/1jy2aqf/26_f4a_anyone_wanna_hangout_in_tagaytay/,26 [F4A] Anyone wanna hangout in Tagaytay,"I'm planning to go to Tagaytay later for coffee. Would anyone want to join me? 
+
+I'm also down for drinks or we can go to the beach Somewhere in Batangas. Lol. ",1,1744529705.0,PhR4Friends,0,1.0,False
+1jy29yi,https://i.redd.it/qxptagu62kue1.jpeg,Jibhi & Tirthan Valley: An Adventure with 38 Strangers,"The Beginning: Meeting at Kashmiri Gate
+
+I just returned from a wholesome trip to the stunning landscapes of Tirthan Valley and Jibhi, and here's how it all started.
+
+I was traveling with my friend and 38 strangers in a group. On Friday evening, our journey began from Delhi’s Kashmiri Gate metro station. At Gate No. 8, I met my trip captain. We had three trip coordinators, and all of them were really good.
+
+Everyone in our group gathered at the station and boarded the bus. Our captain introduced himself and walked us through the itinerary. He mentioned there was a chance we might not be able to go on the Serolsar Lake trek due to black snow. That disappointed everyone for a moment, but he quickly lifted the mood and assured us that he would do his best to cover the full plan.
+
+Breaking the Ice
+
+After settling in, the trip captain encouraged everyone to introduce themselves — a fun activity that helped strangers connect. We had folks from Kanpur, people working at Deloitte and Optum, a few CAs, and some solo travelers. One solo traveler, a professor with a cheerful personality, stood out.
+
+Around midnight, I decided to get some rest. But soon, loud music started playing and people began singing and dancing. I was initially annoyed, but it didn't take long for me to join in and vibe with the crowd. Dancing in a moving bus in the middle of the night was such a wholesome moment.
+
+Eventually, we stopped for snacks and got some rest before continuing the journey.
+
+Arrival at Tirthan Valley
+
+The next morning, we woke up to breathtaking views of the Himalayan mountains and the Beas River. We reached Aut and then switched to traveler vehicles that took us to Gushaini, Tirthan Valley.
+
+Our stay was right by the Tirthan River — peaceful and scenic. We crossed a small bridge to reach our property. I shared a ground-floor room with a solo traveler, whose stories about traveling fascinated me.
+
+After freshening up, we had lunch by the river — a serene and refreshing setting.
+
+Trekking to Chhoie Waterfall
+
+Post-lunch, we went on a trek to Chhoie Waterfall. It was a short but steep trek with expanding village views as we climbed. We even saw a local stadium from above where people were playing cricket. After 2–3 hours, we reached the waterfall, which was tall and beautiful, with misty air all around.
+
+We clicked pictures, had tea and momos, and later descended to the village. Our trip coordinators guided us to Mojo Cafe for snacks, where we enjoyed thin-crust pizza and coffee before heading back.
+
+Bonfire and Chill Vibes
+
+Back at the property, it was bonfire time — one of my favorite parts. We enjoyed music, singing, dancing, and unwinding with the group. Dinner followed, and then we called it a night.
+
+Jalori Pass and Serolsar Lake Trek
+
+The next morning, my friend and I went for a sunrise walk through the village, soaking in the views and taking pictures.
+
+Then came the highlight: Jalori Pass. The 2-hour drive was filled with valley views and music. At Jalori, we had no mobile network, but I had downloaded songs and a speaker. Playing my playlist got me a lot of compliments.
+
+We started the 4 km trek to Serolsar Lake. I became the ""speaker guy"" of the group, playing music the whole way. The trail was snowy and steep in parts, both beautiful and slightly tricky.
+
+Our little group included me, my friend, the professor, two cousin sisters, and a couple. We bonded over conversations and KK songs. Reaching the frozen Serolsar Lake was magical. It was my first time seeing a frozen lake. We visited a temple nearby and played in the snow with the Optum group.
+
+Lunch at the top included rajma chawal, Maggi, and tea. On the way back, we visited a 360-degree viewpoint to catch the sunset — a peaceful, unforgettable moment.
+
+We returned to Jalori base by 8 PM, exhausted but full of memories, and reached our stay around 10 PM.
+
+Jibhi Exploration and Farewell
+
+On the last morning, my friend and I took another peaceful walk to the other side of the village, sitting by the river on rocks. After breakfast, we packed up and left for Jibhi.
+
+In Jibhi, we visited “Mini Thailand,” a waterfall where we dipped our feet in the icy water — it felt like therapy. Later, we visited Jibhi Waterfall and relaxed there too.
+
+After grabbing some tea, momos, and souvenirs near the waterfall, we had lunch at a cafe and then headed back to Aut to catch our Volvo.
+
+As the bus took us back, I found myself replaying all the beautiful flashbacks — strangers who had become friends in just three days. Truly, it was a memorable and wholesome trip.
+
+If anyone has any queries, feel free to ask! Would love to help fellow travelers out.
+
+Connect on Instagram – [@mohit.guota.xo](http://www.instagram.com/mohit.gupta.xo)",3,1744529611.0,desitravellers,0,1.0,False
+1jy282n,https://www.reddit.com/gallery/1jy282n,I bought some round to flat plug adaptors from Yodobashi but apparently I got the wrong ones. Where can I buy ones that are safe to use in Japan?,I brought some 220V rated appliances 2 pin round plug (e.g. coffee maker) and am I living in apartment that supplies the same so I don't need a stepdown/up transformer. I did not realise the adapters I picked up were overseas only. What's the special about these that I can't use them here in Japan? And where can I buy just plain normal adaptors? Thanks.,1,1744529380.0,japanresidents,7,0.67,False
+1jy282e,https://www.reddit.com/r/AskAChristian/comments/1jy282e/i_wish_to_discuss_our_lord_christian_weston/,I wish to discuss our Lord Christian Weston Chandler,I only know a little of your guys lore like how he burnt down the hoarder house trying to make a coffee. I'm eager to know more fellow Christians ,0,1744529380.0,AskAChristian,1,0.33,False
+1jy25cm,https://www.reddit.com/r/beyondthebump/comments/1jy25cm/hypo_hypertropic_scar_management/,Hypo & hypertropic scar management !,"My 10 month old kid got second degree burns since coffee spilled over him accidently. 
+
+He was treated in hospital for 3 days and then the wounds healed within a week. 
+
+However since it’s second degree burn, he has got hypo pigmentation ( lighter skin tone ) and hyper pigmentation ( dark pigments ) in his left arm in the span of this 3 months. Doctors assured pigments should come back in next 6months to a year span considering his age. The re pigmentation had been very slow since this was his most affected area. 
+
+Also , a minor hypertrophic scar ( raised bumpy scar near his fingers on left hand ). 
+We are seeing a dermatologist and they had given us silicone gel to reduce the raised scar but it takes time. 
+
+I had researched a bit and found corticosteroid cream helps for raised scars? Have anyone got results with this ? Since he is too young doctors wouldn’t try injection which looks like first line treatment for hypertrophic scars
+
+It would be helpful if someone has dealt with 
+ Hypo pigmentation and raised scars and treated them successfully ! 
+
+Any natural remedies would be more helpful as well. 
+Thanks in advance. ",1,1744529045.0,beyondthebump,0,1.0,False
+1jy23ns,https://www.reddit.com/r/SocialParis/comments/1jy23ns/20m_in_paris_looking_for_a_mandarin_practice/,20M in Paris Looking for a Mandarin Practice Buddy (Chinese origin preferred!),"Hey everyone!
+
+I’m Flo, a 20-year-old guy living in the heart of Paris. I’ve been here for a while now, but I’m still looking to connect with new people, especially someone of Chinese origin who can help me practice my Mandarin!
+
+A little about me: I’m really into arts and crafts, cinema, politics, art exhibitions, theatre, museums, , picnics, road trips, anime, comics, fashion, and a mountains of others things lol. I can show you around the city like a real Parisian, no tourist traps, I promise. We can hit up my favorite hidden spots, share good coffee, and explore local gems together.
+
+Important note: I’m happily in a relationship, so I’m not here for anything romantic, just genuine friendship and cultural exchange. If that sounds cool to you, shoot me a message. My Reddit notifications can be wonky, so feel free to ask for contact by dm",1,1744528839.0,SocialParis,0,1.0,False
+1jy23kd,https://www.reddit.com/r/HealthyTips___/comments/1jy23kd/10_easy_morning_habits_that_will_instantly/,10 Easy Morning Habits That Will Instantly Improve Your Health,"https://preview.redd.it/j849vj4rzjue1.jpg?width=1500&format=pjpg&auto=webp&s=272ffeb93c93f63b3711a6fed4245d69bd9793ee
+
+What if 10 minutes in the morning could change your entire day—and your health?  
+These **simple but powerful morning habits** can help you feel more energized, boost your metabolism, and keep your mind sharp. Start your day like this, and your body will thank you!
+
+# 🌞 1. Wake Up with Natural Light
+
+Open your curtains or step outside for 5–10 minutes. Sunlight resets your internal clock and boosts vitamin D production.
+
+# 💧 2. Drink a Glass of Water (Before Coffee)
+
+After hours without water, your body needs hydration to kickstart digestion and energy levels. Add lemon for an extra detox effect!
+
+# 🧘 3. Stretch or Do Light Movement
+
+A few minutes of stretching or yoga improves blood flow, flexibility, and wakes up your muscles.
+
+# 📝 4. Practice Gratitude
+
+Write down 3 things you’re thankful for. Gratitude boosts mental health and reduces stress.
+
+# 🌬️ 5. Take 5 Deep Breaths
+
+Activate your parasympathetic nervous system and lower cortisol by practicing mindful breathing.
+
+# 🍽️ 6. Don’t Skip Breakfast
+
+Choose high-protein or fiber-rich foods like eggs, oats, or fruit to stay full longer and avoid energy crashes.
+
+# 📵 7. Avoid Scrolling Social Media First Thing
+
+Start your day intentionally. Replace doom-scrolling with something uplifting like reading or journaling.
+
+# 🧂 8. Use a Tongue Scraper
+
+This ancient Ayurvedic practice removes bacteria and improves oral health.
+
+# 📅 9. Plan Your Top 3 Tasks for the Day
+
+Keep your mind organized and reduce anxiety with a clear daily focus.
+
+# 📖 10. Feed Your Mind Something Positive
+
+Read one page of a book, listen to a motivational podcast, or recite an affirmation.
+
+# 🧡 Final Note:
+
+Your morning routine doesn’t have to be long or complicated. Just a few intentional actions can elevate your health, mood, and focus for the entire day.",1,1744528826.0,HealthyTips___,0,1.0,False
+1jy22uu,https://www.reddit.com/r/sffpc/comments/1jy22uu/the_battle_of_1litre_gaming_rigs_and_tips_for/,The Battle of 1-litre Gaming Rigs (and tips for Lenovo Tiny builders),"In a third iteration of “who builds the fastest computer”, we set out to build a small form factor gaming PC that could ease the burden of hauling a full ATX gaming setup to our biannual LAN party. After *not so thorough* research into the SFF scene, we created the following rules for the competition:
+
+All participants' computers must adhere to the following restrictions:
+
+* The computer must be built using a single Lenovo M720q or M920q case and based on its motherboard.
+* The computers case must have external dimensions equivalent to the original. Only the PSU may be outside the case. The exterior of the computer can be modified, but the appearance must be ""living room friendly.""
+* CPU: at the competitors' discretion.
+* GPU: The GPU must be powered through the PCIe slot. Ada Lovelace microarchitecture chips are not allowed. The image must be produced using rasterization; frame generation is not allowed in the competition.
+* PSU: maximum of 300W; power brick model.
+* Other components of the computer including CPU/memory clock frequencies, operating system, and budget, are at the discretion of the competitors.
+* Each competitor may participate with only one computer.
+* The entire computer must be physically present at the competition.
+* Manipulating or modifying tests is not allowed (excluding the optimization of software settings or the operating system).
+
+An independent panel of 2-3 judges will be appointed for the competition. A competitor cannot serve as a judge. The panel will convene if necessary to make final decisions in situations where rules are suspected to have been violated. Additionally, the panel will oversee the calculation of scores.
+
+Scoring: Each benchmark – CineBench r23 Multicore, Arma 3 YAAB & 3dMark TimeSpy – will be run once per competitor. Benchmark specific scores will be multiplied together (CineBench x YAAB x TimeSpy). If the benchmark run is interrupted due to a malfunction of the computer, the competitor will receive a score of 1 for that benchmark. In unclear situations, the panel will make a decision prioritizing the competitor's benefit. The panel will also evaluate each computer's living room suitability: those that do not pass the panel's critical assessment will receive a penalty multiplier of x0.99 on the final score. Clear violations of the rules will result in the disqualification of the competitor's computer.
+
+The winner of the competition will be the competitor with the highest total score.
+
+The key objective for the rules was to balance *size* (1 litre), *performance* (a viable gaming computer) and *budget*. The previous competition accidentally skyrocketed the budgets used on the computers, so this time around it was necessary to take proper action to protect the competitors from themselves; for example, Ada lovelace GPU’s  were banned from the competition. Similarly, by forcing the competitors’ computers to the same Lenovo platform, expensive custom motherboards were ruled out. 
+
+After unveiling the rules, four competitors participated in the contest. The platforms were scraped up from ebay and other 2nd hand online stores. The initial expense of the four computers was between 70 euros and 250 euros depending on the innards of the machines and the competitors’ eye (and patience) for good deals.
+
+After a preparation time of approximately four months, the four competitors entered the competition with computers that had the following specifications:
+
+https://preview.redd.it/nen0gfa61kue1.png?width=797&format=png&auto=webp&s=02dd5675500d86af31fe6670435cd0ebca394f59
+
+^(1)Scores in competition / best score gained outside the competition  
+^(2)Did not finish; test crashed  
+^(3)The competitor received a penalty multiplier of x0.99 because the computer did not meet the panels’ standards for living room friendliness.
+
+[Picture 1. Keimo’s computer with P3 top cover and VESA mount.](https://preview.redd.it/lxy87lttujue1.jpg?width=3664&format=pjpg&auto=webp&s=22831b401546d1924dc2df66a17d078dc7fb696c)
+
+[Picture 2. Reintseri’s computer with 3D printed top cover \(ITG Gear Design\)](https://preview.redd.it/qvb7qp1xujue1.png?width=1053&format=png&auto=webp&s=bc425a92dcc43978b1fe89ad34c37e14cdca29f9)
+
+[Picture 3. Aeses’s computer with perforated top cover](https://preview.redd.it/4tiyzo81vjue1.jpg?width=4032&format=pjpg&auto=webp&s=0ba0e464333113e8f0883b64b7cb8de62d0dbc7c)
+
+**What we collectively learned (=tips for someone doing similar builds):**
+
+PLEASE NOTE: any changes to your system is solely on your responsibility. We cannot guarantee that what has worked for us will work for everyone. Should something go wrong, we *will not be there to save the day*. Proceed with caution and be prepared for rigorous troubleshooting *when* something goes wrong.
+
+* Out of the box, voltage control and overclocking are locked in M920q’s. However, one can unlock these controls by either flashing in a custom bios, or by editing the UEFI variables with RU.efi software. We opted for the latter option. The process of unlocking is quite similar to the one described in this [Reddit post](https://www.reddit.com/r/hackintosh/comments/hz2rtm/cfg_lockunlocking_alternative_method/). To oversimplify greatly, the process entails following steps:
+   * Flash in the newest bios
+   * Use Uefitool (or similar) to open said bios, search for a variable (e.g., cfg lock) and save a Setup folder as .bin file 
+   * Use IFR extractor to make the bin. file readable 
+   * Look for the variable in the document produced by IFR extractor
+   * Make note of the offsets you'll want to change 
+   * Boot to RU.efi using usb-drive
+   * Adjust the variables in hexadecimals
+* To unlock voltage and CPU frequency control, you’ll want to edit the following variables: CFG Lock, OverClocking feature and Overclocking lock. In RU.efi these are located in UEFI variables → Setup. Please note that these options do not show up in UEFI even after editing the values; you will need to remember what was edited (the changes done to the UEFI variables can be reset using clear cmos jumper).
+* Intel Virtualization needs to disabled in UEFI to enable voltage options (FIVR) in ThrottleStop. This setting is natively visible in UEFI; no need to use RU.efi for this.
+* CPU’s beyond the officially supported list do in fact work well with M920q, supposing you are willing to unlock the bios and undervolt your CPU with something like ThrottleStop. Given the fact that among many tested CPU’s we tried several K-series processors (9600K, 9700K, 9900K, 9900K ES), this makes a strong case for arguing that every (non-xeon) Coffee Lake processor will ultimately work with this platform.
+* The temperatures are way off the charts without undervolting the CPU. For example, the temperature of CC150 with a healthy -145mV undervolt (core and cache) dropped about 15’c while gaining about \~200 points in Cinebench R23 Multicore.
+* Officially the M920q only supports 35W TDP CPUs. However, if you switch the CPU cooler and the heatsink to a 65W variant (01MN631 & 01MN632; these are FRU numbers, Field Replaceable Unit numbers Lenovo uses) – like the ones you get with M920x, you will get much more overhead for your CPU temperatures.
+* Please note that the factory installed VRM thermal pads in 01MN631 are absolute garbage: there were plastic peels between (sic) the pad and the heatsink in every heatsink we saw during the competition. Changing the pads is strongly recommended (any quality 1.0-1.5mm thermal pad should do the trick).
+* There is anecdotal evidence circulating the internet stating that with the dedicated GPU installed, the system limits the CPU power draw to 35W (with M920x motherboard the cap apparently is at 65w). This indeed is the case when the system is at full load, that is, when both the CPU and the GPU are fully loaded: GPU gets the full 70W of power while CPU is capped at 35W. However, outside synthetic tests (e.g., while gaming), both are usually fully not loaded, so the 35W cap may not be an issue with each and every CPU. When just the CPU is loaded the only power limit is PL1/PL2. We tried editing these values both in ThrottleStop and in BIOS but these seem to change nothing.
+* The aforementioned 35W CPU cap can be bypassed by editing IMON slope variables (core, gt, vccin and sa). The value indicates the percentage of power usage the CPU reports back to the motherboard. If you set these to 50, for example, the CPU power limit of 35W is doubled to 70W since the motherboard power delivery is tricked into believing the CPU is only consuming 35W. **Tread with extreme caution:** adjusting IMON values may result in bricked hardware since the platform feeds way more power to the components than it’s designed to do. Our systems that used adjusted IMON values were mainly stable, but one computer’s motherboard was fried after editing the values.
+* Speaking of power: we tested 135W, 170W, 230W and 300W power bricks, of which the first two worked flawlessly foor everyone (officially power bricks are only supported up to 135W). Interestingly, both the 230W and 300W power bricks had issues in one of the computers as they throttled the CPU power down to 35W (other M920q’s in the competition worked well with both psus).  We suppose this has something to do with Smart Sense features that allow the psu to communicate its capabilities to the chipset. Nevertheless, the 135W power brick also had its share of issues: with 9900K and RTX A2000 installed, the nominal wattage of the psu was continuously exceeded which resulted in a fried psu. All in all, 170W psu seems to be the most safe solution.
+* On the SFF forums you will see many examples of people drilling holes to the top cover of the M920q to allow the CPU cooler to suck in fresh air. However, the M920q CPU cooler is a blower style cooler that sucks air from *below* the cooler. This means that the cooler effectively sucks its air through the front panel, not from the top. Drilling hole(s) for CPU cooler might have *some* diminishing impact for CPU temps but the effect is likely to be little to none.
+* On the GPU side of things, however, adding air flow is of paramount importance. Drilling holes, using custom 3d printed cover or a perforated cover from something like M920x (02CW661), or running without the top cover altogether are viable alternatives. For example, one of our setups used the top cover from Lenovo P3 fitted with the original M920q front cover (as shown in picture 1). This required some dremeling, drilling and a few M2.5 screws/nuts to attach the original front cover, but overall this was quite doable.
+* If you plan on adding a dedicated GPU, you will want to install a south bridge heat sink (5H40U52594) to cool the motherboard chipset. It gets very warm with practically no airflow inside the case. The heatsink does not interfere with GPU installation but sits nice and flat below the GPU. 
+* M920q has a pcie slot but it is a proprietary design, meaning you will need a riser to add a GPU. For M920q the correct riser seems to be 01AJ940. Beware that many ebay listings sell totally different risers using this FRU. The correct riser should have “BA7H70 REV: 1.2” etched to its pcb. Something else may also work, but for example risers with “tiny 4” etching, are not meant for GPU’s and will only work on gen 1 / gen 2 bandwidths. Apparently, using incompatible risers may also fry your motherboard. 
+* GPU-wise you are restricted to *low profile*, *single slot* and *pcie* (slot) *powered GPU:s*, assuming you’ll want to maintain the 1-litre form factor (you can of course 3D print a custom top cover that would accommodate a double slot GPU). The best bang for the buck at the moment of writing this (April 2025) seems to be either RTX A2000 or a 6gb / low profile variant of the RTX 3050 ([for example from Yeston](https://yestonstore.com/products/yeston-rtx-3050-6gb-gddr6-gaming-graphics-card)). Either of these cards will give you a nice >60fps (1080p high / 1440p medium) performance in most games. A2000 needs a [custom single slot cooler from N3rdware](https://n3rdware.com/components/single-slot-rtx-a2000-cooler). A2000 runs a little hotter using a single slot cooler, but overall the temperature remains well under the max 88’c even at sustained full load.
+* The motherboard seems to trip with GPU clocks above 1500/1600Mhz (at least with A2000): if you experience system crashes or instability, try using MSI Afterburner to limit the max boost clock to 1500/1600Mhz. You will definitely want to undervolt your GPU as well both for increased stability and performance. Compared to the unstable stock GPU scoring a bit over 6000 pts in Timespy graphics test, a GPU restricted to 1575Mhz and 700mV scored over 1000 points more. 
+* The anecdotal evidence in the internet points to the fact that the system hardware cannot handle power spikes of the dedicated GPU. To overcome the issue of the system tripping at high GPU frequency, we tried adjusting “PEG0-3 Slot Power Limit Value” in UEFI variables. Maxing the value (FF) only worsened the situation. Dialing the value down to 70W (the default setting is 75W) seems to increase stability slightly, but there are still cases where the platform would hard shutdown. 
+* You can use any 1.2V sodimm ram. 
+* We could not find a way to adjust memory timings using software like XTU or something similar. However, you can adjust memory timings (like tcl, trcd, trp and tras) through UEFI parameters via RU.efi. The timings are set directly in hexadecimals. For custom timings to work you will also need to enable both “Realtime memory timings” and “Custom memory profile”. **In our experience the system becomes unstable even with subtle changes to timings.** 
+* If your system fails to POST after adjustments in RU.efi – which is more than probable at some point when adjusting RAM – you can clear CMOS to undo the adjustments and return the factory defaults. The procedures described at the internet vary quite a bit, but based on our experience the following works:
+   * Turn off the computer and unplug the power cord.
+   * Locate the jumper in the motherboard that is labeled JP35. The jumper should by default be in pins 5-6.
+   * Jump pins 2 and 4 using the jumper. 
+   * Plug the power cord and turn on the system. After the pc speaker beeps, push the power button to turn off the computer. 
+   * Reboot once more, wait for beeps, and then unplug the power cord and return the jumper to pins 5-6. 
+   * Plug in the power cord, and turn the computer on. (You may need to reboot the computer once using the power button). CMOS is – or should be – cleared.
+* You can purchase many parts directly from [Lenovo](https://support.lenovo.com/us/en/parts-lookup). In many cases, the prices are even cheaper than those of ebay, Amazon or Aliexpress.
+
+Shoutout to [ETA Prime](https://www.youtube.com/@ETAPRIME) and [ITG Gear](https://www.youtube.com/@itggear) Youtube channels for tips and inspiration as well as to Parallax for providing a thorough [reference thread](https://forums.servethehome.com/index.php?threads/lenovo-thinkcentre-thinkstation-tiny-project-tinyminimicro-reference-thread.34925/) for Lenovo Thinkcentres.
+
+Most importantly, thank you Reintseri, Aeses and Competitor 3 for the thrill of competition <3",7,1744528745.0,sffpc,0,0.89,False
+1jy22m6,https://www.reddit.com/r/POTS/comments/1jy22m6/recovering_from_pots_is_possible/,Recovering from PoTs is possible !,"
+Disclaimer : 
+I’m just trying to spread positivity guys. I can’t seem to edit my title anymore. As stated in my symptoms below, mine differs from genetic and chronic conditions but I have seen YouTubers post their genetic pots and cfs go away with the right professional treatment. I just hope everyone is happy and has hope because that’s the most important thing when we’re down. 
+
+
+The Reddit community has helped me a lot these past few months since my diagnosis. Although I’ve been discouraged multiple times seeing posts about how recovery does not happen or some may take years to be better. I just thought I’d share my recovery journey so others can feel motivated as well. 
+
+Symptoms and onset 4 months ago: 
+
+I must note that I’ve read pots onset due to other underlying conditions are known not to go away so easily. Mine came about out of the blue. With a near fainting episodes , panic attack and overnight fever, cold sweat, diarrhea, tremors and  high heart rate and palpitations. Over days the doctors gave me multiple medicines and antibiotics and blood work which made me feel worse and may have aggravated the symptoms . I started having constant vertigo in all positions. Loss of appetite. High HR, palpitations, adrenaline rushes during sleep that woke me every hour, headaches, tremors and tingling feelings all over. I could hardly sleep for more than 2h without waking up. I was weak and trembling. I had ridiculous dizziness and fatigue after meals and hot showers. The symptoms affected me even when I was lying down . Brain fog was constant and I couldn’t walk without worrying about losing my balance. It was even worse during my period. 
+
+A month later, my cardio and neurologist diagnosed me with pots after poor man’s tilt table and ecg and ultrasound, ruling out other potential issues. I didn’t believe it at first but all symptoms seem to point in that direction. I was given mestinon / ivabradine / coralan but they didn’t seem to help and only added side effects of constant diarrhoea and drowsiness. Thankfully my specialists knew about pots but nobody else seemed to. There was no known incident of it locally and GPs and friends have never heard of it. I was bedridden for 2 months at the point where I decided to research more on Reddit and YouTube to fix myself.
+
+
+What I did : 
+1. First thing was journaling every single symptom and medication and side effect I’ve experienced since day 1 . This helped me narrow down potential triggers and note effectiveness of different medication. 
+
+2. I did a drug holiday to see what were my real symptoms and not get confused with side effects of various medication. Doc told me it would take 4 days to flush out all effects of ongoing medication and from there I figured out what issues I had to resolve 
+
+3. Being bedridden made my body even weaker and so I forced myself to get out of the house every night or evening just to walk 5-10mins around my home before increasing it to heading out to get food and groceries etc after two weeks . 
+
+4. Started doing supine exercises. You can search pots exercise on YouTube and I’ve been mainly focusing on legs and core muscles to increase their ability to push blood flow. Exercise is super important I felt so much better a week after starting to move around . Before that, I was so weak and down and useless felt like I was truly going to die. 
+
+5. I started on stress relief supplements and Magnesium and b12 daily with meals. I also force myself to take small bites every few hours even without an appetite to build up the appetite and decrease potential blood sugar spikes. Im not sure of the effectiveness of supplements but research said it does help with neurological and blood circulations
+
+6. Listening to meditation and hypnosis to sleep using noise cancelling earphones. They usually include breathing exercises. Blue light glasses for a few dollars off the internet . This sets me in the mood for sleeping an hour prior.
+
+7. Hobbies to do in bed on bad days. I’ve gotten colouring books, sudoku and jigsaw puzzles to calm myself in the evenings before bed and unwind . 
+
+8. Vertigo eye exercises from YouTube helped me a lot with my walking imbalance and vertigo. 
+
+9. Realising and acknowledging that I do have anxiety. I am undiagnosed but I realised being worried about my health has triggered a constant fear in my head. Once I realised some symptoms were due to anxiety I managed to calm myself using guided YouTube breathing exercises and managed to calm my jitters and tremors a lot. Also things took a turn for the better once I started being more positive and accepting of my condition and focusing my energy and mind on recovery steps .
+
+10. YouTube has been my best friend. Lots of channels of recovery stories of people with pots and cfs for years and managed to get out of it ! I love watching guides to recovery and even breakdown of explanations of various symptoms. 
+
+11. Air humidifier helps me keep my hydration throughout my sleep. Drinking water and rehydration salts all the time. Tea, honey, coffee and chocolate used to set me off and so I’m staying off them
+
+12. Remember that you won’t wake up one day and feel normal again but one day you’ll wake up and think about one month ago and realise how far you’ll come and eventually you’ll get there. 
+
+I’m sure there’s more but that’s all I can think of for now. I hope this posts encourages some of you to channel your energy to recovery. ",0,1744528719.0,POTS,7,0.45,False
+1jy223u,https://www.reddit.com/r/Market76/comments/1jy223u/h_20k_fuzzy_tokens_w_offers_leadersbobby_pins/,"H: 20k fuzzy tokens W: offers (leaders,bobby pins, coffee,magazines)",,1,1744528658.0,Market76,1,1.0,False
+1jy21gz,https://www.reddit.com/r/u_Pure_Construction114/comments/1jy21gz/recovering_from_pots_is_possible/,Recovering from PoTs is possible !,"The Reddit community has helped me a lot these past few months since my diagnosis. Although I’ve been discouraged multiple times seeing posts about how recovery does not happen or some may take years to be better. I just thought I’d share my recovery journey so others can feel motivated as well. 
+
+Symptoms and onset 4 months ago: 
+
+I must note that I’ve read pots onset due to other underlying conditions are known not to go away so easily. Mine came about out of the blue. With a near fainting episodes , panic attack and overnight fever, cold sweat, diarrhea, tremors and  high heart rate and palpitations. Over days the doctors gave me multiple medicines and antibiotics and blood work which made me feel worse and may have aggravated the symptoms . I started having constant vertigo in all positions. Loss of appetite. High HR, palpitations, adrenaline rushes during sleep that woke me every hour, headaches, tremors and tingling feelings all over. I could hardly sleep for more than 2h without waking up. I was weak and trembling. I had ridiculous dizziness and fatigue after meals and hot showers. The symptoms affected me even when I was lying down . Brain fog was constant and I couldn’t walk without worrying about losing my balance. It was even worse during my period. 
+
+A month later, my cardio and neurologist diagnosed me with pots after poor man’s tilt table and ecg and ultrasound, ruling out other potential issues. I didn’t believe it at first but all symptoms seem to point in that direction. I was given mestinon / ivabradine / coralan but they didn’t seem to help and only added side effects of constant diarrhoea and drowsiness. I was bedridden for 2 months at the point where I decided to research more on Reddit and YouTube to fix myself.
+
+
+What I did : 
+1. First thing was journaling every single symptom and medication and side effect I’ve experienced since day 1 . This helped me narrow down potential triggers and note effectiveness of different medication. 
+
+2. I did a drug holiday to see what were my real symptoms and not get confused with side effects of various medication. Doc told me it would take 4 days to flush out all effects of ongoing medication and from there I figured out what issues I had to resolve 
+
+3. Being bedridden made my body even weaker and so I forced myself to get out of the house every night or evening just to walk 5-10mins around my home before increasing it to heading out to get food and groceries etc after two weeks . 
+
+4. Started doing supine exercises. You can search pots exercise on YouTube and I’ve been mainly focusing on legs and core muscles to increase their ability to push blood flow. Exercise is super important I felt so much better a week after starting to move around . Before that, I was so weak and down and useless felt like I was truly going to die. 
+
+5. I started on stress relief supplements and Magnesium and b12 daily with meals. I also force myself to take small bites every few hours even without an appetite to build up the appetite and decrease potential blood sugar spikes. Im not sure of the effectiveness of supplements but research said it does help with neurological and blood circulations
+
+6. Listening to meditation and hypnosis to sleep using noise cancelling earphones. They usually include breathing exercises. Blue light glasses for a few dollars off the internet . This sets me in the mood for sleeping an hour prior.
+
+7. Hobbies to do in bed on bad days. I’ve gotten colouring books, sudoku and jigsaw puzzles to calm myself in the evenings before bed and unwind . 
+
+8. Vertigo eye exercises from YouTube helped me a lot with my walking imbalance and vertigo. 
+
+9. Realising and acknowledging that I do have anxiety. I am undiagnosed but I realised being worried about my health has triggered a constant fear in my head. Once I realised some symptoms were due to anxiety I managed to calm myself using guided YouTube breathing exercises and managed to calm my jitters and tremors a lot. Also things took a turn for the better once I started being more positive and accepting of my condition and focusing my energy and mind on recovery steps .
+
+10. YouTube has been my best friend. Lots of channels of recovery stories of people with pots and cfs for years and managed to get out of it ! I love watching guides to recovery and even breakdown of explanations of various symptoms. 
+
+11. Air humidifier helps me keep my hydration throughout my sleep. Drinking water and rehydration salts all the time. Tea, honey, coffee and chocolate used to set me off and so I’m staying off them
+
+12. Remember that you won’t wake up one day and feel normal again but one day you’ll wake up and think about one month ago and realise how far you’ll come and eventually you’ll get there. 
+
+I’m sure there’s more but that’s all I can think of for now. I hope this posts encourages some of you to channel your energy to recovery. ",1,1744528583.0,u_Pure_Construction114,0,1.0,False
+1jy20a8,https://www.reddit.com/r/PickAnAndroidForMe/comments/1jy20a8/s25_ultra_vs_oneplus_13_same_price/,S25 Ultra VS OnePlus 13 (same price..),"Heyy Reddit!
+
+I’m a 20-year-old med student (aka constantly sleep-deprived, coffee-fueled, and trying to romanticize studying anatomy), and I’m currently on the hunt for a new phone—been going down rabbit holes for days now and still can’t decide. So many reviews and opinions out there.. 
+
+
+
+So here’s the deal:
+
+* **Samsung S25 Ultra** – 895€
+* **OnePlus 13** – 890€
+* **OnePlus 12** – 640€
+* **OnePlus 13R** – 510€
+
+
+
+The S25 Ultra and OP13 cost basically the same (in my country), and they’re my top two choices. I *love* the camera on the Samsung, but the OP13 seems so sleek and fast (maybe better unlock speeds with face/fingerprint scanners and they all say about the haptics which are smooth as butter!). 
+
+I *did* think about going cheaper with the OP13R (it’s kinda tempting tbh), but the camera’s kinda meh and I do take a lot of pics—both of lecture notes and cute coffee shop moments  
+The OP12 is also an option, and honestly seems like a really solid phone for the price, but I don’t wanna feel like I’m already behind tech-wise after just buying a new phone
+
+Sooo if you had to pick *between the S25 Ultra and the OP13* (same price!), which one would you choose and why?  
+Or is the OP12 just too good of a deal to ignore?
+
+Thanks in advance, you guys are the best <3 ",3,1744528442.0,PickAnAndroidForMe,3,1.0,False
+1jy1zsu,https://www.reddit.com/r/seoul/comments/1jy1zsu/seongsu_early_spots_reccs/,Seongsu early spots reccs,"Hi there I’m planning to visit Seongsu-dong area tomorrow as a first time visitor in Korea. I’m a very early riser and I noticed on my last few days that a lot of places don’t open until 10.30/11am, including coffee shops. 
+
+Is there an area in Seongsu or nearby that I could check out that opens up early? Thank  you!",1,1744528385.0,seoul,0,1.0,False
+1jy1z9j,https://www.reddit.com/r/R4R30Plus/comments/1jy1z9j/59_f4m_nyc_area_looking_for_an_introspective/,59 [F4M] #NYC Area: Looking for an introspective thinker for deeper connection,"I'm looking for a real life, not virtual or long distance connection. I want someone to meet and spend time with on a regular basis, connect with on all levels, mental, emotional and (eventually if we click that way), romantic/physical.
+
+Casual encounters do not work for me, I want to get to know someone and for them to get to know me. To build a connection over time.
+
+I like hyper-intelligent, introspective men, probably because that describes me as well. People who spend more time in the inner world than the world of things. I like men who are gentle, caring and reassuring - people who are kind and sensitive to the feelings of others. I prefer men who are slender with intelligent faces.
+
+
+I don't focus on age and I don't like age-fetishists. Please be a full adult - 30 to 59 range works.
+
+
+I'm kind, but also very direct and straightforward. Tough half the time, vulnerable the other half of the time - it's not a contradiction.  I tend to put people at ease and have been told that I have a calming presence. I'm reasonably attractive, but don't try to compete with others on that account. I'm short (5'1), fit build, blondish/brownish wavy hair, green eyes.
+
+
+Send me a DM/PM and tell me about you - share a pic (imgur works) and if you ask, I'll send one back. You can also send a message on chat, but I use chat like PM, I don't have time to hang out on it and I don't reply right away. I like longer messages that really tell me about you, especially on a deeper level.
+
+
+If it seems like we might connect, I'm up (down) for a walk, a coffee/tea, a chat. Again - not looking for virtual, not looking for long distance. I'd love to find someone I can spend time with in the real world.
+
+
+If I don't respond, it just means I didn't feel potential. It's hard to find the right person to make a connection with. I'm sending blessings either way.",0,1744528315.0,R4R30Plus,0,0.5,False
+1jy1z7n,https://www.reddit.com/gallery/1jy1z7n,Looking for trades,Play MONOPOLY GO! with me! Download it here: https://mply.io/tMAfyA Dave ,1,1744528309.0,Monopoly_GO,13,1.0,False
+1jy1z12,https://www.reddit.com/r/pancreatitis/comments/1jy1z12/has_anyone_tried_mushroom_coffee/,Has anyone tried mushroom coffee?,"I am a CP patient. I heard that mushroom coffee helps digestion. I want to give it a try, but as always, I am afraid of unknown foods. ",0,1744528286.0,pancreatitis,0,0.5,False
+1jy1yzy,https://v.redd.it/4wiel187yjue1,Late Night Dirty Coffee,Using decaf beans from Origins MNL this time. Just a little R&D for my lil coffee nook in Davao City.,6,1744528283.0,CoffeePH,0,1.0,False
+1jy1wzu,https://www.reddit.com/r/Bratislava/comments/1jy1wzu/looking_to_make_friends/,Looking to make friends,"Hi everyone,  I am a 40 something woman and just hoping to meet some new people.
+
+My partner and I just moved to Bratislava, unfortunately, I do not speak slovak.  This makes meeting people a little tricky. I do not drink, so I am more into things like going for walks or having a coffee.
+
+If you have suggestions for good places to meet people, or if you would just like to hang out, I would really appreciate it. Thanks!
+ ",4,1744528041.0,Bratislava,1,1.0,False
+1jy1ws3,https://www.reddit.com/r/Vent/comments/1jy1ws3/its_so_painful_to_know_you_dont_belong_anywhere/,It's so painful to know you don't belong anywhere.,"Not weird enough. 
+
+Not normal enough 
+
+not black enough 
+
+not white enough 
+
+Not welcome in the country I live in 
+
+Wasn't welcome in the country I was born 
+
+Not dumb enough to be blissful 
+
+Not brilliant enough to be successful 
+
+Not rich enough 
+
+Not poor enough 
+
+Not geek enough 
+
+Not normie enough 
+
+And still, I'm not even average.
+
+Where the heck do I belong? Why am I kept being invisible to the world? I'll be 40 soon. And I'll have to celebrate on my own. I'm a married woman, with a good husband. I have a decent quiet job. I wanted to enjoy the little successes of the last year, but my head doesn't allow me to. I'm always stressed, worried, that i'm not enough.
+
+I'm scared me being depressed and anxious all the time will end up tiring the only person I have in my life and leave. Yes, i'm, going to therapy for this. Husband's good, he just doesn't understand how to help me. He doesn't have to, anyways.
+
+But woah I'm so functional. I can even keep up 2 jobs, cook, clean, write, and try to take care of what we eat. But leaving the house? Lately it's getting harder.
+
+THen there's this black hole inside of me sucking all  my capacity to enjoy things. I don't trust people anymore. NO ONE. I can't go out without having my heart racing, painfully slamming against my chest.
+
+I feel i'm damaged beyond repair. I've tried for a whole year to interact, to socialize, to build a network. Failed every attempt. I think i may look too insecure but I have nobody to tell me what's wrong and my therapist says i speak with a lot of confidence so what is happening here?
+
+I decided to live the rest of my life without having friends, friend is a strong word for me because I'm caring and way dedicated (and intense as i have been told) but always get utilized and mistreated.
+
+So why am I so hard to remember, to approach, to care for?
+
+I just wanted some acquaintances to go watch anime and maybe cosplay, or to have some drinks while playing videogames. To chat at night. To make them surprise gifts for their birthdays. To tell them ""hey, i made some pizza, wanna grab some?"". To go out for a coffee.
+
+I do amazing things on my own (and will do my best to keep on doing them) but sometimes I just need some human contact.
+
+I'm tired of trying. I give up. I'm sad. I just wanted to chat with someone today but there's nobody and i'm too scared now to accept anyone. Yup, i'm effed up.",1,1744528017.0,Vent,1,1.0,False
+1jy1w5x,https://i.redd.it/9e5skhc8xjue1.jpeg,Paint Wood Effects on Miniatures & Terrains [Tuto],"Hi all! Here is different doors and hatch I made out of ice cream sticks, coffee stirrer and BBQ skewer! C&C welcome
+
+I made a quick video about how it paint it easily to get this result if you are interested:
+https://youtu.be/7SzuEVWQI_g",9,1744527943.0,PoorHammer,1,1.0,False
+1jy1ve1,https://www.reddit.com/r/koreatravel/comments/1jy1ve1/11_day_south_korea_itinerary_tips_for_firsttimers/,11 Day South Korea Itinerary : Tips for first-timers,"Hello everyone, this is my first post here as I will be travelling to South Korea later this month with a few friends. 
+
+
+We will be covering Seoul, Busan and Jeju throughout the 12 day trip, I was looking for some suggestions and recommendations based on the itinerary. We will be landing late night of April 20th and depart early morning on May 2nd.
+
+ 
+Day 1 – April 21: Seoul
+• Travel from Seoul to Suwon via KTX or subway (approx. 1 hour)
+• Visit Suwon Hwaseong Fortress – a UNESCO World Heritage site showcasing 18th-century Korean military architecture
+• Stroll through Haenggung-dong Cafe Street for artsy cafes and photo spots
+• Head to Korean Folk Village for traditional Korean culture, houses, and performances
+• Return to Seoul in the evening
+• End the day with late-night street food in Myeongdong
+
+
+ 
+Day 2 – April 22: Seoul
+• Morning visit to Nami Island for panoramic views of the city
+• Gangchon Rail Park (Gyeonggang Line Rail Bike)
+• Relax by the Hangang River – ideal for a riverside walk or bike ride
+• Visit Petite France, a French-style cultural village and filming location for K-dramas
+• Explore Hongdae Street, known for youth culture, live music, art, and K-pop dance busking
+ 
+
+
+Day 3 – April 23: Seoul 
+• Tour Gyeongbokgung Palace, the largest and most iconic Joseon Dynasty palace
+• Take a cultural stroll through Bukchon Hanok Village or Eunpyeong Hanok Village 
+• Hwanho Park
+• End the day at Gwangjang Market to try popular street food
+• Wrap up the night with clubbing and nightlife in Itaewon 
+ 
+
+
+Day 4 – April 24: Seoul to Goyang (Coldplay Concert Day)
+Activities:
+• Visit Starfield COEX Mall – the largest underground shopping mall in Asia
+• Head to Goyang and stop by Cafe Yogurbara(famous yogurt cafe)
+• Relax at Ilsan Lake Park before the concert
+• Attend the Coldplay concert in Goyang
+• Return to Seoul late night and night market to eat and shop 
+
+
+
+Day 5 – April 25: Busan 
+Activities:
+• Take the train to Busan (scheduled for 8AM) 
+• Mario Kart Skyline Luge In Busan 
+• Dadaepo or Songdo Beach. Songdo Beach also has Cable Car option
+• Watch the sunset at Gwangalli Beach, with the Gwangan Bridge lighting up at night
+• Any Night Market 
+ 
+
+
+Day 6 – April 27: Busan
+Activities:
+• Ride the Haeundae Beach Train
+• Oryukdo Skywalk 
+• Huinnyeol Cultural Village
+• Visit the colorful alleys of Gamcheon Culture Village
+• Explore the fresh seafood haven Jagalchi Market
+
+
+
+Day 7 – April 28: Jeju Island
+• Cab from airport to hotel
+• Visit Seopjikoji Beach – dramatic cliffs and lava formations
+• Explore Dongmun Night Market 
+
+
+
+Day 8 – April 28: Jeju Island
+• Morning at Hyeopjae Beach or Geumneung Beach
+• Check out Cheonjiyeon or Jeongbang Waterfall
+• Enjoy a scenic drive along Aewol Coastal Road
+• Have coffee with a view at Bomnal Café
+• Relaxed night in 
+
+
+
+Day 9 – April 29: Jeju Island 
+• Visit Seongsan Ilchulbong (Sunrise Peak)
+• Jeju Folk Village Museum
+• Jeju Glass Castle
+• Relax at Gwangchigi Beach 
+• Night market 
+ 
+
+
+Day 10 – April 30: Back to Seoul 
+Activities:
+• Hannam-dong
+• Visit the Instagram-famous Onion Café in Seongsu-dong
+• Head to Imjingak Park & Freedom Bridge – a symbolic location near the DMZ
+• Explore Dongdaemun Design Plaza (DDP) for design exhibitions
+• Evening: Hongdae Nightlife or Noraebang
+ 
+
+
+Day 11 – May 1: Seoul 
+Activities:
+• Start the day with Isaac Toast (a Korean breakfast sandwich favorite)
+• Visit Lotte World and Seoul Sky 
+• Do some last-minute shopping - Dongdaemun Wholesale Shopping District
+• Visit Myeongdong Underground Mall
+• Chill by the Han River for a peaceful end to the trip
+",1,1744527852.0,koreatravel,1,1.0,False
+1jy1tgf,https://www.reddit.com/r/u_HurryNo797/comments/1jy1tgf/every_week_i_share_a_piece_of_text_from_my_book/,Every week I share a piece of text from my book: Behind My Front Door a true story about domestic violence. can be found on amazon /Barnes and Noble,"In June, I'm five and a half months pregnant, and it's starting to show now. I have a baby bump! Proud as a peacock, I'd prefer to stand in front of the mirror all day and show everyone my belly. Today, we're visiting Ricardo's parents. It has been a while since we've been there. When we arrive, we're warmly welcomed, as always, with coffee and treats. My mother-in-law is thrilled when I show her my little belly.
+
+'But then we must go shopping!' she says.
+
+I won't refuse that offer. We leave the men with their pigeons, and we women head to the city.
+
+'Do you already have some items for the baby at home?' my mother-in-law asks.
+
+'Yes, I've got blankets, bottles, pacifiers, and such,' I reply. We go to Hema and head straight to the baby clothes. 'Pick something out, it's on me,' she says.
+
+I look at her in surprise. 'Really?' 'Yes, really!'
+
+I pick out a little shirt, a pair of pants, and a few socks. I'm absolutely in love with them. At the cash register, I notice that my mother-in-law has also added some onesies. We're both beaming; we can hardly wait for the little one to arrive so we can dress him up.
+
+When I call my parents that evening to tell them about our purchases, my mother comes up with an idea.
+
+'Maybe you could ask Uncle Harold about their nursery? I know they still have one.'
+
+'Oh, Mom, that's a good idea! I'll give him a call right away.'
+
+Luckily, he's home and enthusiastically asks how the little one and I are doing.
+
+'But tell me, what are you calling for?'
+
+'Uh, Mom just mentioned that you still have a nursery?' I ask cautiously.
+
+'And now you want to ask if you can have that nursery?' 'Yes, actually.'
+
+'So what's the wait? When will you pick it up?'
+
+I jump off the couch. 'Can I? Really?' Ricardo looks at me happily.
+
+'Is next Saturday okay?' 'Perfect, see you then!'
+
+Yelling with joy, I hug Ricardo. 'We have a nursery!'
+
+That evening, when we're in bed, I start caressing Ricardo. I'm not sure why; at first, I didn't want to have sex to protect our little one. But it probably won't hurt, I think. Besides, I can't deny Ricardo his needs, nor mine for that matter. Ricardo willingly responds to my advances, but to my surprise, he's very careful. It's been a long time since we've had sex, and we both enjoy it immensely. So this is how good it can be...
+
+ 
+
+On Monday afternoon, Ricardo suddenly gets a phone call. He acts all mysterious and goes out into the hallway to answer his phone. I find it strange. He's back a moment later, beaming.
+
+'Truusje, I got a job!' He lifts me up in an embrace and spins me around.
+
+'Truly, Ricardo? Oh, that's great!'
+
+I grab him tightly and press a kiss on his lips. 'You know what this means? We can finally pay our bills!'
+
+'I know, Princess.' We're over the moon.
+
+ 
+
+The nursery is being delivered today. For days, I've been rearranging furniture in the house to make room for the crib and changing table. I've also made space in our wardrobe for our little one's clothes, and thanks to the shopping with both grandmas, it's already quite a collection.
+
+The doorbell rings. When I open it, my uncle is there.
+
+'How amazing that you could bring the nursery! I'm so excited!'
+
+'Happy to do it, kiddo. If you start brewing the coffee, Ricardo and I will bring the nursery inside.'
+
+Ricardo slowly gets up from the couch and follows Uncle Harold outside. In the meantime, I can't resist rearranging the furniture again. Still, I should probably wait until the nursery is in here.
+
+Just as the coffee is ready, Ricardo and Uncle Harold return with the changing table. I'm almost jumping with excitement! 'Where do you want it to go?'
+
+'Just put it somewhere, I still need to make space and rearrange
+
+https://preview.redd.it/z021pgvbwjue1.jpg?width=1410&format=pjpg&auto=webp&s=2fdacb43110ec36885767a08ec8783cd07e88d6c
+
+",1,1744527643.0,u_HurryNo797,0,1.0,False
+1jy1tek,https://www.reddit.com/r/borussiadortmund/comments/1jy1tek/social_sunday_13042025/,Social Sunday (13/04/2025),"Grab your coffee and get comfortable, it's Sunday :)
+
+*Talk about anything, or something else!*",1,1744527638.0,borussiadortmund,0,1.0,False
+1jy1s89,https://www.reddit.com/r/JapanTravelTips/comments/1jy1s89/apple_pay_suica/,Apple Pay Suica,"Understand that one can add an electronic version of the Suica to Apple Wallet (without the Suica app). Any idea :
+
+1. What is the minimum top-up amount?  
+
+2. Assuming I have only an Amex in my Apple Wallet. After adding the Suica, I should also see the Suica card. What I am curious is, when going through the station gate, do I need to open my Apple wallet to manually switch to the Suica card and switch back to my Amex afterwards to buy say a coffee from a cafe?
+
+3. Same scenario as above, when I go to a 7-11 that accepts Suica, will the payment defaults to my Amex or Suica or must I always do a manual switch?
+
+4. After the trip, how long can I let the Apple Suica stay dormant before it will be ""discontinued/cancelled"". Can I reactivated it after say 1 or 2 years later?
+
+Thanks in advance for the help.
+
+
+
+",3,1744527507.0,JapanTravelTips,4,0.8,False
+1jy1qhy,https://www.reddit.com/r/barista/comments/1jy1qhy/nonamerican_baristas_would_sweet_flavored_lattes/,"Non-American baristas: Would sweet, flavored lattes be popular in your country?","In the U.S., based off of the many menus people post here, there is a huge market for sweet, flavored lattes — think chocolate banana, coconut, pumpkin spice, white chocolate, etc. They’re often packed with syrups and toppings and are especially popular with casual coffee drinkers. 
+
+I live in a big city Europe where it’s quite rare to find these, at least in abundance. You might have a few of the popular coffee shops doing one seasonal beverage, typically pumpkin spice in the fall, or of course at Starbucks but it’s not a very popular chain. They don’t even sell flavored coffee creamer in stores. 
+
+For those of you working outside the U.S.:
+Do these kinds of drinks exist in your cafes?
+Are they popular? Or would customers turn their noses up at them?
+Do you think there’s potential for them to take off, or would it clash too much with local coffee culture?
+
+I’d love to hear how your customers react to anything that’s more “dessert-like” than espresso-focused.
+
+Thanks in advance!
+",3,1744527298.0,barista,1,0.8,False
+1jy1q52,https://i.redd.it/7mb7t7a7vjue1.jpeg,Would love if this picture was taller for a lock screen wallpaper,"As the title says, would love to have this picture as a lock screen but doesn’t fit well so looking for it to be expanded taller
+
+Ps.. definitely some coffee tips will be handed out 😋
+
+-thank you!!",0,1744527256.0,PhotoshopRequest,10,0.5,False
+1jy1plt,https://i.redd.it/i7zale2tujue1.png,About to binge read this... see y'all later,,5,1744527193.0,selfie,1,1.0,False
+1jy1olb,https://i.redd.it/pbo0smonujue1.jpeg,Modere queen of the huns and its downfall,"So I start this off with the pretex of the lady is someone I went to school with and she has been doing MLM since about the age of 24. I’ve watched many of her ventures and she’s tried to recruit me for many of her schemes also. So a good 8-10 years.
+She is the queen of any company she joins and is usually somewhere near the top. A parent passed away when she was young, the life insurance money bought her way through the MLM world and makes her very successful in what ever she does. She’s one who’s constantly on the trips with awards all sorts. If you saw her and the life she leads she’d convince you that MLM is absolutely everything they say and more. But when you “know” her properly you see the real side. She specialises in recruiting parents as she has some children and loves the promote the having a job that works around your children and from home. So for me she’s the worst type of MLM hun there is. 
+
+So last night on her socials she does the live but doesn’t give any details on why modere has apparently closed shop. She is very clear in her message that she has no idea why they have stopped what ever they do and she was not told any information even tho she is a leader. I find this suspicious but nonetheless she’s preaching about how she’s been through worse than this and will bounce back because she’s a boss babe blah blah blah. She seems to have a hand in any dodgey MLM there is out there. 
+
+A few years back one company she was with went under very much the same style as this one, leader hun was stationed in her normal country of England when this went down. By the next week she had disappeared off social media and relocated over night to Spain ! Claiming her job allowed her to do this. After a shocked deep dive on the old google I actually found some pretty shocking stuff that she was being looked into by multiple agencies for selling products that had claimed to be something they were not, unregulated completely and also for tax fraud etc. 
+She hid in Spain for a good year clearly avoiding what ever was waiting for her at home. Then she was making the shock move home as she had found the “ONE” which was modere. Hawking the products as miracle products and you will look like her all the while she fills her self with Botox, plastic surgery, extensions and fake tan. Her coffee was the reason she lost all her last lot of baby weight what she fails to mention is she actually develops diabetes while pregnant and it drops off naturally once she’s not. You can see the level of deception she achieves with her selling her products. 
+
+She’s been selling the package and life experience of modere since then and to see yet another sink with her being close the top really is no coincidence. I have tried to find any info but so far I’ve come up with nothing. Any information on this one would be fantastic people must know what had actually happened. Still I have a front row seat for this one also so I will you all updated with the trials and tribulations of this queen of MLM world ! Please if you know who this is don’t dox her. I’m just looking for any info on modere and it’s very quick departure. 
+
+
+",4,1744527074.0,antiMLM,1,0.83,False
+1jy1nlt,https://www.reddit.com/r/dating/comments/1jy1nlt/single_again/,Single again,"Like the title says
+
+She was smart and cute and we had a coffee date that went well but then our schedules didn't work for a while so a couple of weeks passed as she got bogged down in work. And then tonight she decided that she was under too much stress and work and she was giving up on dating for the time being.
+
+Sigh.
+
+Well, try again.",6,1744526952.0,dating,4,0.87,False
+1jy1n7u,https://www.reddit.com/r/nyc/comments/1jy1n7u/tourist_visit_to_queens/,Tourist visit to Queens,"Hey all,
+
+I’ll be in NYC on May 2—it’s my 7th visit, so I’ve already done the big tourist spots in Manhattan. This time, I want to spend the day exploring Queens, focusing on street photography and real life New York neighborhoods away from the main tourist areas. 
+
+I love walking long distances (I walk fast and tend to cover a lot), street photography (storefronts, elevated subways, signage, architecture, people) and typical old-school diners, bagel shops, and local cafés. 
+
+This is what I have in mind:
+
+Morning (early start, I’m staying near Times Square and will leave my hotel around 7am) – Jackson Heights
+- Walk Roosevelt Ave, 37th Ave, and under the 7 train
+- Looking for a good breakfast spot (bagels, diner, or something with local character)
+
+Midday – Astoria
+- Walk under the N/W train on 31st St
+- Explore neighbourhood 
+- Explore side streets, have lunch somewhere 
+
+Afternoon – Long Island City and Gantry Plaza State Park. I need to catch a train from Penn Station at 6pm and will need to collect my suitcase in my hotel, so should be in my hotel latest by 5pm. 
+
+A few questions for locals or anyone who knows the area well:
+- Are these neighborhoods generally safe for a solo walker with a camera?
+- Do you recommend any specific places for breakfast, coffee, or a classic NYC diner experience?
+- Any great photography spots you’d suggest in these areas?
+- And do you think this plan is enough to fill a full day, or is it too much?
+
+Any other suggestions are very welcome! I am still planning my day in New York…
+",1,1744526908.0,nyc,2,0.6,False
+1jy1mep,https://www.reddit.com/r/OffMyChestPH/comments/1jy1mep/ang_hirap_maging_mahirap/,ang hirap maging mahirap,"I’m 20(F) currently studying Psychology at State College. Yes, Stage College. Ang hirap mag aral kapag kulang ka rin sa budget ‘no? Sabi ko sa parents ko kailangan ko na ng gadget (kahit laptop lang man) kasi kapag 3rd year na ako, more on research na ang gagawin namin, hindi naman ako demanding kahit 2nd hand na laptop tatanggapin ko pero wala raw pera, ang hirap din mag ipon pag pasok mo every week ay 5 days straight (Mon-Fri)  not to mention na 500 lang allowance ko per week which includes my transpo back n forth, wala nang natitira sakin every week grabe lagi pa ako nakukulangan minsan sinasabi ko nalang sa mga kaibigan ko busog pa ako, ang mahal din ng pagkain. I applied to many coffee shops samin or even crews, pero hanap nila with experience. Hindi ko na alam ang gagawin ko the thought na 3rd year na ako next S.Y pero kahit wifi, gadgets wala ako knowing na may min-maintain kaming grade sa school ko since State College siya.. Inaddress ko na rin sa parents ko na di kasya sakin ang 500 per week 🥹 pero ang sabi sakin “malaki na ang 500 per week, nung kami may nabibili kami sa dalawang piso” hayy HAHAHAHAH",4,1744526811.0,OffMyChestPH,3,0.84,False
+1jy1lkm,https://www.reddit.com/r/Smart_water_bottles/comments/1jy1lkm/32_oz_hydro_flask_with_straw_lid_2025_best_choice/,32 oz Hydro Flask with Straw Lid (2025): Best Choice? Review & Alternatives!,"[[explore Top Rated 32 ounce hydro flask with straw lid on Amazon.]](https://storeins.com/camp-stove/?kw=32 ounce hydro flask with straw lid)
+    
+# Is the 32 oz Hydro Flask with Straw Lid Your Best Hydration Companion in 2025? A Comprehensive Review and Alternatives
+
+Staying hydrated is crucial for overall health and well-being, and having the right water bottle can make all the difference. The **32 ounce hydro flask with straw lid** has become a popular choice, but is it truly the best option for you in 2025? This in-depth review explores its features, benefits, and potential drawbacks, while also presenting alternative solutions to help you make an informed decision.
+
+## Why Choose a 32 oz Hydro Flask with Straw Lid?
+
+The appeal of the **32 ounce hydro flask with straw lid** lies in its combination of functionality, durability, and style. Let's delve into what makes it so desirable:
+
+   **Convenient Hydration:** The straw lid offers easy, one-handed access to your drink, making it ideal for **active individuals** who need to stay hydrated on the go. Whether you're hitting the trails for a **hydro flask for hiking** adventure, powering through a **workout**, or simply need a **desk water bottle** for work or school, the straw lid allows for effortless sipping without the need to unscrew a cap.
+
+   **Temperature Retention:** Hydro Flask is renowned for its double-wall vacuum insulation, which keeps drinks cold for up to 24 hours and hot for up to 12. This is especially significant for **health and wellness enthusiasts** and those who want to enjoy refreshing cold water throughout the day or keep thier coffee warm during a long meeting. the **hydro flask temperature** control is a key selling point.
+
+   **durability and Safety:** Made from pro-grade 18/8 **stainless steel water bottle**, the Hydro Flask is built to withstand the rigors of daily use. Its resistant to dents, scratches, and rust, ensuring a long lifespan. Moreover, it's **BPA free water bottle**, ensuring your water stays pure and free from harmful chemicals.
+
+   **Leak-Proof Design:** The insulated flex straw cap is designed to be **leakproof**, making it a reliable choice for throwing in your bag without worrying about spills. This is a significant advantage for **students and young professionals** who need a dependable water bottle for their busy lives.
+
+   **Stylish and Customizable:** The Hydro Flask comes in a wide array of **hydro flask colors**, allowing you to express your personal style. The brand also offers various accessories,such as different lids and boots,to further customize your bottle. This makes it a popular choice for those who value aesthetics.
+
+## Who is the 32 oz Hydro Flask with Straw Lid Perfect For?
+
+The **32 ounce hydro flask with straw lid** caters to a diverse range of individuals. Consider these segments:
+
+   **Active Individuals:** From athletes to outdoor enthusiasts, anyone who leads an active lifestyle can benefit from the Hydro Flask's portability, durability, and convenient straw lid. It's perfect as a **gym water bottle 32 oz**, **sport water bottle with straw**, or a **hydro flask for cycling**.
+   **Students and Young Professionals:** Staying hydrated is essential for focus and productivity, and the Hydro Flask makes it easy. Its sleek design and various color options make it a **hydro flask for school** or **hydro flask for college**, while its robustness makes it ideal as a **work water bottle**.
+   **Health and Wellness Enthusiasts:** Those who prioritize their health will appreciate the Hydro Flask's ability to keep water cold for extended periods,encouraging them to drink more throughout the day. The stainless steel construction also ensures the purity of their water, making it the **best water bottle for health**.   **gift Givers:** Looking for a thoughtful and practical gift? The hydro Flask is a popular choice for birthdays, holidays, or just because. It's a **hydro flask gift** that is sure to be appreciated by athletes, students, or anyone who values quality hydration.
+
+## Potential Drawbacks and Considerations
+
+While the **32 ounce hydro flask with straw lid** offers many benefits, it's critically important to consider potential downsides:
+
+   **Price:** Hydro Flasks are generally more expensive than other water bottles on the market. The **hydro flask price** can be a barrier for some consumers. Look out for a **hydro flask sale** or **hydro flask discount** to potentially save money.
+   **Cleaning:** While the bottle itself is easy to clean, the straw lid can be more challenging, requiring regular cleaning to prevent mold or bacteria buildup. It's essential to ensure all parts are thoroughly cleaned, and a bottle brush can be helpful.
+   **size and Weight**: At 32 ounces, the Hydro Flask can be bulky and heavy, especially when full. If you prioritize ultra-lightweight portability, a smaller or different type of water bottle might be more suitable. Weighing the benefits of capacity versus portability is vital.
+   **Straw Lid Durability:** While the insulated flex straw cap is convenient, the straw itself can be prone to damage or wear and tear over time. You might need to purchase a **hydro flask straw lid replacement** or a **hydro flask compatible straw lid** eventually.## Alternatives to the 32 oz Hydro Flask with Straw Lid
+
+If the **32 ounce hydro flask with straw lid** isn't quite the right fit, consider these alternatives:
+
+   **Hydro flask with Flex Cap (without Straw):** If you prefer a simpler design and easier cleaning, the Hydro Flask with the standard Flex Cap is a great option.
+
+   **Smaller Hydro Flask Sizes:** If you need a more portable option, consider the 24 oz or 18 oz Hydro Flask. Explore the **hydro flask sizes** to find one that suits your needs.
+
+   **Other Insulated Water bottle brands:** Brands like Yeti, Stanley, and Takeya offer comparable insulated water bottles with various lid options.
+
+   **Hydration Reservoirs:** For serious hikers and athletes, a hydration reservoir (such as those made by camelbak or Osprey) offers a hands-free hydration solution.
+
+   **Eco-Amiable Alternatives:** For those prioritizing sustainability, consider a glass or bamboo water bottle.
+
+## The 32 oz Hydro Flask with straw Lid in 2025: What's New?
+
+As we look towards 2025, Hydro Flask will likely continue to innovate and improve its products. Keep an eye out for:
+
+   **New Colors and Designs:** Hydro Flask is known for releasing **hydro flask new colors** and limited-edition designs regularly, so expect exciting new options in 2025.
+
+   **Improved Straw Lid Design:** Hydro Flask may introduce a redesigned straw lid that is more durable and easier to clean, addressing some of the current concerns.
+
+   **Enhanced Insulation technology:** Expect continued improvements in insulation technology, potentially offering longer temperature retention.
+
+   **More Sustainable Materials:** As sustainability becomes increasingly important, Hydro Flask may explore the use of more recycled or bio-based materials in its products.
+
+## Tips for Choosing the Right Water Bottle
+
+Choosing the right water bottle involves considering your individual needs and preferences. Here are some tips to help you make the best decision:
+
+   **Assess Your Hydration Needs:** How much water do you typically drink in a day? This will help you determine the appropriate size of the bottle. A **best water bottle for staying hydrated** will be one that can accommodate the amount of water you require.
+
+   **Consider Your Activity Level:** Are you an athlete, a student, or a desk worker? Your activity level will influence the type of bottle and lid that best suits your needs.
+
+   **Think About Portability:** Do you need a lightweight and compact bottle that you can easily carry in your bag?
+
+   **Prioritize Cleaning:** How important is ease of cleaning to you? If you dislike complicated cleaning processes, opt for a simple design.
+
+   **Set a Budget:** Water bottle prices can vary substantially. Determine your budget before you start shopping.
+
+   **Read Reviews:** Before making a purchase,read **hydro flask review** and compare different brands and models.
+
+## Conclusion: Is the 32 oz Hydro Flask with Straw Lid Right for You?
+
+The **32 ounce hydro flask with straw lid** remains a strong contender in the market, offering a compelling combination of convenience, durability, and style. its ability to keep drinks cold for extended periods and its **leakproof water bottle** design are major advantages for various users. However, factors like price, cleaning requirements, and straw lid durability should be carefully considered.
+
+Ultimately, the decision of whether or not to purchase a **32 ounce hydro flask with straw lid** depends on your individual needs and preferences. By carefully weighing the pros and cons and considering alternative options, you can choose the perfect water bottle to help you stay hydrated and healthy in 2025 and beyond. It might even make a great **hydro flask Christmas gift**! Remember to keep an eye out for the **hydro flask latest model** and **hydro flask accessories** to enhance your hydration experience. Weighing a **hydro flask with straw vs without straw** and different sizes like **hydro flask 32 oz vs 40 oz** will help you find the perfect fit.
+
+[[Explore Top Rated 32 ounce hydro flask with straw lid on Amazon.]](https://storeins.com/camp-stove/?kw=32 ounce hydro flask with straw lid)",1,1744526710.0,Smart_water_bottles,0,1.0,False
+1jy1l0l,https://www.reddit.com/r/Fitness_India/comments/1jy1l0l/diet_plan_for_review/,Diet Plan for review,"New Diet plan, can anyone please check and suggest if anything missing 
+
+
+⏰ 7:00 AM - Wake Up
+✅ 1-2 glasses of water
+
+⏰ 7:30 AM - Light Pre-Workout Meal (Carbs + Light Protein)
+✅ Small bowl of dal-rice
+✅ 1 banana (quick energy for gym)
+
+⏰ 8:00 AM - Black Coffee
+
+⏰ 8:30 - 9:15 AM - Gym Workout
+
+⏰ 9:30 AM - Post-Workout Meal (High Protein + Recovery)
+✅ 4 eggs
+✅ Sabzi + 1 roti
+✅ 5 almonds
+
+⏰ 1:30 PM - Lunch (Balanced Protein & Carbs)
+✅ Sabzi + 1 roti 
+✅ 100g paneer
+✅ 1 glass buttermilk
+✅ 1.5 bowls dal-rice
+✅ 1 bowl pomegranate (for blood circulation & recovery)
+
+⏰ 4:00 PM - Refreshing Drink + Fiber Boost
+✅ Aam Panna / Kokum Sharbat
+✅ 1 bowl papaya/2 banana (for digestion & fiber)
+
+⏰ 6:00 PM - Evening Tea + Light Snack
+✅ Desi Chai
+✅ Bowl of sprouts (100g)
+
+⏰ 9:00 PM - Dinner (Light but Nutritious)
+✅ Sabzi + 1 roti 
+✅ Small bowl dal-rice
+✅ 1 cup curd
+✅ 1 kiwi or guava (helps digestion & improves",1,1744526640.0,Fitness_India,0,1.0,False
+1jy1kts,https://i.redd.it/e04ugpgatjue1.jpeg,Starbucks instant VIA ready brew,"Did they minimize the amount of coffee in these instant brews? Now one satchel (2.3g) does not give a rich cup of coffee anymore - I have to use two…
+
+",1,1744526617.0,starbucks,0,0.67,False
+1jy1kol,https://www.reddit.com/r/stopdrinking/comments/1jy1kol/has_anyone_decided_to_quit_halfway_through_a/,Has anyone decided to quit halfway through a holiday? Any ‘middle lane’ drinkers that have quit? Looking for some advice/inspiration I guess,"I’m a few days into a lovely family holiday at al all inclusive hotel and I’ve woken up on day 3 and I’m sitting having my morning coffee and I’m just… wondering if I’m done, you know? 
+
+I almost feel like a fraud posting this question here, genuinely, because it’s not even like my drinking is bad or causing me or my life any problems. I can (most of the time) moderate, other than the occasional getting a taste for it in a pub garden with my pals and going a bit silly. I don’t drink a huge amount anymore and often have breaks of a month between consumption. But I’m in this all inclusive environment and having a couple of cocktails in the afternoon, then wine with dinner and some shorts and mixers whilst watching the awful entertainment or playing cards. I suppose very middle lane drinking and since having my daughter a couple of years ago it’s definitely less frequent or heavy, but still sometimes a few with the occasional big one thrown in for good measure that’ll put me off for a month or more after 4 hours of sleep and parenting a toddler, then a 3 day hangover.
+
+But I woke up this morning, put my gym stuff on, I’m sat watching the sun rise and drinking a coffee with a low grade mental fog, slight nausea from the probably poor quality alcohol, and all of a sudden I just thought… am I done? And I want to be, I actually do know that in my soul as I’ve been here journaling and reflecting on it when my girls are asleep for the last hour. I want to take BJJ to the next level when I get home, I want to accelerate my career further and I want to be a better, more present dad on this holiday and every day for the rest of my life. But, even for someone like me the idea of never having a cold beer in a sunny pub garden, or getting a bit silly at a wedding, or watching the sun set over the sea with a cheeky margarita… it almost fills me with sadness. 
+
+I don’t even know why I’m writing this and sorry if I’ve wasted anyone’s time, I know there’s many here with way bigger drinking problems who probably think I’m an idiot… it’s just this is a decision I’ve been struggling with for a while and I’d really love any thoughts, encouragement etc that anyone is kind enough to pass on - especially if you were similar to me when you stopped. ",7,1744526598.0,stopdrinking,8,0.9,False
+1jy1jw4,https://www.reddit.com/r/Market76/comments/1jy1jw4/h44_furious_wcanned_coffee/,H:44 Furious W:Canned Coffee,2k coffee obo ,0,1744526504.0,Market76,1,0.5,False
+1jy1j8h,https://www.reddit.com/r/yarboglobal/comments/1jy1j8h/my_full_review_after_4_months_with_the_yarbo_snow/,My Full Review After 4 Months with the Yarbo Snow Blower,"I received my Yarbo in early winter after a long waiting, and I wanted to share how it’s been going so far. This is the combo of the Yarbo core unit with the snow blower module attached. First impression out of the box: this thing is a beast. The core unit itself feels built like a little tank on treads. It’s heavy (the snow blower module alone is about 40 lbs, and the whole robot with battery is well over 100 lbs) – I actually had to ask my brother to help me carry and assemble it because doing it solo was tough. The weight is a plus when it’s plowing through snow (good traction and stability), but moving it around manually is definitely a workout. The package came with the core, the blower attachment, a big battery, a docking station, a “Data Center” antenna thing, and even a handheld remote control. (By the way, the remote control is a fun touch – I felt like a kid with an RC tank, driving Yarbo around a bit in manual mode. It works well for fine control or if I ever need to steer it out of a tricky spot, though most of the time it drives itself.)**Setup and assembly:** Attaching the snow blower module to the core was straightforward in theory (line up the connectors and latch it on), but given the weight it was a bit of a hassle. I managed to mount it with two people. I’ve seen others suggest Yarbo should allow driving the core into attachments to self-mount – that would be awesome in the future, because right now you muscle the pieces together. Once assembled, I installed the Yarbo app, which walked me through connecting the robot to my WiFi and pairing with that “Data Center” unit. The Data Center is basically an antenna hub that you place outside to ensure Yarbo has a strong signal and GPS reference. I put mine on a wall outside my garage near the door. The app connection was a bit finicky at first – it wouldn’t find the Yarbo’s hotspot, but after a restart of the Yarbo it connected.With the app set up, I mapped out my driveway as the cleaning area. The interface has you draw a work zone and a path from the docking station to that zone. It took me a few tries to get the pathway right. But once I had the virtual boundaries and route configured, I sent Yarbo on its first mission. I was a little nervous watching this expensive robot trundle off on its own, but also super excited.**First run in the snow:** We had about a 4-inch snowfall overnight, which was a perfect test. Yarbo rolled off the dock in the morning and headed down the path I set to the driveway. Right away, I was impressed by how it handled the snow. It cleared a path about two feet wide. It moves methodically in lanes, back and forth, blowing snow to the side. The two-stage snow blower module chews through the snow and throws it a good distance. Officially it’s advertised to throw snow up to 40, but in my case I’d say it was launching it maybe 20-25 feet, which is still plenty to get it off my driveway. I had to fiddle with the chute direction in the app a bit to make sure it wasn’t flinging snow into the road or onto my neighbor’s property. Thankfully the chute can swivel around and even adjust angle, so I aimed it toward my lawn. There’s a slight delay when you adjust it via the app, but it worked. After that, Yarbo just went back and forth on its own, clearing the whole driveway while I sipped coffee inside (watching from the window like a proud parent).
+
+# Daily Use and Routine: Over the next couple of weeks, snowfall was a regular visitor. I settled into a routine with Yarbo that felt surprisingly natural. Basically, whenever snow was forecast, I’d schedule a run or manually start it once a couple inches had accumulated. Pro-tip I learned (from both the manual and the community): don’t wait for a foot of snow to pile up – it’s best to let Yarbo clear in stages, like every 2-3 inches of. So during a long storm, I ran it multiple times. Yes, that means it’s doing a few smaller jobs rather than one herculean task, but it handles each run much more easily and doesn’t bog down.A typical morning after snowfall went like this: I’d peek outside to see how much fell, then use the app to send Yarbo out while I sipped my coffee. Often by the time I finished breakfast, my driveway and walkways were done. Talk about feeling spoiled. On heavy snow days, I’d have it go out once in the evening and once again at dawn. Since it automatically returns to recharge when needed, I never really worry about the battery – it has always had plenty of juice for my medium-sized driveway.Noise and neighbors: I also learned that running an electric snow blower early in the morning is a lot more neighbor-friendly than a gas one. Yarbo makes a sound, sure – mostly the whir of the auger and the tracks – but it’s leagues quieter than my old gas snowblower that could wake the dead. I’ve had it clearing snow at 5 AM and no angry texts from the neighbors so far. One neighbor actually was fascinated by it rather than annoyed; he came over later to ask a bunch of questions (“So it just, like, does it by itself? How much does that thing cost!?”).
+
+**Performance and capability:** In terms of raw ability, I’m pretty happy. The snow was fairly wet and heavy, but Yarbo powered through. It even managed the packed pile at the end of the driveway where the city plow usually leaves a berm. It slowed down a little there and took a couple passes, but eventually it cleared that chunk too. I did notice that when it reached the end of each row, where there were tall snow banks on either side, it sometimes struggled to turn around. It has a skid-steer/tank turn mechanism (one track goes forward, the other backward to pivot). If there’s a big pile on both sides, that maneuver is a bit hard – one time it kind of scraped against the snowbank and needed a few tries to make the turn. Not a deal-breaker, but an area for improvement. I heard the company might upgrade the drive motors in future versions to help with this, which would be great. Still, the weight and tracks generally give it good traction. My driveway has a slight slope and some uneven spots, but Yarbo didn’t slip at all. It’s designed to handle bumps up to about 2 inches – for example, I have a little lip where my driveway meets the sidewalk, maybe 1 inch, and it climbed over that without any issue. I also noticed it has sensors (and a front camera) to detect obstacles. I tested this by casually walking in front of it (ready to jump out of the way just in case) and it actually detected me and stopped. It has “smart obstacle detection” built in, which is reassuring. So safety-wise, it seems to know not to plow into people or things.
+
+# Four Months Later: Reflections and Evolving Perspective: Over time, I also grew more confident in the machine. The first few runs, I would hover by the window or literally follow it at a distance, heart pounding whenever it got near something potentially problematic. By the end of winter, I found myself letting it do its thing unsupervised more often. I’d sometimes wake up to an alert that it finished, having not watched it at all – which felt like true progress in trust. That said, I don’t think I’ll ever fully “set and forget” it, because weather and environments are unpredictable. But I’m now at the point where I’d rate the autonomy 8 out of 10 – pretty great, all things considered.From a value perspective, I’ll admit Yarbo is expensive. I got in on a pre-order deal, and it was still more money than I ever imagined spending on a snowblower. My rationalization: I’m also eyeing the lawn mowing capability for summer (the same base robot can be used with a mower attachment), so it’s a year-round investment. Plus, I’m not getting any younger – avoiding the heart attack snow-shoveling scenario is priceless, right? After this winter, I have zero regrets about purchasing. My back is thankful, I gained a cool story to tell, and I firmly believe this is the future of home maintenance. Prices will likely come down in a few years as the tech, but I’m thrilled to be enjoying it today. To wrap up this lengthy ramble: Yarbo hasn’t just changed how I clear snow, it’s changed my whole winter routine. What used to be a dreaded chore is now almost fun – or at least, something I don’t worry about. I even find myself kind of looking forward to showing it off when friends come over: “Hey, wanna see my robot snowblower do its thing?” (Yes, I’ve become that nerd). It’s not perfect and it’s not for everyone, but it is for me. If you’re considering one, go in with eyes open (hopefully this wall of text helped with that), and you might end up as satisfied as I am.Thanks for reading my story! I know it was long, but I wanted to be thorough for anyone on the fence.",1,1744526428.0,yarboglobal,0,1.0,False
+1jy1ixa,https://www.reddit.com/r/Yarbo/comments/1jy1ixa/my_full_review_after_4_months_with_the_yarbo_snow/,My Full Review After 4 Months with the Yarbo Snow Blower,"I received my Yarbo in early winter after a long waiting, and I wanted to share how it’s been going so far. This is the combo of the Yarbo core unit with the snow blower module attached. First impression out of the box: this thing is a beast. The core unit itself feels built like a little tank on treads. It’s heavy (the snow blower module alone is about 40 lbs, and the whole robot with battery is well over 100 lbs) – I actually had to ask my brother to help me carry and assemble it because doing it solo was tough. The weight is a plus when it’s plowing through snow (good traction and stability), but moving it around manually is definitely a workout. The package came with the core, the blower attachment, a big battery, a docking station, a “Data Center” antenna thing, and even a handheld remote control. (By the way, the remote control is a fun touch – I felt like a kid with an RC tank, driving Yarbo around a bit in manual mode. It works well for fine control or if I ever need to steer it out of a tricky spot, though most of the time it drives itself.)**Setup and assembly:** Attaching the snow blower module to the core was straightforward in theory (line up the connectors and latch it on), but given the weight it was a bit of a hassle. I managed to mount it with two people. I’ve seen others suggest Yarbo should allow driving the core into attachments to self-mount – that would be awesome in the future, because right now you muscle the pieces together. Once assembled, I installed the Yarbo app, which walked me through connecting the robot to my WiFi and pairing with that “Data Center” unit. The Data Center is basically an antenna hub that you place outside to ensure Yarbo has a strong signal and GPS reference. I put mine on a wall outside my garage near the door. The app connection was a bit finicky at first – it wouldn’t find the Yarbo’s hotspot, but after a restart of the Yarbo it connected.With the app set up, I mapped out my driveway as the cleaning area. The interface has you draw a work zone and a path from the docking station to that zone. It took me a few tries to get the pathway right. But once I had the virtual boundaries and route configured, I sent Yarbo on its first mission. I was a little nervous watching this expensive robot trundle off on its own, but also super excited.**First run in the snow:** We had about a 4-inch snowfall overnight, which was a perfect test. Yarbo rolled off the dock in the morning and headed down the path I set to the driveway. Right away, I was impressed by how it handled the snow. It cleared a path about two feet wide. It moves methodically in lanes, back and forth, blowing snow to the side. The two-stage snow blower module chews through the snow and throws it a good distance. Officially it’s advertised to throw snow up to 40, but in my case I’d say it was launching it maybe 20-25 feet, which is still plenty to get it off my driveway. I had to fiddle with the chute direction in the app a bit to make sure it wasn’t flinging snow into the road or onto my neighbor’s property. Thankfully the chute can swivel around and even adjust angle, so I aimed it toward my lawn. There’s a slight delay when you adjust it via the app, but it worked. After that, Yarbo just went back and forth on its own, clearing the whole driveway while I sipped coffee inside (watching from the window like a proud parent).
+
+# Daily Use and Routine: Over the next couple of weeks, snowfall was a regular visitor. I settled into a routine with Yarbo that felt surprisingly natural. Basically, whenever snow was forecast, I’d schedule a run or manually start it once a couple inches had accumulated. Pro-tip I learned (from both the manual and the community): don’t wait for a foot of snow to pile up – it’s best to let Yarbo clear in stages, like every 2-3 inches of. So during a long storm, I ran it multiple times. Yes, that means it’s doing a few smaller jobs rather than one herculean task, but it handles each run much more easily and doesn’t bog down.A typical morning after snowfall went like this: I’d peek outside to see how much fell, then use the app to send Yarbo out while I sipped my coffee. Often by the time I finished breakfast, my driveway and walkways were done. Talk about feeling spoiled. On heavy snow days, I’d have it go out once in the evening and once again at dawn. Since it automatically returns to recharge when needed, I never really worry about the battery – it has always had plenty of juice for my medium-sized driveway.Noise and neighbors: I also learned that running an electric snow blower early in the morning is a lot more neighbor-friendly than a gas one. Yarbo makes a sound, sure – mostly the whir of the auger and the tracks – but it’s leagues quieter than my old gas snowblower that could wake the dead. I’ve had it clearing snow at 5 AM and no angry texts from the neighbors so far. One neighbor actually was fascinated by it rather than annoyed; he came over later to ask a bunch of questions (“So it just, like, does it by itself? How much does that thing cost!?”).
+
+**Performance and capability:** In terms of raw ability, I’m pretty happy. The snow was fairly wet and heavy, but Yarbo powered through. It even managed the packed pile at the end of the driveway where the city plow usually leaves a berm. It slowed down a little there and took a couple passes, but eventually it cleared that chunk too. I did notice that when it reached the end of each row, where there were tall snow banks on either side, it sometimes struggled to turn around. It has a skid-steer/tank turn mechanism (one track goes forward, the other backward to pivot). If there’s a big pile on both sides, that maneuver is a bit hard – one time it kind of scraped against the snowbank and needed a few tries to make the turn. Not a deal-breaker, but an area for improvement. I heard the company might upgrade the drive motors in future versions to help with this, which would be great. Still, the weight and tracks generally give it good traction. My driveway has a slight slope and some uneven spots, but Yarbo didn’t slip at all. It’s designed to handle bumps up to about 2 inches – for example, I have a little lip where my driveway meets the sidewalk, maybe 1 inch, and it climbed over that without any issue. I also noticed it has sensors (and a front camera) to detect obstacles. I tested this by casually walking in front of it (ready to jump out of the way just in case) and it actually detected me and stopped. It has “smart obstacle detection” built in, which is reassuring. So safety-wise, it seems to know not to plow into people or things.
+
+# Four Months Later: Reflections and Evolving Perspective: Over time, I also grew more confident in the machine. The first few runs, I would hover by the window or literally follow it at a distance, heart pounding whenever it got near something potentially problematic. By the end of winter, I found myself letting it do its thing unsupervised more often. I’d sometimes wake up to an alert that it finished, having not watched it at all – which felt like true progress in trust. That said, I don’t think I’ll ever fully “set and forget” it, because weather and environments are unpredictable. But I’m now at the point where I’d rate the autonomy 8 out of 10 – pretty great, all things considered.From a value perspective, I’ll admit Yarbo is expensive. I got in on a pre-order deal, and it was still more money than I ever imagined spending on a snowblower. My rationalization: I’m also eyeing the lawn mowing capability for summer (the same base robot can be used with a mower attachment), so it’s a year-round investment. Plus, I’m not getting any younger – avoiding the heart attack snow-shoveling scenario is priceless, right? After this winter, I have zero regrets about purchasing. My back is thankful, I gained a cool story to tell, and I firmly believe this is the future of home maintenance. Prices will likely come down in a few years as the tech, but I’m thrilled to be enjoying it today. To wrap up this lengthy ramble: Yarbo hasn’t just changed how I clear snow, it’s changed my whole winter routine. What used to be a dreaded chore is now almost fun – or at least, something I don’t worry about. I even find myself kind of looking forward to showing it off when friends come over: “Hey, wanna see my robot snowblower do its thing?” (Yes, I’ve become that nerd). It’s not perfect and it’s not for everyone, but it is for me. If you’re considering one, go in with eyes open (hopefully this wall of text helped with that), and you might end up as satisfied as I am.Thanks for reading my story! I know it was long, but I wanted to be thorough for anyone on the fence.",2,1744526390.0,Yarbo,0,1.0,False
+1jy1ihc,https://www.reddit.com/r/automower/comments/1jy1ihc/my_full_review_after_4_months_with_the_yarbo_snow/,My Full Review After 4 Months with the Yarbo Snow Blower,"I received my Yarbo in early winter after a long waiting, and I wanted to share how it’s been going so far. This is the combo of the Yarbo core unit with the snow blower module attached. First impression out of the box: this thing is a beast. The core unit itself feels built like a little tank on treads. It’s heavy (the snow blower module alone is about 40 lbs, and the whole robot with battery is well over 100 lbs) – I actually had to ask my brother to help me carry and assemble it because doing it solo was tough. The weight is a plus when it’s plowing through snow (good traction and stability), but moving it around manually is definitely a workout. The package came with the core, the blower attachment, a big battery, a docking station, a “Data Center” antenna thing, and even a handheld remote control. (By the way, the remote control is a fun touch – I felt like a kid with an RC tank, driving Yarbo around a bit in manual mode. It works well for fine control or if I ever need to steer it out of a tricky spot, though most of the time it drives itself.)**Setup and assembly:** Attaching the snow blower module to the core was straightforward in theory (line up the connectors and latch it on), but given the weight it was a bit of a hassle. I managed to mount it with two people. I’ve seen others suggest Yarbo should allow driving the core into attachments to self-mount – that would be awesome in the future, because right now you muscle the pieces together. Once assembled, I installed the Yarbo app, which walked me through connecting the robot to my WiFi and pairing with that “Data Center” unit. The Data Center is basically an antenna hub that you place outside to ensure Yarbo has a strong signal and GPS reference. I put mine on a wall outside my garage near the door. The app connection was a bit finicky at first – it wouldn’t find the Yarbo’s hotspot, but after a restart of the Yarbo it connected.With the app set up, I mapped out my driveway as the cleaning area. The interface has you draw a work zone and a path from the docking station to that zone. It took me a few tries to get the pathway right. But once I had the virtual boundaries and route configured, I sent Yarbo on its first mission. I was a little nervous watching this expensive robot trundle off on its own, but also super excited.**First run in the snow:** We had about a 4-inch snowfall overnight, which was a perfect test. Yarbo rolled off the dock in the morning and headed down the path I set to the driveway. Right away, I was impressed by how it handled the snow. It cleared a path about two feet wide. It moves methodically in lanes, back and forth, blowing snow to the side. The two-stage snow blower module chews through the snow and throws it a good distance. Officially it’s advertised to throw snow up to 40, but in my case I’d say it was launching it maybe 20-25 feet, which is still plenty to get it off my driveway. I had to fiddle with the chute direction in the app a bit to make sure it wasn’t flinging snow into the road or onto my neighbor’s property. Thankfully the chute can swivel around and even adjust angle, so I aimed it toward my lawn. There’s a slight delay when you adjust it via the app, but it worked. After that, Yarbo just went back and forth on its own, clearing the whole driveway while I sipped coffee inside (watching from the window like a proud parent).
+
+# Daily Use and Routine: Over the next couple of weeks, snowfall was a regular visitor. I settled into a routine with Yarbo that felt surprisingly natural. Basically, whenever snow was forecast, I’d schedule a run or manually start it once a couple inches had accumulated. Pro-tip I learned (from both the manual and the community): don’t wait for a foot of snow to pile up – it’s best to let Yarbo clear in stages, like every 2-3 inches of. So during a long storm, I ran it multiple times. Yes, that means it’s doing a few smaller jobs rather than one herculean task, but it handles each run much more easily and doesn’t bog down.A typical morning after snowfall went like this: I’d peek outside to see how much fell, then use the app to send Yarbo out while I sipped my coffee. Often by the time I finished breakfast, my driveway and walkways were done. Talk about feeling spoiled. On heavy snow days, I’d have it go out once in the evening and once again at dawn. Since it automatically returns to recharge when needed, I never really worry about the battery – it has always had plenty of juice for my medium-sized driveway.Noise and neighbors: I also learned that running an electric snow blower early in the morning is a lot more neighbor-friendly than a gas one. Yarbo makes a sound, sure – mostly the whir of the auger and the tracks – but it’s leagues quieter than my old gas snowblower that could wake the dead. I’ve had it clearing snow at 5 AM and no angry texts from the neighbors so far. One neighbor actually was fascinated by it rather than annoyed; he came over later to ask a bunch of questions (“So it just, like, does it by itself? How much does that thing cost!?”).
+
+**Performance and capability:** In terms of raw ability, I’m pretty happy. The snow was fairly wet and heavy, but Yarbo powered through. It even managed the packed pile at the end of the driveway where the city plow usually leaves a berm. It slowed down a little there and took a couple passes, but eventually it cleared that chunk too. I did notice that when it reached the end of each row, where there were tall snow banks on either side, it sometimes struggled to turn around. It has a skid-steer/tank turn mechanism (one track goes forward, the other backward to pivot). If there’s a big pile on both sides, that maneuver is a bit hard – one time it kind of scraped against the snowbank and needed a few tries to make the turn. Not a deal-breaker, but an area for improvement. I heard the company might upgrade the drive motors in future versions to help with this, which would be great. Still, the weight and tracks generally give it good traction. My driveway has a slight slope and some uneven spots, but Yarbo didn’t slip at all. It’s designed to handle bumps up to about 2 inches – for example, I have a little lip where my driveway meets the sidewalk, maybe 1 inch, and it climbed over that without any issue. I also noticed it has sensors (and a front camera) to detect obstacles. I tested this by casually walking in front of it (ready to jump out of the way just in case) and it actually detected me and stopped. It has “smart obstacle detection” built in, which is reassuring. So safety-wise, it seems to know not to plow into people or things.
+
+# Four Months Later: Reflections and Evolving Perspective: Over time, I also grew more confident in the machine. The first few runs, I would hover by the window or literally follow it at a distance, heart pounding whenever it got near something potentially problematic. By the end of winter, I found myself letting it do its thing unsupervised more often. I’d sometimes wake up to an alert that it finished, having not watched it at all – which felt like true progress in trust. That said, I don’t think I’ll ever fully “set and forget” it, because weather and environments are unpredictable. But I’m now at the point where I’d rate the autonomy 8 out of 10 – pretty great, all things considered.From a value perspective, I’ll admit Yarbo is expensive. I got in on a pre-order deal, and it was still more money than I ever imagined spending on a snowblower. My rationalization: I’m also eyeing the lawn mowing capability for summer (the same base robot can be used with a mower attachment), so it’s a year-round investment. Plus, I’m not getting any younger – avoiding the heart attack snow-shoveling scenario is priceless, right? After this winter, I have zero regrets about purchasing. My back is thankful, I gained a cool story to tell, and I firmly believe this is the future of home maintenance. Prices will likely come down in a few years as the tech, but I’m thrilled to be enjoying it today. To wrap up this lengthy ramble: Yarbo hasn’t just changed how I clear snow, it’s changed my whole winter routine. What used to be a dreaded chore is now almost fun – or at least, something I don’t worry about. I even find myself kind of looking forward to showing it off when friends come over: “Hey, wanna see my robot snowblower do its thing?” (Yes, I’ve become that nerd). It’s not perfect and it’s not for everyone, but it is for me. If you’re considering one, go in with eyes open (hopefully this wall of text helped with that), and you might end up as satisfied as I am.Thanks for reading my story! I know it was long, but I wanted to be thorough for anyone on the fence.",1,1744526330.0,automower,1,1.0,False
+1jy1i3x,https://imgur.com/a/HP2i30O,Looking for Bicycle-themed coffee mugs made by Eversberg in West-Germany,,1,1744526283.0,HelpMeFind,2,1.0,False
+1jy1hr8,https://www.reddit.com/r/Nepal/comments/1jy1hr8/were_building_a_drink_brand_in_nepal_that_puts/,We’re Building a Drink Brand in Nepal That Puts People Over Profit,"We’re Building a Drink Brand in Nepal That Puts People Over Profit
+
+We’re two young entrepreneurs from Kathmandu want to launch a new drink brand called BUNNY HAVEN with the tagline:
+“Taste That Builds Trust.”
+
+Our mission is simple:
+Most cafes in Nepal are overpriced, low in value, and copy-paste versions of each other. Customers are treated like transactions, not people. We’re here to change that.
+
+We’re starting with a small takeaway-only outlet offering quality tea, coffee, and fruit juices at affordable prices. No fluff just great taste, clean service, and a brand that respects its customers.
+
+We’re building this with long-term thinking: trust, value, and community first. Money comes later. One cup at a time, we want to earn a loyal customer base that believes in us.
+
+If you’ve seen overpriced menus and soulless cafés around town, you know what we mean.
+
+More updates soon. This is just the start.",28,1744526239.0,Nepal,19,0.89,False
+1jy1hck,https://www.reddit.com/r/r4r/comments/1jy1hck/33_f4m_indonesia_southeast_asia_lady_need_a_very/,33 [F4M] #Indonesia - Southeast Asia lady need a VERY SERIOUS relationship :),"VERY SERIOUS, yeah thats right. I am tired of shallow connection with guys and I want a committed relationship. So if you're only looking for fun, please skip me, and find other post, but if you're looking for similar things, **PLEASE READ till the end**.
+
+Lil bit about this Indonesian lady!  
+I'm from Indonesia, South East Asia. Have you ever heard about my country? I bet not 😂, but its okay, I can show you around ☺️  
+I am 33 yo, 5'6"", curly 2c hair type (though sometimes I straighten my hair, it's easier to style), wear glasses (I prefer them over contacts. Never beenmarried, and don't have kids.  
+When I am not working, I re-watch Dexter and will revisit One Punch Man soon, because the season 3 will come out this year! Also I love walking and cafe hopping, so my perfect Saturday date is walking to the new cafe, trying their cappuccino, walking back home and enjoying a lazy weekend.
+
+What I am looking for :  
+A man. You want to have serious relationship, and monogamous, please be single 😂  
+It would be great if we only have 5 years gap max, so we can talk in same ""language"".  
+I hope you enjoy coffee and walk too.  
+You probably from another nation, ~~I hope its not my imagination~~, and if we clicked, it would be lovely to meet each other someday
+
+If you are interested please chat me, we can exchange picture right away because we need to imagine who are we talking to, right?
+
+I stole this from other people post, but **PLEASE MENTIONED your choice of superpower on the chat and give introduction about you** (I won't reply on ""Hi"" low effort chat ), so I know you read my post all the way to the end.
+
+Thank you!! 👋👋👋",1,1744526188.0,r4r,1,1.0,False
+1jy1glq,https://www.reddit.com/r/Letters_Unsent/comments/1jy1glq/a_kite/,A Kite,"I’d give anything to have one more night with you , not as the person I know but as the person I knew as I’d rest my head on your chest in bed and you would tickle my head as I would fall asleep slowly . All the problems and stress that ever came over me would suddenly vanish. That power you had was mesmerizing. What I’d give to look you in the eyes again and tell you I love you. What I’d give to just make you a coffee again. What I’d give to hear about your strange day at work again. What I’d give to call you my family. I miss you so much it hurts and I love you so much it’s not even funny. Stay safe my love. Always an forever 
+
+
+—- bubby ",3,1744526097.0,Letters_Unsent,0,1.0,False
+1jy1fnf,https://i.redd.it/n41de3terjue1.jpeg,Sunday Coffee Tonic...🧿🌼,,8,1744525984.0,kolkata,0,0.9,False
+1jy1fki,https://www.reddit.com/r/retailhell/comments/1jy1fki/there_never_was_a_plan_the_emperor_ceo_has_no/,"There never was a plan, the emperor [CEO] has no clothes, and most Rite Aid employees are pissed.","[Diversity Czar Jessica wants you to know you should feel respected, valued, and supported at Rite Aid!](https://preview.redd.it/z0pjw43rjjue1.jpg?width=454&format=pjpg&auto=webp&s=ad902d78e27f46b3398bf7e0441c9f4f6ec92caa)
+
+Recognize this executive? She's Chief Administrative Officer, Matt Schroeder's Chief of Staff, and almost certainly a colossal waste of money. This is the corporate shill that recently lectured us about diversity and women's month all while the company was contemplating chapter 22.
+
+Why the hell does our bumbling CEO even need a chief of staff? It's not like he's the president of a f\*\*\*king country or something. How many of our stores were told they can't even have an assistant manager anymore? Seems fair to me that Schroeder can prepare his own coffee and write his own damn notes. We ask many of our store managers to do much more than that on a daily basis as it is.
+
+But where's that ""smaller and leaner"" mentality at the top?
+
+Can our clown-car CEO not tie his shoes or type his own Spot messages about tough choices or admirable sacrifices without this diversity czar?
+
+How much is this person drawing in salary?
+
+Shit, while we’re at it, how much is SVP Chief Merchandising Officer Bryant Harris getting? Just a reminder that we still have almost no product to merchandise. Wouldn’t the salaries of these two unneeded consultants be better spent on a couple of pallets of product for our stores?
+
+Come on! What the F\*\*K is the actual plan here, Schroeder? Was it just always your intention to bullshit everyone and string them all along while you and your inner circle desperately try to sell the company before clock strikes Chapter 22? For the record, selling the company wasn’t discussed at our last, distant, town hall.
+
+And don’t try to convince us like you did in the recent spot message by implying nothing has changed and that a sale was always in the cards. I call bullshit. Despite you crying otherwise, \*plenty\* has changed.
+
+Many stores are forced to open or close with just one employee on the front end. It’s not safe and it’s not smart. It’s even against policy, but it’s still happening because there’s simply no other choice. How’s that for smarter and leaner? FFS.
+
+But hey, our teams will still do it! Maybe it’s because the few that are left genuinely love their stores or maybe it’s because Jessica Kazmaier wrote an uplifting message on The Spot about diversity. I’ll let you all decide which one is more likely…
+
+Meanwhile we watch Matt Schroeder and his group of windbags, who I refer to affectionately as Potato, Harpy, Igor, and \[sometimes\] Boots--fly from store to store. During these costly and often unneeded trips, they ask our teams how they are feeling.
+
+How the fuck do you think they feel?! How about you fire Jessica, Bryant, and yourself and ship these stores a few more pallets of product instead?
+
+While we’re at it, how about you do what someone else on here suggested and just get rid of more middle management like divisional leaders? Perhaps then the diversity czar could get directly involved with the regional leaders and not have to waste company time and money posting messages on the spot spouting useless trash.
+
+And to everyone of us that’s pissed off because they actually LIKED the brand at one point and, like me, you’re convinced this company is truly going to die, what’s the harm and giving these sacks of deception a little noncompliance?
+
+Something along the lines of “Fuck you. You can open your own fucking pharmacy until you shed the unneeded hacks at the top and present to all of us an actual plan to put the company on a better path.”
+
+Recently, I overheard a store manager on the phone with her mother expressing doubt and sorrow about her future with the company. Here is how she described her typical day at work to her mother:
+
+“I’m sorry ma’am but we don’t have any of the products you’re looking for. No we’re not closing! The product is coming I promise! Have you had your flu shot? Hey wait! Did you know COVID is on the rise? Ma’am? Hey! Come back!!”
+
+Enough said.
+
+PS: We're still awaiting your resignation. Please take the executives mentioned above with you.
+
+**TL;DR : Executives useless. Waste of money and flesh. Make them resign now. Retail and pharmacy teams should consider putting foot down to end the executive honeymoon since there’s nothing to lose at this point. Sad ending- Matt Schroeder is Luke’s father. Nooooo!!**",0,1744525974.0,retailhell,0,0.5,False
+1jy1fj6,https://www.reddit.com/r/Advice/comments/1jy1fj6/possibly_sketchy_neighbor_keeps_coming_over_and_i/,Possibly sketchy neighbor keeps coming over and I feel like she’s trying to take advantage of my kindness,"My neighborhood is mostly owned by a reclusive man who either lets the houses he owns rot or he rents them to people he hasn’t vetted. It’s causing a ton of issues in two houses in our quiet neighborhood. 
+
+The problematic house on my street has multiple people renting in a single family home. The cops are over frequently for fights and recently the tenants hid in the house when they police tried to serve some sort of legal document.. possibly an eviction notice. 
+I have never called the cops until the other night when they were screaming p*ssy and then the n word and I didn’t want my toddler to wake up to that.  The cops didn’t end up going over to talk to the neighbors because they said things were quiet at that time and historically after the police leave the home situation escalates. Police said to continue calling them, but to ask the police not to question me at my house because I could be retaliated against. 
+
+One neighbor’s sister is a firefighter and said they are into drugs and DV is going on in the house. 
+
+This morning the older woman came over and asked if I had coffee. She said her son hasn’t taken her grocery shopping and she hasn’t eaten in 3 days. I found some old chicory coffee that was expired and said it was all I had. The lady told me she’d take it as she’s used to having nothing and has been homeless on and off for 20 years. She also said the woman in the basement is not related to the rest of the house members and basement woman does Only Fans. The lady said that men come and stay for a few hours or weeks. The lady said basement woman is wanted in Texas. 
+
+In the afternoon I’m feeding my neighbor’s horses and that lady comes out to tell me thank you for the coffee. As we are talking the neighbor across the street comes out and yells to me that she needs me. I run over and she tells me not to talk to that woman because she has a long criminal record and is problematic. 
+
+This evening my doorbell rings and it’s that lady again asking if I can give her a ride to dollar tree. I told her I couldn’t because it was my toddlers bed time. The lady is very attentive to my toddler and remembers her name when we returned her dog that escaped. My toddler asked her if she’d still be outside after bath. The lady handed me a paper with her name and number so I could text her when I was available to take her to dollar tree. 
+
+ All during bath my toddler just talked about how much she wanted to see that lady. We had to have a talk about how she’s really a stranger and we need to be careful. 
+
+What’s my next move? I don’t know her and don’t want her alone in my car with my toddler and me. I’m afraid if I give her a ride this once that the asking will never stop.  This morning when she said she hadn’t eaten I offered to pick up groceries when I was at the store, but  she said she had to wait until next Friday when she had food stamps. I was thinking of texting her and telling her that I’m not comfortable giving rides because I don’t know her, but I don’t want her to have my number.What would you do?! 
+
+",1,1744525971.0,Advice,2,1.0,False
+1jy1esf,https://www.reddit.com/r/IndiaCoffee/comments/1jy1esf/must_try_coffee_places_in_bangalore/,Must try coffee places in Bangalore,"I’m planning to visit Benki Coffee this evening and wanted to explore a few more good spots in the city.
+
+Would love your suggestions for must-try coffee places, especially around these areas:
+
+BTM
+
+HSR Layout
+
+Koramangala
+
+Indiranagar
+
+
+Bonus points for:
+
+Pour-over or specialty brews
+
+Hidden gems or lesser-known spots
+
+Thanks in advance ",2,1744525884.0,IndiaCoffee,6,1.0,False
+1jy1eqm,https://i.redd.it/euvmurj3rjue1.jpeg,Sunday Coffee Tonic...🧿🌼,Has to be a barista someday....!!!!,8,1744525877.0,IndiaCoffee,3,1.0,False
+1jy1ep8,https://www.reddit.com/r/relationship_advice/comments/1jy1ep8/i_21m_met_my_ex_21m_for_coffee_and_we_ended_up/,I 21M met my ex 21M for coffee and we ended up making out. How do I get over him?,"PSA: I wrote this as if it was to an AI bot lol. Can you just give me general advice
+
+Long story short I was an annoying ex for months but he agreed to get coffee eventually because him and his boyfriend were on a break. Things were weirdish but nice tbh and as I got emotional he grabbed my hand and hugged me to console me. 
+
+He then suggested we go smoke and in the car he leaned on my shoulder and when I leaned on his shoulder and got my face closer to his neck and face he leaned his face closer too. I pecked his lips a couple times and he was smiling and I asked if this was okay and he said yeah I think but I backed up.
+
+I was scared I overstepped but he leaned in and really kissed me. Anyway we made out a lot and we took a few breaks with him thinking about things. 
+
+After this ended he told me again that we could never see each other again because he doesn’t have friendships with exes. I’m just so sad he can block me and forget about me after kissing me like that and why does he act like he loves his boyfriend. They are on a break for his boyfriend’s mental health but him making out with me should prove he doesn’t love him right?",0,1744525872.0,relationship_advice,2,0.5,False
+1jy1ely,https://www.reddit.com/r/Supplements/comments/1jy1ely/this_is_my_current_list_of_all_medications_and/,"This is my current list of all medications and supplements that I take. Should I be worried? Can I continue like this, or must I make modifications?","As of April 13, 2025:
+
+Medications:
+
+* Invega Hafyera - 546 mg - Every 6 months, injected in hips
+
+* Metformin - HCL ER 500 mg tablet, 2 orally every morning (but currently take 1)
+
+* Atorvastatin - 80 mg tablet, 1 orally every morning
+
+* Wellbutrin / Bupropion - HCL XL 150 mg tablet, 1 orally every morning
+
+Supplements:
+
+* Truckers Luv It! - 1 capsule orally every morning, 20mg Niacin, 250 mg Caffeine
+
+* Horbäach Caffeine with Green Tea - 1 tablet orally every morning, 200mg Caffeine, 20 mg of Green Tea Extract
+
+* GRIND Reign Thermogenic Formula - 1 capsule every morning, 1033mg / 2 Reign Thermo Proprietary Blend (516.5 mg for 1 capsule)
+
+* Ultra Quick Detox Digestive Health Internal Cleansing Support - 1 capsule every morning, 450 mg Proprietary Blend (900 mg for 2 capsules)
+
+* Kroger Extra Strength Headache Relief - 1 caplet every morning, Acetaminophen 250 mg for 2 caplets (125 mg for 1), Aspirin 250 mg for 2 caplets (125 mg for 1), Caffeine 65 mg for 2 caplets (32.5 mg for 1)
+
+* GlycoPeak Maximum Strength Glyco-Optimizer Chewable - 1 tablet every morning, Chromium 400 mcg, Proprietary Blend 200mg
+
+* Nature's Bounty Apple Cider Vinegar - 2 tablets every morning - ACV 480mg per 2-tablet serving
+
+* Irwin Naturals Berberine-Body + Fat Burner - 2 liquid soft-gels per serving (but take 1 per day). Nutrients per 2-softgel serving: Calories - 15, total fat - 1g, total carbohydrates - <1g, protein - <1g, Chromium - 500mcg, Flaxseed Oil - 800mg, Green Tea Extract (50% EGCG, 135mg)(leaf) - 270mg, GlucoVantage (as DihydroBerberine) - 100mg, Cinnamon - 75mg, InnovaTea Caffeine (from Camellia Sinensis extract)(leaf) - 75mg, Ginger Extract (Rhizome) - 50mg, BioPerine Complex - 3mg
+
+* HydroxyCut Weight Loss Original - 2 capsules per serving (but take 1 per day) Nutrients per 2-capsule serving: Vitamin D - 10mcg, Thiamin - 0.3mg, Riboflavin - 0.3mg, Niacin - 4mg, Vitamin B6 - 0.4mg, Vitamin B12 - 6mcg, HydroxyCut Complex - 604mg (Robusta coffee Extract - 200 mg, apple Cider Vinegar - 100mg, plum, baobab Extract, Cardamom), Clean Sourced Energy (Coffee Extract - 204mg supplying 200mg of caffeine)
+
+* Equate All Day Pain Relief - 1 pill/day: Naproxen sodium - 220mg (note: expired 11/2023)
+
+Gummy Supplements:
+
+* Ultra Quick Keto + ACV Gummies - 1 gummy every morning
+
+* Simple Truth Apple Cider Vinegar Gummies with Folate and Vitamin B12 - 1 gummy every morning
+
+Nightly medications:
+
+Trazodone - 50 mg tablet, 2 tablets at bedtime
+
+Nightly Supplements:
+
+* VIVE*MD Sugar Defender Blood Sugar Support Formula - 2 squeezes of the glass squeeze tube per night, 1140 mg Proprietary Blend
+
+* People's Choice Melatonin - 1 tablet/night, 1 mg of Vitamin B6, 55 mg of Calcium, 3 mg of Melatonin
+
+---
+
+Note: As a 40M, I weigh 218 lbs, at 5'11.5"".",2,1744525861.0,Supplements,2,1.0,False
+1jy1dsn,https://www.reddit.com/r/SupplementAdvice/comments/1jy1dsn/this_is_the_list_of_all_supplements_and/,"This is the list of all supplements and medications I take every day. Should I be worried, and does anyone know the interactive effects of all of them with each other?","As of April 13, 2025:
+
+Medications:
+
+* Invega Hafyera - 546 mg - Every 6 months, injected in hips
+
+* Metformin - HCL ER 500 mg tablet, 2 orally every morning (but currently take 1)
+
+* Atorvastatin - 80 mg tablet, 1 orally every morning
+
+* Wellbutrin / Bupropion - HCL XL 150 mg tablet, 1 orally every morning
+
+Supplements:
+
+* Truckers Luv It! - 1 capsule orally every morning, 20mg Niacin, 250 mg Caffeine
+
+* Horbäach Caffeine with Green Tea - 1 tablet orally every morning, 200mg Caffeine, 20 mg of Green Tea Extract
+
+* GRIND Reign Thermogenic Formula - 1 capsule every morning, 1033mg / 2 Reign Thermo Proprietary Blend (516.5 mg for 1 capsule)
+
+* Ultra Quick Detox Digestive Health Internal Cleansing Support - 1 capsule every morning, 450 mg Proprietary Blend (900 mg for 2 capsules)
+
+* Kroger Extra Strength Headache Relief - 1 caplet every morning, Acetaminophen 250 mg for 2 caplets (125 mg for 1), Aspirin 250 mg for 2 caplets (125 mg for 1), Caffeine 65 mg for 2 caplets (32.5 mg for 1)
+
+* GlycoPeak Maximum Strength Glyco-Optimizer Chewable - 1 tablet every morning, Chromium 400 mcg, Proprietary Blend 200mg
+
+* Nature's Bounty Apple Cider Vinegar - 2 tablets every morning - ACV 480mg per 2-tablet serving
+
+* Irwin Naturals Berberine-Body + Fat Burner - 2 liquid soft-gels per serving (but take 1 per day). Nutrients per 2-softgel serving: Calories - 15, total fat - 1g, total carbohydrates - <1g, protein - <1g, Chromium - 500mcg, Flaxseed Oil - 800mg, Green Tea Extract (50% EGCG, 135mg)(leaf) - 270mg, GlucoVantage (as DihydroBerberine) - 100mg, Cinnamon - 75mg, InnovaTea Caffeine (from Camellia Sinensis extract)(leaf) - 75mg, Ginger Extract (Rhizome) - 50mg, BioPerine Complex - 3mg
+
+* HydroxyCut Weight Loss Original - 2 capsules per serving (but take 1 per day) Nutrients per 2-capsule serving: Vitamin D - 10mcg, Thiamin - 0.3mg, Riboflavin - 0.3mg, Niacin - 4mg, Vitamin B6 - 0.4mg, Vitamin B12 - 6mcg, HydroxyCut Complex - 604mg (Robusta coffee Extract - 200 mg, apple Cider Vinegar - 100mg, plum, baobab Extract, Cardamom), Clean Sourced Energy (Coffee Extract - 204mg supplying 200mg of caffeine)
+
+* Equate All Day Pain Relief - 1 pill/day: Naproxen sodium - 220mg (note: expired 11/2023)
+
+Gummy Supplements:
+
+* Ultra Quick Keto + ACV Gummies - 1 gummy every morning
+
+* Simple Truth Apple Cider Vinegar Gummies with Folate and Vitamin B12 - 1 gummy every morning
+
+Nightly medications:
+
+Trazodone - 50 mg tablet, 2 tablets at bedtime
+
+Nightly Supplements:
+
+* VIVE*MD Sugar Defender Blood Sugar Support Formula - 2 squeezes of the glass squeeze tube per night, 1140 mg Proprietary Blend
+
+* People's Choice Melatonin - 1 tablet/night, 1 mg of Vitamin B6, 55 mg of Calcium, 3 mg of Melatonin
+
+",1,1744525767.0,SupplementAdvice,1,1.0,False
+1jy1cgg,https://www.reddit.com/r/u_Solid_Confusion7665/comments/1jy1cgg/coffee_time/,Coffee time ☕,,1,1744525615.0,u_Solid_Confusion7665,0,1.0,False
+1jy1aho,https://www.reddit.com/r/latvia/comments/1jy1aho/breakfast_in_riga/,breakfast in riga,"Hey! I’m visiting my boyfriend and I woke up super early and now I thought it’d be cute to go and get us coffee and maybe some nice breakfast too, so I was wondering if anyone knows good cafes that offer take out, near Origo preferably. I really didn’t enjoy Caffeine or Costa but I guess I can’t expect much from mall coffee anyways lol",2,1744525390.0,latvia,10,0.63,False
+1jy19qz,https://www.reddit.com/gallery/1jy19qz,MJT / Fender Jazzmaster Build  (this was not easy or cost effective),"I’ve modded quite a few guitars now and finally decided I wanted to try doing a parts build. MJT body, Fender classic player neck, Fender J mascis sig pickup set, Allparts guard, AVRI trem, Fender custom shop RSD bridge, and then Fender or WD music everything else. Basically everything possible went wrong while doing this 💀. A screw broke in the body so I had to excavate it, I fried one of the pots cause I heated it up too much, the wood split, I didn’t like how I lined up the pickguard so I had to refill all the holes and re-drill them, and I disconnected the bridge pickup wires. Getting the trem and thimbles to fit is also terrifying. My friend helped chisel out the trem route for me and assisted with drilling out the thimble holes. Almost nothing fits as expected and always required modification. I also used lead free solder for the whole thing and some coffee to age the hardware.
+
+The final result is legitimately my best guitar. I’m surprised at how good it turned out. The whole thing feels solid. Very happy with it. ",24,1744525306.0,offset,2,1.0,False
+1jy1856,https://www.reddit.com/r/relationship_advice/comments/1jy1856/friend_26f_peed_on_my_21f_and_my_roommates_22f/,Friend (26F) peed on my (21F) and my roommate's (22F) furniture and destroyed a handmade gift I made for my roommate. What should we do?,"Last night, my roommate (22F, we'll call her Rachel) and I (21F) went to a party to celebrate Rachel and our other friend, ""Andrea's"" (26F) birthdays. This party was hosted at our friend Mark's house and was open invitation, so we invited a bunch of our friends and told Andrea to invite her friends as well. At the party, Andrea came alone and had way too much to drink and by the end of the night was slurring her words, stumbling around, and was overall very visibly intoxicated and should not have continued drinking. During the party, we also found out she was going around talking shit about Mark to basically everyone at the party, which of course got back to Mark and really upset him.
+
+Anyways, Andrea, Rachel, myself, and a few other friends went back to Rachel's and my place to chill. On the way into our house, Andrea went to drink a whiskey shooter and Rachel stopped her, calmly telling her it was probably best that all of us should stop drinking. Andrea got super defensive and aggressive, insisting that she have the shot and stating ""I'm fine, just give me the shot,"" over and over. She takes the shot and we all hang out for a bit chatting. Two of our friends at one point go into the bathroom because one of them is sick. At this point, I'm sober and decide to drive those two friends and another friend home. Rachel joins me and we leave Andrea alone in our apartment (she was spending the night). We get back home and go to bed pretty soon after. Andrea still seemed mad at Rachel for trying to take her shooter away but then went to bed. Rachel and I agreed today that we heard some weird noises from the living room where Andrea was sleeping, but didn't think much of it.
+
+The next morning I wake up and chat with Andrea for a bit in the living room before she leaves. I then went to the bathroom after she was gone and noticed a Polaroid photo on my bathroom counter, one that I had put in a scrapbook I made for Rachel's birthday. I tell Rachel and we go to look at the scrapbook and discover that one of the pages (the one that had the Polaroid on it) had been torn up and big pieces of it were missing. We start searching all over our house for it and I eventually find a ripped up piece of it in the bathroom garbage bin. We never found the remaining pieces of that page. The scrapbook also has plastic covers where you insert the pages, and one of those was punctured and ripped as well. 
+
+As Rachel keeps looking in the living room, she lifts up some pillows and blankets off of the couch and feels a big wet spot. We go to smell it and it smells like pee. She then turns over one of the pillows and sees a big, wet, yellowish stain on the back that again, smells like pee. At this point we're so shocked, because there is absolutely no way anyone else could have done this besides Andrea. Rachel and I message the other friends who were there and they tell us they didn't even see the scrapbook, offer to help, and ask if the scrapbook is salvageable. I text Andrea to ask if she had touched the scrapbook at all and she very curtly replied no and didn't question why I was asking. When I explained what happened, she just repeated that she had ""no idea what happened"" and ""truly no clue"" as to what went down. Mind you, I spent hours making this scrapbook for Rachel and am quite hurt over the fact that one of our friends—regardless of whether or not it was malicious—tore up part of this handmade gift. In the past, Andrea has expressed grievances over our friendship group dynamics and has said she wishes she were closer to Rachel and I, so the scrapbook tearing felt very personal. 
+
+Rachel and I are in disbelief. We've been friends with Andrea for years and feel that this is very out of character for her. We're not sure how to react or go about this situation because she claims she didn't do it, but there's virtually no way it could have been anybody else who was at our place last night. For it to have been anyone else, we would have had to not notice them pick the scrapbook up off of our coffee table, pull out the paper from it, rip it up, and then throw it away all while we sat there together. It just has to be Andrea given the circumstances of her having some time alone when we dropped off our other friends at their houses and having the living room to herself while she slept over. The scrapbook, combined with the peeing on the couch, combined with the gossiping about our friend, all make us want to distance ourselves from her. What should we do? And are we overdramatic for wanting to distance ourselves from her, at least temporarily?
+
+TLDR; a friend of my roommate and I had too much to drink at a party last night and gossiped about our friend and almost certainly peed on our furniture and ruined a handmade gift I made for my roommate's birthday. ",2,1744525123.0,relationship_advice,5,0.67,False
+1jy17su,https://www.reddit.com/r/humansarespaceorcs/comments/1jy17su/humans_are_not_really_all_that_primitive_or/,"Humans are not really all that primitive or behind technologically, they just live by the idea that, if it ain't broke, don't fix it.","Extending the idea of, If it ain't broke, don't fix it; is the idea that if after you have fixed it, it works better. Then take notes as that is now how it is supposed to be, the manual be damned.
+
+**xxxxxx**
+
+*My idea from the above.*
+
+Alien researcher, sitting across their human counterpart as they ingested a collection of foods and liquids that were simply chock full of compounds that other species would find basically lethal. In some cases, the amount in their food and beverages sufficient to wipe out entire cities. In order for them to obtain their meal, they had to pass a genetic test
+
+Alien Researcher, Grell: Friend human David. I find I must ask questions of clarity. Your species is astonishingly confusing.
+
+Dave looked up with a smile, clearly wondering to any other human that might see them that they were used to the question and was kinda hoping that it was something new, and not forcing them to rehash the same things, again. They lean back in their chair, waving their friend and coworker to continue as they sipped their coffee.
+
+Grell glanced over the food, though they would hardly consider it food, as there really was nothing laid out for David to ingest that would not be instantly lethal to them. They were just glad they were not a Thert, as they couldn't even use the same room for days after David had a meal.
+
+Grell turned their attention to David. ""Okay. I understand your need for things in your food because of the horror of a Hell world you come from. Though I don't understand how you enjoy things like this."" Indicating the burrito on David's plate. ""You've tried to explain, and I just don't think I can ever understand your enjoyment of what you call, spice. That... sauce you put on your meal. If it were not being used by you to flavor your food... It would be classified as a galactic level biohazard. There is enough capcacian in that to wipe out the entire Rooni species a thousand times over.""
+
+David sighed and frowned. ""Is that what this is about?""
+
+Grell shook his head in a mimmiced human gesture, his antenae flashing blue in the negative. ""No. It's a statement. No. My question has to do with technology. You humans. When you were first encountered, you were thought to be surprisingly behind in your warp ships. Even now, your ships, blocky things. Yet, as we got to know you, it became quickly apparent that you were anything but primitive. Your species doesn't make sense. You have more advanced tech, yet... You do not seem to use it.""
+
+David nodded with a smile. This was a new one, though a question he had been wondering how long it would take before it came up.
+
+Setting his coffee down, David gave Grell a considering look. ""Okay. I can get that confusion. So.""
+
+Grell stopped David with a yellow flash of his antenae. ""Like. Your ships, even now that you have the drives we sold you. Which you improved, somehow, and in ways that should not have been possible. Your ships still produce hundreds of times more power than needed, and the ship designs, if anything, they got even crazier. It makes no sense. They shouldn't be able to use the drives because that dictates specific shapes or the drive doesn't work.""
+
+David chuckled. ""Okay. Slow down a second there, Grell. Yes, we tend to do things the hard way, sometimes. But you have to understand a bit of human psychology. We believe in the idea that. If it is not broken, don't fix it. Also, if you do fix it, and it works better, take notes because that's the correct way now. Also, you are mistaken in the assumption that we do not use the advanced technology we have access to. We do, in fact, it's just not in neccessarily obvious ways. Rather than having a different device, a different tool for each piece of tech, like you guys do. We integrate the tech, merge it into existing things, and improve them. 
+
+An example would be this."" Setting his phone on the table. ""You've seen my phone many times.""
+
+Grell flashed his antenae purple. ""Many times, yes. A simple communicator. I don't understand.""
+
+David nodded. ""Exactly. To you, that's all this is. It is a communicator. It is also a computer with an integrated holographic projection display, data encryption, a still camera, and a video recording device. It holds a Class IV adaptive AI control system and links to my implants, lets me link to the lab systems, and interact with them no matter where I am as long as I have a data connection. This..."" Tapping the phone. ""This is at least ten times more powerful than your desk computer you use. Even then, how many systems do you have? Ten? Twenty different systems you use for different things? Have you not noticed that I have a single system, yet I'm not limited in getting my work done? It is because my system is capable of doing all the work your twenty dedicated systems do, all at the same time, and dozens of other types of functionality as well.
+
+As for our ships. Since we have the hyperdrives that you guys sold us, we are able to redirect all that energy that we used to need for the warp drives to other things. Shields. Weapons. Artificial Gravity Generation. And yes, the warp drives are still on every ship. Also, the shape of the ship itself is irrelevant. It is the shape of the emitter suite and how much power they are fed that determines things. Shape of the ship, as long as you have enough power to the emitters to create a large enough bubble. Well. I'm currently waiting on my system to complete the calculations on how much energy would be needed to jump a planet. It is actually less than I expected, by several orders of magnitude, if the initial numbers are accurate.""
+
+Grell stared at the phone for a long moment before looking up at David. ""That... All that... In your communicator?""
+
+David nodded. ""Yep. We call them smart-phones. This is a few years old. A Galaxy 300 Super. The New G700SP is supposed to come with a Class V AI and the ability to support a tactile VR display.""
+
+Grell flashed through multiple colors, at least three indicating levels of panic. ""And the weapons? I heard someone talk about a... Turbo Laser? What even is that?""
+
+David laughed for several seconds. ""Oh. Is that all? Turbo Laser is more propoganda or marketing than anything. It is basically a laser cooked up to the point that you only get a few hundred pulses out of it before the entire unit basically slags itself. However, you also get pulse energies sufficient to make the pulses somewhat visible because the photo density is so high they bounce of each other and the pulse loses some coherence and density as it radiates off excess photons.
+
+Then you have the Impact lasers. Similar idea, but someone decided. Hey, what if we suspend some atoms in the pulse. So you end up with the energy hit from the photons, plus you get punched with a few miligrams of atoms that got dragged along at basically light speed.
+
+And that doesn't even get us into the beam cannons. And really... Don't get me started on the madness that is an anti-matter laser. Basically, it's an Impact Laser where the matter suspension is replaced with anti-matter. So you get the light pulse damage, then the relatavistic impact, and then the annihilation reaction of the antimatter against whatever it hits.
+
+And all these ideas. The results of someone having an issue with something that broke, cobbling together a fix that turned into a Hey, that worked pretty good. And here we are.""
+
+Grell managed to go pale. ""That... Your people are insane. Who would think to add antimatter to a laser pulse? Who would think to pulse a laser with such energies that you lose part of the pulse to basically heat radiation off the pulse itself.""
+
+David shrugged. ""Meh. It is what it is.""
+
+  
+Edit: Spelling if needed.",28,1744525081.0,humansarespaceorcs,4,1.0,False
+1jy17il,https://www.reddit.com/r/stories/comments/1jy17il/they_cut_off_my_power_cause_i_forgot_to_pay_the/,they Cut Off my Power 'cause I Forgot to Pay the Bill... and then things got weird,"I dunno what’s been going on lately, but I’m startin to feel like the universe has it out for me. Like, first, they cut the power in my apartment cuz I forgot to pay the bill (again, I know). Then my neighbor in 3B decides this is the perfect week to practice guitar. And now, this; a noise. Soft but annoyin. At my door. 
+
+Great. Just what I needed.
+
+So, obviously, I do what any normal person would do in this situation: I freeze, stay super quiet and pretend I’m not home.  
+
+
+Didnt work. The noise stops, and just when I’m thinkin, *Okay, it’s over,* I hear a whisper
+
+It says my name.
+
+Oh, crap. My NAME.
+
+I already know who it is. That guitar guy from 3B. He is prob still mad cuz I reported him to the Homeowners whatever for “too much noise.” Guess what dude? Im not scared. He’s gonna hear it from me. I throw on my slippers, grab my phone (like that’s gonna do much), and head over to his apartment.
+
+The door? Slightly open. Creepy.
+
+But then there’s this smell. Lavender. Always lavender. How many of those stupid oils does one person need? . Okay Anyway, I’m not gonna walk all the way in, obviously, but I see somethin on the floor that makes my stomach turn.
+
+A pair of my underwear. Yeah. Mine. 
+ With this gross dark stain. Coffee?  
+
+
+Please be coffee.
+
+I took off runnin to the police station. Like, full-on sprint. When I get there,, I’m panting and tryin to explain to the lady at the desk what’s goin on, and you know what she does? Nothing!. She doesn’t even look at me. Just keeps writing stuff down.
+
+What the hell?!
+
+I’m thinkin, great, they are not gonna do jack without “evidence” But I’m so tired, I figure I’ll go home and deal with it in the mornin. Definitely Movin Out.
+
+Except… mornin never comes.
+
+I dunno how to explain this, but I’ve been tryin to sleep, and every time I wake up thinkin it’s day, it’s still pitch black outside. And my body? It hurts. Like, really bad. Like someone’s messin around inside me.
+
+I’m writing this now cuz, well, if somethin happens to me, at least there’s proof. I’ll keep tryin to get through the night.
+
+A while ago, I went to the bathroom to splash some water on my face, maybe calm down. I looked in the mirror, and… I dunno. I just looked off.
+
+And, in the corner of the bathroom, there are around 10 bottles of lavender-scented floor cleaner. I don’t even remember buying that.",3,1744525047.0,stories,1,1.0,False
+1jy178g,https://www.reddit.com/r/badroommates/comments/1jy178g/any_tips_for_riding_out_the_end_of_a_lease/,Any tips for riding out the end of a lease?,"Me and housemate started off as friends - but the typical issues have cropped up. He doesn't do basic cleaning (hairs in sink, splatters in toilet, mold and food splashes in kitchen, dirty dishes) and I'm at the end of my rope
+
+I've brought it up repeatedly over the past 3 years with no result. He gets defensive every time it's mentioned, no matter how gently it's brought up, and then finds a way to make it my fault... He then later apologizes, says he knows he needs to do better, does better for a week, and then stops again.
+
+I recently vented about this to a friend because it's been seriously affecting my mental health now and I don't know the right thing to do anymore. I don't have time or energy for hobbies because I spend so much of it cleaning. I've been spending less and less time at home (and am more and more broke from constantly taking my work to coffee shops). He found out and has taken it as ""me talking behind his back"" and now that's what I've done wrong this time to make his behavior justifiable. But normally he apologizes by the end of the day, this has been going on for nearly a week now and they're acting like I don't exist at all, they won't reply to me when I talk to them or acknowledge my presence in the room. Its an awful environment and it's now at a level I would call bullying
+
+We're on this lease together until the end of November. I'm  struggling and have been having panic attacks about the idea of being home. My work is suffering. I regularly  feel ill from the stress. I have a gecko that I used to love handling that I now pretty much just feed and I miss her.
+
+Does anyone have any tips for managing this? Because I'm concerned for my physical AND mental health trying to manage 7 more months of this",2,1744525011.0,badroommates,0,1.0,False
+1jy16xh,https://www.reddit.com/r/u_homeandsoul/comments/1jy16xh/elevate_your_interiors_with_mustard_cushions_and/,Elevate Your Interiors with Mustard Cushions and Ceramic Vases,"When it comes to home styling, it’s often the little things that make the biggest impact. A pop of colour, a handcrafted vase, or the perfect accent cushion can instantly uplift a space—adding texture, depth, and personality. At Home and Soul, we believe in curating statement pieces that combine function with beauty. Today, we're highlighting three timeless decor elements that do just that mustard cushions, ceramic vases, and the bold ceramic big vase.
+
+**Why Mustard Cushions Are a Must-Have**
+
+Warm, bold, and beautifully versatile, [mustard cushions](https://homeandsouldubai.com/products/mustard-yellow-cotton-cushion) are a staple for any home looking to inject a bit of sunshine and sophistication. This rich golden hue pairs beautifully with neutral sofas, white linen seating, or even dark woods—bringing contrast and a sense of effortless charm.
+
+**Add Impact with a Ceramic Big Vase**
+
+Looking to make a statement? A [ceramic big vase](https://homeandsouldubai.com/products/ceramic-beige-vase-l) is more than just a vessel—it’s a piece of sculptural decor. With its natural texture, it becomes an anchor point in any room. Place one beside your console, on a dining table, or in a hallway corner to draw the eye and add dimension.
+
+At Home and Soul, our collection of ceramic big vases celebrates clean lines, raw beauty, and a handcrafted finish that speaks to your love for authenticity.
+
+**The Timeless Appeal of Ceramic Vases**
+
+Whether large or small, [ceramic vases](https://homeandsouldubai.com/collections/ceramic-vases) have long been cherished for their ability to blend artistic expression with everyday function. From minimalist forms to organically shaped pieces, ceramic vases complement both modern and boho-inspired interiors.
+
+Use them to display fresh blooms or simply as standalone accents on sideboards, coffee tables, or open shelves. Our ceramic vases at Home and Soul are designed to mix and match—helping you build a cohesive yet curated look throughout your home.
+
+**Final Thoughts**
+
+Designing a home that reflects your style is all about the details. Whether you're drawn to the warm hue of mustard cushions, the bold elegance of a ceramic big vase, or the artisanal charm of handcrafted ceramic vases, Home and Soul offers decor that feels personal, intentional, and timeless.
+
+Explore our newest arrivals online or in-store and start creating a space that feels like you.",1,1744524974.0,u_homeandsoul,0,1.0,False
+1jy16oz,https://www.reddit.com/r/u_homeandsoul/comments/1jy16oz/discover_the_perfect_armchair_in_dubai_style/,"Discover the Perfect Armchair in Dubai: Style, Comfort & Modern Elegance","Looking for the perfect armchair in Dubai to elevate your space? Whether you're revamping your living room, reading nook, or bedroom corner, the right armchair can transform any area into a cozy and stylish retreat. From sleek silhouettes to plush comfort, let’s explore what makes an armchair more than just a seat—and why modern armchairs and white armchairs are topping the trend charts in Dubai interiors.
+
+**Why Choose a Stylish Armchair in Dubai?**
+
+Dubai is a city where design meets luxury, and your furniture should reflect that. An [armchair in Dubai](https://homeandsouldubai.com/collections/armchairs) isn't just about functionality—it’s about making a statement. The right piece brings together aesthetics, texture, and personality.
+
+At Home and Soul, our curated selection of armchairs is inspired by the relaxed elegance of modern coastal and bohemian styles, blending natural textures with contemporary forms. Whether you're furnishing a minimalist apartment or a spacious villa, there’s an armchair to suit every corner of your home.
+
+**The Allure of the White Armchair: Clean, Calm, and Timeless**
+
+A [white armchair](https://homeandsouldubai.com/products/modern-white-armchair-brussels) adds a breath of fresh air to any interior. It’s light, calming, and endlessly versatile. Whether you’re creating a serene Scandinavian vibe or adding contrast to a more eclectic space, a white armchair offers the perfect base.
+
+And don’t worry—our fabric choices are durable and designed for everyday living. Style doesn’t have to come at the cost of practicality.
+
+**Embrace Contemporary Living with a Modern Armchair**
+
+If you're drawn to clean lines, unique shapes, and a fusion of comfort with style, a [modern armchair](https://homeandsouldubai.com/products/modern-white-armchair-brussels) is your go-to. These designs are perfect for Dubai’s modern interiors, whether you live in a high-rise apartment or a chic villa.
+
+Whether you’re placing it beside a window, next to a coffee table, or in a quiet corner for reading, a modern armchair adds both purpose and polish.
+
+**Shop Armchairs in Dubai with Home and Soul**
+
+At Home and Soul, every piece tells a story—crafted for those who value design, sustainability, and soulful living. Our collection of white armchairs and modern armchairs in Dubai are designed with care and curated with love.
+
+Explore our online store or visit our Jumeirah showroom to find the armchair that speaks to your space.
+
+Ready to elevate your home with the perfect armchair?
+
+Browse our collection of stylish, cozy, and consciously crafted armchairs today.",1,1744524947.0,u_homeandsoul,0,1.0,False
