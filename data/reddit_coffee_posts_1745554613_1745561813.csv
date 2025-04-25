@@ -1,0 +1,1961 @@
+id,url,title,text,score,created_utc,subreddit,num_comments,upvote_ratio,over_18
+1k7e1xg,https://www.reddit.com/gallery/1k7e1xg,Spec Engine World Motorsport Championship [Chapter 3]: Home Race,"**Background**  
+Job Status: At Risk  
+Position: 5th in Constructors Championship  
+Target: 4th  
+Note on Real Life: I finished my homework with 1 minute to go - let's celebrate!  
+I'm considering turning this into a series - enjoying and writing on the game I consider to be one of the greatest of all time, like one does with a cup of coffee in Bosnia.
+
+**Introduction**  
+And so the weekend began with us in a decent place development-wise; our front wing stood as the 7th-best on the grid. Given this was the 5th iteration of our front wing design, I decided to start working on the first suspension upgrade of the year. I considered our home race would end similarly to the nightmares that were Tondela and Beijing.   
+  
+However, as travel arrangements were made, I saw the light: RAIN!   
+Changing conditions are one of my strengths in motorsport management, notwithstanding that you don't always get accurate data on track grip levels ahead of time in real life. On the other hand, the practice simulation saw the team do nothing with the soft tyre (our qualifying tyre). Certainly disappointing, but I was more excited about Football Manager becoming our newest 5-star sponsor.
+
+Ass you can infer, I have a financial rating of zero (0) in this game. On the bright side, Hashimoto is popular with the markets, we have a helipad, and de Graaf speaks for himself. Therefore, it looks like we have enough cash to work on part updates and pit crew hires throughout the rest of the season.
+
+Unfortunately, our tyre wear is really bad. In hindsight, this is probably why Hashimoto has struggled with tyre wear so far this season. When Matias de Wolf was on the team, I always poured money into the chassis statistics, but I needed the money to secure the signing of the now-former Scuderia driver from the land of the rising sun.
+
+**Qualifying**  
+Qualifying started quietly. I wasn't going to experiment with intermediate tyres as the storm clouds gathered. Therefore, Team Kirov wouldn't set a qualifying time until the final two (2) minutes, when the best grip would be available on track. In those first eight (8) minutes, the drivers complained a lot about not setting a lap time until then. This raises a question: given the consistency rating our drivers have in Motorsport Manager PC, should we send them out on more laps regardless of the conditions?  
+The only reason I see for doing so is if the increased number of attempts results sees the driver tending to put in their best lap.
+
+Regardless, when it was all said and done, de Graaf put in a lap that pleased our new sponsors. Steinmann Motorsport locked out the front row in their bid to hopefully overtake the Scuderia for the Constructors Championship lead for the first time this season. On the other hand, Lipponen and Modi were in very good positions for Kitano relative to us - a worrying sign for my job security prospects. As you can see in the third image, the rest of the grid was in a Noah's Ark Formation.
+
+**The Race Starts**
+
+De Graaf had a brilliant start to this race, climbing to P6 and showing his rivals no remorse. On the other hand, Hashimoto quickly fell away to P14. Fortunately, the story doesn't end there. For once, I implemented a good tyre wear strategy. De Graaf pushed on softs in the first stint so that he could then do a two-stopper on mediums (with +15% performance). Hashimoto's designated dry tyre for this race was the medium tyre (with the light-footed mechanic bonus that wears it more slowly). Moreover,  no safety car got in our way like in China.
+
+**The Rain**
+
+Of course, I had forgotten about the rain until two laps before it was upon us. A Van Doort (orange) that pit for wet tyres caught my attention. This made de Graaf's five-lap stint on the softs more than commendable, given he could now attack on his first set of medium tyres on high fuel while waiting for the water drops to take over the asphalt. The challenge with this phase of the race was to determine whether it favored going for wet tyres because of the soak stage or staying out on dry tyres long enough to seize onto a set of intermediates or another set of slicks. The soak stage was 2.5 laps at best; I committed to racing the wets during the 2-lap intermediate tyre stage, given that the AI would bolt for drys since things were happening quickly in what was 5-6 laps of chaos.
+
+**It Dries**  
+Our strategy in the rain paid off. The leaders never put on a set of wet-weather tyres, but this came to cost Steinmann's second driver, Becker, dearly. De Graaf gained two positions while Hashimoto shot up to 7th when they both pitted for their last set of medium tyres. Unfortunately, our rear wings were near the red zone at this point. Thus, fixing de Graaf's rear wing cost us 7 seconds.  On the other hand, I didn't fix Hashimoto's rear wing - this shows you that my concentration can be at 94% instead of 100% in these situations. I once lost a P7 for de Graaf last season because I didn't keep track of his fuel levels.
+
+**Rear Wing Madness**  
+Hashimoto nursed that white car with blue stripes for 4 laps in the red zone before the part finally failed. It was the final lap. De Graaf was now ahead of Becker. Knowing he could finish the race on high fuel with ease, I focused on Hashimoto's fuel level and tyre wear while praying that the 0% value on the rear wing part status wouldn't see her finish outside of the points.
+
+Ribeiro, Lipponen, and White were all on her tail. For a second, she was in 9th with even more to lose. All of a sudden, Nieves Pastor in the Panther had to pit. Gunarson in the Chariot began to hunt down all of them meaning they were losing time on that last lap. Lipponnen and Ribeiro's tyres fell off. It was a lucky break indeed! The miracle stopped short of overturning the 0.683-second deficit to Ribeiro at the line, but it was enough for us!
+
+**Falling Action**  
+The results of this race will have serious repercussions for the World Motorsport Championship. Steinmann's pit strategy symmetry with the Scuderia unquestionably meant they threw away a front-low lockout. Perhaps they should have done something different - arguably on the safer side - by using those wet tyres like our team did. With Pastor finishing in P13, the Panther Race Team scored zero points. To cap it off, Windsor taking what would've been Kitano's place in the points bodes well for championship and job security prospects as we now sit in 4th position. If the unlicensed Red Bull team continues to face such inconsistency, we might have a chance to break the top 3.
+
+To finish it off, I'm proud of De Graaf and Hashimoto today. As much as her form is at a lowly 3.6, she showed that a smoothness rating of 11 with a car hard on its tyres means nothing if you work on a good strategy. Otherwise, De Graaf's remarkable drive at 10.0 form is one for the ages - if only it could've been a podium. However, that would have meant we would make a loss due to the bonuses in his contract. Scuderia Rossini now has a 31-point lead in the constructors, and Lucia Flores' new teammate is certainly giving her a real challenge with her 9 points down from the now Drivers' Championship Leader.   
+  
+Also, Hashimoto hates Sharp now. You'll also notice our reserve driver (like a lot of our pit crew) is a TEMP.
+
+Goodnight, everyone!",1,1745561788.0,MotorsportManagerPC,0,1.0,False
+1k7dytt,https://www.reddit.com/r/Ghoststories/comments/1k7dytt/im_taking_a_class_where_my_midterm_is_a_ghost/,I’m taking a class where my midterm is a ghost story,"Hey, I’m taking a class called “The Supernatural and the Occult”. We’re learning about how folklore and religion/beliefs and how they play into certain cultures. Our midterm we were supposed to “create a ghost story”, and our final is called an ‘un-essay’, which is apparently anything but an essay. Currently working on a painting for that. I work in construction, and a bunch of coworkers who read my ghost story thought it was really good and should be turned into a movie script. Let me know what you think.
+
+The Delaney House 
+
+I bought this house with the intention of fixing it up. But I truly love the features of the existing interior of the house. I enjoy the ambiance of 1920s homes and their aesthetics. The handprinted wallpaper, the wainscoting along the hallways, and the original oak mantle above the fireplace. I got this home for an amazing price, and I assumed it was due to its outdated style. As my clientele grew bigger, I needed space for all of my fine art restoration supplies and incoming commissions. Luckily for me, this house came with an abandoned painting of a couple, with the woman holding a baby in her arms. The painting was a perfect side project for me, considering my job and love for fixing old and broken things.   
+
+On my first day in my new home, I was ecstatic about all the possibilities this place could hold. I invited over a girlfriend of mine to share a bottle of wine and help me unpack. She and I both discussed the vibes of the house's interior design. She, being more spiritually guided than I, noticed the house had a sad aura coming from it, and a smell she couldn't place. I saw her disdain for the cold, stained, and deposed interior. We laughed it off while continuing to unpack all my boxes.   
+
+While unpacking Andrea noticed the painting I found in the house some hours earlier.   
+
+""Is that one of your new commissions? I thought you took a break in preparation for the move?""  
+
+""No"", I said cheerfully, ""that came with the house actually!""  
+
+Andrea saw my proud face. I suspect she didn't want to extinguish it with her gripes about the home's weird aura.   
+
+She smiled and smirked. ""Laura, the last thing you need is more work, you know that right?""  
+
+""I know"" I muttered in a reassuring voice. ""But imagine how beautiful it would look in the living room once it's all fixed up!""  
+
+She inevitably succumbed to my excitement, and we continued unpacking.  
+
+◆◆◆ 
+
+Once Andrea left, I headed upstairs to get ready for bed. I lit some candles while the hot water for my shower was running. I proceeded to zone out, enjoying the warm water brushing against my face. Suddenly, I felt a hand graze my shoulder. I jumped and turned around to find nothing behind me. I peered past the shower curtain to see that my bathroom door and windows were still closed. At that moment, I collected myself and concluded it was simply my exhausted mind playing tricks on me.  
+
+Turning off the water and getting into my robe, I remembered Andrea's comment from earlier. How the house had a sad aura. My mind immediately went to my house, being haunted. But I giggle at the thought of my luck ushering me to buy a haunted house. As I got dressed, I toyed with all the possible scenarios in my head. None of which I could explain without some spectral entity being involved. I again chuckled to myself, convinced it was the wine, and I was losing it.   
+
+◆◆◆ 
+
+Over the next week I began to get more visits from what I presumed was a ghost. I was a little uneasy the first day, but I soon came to realize this ghost was more of a nuisance than scary. When I would go to get the paper in the morning, he would lock me out for an hour or so, only to let me back in exactly one hour later. Once I'd set the newspaper down on the coffee table, he'd flip the pages around as if he were sitting right next to me reading. This is what made me come up with the name Bill. The paper would always be left in a column discussing the president's achievements.  
+
+The subsequent days after my first encounter with Bill, I tried to continue my daily routine, to no avail. Between my work and daily chores, my days were filled with persistent pipe banging, drawer slamming, and window tapping. I felt like I was going crazy. So much so that I had become angry rather than scared. On Saturday I finally had enough. 
+
+""WHAT THE HELL IS YOUR PROBLEM?!"" I screamed.   
+
+Exhausted and realizing I had just been yelling at my kitchen cabinets, I took a step back, took a deep breath, and collected myself. I had the impression Bill was trying to tell me something. I figured the only way to be able to truly communicate with him was through a psychic or some other means. Considering I just bought a house... I didn't want to take my chances with a sham psychic. In this case, only time will tell.  
+
+◆◆◆ 
+
+Months passed and between renovations and upkeep, I had finished my fourth commission since buying my home. I had finally seized some free time, that I had no clue what to do with. I caught a speck of light out of the corner of my eye. The sunlight from my studio's window was reflecting off the painting that I found in my home. I had left it in the corner behind a few other passion projects. I decided to grab it and begin fixing it. As I was setting up my supplies, I began to truly observe the painting for the first time.  
+
+I first set out to fix the large tear in the center of the portrait. The tearing of the portrait seems to be from a cut of some sort. It started from the bottom right corner and continued up toward the man's face. The man and woman in the portrait both had stern but somber facial expressions. The man in the painting has a slick back haircut with a carefully trimmed mustache. He was wearing a beautiful navy blue suit with thin vertical gray stripes. His pose complimented the woman he was sitting adjacent to, dressed in a muted, pink, vintage A-line dress. The sleeves of the dress were fluttered and layered with ruffles, angling down towards the baby lying in her lap. Unlike the couple, the baby in the portrait looked like an afterthought. It had been painted to look like it was just placed there in the woman's lap, not being held or coddled.  
+
+It had been some time since Bill had emerged, and I had begun to think he'd vanished completely. But as soon as I began to glue the ripped pieces of the painting back together, my solvent jar fell, shattering on the floor. I groaned in frustration and headed to the closet to grab my broom and a rag. While wiping the floor down, I put pressure on one of the floorboards only for it to give out, and my hand to fall through the floor. I was startled at first, then noticed a shiny object hidden between the floor joists. Pulling it out, I noticed it was an old silver baby rattle. Out of the blue, I started to hear someone crying from my bedroom. Dropping the rattle, I walked over to see what the sound was. As soon as I passed through the door frame the crying stopped. I begin to see the walls leaking drops of water. It started at the crown molding and cascaded down the teal-colored wallpaper. It was as if my walls were crying. I rushed to the bathroom to grab some towels, but as soon as I returned, the water was gone.  
+
+◆◆◆ 
+
+A few weeks later the portrait is finished. While adding my last coat of varnish, I feel a sense of pride and accomplishment wash over me like a wave. I head to my room to grab my camera to capture my achievement. Looking at the photo I was stunned to notice the baby seemed to be missing from the artwork. As I glance back at the painting, I'm stunned again to find the baby has altogether disappeared. I pick the painting up and stare at it trying to reason with myself.   
+
+Could the baby have been a figment of my subconscious?   
+
+But I remember there being a baby in the woman's lap, right?  
+
+In an instant, I feel this sharp searing pain in my chest. I grabbed my chest and started to stumble. I reach for my desk to catch myself, as my vision starts to fade.  
+
+◆◆◆ 
+
+I woke up staring at the ceiling, and I felt defeated. I knew deep down all the auspicious signs and omens were pointing to something, I just didn't know what. Was it Bill trying to tell me something, was it the house? All I came to realize was that I needed to know what the hell happened in this house. 
+
+◆◆◆ 
+
+The next morning, I packed a bag and headed to the local library. I asked the counterwoman where the public records were located, and she sent me to the back of the library. She pointed to a few stalls of books and then asked if I knew what I was looking for.  
+
+""I'm looking for any kind of newspaper article about my house"".  
+
+""Well, where do you live darling?"" the librarian exclaimed.  
+
+""I bought the old house on October Lane a few months ago. I've been having these strange things happen and I need answers or I'm going to go crazy"" I said with a serious but joking undertone.  
+
+""oh"", she spoke in a worried tone. ""The realtor never told you the history of the Delaney house""?  
+
+Delaney house? I thought.  
+
+Up until this point, I never thought my house had any substantial history. The librarian ushers me over to a shelf and plucks a large leather-bound book with the inscription, 'Pinegrove Ledger 1920-1930'.   
+
+She handed me the book, ""You should read it for yourself then"".   
+
+◆◆◆ 
+
+For the next few hours, I proceeded to read through each year of this town's history. From new restaurants opening, and yearly carnivals, to high school football championships, and fourth of July firework displays. Nothing caught my eye till I found an article from 1929 that reads as follows.  
+
+'Tragedy in Pinegrove: Mother Slays Infant, Husband Missing — Madness Blamed in Shocking Domestic Horror""  
+
+Pinegrove Ledger — August 5th, 1929  
+
+Pinegrove, NY — A scene of ghastly violence shook the quiet hamlet of Pinegrove late Tuesday afternoon, when Mrs. Elizabeth Delaney, 25, was discovered sprawled upon her front lawn—her frock soaked in blood and her gaze vacant as a winter sky. Neighbors alerted authorities after witnessing the disheveled woman crawling upon the grass, murmuring incoherently and clutching a child's rattle.  
+
+Upon entry into the modest Delaney residence on October Lane, officers were met with a sight most dreadful: the lifeless body of young Thomas Delaney, the couple's only child, age one, found cold and still in his cradle, bearing the unmistakable marks of violent trauma. A child once said to be ""cheerful as a spring morning"" now lay a victim of inexplicable maternal madness.  
+
+Mr. William Delaney, 28, a clerk at the local postal office, was nowhere to be found. Despite an immediate search of the premises and surrounding area, no trace of the husband has yet been uncovered. Authorities fear the worst, though nobody has been recovered.  
+
+According to neighbors and acquaintances, the Delaney's were regarded as a respectable and loving couple—""the picture of domestic bliss,"" said Mrs. Agnes Holloway, a nearby resident. But those close to the family reveal that tragedy struck three months ago when Mrs. Delaney suffered a miscarriage that left her health and spirit shattered.
+
+""It was as if a shadow took hold of her,"" reported one source. ""She ceased to speak to anyone, and would sit for hours by the nursery window, rocking an empty cradle.""  
+
+Investigators now believe that the unfortunate miscarriage may have unhinged the young mother's mind, sending her into a state of melancholic delusion that culminated in the ghastly act.  
+
+Following her arrest, Mrs. Delaney was taken to Briarfield County Sanitorium, where doctors have since declared her in a state of profound mental disarray. During brief periods of lucidity, the woman has uttered only fragments—speaking of voices, of shadows, and once, chillingly, ""the walls are screaming.""  
+
+No formal confession has been given regarding the disappearance of Mr. Delaney, but foul play is strongly suspected. Though no charges were initially filed, the District Court convened a grand jury last week. The matter was brought to trial amid much public curiosity and macabre fascination.  
+
+Yesterday, the jury returned a verdict of clinically insane, declaring Mrs. Delaney unfit to stand criminal trial. She will remain indefinitely under the care of physicians at the sanitorium.  
+
+Sheriff Tully remarked in closing, ""It is a case that chills the very marrow—a house once full of life now only echoes with sorrow and silence.""  
+
+The investigation into Mr. Delaney's whereabouts remains ongoing.'  
+
+  
+
+I was mute. How couldn't I have known? Why wasn't I told? All the pieces started coming together, the rattle, the 'screaming' walls, the disappearing baby. I only wondered now, was I communing with William or Elizabeth? I headed to the front desk to check out the book. The librarian saw my stunned face as I passed her the book. She asked if I was alright, I told her I wish someone had told me what had happened.  
+
+""Knowledge is power..."" she exclaimed, ""...but it's also a curse"". ""My mother knew Mrs. Delaney back in the day... they were friends. She always beat herself up for not being able to see the signs or say something before it was too late"".  
+
+Between my racing thoughts and urge to get home I asked, ""Did they ever find Mr. Delaney?"".  
+
+""Oh, heavens no,"" she said, ""If you ask me though, I always thought he ran off with another woman"". She weirdly smiled and handed me back my book. While walking away I wondered how it would be possible for someone to just vanish into thin air.  
+
+◆◆◆ 
+
+The drive home felt somber and uncomfortable. I had a gut feeling that Bill, or whoever they were, was trying to tell me something, I just couldn't piece it together until now. I parked and headed up the sidewalk when I noticed a light shining through my upstairs window. I didn't remember leaving a light on. The more I stared at the window the more I noticed it was, off-putting. The window to the left was my bedroom window, and the window to the right was my bathroom window. But I don't remember this window. Thinking my mind was playing tricks on me again, I ran inside and headed up the stairs. I sprinted to my bathroom and looked out the window and sure enough, there was an unfamiliar window to the right of the bathroom.   
+
+The more I looked around my bathroom and bedroom, the more I observed there to be missing space. Almost as if there was an extra room between the two. I went out into the hallway and instinctually started peeling at the wallpaper. The plaster behind it seemed to be a different color than the rest of the house, almost lighter. I grabbed a hammer from my studio and started hacking at the wall. Piece by piece and bit by bit, the wall started to come down and behind it, I found a door. Once the door was fully uncovered, I ceased my manic exhaustion. Taking a deep breath, I opened the door.   
+
+The room was covered in a motif of vines and flowers, all different shades of pink. To the right of the door was an empty cradle covered in decades of dust and mold. But to the left, slumped in the corner, was a man. He wore a stunning navy blue suit with vertical gray stripes. His hair and body were worn away and a hole was left in the breast of his suit. In his lap, draped around his hands, was a garnet-speckled blanket with the embroidered letters 'T.D.'.
+
+◆◆◆ 
+
+I'm standing on the sidewalk staring at my front door. The officer next to me is saying something but I can't hear him. I watch as the coroners carefully wheel the stretcher down my porch steps and into their van.   
+
+Part of me is relieved. The other part of me wishes this closure could've gone to the family, or to whomever is left to remember. Just as I turned to thank the officer, I felt a chill breeze brush past the nape of my neck and through my hair.   
+
+As the van pulled out of the driveway I watched as the light in my mysterious window slowly flickered away. ",1,1745561449.0,Ghoststories,0,1.0,False
+1k7dxas,https://www.reddit.com/gallery/1k7dxas,Rhythm & Hues,"Rhythm & Hues
+
+Just singing sweet songs of Melodies Pure and True; this is my Message to You.
+
+Don’t Worry.
+
+About a Thing.
+
+Because it’s literally driving me insane. This worry over every little thing. For a little while, let it go, completely, live in Heart Of Earth without Sin in Self.
+Just try it out for a day, 1 day. Be Love: give yourself the gift you have always wanted. The reflection of your eyes in a smile you never thought would; fuck yes, today, I am Golden and Proud of All Heritage and Success and Mistake. Own all of it: not good to hunt and put fellow birds in a cage, don’t like it myself, so who started it matters little when the Finisher Arrives.
+
+Be kind, to Self, and Self Love To Self Other: Radical depth, Fast, Hard, and Move on. Do it again.
+
+Go random stealth style. In and out. Leave no tracks or trace. Something stylish and pleasant, a thoughtful useful gift.
+Pillow for the ass of a worker who sits: don’t get in the way: offer
+To lend a hand,
+And if it’s refused.
+Then really fuck em up and ask for help. And be helpful while being helped. Two cars working on each other while the mechanic scratches its head;
+
+Or just forget everyone else.
+Be the Wild Me
+that I am Today: sing out instead of In.
+Instead of push;
+Relax
+And drifting.
+
+A
+Rigid Structure: work. 
+
+12 light steps in a moment in a day and it’s a day today like any time else:
+The Fairy Folk of Old haven’t budged and inch, so stay right where you are and go there instead,
+Bring em with you back to where you never left,
+Folded in time
+At the moment you are already at,
+Speak with your new Fairy Daemon Froend.
+Help me
+help
+Myself to Help this moment become whole again.
+
+A sigil or stone rune sets the coil click of a coffee pot switching states: ritual in motion; beauty and poetry in mundane.
+
+Open the gates.
+
+Dreamtime Awaits; already There. arriving together in time.",1,1745561283.0,starseeds,0,1.0,False
+1k7dx0c,https://www.reddit.com/gallery/1k7dx0c,Would this TV stand go with this coffee table?,"This would be on parquet flooring. I’m not sure if it’s better to match the tv stand and coffee table with the same color wood, or have different color woods like this.",1,1745561250.0,interiordecorating,0,0.67,False
+1k7dwtm,https://www.reddit.com/r/sleep/comments/1k7dwtm/how_to_not_always_wake_up_in_46am/,How to not always wake up in 4-6AM? 😤,"I’ve tried everything:
+
+1. I go to sleep 11:30-11:40PM
+2. Eat ~2h before bed
+3. I take melatonin 
+4. Healthy diet
+5. Gym 3-4 times/week
+6. 5-10min editation before bed
+7. No screens an hour before bed
+8. Dark room
+9. Dim lights before bed
+10. Journaling
+11. No coffee after 3PM and no green tea after 5PM
+12. I don’t like to nap
+13. I don’t have much stress 
+14. No drugs. ANY drugs
+
+Why does this keep happening? ITS so annoying!!!",1,1745561230.0,sleep,0,1.0,False
+1k7dw9g,https://www.reddit.com/r/PointlessStories/comments/1k7dw9g/ive_been_feeling_gaslit_by_my_espresso/,I’ve been feeling gaslit by my espresso,"I’m pretty broke so when things run out, sometimes they’re out for a minute. I have an espresso set up (I know this doesn’t make sense being that im broke but bear with me) and recently ran out of beans.
+
+My decision was to steal some beans from my work, a cafe. I’ve been doing this for about a month and it’s gross. My works coffee is absolutely yucky. I’ve been using our medium roast because I like that roast best but it was… flat. 
+
+When I pulled a shot, the crema was light and thin. The stream was dark far longer than it should have been leaving the portafilter. I thought I was going crazy because it was dialed in correct but was still shitty. Tasted like shit, pulled like shit, smelled like shit. 
+
+Than I got my new beloved bag of espresso. I’ve had it for just over 24 hours and have made three coffees. I’m not crazy, the other coffee was just garbage. This one pulls dark and then turns to that beautiful rich brown. The crema is darker and thick. It tastes phenomenal and I don’t have to add a shit ton of milk to make it taste okay. I’m so happy. ",2,1745561168.0,PointlessStories,0,0.75,False
+1k7dw6r,https://www.reddit.com/r/Crushes/comments/1k7dw6r/should_i_forget_this_person/,Should I forget this person?,"Hello everyone, I just wanted to post this situation I've gotten myself into to get some feedback. I am currently a senior at college getting ready to graduate and I (M22) ended up developing a crush on a friend (F21) who is a grade below me. 
+
+We met in the fall semester of 2024 on a study abroad trip, where we had fun exploring a new country with our new group of friends. We danced together (she would litterally grab my hand and pull me to dance), gotten coffee a few times, she beat me at chess every time we played, hiked a little bit (hate hiking but got curious and had fun). We had a fun time together as friends throughout those five month on the study abroad. 
+
+However, I only realized that I developed feelings her a few weeks before the program ended. I'll be honest, I thought it would've been poor timing to tell her how I felt at the time. Also I kept brushing it off since I saw it as Inappropriate since she's a friend. And it doesn't help that I heard from a friend in our group that she had a ""long distance thing"" back home. The tone in that friend's voice was implying it wasn't serious but I decided to not to pursue since I don't know for sure as it was that only time I heard about it and it wasn't from her. I'm also socially anxious, which is something I've worked on but happens from time to time. 
+
+Regardless, the current situation is this: She is doing another study abroad right now so I couldn't follow up to talk to her this semester. However, by the time she comes back to campus in the fall, I'll be graduated and living another city. 
+
+I am just wondering if I should forget about her and move on? Asking for input.
+
+",1,1745561159.0,Crushes,0,1.0,False
+1k7dvx7,https://www.reddit.com/gallery/1k7dvx7,Mold in coffee :o,,1,1745561130.0,MoldlyInteresting,0,1.0,False
+1k7dv7g,https://www.reddit.com/r/r4rquezoncity/comments/1k7dv7g/28_m4f_6ft_tall_muscular_yoni_expert/,28 [M4F] 6ft tall muscular yoni expert,"About me:
+-6ft tall
+-gym buff muscular
+-very gentleman on the outside, g-spot pleaser on the inside
+-looks clean and well put together
+-took yoni massage classes abroad
+-very hygienic
+-has a car
+-can cover expenses
+-loves coffee
+-natural pleaser in bed
+
+You:
+-just don’t be obese/too chubby
+-hygienic
+-lives around QC/Cubao
+
+Hoping to find someone who I could also be friends with or be constant with. DM me with your TG and let’s meet up. I’m free even today afternoon onwards",1,1745561052.0,r4rquezoncity,0,1.0,False
+1k7dtuo,https://www.reddit.com/r/PhR4Friends/comments/1k7dtuo/23_m4a_dimsum_bibliotheques_cinemas/,"23 [M4A] dim-sum, bibliotheques, cinemas","would love to hang out with similarly quirky, obsessive, eclectic, and eccentric people. i'm a writer from paranaque and i would love to chat shit about mysticism, cybernetics, comicbooks, hardcore punk, uk garage over tea or coffee. it's a big plus if we could share our art to each other. ",1,1745560898.0,PhR4Friends,0,1.0,False
+1k7dtgu,https://www.reddit.com/gallery/1k7dtgu,Salvageable or Scrap?,"I got a vintage desk, which you can see I'm part way through doing up (really new to DIY but learning). The leather desktop insert has wear on the edges, pitting, paint/nail polish, coffee cup rings, and is a little loose. I'm wondering if this is salvagable or if I need to scrap it? Pic 2 is a little offcut I took from the underside of the desk to confirm the leather insert is actually leather. I've looked and it will be very difficult to remove the leather insert to replace it but will do what I need to - any advice is very appreciated!",1,1745560864.0,Leather,0,1.0,False
+1k7drfb,https://www.reddit.com/r/AITAH/comments/1k7drfb/aitah_for_blowing_off_my_cousin/,AITAH for blowing off my cousin?,"
+
+Warning - this is really long and the stakes are pretty low too, but it helps me vent.
+I know this is a really petty thing to vent about, but this is just so annoying to me. I have this second cousin (I'll refer to her as cousin going forward for simplicity) - she's the only daughter of my grandma's sister. She's about my age. I'm 43, and me and my wife got 3 kids (7, 4 & a new baby who's 2 months old). My cousin has 2 kids.
+My grandma is REALLY competitive, and very much about appearances. As we were growing up, me and my cousin weren't really close, but we got along well enough. But I was unpopular and awkward and didn't do super well at school, and my cousin was pretty, smart and popular, which no shade - good on her. The problem is that I kept being accosted by my grandma - why couldn't I be more like my cousin? Why couldn't I do better at school? Why couldn't I do better socially? Why didn't I care about my appearance? None of this is my cousin's fault, obviously, but this basically set up this whole dynamic where it is just assumed that if something goes wrong - it's my fault.
+
+
+As I said me and my cousin were never really close, so as family members died off, and we got our own lives we stopped really socializing. Last time I saw her was like 5 years ago when I only had the one kid and so did she, and the time before that was like 4 years earlier. We are not really in touch.
+Recently, for whatever reason, my family got really insistent about ""keeping the family together"". I don't know what distant relative died or who became suddenly aware of their own mortality, but suddenly I keep getting phone calls and texts about keeping in touch. On its face - that's fine. People are allowed to want to keep in touch with me. The problem is that it's never actually about keeping in touch, it's always someone calling me up to passive-agressively chastise me about not keeping in touch. ""Why don't you ever call? Why don't you ever visit?""
+To that, my reply is always ""You're an adult person with a working phone and car, why don't YOU ever call? why don't YOU ever visit? Why don't you just ask me how I'm doing instead of coming at me with this passive aggressive BS? You're always welcome to call and check how I'm doing, but I will not sit here and be lectured at.""
+
+
+To her credit, my cousin went about this differently - she texted me a few months ago wanting to meet. I was like ""awesome yeah, let's set a date"" and we did. The day comes - I hype up my kids about going to meet their cousins, I text my cousin to get her address (she moved) and I get nothing for 30 minutes, only to, upon already sitting in the car, getting a ""oops I'm sorry I forgot we made plans. I had plans with friends, we'll do it another time."" The kids were a little devastated (though they're kinda little so it doesn't really take much to devastate them.)  but whatever, I don't make a big deal of it, I say we'll reschedule and I take the kids to an amusement park as compensation. Admittedly I was a bit of a sarcastic dick about it though because a few days later she texted me ""omg we gotta reschedule!"" I replied ""well I guess if we gotta"" which I thought was playfully satcastic but apparently didn't really come across too well, so I got a ""well we don't have to"" and then months of radio silence. Fair enough, I guess.
+
+
+The thing is - BS like this happened 3 more times afterwards. This time, at least, she had the decency to not stand me up in real time, but rather text an excuse early in the morning or the day before, every time we were going to meet - one of her kids or her husband or her dog got sick. So at least there's that. Still, at some point I just stopped telling my kids we're going to meet them because I got tired of making excuses. All the while I keep getting accosted by my mom & my grandma for not keeping in touch with my cousin, which is obviously all my fault because my cousin can do no wrong.
+
+
+Then last weekend rolls around. Me and my wife & kids have a pretty hectic schedule when I get a text from my cousin ""OMG we're gonna be in your area for two days we gotta meet up!"" I'm not really optimistic but I go ""sure. See you in the morning because we have plans for lunch, so just swing by for cake & coffee"". she agrees.
+Morning rolls around, and... nothing. At around 10:30 am I get a text: ""we've had a flat tire, but we really wanna meet so we'll be there soon.""
+I go ""what's soon?""
+she goes ""11:30""
+Okay whatever.
+11:30 rolls around. ""We just left, we'll be there at 12:30""
+Internally I'm furious by this point, but I go ""whatever""
+12:30 rolls around. She texts me ""Stuck in traffic an hour away."" By this point my kids are starving, and we didn't really meal prep at home because we knew we were eating out. I ask if she just wants to meet us at the restaurant where we made reservations and left a deposit, she says no. I say ""okay then we'll do it next time."" she goes ""no please don't cancel! We'll be in your area for 2 days, so we can meet up tomorrow!""
+I say this isn't really convenient for me, but she goes ""we'll be there ANY TIME""
+""Can you make it tomorrow morning?""
+""No we're busy"" because of course.
+I go ""okay maybe like 5-6pm?"" and she agrees.
+that day we had a trip and were expecting to be home by 5, but traffic was heavy, everything ran late, and the supermarket that was supposed to deliver groceries in the morning cancelled the order, so we had to deal with that too. At 16:30 my cousin texts me ""we'll see you at 6?""
+Me, tired and kinda put off say ""it's not really convenient today.""
+she literally goes ""Don't cancel on me, do you realize my kids are so looking forward to meeting their cousins? you realize how mean it is to break their hearts like this?""
+And yes, I literally do. I've had to do this repeatedly over the past months. But I don't say that. instead I text ""We'll be home at 6:15, and even that's questionable since we need to get groceries. So... listen, me and the kids will host you and my wife will get the groceries and join us later.
+My cousin goes ""no, forget it, we don't wanna impose. We'll reschedule"" because suddenly the kid's heartbreak isn't a big deal I guess. Thankfully this time I didn't really hype my kids up so that was not an issue.
+
+Again, this isn't the end of the world, no one died, but by this point I'm annoyed ,if you didn't wanna impose why didn't you just let me reschedule when you saw you weren't gonna make it yesterday? why does every step of this process need to be annoying and unpleasant?
+
+Fine, whatever. we didn't meet up, we'll reschedule. But no, that's not the end of it. My cousin went home and started to complain to her mom about how *I* was being difficult, and how *I* didn't wanna keep the family together. which immediately got reported to my grandma, who's now accosting my mom and me about it because my cousin is perfect and can do no wrong and if she says it's all my fault and I'm tearing the family apart she's absolutely correct, and by this point you know what? Maybe I don't mind tearing the family apart because this is becoming too annoying to be worth it. AITAH? Should I have just changed my plans to meet her? Or told her outright that I don't wanna? Hell maybe I should just tell my grandma that I have exactly zero interest in this weird limbo anymore and this serves no purpose besides annoying me and go NC.
+Sorry this was so long and so low-stakes, but I'm genuinely annoyed as hell and got no one else to tell.
+ ",3,1745560652.0,AITAH,2,1.0,False
+1k7dqed,https://www.reddit.com/r/japanresidents/comments/1k7dqed/i_made_a_free_quiz_webapp_to_help_with_the/,I made a free quiz webapp to help with the Saitama (Kōnosu) driving test (Karimen & Honmen),"Hey everyone!
+
+Just wanted to share something I’ve been working on recently — I created a simple webapp called [SaitamaDrivingTest](https://saitamadrivingtest.com) that helps you practice for the driving license exams in Saitama, especially for those taking the **Karimen** (learner’s permit) and **Honmen** (final license) tests at the Konosu center.
+
+It covers English-translated quizzes and aims for about **90-95% accuracy** based on the real test pattern. Super helpful if you’re preparing for the test but want to avoid digging through PDFs or random blogs.
+
+Heads up though:
+
+* Some questions might be repeated in the webapp just to ensure practice — but that’s **not** the case in the actual exam.
+* I’ll keep improving it based on feedback, so feel free to try it and let me know what could be better!
+
+It's totally **ad-free**, just made to help others out. But if you find it helpful and want to show support — there’s a little “Buy me a coffee” button ☕😉
+
+Hope this helps someone out there trying to pass their test 😊  
+Good luck and drive safe!",2,1745560534.0,japanresidents,1,1.0,False
+1k7dor8,https://www.reddit.com/gallery/1k7dor8,ISO Collection Additions,"ISO any of these items! I am looking to add to my non figure love of hirono and don't want to pay the astronomical shipping on ebay. Listed below is the items names in detail. But looking to purchase any or all of these items. Willing to hear straight offers or negotiate as long as the price is right for both of us. 
+
+Phone Case iPhone 13 Pro Max
+
+Echo Coffee Cup
+
+Passport Bag
+
+Snoopy Collab Figure",2,1745560344.0,hirono,0,1.0,False
+1k7doon,https://www.reddit.com/r/woodworking/comments/1k7doon/covering_up_veneer_breakthrough_under_or_over/,Covering up veneer breakthrough - under or over Rubio?,"Folks, I’m restoring a coffee table which is basically board with a thin oak veneer. The veneer has seen better days but has come up quite nicely with careful sanding. There are a couple of spots where it’s broken through to the particle board underneath. 
+
+I’d love it if anyone can give some advice on how to conceal it considering I’ll be finishing the piece with Rubio stain. ",1,1745560337.0,woodworking,1,1.0,False
+1k7dodg,https://www.reddit.com/r/breastcancer/comments/1k7dodg/excessive_restrictions_during_radiation/,Excessive restrictions during radiation?,"Hi everyone, I've been recommended 6 sessions of electron boost and 16 sessions of the other radiation. I don't know the names because my radiation oncologist has not explained things properly and the hospital I go too is overcrowded so it's very hard to meet. But he has given a lot of restrictions especially dietary and I was wondering if we could compare notes. 
+
+Wear lose clothing around the area? But the surgical oncologist said wear tight bra? That's contradictory. It's just been 16 days since my surgery. 
+
+He also said don't have fruits, juices and coconut water? Why the funk?
+
+And ofcourse no coffee, tea, bakery items??? ( don't know what that means ), nothing acidic so no apple cider vinegar i guess? (which I was trying to take for weight loss) 
+
+Anything made from refined flour and gram flour. 
+
+I don't know how I'll survive without coffee, and was wondering why healthy stuff like fruits and coconut water is on the list. 
+
+Any tips? Suggestions? Anything would help. I'm really terrified. I broke down on the second appointment I don't know why. Just everything seems to be falling apart even though everything is fine. I feel very confused about everything. And my parents have their own issues which leaves just me to advocate for everything on my own. I don't like the doctor he doesn't communicate well. I feel very alone and uncomfortable. (Sorry for the doorknob confession) Anyone who has been through a similar treatment who I could please DM? It would mean a lot",1,1745560301.0,breastcancer,2,1.0,False
+1k7dmv3,https://i.redd.it/a01jjsxg6xwe1.jpeg,Coffee: because adulting is hard.,Coffee lover ☕,1,1745560134.0,COSTARCoffeeLovers,0,1.0,False
+1k7dmby,https://www.reddit.com/r/Ultralight/comments/1k7dmby/ul_cooking_set_up_for_two_142_liters/,UL cooking set up for two 1.4-2 liters,"G'day from down under, 
+
+We're looking for advice for the perfect cooking set up for 2 that has a bit of generous volume. I'm going midly nuts overthinking the whole thing, but basically the ideal set-up would be: 
+
+- Volume: 1.4 to 2 liters (we eat only our home made vegetarian dehydrated meals, which tend to have a bit more veggies and take more space than the meat-base options). We also heat quite a bit of water in the morning for a big porridge breakie + lots of coffee.
+
+- Material: Titanium or ceramic coated aluminium
+ 
+- Environment: Australia/NZ, non-alpine, rarely freezing
+
+- Able to fit/nest: 
+1. a 230g gas canister as most our trips are 5-7 days long
+2. a Soto Windmaster with its 4-legged stand, 
+3. a microfibre cloth, 
+4.  a 400-600ml plastic or titanium bowl/container so my partner and I can eat at the same time and not kill each other. If the bowl is really light we'd consider to get two that can nest over one another for convenience.
+5. two small sporks
+
+- Very desirable other details: 
+1. insulated pot handle(s)and insulated lid handle so we don't burn ourselves constantly 
+2. pour spout or pour holes to drain water
+3. Lid that could lock or lock-ish so we could start soaking our meal whilst still hiking, and stick the pot on the outside of our bag.
+
+We have never cooked with Ti and have read the issues with the sticking, so we're hoping to bring the water to boil, put food in, turn gas off/put on simmer with lots of mixing - hopefully that'd work.
+
+So far I've looked at:
+- [Toaks 1600ml pot](https://www.toaksoutdoor.com/products/pot-1600) (194g, 145mm diameter, not sure how much we will burn ourselves on these handles and can't really find a large enough Toaks bowl to nest without losing too much volume)
+
+- [MSR Titan 1400ml kettle](https://cascadedesigns.com/products/titan-kettle-1400ml?srsltid=AfmBOordUYax6KTicWTivuioNdnTgjSKziS2uhlC0vo3VhER8prX1ynJ) (150g, can't really find a bowl for it, not sure if it's easy to cook in there due to the deep profile of the kettle)
+
+- [MSR Ceramic pot 1300ml solo](https://cascadedesigns.com/products/ceramic-solo-pot)ceramic-coated aluminium, but heard some reliability issues with the silicon handles/lid, can't find also an obvious bowl for it, looks a bit too small to fit everything.
+
+
+The Toaks set up looks like the easiest, lightest option, if you have find a way to make it work with a bowl + fitting all the rest, would love to hear about it.
+
+Thanks a bunch in advance for any help!",1,1745560076.0,Ultralight,1,1.0,False
+1k7dlmu,https://www.reddit.com/r/writers/comments/1k7dlmu/liberosis/,Liberosis.,"I’m writing a book about two boys who have fallen in love and then fall apart. Doomed love <3
+
+But that’s irrelevant, i feel like my writing style is very repetitive. My words and phrases feel so… weird idk if it makes sense. 
+
+here’s a part of a chapter
+
+
+The wind cut sharp through town, rattling the bare tree branches and sending stray leaves skittering across the pavement. Reagan shoved his hands deeper into his hoodie, letting the cold bite at his cheeks as he walked. Winter formal was three days away, and Kacie had been on a mission all afternoon.  
+""I'm just saying,"" she continued, stepping in front of him to block his path. ""You should ask him.""  
+Reagan sighed, adjusting his bag strap. ""Kace.""  
+""Reagan."" She mimicked his exasperation with a grin. ""Seriously. Why not?""  
+He didn't answer right away. Instead, he glanced toward the coffee shop ahead—warm light spilling onto the sidewalk, the familiar hum of conversation just beyond the glass. Jonas was already inside, waiting for them.  
+Why not?  
+Because Jonas wasn't like him.  
+Because Jonas had spent his whole life playing the part of someone else—his father's perfect son, the golden boy of their youth group, the guy who did what was expected of him. And Reagan? He'd never fit into that world. Never wanted to.  
+Jonas wouldn't want someone like him.  
+""I just don't think he's into me like that,"" Reagan muttered. ""He's never—"" He hesitated, lowering his voice. ""He's never dated a guy before.""  
+Kacie gave him a look. ""And? That doesn't mean he wouldn't.""  
+Reagan exhaled, watching his breath curl in the air. ""It's different for him. He has a lot to figure out.""  
+""So help him figure it out.""  
+""It's not that simple, Kace.""  
+Kacie crossed her arms, tilting her head. ""You really think he'd freak out if you asked?""  
+Reagan frowned. He wasn't sure. Jonas wasn't the type to be cruel about it, but that didn't mean he'd say yes. And if he said no—if it made things weird between them—Reagan wasn't sure he could handle that.  
+""He's my friend,"" Reagan said, voice quieter now. ""I don't want to mess that up.""  
+Kacie sighed, softer this time. ""Rea. I love Jonas, but you and I both know he overthinks everything. Sometimes he just needs a push.""  
+Reagan hesitated, glancing through the coffee shop window. Jonas sat at their usual booth, tapping his fingers absently against the table, staring down at whatever notes he'd brought with him. The sight of him—so focused, so completely in his own head—made something ache in Reagan's chest.  
+He wanted this. More than he wanted to admit.  
+But wanting something didn't make it safe.  
+""I don't know,"" Reagan murmured.  
+Kacie nudged him with her shoulder. ""You don't have to. Just think about it.""  
+Reagan sighed, pushing the door open. The bell jingled, the warmth of the shop wrapping around him like a blanket. Jonas looked up at the sound, and for a second—just a second—his face softened, like he was glad Reagan was there.  
+Reagan's heart did something complicated in his chest.  
+Maybe Kacie was right. Maybe Jonas just needed a push.  
+Or maybe Reagan was standing too close to the edge of something he wasn't ready to fall into.  
+The coffee shop smelled like cinnamon and espresso, the air thick with warmth that contrasted the bitter cold outside. Jonas was already halfway through his drink, his fingers curled around the cup, gaze flicking between his notebook and the window like he wasn't really paying attention to either.  
+Reagan slid into the booth across from him, Kacie plopping down beside Jonas with a dramatic sigh. ""Alright, boys. We need to have a serious conversation.""  
+
+and a separate chapter
+
+Jonas' heart skipped a beat at that—at how easy it was for Reagan to say things like that, like it was the most natural thing in the world. He swallowed, glancing around at the different clusters of students.  
+
+Some people were playing around at the photo booth, squeezing into the frame with ridiculous props. Others gathered near the refreshment table, where a comically large chocolate fountain stood, attracting a small crowd.  
+
+And, of course, there was the dance floor.  
+
+Couples swayed under the lights, laughing and spinning in a blur of navy, red, and silver. It was overwhelming, but not in a bad way. The music shifted, the upbeat song fading out and melting into something softer, something slower.  
+
+Jonas felt Reagan’s gaze on him before he even turned.  
+
+Reagan grinned. ""Oh, this is happening.""  
+
+Jonas groaned. ""No, it’s not.""  
+
+""Yes, it is.""  
+
+Before Reagan could drag him, Jonas surprised him by stepping forward, grabbing his hand and tugging him toward the dance floor.  
+
+Reagan blinked. ""Wait, what—""  
+
+Jonas smirked, lacing their fingers together. ""You want to dance? Fine. But I’m leading.""  
+
+Reagan opened his mouth to protest, but Jonas was already placing a hand at his waist, fingers firm but gentle. The confidence in the movement caught Reagan off guard, and suddenly, he wasn’t so sure if he wanted to argue.  
+
+Jonas pulled him in, their bodies aligning in a way that felt too natural, like they were meant to fit together like this. The warmth of Reagan’s body seeped through the fabric of his shirt, sending a shiver down Jonas’s spine.  
+
+""This okay?"" Jonas asked, voice quieter now.  
+
+Reagan exhaled. Nodded. ""Yeah. It’s okay.""  
+
+Jonas started leading them into an easy rhythm, slow and steady, moving with the music like he’d done this a thousand times before. His grip was firm, but not overbearing. Reagan hadn’t expected Jonas to be so good at this—at taking charge, at making him feel weightless as they moved across the floor.  
+
+""See? Not so bad,"" Reagan murmured, tilting his head slightly.  
+
+Jonas scoffed. ""I didn’t say that.""  
+
+Reagan chuckled, spinning them slightly. ""You’re not pulling away, though, that’s a first.""  
+
+Reagan swallowed thickly, staring at Jonas like he was seeing him for the first time. The way the dim lighting caught the sharp angles of his jaw, the way his hair curled ever so slightly at the edges—he was beautiful.  
+
+""No,"" Jonas murmured. ""I’m not.""  
+
+They swayed in silence for a moment, the rest of the world fading into nothing.  
+
+
+idk if its just me or what but ughhh I dont want to rewrite it but i may just have to..
+",1,1745559996.0,writers,2,1.0,False
+1k7dljb,https://www.reddit.com/r/srilanka/comments/1k7dljb/food_tips_please_during_travel/,Food tips please during travel 😊,"I’ll be traveling around Sri Lanka soon – hitting up places like Colombo, Negombo, Ella, Nuwara Eliya, and Galle – and I’m trying to stay somewhat disciplined with my food while I explore.
+
+I’m currently on a calorie deficit with a focus on clean eating. I train regularly and like to stay on track even when I travel (I mean, balance lah 😅). But I’d love to hear how locals or fellow travelers manage to:
+
+1. Eat clean while still enjoying Sri Lankan food – what dishes are naturally lighter, higher in protein, or lower in oils?
+
+
+2. Navigate local eateries, food stalls, or supermarkets – what should I be looking for?
+
+
+3. Bonus if you know where I can grab a decent coffee and boiled eggs without hunting like a madwoman.
+
+
+I’m not trying to be obsessive😇 Just mindful while still enjoying the full experience. If you’ve been down this road (literally or figuratively), I’d love your thoughts!
+
+Thanks in advance ✌️
+
+",1,1745559985.0,srilanka,1,1.0,False
+1k7dlg9,https://www.reddit.com/r/AskReddit/comments/1k7dlg9/which_do_you_drink_tea_or_coffee/,"Which do you drink, tea or coffee?",,3,1745559976.0,AskReddit,21,1.0,False
+1k7dl4d,https://www.reddit.com/r/hockey/comments/1k7dl4d/anyone_still_make_good_game_highlights/,Anyone still make good game highlights?,"I can somehow stomach the AI-edits during the regular season but during the playoffs this is unacceptable. It's not that long ago that even Sportsnet had meaningful edits that told the story of the game instead of showing every instance of goalie touching the puck with the code mandated 5 seconds before and 3 after.
+
+For someone like me who is unable to watch games live it's great to watch highlights with my morning coffee before even getting spoiled with the results. But how are you putting every dump in that a goalie has to touch in there while ignoring everything else that's happening in the game? Suddenly someone is sitting a five minute penalty, what happened? Why would you care? 2 players from each team are somehow sitting in the penalty booth, watch this player fetch the puck from behind his net again instead.
+
+And don't even get me started on the inconsistency of the replays, I get to watch a complete meaningless play four times with slow-mo and an insane play just gets brushed off.",4,1745559942.0,hockey,4,0.75,False
+1k7dk0q,https://www.reddit.com/r/UnsentLetters/comments/1k7dk0q/yep_i_do_miss_you/,"yep, I do miss you.","A while ago I saw something in this thread that really made me think you were writing to me, and I just haven’t been able to get over it. 
+
+It’s so weird how deep of a connection we’ve always had. It doesn’t make sense to me. Even so, it brings me a lot of mental peace. 
+
+You scared me in the beginning, but we both grew up a lot since we met a few years ago. if timing would have aligned, we definitely could have been something great. 
+
+You were right that I wouldn’t be happy making the decision I did, and you knew I was in survival mode having to play it safe. You read me and pretty much always have. It’s because we have a really wild tie. You set me straight, and I drive you crazy. Honestly, we could have been the perfect duo if we would have gotten things right sooner. 
+
+It’s you, it always has been. I just don’t know what to do about it, and now it’s too late.  I appreciate who you are and I respect what we had/what we didn’t. 
+
+I wish you’d reach out and let me know you think of me too, if you still do. Even if we don’t talk, I think I just need to hear it. I want you to be happy. I know you want the same for me, and I know you respect where im at. 
+
+Our impromptu showing up at coffee kept me okay this past summer when it felt like the world was caving in around me. I now realize how easy things were when we were around each other, even when our own lives and careers were chaos.
+
+ I should have listened to you and trusted you. I do know you’re my person. 
+
+I’m sorry. I miss you. 
+
+⚖️ ",6,1745559819.0,UnsentLetters,1,1.0,False
+1k7dhjn,https://www.reddit.com/r/Vent/comments/1k7dhjn/ngl_not_having_a_partner_is_kind_of_getting_to_me/,Ngl not having a partner is kind of getting to me,"So i usually am the single dude in my friend groups, i don't really date much and tbh all my past attempts at starting something have ended up badly, i either get ghosted, they try to use me to cheat, or simply am told no,
+
+  
+I don't really mind that much usually, if it wasn't meant to be, it was not meant to be, but ngl it is starting to get fucking depressing and it is starting to get to me
+
+  
+Today i took the decision to let go of a girl who i was on a talking stage (she ghosted me rip) and idk, i am emotional as hell i guess
+
+  
+It's just so fucking frustrating, my friends are all in relationships, albeit just talking or on a commited one for years, 
+
+  
+I used to be in one as well, when i was 16, (now i'm 22)
+
+  
+Ever since then i haven't gotten into a relationship, nothing past a talking stage
+
+  
+Tbh i want something serious with someone, and i've tried a lot, but my fucking heart can only take so many losses, i'm pretty sure i am nearing a limit of some sort and that really depresses me
+
+  
+I just want to feel wanted and loved like that yknow
+
+  
+And i want to feel like i can actually allow myself to want and love someone like that without the fear of getting my heart fucking obliterated
+
+  
+I feel hella depressed rn tbh, idk if my mood is in ""dude i wish i could date someone"" or in ""dating fucking sucks"", maybe both
+
+  
+In this case i am feeling pretty unwanted and tbh sorta unlovable
+
+It feels bad because it's like, the gal made the first move and all, and i did my best to try and see where this leads, but weeks of either being told ""nah i don't have time"" or just straight up getting ghosted have me feeling fucked, i indeed feel like ""dude i am not even worth 5 minutes of her day"" type shit, and tbh i had enough
+
+  
+I can understand if someone is busy, hell i study and work, i am busy as fuck, but, i can take 5 mins of my day to at least say hi, or yknow just see what on my schedule is convenient for a single date, i don't ask much, coffee on campus could be nice, i decided to let her go when this stopped being ""yeah i am being nice and am just waiting for her to get the chance to hang out"" and instead became ""yeah i have no fucking self respect so i'll just stick around till she either tells me to fuck off or something happens"" and TBH i am tired of doing the second one
+
+I can take a hint, if after the third time i ask her to hang out i get told ""sorry am busy as hell, won't ever know when i stop being busy"" then yeah, indeed i just got told she's not interested at all and to better leave her be
+
+  
+Just
+
+  
+Damnit
+
+  
+idk man, i am feeling like shit, i wish i could for once find someone who wants me as much as i want them
+
+  
+Dating fuckin sucks
+
+  
+",2,1745559562.0,Vent,4,1.0,False
+1k7dh4w,https://www.reddit.com/r/scarystories/comments/1k7dh4w/the_blue_room/,The blue room,"I never saw his face. Not once. That fact alone haunts me more than anything else. His voice was always calm. Measured. Almost polite, which made it worse somehow. He never raised it. Never cursed. Just quiet instructions and the scent of bleach.
+
+I remember the day he took me with unnerving clarity, like a scene scratched into the back of my eyes. It was raining hard. I’d just left the coffee shop near campus, umbrella forgotten at the counter. I remember fumbling with my phone to order a ride, then a gloved hand over my mouth. The sensation of cold metal pressing against my temple. My scream drowned in my throat.
+
+When I woke up, I was lying on a thin mattress inside a windowless room painted entirely blue. Floor to ceiling. Blue walls, blue ceiling, blue sheets. A single light bulb buzzed above me. The air smelled stale and chemical, like old paint and something sour underneath. I was still in my jeans and hoodie, but my shoes were gone.
+
+There was a door with no handle on the inside. A small camera in the corner blinked a red light at me. He watched. I knew it immediately. I stared at that lens for hours, waiting for something to happen. When I tried to scream, the sound felt swallowed by the blue around me.
+
+The first time he spoke, it came through a speaker hidden somewhere in the ceiling.
+
+You will not be harmed if you follow the rules.
+
+His voice was neither old nor young. Just… blank. Like he’d stripped it of personality on purpose. I asked him who he was, what he wanted. I begged. Cursed. Promised him anything if he’d let me go. Silence. Then the voice again.
+
+Rule one. Do not tamper with the door. Rule two. You will eat when the light turns green. Rule three. You will sleep when the light turns red.
+
+The light never turned off entirely. Just changed color. When it glowed green, a tray slid through a narrow opening near the floor. Usually oatmeal, sometimes something that looked like meatloaf. It didn’t matter. I ate it. Hunger won every time.
+
+The days blurred together. I lost track of time. There was no clock, no natural light. I started naming the cracks in the ceiling. Whispering stories to myself to remember the sound of my own voice.
+
+But always, always, I watched that camera. Waiting.
+
+The first time I broke the rules, I did it out of desperation. I waited until the light turned red and pretended to sleep. Then I pried at the edges of the tray slot with a piece of bent plastic from the food container. The slot was spring-loaded, and the metal cut my fingers. Still, I kept at it.
+
+I don’t know how long passed before I felt the change in the air. Like a presence had filled the room. Then the voice returned, quiet but firm.
+
+You have broken a rule.
+
+Before I could react, the light turned white—blinding white. Pain shot through my head. I screamed, covering my face, but the light only grew brighter. My skin felt like it was burning. I curled into a ball and sobbed until it finally dimmed and turned red again.
+
+You will not be warned again.
+
+I didn’t touch the slot after that. Not for weeks.
+
+But something shifted in me that day. He wanted obedience. He wanted routine. That was his mistake. If I could predict him, I could break him. So I watched. Every gesture, every meal, every color change. I memorized the timing. I counted seconds between the tray sliding in and the camera lens shifting focus. I noticed it turned off for three seconds each time he delivered food.
+
+Three seconds. Not much. But just enough.
+
+The next time the light turned green, I was ready.
+
+I took the plastic fork from the tray and wedged it under the edge of the camera. My hands trembled as I worked fast, biting my lip so hard I tasted blood. I managed to snap the lens just before the red light blinked back on. I dropped the fork and backed into the corner, heart racing so hard I thought I’d pass out.
+
+No voice. No punishment. Just silence.
+
+The camera stayed dark.
+
+The next day, no food came. No voice. No light change. Just endless, crushing blue.
+
+That was the worst day of my life. Not because of hunger or fear, but because I realized he was punishing me by taking himself away. I’d begun to expect him, depend on his rhythm. Without it, I unraveled. He knew that. He wanted me to miss him.
+
+I screamed then. I pounded on the door, clawed at the walls, sobbed until my throat bled. I begged him to come back. To talk. To do something.
+
+That night, the light turned green. The tray returned. And the voice said,
+
+Good.
+
+He had broken me. But in breaking, I saw the cracks.
+
+I changed after that. I pretended better. I followed the rules. Ate when I was told. Slept on command. I became obedient, quiet, predictable. I gave him what he wanted—until the day he made his first mistake.
+
+It was small. Stupid, even. A noise behind the wall. Like a cough. It was human, and it didn’t belong.
+
+I pressed my ear to the wall. Nothing. Then again, softer this time. A shuffle. A breath. Someone else was there.
+
+I tapped on the wall, slow and rhythmic. Three knocks. Waited. Then it came back.
+
+Three knocks.
+
+I wasn’t alone.
+
+Every day, we tapped. We developed a code. A crude alphabet based on numbers and taps. It took days, maybe weeks, but we began to talk. Her name was Lisa. She’d been there longer. Much longer. She warned me he liked games. Psychological ones. That he changed rooms. That no one stayed in the Blue Room forever.
+
+That scared me more than anything.
+
+The night the light turned red and didn’t change for hours, I knew something was coming. I didn’t sleep. I crouched near the tray slot with the bent fork hidden in my sleeve. My heart pounded so loud it drowned out everything.
+
+Then I heard it.
+
+The door. Clicking open.
+
+He was coming in.
+
+I lay still, pretending to sleep, barely breathing. I heard footsteps, slow and deliberate. A faint rustle. He was doing something with the camera. Replacing it. I could smell his cologne. Sharp and synthetic.
+
+Then, without warning, I leapt.
+
+I jammed the fork into the back of his thigh. He screamed—a real, raw scream—and I scrambled through his legs, bolting for the open door. He grabbed my ankle, but I kicked hard, adrenaline turning me into something wild and primal.
+
+I ran down a narrow hallway lit by flickering bulbs. Doors lined each side, all painted different colors. Blue. Green. Yellow. Red. I passed them all. I heard him stumbling behind me, shouting now. Angry. The calm voice was gone. This was the real him.
+
+I reached a metal staircase and flew up it, taking two steps at a time. My lungs burned. My bare feet slapped the stairs so hard they bled.
+
+At the top—another door. This one had a keypad.
+
+I froze.
+
+Then I remembered Lisa’s taps. The numbers she gave me over the last few days. A date. Her son’s birthday.
+
+One. Nine. Zero. Five.
+
+The light turned green.
+
+The door creaked open to a blinding light. Cold air rushed in, and I saw stars. Real stars, in a real sky. I ran into the night, into the dark forest beyond.
+
+I didn’t stop.
+
+Eventually, a trucker found me on the road, half-conscious and covered in dirt and blood. I told them everything. The police searched for weeks. They found the house. Empty. The rooms repainted. The cameras gone. No trace of him. No Lisa.
+
+Just one thing left behind.
+
+A single blue wall. And a message carved into it with something sharp.
+
+You followed the rules.
+You were fun.
+
+I never saw his face. I never want to. But I know he’s still out there.
+
+Watching.
+
+Waiting.
+
+Choosing his next color.",1,1745559519.0,scarystories,0,1.0,False
+1k7dgst,https://i.redd.it/pjy94ghj4xwe1.png,I really like how ChatGPT handles words in image generation. Even if it's a non English language. Prompt is in the description.,"Prompt: ""A photorealistic image of a cup of black coffee. The surface of the coffee is covered in creamy layer of light brown coffee foam and small bubbles. There are patches in that surface that are revealing hot black coffee underneath. That patches are forming a message: ""DOBRO JUTRO"" (Good morning).""",1,1745559483.0,ChatGPT,5,1.0,False
+1k7dgic,https://www.reddit.com/r/RandomThoughts/comments/1k7dgic/why_coffeetea_cups_in_hotels_with_buffet/,Why coffee/tea cups in hotels with buffet breakfast are usually so tiny? Is it how they get to eat people less?,,1,1745559451.0,RandomThoughts,1,1.0,False
+1k7dg76,https://www.reddit.com/r/NoStupidQuestions/comments/1k7dg76/i_am_a_coffee_enthusiast_but_beginner_so_is/,"I am a coffee enthusiast but beginner so is making coffee just about grinding it, Brewing it and filtering it? And the brew the longer it is the thicker it is that’s all? No special ingredients?",,2,1745559413.0,NoStupidQuestions,9,1.0,False
+1k7dffu,https://www.reddit.com/r/horrorstories/comments/1k7dffu/the_blue_room/,The blue room,"I never saw his face. Not once. That fact alone haunts me more than anything else. His voice was always calm. Measured. Almost polite, which made it worse somehow. He never raised it. Never cursed. Just quiet instructions and the scent of bleach.
+
+I remember the day he took me with unnerving clarity, like a scene scratched into the back of my eyes. It was raining hard. I’d just left the coffee shop near campus, umbrella forgotten at the counter. I remember fumbling with my phone to order a ride, then a gloved hand over my mouth. The sensation of cold metal pressing against my temple. My scream drowned in my throat.
+
+When I woke up, I was lying on a thin mattress inside a windowless room painted entirely blue. Floor to ceiling. Blue walls, blue ceiling, blue sheets. A single light bulb buzzed above me. The air smelled stale and chemical, like old paint and something sour underneath. I was still in my jeans and hoodie, but my shoes were gone.
+
+There was a door with no handle on the inside. A small camera in the corner blinked a red light at me. He watched. I knew it immediately. I stared at that lens for hours, waiting for something to happen. When I tried to scream, the sound felt swallowed by the blue around me.
+
+The first time he spoke, it came through a speaker hidden somewhere in the ceiling.
+
+You will not be harmed if you follow the rules.
+
+His voice was neither old nor young. Just… blank. Like he’d stripped it of personality on purpose. I asked him who he was, what he wanted. I begged. Cursed. Promised him anything if he’d let me go. Silence. Then the voice again.
+
+Rule one. Do not tamper with the door. Rule two. You will eat when the light turns green. Rule three. You will sleep when the light turns red.
+
+The light never turned off entirely. Just changed color. When it glowed green, a tray slid through a narrow opening near the floor. Usually oatmeal, sometimes something that looked like meatloaf. It didn’t matter. I ate it. Hunger won every time.
+
+The days blurred together. I lost track of time. There was no clock, no natural light. I started naming the cracks in the ceiling. Whispering stories to myself to remember the sound of my own voice.
+
+But always, always, I watched that camera. Waiting.
+
+The first time I broke the rules, I did it out of desperation. I waited until the light turned red and pretended to sleep. Then I pried at the edges of the tray slot with a piece of bent plastic from the food container. The slot was spring-loaded, and the metal cut my fingers. Still, I kept at it.
+
+I don’t know how long passed before I felt the change in the air. Like a presence had filled the room. Then the voice returned, quiet but firm.
+
+You have broken a rule.
+
+Before I could react, the light turned white—blinding white. Pain shot through my head. I screamed, covering my face, but the light only grew brighter. My skin felt like it was burning. I curled into a ball and sobbed until it finally dimmed and turned red again.
+
+You will not be warned again.
+
+I didn’t touch the slot after that. Not for weeks.
+
+But something shifted in me that day. He wanted obedience. He wanted routine. That was his mistake. If I could predict him, I could break him. So I watched. Every gesture, every meal, every color change. I memorized the timing. I counted seconds between the tray sliding in and the camera lens shifting focus. I noticed it turned off for three seconds each time he delivered food.
+
+Three seconds. Not much. But just enough.
+
+The next time the light turned green, I was ready.
+
+I took the plastic fork from the tray and wedged it under the edge of the camera. My hands trembled as I worked fast, biting my lip so hard I tasted blood. I managed to snap the lens just before the red light blinked back on. I dropped the fork and backed into the corner, heart racing so hard I thought I’d pass out.
+
+No voice. No punishment. Just silence.
+
+The camera stayed dark.
+
+The next day, no food came. No voice. No light change. Just endless, crushing blue.
+
+That was the worst day of my life. Not because of hunger or fear, but because I realized he was punishing me by taking himself away. I’d begun to expect him, depend on his rhythm. Without it, I unraveled. He knew that. He wanted me to miss him.
+
+I screamed then. I pounded on the door, clawed at the walls, sobbed until my throat bled. I begged him to come back. To talk. To do something.
+
+That night, the light turned green. The tray returned. And the voice said,
+
+Good.
+
+He had broken me. But in breaking, I saw the cracks.
+
+I changed after that. I pretended better. I followed the rules. Ate when I was told. Slept on command. I became obedient, quiet, predictable. I gave him what he wanted—until the day he made his first mistake.
+
+It was small. Stupid, even. A noise behind the wall. Like a cough. It was human, and it didn’t belong.
+
+I pressed my ear to the wall. Nothing. Then again, softer this time. A shuffle. A breath. Someone else was there.
+
+I tapped on the wall, slow and rhythmic. Three knocks. Waited. Then it came back.
+
+Three knocks.
+
+I wasn’t alone.
+
+Every day, we tapped. We developed a code. A crude alphabet based on numbers and taps. It took days, maybe weeks, but we began to talk. Her name was Lisa. She’d been there longer. Much longer. She warned me he liked games. Psychological ones. That he changed rooms. That no one stayed in the Blue Room forever.
+
+That scared me more than anything.
+
+The night the light turned red and didn’t change for hours, I knew something was coming. I didn’t sleep. I crouched near the tray slot with the bent fork hidden in my sleeve. My heart pounded so loud it drowned out everything.
+
+Then I heard it.
+
+The door. Clicking open.
+
+He was coming in.
+
+I lay still, pretending to sleep, barely breathing. I heard footsteps, slow and deliberate. A faint rustle. He was doing something with the camera. Replacing it. I could smell his cologne. Sharp and synthetic.
+
+Then, without warning, I leapt.
+
+I jammed the fork into the back of his thigh. He screamed—a real, raw scream—and I scrambled through his legs, bolting for the open door. He grabbed my ankle, but I kicked hard, adrenaline turning me into something wild and primal.
+
+I ran down a narrow hallway lit by flickering bulbs. Doors lined each side, all painted different colors. Blue. Green. Yellow. Red. I passed them all. I heard him stumbling behind me, shouting now. Angry. The calm voice was gone. This was the real him.
+
+I reached a metal staircase and flew up it, taking two steps at a time. My lungs burned. My bare feet slapped the stairs so hard they bled.
+
+At the top—another door. This one had a keypad.
+
+I froze.
+
+Then I remembered Lisa’s taps. The numbers she gave me over the last few days. A date. Her son’s birthday.
+
+One. Nine. Zero. Five.
+
+The light turned green.
+
+The door creaked open to a blinding light. Cold air rushed in, and I saw stars. Real stars, in a real sky. I ran into the night, into the dark forest beyond.
+
+I didn’t stop.
+
+Eventually, a trucker found me on the road, half-conscious and covered in dirt and blood. I told them everything. The police searched for weeks. They found the house. Empty. The rooms repainted. The cameras gone. No trace of him. No Lisa.
+
+Just one thing left behind.
+
+A single blue wall. And a message carved into it with something sharp.
+
+You followed the rules.
+You were fun.
+
+I never saw his face. I never want to. But I know he’s still out there.
+
+Watching.
+
+Waiting.
+
+Choosing his next color.",1,1745559327.0,horrorstories,0,1.0,False
+1k7deyp,https://www.reddit.com/r/nosleep/comments/1k7deyp/the_blue_room/,The blue room,"I never saw his face. Not once. That fact alone haunts me more than anything else. His voice was always calm. Measured. Almost polite, which made it worse somehow. He never raised it. Never cursed. Just quiet instructions and the scent of bleach.
+
+I remember the day he took me with unnerving clarity, like a scene scratched into the back of my eyes. It was raining hard. I’d just left the coffee shop near campus, umbrella forgotten at the counter. I remember fumbling with my phone to order a ride, then a gloved hand over my mouth. The sensation of cold metal pressing against my temple. My scream drowned in my throat.
+
+When I woke up, I was lying on a thin mattress inside a windowless room painted entirely blue. Floor to ceiling. Blue walls, blue ceiling, blue sheets. A single light bulb buzzed above me. The air smelled stale and chemical, like old paint and something sour underneath. I was still in my jeans and hoodie, but my shoes were gone.
+
+There was a door with no handle on the inside. A small camera in the corner blinked a red light at me. He watched. I knew it immediately. I stared at that lens for hours, waiting for something to happen. When I tried to scream, the sound felt swallowed by the blue around me.
+
+The first time he spoke, it came through a speaker hidden somewhere in the ceiling.
+
+You will not be harmed if you follow the rules.
+
+His voice was neither old nor young. Just… blank. Like he’d stripped it of personality on purpose. I asked him who he was, what he wanted. I begged. Cursed. Promised him anything if he’d let me go. Silence. Then the voice again.
+
+Rule one. Do not tamper with the door. Rule two. You will eat when the light turns green. Rule three. You will sleep when the light turns red.
+
+The light never turned off entirely. Just changed color. When it glowed green, a tray slid through a narrow opening near the floor. Usually oatmeal, sometimes something that looked like meatloaf. It didn’t matter. I ate it. Hunger won every time.
+
+The days blurred together. I lost track of time. There was no clock, no natural light. I started naming the cracks in the ceiling. Whispering stories to myself to remember the sound of my own voice.
+
+But always, always, I watched that camera. Waiting.
+
+The first time I broke the rules, I did it out of desperation. I waited until the light turned red and pretended to sleep. Then I pried at the edges of the tray slot with a piece of bent plastic from the food container. The slot was spring-loaded, and the metal cut my fingers. Still, I kept at it.
+
+I don’t know how long passed before I felt the change in the air. Like a presence had filled the room. Then the voice returned, quiet but firm.
+
+You have broken a rule.
+
+Before I could react, the light turned white—blinding white. Pain shot through my head. I screamed, covering my face, but the light only grew brighter. My skin felt like it was burning. I curled into a ball and sobbed until it finally dimmed and turned red again.
+
+You will not be warned again.
+
+I didn’t touch the slot after that. Not for weeks.
+
+But something shifted in me that day. He wanted obedience. He wanted routine. That was his mistake. If I could predict him, I could break him. So I watched. Every gesture, every meal, every color change. I memorized the timing. I counted seconds between the tray sliding in and the camera lens shifting focus. I noticed it turned off for three seconds each time he delivered food.
+
+Three seconds. Not much. But just enough.
+
+The next time the light turned green, I was ready.
+
+I took the plastic fork from the tray and wedged it under the edge of the camera. My hands trembled as I worked fast, biting my lip so hard I tasted blood. I managed to snap the lens just before the red light blinked back on. I dropped the fork and backed into the corner, heart racing so hard I thought I’d pass out.
+
+No voice. No punishment. Just silence.
+
+The camera stayed dark.
+
+The next day, no food came. No voice. No light change. Just endless, crushing blue.
+
+That was the worst day of my life. Not because of hunger or fear, but because I realized he was punishing me by taking himself away. I’d begun to expect him, depend on his rhythm. Without it, I unraveled. He knew that. He wanted me to miss him.
+
+I screamed then. I pounded on the door, clawed at the walls, sobbed until my throat bled. I begged him to come back. To talk. To do something.
+
+That night, the light turned green. The tray returned. And the voice said,
+
+Good.
+
+He had broken me. But in breaking, I saw the cracks.
+
+I changed after that. I pretended better. I followed the rules. Ate when I was told. Slept on command. I became obedient, quiet, predictable. I gave him what he wanted—until the day he made his first mistake.
+
+It was small. Stupid, even. A noise behind the wall. Like a cough. It was human, and it didn’t belong.
+
+I pressed my ear to the wall. Nothing. Then again, softer this time. A shuffle. A breath. Someone else was there.
+
+I tapped on the wall, slow and rhythmic. Three knocks. Waited. Then it came back.
+
+Three knocks.
+
+I wasn’t alone.
+
+Every day, we tapped. We developed a code. A crude alphabet based on numbers and taps. It took days, maybe weeks, but we began to talk. Her name was Lisa. She’d been there longer. Much longer. She warned me he liked games. Psychological ones. That he changed rooms. That no one stayed in the Blue Room forever.
+
+That scared me more than anything.
+
+The night the light turned red and didn’t change for hours, I knew something was coming. I didn’t sleep. I crouched near the tray slot with the bent fork hidden in my sleeve. My heart pounded so loud it drowned out everything.
+
+Then I heard it.
+
+The door. Clicking open.
+
+He was coming in.
+
+I lay still, pretending to sleep, barely breathing. I heard footsteps, slow and deliberate. A faint rustle. He was doing something with the camera. Replacing it. I could smell his cologne. Sharp and synthetic.
+
+Then, without warning, I leapt.
+
+I jammed the fork into the back of his thigh. He screamed—a real, raw scream—and I scrambled through his legs, bolting for the open door. He grabbed my ankle, but I kicked hard, adrenaline turning me into something wild and primal.
+
+I ran down a narrow hallway lit by flickering bulbs. Doors lined each side, all painted different colors. Blue. Green. Yellow. Red. I passed them all. I heard him stumbling behind me, shouting now. Angry. The calm voice was gone. This was the real him.
+
+I reached a metal staircase and flew up it, taking two steps at a time. My lungs burned. My bare feet slapped the stairs so hard they bled.
+
+At the top—another door. This one had a keypad.
+
+I froze.
+
+Then I remembered Lisa’s taps. The numbers she gave me over the last few days. A date. Her son’s birthday.
+
+One. Nine. Zero. Five.
+
+The light turned green.
+
+The door creaked open to a blinding light. Cold air rushed in, and I saw stars. Real stars, in a real sky. I ran into the night, into the dark forest beyond.
+
+I didn’t stop.
+
+Eventually, a trucker found me on the road, half-conscious and covered in dirt and blood. I told them everything. The police searched for weeks. They found the house. Empty. The rooms repainted. The cameras gone. No trace of him. No Lisa.
+
+Just one thing left behind.
+
+A single blue wall. And a message carved into it with something sharp.
+
+You followed the rules.
+You were fun.
+
+I never saw his face. I never want to. But I know he’s still out there.
+
+Watching.
+
+Waiting.
+
+Choosing his next color.",3,1745559273.0,nosleep,0,1.0,False
+1k7deuy,https://www.reddit.com/r/u_heileyoffices/comments/1k7deuy/co_working_office_spaces_vs_traditional_offices_a/,Co -working Office Spaces vs. Traditional Offices: A Detailed Cost Comparison,"
+
+
+
+# Introduction
+
+In these days’s rapidly evolving paintings panorama, organizations—especially startups and small groups—are rethinking the traditional office setup. Coworking areas have gained colossal popularity over the last few years, and a key motive at the back of this shift is fee. But how do coworking areas absolutely stack up towards traditional offices in terms of costs? Let’s break it down. 
+
+**1. Upfront Costs Traditional Offices:** Setting up a conventional workplace usually requires a considerable initial funding. Costs can [encompass ](https://www.blogger.com/blog/post/edit/5370866393992555102/4855569195379343022#)leasing deposits (often 6–one year), workplace fixtures, indoors setup, IT infrastructure, and utilities. These upfront commitments can be heavy for brand spanking new or small corporations. 
+
+**Coworking Spaces:** Coworking spaces provide a plug-and-play model. There’s no need for fit-outs or furniture purchases. Most coworking memberships encompass necessities like desks, Wi-Fi, assembly rooms, and utilities, dramatically decreasing prematurely expenditure.
+
+https://preview.redd.it/2d56bidp3xwe1.jpg?width=1297&format=pjpg&auto=webp&s=5fc68f441c3bab7206ecc5d168fd337f551e380a
+
+**2. Monthly expenses Traditional Office:** In a leased office, the monthly cost goes beyond rent. Businesses have to handle electricity, internet, water, cleanliness, safety and maintenance - each separate bill. Additionally, the management of these services requires often dedicated administrative staff. 
+
+**co-working spaces:** With a colleague, a single monthly fee usually incorporates all the necessary things. This includes not only the place, but also the internet, power, cleaning, reception services and even tea/coffee in many places. For businesses, it means that predicted budget and low management headache. 
+
+**3. Scalability Traditional Office:** Extending a traditional office setup often means re-organizing, transferring, or re-designing the interiors-all of them are all time-taken and expensive. Downering is equally complicated. 
+
+**co-working spaces:** The colleagues are created for flexibility. You can start with some desk and scale your team when growing. Most providers provide hot desks, dedicated desks and private cabins according to your changing needs - all are adaptable.
+
+**4. Hidden cost Traditional Office:** These include maintenance issues, long-term leases with lock-in and cost for unused space. There is also a challenge for management of security, insurance and legal compliance. 
+
+**co-working spaces:** Since colleagues work on short -term, flexible agreements, there are less long -term commitments. By reducing unexpected costs, maintenance, safety and administrative functions are controlled by the space provider. 
+
+**5. Price -touched profit Traditional Office:** When you can completely personalize space, you will need to invest differently in community programs, networking opportunities and recreational features - if you choose to introduce them. 
+
+**co-working spaces:** Most colleagues come with hub community benefits - thrinking networking events, workshops, lounge areas and even wellness programs. These extra often contribute to high staff satisfaction without additional cost. 
+
+# Coclusion
+
+When comparing the costs of the colleague spaces and traditional offices, the colleague clearly provides more flexibility, low overhead, and better prediction for most modern businesses. While traditional offices can still suit large companies in search of exclusive control and branding, the colleague provides a more agile, budget-favorable solution-especially for freelancers, startups and growing teams. Finally, the correct option depends on your business requirements, development plans and the kind of work environment. But if cost-effectiveness, convenience and flexibility are your top priorities, then it is difficult to defeat the colleague.",1,1745559262.0,u_heileyoffices,0,1.0,False
+1k7de5n,https://www.reddit.com/r/MakeNewFriendsHere/comments/1k7de5n/32m_tiredtattooedmetal_head_nerd_seeking_pals/,32M - tired/tattooed/metal head nerd seeking pals,"
+
+Howdy. Currently brain dead from many work meetings. But taking tomorrow off! Keep me company! I work in tech, read a lot, get tattoos, obsess over coffee, love horror movies, philosophy, having long conversations and walks with my dog. Still in my skinny jeans, vans, band t shirt era (always all black. Not a phase). Little too isolated and introverted these days. Hit me up! ",2,1745559180.0,MakeNewFriendsHere,1,1.0,False
+1k7dckm,https://www.reddit.com/r/Aupairs/comments/1k7dckm/to_caring_families_seeking_authentic/,To caring families seeking authentic,"I’m a 34-year-old from China with 8 years of experience in **domestic marketing and branding** (no fancy degrees, just hustle!). Tired of the corporate rat race, I want to pivot to education by **immersing in an English environment** while sharing real Chinese culture. Here’s my honest proposal:
+
+**What I Can Deliver**  
+🇨🇳 **Daily Mandarin for Kids**
+
+* Speak only Chinese during playtime/meals (natural acquisition > textbooks)
+* Teach **real-life language**: From nursery rhymes to bargaining skills at markets
+
+🇨🇳 **Cultural Deep-Dive**
+
+* Celebrate festivals: Mooncakes on Mid-Autumn, dumplings for Spring Festival
+* Share unfiltered stories: How WeChat rules life in China, not just textbooks
+
+**What I Need**  
+🇺🇸 **English Practice**
+
+* Casual chats over chores (I’ll handle grammar studies myself)
+* Correct my mistakes bluntly – coffee bribes accepted! ☕
+
+🏡 **Basic Support**
+
+* Private sleeping area (a room)
+* Occasional weekend outings to practice English (grocery trips count!)
+
+**Why Consider This?**
+
+* **Zero sugarcoating**: I’ll show your kids China beyond pandas and the Great Wall
+* **Work ethic**: Corporate grind trained me to be punctual and adaptable
+* **Safety**: Will provide passport/background check copies upfront
+
+**Ideal Match**
+
+* Families with kids aged 5+ (younger ones need pro caregivers!)
+* Open to non-traditional arrangements (I’m not a licensed teacher, just a real Chinese auntie)
+* Bonus: Love spicy food (I’ll cook mapo tofu to survive your salads 🌶️)
+
+**Let’s Talk!**  
+DM me a photo of your kitchen – I’ll reply with a voice note in Mandarin!",0,1745559012.0,Aupairs,0,0.33,False
+1k7dbf0,https://www.reddit.com/r/casualbataan/comments/1k7dbf0/thirdwave_coffee_shop_in_bataan/,Thirdwave coffee shop in Bataan,"Any thoughts on thirdwave coffee shops in bataan? (Hanan, dreamlatte, hoppers, q coffee, kurbada, brondial brews etc) what would u reco to get from those shops and please, feel free to add other shop recos! ",1,1745558885.0,casualbataan,1,1.0,False
+1k7daga,https://www.reddit.com/r/FemFragLab/comments/1k7daga/long_lasting_perfume_that_smells_like_the_vanilla/,Long lasting perfume that smells like the vanilla dry down of Burberry goddess?,"I tried Burberry goddess, but I can’t stand the initial smell of lavender and ginger. Once it dries down tho, I love the vanilla on my skin. I wish it lasted longer, too, which is a problem I found with a lot of other vanilla scents. I’ve tried kayali vanilla 28, 7 virtues vanilla woods, and phlur vanilla skin, but they were too synthetic for me and lasted for basically nothing. I liked black opium le parfum with the coffee notes and it lasted long on me, but it’s pretty pricy. Anyone got any other recommendations under $100 for a 3 oz bottle?",1,1745558781.0,FemFragLab,5,1.0,False
+1k7d7tk,https://www.reddit.com/r/Menieres/comments/1k7d7tk/saw_this_interesting_article_from_uci_the/,Saw this interesting article from UCI - the treatments sound promising,"Meniere's Disease
+Meniere's disease is a disorder characterized by dizziness, hearing loss and a full feeling in the ears. The condition is a chronic one, but there are treatments available to help minimize the long-term impact of the disease.
+
+Symptoms
+
+There are four main symptoms associated with meniere's disease.
+
+These are:
+
+Episodic vertigo (spinning dizziness)
+Tinnitus (roaring or ringing in the ears [usually just one ear])
+Fluctuating hearing loss
+Pressure sensation in the ear
+An episode of Meniere's usually starts with a pressure sensation in the ear with increasing roaring sound in the ear, hearing loss and a sudden attack of vertigo.
+
+The vertigo generally lasts at least 30 minutes and may last up to 24 hours or longer. Once the vertigo stops, the patients generally experience some imbalance which takes days or weeks to resolve.
+
+The hearing generally returns, but over time, the hearing and balance function are lost with each attack of the vertigo. Some patients may just have fluctuating hearing loss without vertigo or episodic vertigo without hearing loss.
+
+These are termed cochlear hydrops and vestibular hydrops respectively.
+
+Causes
+
+The causes of Meniere's disease isn't known, though there are several theories. One is that it is caused by an abnormal amount of fluid in the inner ears.
+
+Things that might affect the fluid include:
+
+Improper fluid drainage
+Allergies
+Viruses
+Genetics
+Migraine headaches
+Head trauma
+Abnormal immune response
+There are some known triggers of a Meniere's attack, which include:
+
+High salt foods
+Too much caffeine
+Drinking alcohol
+Stress
+While the triggers differ between patients, the above four triggers are the most common.
+
+Treatment
+
+The treatment of Meniere's disease can involve diet changes and stress control to medical and surgical treatment.
+
+Medications
+Medications are believed to decrease the inner ear fluid pressure. The medicines that cause reduction of fluid pressure in the inner ear also make you lose extra water from the kidneys.
+
+These medications, called diuretics, include:
+
+Dyazide
+Methazolamide
+Furosemide
+For controlling the dizziness or imbalance, medications such as meclizine (Antivert), Robinul, scopolamine patches, among others is used. These medications decrease the abnormal signal that the diseased inner ear sends the brain.
+
+Meniett device
+Other treatments include the use of the Meniett Device. The Meniett device is a device that is used after placing a small tube in the ear drum. It is used in the ear three times a day for five minutes each time.
+
+It is successful in controlling the symptoms in 50 percent of patients. Unfortunately, it is not always covered by health insurance companies.
+
+Injections
+The newest treatment for Meniere's disease is the placement of medication behind the ear drum. In a recent study, over 90 percent of patients with Meniere's disease were found to have significant control of their symptoms with intratympanic steroid (anti-inflammatory medication placed behind the ear drum).
+
+The injections (using dexamethasone or methylprednisolone [Solu Medrol]) are generally given after a local anesthetic in the office and are repeated every two to four weeks until the attacks stop.
+
+Most patients with Meniere's undergoing intratympanic steroid treatment have only required two to three injections for full control of their symptoms.
+
+We recommend it for patients prior to doing any surgery, in those with a history of autoimmune Meniere's disease or those who are unable to take steroids by mouth. 
+
+Since starting intratympanic steroid therapy for Meniere's disease a few years ago, we have not needed to use any surgical treatment for patients suffering from Meniere's disease.
+
+Disease management
+Approximately 60 percent of patients with Meniere's disease stop having attacks after a few years (also called the disease burning out). The rest continue to have problems.
+
+Of these, a high percentage (60 percent to 80 percent) are controlled with a very strict diet, lifestyle changes and sometimes medication.
+
+The strict diet includes limiting daily sodium to 1500 mg, eliminating all caffeine (including decaffeinated coffee, which has caffeine) and no alcohol.
+
+Lifestyle changes include stress reduction through biofeedback, meditation, yoga and daily exercise.
+
+Some people (20 percent to 30 percent) may develop the disease in the other ear after a few years. A small percentage of the patients will continue to have episodes which may occur every day to once a few months or years.
+
+To learn more, call 714-456-7017 or request an appointment online.",3,1745558509.0,Menieres,1,1.0,False
+1k7d6y9,https://www.reddit.com/r/Rainbow6/comments/1k7d6y9/whats_yalls_weirdest_interaction_with_a/,Whats yalls weirdest interaction with a player/players ingame? il go first,"i was solo Qing and out of nowhere i start hearing two people talk like quietly, our push on the 2f of oregon was going pretty slow so on guy literally said and i quote ""oh golly, we should have made some progress by now, hey (my tag), lets not dilly dally, charles, bring me my neg*o"" (this is all in victorian english accent) then a different voice says ""mmkay sir"" (whip sound, like a genuine whip) i then hear shackles and the first guy says ""coffee, what should we do here?"" and the guy who i hopefuly presume is only playing as the black guy says in a thick african accent ""A-amaru thru master"" and the first guy said ""mmkay, indubidable answer, good n*gro"" (another whip sound) and then presumably charles goes ""come on, back to your cage"" and thenn some more shackles sounds, this first guy then proceeds to amaru in and ace 2 rounds in a row.",6,1745558420.0,Rainbow6,5,1.0,False
+1k7d6k3,https://www.reddit.com/r/photography/comments/1k7d6k3/developer/,Developer,"i am taking a college photography class i found a recipe for homemade developer made out of instant coffee, vitamin C, and washing powder because i am not in a place to drop $200 on developer when i put my photographic in the developer they all turn completely black. does anyone know how i can fix the developer to not ruin my photos? ",2,1745558379.0,photography,1,1.0,False
+1k7d6af,https://www.reddit.com/r/mumbaimeetups/comments/1k7d6af/up_for_causual_meetups_on_this_weekend/,UP FOR CAUSUAL MEETUPS ON THIS WEEKEND,"21M anyone up for a coffee? The bill is on me
+Or explore places in Mumbai and discover new cafes. ",1,1745558352.0,mumbaimeetups,0,1.0,False
+1k7d4q4,https://i.redd.it/jy110kxo0xwe1.png,Добро јутро. Промпт је дат у опису.,"Prompt: 
+""Can you create a photorealistic image of a cup of black coffee. The surface of the coffee is covered in creamy layer of light brown coffee foam and small bubbles. There are patches in that surfaces that are revealing hot black coffee underneath. That patches are forming a message: ""DOBRO JUTRO"".""",2,1745558189.0,SrbijAI,0,1.0,False
+1k7d1t8,https://www.reddit.com/r/perth/comments/1k7d1t8/friday_fuckwit_25_april_edition/,Friday Fuckwit - 25 April edition,"Why tf would you ask a bunch of random internet strangers if you can get into TAFE; which animal's skull this is; if you committed a traffic offense; who to vote for; what to expect from laser eye surgery; whether these marks are a spider bite; how to find a job; or what your rights are as a tenant? And then trust their answers?
+
+Google it, and stop clogging up my fucking feed with non-Perth related guff. Good hairdresser/coffee in your area? Check out Google reviews, lazy arse. Maybe check out the WA Police, Department of <that thing>, or company website?
+
+Failing that, there's a subreddit for absolutely everything - go ask experts there. r/FindAReddit is a great resource.
+
+r/Perth info has links to specialised information and FAQs. Also, the group's first rule is that posts need to be Perth-related.
+
+Don't tell me that I can unfollow if I don't like it, because I want to be part of this community and contribute wherever possible. Positive contribution, unlike the posters asking why there are fireworks.
+
+Please note: I'm *not* having a go at people asking for recommendations regarding serious stuff like doctors. Online reviews are not helpful for that.",0,1745557879.0,perth,27,0.5,False
+1k7d1he,https://www.reddit.com/r/mechmarket/comments/1k7d1he/uscah_freya_ultra_space80_zoom75_tiga_planck/,"[US-CA][H] Freya ultra, Space80, Zoom75 TIGA, Planck, Bakeneko60, keycaps, switches, artisans [W] Paypal","[Timestamp](https://imgur.com/a/33A03gh)
+
+Conus shipping or local pickup in northern cali.
+
+KEYBOARDS:
+
+Gunmetal Freya Ultra - like new, PVD silver bottom, alu + pc and carbon fiber + fr4 plates, tri mode pcb. Comes with all original accessories and packaging.
+$575 shipped
+
+Deep Ocean Space80 WKL - comes with fr4 and pc plates, 2 hotswap PCB (1 new, 1 used), 1 new soldered PCB, original box and accessories included. $450 shipped
+
+Scarlet Red Zoom75 TIGA - brand new, received the same day as this post. Opened only for inspection. Comes with case and all original hardware and accessories. $250 shipped
+
+Black Planck v7 - like new, built it and only used for a few hours before storing it away. Comes with steel and pom plates, hot swap pcb, and carrying case. Keycaps and switches included. $120 shipped
+
+NG lavender Bakeneko60 - like new, comes with hotswap pcb, original carrying case and cleaning cloth. Does not come with keycaps. Comes with L+F lavender linear switches. $120 shipped
+
+DOIO Gamer64 (nintendo switch keyboard) - like new, built it once and used for a few hours before storing. Comes with pc plate and original box. One of the joystick drags a bit IIRC, its been a while. I believe it can be reflashed to fix that. $110 shipped
+
+
+
+SWITCHES:
+
+Banana splits L+F x76 $40 shipped
+
+Alpacas lubed x65 $35 shipped
+
+Pandelios (drop holy panda housing + zealios stem and springs) L+F x80 $50 shipped
+
+Kailh choc mini low profile black switches, brand new x60. Comes with white blank keycaps $40 shipped
+
+
+KEYCAPS/ NOVELTIES:
+
+KAT iron alpha/modifiers - like new. $60shipped
+Can ship original box for extra.
+
+BIIP MT3 operator base kit - like new. $80 shipped
+
+Gmk modo2 base kit + ~~modern kit~~ - like new. $90 shipped. Can ship original box for extra.
+
+Kbdfans x big cat / keyreative kat 9009 - like new, original box and tray. $90 shipped
+
+Gmk fuji katakana base, like new $90 shipped. Can ship original box for extra
+
+GMK fuji novelties, like new $40 shipped
+
+GMK fuji addition kit - sealed. $40 shipped
+
+GMK fuji sakura spacebars - sealed. $20 shipped
+
+GMK rama fuji artisan, like new, $45 shipped
+
+Willing to bundle fuji for discounted price
+
+
+ARTISANS:
+
+Jelly cap coffee bean jelly kun - new, never mounted, original case. $45 shipped
+
+Jellykey zen pond katsutoshi 6.25u - like new, original wooden case. $50 shipped
+
+Jellykey zen pond anka 6.25u - like new, original wooden case. $50 shipped
+
+
+Misc:
+
+Cannonkeys purple carrying case (S) - like new. $25 shipped
+
+Cannonkeys black carrying case (L) - like new.
+$25 shipped
+
+Jtk max keycap storage trays x2 - $20 each
+",2,1745557840.0,mechmarket,3,0.75,False
+1k7d175,https://www.reddit.com/r/Streaming_devices/comments/1k7d175/best_amazon_fire_stick_remote_replacement_2025/,Best Amazon Fire Stick Remote Replacement 2025: Reviews & Compared! 🔥,"[[Explore Top Rated replacement amazon fire stick remote on Amazon.]](https://storeins.com/external-ssd/?kw=replacement amazon fire stick remote)
+    
+# Best Amazon Fire Stick Remote Replacement 2025: Reviews & Compared! 🔥
+
+Is your trusty Amazon Fire Stick remote on the fritz? Did you accidentally send it for a swim in your coffee? Or maybe it simply vanished into the abyss of your couch cushions, never to be seen again? Don't worry, you're not alone! A lost or broken fire stick remote is a common problem, and thankfully, finding a replacement remote for amazon fire stick is easier than you think. In this comprehensive guide for 2025, we'll explore the best replacement options available, compare thier features, discuss the firestick remote replacement cost, and provide you with all the facts you need to choose the perfect fit for your needs and budget.
+
+**why You Need a Replacement Remote for Your Amazon Fire Stick**
+
+Before diving into the specifics, let's quickly reiterate why having a functional remote is crucial for enjoying your Amazon Fire Stick. A working remote is your gateway to a world of streaming entertainment, from accessing your favorite movies and TV shows on Netflix and Hulu to exploring countless apps and games. Without it, you're stuck with a bricked device, unable to navigate the intuitive Fire TV interface.
+
+A broken fire stick remote can quickly turn movie night into a frustrating experiance. Searching for a new show or adjusting the volume becomes a major inconvenience. Let's face it,no one wants to get up and physically unplug the Fire Stick just to restart it! Having a functional and reliable replacement remote is essential for a seamless and enjoyable streaming experience.
+
+**Understanding Your Amazon Fire Stick Remote Needs**
+
+Before you start shopping for a replacement, it's essential to understand your specific needs. Are you looking for a basic replacement remote for amazon fire stick that covers the essential functions? Or do you want to upgrade to a voice remote for fire stick with advanced features like voice control and dedicated app buttons?
+
+Consider the following factors:
+
+*   **Compatibility:** Ensure the replacement remote is compatible with your specific model of Amazon Fire Stick or Fire TV device. Check the product description carefully to confirm compatibility. Not all remotes work with all devices.*   **Features:** Decide which features are most important to you. Do you need voice control? Dedicated app buttons? Infrared (IR) control for your TV?
+*   **Budget:** Replacement remotes range in price, from budget-amiable options to more premium models. Set a budget before you start shopping to narrow down your choices. What is your acceptable firestick remote replacement cost?
+
+**Exploring Your Options: Replacement Amazon Fire Stick Remotes in 2025**
+
+Now, let's dive into the world of replacement remotes. Here's a breakdown of the most common types and some top contenders for 2025:
+
+**1.Official Amazon Fire Stick Remote Replacement:**
+
+The most obvious and often reliable option is the official amazon fire stick remote replacement offered directly by Amazon. These remotes are guaranteed to be compatible with your Fire Stick and offer the same functionality as the original.
+
+*   **pros:** Guaranteed compatibility, official Amazon product, familiar layout and functionality. It will always be the most genuine fire stick remote replacement.
+*   **Cons:** Can be slightly more expensive than third-party options.Functionality is identical to the original, offering no upgrades.
+*   **Who it’s for:** Users who prioritize guaranteed compatibility and familiarity.
+
+**2. Global Remotes for fire Stick:**
+
+A universal remote for fire stick can control not only your Fire Stick but also other devices like your TV, soundbar, and Blu-ray player. This can simplify your entertainment setup and reduce the number of remotes cluttering your coffee table.
+
+*   **Pros:** Can control multiple devices, reduces clutter, frequently enough programmable with custom macros.
+*   **Cons:** Can be more complex to set up, may not support all fire Stick features, may require more advanced programming knowledge.
+*   **Who it’s for:** Users who want to simplify their entertainment setup and control multiple devices with a single remote.
+
+**3. Third-Party Replacement Remotes:**
+
+Numerous third-party manufacturers offer replacement remotes for the Amazon Fire Stick. These remotes frequently enough offer similar functionality to the official remote at a more affordable price point. These are great if you are looking for an amazon basics fire stick remote replacement.
+
+*   **Pros:** More affordable, frequently enough feature unique designs or additional functionality (e.g., backlit buttons).
+*   **Cons:** Compatibility may vary, quality can be inconsistent, may not support all Fire Stick features, requires careful research of reviews and user feedback.
+*   **Who it’s for:** Budget-conscious users who are willing to research and potentially try a few different remotes.
+
+**4. Air Mouse Remotes:**
+
+These remotes offer a unique way to control your Fire Stick using motion gestures. Simply wave the remote in the air to move the cursor on the screen.
+
+*   **Pros:** Innovative control method, can be more intuitive than customary remotes for certain tasks.
+*   **Cons:** Can take some getting used to, may not be as precise as a traditional remote for certain tasks.
+*   **Who it’s for:** Tech-savvy users who are looking for a more innovative and interactive control experience.
+
+**Key Features to Look For in a replacement Remote**
+
+when evaluating potential replacement remotes, keep these features in mind:
+
+*   **voice Control:** A voice remote for fire stick allows you to control your Fire Stick with voice commands, making it easier to search for content, launch apps, and control playback. Look for remotes that support alexa voice commands.
+*   **Dedicated App Buttons:** Some remotes feature dedicated buttons for popular streaming services like Netflix, hulu, and Amazon Prime Video. This provides quick and easy access to your favorite content.
+*   **IR Control:** Some remotes include infrared (IR) control, allowing you to control your TV's power, volume, and input settings. This eliminates the need for a separate TV remote.
+*   **Backlit Buttons:** Backlit buttons make it easier to use the remote in a dark room.
+*   **Ergonomics:** Consider the shape and size of the remote and how it feels in your hand. A cozy remote will enhance your viewing experience.
+*   **Battery Life:** Choose a remote with long battery life to minimize the need for frequent battery replacements.
+*   **Learning Capabilities:** Some advanced remotes can ""learn"" commands from your existing remotes, allowing you to consolidate all your controls into one device.
+
+**Troubleshooting common Fire Stick Remote Issues**
+
+Before you rush out and buy a new remote, it's worth trying to troubleshoot your existing one. Here are some common issues and potential solutions:
+
+*   **Remote Not Pairing:** Ensure your Fire Stick is plugged in and powered on. Try restarting the Fire Stick by unplugging it and plugging it back in. Then, hold the Home button on the remote for 10-20 seconds to initiate pairing mode. This will teach you how to replace fire stick remote.
+*   **Remote Not Responding:** Check the batteries in your remote and replace them if necessary. Ensure there are no obstructions between the remote and the Fire Stick. Try resetting the remote by removing the batteries and pressing every button on the remote once before reinserting the batteries.
+*   **Remote Buttons Not Working:** Clean the remote with a soft, dry cloth to remove any dirt or debris that may be interfering with the buttons.
+
+If you've tried these troubleshooting steps and your remote is still not working, it's likely time for a new one. If your fire stick remote not working replacement is needed, refer to the above guide. This is especially true if you have a broken fire stick remote.
+
+**Replacing Your Lost Amazon Fire Stick Remote**
+
+Losing your amazon fire stick remote is a frustratingly common occurrence. Luckily, the process for replacing a lost remote is essentially the same as replacing a broken one. Follow the same steps for pairing a new remote, and you'll be back to streaming in no time. If your fire tv stick remote lost, this guide will point you in the right direction.
+
+**Pairing Your New Amazon Fire Stick Remote**
+
+Once you've purchased your replacement remote, you'll need to pair it with your Fire Stick. Here's how:
+
+1.  Power on your Amazon Fire Stick.
+2.  If you have access to your Fire TV menu, navigate to Settings > Controllers & Bluetooth Devices > Amazon Fire TV Remotes > Add New Remote.
+3. If you cannot access the menu, restart your Fire Stick. When the Fire Stick boots, it should automatically enter pairing mode.
+4.  Hold the Home button on your new remote for 10-20 seconds. The remote should automatically pair with your Fire Stick.
+5.  If the remote doesn't pair automatically, try moving closer to the Fire Stick and repeating the process.
+
+**Where to Buy a Replacement Amazon Fire Stick Remote**
+
+You can purchase replacement remotes from a variety of retailers, including:
+
+*   **Amazon:** The obvious choice, offering official Amazon remotes and a wide selection of third-party options. Be sure to check the amazon fire stick remote price on various models.
+*   **Best buy:** A major electronics retailer with a good selection of replacement remotes.
+*   **Walmart:** Offers a variety of affordable replacement remotes.
+*   **Other Online Retailers:** Explore options on eBay and other online marketplaces, but be sure to vet the seller before making a purchase.
+
+**Making the Right Choice: Choosing the Best Remote for You**
+
+Choosing the best replacement amazon fire stick remote depends on your individual needs and preferences. Consider your budget,desired features,and how frequently you use your Fire Stick. Do you need an amazon fire tv stick remote replacement?
+
+for most users, the official Amazon fire Stick remote offers a reliable and familiar experience. however, if you're looking for more advanced features or a more affordable option, a universal remote or a third-party replacement remote may be a better choice.
+
+Irrespective of which remote you choose, be sure to do your research and read reviews before making a purchase. This will help you ensure that you're getting a compatible, reliable, and functional remote that meets your needs.**Beyond the Remote: Optimizing Your Fire Stick Experience**
+
+Once you have a working remote, take some time to optimize your Fire Stick experience:
+
+*   **organize Your Apps:** Rearrange your apps on the home screen to prioritize your favorites.
+*   **Customize Your Settings:** Explore the Fire Stick settings menu to customize your preferences,such as display resolution,audio output,and parental controls.
+*   **Use Voice Commands:** Take advantage of voice commands to quickly search for content, launch apps, and control playback.*   **Explore New Apps and Games:** Discover new apps and games in the Amazon Appstore.
+*   **Keep Your Fire Stick Updated:** Ensure your Fire Stick is running the latest software version to take advantage of new features and security updates.
+
+**Conclusion: Regain Control of Your Streaming Experience**
+
+A lost or broken remote doesn't have to mean the end of your streaming enjoyment. With the wide variety of replacement options available, finding the perfect amazon fire tv remote replacement is easier than ever. By understanding your needs, exploring your options, and following the tips in this guide, you can quickly regain control of your Fire Stick and continue enjoying your favorite movies, TV shows, and apps. Happy streaming in 2025! Remember to factor in the firestick remote replacement cost when making your purchase.
+
+[[Explore Top Rated replacement amazon fire stick remote on Amazon.]](https://storeins.com/external-ssd/?kw=replacement amazon fire stick remote)",1,1745557809.0,Streaming_devices,0,1.0,False
+1k7d16d,https://www.reddit.com/r/Catholicism/comments/1k7d16d/can_i_eat_halal_food_not_halal_meat_but_halal/,"Can I eat halal food? Not halal meat, but halal certified dessert.","Hi everyone! I got invited to my Muslim friend's house. She said she will make coffee and dessert . But point is, since she shops at Muslim market, she will highly likely use halal certified ingredients. I personally think it doesn't matter since their alah is god, and it's not even halal meat. (I know both religions are significantly different) but I don't wanna go against my faith. Please advise me. Thank you, blessings!",3,1745557806.0,Catholicism,10,0.67,False
+1k7czj6,https://i.redd.it/9dgvlfk1zwwe1.jpeg,I‘m in love with the Explorer I,"On my way to grab my morning coffee with my new Clean Explorer I 224270. 
+It’s just perfect. No flaws except for a loud rotor when you bump the watch lightly.
+",7,1745557635.0,wristrepculture,2,1.0,False
+1k7cuoe,https://www.reddit.com/r/Whittier/comments/1k7cuoe/where_to_find_local_fresh_coffee_beans/,Where to find local fresh coffee beans,"Hey everyone,
+
+Just wondering if anyone has recommendations for a place nearby or within Whittier where I can buy fresh and tasty coffee beans?  Thank you in advance! ",3,1745557138.0,Whittier,4,1.0,False
+1k7cuhx,https://www.reddit.com/r/GMAT/comments/1k7cuhx/quiz15_weaken_the_conclusion/,Quiz-15: Weaken the Conclusion,"**This is an excerpt from the chapter ""Weaken the Conclusion"" in our book ""EducationAisle Critical Reasoning Nirvana"":**
+
+\---------------------------------------------------------------------------------------------------------------------
+
+[Patterns in Weaken the Conclusion](https://preview.redd.it/nv860g38wwwe1.png?width=758&format=png&auto=webp&s=421cb0467a6a886de2e4ac4c005387de29d03210)
+
+In the past few quizzes, we have been discussing the above patterns in *Weaken the Conclusion* questions and solving related questions.
+
+Let us see how skilled you are at applying these patterns, to the question below:
+
+\--------------------------------------------------------------------------------------------------------------------
+
+**Question**:
+
+*Economist: Although the price of coffee has greatly increased in nominal terms (i.e., before adjustment for inflation) over the past century, the inflation-adjusted prices of coffee have actually been falling. Since the price of a commodity generally decreases when demand declines relative to supply, it must be the case that the demand for coffee must be currently declining.* 
+
+*Which of the following, if true, would most weaken the economist's argument?*
+
+*(A) The price of coffee even in a geography, is different for each brand of coffee, depending on various factors such as type of beans and production costs.*
+
+*(B) Over the past century, the prices of some other beverages such as tea have risen dramatically after adjustment for inflation.*
+
+*(C) The prices of food items, including tea and coffee, predictably increase when demand grows relative to supply.*
+
+*(D) Over the past decade, the price of coffee has risen after adjustment for inflation.*
+
+*(E) Over the past century, inflation has made the price of coffee much higher in nominal terms than they would otherwise have been*.
+
+",2,1745557119.0,GMAT,3,1.0,False
+1k7ctsa,https://www.reddit.com/r/relationship_advice/comments/1k7ctsa/he_35m_told_me_29f_that_i_sh0uld_feel_honoured_he/,He 35M told me 29F that I sh0uld feel honoured he slept with me. How to process this and what do do now?,"I went on a date with the pilot of my flight that i actually met during the flight when he went to the toilet (I suppose). He recognised the book i was reading.
+
+We chatted in the airport and he said he lives near my city and is not here just for a layover.  I said yes because of this. I want something long term. So se went next day for a coffee and it was all nice. He wanted to go back to his place but I said no. I was honest. I need to know him more. He agreed and apologised. We had the talk. I told him I want a relationship, not just a fling. So if he wants the same we can keep seeing each other.
+Next day he was out of the country but then 2 days later texted me and we went out again. This time I ended up sleeping with him at his place.
+
+I felt guilty because I am not that type of woman. I texted him to ask him if he sees me easy now and if he still considers me gf material. He said sure and I shouldn't  feel ashamed but special. I spread my legs for him.
+I was like what?
+And he said he is a pilot and women love pilots.
+I asked if he is serious and he sent me a pic. He was drinking at some bar so he joked he is a bit tipsy but yes, he is serious.
+I asked: do you still want to date me? For real?
+He left me on read.
+
+Next say he texted me that he is home and if I want to meet. I proposed a place. He said he doesn't feel like going out and I should just come over. We can order food or we can cook.
+Then, he randomly answered my text and said yes, I still want to date you. 
+
+I was seeing someone else when I met him and I told that guy I want to stop because I don't feel we are a match. We weren't official. Just a few dates. Not even a kiss.
+And now I feel that maybe I made a mistake. But I need some advice on this.",3,1745557042.0,relationship_advice,21,1.0,False
+1k7ct2t,https://www.reddit.com/r/AskDocs/comments/1k7ct2t/how_to_choose_my_poison/,How to choose my poison.,"I’m 28 female, 5’6, about 115-125lb but not sure since I haven’t checked in a long time. 
+
+Let’s say that I really need one of these following 4:
+
+1. Regular beer consumption 
+2. Regular diet soda consumption 
+3. Regular canned coffee consumption, such as starbucks double shot. 
+4. Regular energy drink consumption, such as Celsius or monster. 
+
+Which one would be the least unhealthy in the long run? ",1,1745556968.0,AskDocs,5,1.0,False
+1k7ct2k,https://www.reddit.com/gallery/1k7ct2k,Got my first coffee grinder,"Got this C2s delivered today 
+First impressions: 
+Super build quality all metal 
+consistent grind 
+Feels bulky like it’s not going anywhere 
+
+Making aeropress coffee to try this out and yeah i can definitely feel more flavours coming out it and i can taste a very little sweetness in the aftertaste 
+Not harsh at all 
+
+I think this investment was worth it after-all
+ 
+
+
+",32,1745556968.0,IndiaCoffee,20,0.98,False
+1k7cszo,https://www.youtube.com/watch?v=kPMumf5BByc,POV: You're on a coffee date but then Evil Larry shows up,,1,1745556960.0,LiboNosfaron,0,1.0,False
+1k7csx8,https://www.reddit.com/gallery/1k7csx8,Sublease Studio Apt - Fall 2025 to Spring 2026,"I’m looking to sublease my studio apartment at 221 Waldron St - Weida Apartments (Unit 109 SB) in West Lafayette starting August 22, 2025.
+
+Details:
+• Rent: $1,850/month
+• Studio | 1 Bathroom | 408 sq. ft.
+• Fully furnished – includes:
+ – Full XL bed (with mattress, frame & headboard)
+ – Writing desk & chair
+ – Coffee/end tables (hex style)
+ – 2-drawer chest
+ – Entertainment center (TV stand)
+• In-unit washer & dryer
+• Appliances: microwave, dishwasher, stove/oven, refrigerator
+• Central air/heat
+• Trash utilities included
+
+Perfect location just a short walk to campus!
+",1,1745556954.0,PurdueHousing,0,1.0,False
+1k7csm7,https://www.reddit.com/r/feeld/comments/1k7csm7/are_fwb_common_on_the_app/,Are FWB common on the app?,"I’ve never used Feeld before and my main question is if FWB are easy to find on there or if it’s meant more for other types of non standard relationships?
+
+A little about me, I’m a white Hispanic male age 34 and have spent much of the last decade living in Europe and South America. I don’t want a LTR because I have no idea where I’ll be living next year. At the moment I’m in NYC. I also don’t want casual sex or ONS as I would only feel comfortable with someone that I know well.
+
+Also not the standard Vanilla guy. Can’t stand dinner dates or going for coffee. I enjoy things like bars with live music, concerts, traveling, foreign cinema, Broadway plays, comedy nights, etc. so I’m looking for women that are interested in those sorts of activities. I would like to find free spirited FWB, somewhat of a hippie vibe, but no strings, just a good time which isn’t all about sex but an actual friendship that includes sex.
+
+Is this the sort of place where I could find this? And if so, any suggestions on how to be successful?",0,1745556923.0,feeld,0,0.5,False
+1k7criy,https://www.reddit.com/r/Tools/comments/1k7criy/chatted_with_a_random_guy_near_gladstone_ore/,"Chatted with a random guy near Gladstone Ore about r/tools and the ""guess my job"" coffee equip repair post","Just a shout out to what a fun community redit can be. 
+
+Stopped and chatted with a guy in a park today on a lunch break walk and I said I service coffee equipment. He brought up the collection of tools were in a roll up bag recently posted by a fellow tech, ""it looked like a motorcycle toolbag"", he said.
+
+I knew exactly the one he was talking about because I almost commented on it too! Also knew we were going to have a great chat if it weren't for that dang timer counting down on my lunch break!
+
+Great chatting with you my friend. Keep the shiny side up on that ride of yours!",5,1745556813.0,Tools,1,1.0,False
+1k7criq,https://www.reddit.com/r/OffMyChestIndia/comments/1k7criq/felt_love_for_the_first_time_but_at_the_worst/,Felt Love for the First time but at the Worst Moment! Need Opinions,"(Long post but definitely need you opinions.)  
+
+How someone just show up and just make your life more twisted. My life was already complex because of my wrong choices in past, but it was never about love, because I never loved anyone. I never wanted to feel anything for anyone, nor did I want anyone to feel anything for me. Also I’ve got this thing about not liking touches (it’s some weird OCD thing I can’t explain).
+
+And then she just showed up, a new girl in my office. There were already plenty of good-looking girls around, some even 10/10 Baddie, and I have talked to them casually.  I never wanted to be with them I know them how they are! 
+
+
+Let me tell you how I first saw HER.
+
+
+I have this habit of getting to the office early, about 30 minutes before everyone else, so I can make coffee and get some work done. So, one usual day, I’m there early like always, and the only person in the office is the old help lady.  I’m making my coffee, just doing my thing, when I hear someone talking behind me. I turn around and see this tall girl (5'7"")  asking the office help about her seat and cabin. She leaves soon after. I think, “Okay, they must’ve hired a new girl,” and smile a bit, thinking it’s nice to see someone else who likes getting to the office early. But I don’t think much of it. I just focus back on my coffee.   
+
+
+I grab my coffee and head toward my cabin. Just as I’m walking in, I see through the glass a person sitting at a desk behind mine. It’s the same girl. I froze for a second because at this time I usually sit alone in this four-seat cabin. I put my coffee on table, and without thinking, I start working. I asked her if she’s a new hire and what she’s here for. Turns out, she’s in my team. No one told me about her joining. I get a message that I’m supposed to train her and show her what we do. So, I start explaining stuff to her.   
+
+
+The first day went by, nothing really stood out. She was shy and didn’t say much. I didn’t care much either.
+
+The second day, she was made to sit right next to me. It makes sense since it’s easier for me to show her stuff without moving around too much. And that’s when I looked into her eyes for the first time. And I swear, something happened. During lunch when everyone was gone, and it was only us talking. She smiled at something I said (it was an unintentional but funny joke). And when she smiled, I felt this rush. What stood out was that she kept looking at me while laughing, which was different. Most people look away when I look at them (it’s just how my angry eyes are, I guess).
+
+
+For the first time, I felt something. It wasn’t love or anything intense, but it felt like everything else paused and her face was zoomed close to me, and all I could focus on was her eyes and face. I can’t really explain it, but I noticed every little detail while she was talking and laughing. She isn't the most beautiful girl I’ve ever seen (but a solid 7.5), but there was something about her that made me feel excited and happy.   
+
+
+And then, she called me by my first name. With a ""sir"" at the end, of course. It was different than other girls calling me by name. And before I knew it, I was flirting with her for like 30 minutes straight. The first girl I’ve really flirted with since college(two years).
+
+
+Like everyone else, I usually check girls out too (face with basic look at body and shape but not with anything bad in my mind). But this time, it was different. I was just focused on her voice and her eyes. I found it weird to look at her body. I enjoyed that day with her.    
+
+
+So, the next day, it was just the two of us in the cabin somehow. Now, it was a Wednesday but felt like a Saturday evening. I was just talking to her—about her day, her hobbies, her studies, her friends, the places she’s been, her family, her dreams... like everything. That day felt like I did my 9 to 5 in 10 minutes. And I realized, I wanted more. More of her.  
+
+
+Three weeks in, she shows up in this green traditional suit for the first time, and guys, I swear, that moment hit different. I never thought I’d fall for a girl first, but there I was, falling harder than I’d ever imagined. I found myself thinking about her all day, every day. Coming to work, leaving work, in my PG, walking, even in the damn shower. 
+
+It’s like she was on my mind all the time. I like it every time she starts the conversation; every time she touches my hand for asking something. It’s the first time I’ve actually felt like my OCD doesn’t matter. I even find myself wanting to touch her hand sometimes when we exchange things and her face when she close talks to me. She’s stopped being so formal, but still says ""AAP"" instead of my name.   
+
+And now, when she’s not around, it completely messes with me. Like, I can’t even focus on anything. My mind just keeps drifting back to her.  I know she’s not into me. She’s made it clear by her behavior that she’s just being casual. She’s got guy friends, like a whole crew of them, and she’s even shown me their photos. But I thought, maybe, just maybe, I should try. At least try. I can sense something in her puppy eyes.  
+
+
+But here comes another TWIST in my already confused life. This Holi, I went to my hometown for a week, and my parents hit me with the whole arranged marriage talk. They wanted me to meet some girl they had in mind. So yeah, one thing led to another, and they pretty much finalized her. Some rituals and all that. I didn’t say anything because I’m not sure about my office love, man. It’s all just confusing.  
+
+
+I’m not saying I don’t want to get married, but I’ll always have this regret. I found my love, but something stopped me from trying. What if I could’ve made it work?  This is something I never wanted, or just bury it and move on. The hardest part isn’t even the confusion, it’s the idea that I’ve found something so real, so raw, and it’s making me question everything I believed about myself. 
+
+
+I told myself I didn’t need love, The hardest part isn’t even the confusion, it’s the idea that I’ve found something so real, so raw, and it’s making me question everything I believed about myself. I told myself I didn’t need love, but now I’m finding myself in love with someone who doesn’t even know I feel this way. 
+
+And it hurts, it hurts so much because it’s not just about her; it’s about this entire life I thought I had figured out—the routine, the detachment, the walls I built around myself. And now, those walls are crumbling, and I don't know if I’m ready to let them fall.
+
+The weight of the arranged marriage, the expectations from my family... it feels like a trap. What if I choose that, and then forever wonder if I could’ve made something real happen with her? Every day without her is like a blur. I can't focus on anything, my thoughts keep drifting to her, her eyes, her smile, her touch. 
+
+But at the same time, there’s this cold, suffocating fear that if I try, I’ll ruin everything. Maybe it’s all just one-sided. Maybe I’m just fooling myself. And what if I risk all of this, and it still doesn’t work out? What do I do then?
+
+I’ve been living in this state of limbo, unable to move forward, unable to go back. My mind is consumed by her, and I’m not sure if I want to be free of it or if I want to hold on tighter. There are days when I can’t even breathe because all I think about is the ""what if."" What if I had said something to her that day? What if I had just looked into her eyes a little longer? What if she felt the same way about me? But then the reality slaps me in the face. She’s probably not even considering it the way I am. I’m just another guy in her life, another face she talks to. It’s casual for her, but it’s consuming me. And that makes me feel pathetic.
+
+I don't want to be that guy who regrets everything in silence, but I’m afraid of jumping into something only to realize I’ve made the wrong choice. The future feels like a weight pressing down on me, telling me to follow the path laid out for me by my parents and my culture. 
+
+And I feel like I’m suffocating under the pressure. But then there’s the part of me that’s telling me that I might never get another chance with someone like her. I don’t want to look back in 10 years and realize I let the love of my life slip through my fingers just because I was too scared to take a chance.
+
+But what if I’m wrong? What if I’m not even in love with her? Maybe I’m just caught up in the idea of something I can’t have. Maybe the truth is, I don’t even deserve her. She’s too good for me, and I don’t know how to handle that. Every time she smiles at me, it feels like my heart skips a beat, and I wonder if she’s smiling because she sees something in me, or if it’s just because she’s being nice. The uncertainty is killing me. It’s like a slow-burning fire that I can’t put out.
+
+I can’t escape this feeling. It’s gnawing at me, pulling me in every direction. But I don’t know how to make the right choice. I’m stuck between a life of expected duty and a chance at something real. I don’t know if I’ll ever get an answer, and I’m terrified that the answer, when it comes, will be something I can’t change.
+
+Yesterday, we were talking. She said she should’ve come here earlier, and I, kinda emotional and heavy voice, just said, “Yeah, you’re late. Very late.” And then I cut the conversation short and she was confused. We didn’t talk much after that.
+
+ChatGPT said:
+TL;DR: A guy who’s always been emotionally detached and indifferent to love starts feeling something for a new colleague, who he trains and becomes close to. He realizes he might be in love with her, but she sees him casually. Meanwhile, his parents arrange his marriage to someone else, causing confusion and conflict. He’s torn between duty and the chance at something real with her, but fears it might be one-sided.
+
+
+
+By messaging ChatGPT, you agree to our Terms and have read our Privacy Policy.
+Don't share sensitive info. Chats may be reviewed and used to train our models. Learn more
+
+
+
+
+TL;DR: A guy who’s always been emotionally detached and indifferent to love starts feeling something for a new colleague, who he trains and becomes close to. He realizes he might be in love with her, but she sees him casually. Meanwhile, his parents arrange his marriage to someone else, causing confusion and conflict. He’s torn between duty and the chance at something real with her, but fears it might be one-sided.
+
+
+",1,1745556812.0,OffMyChestIndia,5,0.67,False
+1k7crh8,https://www.reddit.com/r/HealthProductsNatural/comments/1k7crh8/wellamoon_sleeping_patch_review_does_this_sleep/,Wellamoon Sleeping Patch Review: Does This Sleep Patch Actually Help You Rest Better?,"# Trying a Sleep Patch for the First Time: My Experience With Wellamoon
+
+I’ve dealt with sleep issues on and off for years. I’m not talking about hardcore insomnia, but the kind where it takes forever to fall asleep, or I wake up at 3 a.m. and can’t get back to sleep. I’ve tried melatonin pills, herbal teas, guided meditation apps - you name it. Some helped a little, but nothing consistent.
+
+Then someone mentioned **Wellamoon sleeping patches** in a group chat, and it caught my attention. I didn’t even know sleep patches were a thing. So I started reading up on it and figured, why not try something new?
+
+Here’s how 30 days with the **Wellamoon sleep patch** went.
+
+# What Are Wellamoon Sleep Patches Supposed to Do?
+
+The **Wellamoon sleep patch** is designed to support deeper and more natural sleep using **slow-release technology**. Unlike pills that dissolve in your stomach all at once, the patch releases its ingredients gradually through your skin as you sleep.
+
+Each patch contains:
+
+* **Melatonin (7mg)** – a hormone that tells your body it's time to sleep
+* **Valerian Root (27mg)** – traditionally used to reduce anxiety and promote calm
+* **Hops (16.53mg)** – known for its calming properties and ability to support sleep cycles
+* **Magnesium Malate (41.32mg)** – helps with muscle relaxation and nerve balance
+
+You stick the patch on a clean, hairless area like your shoulder, thigh, or forearm. It’s supposed to stay on all night and then be peeled off in the morning.
+
+Here’s where I first read about it: [**Wellamoon Sleep Patch Info**](https://www.fasttrack36.com/MM8QQX91/2J8ZH9TQ/?source_id=Rddt&sub1=r/HealthProductsNatural)
+
+# Week One: First Impressions
+
+I started using the **Wellamoon sleeping patch** on a Sunday night. I followed the directions and applied it to my shoulder around 10 p.m.
+
+That first night was... different. I didn’t feel super sleepy, but I felt more relaxed than usual. It wasn’t like being drugged or anything. I fell asleep in about 25 minutes, which is pretty good for me. I still woke up once during the night, but I fell back asleep much quicker than usual.
+
+Over the next few nights, I noticed a pattern:
+
+* I was **falling asleep faster**
+* I **wasn’t waking up as often**
+* I felt **more refreshed** in the morning
+
+It wasn’t a huge shift, but it was noticeable.
+
+# Weeks Two and Three: Settling In
+
+By week two, I was falling asleep within 15 to 20 minutes of lying down, without scrolling on my phone or doing breathing exercises. I even forgot to use the patch one night and still managed to sleep fairly well.
+
+That was interesting because it made me wonder if the patches were helping retrain my sleep schedule.
+
+During week three, I was:
+
+* **Sleeping longer stretches without waking**
+* **Waking up before my alarm feeling alert**
+* **Less reliant on coffee during the day**
+
+I wasn’t expecting that last one, but it definitely made me feel more productive.
+
+# Week Four: Overall Results
+
+At the end of the month, I found that the **Wellamoon sleep patch** had become part of my nightly routine. It wasn’t something I needed every single night, but it was something I reached for when I felt my sleep was off.
+
+I liked that it didn’t give me that weird melatonin “hangover” feeling in the morning. I’ve had that with pills before - super drowsy, foggy head. But with this patch, that didn’t happen.
+
+If you’re interested, here’s where I ordered it:  
+[**Wellamoon Sleep Patch Details**](https://www.fasttrack36.com/MM8QQX91/2J8ZH9TQ/?uid=34563&source_id=Rddt&sub1=r/HealthProductsNatural)
+
+# Is the Wellamoon Sleeping Patch Worth Trying?
+
+For me, it made a difference. Not dramatic, but **consistent enough to keep using it**. If you’re struggling with sleep but don’t want to rely on pills or don’t like how they make you feel, the **Wellamoon sleep patch** might be something to consider.
+
+It's not a magic solution, but it helped me get better sleep without the usual downsides. And sometimes, that’s all you need.
+
+Anyone else tried **Wellamoon sleep patches** or any other kind of **sleep patch**? Curious how it worked for you.",1,1745556807.0,HealthProductsNatural,0,1.0,False
+1k7cpx8,https://www.reddit.com/r/gaydating/comments/1k7cpx8/34_looking_for_relationship/,34 looking for relationship,"34 from Texas. Been single for 3 years now. Love to travel, see new places, good coffee, being in nature, and watch movies. Would love to connect if you are interested. Please be willing to share a pic if that’s okay. Mine is on my profile page. Open to ltr at first. Message me if you are interested :)",9,1745556642.0,gaydating,5,1.0,False
+1k7cpdm,https://i.redd.it/30j3ggixvwwe1.jpeg,From Tower Guardian to Coffee Machine ... :`(,,11,1745556588.0,tron,1,1.0,False
+1k7coz1,https://www.reddit.com/r/penpalsover40/comments/1k7coz1/looking_for_platonic_friends/,Looking for platonic friends,"Hey
+
+I'm 37 and looking for people to chat with while I'm online. Which is a lot of my time at the moment ! 
+
+I love banter, I'm sarcastic too. So if your feels get hurt easy, we not gonna work 💪 
+
+I love cats and coffee. Staring at stars. Dancing in the rain. And of course chocolate.
+
+Please only message if you are 30+.
+
+Platonic only!
+
+Much 💕",1,1745556550.0,penpalsover40,1,1.0,False
+1k7cogp,https://www.reddit.com/r/penpalsover30/comments/1k7cogp/looking_for_friend_only_mails/,Looking for friend only mails,"Hey
+
+I'm 37 and looking for people to chat with while I'm online. Which is a lot of my time at the moment ! 
+
+I love banter, I'm sarcastic too. So if your feels get hurt easy, we not gonna work 💪 
+
+I love cats and coffee. Staring at stars. Dancing in the rain. And of course chocolate.
+
+Please only message if you are 30+.
+
+Platonic only!
+
+Much 💕",0,1745556497.0,penpalsover30,0,0.5,False
+1k7coc2,https://www.reddit.com/r/MakeNewFriendsHere/comments/1k7coc2/35m_looking_for_a_friend_to_make_my_wfh_life_a/,35M Looking for a friend to make my wfh life a bit more exciting!,"I like to consider myself pretty down to earth. And while I’m a bit introverted, I love having a handful of people to form deep connections with. 
+
+I live in California and have a small circle of people I consider myself close to. I enjoy gaming, cooking, writing music, and I know entirely too much about coffee. Also a huge sports fiend. 
+
+I’d love to find some cool people to chat and connect with. If you’re interested, send me a message with a bit about you and where you’re from. ",1,1745556486.0,MakeNewFriendsHere,1,1.0,False
+1k7co4x,https://www.reddit.com/r/amwfdating/comments/1k7co4x/29_m_brooklyn_writer_seeking/,29 [m] Brooklyn - Writer seeking writer/artist/yapper/and/or lover,"Hi :) I’m a writer based in Williamsburg. Bit of a poet, bit of a sci-fi nerd. I work full-time in media, but I’m also trying to finish my short story collection and get it published. 
+
+I’m Chinese American, originally from the Bay Area. 5’8” and skinny. INFP. Liberal. I’ve been called a “well-adjusted only child.” I love coffee, ramen, pizza, and an occasional drink.
+
+Other things I enjoy: 
+- books (Never Let Me Go, Neuromancer, Stories of Your Life and Others, Tenth of December)
+- movies (Interstellar, Blade Runner, The Prestige, Knives Out)
+- shows (Black Mirror, Invincible, ATLA, and most things with John Mulaney)
+- music (Soundgarden, Paramore, Delain, The Cranberries)
+
+Ok, enough of me yapping. Tell me about yourself?",2,1745556466.0,amwfdating,0,1.0,False
+1k7co1h,https://www.reddit.com/r/pourover/comments/1k7co1h/trouble_dialing_in_with_the_k_ultra/,Trouble dialing in with the K Ultra,"So I got a K Ultra and I seasoned it with 2 bags of cheap coffee. I then brewed with it a few times at 6, 6.5, and 7. I brew 18.5g/300g at 91c on my medium roast coffee. I do a 60g bloom, 45 seconds, then 2x 180g concentric pours letting the bed drain each time. I keep getting weak and sour coffee. I did the same exact recipe with my q2 for months and had no issue. 
+
+What variable should I attack first? ",1,1745556456.0,pourover,1,1.0,False
+1k7cnzq,https://www.reddit.com/r/TrueOffMyChest/comments/1k7cnzq/pm_off_my_chest/,PM off my chest,"I stopped into a Walmart one day before hiking the Erie Lackawanna trail; 9.2-miles of pavement that begins in Old Downtown Calumet.
+
+I wandered the aisles aimlessly.
+Distracted by all the bright colors and noises brimming my ears and lifting my feet with curiosity, reminding me that I am within proximity to people who could hear me when I speak.
+
+If I choose to speak, is there someone like me listening in another place taking stock of the warmth my voice brings to them? 
+
+“Think of a non-trivial life altering thing to say out loud, Amanda! Think! Think! Think!” 
+
+Crickets.
+
+Folded into the distance, these alien warm bodies hush me. The voices in the background wave me into a hypnotic state – just enough for me to pick up
+
+Put down 
+Pick up 
+Put down 
+Pick up 
+Put down 
+
+Candles, coffee tumblers, cold cups, books I won’t read, etc. 
+
+“What do I need while I am here?! Think, Amanda! Think!”, I repeat.
+Sunblock, maybe. 
+
+I love the hot summer heat pouring off the pavement on the dirty bike paths that dive around Cabela’s. Soaking me with their rays and burning their marks into my skin that will inevitably peel me away from myself. 
+
+I’d typically park and jump on the trailhead behind the Cabela’s building right off i294. I have hiked the Calumet Trail many times - the end leads to a place very little to be desired. Before 1847, Hammond, IN was home to explorers longing for new ideas and destinations. Never for too long passing from one place to another. At one time, these Northwest Indiana towns were in full bloom; now they are near desolate ghost towns dream avoidant.
+
+I caught the eye of a middle-aged white-haired man scooting past me as I was heading to the front of the store - long enough for him to flash a nervous smile. Before I could even break my silence, his face changed. He looked disappointed and sad while pushing his cart forward. In that moment, he knew me.  Surely, he must have. Why wouldn’t he say hello? Why would he pause to smile at me if he didn’t know me? Why would he become disenchanted by my delay in pleasantries if I was a stranger? I had only seen him for a few seconds. I peered around the corner, and he was gone.
+
+Remember
+Remember 
+Remember  
+
+Coffee cups and lima beans, bikes and barbells- staring into my reflection of the security camera in the corner of the wall facing checkout. I flip the bird for good measure, just to ensure that I’m fucking something in real-time and maintaining relevancy. 
+
+I walked to the counter
+I purchased my items 
+I got into my car
+Then took my 9.2 miles and sore feet to the heart.
+
+A couple hours after I arrived home, I received a Facebook message from a David; he had been a long-time follower of my travels, my poetry, and my performances. I didn’t realize this, but he had always been a permanent figure in the corner of PH Art Gallery, a favorite spot of mine to share my work every Thursday at their open mic nights. A beautiful gallery swimming with talent.
+
+David wrote to me in detail about how he did in fact admit his admiration of my courage several times before each open mic night ended. He said he had even reached out to embrace me with a hug, and I did embrace him back. How little I recall. He was broken hearted that I hadn’t fallen in love with him the way he did with my words and my lips. The way he described the vibrations from my mouth like a deep ocean. David is a writer himself. 
+
+I didn’t even recognize him. 
+
+I pick apart this day often in my selfish desires to be in an amatory venture. I was married for 13 years before filing for divorce, and I had never felt more undetectable during. I stayed up countless nights scrolling on social media watching my friends travel, party, work their way into success in their careers and relationships, and where was I? 
+
+Calming a screaming autistic preschooler at 2 in the morning hanging from the wall like some god damn wild monkey. I spent the years before that like a human chandelier.
+
+Two kids hanging off my tits like an on/off switch to alligator tears and a remedy for scraped knees. 
+
+I would find myself turning on music, tuning out the world in my living room and 
+
+Dancing 
+Twisting 
+Shaking my ass
+Spinning so fast
+Belting out the lyrics like they were mine. 
+
+To a tune that could take me away into some fantasy land where I was someone different. I could be anything in the entire universe with the volume loud enough. I stopped watching tv, settling for movies in my head. For successes I hadn’t won, and for a life that wasn’t mine. I’d meet people in line at the grocery store in towns far away from home, and I’d fib about who I was and what I did if anyone had the courage to ask. I even surprised myself with what I’d be from one moment to the next. 
+
+It didn’t matter to me; I didn’t matter to them. 
+They were strangers, and I’d never see them again.
+
+I put my kids to sleep night after night wondering if my then husband would come up to talk to me, hold me, laugh with me. He refused date nights and neighborhood walks. He thought my fantastical ideas of travel and artistry were related to my depressive disorders and told me I just don’t get it because I never lived a normal life. Instead, he slept in the basement and displayed much disinterest in quality time. Frustrated, I would tell him about my desire for connection to him. I told him how painful it was to not have him by my side as my partner in life. I reminded him of the promises we made to each other by way of our vows, and he’d dismiss me, throwing up walls where bridges should have been forged. 
+
+I’d imagine killing him while he slept.
+
+I want to challenge you to read between the lines. The indented spaces and backspaces much like servants with no tray. The thoughts that have been typed here and removed still have a place in their absence. I can fill the empty spaces with new memories and new truths. Real truths, not just the concocted musical fantasies meant to drown out the noise from a painfully avoidant frustrated life.
+
+I brought up David earlier in this letter for a reason. The pattern was: I want to be wanted so long as I am chasing, not following.  
+
+If I follow, then I run. 
+If it doesn’t look uncertain, it doesn’t look safe. This is a recipe for disaster that I’ve been tooling with and nourishing my body with for as long as I can remember. 
+When I turned to online dating last January as a means of “putting myself out there” so to speak, I realized quickly how much I didn’t know about the current standards of “appeal”. I saw older men in their 50’s who look like they are 38 because they’ve been stuck with so many needles to the face and have the nerve to proclaim: 
+
+“I like a real and authentic woman who is confident in their skin”. 
+
+I saw men in their late 30’s just NOW wanting to “Settle down with the right girl and start a family one day”, and I’m far past that stage. I’m straddling my mid-30’s holding on for dear life excited for the next turn of the sun. I’m ready to watch my kids grow into adults and I want to focus on building success and future, not just as a mom but as a me. I was proud of myself for finally calling it quits on my marriage that should have never lasted as long as it did. I am happy that I am no longer imagining these incredible outcomes in my life while daydreaming to cool tunes, I’m doing it. I am creating, I am becoming. 
+
+It makes sense. We want in others what we don’t have within ourselves. So many men and women want a magic mirror, not a partner. ",1,1745556451.0,TrueOffMyChest,3,1.0,False
+1k7cnou,https://www.reddit.com/r/Market76/comments/1k7cnou/h100_leaders_w_1000_coffee/,H:100 Leaders W: 1000 Coffee,,1,1745556423.0,Market76,12,1.0,False
+1k7cmc6,https://www.reddit.com/r/chat/comments/1k7cmc6/32m_tiredtattooedmetal_head_nerd_seeking_pals/,32M - tired/tattooed/metal head nerd seeking pals,"
+
+Howdy. Currently brain dead from many work meetings. But taking tomorrow off! Keep me company! I work in tech, read a lot, get tattoos, obsess over coffee, love horror movies, philosophy, having long conversations and walks with my dog. Still in my skinny jeans, vans, band t shirt era (always all black. Not a phase). Little too isolated and introverted these days. Hit me up! ",1,1745556290.0,chat,1,1.0,False
+1k7cldi,https://www.reddit.com/r/InternetFriends/comments/1k7cldi/32m_tiredtattooedmetal_head_nerd_seeking_pals/,32M - tired/tattooed/metal head nerd seeking pals,"
+
+Howdy. Currently brain dead from many work meetings. But taking tomorrow off! Keep me company! I work in tech, read a lot, get tattoos, obsess over coffee, love horror movies, philosophy, having long conversations and walks with my dog. Still in my skinny jeans, vans, band t shirt era (always all black. Not a phase). Little too isolated and introverted these days. Hit me up! ",1,1745556194.0,InternetFriends,0,1.0,False
+1k7cl9d,https://i.redd.it/avj9ql0quwwe1.png,"A - $2 Medium Coffee Iced or Hot, anytime",,1,1745556182.0,DDoffers,2,1.0,False
+1k7cl0w,https://www.reddit.com/r/MakeNewFriendsHere/comments/1k7cl0w/32m_tiredtattooedmetal_head_nerd_seeking_pals/,32M - tired/tattooed/metal head nerd seeking pals,"
+Howdy. Currently brain dead from many work meetings. But taking tomorrow off! Keep me company! I work in tech, read a lot, get tattoos, obsess over coffee, love horror movies, philosophy, having long conversations and walks with my dog. Still in my skinny jeans, vans, band t shirt era (always all black. Not a phase). Little too isolated and introverted these days. Hit me up! ",1,1745556157.0,MakeNewFriendsHere,1,1.0,False
+1k7ckzt,https://i.redd.it/x0zsc5ymuwwe1.png,"B - $2 Medium Coffee Iced or Hot, anytime",,1,1745556153.0,DDoffers,1,1.0,False
+1k7ckth,https://i.redd.it/fs6q4jwkuwwe1.png,"C - $2 Medium Coffee Iced or Hot, anytime",,1,1745556135.0,DDoffers,1,1.0,False
+1k7ckc2,https://www.reddit.com/r/anchorage/comments/1k7ckc2/kindred_spirit_coffee_owner/,Kindred spirit coffee owner,Something disturbing happened earlier today at one of the Kindred spirit coffee shacks and I am trying to get in touch with the owner but can’t find anything online about who runs it.  Name or number or anything at all would be so helpful!! ,3,1745556089.0,anchorage,3,0.64,False
+1k7ck07,https://www.reddit.com/gallery/1k7ck07,how would I make wall art look good with the cat shelves? Any other suggestions welcome.,"so the first photo is of my living room currently, but replaced the two mcm Paoli chairs with a lower, lighter accent chair. My plan is to reupholster the Paoli chairs to use with a small dining table under the chandelier boob light. I am planning on making a sectional with the Ikea stackable twin bedframes and creating wedge bolsters and throw pillows to go along with it, not completely set on colors yet for the cushion covers, but I am very into japandi and retro aesthetic right now so I'm chipping my way there. I want to keep the lamp and the rug, I am willing to paint over the art I made and am thinking of frames for them as well, I'm also willing to get rid of one of them to put in my (very blank) bedroom. I want to add more plants but they need to be hardy and cat safe. I want some ideas on end tables and coffee tables that are also indestructible because my roommates like to forget using coasters, and also like to do their nails on the coffee table where acetone is inevitably involved. I was thinking of a large drum style coffee table with some sort of storage? so that I can put my yarn collection inside. and also some cute cabinets that I could use for storage and organization. For the shelves I plan on putting another 6' shelf along the ones on top leading to the corner, then using a 4' shelf along the wall w/ the art a bit below that, then placing the 6' shelf that's above the TV underneath the 4' shelf. I then have the 6 2' shelves that I can do whatever with. I plan on lowering my TV after getting self conscious looking through the tv too high subreddit, so I'll have some space for any decor there as well. I like clean, simple, cat-proof decor. I'm the ""less is more"" type. I prefer softer cuts on furniture as well, as I found out my cat likes to chew on sharp furniture corners 😒 OH! I also plan on hanging some light diffusing sheer curtains over the windows in the corner. Also, how do I make the heater/ac look not dumb ",1,1745556056.0,DesignMyRoom,2,1.0,False
+1k7cj7p,https://www.reddit.com/r/CAIN_RPG/comments/1k7cj7p/limits_of_the_blasphemies/,Limits of the Blasphemies,"Hello all! I just recently grabbed the pdf for this and was having a look through. It's relatively straightforward, but I've hit something of a snag. The game mentions creative uses of the blasphemies, but there don't seem to be a lot of guide rails for what you can actually *do* there. As an example:
+
+Looking into gate, it's spacial manipulation, cool. But how far can an exorcist take that (CAT not a factor)? Can a gate exorcist make an inch into a mile? Can they alter the distance between a coffee cup and a point in the air? Can they force objects to try and share space? Is it all just up to the admin?
+
+I honestly may just be overthinking here, but any insight yall could share here would be a big help.",7,1745555982.0,CAIN_RPG,3,1.0,False
+1k7ch49,https://www.reddit.com/r/AdvertiseYourVideos/comments/1k7ch49/organic_low_acid_coffee_15_off/,"Organic, low acid coffee 15% off","Brand called Lifeboost its supposed to be low-acid, organic, and all that clean-living jazz I've been drinking it for a couple weeks now and honestly, its pretty decent. And flavors actually smooth AF not bitter or burnt so they had a code for 15% off Link : https://lifeboostcoffee.com/?ref=cpst661 Not a plug, just sharing the deal. Code: y22qsdjqsl",1,1745555778.0,AdvertiseYourVideos,0,1.0,False
+1k7cgdf,https://v.redd.it/8h20lb9vswwe1,Everyone buy Lyall a freaking coffee!!! He fixed Expedition 33 Ultrawide zoom in. (So many games he fixed for us its insane!),,117,1745555699.0,ultrawidemasterrace,16,0.98,False
+1k7cg7v,https://www.reddit.com/gallery/1k7cg7v,An 02 with only 40k Miles,"Picked this cutie up not long ago and ever since I've noticed an odd smell. Similar to burnt coffee, maybe oil but I'm not too sure. There aren't any visible leaks or drips, no noticeable blowby, oil isn't creamy or milky, no noticeable performance issues except some slower acceleration in higher gears (3+). The smell only shows up after hard acceleration or intermittently at high speeds (90mph+). My current theory is a hairline leak on the lower of the valve cover gasket going directly onto the exhaust, or possibly a slipping clutch. Any diagnostic ideas?",2,1745555683.0,FordThunderbird,0,1.0,False
+1k7cfn6,https://www.reddit.com/r/kdramas/comments/1k7cfn6/help_im_in_a_slump_20_characters/,Help. I'm in a slump (20 characters),"As the title implies, I'm in a slump. Last I watched was Karma. It was really good but now I need a good romcom. Because Karma was a really heavy one. Please suggest something with a good story that I could get hooked on. A nice twist or two on the story is much appreciated as well. I tried watching some (Love Revolution and I forgot the name of the other one) but just didn't really stick with me. Listed below are the romcoms I've already watched and loved/liked/enjoyed/got me hooked to avoid duplicate recos. Thanks a lot!
+
+I am not a robot
+
+Bring it on ghost
+
+Still 17
+
+Kill me heal me
+
+Mama fairy and the woodcutter
+
+While you were sleeping
+
+My man is cupid
+
+Rooftop prince
+
+My name is kim sam soo
+
+Go back couple
+
+Cinderella and the 4 knights
+
+Suspicious partner
+
+Whats wrong with secretary kim
+
+Oh my venus
+
+She was pretty
+
+Princess hours
+
+Coffee prince
+
+Her private life
+
+Master's sun
+
+Secret life of my secretary
+
+Crash landing on you
+
+You are beautiful
+
+Strong woman Do Bong Soo (pls dont recommend the sequel im not a fan of the FL, sorry)
+
+Weightlifting fairy
+
+Sungkyunkwan scandal
+
+Love in the moonlight
+
+Legend of the blue sea
+
+Shooting stars
+
+Marry My Husband
+
+
+",1,1745555628.0,kdramas,13,1.0,False
+1k7cfe3,https://i.redd.it/31ni63drswwe1.png,Lease takeover: 6/1-9/5 $1150/month Downtown Phoenix,"Looking for someone to take over my lease for the summer! This is a **private room and full bathroom in a shared 2b/2ba apartment**, available from **June 1st to September 5th** for **$1150/month**.
+
+**Perks of the Apartment:**
+
+* Prime location near **Downtown Phoenix** and **Roosevelt Row** – walkable to coffee shops, restaurants, and art events
+* **Large, clean pool** and **jacuzzi** – perfect for cooling off during summer
+* **On-site gym** – stay active without leaving the complex
+* **Free street parking** – no extra cost or hunting for a spot
+* Shared with **one quiet and clean roommate** who will be studying for the **bar exam** all summer (expect a peaceful vibe)
+* Partially furnished with a couch and TV in the living room, a well-stocked kitchen, and a twin-sized bed
+
+This is a great spot if you’re interning in the area, taking summer classes at ASU, or just want a central place to stay in Phoenix!
+
+Feel free to DM me for further details or pictures.",1,1745555605.0,PHXList,0,1.0,False
+1k7cf33,https://www.reddit.com/r/UGCcreators/comments/1k7cf33/paid_collab_ugc_creators_who_love_coffee/,PAID Collab: UGC Creators Who Love Coffee + Caffeine-Fueled Routines ☕️ (US-Based),"Hey creators! We’re looking for 10 UGC creators in the U.S. who love coffee and rely on caffeine to fuel their work, workouts, studies, or nonstop days. Whether you're a student, busy parent, professional, or athlete—this is for you.
+
+We’re launching a new caffeine support product that brings the benefits of matcha to your coffee. What does that mean? Matcha is loved for its calm, steady energy thanks to naturally occurring L-theanine—an amino acid that smooths out caffeine’s edge. Our product delivers that same support—without changing the flavor of your drink.
+
+⚡️ Just add to hot or iced coffee, pre-workout, or any caffeinated beverage to experience:
+
+• 100mg L-theanine for calm, focused energy
+
+• Magnesium to support mood + recovery
+
+• B-vitamins for long-lasting energy
+
+• Prebiotic fiber for gut health
+
+It’s tasteless, fast-dissolving, and designed to help you stay sharp without the crash, jitters, or anxious spike. Our product was designed to be a complement to coffee—not alter or replace it. 
+
+✨ What we’re offering:
+
+• Free product shipped to you—no obligation to post. We believe the most compelling content is created by people that genuinely love a product or find personal value in it. We’re gifting product initially to learn if you find it’s a fit for your lifestyle, if so…👇
+
+• We’d love to explore a paid partnership with creators that are genuinely excited about our product.
+
+• Ideal for short-form content (TikTok, Reels, etc.)
+
+If this sounds like a match, drop a comment or DM with your social handle or UGC portfolio—and tell us how caffeine shows up in your day. We’d love to connect!
+
+",1,1745555573.0,UGCcreators,3,1.0,False
+1k7ceft,https://www.reddit.com/r/TalkTherapy/comments/1k7ceft/low_acid_organic_coffee_15_off/,"Low acid, Organic Coffee 15% off","Brand called Lifeboost its supposed to be low-acid, organic, and all that clean-living jazz I've been drinking it for a couple weeks now and honestly, its pretty decent. And flavors actually smooth AF not bitter or burnt so they had a code for 15% off Link : https://lifeboostcoffee.com/?ref=cpst661 Not a plug, just sharing the deal. Code: y22qsdjqsl",0,1745555504.0,TalkTherapy,1,0.33,False
+1k7cdsd,https://i.redd.it/rwh9o02mqwwe1.jpeg,parang may bago sa bike mo ah? - my chief financial officer (CFO),"wednesday: planned my day to take off work early and get the install done before the chief financial officer gets home. the above dreaded question did not come, nakatulong ang muted brandings at tinago ko pa sa likod ng storage cabinet at ibang bike sa garahe. so i made coffee, watched andor season 2 and wondered about the dark side. strong the force with this one is. 
+
+have a nice TGIF to everyone and be safe this weekend!",9,1745555442.0,RedditPHCyclingClub,0,1.0,False
+1k7cdcd,https://www.reddit.com/r/EssentialTremor/comments/1k7cdcd/paper_cups/,Paper cups,"Has anyone else given up entirely with paper cups? Holding cups has always been a problem for me and paper cups are just so light and flimsy that I almost always end up spilling them when I try to control my tremor. Some reason hot liquids are always the worst, last week at work I spilt 3 cups of coffee on myself in a single day. It's pretty upsetting for me. I know there isn't much I can do but I really just felt like sharing my shitty experience ",1,1745555402.0,EssentialTremor,0,1.0,False
+1k7cd31,https://www.reddit.com/r/marriott/comments/1k7cd31/st_regis_sanya_china_not_bad_but_missing_bonvoy/,"St. Regis Sanya China - Not bad, but missing Bonvoy treatment","Overall the stay was good, and we thoroughly enjoyed ourselves, but there were a few drawbacks and inconsistencies. Marriott BonVoy members should consider carefully.
+
+Note that we booked the room via the
+Marriott app and I found other online
+options to be lower cost by quite a
+bit!  When I called the hotel to ask why
+that was so they advised me that if you
+book via the other third party apps
+you don't get any night credit and you
+don't get any Marriott points. I felt it
+was a bit of a disservice to Marriott
+members to be honest.  Source: Trip.com, CTRIP.com here in China.
+
+We stayed at the Garden view Villa which was huge and had its own inground pool. The room itself was extremely clean and everything was functional and did not look dated. However, the layout was a bit odd
+since We had a king bed in one room along with a shower and bath, and the a completely separated living room which you had to access by walking outside and using the house key. It seems like it would be set up for two separate bedrooms but one is functioning as a living room and
+kitchenette.
+
+In the our villa outdoor pool area the jacuzzi was completely not functioning and there was no water at all. When we commented, they suggested that they can fill it for us if we wanted, but it just seemed like too much trouble and probable time waste.
+
+We were not offered welcome points and when I complained about it they simply didn't respond to my comment at all. When I asked about an upgrade as a titanium elite member they offered us a seaside villa for one night out of three, but we had to pay the additional cost which isn't really an upgrade at all.
+
+The room itself was not ready when we arrived even though I had checked in the day before using the Marriott app and selected a 2pm check-in. They compensated us with a free coffee and one cocktail at the beach bar. 
+
+When I summarize my complaint points in a WeChat message they then gave us a bit of additional attention over the next few days including providing one free bottle of champagne and a fruit platter which was sent to our room. I felt that the team members genuinely cared about providing us a nice experience but the resort itself was not as flexible.
+
+I have to give a special shout out to the staff from Malaysia who made an absolutely perfect Bloody Mary for me on Day 2. They didn't have any canned tomato juice but he sent to the kitchen and made it fresh for me with actual tomatoes.
+
+Speaking of which, the food quality was outstanding throughout and a particular highlight was the buffet breakfast at the Villa brunch location located seaside. 
+
+In terms of swimming facilities only one of the main outdoor pools was open, which was actually the one smaller pool with a view of the sea. The other main pool located closer to the villas is more intricately designed but it was not open. Not sure why, but I suppose during the lower season it's too cost prohibitive to run. 
+
+The Beach itself felt pleasantly isolated and the view was fantastic of the surrounding Bay area. There is a limited swimming area but it was sufficient. There were not many guests at the beach area and as a result the seating selection there is quite limited. Additional seating is available up the small stairs with still a nice view of the bay and the beach. 
+
+Note that the swim up bar at the main
+pool was not functioning and looked
+like it had been shut down for many a
+month. To be honest it cuts down on the fun factor for sure.  The escalators which help you to move up and down the multi-level floor at the main lobby were also shut down.  They were covered with cobwebs and had a look of general disuse for many months as well. The elevators function perfectly well however. There was a small petting zoo and cart track as well as a movie theater, but we didn't try any of them.
+
+Regarding price and value overall, we
+felt it was a bit overpriced, but still
+luxurious enough to warrant the spend.
+
+Some improvement points could be to open up the beach and poolside bars to allow people to enjoy cocktails earlier in the day. 
+
+Also, If the do not disturb sign is on the cleaning people should not come into the villa area to offer a short-term cleaning service. We were busy! ",2,1745555378.0,marriott,2,0.75,False
+1k7ccxz,https://www.reddit.com/r/PhR4Friends/comments/1k7ccxz/26f4m_happy_friday_people/,26[F4M] HAPPY FRIDAY PEOPLE,"Anyone  na wala magawa this weekend and nag papalipas ng oras tara lets entertain ourselves. We can stream movies or call or chika and rant magdamag. We can meet din if we vibe plus kung okay lang sayo yung taga south
+
+About me: working professional, likes photography, always g sa mga sponty coffee hopping, and from south.
+
+About you: kahit ano basta mabait ka i guess? Hahaha",3,1745555363.0,PhR4Friends,0,0.72,False
+1k7cbym,https://www.reddit.com/r/OffMyChestPH/comments/1k7cbym/walang_gana_birthday_edition/,Walang Gana: Birthday Edition.,"So yeah, 19 na ako today. Happy birthday daw sakin. Pero tbh, sobrang wala akong energy for any of this celebration crap. Ever since, I've always dreaded my birthday. Parang ang pointless?
+
+Ayoko talaga ng special treatment. Walang gifts, walang anything fancy. Nasanay na haha. Gusto ko lang sana na parang normal na araw lang to. You know, wake up, exist, maybe grab coffee somewhere quiet, scroll endlessly, then sleep. Ganun lang. Yung walang pressure, walang expectations. Just a day.
+
+Pero hindi eh. Si Mama, push nang push na lumabas kami kumain. Kahit ilang beses ko nang sinabi na ayoko. Gets ba niya na I genuinely don't want to celebrate me? Like, celebrating my existence feels weird and unnecessary. Sobrang ayoko ng focus sakin.
+
+Hay. Can this day just be over already? Yun lang naman. Gusto ko lang huminga without feeling like I owe anyone some fake birthday cheer.
+",1,1745555270.0,OffMyChestPH,4,1.0,False
+1k7cbia,https://i.redd.it/n5d2stgvrwwe1.png,A sip of calm in the middle of all this heat,"Summer hums loud,
+but in my hand—
+a quiet sip of calm.
+Cold coffee,
+a small rebellion
+against the heat.",0,1745555224.0,HydroHomies,4,0.1,False
+1k7cbc5,https://i.redd.it/8nm6k6qtrwwe1.jpeg,Any suggestions for YSL Black Opium Glitter that has more staying power?,"Just tried it in-store, bought a sample bottle to see how it mixes with my body chemistry, and I’m in LOVE. I know I love gourmands, but I’d never really smelled a perfume that immediately made me go “holy shit, this is *the one*!”
+
+Only problem is that it apparently doesn’t last very long on me. I put it on about 4 hours before having my boyfriend smell it on me, and he couldn’t smell it at all. I know 4 hours may be a long time for some, but I’m used to being able to smell perfumes on *myself* all day, with one cheap exception. 
+
+The notes that I think hit me the hardest and have the greatest impact, in order, are coffee, orange, marshmallow, and musk.
+
+I’m curious to see if anyone can recommend something that makes me fall in love, this sub has really great info!",4,1745555207.0,FemFragLab,2,0.83,False
+1k7cavk,https://www.reddit.com/r/ZinniaLearning/comments/1k7cavk/authentic_creation_program_mandy_morris_download/,Authentic Creation Program - Mandy Morris (Download),"Can you get ""Authentic Creation Program - Mandy Morris"" as a free download? Nope, but you can get it through a group-buy for a small fee. It's 100% legit. Just check it out.
+
+👉 [Authentic Creation Program - Mandy Morris (Download)](https://lunacourse.com/product/mandy-morris-authentic-creation-program/)
+
+* Only $22
+* Proof of Product included
+
+https://preview.redd.it/3rf80aegrwwe1.png?width=1688&format=png&auto=webp&s=944459a0a6ffa61fe09d0984b307238deb39101d
+
+https://preview.redd.it/ejd1zocjrwwe1.png?width=800&format=png&auto=webp&s=ab07cc76aadd539ecbbd0d35fc1bb38125cf7266
+
+**What Is the Authentic Creation Program – Mandy Morris All About?**  
+So, what’s this all about? The *Authentic Creation Program – Mandy Morris* is basically a 30-day course designed to help you rewire your thinking, shake off old patterns, and finally manifest the life you've been dreaming of. Think mindset work meets soul healing meets manifesting magic—but without the fluff. Mandy breaks it down week-by-week, and it’s all about becoming more *you*. And if you're wondering if it’s just another airy-fairy course, don’t worry—there’s structure, there’s intention, and yep, it’s surprisingly practical too.
+
+**Who Should Take This Course?**  
+This is for the soul-seekers. For the people who are *so over* feeling stuck, overwhelmed, or off-track. If you’ve tried manifesting through vision boards, affirmations, or scripting but nothing seems to click—this course is likely the missing link. Mandy’s style feels like that wise, funny, slightly mystical friend who somehow knows what you need to hear. Whether you're in a career funk, struggling with self-worth, or just feel *blah* about life, *Authentic Creation Program – Mandy Morris* was designed with *you* in mind.
+
+**Why This Program Actually Stands Out**  
+You know those courses where it feels like the creator just wants to become your guru? Yeah, this isn’t that. Mandy doesn’t want to be your spiritual babysitter—she teaches you how to find your truth and *own* it. What makes it really pop is her focus on *alignment*, *vibrational shifts*, and *subconscious work*—and she teaches it in a way that makes you go “ahhh, now I get it.” She’ll guide you through recognizing old patterns, tuning into your real frequency, and letting go of stuff that just doesn’t serve you anymore. Oh, and it’s not just talk—she gives actionable tools and exercises that help lock it all in.
+
+**When Do You See Results?**  
+People who’ve taken the program say they start noticing shifts *within days*. Mandy’s method isn’t about waiting for the universe to magically drop your dream life in your lap. It’s about tuning into the version of you that *already* has that life and acting from there. It’s honestly kind of empowering. The course runs for 30 days, but what you gain from it sticks. Some even go through it again because the breakthroughs keep deepening.
+
+**Where Does This All Happen?**  
+Everything is delivered online—super convenient. Daily video and audio lessons from Mandy guide you step-by-step. You can do it in your PJs, in your car (audio style), or while chilling in your favorite coffee shop. It’s self-paced, but Mandy really encourages doing something *every single day* to keep the momentum going.
+
+**How Does It Actually Help?**  
+The magic is in the inner shift. From learning how to *release guilt* and old trauma, to understanding how your *childhood programming* is still running your life, this course dives deep but gently. You’ll learn how to raise your vibration, break out of that stuck feeling, and literally *choose* a new reality. And it’s not just about thinking happy thoughts—it’s about aligning your energy, actions, and beliefs. Mandy calls it “living your truth,” and honestly, it’s a vibe.
+
+**Final Thoughts**  
+The *Authentic Creation Program – Mandy Morris* isn’t just another personal development course. It’s a blend of heart, science, and soul work wrapped up in 30 days of guidance. If you’re ready to stop being a passive player in your own life and start manifesting real results—with way less resistance—this might just be your game changer. No guru-worship, no fluff—just you, getting real with yourself and finally becoming a magnet for what you truly want.",1,1745555165.0,ZinniaLearning,1,1.0,False
+1k7ca5k,https://www.reddit.com/r/kootenays/comments/1k7ca5k/i_need_to_dance/,I need to dance,"Anyone know of any underground type rave events Goin on in the West K? 
+I've been here for 14 years and used to love the rave scene in Nelson and the Valley, the Coffee Creek party every year, plus when the space next to The Garage in Nelson used to have underground events. And house parties etc. 
+But since becoming a dad I've been out of the scene for too long. I don't know anyone any more and Nelson has changed so much. I just want to get my groove on to some DJ music somewhere and crash in my car like the good old days! I know this sort of thing isn't exactly public information, so feel free to dm me the details of your next underground party! 
+Or if there is a way to find out about these things besides ""being cool,"" or ""having friends,"" I'm all ears! 
+37/ married/girl dad/likes to dance/Castlegar. Help a brother out! Thanks! ",7,1745555096.0,kootenays,6,1.0,False
+1k7c9uo,https://www.reddit.com/r/MedicalAssistant/comments/1k7c9uo/quit_my_job_for_externship/,Quit my job for externship?,"Hi everyone, I just got accepted into an externship at a really prestigious hospital where MAs make $28 to $32 an hour. It’s full time for four weeks. Right now I’m a manager at a coffee shop making $23 an hour, but I’ve been part time while finishing my MA program.
+
+I’m thinking about quitting to focus on the externship. There’s no job guarantee afterwards and they can remove me for mistakes, but I feel confident. Others from my program haven’t been hired there, but I’m hoping things go differently for me.
+
+I have savings to get by for a few months and I’m not happy at my current job. Do you think I should quit?",2,1745555064.0,MedicalAssistant,1,1.0,False
+1k7c86z,https://www.reddit.com/r/Tacoma/comments/1k7c86z/emergency_services_for_a_minor_at_this_hour_in/,"Emergency services for a minor at this hour, in Tacoma","We met a 12 year old boy & he is saying his father has hurt him & he cannot go home. We’ve called coffee oasis, Tacoma shelter etc. no one knows what to do? ",46,1745554909.0,Tacoma,41,0.93,False
+1k7c5xe,https://www.reddit.com/r/tokyoirl/comments/1k7c5xe/29m_my_gw_starts_tonight_and_i_want_to_go_out/,29M my GW starts tonight and I want to go out. From Shizuoka but near Kanagawa/ Tokyo,"Anyone up for drinks(alchohol, coffee, or tea!) or casual chat hangouts
+
+just HMU!  
+and look at my profile(+18 btw) and decide if you are comfortable with that.",1,1745554692.0,tokyoirl,1,0.67,False
+1k7c5ww,https://www.reddit.com/r/friendship/comments/1k7c5ww/22m_coffee_fiend_car_addicted_shy_guy_looking_for/,(22M) coffee fiend car addicted shy guy looking for chat or friendship around my age (20 to 25) U.S,"Down to talk about cars,movies,music,life in general lol I always have long sentences to say even though I’m shy",2,1745554691.0,friendship,3,1.0,False
+1k7c5fk,https://i.redd.it/ixpzrmgl6twe1.jpeg,What my local coffee shop calls Matcha,,1,1745554645.0,u_Ambiguous-Pieces13,0,1.0,False
