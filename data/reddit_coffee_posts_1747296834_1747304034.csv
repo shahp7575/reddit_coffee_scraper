@@ -1,0 +1,2719 @@
+id,url,title,text,score,created_utc,subreddit,num_comments,upvote_ratio,over_18
+1kn4jaq,https://www.reddit.com/r/Indiemakeupandmore/comments/1kn4jaq/coffee_gourmand_fragrance_suggestions/,Coffee / gourmand fragrance suggestions?,"I am a male, and would appreciate any gourmand fragrance suggestions. I have been loving coffee scents.
+
+I'm not looking for anything too sweet. 
+
+Thank you!
+
+",1,1747303689.0,Indiemakeupandmore,0,1.0,False
+1kn4ipf,https://www.seattletimes.com/business/more-than-1000-starbucks-baristas-go-on-strike-to-protest-new-dress-code/,"More than 1,000 Starbucks baristas go on strike to protest new dress code","More than 1,000 Starbucks baristas at 75 U.S. stores have gone on strike since Sunday to protest a new company dress code, a union representing the coffee giant’s workers said Wednesday.
+
+Starbucks put new limits starting Monday on what its baristas can wear under their green aprons. The dress code requires employees at company-operated and licensed stores in the U.S. and Canada to wear a solid black shirt and khaki, black or blue denim bottoms.
+
+",5,1747303626.0,union,0,1.0,False
+1kn4imq,https://www.reddit.com/r/SideProject/comments/1kn4imq/ive_been_solo_building_a_dream_project_for_over/,"I've been solo building a dream project for over 100 weeks now, this is my journey & lessons so far","**TL;DR:** Spent over 100 weeks solo-building an AI project. Pivoted from an initial concept (trademark issue) to a refined vision. Faced partnership struggles & funding challenges while bootstrapping. Linked personal healing & growth to refining the project's core vision: becoming a ""Growth and Creation Engine"" to help users ""10X Your Life"". Sharing raw lessons learnt along the way.
+
+\---
+
+Hi! First of all, before diving into the good stuff, let me give you a little backstory and introduce myself quickly. Nice to meet you - I am Theo. I also go by the username VLRevolution.
+
+Since I mostly build solo, I like to think that Theo is the CEO while VLRevolution is the dev - a clear separation of concerns, a concept commonly used in software development to keep things simple and write good code as a result. On a solo unicorn journey, it helps to be able to operate in multiple modes: sometimes to look at things from the perspective of the CEO, to make sure we don't get lost on the way, yet the responsibility of the daily grind falls on the shoulders of the rebellious rockstar dev whose heart always fights for his vision to see the light of the day.
+
+I am a self studied full-stack developer, specializing in designing & building scalable real-time apps. I pride myself in my drive & talent for creating the best user experiences possible.
+
+>**Lesson #1:** UX is the king!
+
+For the past 100+ weeks I've been building a project that I consider a dream project and this is my story.
+
+**Why should you care:** I will share real valuable but mostly painful lessons.. It's like how 50 lays it down so poetically in ""Many Men"":
+
+    “Sunny days wouldn't be special if it wasn't for rain
+    Joy wouldn't feel so good if it wasn't for pain”
+
+Buckle up!
+
+**The Spark: An Idea Born of Change (Summer 2023)**
+
+Our journey begins about 6 months after ChatGPT went viral for the first time, at the beginning of the summer of 2023. As soon as ChatGPT exploded onto the scene I knew that my time had come: it was now or never - time was seemingly running out! I had that rare moment of inspiration that a revolution was on the verge of coming, but it took me another 6 months before I wrote the first lines of code towards what would eventually become my baby: UNI AI was born. I made the first commit on Jun 21, 2023.
+
+The world had suddenly changed. We now had computers that could think, even if imperfectly. It was clear they would only get better. For me, this was proof that the ""singularity,"" predicted by great thinkers from von Neumann to Kurzweil, was real and near.
+
+Personally, I believe that singularity is the moment each of us becomes superhuman by leveraging AI to transcend the limits of time, resources, and knowledge. I believe in the limitless potential within us all, and the project aims to provide the tools and ecosystem to help realize it.
+
+However, the project didn't start out being called UNI AI. Now inspired by this incredible new technology that everybody was so excited about and trying to learn and understand, I was trying to come up with a world changing idea that this new generation of AI models could power.
+
+I'm going to be fully honest with you in this post, no glazing, so that you know this is authentic and the lessons are therefore also raw and real: I was still a less than whole version of myself back then, struggling with some emotional wounds, still a victim of my vices.. So on one fateful evening, self-medicating with some herbs, my creative mind started racing and helped me to conjure up a vision for the next generation of computer apps, programs that mostly design and build themselves!
+
+That was the lightbulb moment: a universal library of next-gen apps, easily built with just willpower and thought. A future where ideas are currency. This vision remains core to the project - building a community-powered ecosystem where your unique knowledge, experiences, and skills are invaluable and could potentially be monetized down the line through a creator economy model.
+
+In a moment of inspiration, I named the project UNIAPP - the universal app, the last app you'd ever need. The tagline flowed naturally: ""UNIAPP - Dream, Design, Deliver.""
+
+**Navigating the Labyrinth: Early Hurdles & Lessons**
+
+In a rush of excitement, I started building a prototype to show a close friend and long-time business partner. Months flew by as I dove into the trenches. Naively, I thought a prototype would take just a few months. Big mistake! I was still relatively new to *app* development, despite being a senior full-stack developer.
+
+>**Lesson:** Don't underestimate app development vs. web development. It’s a different beast. Always budget extra time for research & skilling up. Use downtime from slow progress to study & test.
+
+The complexity was overwhelming. To speed things up, I leaned into automation.
+
+>**Lesson:** Automations combined with AI are truly game-changing, especially for solo builders. A series of simple scripts (Node.js/TypeScript worked for me) inputting & outputting prompts & data can go a very long way!
+
+By the end of summer 2023, I had a working prototype with over 2000 AI-generated ""chatlets"" (our term for these AI-powered apps). It was a dream realized, even if far from launch-ready. An app that built itself!
+
+**The UNIAPP Setback & Rebirth**
+
+Frustrated with the slow pace and feeling the pressure, I considered finding a co-founder to help raise capital. To pitch effectively, I needed to solidify the UNIAPP brand. That meant doing what I should have done on day one: checking for trademarks.
+
+Fatefully, UNIAPP was already registered by an education application company. My beloved brand shattered instantly. Letting go was painful; I'd already registered domains and poured my identity into the name.
+
+>**Lesson:** Check trademarks EARLY! And when setbacks hit, it's okay to feel down. Take time to grieve until you find the courage to pick yourself back up.
+
+As the saying goes, ""it is what it is."" When life didn't give me UNIAPP, I eventually pivoted to the current project name, which better reflects the mission: a universal AI platform.
+
+**The Human Element: Partnerships, Funding & Resilience**
+
+I offered my friend equal partnership: I'd build, he'd handle business and fundraising. This proved challenging. Lingering issues from a past venture, coupled with his doubts about the project's ambitious scope, created friction.
+
+>**Lesson:** Never partner with somebody who doubts the core vision. Passion can't be forced.
+
+The nail in the coffin might have been OpenAI launching the GPT Store in January 2024 - an idea seemingly identical to UNIAPP, making us feel obsolete.
+
+>**Lesson:** Never think your idea is unique. Assume competition exists or is coming. This builds confidence in your *own* execution and differentiation.
+
+As one partnership faded, another formed. The very first member of an online community I'd started years ago became a small, early investor, believing in the vision when others wavered.
+
+But bootstrapping remained incredibly difficult. Finding the time to build solo while sustaining myself felt like a constant battle.
+
+>**Lesson:** Bootstrapping requires resilience, frugality, and unwavering faith. Be prepared for the grind. Be frugal, pursue scrappiness, and don't lose faith. Your Dreams need you!
+
+I juggled part-time web development, freelance automation jobs, and even a full-time role for a few months, alongside taking loans from family. It’s the reality of building something from nothing.
+
+**Refining the Vision: The Growth and Creation Engine (Mid-2024 - End 2024)**
+
+Throughout 2024, I wrestled with the project's unique value proposition while steadily building foundational features. I knew staying private was crucial to uphold the community commitment - building an AI project where value flows back to the users who build it.
+
+Simultaneously, I was navigating personal challenges stemming from a failed relationship.
+
+>**Lesson:** Avoid falling in love with someone not cut out for the startup life if you're pursuing a demanding dream. The paths often conflict. Fall in love with your dreams first; honor your personal journey. I now consider myself married to my business.
+
+This period forced introspection. Starting in autumn 2024, I committed fiercely to my health - no compromises. It was time to heal.
+
+>**Lesson:** The easiest way to lose focus is to neglect your health out of spite for past events. Forget what happened; focus on what you can make happen *now*.
+
+My routine became rigorous: wake up, breathwork & meditation in the sun, mantras (self-love, gratitude, inner wealth), a 70-minute run (starting smaller and building up is key!), shower (finishing ice cold), simple breakfast, then deep work. An hour walk mid-day for brainstorming (my best ideas come then!), dinner, rest, more work, and finally, 1-1.5 hours of yoga (essential for preventing running injuries!). I even gave up coffee, finding more peace and better sleep without it (though I know that's polarizing!).
+
+>**Lesson:** A holistic health routine (mind & body) is non-negotiable for sustained high performance and clarity, especially when bootstrapping. Find practices that resonate and sustain *you*.
+
+This commitment brought clarity. I realized my earlier focus was flawed. I'd been trying to build an AI *better* than humans, potentially replacing us. Depressing, right?
+
+The real lightbulb moment: What if AI didn't replace us, but empowered us to become our best selves? An AI fighting alongside us, revealing our limitless potential? I felt empowered.
+
+This idea reignited my passion. The project's true identity emerged: **""The Growth and Creation Engine,""** helping users **""10X Your Life"".** The focus shifted to building Core Collections and \~80 premium chatlets centered on growth, mastery, creation, and transformation.
+
+**Building the Ecosystem: Lessons in Community & Value**
+
+A core challenge throughout this journey has been figuring out how to build not just a product, but a community. The vision required a system that could genuinely reward user engagement and support, making early believers feel like true stakeholders. Designing mechanisms for loyalty, gamification, and potentially sharing value back with users who contribute significantly is a complex balancing act, especially when bootstrapping. It involves thinking about long-term incentives, user motivation beyond the core product, and how to foster a sense of shared ownership. This commitment to community has deeply influenced the platform's architecture from the ground up.
+
+**Reflections on the 100-Week Mark**
+
+After 100 weeks, the project has evolved significantly from its initial concept. The technical challenges have been immense, but the pivots have been equally formative: trademark issues, partnership dynamics, and especially the personal journey of healing and finding clarity. Linking personal growth directly to the product's core mission became the defining moment. The focus is now sharply on creating a ""Growth and Creation Engine"" designed to help users achieve significant personal and professional breakthroughs, embodying the ""10X Your Life"" philosophy.
+
+Don't let AI replace your life. Let it help you 10X it.
+
+You deserve it all...
+
+I will finish this long post with some more poetry, this time from the boogeyman himself, Kendrick Lamar from ""man at the garden"":
+
+    “Twice emotional stability
+    Of sound body and tranquility, I deserve it all
+    Like minds and less enemies
+    Stock investments, more entities, I deserve it all
+    VVS', white diamonds, GNX with the seat back, reclinin'
+    Bitch, I deserve it all”
+
+Thanks for reading this far! This journey has been intense, filled with pivots and breakthroughs, both for the project and for myself. Sharing it openly feels like the right way to reflect on the process.
+
+**Anyone else faced similar challenges on their solo building journey? Let me know in the comments!**",2,1747303618.0,SideProject,1,1.0,False
+1kn4i9a,https://www.reddit.com/gallery/1kn4i9a,Full Tracklist with runtime and credits,,1,1747303579.0,helloween,0,1.0,False
+1kn4hq2,https://www.reddit.com/r/angelinvestors/comments/1kn4hq2/why_founders_should_focus_more_on_the_mistakes/,Why founders should focus more on the mistakes rather than the fear of failures,"Hii founders,
+
+I'm a founder myself, we're an Accelerator for early stage founders, we are hosting a virtual event on 20th may 7 30 pm IST,
+
+4 global speakers alll 4 are founders, with years of experience and exits, they've played the game.
+
+First 50 founder get free entry and then it's 5$ less than a good cold coffee(my fav )
+
+A chance to get direct entry in middle of our cohort
+
+A chance to pitch in front of 150 founder
+
+If you are an experienced founder there a small time kept aside to hear founders mistake.
+
+If this all sounds intresting to you, do DM I'd love to share the link.",1,1747303526.0,angelinvestors,0,1.0,False
+1kn4gtg,https://www.reddit.com/r/Costa/comments/1kn4gtg/this_is_a_coffee_shop_not_a_business_centre/,This is a coffee shop not a business centre !,"So please don’t throw a sulky fit when someone sits on the table next to you if you are going to have your little meeting with colleagues or your teams meetings.
+
+We love our business folk and appreciate the regular custom but but please try to be a grown up.
+
+",2,1747303427.0,Costa,0,1.0,False
+1kn4foz,https://www.reddit.com/r/brew/comments/1kn4foz/good_morning_brew_enthusiasts_join_todays_daily/,"Good morning, Brew Enthusiasts! Join today's Daily Brew Chat to share your coffee moments, ask questions, and discuss anything related to the world of coffee.","Good morning, Brew Enthusiasts!
+
+Welcome to today's Daily Brew Chat – your daily rendezvous with fellow coffee lovers. This thread is the perfect place to share those special moments from your daily coffee routine, be it a freshly brewed espresso at dawn, a latte art attempt, or a quiet cup of joe that sets your day right.
+
+🌟 **Today's Discussion Points**:
+
+* **Morning Rituals**: What's your go-to coffee preparation method in the morning? Do you stick to a favorite brew, or do you like to experiment?
+* **Ask the Community**: Have a brewing question or need a recommendation? This is the place to ask!
+* **Coffee Insights**: Share any interesting facts or experiences. Tried a new coffee shop? Found a rare bean? Let's hear about it!
+
+📸 **Photo Sharing**: We love to see your brews! Share photos of your coffee, setups, or brewing processes.
+
+🔍 **Learning Corner**: Share any tips, tricks, or advice you've learned about brewing a great cup. Newbies and veterans alike, let's learn together!
+
+Remember, whether you're a seasoned barista, a home brewing enthusiast, or just beginning your coffee journey, your contributions make this community vibrant and diverse. Let's keep our discussions respectful, supportive, and as warm as a freshly brewed pot of coffee.",1,1747303310.0,brew,0,1.0,False
+1kn4ffv,https://www.reddit.com/r/MeetNewPeopleHere/comments/1kn4ffv/25m_bi_emopunky_and_nerdy_gamer_looking_for_chill/,"[25/m] bi, emo/punk-y (and nerdy) gamer looking for chill open friends! <3","so, disclaimer right away: this post is marked nsfw bc i do like a little bit of... spice in the friendship, too! not like, anything serious - i just like being able to talk about absolutely anything that we want to, which may sometimes be a little nsfw or something! so if that's not your thing - i might not be your guy. :P
+
+so, a bit about me: i'm a writer, by hobby. big-time pc gamer. i love music, flowers, cats, coffee, history, and so so many more things. definitely a bit of a loser, and nerd, but i'm a package deal, so.
+
+physically, i'm 6'3. twink-y. long, messy brown hair. kinda emo-ish, if i'm being honest. and like the title says - quite hung!
+
+nsfw interest wise - i'm really into anything you are, probably! my interests are very, very flexible and open, so don't be shy about whatever it is! i've got plenty of niche and nerdy intrests, too, so i've got no room to judge, haha.
+
+(for example, i am madly in love w/ leon kennedy, like, woof. also, there's a few pet names (two in specific) that really set me off, but those are top secret! <3)
+
+hit me up if i sound interesting! try to come w/ a bit more than just ""hey"", though, pretty please! <3",1,1747303287.0,MeetNewPeopleHere,1,1.0,True
+1kn4evy,https://www.reddit.com/r/Coffee/comments/1kn4evy/mod_the_daily_question_thread/,[MOD] The Daily Question Thread," 
+
+Welcome to the daily [/r/Coffee](https://www.reddit.com/r/Coffee) question thread!
+
+There are no stupid questions here, ask a question and get an answer! We all have to start somewhere and sometimes it is hard to figure out just what you are doing right or doing wrong. Luckily, the [/r/Coffee](https://www.reddit.com/r/Coffee) community loves to help out.
+
+Do you have a question about how to use a specific piece of gear or what gear you should be buying? Want to know how much coffee you should use or how you should grind it? Not sure about how much water you should use or how hot it should be? Wondering about your coffee's shelf life?
+
+Don't forget to use the resources in our [wiki](http://www.reddit.com/r/Coffee/wiki)! We have some great starter guides on our [wiki ""Guides"" page](https://www.reddit.com/r/Coffee/wiki/guides) and [here is the wiki ""Gear By Price"" page](http://www.reddit.com/r/Coffee/wiki/gear#wiki_coffee_gear_suggestions) if you'd like to see coffee gear that [/r/Coffee](https://www.reddit.com/r/Coffee) members recommend.
+
+As always, be nice!",1,1747303239.0,Coffee,0,1.0,False
+1kn4elw,https://www.reddit.com/r/office/comments/1kn4elw/reco_for_coffee_vending_machines/,Reco for coffee vending machines,"Quick question for the group- what coffee vending machines do you have in your offices, and how’s the experience been so far? Looking to explore a few good options and would love your recommendations!",1,1747303209.0,office,0,1.0,False
+1kn4cm5,https://www.reddit.com/r/TrueOffMyChest/comments/1kn4cm5/ruined_a_laptop_i_worked_2_years_for/,Ruined a laptop I worked 2 years for,"So I'm 17, I've always been super interested in computers, just your average nerdy teenager, I think it might've started around when I was 12, but my parents weren't exactly well off and I'd only ever had a shitty second hand laptop that I've used for school
+
+Shitty, not just in the ""its a bad laptop way"" but in the ""Literally no one other than I am able to operate it"" way. Its shift, z, x, c, v keys were broken, fan didn't work, spacebar's stabilizer's were gone, touchpad worked sometimes and sometimes didn't, touchpad's mouse buttons also were flaps that ocassionally worked. Now I'm also partly to blame, although it was pretty bad when I got it, I did spill coffee on it one morning working. I did instantly drain and clean it, but it blew a circuit that fucked up the the keys and made them stop working.
+
+But, I overcame all challenges, I used an onscreen keyboard and used my touchpad to tap on my zxcv keys when I needed to type, and continued to work with that laptop, I freelanced a bit, worked with a friend, wrote a few steganography programs, helped a friend of mine automate his crypto trading, hell, even TRIED to build an ML model that would parse through all the chat data from a friend group to categorize us into archtypes (This didn't get too far because my laptop would crash everytime I opened up the json file for data management).
+
+So, I was being limited by my laptop, never got to game with my friends because it was ass, and there was no cooling since the fan blew. BUT I made money freelancing and I had put it in my mom's account, about $800 worth which is a LOT of money to me.
+
+About 2 months ago, I graduated high school, a few days ago, my results came out, I got a 97% overall grade, A\* in all 5 of my subjects, English, Math, Physics, Chemistry and Computer. The same day, I begged my mom to finally get me a new laptop, pooling in the money I've made, and some of the money from my mom, for $1250, I bought a lenovo legion 5 slim. (I told my mom I needed a good laptop to study ML on, didn't tell her I wanted to play games too, because she wouldn't like that 🙄)
+
+I was ECSTATIC, this thing ran like heaven, It was everything I'd ever wanted and I was going to treasure it and put it to good use for atleast 4 - 5 years, or so I wished
+
+I even bought an anti spill mug to drink coffee from so I wouldn't spill anything on it, today, I woke up, 2 days after I got my new laptop, still giddy turning it on and having a functioning keyboard, I made myself some creamy dalogna coffee, and I can't explain why, but I tested to see if it was hot my turning the mug over (it was a sealed top with a small hole) with my finger on the hole. My finger missed the hole and my mug pissed a stream of coffee 15 inches away onto my laptop's touchpad, MY HEART SUNK.
+
+I spent 2 hours holding my laptop vertically, shaking it, draining it, wiping the top with sanitizer, and the sides, I think I've drained the coffee? but I'm fairly certain there's some residue drying on the inside, I dunno if its going to be a problem anytime soon, but It will one day. I've genueinly been extremely downtrodden today, I felt like I'd achieved a milestone in life 2 days ago and now its sunk, I feel like everything I've ever worked toward has been taken from me. I just wanted to let these feelings out because I can't tell my parents, if I do, I'm probably going to be beheaded publicly or something 😭, won't hear the end of it for ages
+
+Thank you for reading this text block and indulging in my rant, ciao.",1,1747302983.0,TrueOffMyChest,1,1.0,False
+1kn4bl8,https://www.reddit.com/r/Cebu/comments/1kn4bl8/24_hrs_coffee_shop_in_cebu/,24 hrs coffee shop in cebu?,hey guys! pls tell me asa mga coffee shops here in cebu nga 24 hrs? mag study out ko gd dli ko ma motivate sa balay :(,1,1747302870.0,Cebu,5,1.0,False
+1kn4amb,https://www.reddit.com/r/atrioc/comments/1kn4amb/literal_brainrot/,Literal Brainrot,"I just took my math final exam but before i had been listening “stop assuming that i’ll be fine”, an absolute banger, but during the test the only thing going through my mind the entire time was: 
+“there was a post on r/atrioc, spoke of a cow that liked coffee a lot..” the entire time.
+
+i’m pretty sure i failed that exam. atrioc has finally completely rotted my brain",2,1747302765.0,atrioc,0,1.0,False
+1kn4acf,https://www.reddit.com/r/AmItheAsshole/comments/1kn4acf/aita_for_harbouring_a_grudge_against_my_sister_in/,AITA for harbouring a grudge against my sister in law because she has never asked ordered any grocery for me or has asked me if I need anything ever since I have moved into their home post marriage,"So ever since I got married and moved into my in law’s home, no one orders anything for me in the kitchen. It’s a tea household but everyone knows I don’t drink tea, i only drink coffee ( u am coffee fanatic actually and we have discussed this many times as well so it’s not that they are unaware plus my love for coffee is all over my socials) but no one orders my coffee while grocery shopping. Infact they used to have coffee in their home before I came in, now they don’t have coffee at all. I order my own. Also, no one discusses the menu w me (my sis in law will decide w the cook). Am I the asshole for holding this resentment against her? Haven’t acted on it, nor will I ever will but I just can’t get over it ",0,1747302733.0,AmItheAsshole,5,0.5,False
+1kn49kb,https://i.redd.it/1zjfhozu3x0f1.jpeg,Missing the sun and coffee 🌞,,1,1747302650.0,u_kirsty3113,0,1.0,False
+1kn48er,https://www.reddit.com/r/criminalminds/comments/1kn48er/hostage_why_did_i_watch_it_in_a_public_place/,Hostage: Why did I watch it in a public place?,"I’m doing a CM rewatch and went out to a coffee shop this morning. Decided to watch the next episode of the show which happened to be “Hostage.”
+
+Now, here I am with a snotty nose and wet eyes. Why did I do this to myself?! 😭
+
+Really great episode. ",2,1747302522.0,criminalminds,0,1.0,False
+1kn46g2,https://i.redd.it/i7pyj4zs2x0f1.jpeg,Just having a coffee,,3,1747302292.0,cuteguys,0,1.0,False
+1kn45wm,https://i.redd.it/mxqv6lsq1x0f1.png,"This was a fun, interesting and surprisingly accurate read! First up is Lyle 🐑 🌲 🌺","Lyles Chinese zodiac sign is… what else 
+
+A Sheep 😂  🐑 
+His sign is also referred to as goat 
+
+This is just for fun but when reading it, it’s amazingly accurate 
+
+Positives
+They are considered sympathetic, gentle, and long-suffering, almost to a fault. Their natural tendency toward the arts makes them particularly appreciative of beauty. Goats just love to be surrounded by pretty things that make them happy. Because of their gentle nature, they avoid confrontation at all costs—anything to keep their peaceful little worlds intact.
+
+Another essential aspect of the Goat sign is its charitable nature. Very often, because they can sense when others are in need, they will quietly assist without asking for anything in return. Their comforting presence produces a sense of calm, no matter where they are. This trait makes them good diplomats and good at talking people down from an angry state.
+
+Negatives
+While it is true that Goats love to be surrounded by beauty, Fire sheep are an extreme example. They spend money with abandon and lavish themselves with only the best things.
+Advice: Your arrogance can be your undoing. Take a hint from your fellow Goats, and learn to care more about others. If you do, taking care of the endless details you fret about will be much easier.
+
+Relationships
+Once you do get to know your Chinese Sheep, you will find that he or she is quite possibly one of the most approachable and affectionate people around. Getting to know them well takes time and patience, however.
+Goat men are homebodies; they love their partners, families, and homes. You won’t have to worry about them going out and painting the town. In fact, they are much more likely to be decorating the house. The Sheep men help provide for the family, they help around the house, and they help you get through a bad day. Excitement may not be their strong suit, but if you are ready to settle down, the Sheepman is your go-to guy.
+The sheep zodiac sign is old-fashioned romantics. They love the idea of love. Traditional Sheep dates are lengthy discussions over wine, coffee, or even just water suit them just fine. A Goat will want to get to know you before getting serious. It’s all a part of being careful with their gentle hearts.
+
+Sheep child
+These little ones need a great deal of affection and attention at all times, but most parents will find that they don’t mind because they are so endearing.
+Also, Sheep kids are overly sensitive to criticism, so teasing or strict discipline is not recommended. Parents are advised to guide their Goat children in decision making and not to force them to toughen up like other children. It isn’t in their best interest to make them be something they are not.
+
+Health
+The Chinese zodiac sign Sheep tend to be quite tranquil, which helps them stay healthy. To ensure the health, keep a regular schedule of meals, exercise, and sleep. Also, it is an excellent idea to escape the world of people and city life once in a while, even if it is just to sit in a park and enjoy the plants and animals. >>
+Greens space project!!!!
+",9,1747302230.0,MenendezBrothers,3,1.0,False
+1kn459z,https://www.reddit.com/r/LGBTEgypt/comments/1kn459z/coffee/,Coffee,"Wanna go out for coffee, up to? Cairo im vers",1,1747302160.0,LGBTEgypt,1,1.0,False
+1kn448p,https://www.reddit.com/r/offmychest/comments/1kn448p/i_watched_my_ex_fall_in_love_with_someone_else/,I watched my ex fall in love with someone else while I was still sleeping in his bed.,"I don’t even know where to start. We were together for four years. We lived together, shared groceries, had a shared Spotify playlist all the things that make it feel permanent, even when it’s not.
+
+The breakup wasn’t some dramatic blow-up. We had been drifting. He said he needed space. I said okay. But the lease wasn’t up, so we agreed to just. coexist for a while. Separate bedrooms, separate lives supposedly.
+
+But he kept inviting me to movie nights. Kept bringing me coffee on the weekends. He still called me babe by accident. I thought maybe it was just a phase. I thought maybe space would help and we’d find our way back.
+
+Then she started showing up. A new coworker. He swore nothing was going on. But I saw the way he looked at his phone when she texted. The way he shaved before work when he never used to. The way his face changed when he talked about her like he was waking up from something.
+
+And all the while, I was still in that apartment. Still folding my laundry next to his. Still cooking dinner alone while he stayed out late working. I don’t think I’ve ever felt smaller than I did in those months. Invisible in my own home.
+
+He finally told me they were dating. Said he didn’t want to lie. Said he thought I already knew. And yeah, I did. But it still broke me.
+
+I moved out last week. I’m crashing with a friend while I figure things out. I’m angry. I’m hurt. But mostly I’m just tired.
+
+It’s hard grieving someone who’s still alive, still in the world, still walking around with your favorite mug and your memories.
+
+I don’t want advice. I just needed to say this out loud.",3,1747302042.0,offmychest,4,0.71,False
+1kn441a,https://v.redd.it/4a205glx1x0f1,Clogged machine [Sage Barista Express],"The last couple of days, my 1 year old Sage Barista Express has been acting up. At first, the steam wand couldn’t quite get to the right oomph, then got better once I cleaned and descaled the machine, but now it does as the video shows. It’s like the steam builds up inside of the machine and then escapes through the group head when I hit the Cup buttons, but nothing but a little water comes out of either the steam wand or the other water thingy. How do I get in there and clean it, or does anyone have any tips for how to fix this? I need coffee, bro 😭",1,1747302015.0,espresso,4,1.0,False
+1kn43ro,https://www.reddit.com/r/sugarlifestyleforum/comments/1kn43ro/sa_now_requiring_weight/,SA now requiring weight...,"Gotta say, being told I *have* to input my weight first thing upon waking up wasn't my idea of a good morning. They already had the body type category, which is way more descriptive and accurate than just a number. 
+
+Women who are tall or muscular are gonna be filtered out, even accidentally, and I wonder how many men have no idea about the range of how much a healthy woman weighs. I can just imagine a sea of short, balding dudes with a paunch thinking to themselves, ""I'm 200 lbs, so 100 lbs for a hot woman sounds about right."" 
+
+I have left it unanswered for the time being cause at least let me have my coffee first before the new humiliation ritual. 
+
+What are other folks' reaction? ",4,1747301985.0,sugarlifestyleforum,10,0.83,False
+1kn43db,https://i.redd.it/obu1xkyq1x0f1.jpeg,Walnut & Coffee Cake🍰☕️,,16,1747301937.0,DessertPorn,0,1.0,False
+1kn42lr,https://i.redd.it/ue8cmuqh1x0f1.jpeg,Bird in my coffee this morning,,5,1747301851.0,Pareidolia,1,1.0,False
+1kn42cf,https://www.reddit.com/gallery/1kn42cf,"Got some eggs at the farmers market, I asked if they were fertile and they said “idk maybe”….indeed they were 😂","Threw some quail eggs in my incubator with my chicken eggs, today is day 20 so I thought maybe they were all duds (they were hard to candle)…they were NOT! I heard chirps as I was making coffee this morning haha I am so excited! Can I have them in the brooder with the baby chickens that may hatch or do they need to be separate?",8,1747301820.0,quails,2,1.0,False
+1kn41pb,https://www.reddit.com/r/VisitPortugalGuide/comments/1kn41pb/just_landed_in_lisbon_heres_what_to_do_in_your/,📍Just Landed in Lisbon? Here’s What to Do in Your First Hour (From a Local),"If you're arriving in Lisbon soon — or just got here — that first hour after landing can be a bit overwhelming: new country, no idea where to go, maybe tired after a flight.
+
+I live in Lisbon and work with travellers all the time, so I put together a quick guide that covers:
+
+✅ The best way to get from the airport to the city  
+✅ Where to get a SIM card (and avoid overpriced options)  
+✅ Where to grab cash safely  
+✅ What to do if your check-in isn’t ready yet  
+✅ A calm place to get coffee and breathe before you dive in
+
+Whether you’re solo, with friends or family, this gives you a soft landing so you start your Lisbon trip right.
+
+📖 You can read the full guide here:  
+👉 [https://mdfotografia.blog/just-landed-in-lisbon-heres-exactly-what-to-do-in-your-first-hour-stress-free-arrival-guide/](https://mdfotografia.blog/just-landed-in-lisbon-heres-exactly-what-to-do-in-your-first-hour-stress-free-arrival-guide/)
+
+Also — I run a **Portugal Travel Group on Facebook** where I help travellers with tips, hidden spots and planning advice (especially for Lisbon, Sintra, Cascais and the Algarve).  
+If that sounds helpful, feel free to join:  
+👉 [facebook.com/groups/2810123055854629](https://facebook.com/groups/2810123055854629)
+
+Happy travels — and feel free to ask anything below!",1,1747301739.0,VisitPortugalGuide,0,1.0,False
+1kn417q,https://www.reddit.com/r/offmychest/comments/1kn417q/ruined_the_laptop_i_worked_2_years_for/,Ruined the laptop I worked 2 years for,"So I'm 17, I've always been super interested in computers, just your average nerdy teenager, I think it might've started around when I was 12, but my parents weren't exactly well off and I'd only ever had a shitty second hand laptop that I've used for school
+
+  
+Shitty, not just in the ""its a bad laptop way"" but in the ""Literally no one other than I am able to operate it"" way. Its shift, z, x, c, v keys were broken, fan didn't work, spacebar's stabilizer's were gone, touchpad worked sometimes and sometimes didn't, touchpad's mouse buttons also were flaps that ocassionally worked. Now I'm also partly to blame, although it was pretty bad when I got it, I did spill coffee on it one morning working. I did instantly drain and clean it, but it blew a circuit that fucked up the the keys and made them stop working.
+
+  
+But, I overcame all challenges, I used an onscreen keyboard and used my touchpad to tap on my zxcv keys when I needed to type, and continued to work with that laptop, I freelanced a bit, worked with a friend, wrote a few steganography programs, helped a friend of mine automate his crypto trading, hell, even TRIED to build an ML model that would parse through all the chat data from a friend group to categorize us into archtypes (This didn't get too far because my laptop would crash everytime I opened up the json file for data management).
+
+  
+So, I was being limited by my laptop, never got to game with my friends because it was ass, and there was no cooling since the fan blew. BUT I made money freelancing and I had put it in my mom's account, about $800 worth which is a LOT  of money to me. 
+
+  
+About 2 months ago, I graduated high school, a few days ago, my results came out, I got a 97% overall grade, A\* in all 5 of my subjects, English, Math, Physics, Chemistry and Computer. The same day, I begged my mom to finally get me a new laptop, pooling in the money I've made, and some of the money from my mom, for $1250, I bought a lenovo legion 5 slim. (I told my mom I needed a good laptop to study ML on, didn't tell her I wanted to play games too, because she wouldn't like that 🙄)
+
+I was ECSTATIC, this thing ran like heaven, It was everything I'd ever wanted and I was going to treasure it and put it to good use for atleast 4 - 5 years, or so I wished
+
+I even bought an anti spill mug to drink coffee from so I wouldn't spill anything on it, today, I woke up, 2 days after I got my new laptop, still giddy turning it on and having a functioning keyboard, I made myself some creamy dalogna coffee, and I can't explain why, but I tested to see if it was hot my turning the mug over (it was a sealed top with a small hole) with my finger on the hole. My finger missed the hole and my mug pissed a stream of coffee 15 inches away onto my laptop's touchpad, MY HEART SUNK.
+
+  
+I spent 2 hours holding my laptop vertically, shaking it, draining it, wiping the top with sanitizer, and the sides, I think I've drained the coffee? but I'm fairly certain there's some residue drying on the inside, I dunno if its going to be a problem anytime soon, but It will one day. I've genueinly been extremely downtrodden today, I felt like I'd achieved a milestone in life 2 days ago and now its sunk, I feel like everything I've ever worked toward has been taken from me. I just wanted to let these feelings out because I can't tell my parents, if I do, I'm probably going to be beheaded publicly or something 😭, won't hear the end of it for ages
+
+  
+Thank you for reading this text block and indulging in my rant, ciao.",1,1747301684.0,offmychest,0,1.0,False
+1kn40uw,https://www.nytimes.com/2025/05/14/us/hawaii-kona-coffee-workers-immigrants-ice.html?smid=nytcore-android-share,The Trump crackdown has reached the volcanic Island of Hawaii,The price of Kona Coffee will go up,9,1747301640.0,BigIsland,1,1.0,False
+1kn40ei,https://www.reddit.com/r/cheating_stories/comments/1kn40ei/cheating_on_my_girlfriend_feels_so_good_24_m/,Cheating on my girlfriend feels so good 24 M,"Alright, I’m just gonna lay it all out there—I’ve been cheating on my girlfriend, and honestly? I’m kinda loving it. Been with her for a year and a half, and she’s sweet, sure, but I’m out here living my best life. I’ve got this whole double game going, and I’m playing it like a pro.  
+It started on Reddit, of all places. I was just messing around in some random subs, dropping comments, when I slid into some DMs. Next thing I know, I’m chatting up multiple people—flirty, spicy convos that keep me glued to my phone. These Redditors are wild, and I’m eating it up. I’ve got one who sends me poetry, another who’s all about late-night deep talks, and let’s just say I’m not short on attention. I’m juggling these online flings like a circus act, and my girlfriend has no clue. I’m texting them right under her nose, smirking while she’s watching her shows.  
+Then there’s the real-world action. There’s this barista at my usual coffee spot—total vibe, always giving me that look. We hooked up a couple times after her shift, and I’m not even sorry. Why settle for one when I can have it all? I’m charming, I’m smooth, and I’m pulling it off without a hitch. Girlfriend thinks I’m the perfect guy, and I’m not about to ruin that illusion.  
+I know some of you are gonna clutch your pearls, but I’m thriving. This is my game, and I’m winning. Anyone else out there playing the field like this? Drop your stories—I wanna hear how you keep it all spinning
+",0,1747301583.0,cheating_stories,1,0.2,False
+1kn4065,https://www.reddit.com/r/Frugal/comments/1kn4065/my_lifes_frugal_and_cheap_confessions/,My Life's Frugal and Cheap Confessions.,"I'm 58 and i have always been driven by value.
+I just cannot stand being taken advantage of. I refuse to buy a soda at a restaurant. 3 or four bucks, are you outta your mind. Water has always been my choice. I always buy better brand used over new. I detest going to Starbucks or even using the Kerieg. I make a half pot of coffee for the day. If I needed to buy work clothes(suits and ties) I would always show the clearance rack or wait for the end of the year sale. I will drive 5 extra miles to save 10 cents a gallon  of gas. I buy meat from the almost expired meat, then bring it home to freeze. I won't buy a new car, always cpo or service demos. I'm gonna leave this here and write more later.",20,1747301558.0,Frugal,4,0.83,False
+1kn405o,https://www.reddit.com/gallery/1kn405o,[Hyprland] My first rice (still kinda scuffed),It kinda works and I'm definitely going to keep improving it but for now I'm satisfied ,4,1747301556.0,unixporn,5,0.7,False
+1kn3ytm,https://www.reddit.com/gallery/1kn3ytm,[WTS] SELLING MOSIAC COFFEE TABLE,"Selling this mosiac coffee table from Marina furnitures, excellent condition
+
+Price - 500DHS",1,1747301401.0,dubaiclassifieds,0,0.99,False
+1kn3yp3,https://v.redd.it/ux3ld42hzw0f1,AI Agents: just another trend… or the coworker of the future? 🤖✨,"Sure, they don’t drink coffee or join Zoom calls on mute,  
+but they do handle outreach, follow-ups, research, HR and more — without ever asking for a vacation.  
+  
+Are they replacing humans? Nah.  
+They’re just making business tasks faster, smarter, and way less painful.  
+  
+Trend? Maybe.  
+ Revolution? Definitely feels like it.  
+  
+👇 In what area of your business, would you bring AI Assistant into?  
+  
+  
+\#AIAgents #BusinessAutomation #FutureOfWork #AITools #ProductivityHacks #TechTrends #LeadGenAI #DigitalTransformation #SmartWork #WorkSmarter",1,1747301386.0,u_Rainex-io,0,1.0,False
+1kn3y9d,https://www.reddit.com/r/u_bizbenteam/comments/1kn3y9d/how_to_buy_a_gas_station_in_california_a_complete/,How to Buy a Gas Station in California: A Complete Guide for Entrepreneurs and Investors,"Gas stations remain one of the most in-demand and profitable small business types in California. With multiple revenue streams—fuel sales, convenience store products, car washes, and more—gas stations offer strong cash flow, consistent demand, and growth potential. This guide walks you through everything you need to know about how to buy a [**gas station business**](https://www.bizben.com/business-for-sale/gas-stations-for-sale-type-california-ca.php) in California, using expert tips and listings from BizBen.com and its dedicated California gas station listings.
+
+# Why Invest in a Gas Station Business?
+
+* **Essential Service:** Fuel is a daily need, creating constant demand.
+* **Multiple Income Streams:** Gas, convenience store sales, snacks, lottery, car wash, and more.
+* **Cash Flow Focused:** Generate revenue seven days a week.
+* **Real Estate Upside:** Many gas stations include property, adding long-term value.
+
+**Types of Gas Stations for Sale in California**
+
+On BizBen’s platform, you’ll find:
+
+1. **Branded Stations (e.g., Shell, Chevron, 76):** Offer national brand recognition, but come with franchise contracts and fuel supply agreements.
+2. **Unbranded Stations:** Typically have better margins and greater pricing flexibility.
+3. **With Convenience Stores:** Higher foot traffic and greater total transaction value.
+4. **With Car Wash or QSR (Quick-Service Restaurants):** Add-on revenue with minimal overhead.
+5. **Real Estate Included:** Valuable for long-term appreciation and equity building.
+
+**Step-by-Step: How to Buy a Gas Station in California**
+
+# Step 1: Define Your Investment Criteria
+
+* Target cities or counties
+* Your budget (including working capital and fuel reserves)
+* Level of operational involvement
+* Real estate vs. lease-only options
+
+# Step 2: Search Verified Listings on BizBen
+
+Use [**BizBen.com**](https://www.bizben.com/) to:
+
+* Browse active gas station businesses for sale
+* Filter by location, brand, cash flow, or real estate
+* Connect with experienced brokers or sellers directly
+
+# Key Evaluation Factors
+
+# Financial Performance
+
+* Monthly gallon sales (gasoline/diesel)
+* Inside sales (convenience store)
+* Credit card fees and franchise royalties
+* Net operating income (NOI) and fuel margin trends
+
+# Fuel Supply & Brand Agreements
+
+* Branded stations often have fuel minimums and long-term contracts
+* Unbranded stations give more freedom in pricing and sourcing
+
+# Lease or Real Estate Terms
+
+* Review lease duration, escalations, and renewal options
+* If real estate is included, inspect zoning and environmental reports
+
+# Equipment & Operations
+
+* Condition of pumps, tanks, POS systems, and car wash equipment
+* UST (underground storage tank) compliance and testing history
+* Staffing requirements and current labor costs
+
+# Due Diligence Checklist
+
+* 3+ years of tax returns and P&L statements
+* Utility bills and fuel purchase invoices
+* Tank testing and environmental compliance records
+* Franchise or brand agreements
+* Licenses, permits, and inspection records
+
+# Financing Options for Buying a Gas Station
+
+* [**SBA Loans**](https://www.bizben.com/sba-lender.php)**:** Often available when purchasing a station with good books
+* **Seller Financing:** May be possible, especially with motivated sellers
+* **Private Lenders:** For buyers with industry experience or alternative collateral
+
+# Trends in California’s Gas Station Industry
+
+* **EV Charging Integration:** Some stations are adding electric vehicle charging ports
+* **Eco-Friendly Upgrades:** Solar panels, LED lighting, and green car wash systems
+* **Tech-Enhanced Operations:** Automated pumps, inventory systems, and remote management tools
+* **Cross-Selling Growth:** Foodservice, coffee, and branded convenience items driving profitability
+
+# Why Use BizBen to Buy a Gas Station?
+
+* **Verified Listings:** Updated daily for accuracy and legitimacy
+* **Broker Access:** Connect with top California gas station specialists
+* **Search Filters:** Sort by brand, cash flow, region, and price
+* **Buyer Tools:** Valuation guides, financing resources, and deal support
+
+# Final Thoughts
+
+Buying a gas station in California can be a powerful investment—combining daily cash flow with long-term asset value. With the right due diligence, financial planning, and support from BizBen, you can make an informed, confident purchase.",1,1747301331.0,u_bizbenteam,0,1.0,False
+1kn3wvm,https://www.reddit.com/r/nespresso/comments/1kn3wvm/as_a_barista_what_machine_should_i_get/,"As a barista, what machine should I get?","Hi all! 
+I have worked as a barista for 2 years now so I have constant access to free *Good Quality* coffee 5/6 days a week all day. I am leaving next Friday to pursue a career and now I need my coffee at home!!
+I’m not afraid to shill out extra money for almost the same quality. 
+My favourite drink is a flat white for reference.
+
+What machine would give me the closest to a coffee shop experience?
+",0,1747301155.0,nespresso,2,0.33,False
+1kn3wnl,https://i.redd.it/z8l3m6k6zw0f1.jpeg,chakula legit,"treat food like medicine so you won’t need medicine as food.1 hack i use is make sure my plate/snack is colourful, eat foods of varying colors & shades,try various combos & opt for nutrient dense superfoods like eggs & guac. eat like a farmer,spending more doesn’t always mean healthier.avoid supermarkets
+avoid stress.your immune will thank you chakula legit is possible even on budget ",1,1747301132.0,Kenya,5,1.0,False
+1kn3w9u,https://i.redd.it/bpfrqem7zw0f1.png,Men of San Diego who have had girlfriends - What's it like? Is it worth it?,"So, I'm a 30M who has never had a girlfriend before. Grew up in the SD area, and whenever I talk about this with people they usually say things like ""you'll find someone don't worry. It will happen when you least expect it.""
+
+And yeah, I guess I haven't really been expecting it for the past 30 years....so there's that.
+
+Usually women just shoot me the ""Look, I  only date guys 6ft and over"" type of message here in San Diego. And hey, to each their own, but I just can't help but wonder -
+
+What's it actually like to have a GF? What's it like to be intimate with someone? And, is it really worth it?
+
+I feel like I've been putting in a lot of effort on dating apps and in person, but I've never been told yes before (also I'm still a virgin).
+
+It's one of those things that's on my bucket list you could say - just going to the beach with a woman, maybe grab a cup of coffee and get to know each other.
+
+But, is that a pipe dream? What do yall think? Has anyone here on this website actually had a girlfriend before? What's the verdict on whether or not it's worth pursuing?
+
+
+",0,1747301083.0,sandiego,3,0.13,False
+1kn3vbm,https://www.reddit.com/r/PhR4Friends/comments/1kn3vbm/28_m4f_hang_out_this_weekend/,28 [M4F] Hang out this weekend,"Anyone free this coming Saturday? If you’re around QC, Makati or Pasay let’s meet. Nothing too fancy, just something fun and chill. Maybe grabbing coffee, checking out a cool event, or just exploring the city?
+
+About you:
+Normal BMI / slim
+Easy on the eyes
+Yapper
+From big 4 is a + (but not required)
+Not a free loader
+
+About me:
+6ft tall
+Former athlete
+From big 4 🐯
+May car so hindi problem ang transpo/ commute
+
+",3,1747300968.0,PhR4Friends,0,0.8,False
+1kn3v3z,https://www.reddit.com/r/sleep/comments/1kn3v3z/anyone_face_the_same_issues_feeling_tired_all_day/,Anyone face the same issues? Feeling tired all day and requireing multiple naps despite decent sleep? Please HELP this tired soul,"I have been trying to get into a consistent schedule. Trying for a 9 30 - 5 routine. I have never been a night person and always used to wake up at 6 or earlier to do my homeworks and stuff or prepare for exmas in school days.
+
+However I have come across a new issue. Actually I think I faced this a year ago afaik and it got okay soon  but I think this time it's just not getting better. 
+
+What happens is I wake up at 5 fine. Just your usual bit of awake but a bit sleepy still state. I will pray in this time, then drink water, do some light exercise and then start studying . But just an hour after I just cannot go on and I feel this  "" Crash "". I start yawning a lot and soon my brain does not function anymore. If I tried to give a push up my arms would just become noodles and fall off. Like as if all my energy just gets drained. And I become very sleepy. But here is the twist. Then I hit the bed and I have no sleep. I cannot fall asleep nor can I get up. It's a weird energy less state. It feels like my brain has gotten slow. Not the usual feel when you go to bed. It's very different. 
+
+This 'nap' or whatever goes for an hour and eventually I just force myself up. I don't know if this rest even did anything for me or not. And interestingly even if I driink coffee within an hour of waking up, it doesn't work at all. 
+
+Now this sleepiness also occurs again at 11 AM. Usually after I have had my breakfast. And the same feeling of tiredness. 
+
+I usually drink coffee this time and I am pretty much a regular coffee person.   
+Anyways and in the afternoon I need another nap. 
+
+What's interesting is I get tired in the evening, after having my dinner. Like then it feels like I am ready to fall asleep so I have been getting into bed at 9 30 so far but it just doesn't work!
+
+
+
+Now some things I do: 
+
+I go outside in the morning to get in the sun or if it is cloudy then at least stay in the bright lights for 10 minutes in the morning. I drink some water, do some little stretches and some low intesity exercises, bits of plank, some pushups.   
+Been doing one breathing exxercise as well. 
+
+This just doesn't work! I have been taking Magnesium supplements when I got to sleep, taking a bit of honey as well. Sometimes some milk as well. I don't know. My diet is not bad. I don't think I miss out on any key nutrients. Now I heard it could be anemia that is causing this so am currently taking an iron and zinc supplement for 3 days and so far I see no progress. 
+
+I realised that I don't exercise as much as I used to. I used to play football and now do nothing anymore. So I am getting back to exercising again. Lifting dumbbells and some basic squats, abs exercise, pushups etc. 
+
+I haven't exercised that long yet but even so I feel like I should be getting some results by now but I feel like I am at a staleate. 
+
+I don't even know what to do now. I am gonna try a few more things now. I haven't gone to the doctor yet as I still want to see if getting even more consistent sleep will help or not. I haven't taken multivitamin supplements yet. Might try those.
+
+If you have any advices on this, that will be greatly appreciated. 
+
+",1,1747300942.0,sleep,0,1.0,False
+1kn3usu,https://www.reddit.com/r/Cebu/comments/1kn3usu/i_need_help_to_decide_between_two_jobs/,I need help to decide between two jobs,"Job A (current)
+Good pay
+WFH and nightshift
+
+Cons:
+No benefits since direct to client
+No 13th month
+No more room to grow
+
+PS: Practically speaking it pays the bills
+
+Job B: (new offer)
+Good benefits
+2 weeks paid christmas break
+HMO and gov contributions
+Dayshift and fixed weekends off
+Free bfast and coffee at the office
+
+Cons:
+Not wfh 
+Pay is significantly lower than my current pay
+
+Do I choose practicality or the chance for more opportunity and benefits like HMO etc
+",1,1747300904.0,Cebu,0,1.0,False
+1kn3tjo,https://i.redd.it/4n3qypc7yw0f1.jpeg,Challa coffee 🏃🏻‍♂️,,5,1747300746.0,MaaOoriVanta,0,1.0,False
+1kn3tin,https://i.redd.it/65movt37yw0f1.png,Ace Attorney and Crush Crush - The Witness,,2,1747300742.0,AceAttorneyCirclejerk,1,1.0,False
+1kn3t3h,https://www.reddit.com/r/berkeley/comments/1kn3t3h/if_youre_moving_out_my_flat_is_interested_in/,"If you're moving out, my flat is interested in furniture!","Hi, for anyone moving out and living on southside, my roommates and I would be interested in furniture. 
+
+Types of things we're currently looking for:
+
+\- King/Queen sized Matrass  
+\- Used Coffee Machine (IMPORTANT :)
+
+\- Max 4m lenght sofa
+
+\- Cooking pots/pans/Airfryer (Only in good condition) 
+
+\- Table & 3 Chairs
+
+\- Non-dirty mats
+
+If you wanna get rid of anything, send me a DM, we'll chat there.",1,1747300695.0,berkeley,0,1.0,False
+1kn3sx0,https://i.redd.it/pco6wxqzxw0f1.jpeg,Aaj maine piya Cold coffee,,12,1747300674.0,Aajmainekhaya,4,0.93,False
+1kn3sqo,https://www.reddit.com/r/VyvanseADHD/comments/1kn3sqo/making_me_too_sleepy/,Making me too sleepy?!!,"Gone up a dose on Elvanse/Vyvanse from 30mg to 50mg... they send me to sleep... this is weird... I took one this morning then fell back asleep for 3.5 hours... on the 30's I felt too 'wired' to sleep... the 50's are stronger but mellow me out?!?! I feel too sleepy to do coursework now, I'll drink coffee and see if that makes a difference.",1,1747300653.0,VyvanseADHD,0,1.0,False
+1kn3slv,https://i.redd.it/ysawkqqvxw0f1.jpeg,Cold Coffee with Vanilla Icecream,,4,1747300638.0,IndianFoodPhotos,1,1.0,False
+1kn3riy,https://www.reddit.com/r/Medium/comments/1kn3riy/engagement_pods/,Engagement pods,"Recently I came across a publication and then also some accounts which upload ridiculous content, some of them are just copy pasting their textbooks it seems, randomly telling about types of money, types of coffees. Not to forget all their articles seem AI generated, even the images they use. 
+
+YET, their posts have thousands of claps, hundreds of comments, mostly just saying good article, nice read, thank you for sharing etc. 
+
+It seems like these guys are running a cartel, wherein they've created a community and everyone just keeps clapping and commenting for each other.
+
+I wrote a satirical post on this whole issue, give it a read if you feel like.
+Thanks and regards
+
+https://medium.com/@ctrlzlife/the-cult-of-the-infinite-clap-5a2fec6f9334",1,1747300510.0,Medium,2,1.0,False
+1kn3r58,https://www.reddit.com/r/chrome_extensions/comments/1kn3r58/discover_redditfinder_a_chrome_extension_for/,Discover RedditFinder – A Chrome Extension for Seamless Reddit Searching! 🔍,"Hey everyone! 👋 If you’re a fan of Reddit and use Chrome, you might want to check out my new extension, **RedditFinder**. It lets you search Reddit posts quickly, save your favorite ones, and view comments directly without leaving the page! Plus, it’s got dark mode support for those late-night browsing sessions 🌙.
+
+Here are some cool features:
+
+* **Quick Reddit Search** 🔍: Easily find posts using sorting options like relevance, hot, top, new, and most comments.
+* **Save Posts for Later** 💾: Bookmark posts you love and view them whenever you like.
+* **View Comments Directly** 💬: No need to open separate pages, you can see comments directly in the extension.
+* **Dark Mode** 🌙: Perfect for comfortable browsing at night.
+* **Copy Post Links** 🔗: Easily copy post URLs to share or save for later.
+
+Let me know what you think, and if you have any feedback or suggestions! Would love to hear from you. 🙌
+
+If you find it helpful, feel free to support the developer with a coffee ☕ through the extension.
+
+# [Reddit Finder](https://chromewebstore.google.com/detail/fmijdclgcohiiphicefanfgldmckeemc) ",1,1747300464.0,chrome_extensions,0,1.0,False
+1kn3qdy,https://www.reddit.com/r/roadtrip/comments/1kn3qdy/rest_area_and_stops_for_a_la_to_denver_and_back/,Rest area and stops for a LA to Denver and back road trip,"Hi!
+
+I'll be going on a road trip from LA to Denver for 6 days to check out the city and celebrate my bday. I have good experience in long road trips and last year when I drove from LA to Seattle and LA to Yellowstone. I drive in my own pace, always take caution and don't force it when I'm feeling tired. I already did my due diligence on checking number of hours drive, weather forecast and monitoring road/highway closures for this trip. I know flying is cheaper but I prefer the long drives with views plus good coffee and music/podcast.
+
+I want to ask for people who already did this drive, where do you usually stop to eat, rest or fill up gas?
+
+Here's my current plan:
+
+LA to Denver:
+
+Leave really early Take the 15 freeway to 70 freeway and spend rest of the night at Green River UT then continue the next morning all the way to Denver CO.
+
+Denver to LA: (read some advice from old post here)
+
+Leave early 70 freeway then take 24 freeway then spend the night at Torrey UT. Continue all the way to Bryce Canyon then take 12 then 89 to Zion all the way back to LA via 15.
+
+Thanks!
+
+Have a great day ahead!
+
+https://preview.redd.it/31242j9txw0f1.png?width=1940&format=png&auto=webp&s=26cdd01c953460f3d40d19c33f0211b43fa57529
+
+",1,1747300370.0,roadtrip,0,1.0,False
+1kn3q1g,https://www.reddit.com/r/MakeNewFriendsHere/comments/1kn3q1g/30m_ukonline_on_the_search_for_my_clingychatty/,30/M - UK/Online - On the search for my clingy/chatty bestie,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ello ello, I'm Lewis, 30M and from the UK.
+
+I'll try and keep it short and sweet. Unlike me, I'm your typical tall skinny white guy.
+
+I'm on the search for a new bestie to join me on this journey called life. Someone to share the day with, build a connection, have some fun, live love laugh toaster bath. I'm interested in investing in something long term with someone who we can be out silly selves.
+
+I've come out of a long term relationship a while back and kind of missing that close connection with someone. I'm not looking for anything romantic, but I am looking for someone who wants a deeply connected friendship.
+
+This isn't for everyone but ideally I'm looking for someone kind of clingy. Someone who wants to talk all day, checks their phone for messages from each other, doesn't care about stuff like double messaging or spamming the hell out of each other. Someone to get excited to check your phone for.
+
+I'm like an onion. Peel back the layers to find out what's underneath. Try not to cry while you do it. I like my humour how I like my coffee, dark.
+
+Some stuff about me so you know I'm not a blank slate ready to get smashed to death by the hammer of life:
+
+- Recently started the gym. About time I started taking better care of myself. I need someone to hold me accountable!
+- When I leave the house I like to cycle, hike explore and occasionally socialise with the unlucky sods I call friends.
+- Heavy metal fan - You'll sometimes find me ar a concert/gig with the above mentioned friends. Bloodstock 2025!
+- I play games. Currently playing POE2 but was obsessed with Satisfsctory the past two months. You'll usually find me AFKing on OSRS.
+- I've been creating an android game for the past year or so in my spare time. Programming is hard at times but very rewarding. 
+- I also have a 5 year old daughter with my ex. Would be great to connect with other parents.
+
+What I'm looking for in you:
+- Age 21-40 - Not opposed to people outside this range but Ideally I'm looking for people around my age
+- We don't need 100% compatibility on hobbies/likes, just show interest.
+- Timezones don't matter. I work a crazy schedule
+- Wanting to be supportive of each other and push each other
+- Can hold a conversation and willing to put the effort in.
+- Silly/chaotic vibes preferred
+
+Accepting applications via DM. Photos preferred but not required.",1,1747300325.0,MakeNewFriendsHere,1,1.0,False
+1kn3pln,https://www.reddit.com/r/smallbusiness/comments/1kn3pln/from_local_cafe_to_loyal_community_how_small/,From Local Cafe to Loyal Community: How Small Coffee Brands Can Win Big in 2025,"I've Spent 7+ Years Helping Cafes and Coffee Brands Grow — Here's Everything I Learned About Building a Coffee Business in 2025 (And a New Resource You’ll Love )
+
+
+Over the past 7 years, I've worked with 100+ cafes, D2C coffee brands, and independent roasters to grow their businesses online — from sleepy corner cafes to national coffee chains.
+
+In this journey, I spotted a HUGE gap:
+🔎 There’s no single place where the BEST coffee roasters, sellers, and deals come together for real coffee lovers.
+
+So — after a year of working behind the scenes, we’re launching India’s First Aggregated Coffee Marketplace:
+
+☕ Access to top-tier indie roasters and hidden gem cafes
+
+🎯 Exclusive deals for real coffee enthusiasts
+
+🎁 Early-bird free giveaways, launch event prizes, and lucky draws
+
+**But more importantly — here's a no-fluff, 7-Point Checklist I use to help cafes double their online orders (posting here for free because I wish someone told me this earlier!)**👇
+
+Your menu must be Instagrammable — real, raw, aesthetic
+
+Invest 10x more into your loyalty programs than ads
+
+Storytelling > selling (people want to know who’s behind the beans)
+
+Collaborate with local artists/musicians = instant organic buzz
+
+70% of customers make decisions based on how your website/ordering page loads in 3 seconds.
+
+Reviews. Reviews. Reviews. (Screenshot them, repurpose them, live by them.)
+
+Your first 100 customers should feel like VIPs.
+
+We're doing a launch event with tons of prizes — if you're passionate about coffee (or just want the best roasts at crazy prices) come hang with us here [The Brew Gang - Insta Link/Website] 🎉
+
+Happy to answer any questions about running a coffee biz, marketing, or getting your dream brand off the ground. AMA below!",0,1747300271.0,smallbusiness,1,0.5,False
+1kn3p8n,https://www.reddit.com/r/pourover/comments/1kn3p8n/switch_x_mugen_swap_for_plastic_v60_cone/,Switch X Mugen - Swap for plastic v60 cone?,"Hi! I'm looking at getting a Switch X Mugen - [https://www.hario.co.uk/collections/hario-v60-coffee-drippers/products/hario-v60-mugen-x-switch-coffee-dripper](https://www.hario.co.uk/collections/hario-v60-coffee-drippers/products/hario-v60-mugen-x-switch-coffee-dripper)
+
+I know it's possible to remove the cone and replace with a glass v60, has anyone seen/know if it's possible to replace with a plastic v60? Glass is not really an option as want for travel and can't be doing with the thermal management side. Cheers!",2,1747300230.0,pourover,3,1.0,False
+1kn3ol2,https://i.redd.it/dcaqdgnfww0f1.jpeg,ΕΞΑΓΟΥΜΕ ΠΟΛΙΤΙΣΜΟ 🦅🔥,,8,1747300150.0,greececirclejerk,2,1.0,False
+1kn3oj3,https://i.redd.it/3jgn4cyeww0f1.jpeg,Is this the maid costume Nic way talking about tge costume mishap,In the interview for Big mood Nic said that her powder baby blue costume was ruined because she har accidently spilled coffee on it and hence the costume mishap...I was wondering if this is the one💙,7,1747300143.0,PolinBridgerton,1,1.0,False
+1kn3oe2,https://www.reddit.com/r/Colognes/comments/1kn3oe2/coffe_chocolate_frag_that_fits_summer/,"coffe, chocolate frag that fits summer","I'm looking for a fragrance with coffee and chocolate base notes. any recommendations that aren't too heavy to wear daily? 
+
+thanks",1,1747300125.0,Colognes,2,1.0,False
+1kn3ocm,https://www.reddit.com/gallery/1kn3ocm,Veronica’s mumbai worth the hype🧐⁉️,"Had the-
+Oh shrimp po’ boy (3.5/5)
+Truffle fries (4/5)
+Jamun kombucha (2/5)
+Veronica’s cold coffee (4/5) 
+
+Did it live up to the hype? Sure the vibes were there 
+Was the food mind blowing? Not really 😭 but the food was good 
+
+But i would love to go back and try other stuff from the menu 🙂‍↕️‼️
+",6,1747300120.0,IndianFoodPhotos,2,1.0,False
+1kn3ni2,https://www.reddit.com/r/interiorvibes/comments/1kn3ni2/15_best_living_room_color_schemes_designers_swear/,15 Best Living Room Color Schemes Designers Swear By,"# 15 Best Living Room Color Schemes with Interior Designers in Bhubaneswar
+
+# Introduction to Color Schemes in Living Rooms
+
+Color schemes play a pivotal role in the design of living rooms, influencing both the aesthetic appeal and the emotional atmosphere of a space. [**Interior designers in Bhubaneswar**](https://www.home2decor.com/interior-designers-in-bhubaneswar/) emphasize the significance of selecting a well-coordinated color palette to create a cohesive look that reflects individual style and enhances comfort. The colors chosen for a living room have the power to affect mood, perceived space, and overall ambience.
+
+When contemplating color choices, it is essential to understand that different hues evoke different feelings. For instance, warm tones such as reds and oranges can evoke a sense of warmth and energy, making a room feel inviting for gatherings. Conversely, cooler tones like blues and greens can contribute to a calm and serene environment, ideal for relaxation after a long day. The psychology of color is a key consideration for the best interior designers in Bhubaneswar, who curate palettes that cater to the desired emotional impact of the living space.
+
+Moreover, the perception of space is heavily influenced by color. Lighter colors can make a room appear more expansive, while darker shades can add coziness, but may also make a small room feel constricted. Designers often utilize this knowledge when developing their color schemes, ensuring that each room achieves the desired spatial effect. Consequently, understanding how color interacts with light can penetrate the design of a living room, transforming a mundane area into a visually engaging environment.
+
+In conclusion, a thoughtfully chosen color scheme not only enhances the aesthetics of a living room but also shapes the overall experience within that space. By consulting with top 10 interior designers in Bhubaneswar and considering their expert insights, homeowners can establish an appealing color palette that elevates their living areas to new heights of sophistication and comfort.
+
+# Understanding Color Theory Basics
+
+https://preview.redd.it/v4nwjoenvw0f1.jpg?width=2187&format=pjpg&auto=webp&s=ddc90f2aa228b6df1009e525ca0c0cb4b2f2fe60
+
+Color theory is a fundamental aspect of design that plays a vital role in shaping the aesthetic appeal of any space, particularly in living rooms. At its core, color theory comprises primary, secondary, and tertiary colors, which form the foundation for all color combinations used by interior designers in Bhubaneswar. Primary colors—red, blue, and yellow—cannot be created by mixing other hues. By combining these colors, one can produce secondary colors, such as green, orange, and purple. Furthermore, mixing a primary color with a secondary color yields tertiary colors like red-orange or blue-green, expanding the palette available to designers.
+
+Understanding the color wheel is essential for creating visually striking designs. The color wheel organizes colors in a circular format, showcasing their relationships. Complimentary colors, located directly opposite each other on the wheel, offer a high contrast pairing that can energize a room. For a more harmonious appearance, designers often opt for analogous colors—those that sit side by side on the wheel—creating a soothing and cohesive vibe. This basic knowledge allows both professional and novice interior designers in Bhubaneswar to select the right combinations that encourage functionality and beauty in living spaces.
+
+Color harmony is another crucial concept, essential for achieving balance in any design scheme. It involves selecting colors that work well together, enhancing the overall aesthetic without overwhelming the senses. Utilizing color theory effectively can elevate a living room from merely functional to truly inviting. By understanding and applying these color concepts, individuals can make informed choices, whether they aim to create a luxurious ambiance or a contemporary feel, paving the way for exceptional interior design that reflects personal style like the work of the best interior designers in Bhubaneswar.
+
+# Neutral Tones: Timeless Choices for Any Style
+
+https://preview.redd.it/e8f0qkpovw0f1.jpg?width=2187&format=pjpg&auto=webp&s=7fdab408d1a1f57fa7019692a79fcb16a8f6f3d6
+
+Neutral colors, including whites, beiges, grays, and browns, serve as a quintessential choice for living room color schemes, offering a versatile backdrop that complements a multitude of design styles. These hues create a serene environment that can enhance the aesthetic appeal of any space. When considering a living room design, utilizing neutral tones not only introduces an element of sophistication but also provides a canvas that allows for creative expression through various accents, furniture choices, and decorative elements.
+
+One of the primary advantages of neutral colors is their timeless quality. Unlike trendy colors that may go out of style, shades such as soft white and muted beige have an enduring appeal, ensuring that the living room remains inviting for years to come. They can seamlessly blend with modern, traditional, or eclectic interior designs, allowing homeowners to showcase their unique tastes without the fear of obsolescence. The [**best interior designers in Bhubaneswar**](https://www.home2decor.com/interior-designers-in-bhubaneswar/) often recommend these shades due to their adaptability and ability to create a calming ambiance.
+
+Furthermore, using neutral tones in a living room enables the introduction of vibrant colors through furniture and decor, which can be easily changed with evolving tastes or seasonal trends. This versatility not only maximizes the potential of limited spaces but also brings out the best features in furnishings and artwork. In Bhubaneswar, many luxury interior designers favor neutral palettes, knowing that these colors allow for high-impact statement pieces that capture attention and enhance the overall decor.
+
+In essence, the integration of neutral colors into living room design is a strategic choice that is frequently endorsed by top 10 interior designers in Bhubaneswar. These tones create an elegant, breathable space capable of adapting to various styles, ensuring that a living room feels both fresh and classic over time. As such, incorporating neutral colors is an intelligent investment in any home's design journey.
+
+# Bold and Vibrant: Making a Statement
+
+https://preview.redd.it/lyt4bzupvw0f1.jpg?width=2187&format=pjpg&auto=webp&s=d58254d60512e0d10d7c19c2cd104b3e3ef576d4
+
+In contemporary interior design, the use of bold and vibrant colors has become an essential aspect for creating striking living spaces. Designers often turn to deep blues, rich greens, and striking reds to evoke emotions and portray unique personalities within a room. When effectively executed, these dynamic color choices can transform an ordinary living room into a captivating environment, ensuring that it becomes a true reflection of the homeowner's style.
+
+One effective way to utilize vibrant colors is by selecting a primary hue for a feature wall. For instance, a deep blue accent wall can serve as a stunning backdrop for minimalist furniture, adding a sense of depth and sophistication. By incorporating complementary hues through accessories and artwork, you create a harmonious balance that prevents the bold colors from overwhelming the space. This technique is highly recommended by the top interior designers in Bhubaneswar when curating a cohesive design theme.
+
+Furthermore, the strategic placement of vibrant colors in specific areas can guide emotional responses. A rich green, for example, symbolizes tranquility and rejuvenation. When used in a living room, it can foster a sense of calm and promote relaxation. Luxury interior designers in Bhubaneswar often emphasize the psychological effects of color choices, understanding that the right shades can significantly influence the ambiance.
+
+It is also important not to overlook the role of lighting when working with bold colors. Natural light can enhance the richness of deep hues, while dim lighting may soften their appearance. The best interior designers in Bhubaneswar recommend considering various lighting options, including layering ambient, task, and accent lighting to boost the room's vibrancy. Integrating statements of color and personality into your living room creates a lively atmosphere that resonates with the inhabitants, establishing a unique, personalized space.
+
+# Pastel Palettes: Soft and Inviting Environments
+
+https://preview.redd.it/llip397rvw0f1.jpg?width=2187&format=pjpg&auto=webp&s=49f0d8c3b60a7971037a3fafa966cf8a36cad828
+
+Pastel colors have emerged as essential components in contemporary interior design, particularly in living room settings. These soft hues, including delicate pinks, soothing lavenders, gentle mint greens, and airy baby blues, evoke a sense of calmness and serenity. The use of pastel palettes is particularly popular among those seeking to create inviting and relaxing environments, reflecting a broader trend embraced by top interior designers in Bhubaneswar.
+
+The subtlety of pastel colors allows them to blend harmoniously with various design elements, making them a preferred choice for many homeowners. When used in living rooms, these shades can transform an ordinary space into a tranquil retreat. For instance, a pale pink accent wall can serve as a stunning backdrop for creams and whites, while lavender cushions on a neutral sofa create a cozy yet sophisticated atmosphere. By incorporating these pastels into their designs, the best interior designers in Bhubaneswar craft spaces that resonate with their clients' desires for comfort and elegance.
+
+Furthermore, pairing pastels with bolder accents can elevate the design to new heights. For example, introducing vibrant coral or deep navy accents can create a balanced dynamic, allowing pastels to shine without being overshadowed. This technique is favored by luxury interior designers in Bhubaneswar, who understand the importance of contrast in maintaining visual interest while fostering a soothing ambiance.
+
+Ultimately, pastel palettes serve as versatile tools in the hands of skilled interior designers. They not only set a calming environment but also offer flexibility, easily adapting to various styles and preferences. As one explores living room design options, exploring the possibilities of pastel colors can lead to wonderfully inviting spaces that are a testament to thoughtful design. The integration of such palettes is consistently praised among the [**top 10 interior designers in Bhubaneswar**](https://www.home2decor.com/interior-designers-in-bhubaneswar/), showcasing their effectiveness in creating beautiful living areas.
+
+# Earthy Tones: Bringing Nature Indoors
+
+https://preview.redd.it/2hv1yugsvw0f1.jpg?width=2187&format=pjpg&auto=webp&s=a07570dd85e795159b40c13423deeee5f3540f72
+
+Earthy tones have gained immense popularity in the realm of interior design, particularly among the best interior designers in Bhubaneswar. These colors, which include terracotta, olive greens, and warm browns, evoke a sense of grounding and connection to nature, effectively transforming living spaces into tranquil havens. The use of earthy color schemes can recreate the soothing ambiance of the outdoors, encouraging comfort and relaxation within the home.
+
+Terracotta, with its rich and muted palette, can serve as a striking focal point in a living room, particularly when paired with natural textures like wood and stone. For example, terracotta accents can be beautifully complemented by earthy furnishings such as a reclaimed wood coffee table or wicker armchairs, creating a harmonious balance that reflects the beauty of the environment. Furthermore, olive greens bring a refreshing vitality to spaces while maintaining a muted and calming presence, making them ideal for accent walls or decorative pieces.
+
+To successfully incorporate these colors into your living room, consider utilizing a mix of materials and textures that resonate with the natural world. For instance, adding knitted textiles, leather cushions, or cotton throws can enhance the warmth and coziness brought forth by the earthy color scheme. Additionally, incorporating houseplants will not only enliven the space but also reinforce the connection to nature that these colors represent. As luxury interior designers in Bhubaneswar utilize, combining various shades of browns and greens can create depth while maintaining the overall warmth of the area.
+
+In selecting furniture and accessories, prioritize natural finishes and organic forms that harmonize with the earthy palette. For those looking to elevate their living room with a nature-inspired atmosphere, implementing these techniques is essential for achieving a beautiful yet inviting residence, reminiscent of serene outdoor landscapes.
+
+# Monochromatic Schemes: Sleek and Sophisticated
+
+https://preview.redd.it/3umd3d3uvw0f1.jpg?width=2187&format=pjpg&auto=webp&s=f99c28322d435bf4198b9effc596912774f16c8c
+
+Monochromatic color schemes involve the use of varying shades, tones, and tints of a single color to create a harmonious yet dynamic space. This approach is especially popular among interior designers in Bhubaneswar and is frequently recommended by the best interior designers in Bhubaneswar for its ability to evoke a sense of serenity and sophistication. By utilizing a single color palette, homeowners can effectively curate a cohesive look that exhibits depth and character without overwhelming visual stimulation.
+
+Incorporating different shades of a specific color allows for a multilayered approach to design. For instance, selecting a deep navy blue as the base can be complemented with lighter blues, creating a gradient effect that draws the eye around the room. This method not only enhances the aesthetic appeal but also helps to define spaces within the living room, making it feel more intimate and inviting. Accent pieces such as cushions or vases in varying tones can further elevate the visual experience while keeping the design cohesive.
+
+Textures play an important role as well; integrating materials like velvet, linen, and wood can add dimension to a monochromatic scheme. For example, a combination of matte and glossy finishes can produce stark contrast that enhances the overall look while staying true to the color theme. Luxury interior designers in Bhubaneswar often favor this technique to create elegant settings that resonate with modern sensibilities while respecting traditional motifs.
+
+Moreover, lighting must be considered when employing a monochromatic palette. Natural and artificial lighting can change the perception of colors throughout the day, which can significantly impact the ambiance of the living room. Thoughtful placement of lighting fixtures can highlight the intricacies of a monochromatic scheme, thus maximizing its aesthetic potential. By carefully selecting shades and textures, homeowners can master the art of monochromatic color schemes with guidance from the top 10 interior designers in Bhubaneswar.
+
+# Contrasting Colors: Adding Visual Interest
+
+https://preview.redd.it/oyijf1vvvw0f1.jpg?width=2187&format=pjpg&auto=webp&s=52ad4281446fa7e23e45f329731a5ce33fc7efe8
+
+In interior design, contrasting colors play a significant role in establishing visual interest, particularly in living rooms where the goal is often to create a dynamic atmosphere. Interior designers in Bhubaneswar often emphasize the importance of color contrast to not only enhance aesthetic appeal but also to influence how space is perceived by occupants and visitors alike. Properly balanced high-contrast combinations can create a striking focal point without overwhelming the overall design.
+
+When employing contrasting colors, it is essential to understand the color wheel and choose shades that complement each other, rather than clash. For instance, pairing a rich navy blue with a soft coral adds depth and vibrancy while balancing warm and cool tones. This technique can be particularly effective in smaller spaces, where visual interest can prevent the area from feeling mundane or flat. The best interior designers in Bhubaneswar often suggest using a 60-30-10 rule to maintain balance; 60% of the room could feature a neutral base, 30% could be dedicated to a primary accent color, and the remaining 10% reserved for the bold contrast.
+
+Moreover, light plays a critical role in how contrasting colors appear. For example, bright white walls accentuating dark furniture can make a striking statement, while earthy tones paired with deeper shades can create warmth and coziness. It is vital to experiment with different combinations and consider the natural lighting of the living room when making decisions. [**Luxury interior designers in Bhubaneswar**](https://www.home2decor.com/interior-designers-in-bhubaneswar/) often utilize this principle to create spaces that have both elegance and comfort. By carefully choosing contrasting colors, one can evoke emotions and set unique moods, making any living room feel distinctively personalized, which is a hallmark of the top 10 interior designers in Bhubaneswar.
+
+# Inspiration from the Experts: Designers’ Favorite Color Combos
+
+https://preview.redd.it/em0jqduxvw0f1.jpg?width=2187&format=pjpg&auto=webp&s=c8054df75f046f2e7d0a42f1f3f8624098222d9d
+
+The synergy of color in interior design plays a pivotal role in creating spaces that not only appeal to aesthetics but also evoke emotions. Numerous interior designers in Bhubaneswar share their preference for particular color combinations as they can dramatically transform a living room. For instance, one prominent designer advocates for an interplay of muted greens and soft pinks, arguing that these hues bring a sense of serenity while also providing warmth. This combination is particularly favored for spaces that prioritize relaxation and comfort, making it ideal for a living room environment.
+
+Another respected figure among the best interior designers in Bhubaneswar suggests leveraging a palette featuring deep navy blue juxtaposed with gold accents. This mix not only enhances a room's sophistication but also introduces a luxurious ambiance that resonated with clients seeking an opulent touch. Designers often emphasize the importance of balance in their selections; hence, incorporating neutral hues alongside bolder tones can achieve a harmonious aesthetic.
+
+Moreover, a recent trend among top 10 interior designers in Bhubaneswar is the use of earth tones, such as rich browns and warm terracotta shades. These natural colors reflect a connection to the outdoors, resonating well with homeowners looking to create inviting spaces. Adding accents of brighter colors, such as turquoise or mustard yellow, can invigorate the space without overpowering the foundational palette.
+
+Luxury interior designers in Bhubaneswar further recommend specific combinations that enhance light and space. Light pastels combined with crisp whites can make a room feel more expansive while introducing a soft allure. As such, color choices should be thoughtfully executed, guided by the preferences of the homeowners while ensuring that the selected tones complement each other effectively.
+
+In conclusion, insights from experienced designers highlight that the key to selecting the right colors drastically hinges on personal style, desired ambiance, and the specific function of the space. By considering expert recommendations and proven color combinations, homeowners can craft stunning interiors that truly reflect their vision.
+
+# Conclusion: Finding Your Perfect Color Scheme
+
+When it comes to designing your living space, selecting the right color scheme can be a pivotal aspect of creating an environment that resonates with your personal style. Each color has a unique emotional impact, and how these colors interplay within your living room can significantly influence the overall ambiance. To ensure that you select a color palette that not only complements the space but also aligns with your lifestyle, it is essential to engage deeply with the design process.
+
+To begin this journey, reflect on the mood you wish to cultivate in your living room. Do you prefer a space that feels warm and inviting? Or perhaps you are drawn to a more modern and sophisticated look? Researching trends from interior designers in Bhubaneswar can provide invaluable insights. Look to the best interior designers in Bhubaneswar for inspiration—many incorporate unique color schemes based on current design principles and personal styles.
+
+Once you have a clearer vision of the desired atmosphere, start by testing various color samples within your home. Purchase small paint cans or color swatches so you can observe how they look in different lighting conditions at various times of the day. This practical approach is often employed by top 10 interior designers in Bhubaneswar, allowing them to visualize how colors work in a specific space before committing to a full-scale application.
+
+*Additionally, consider incorporating textures and patterns that complement your chosen hues. Engaging with luxury interior designers in Bhubaneswar can also provide you with tailored advice on how to harmonize your color scheme with the rest of your decor. Remember, your living room is an extension of your personality, and the ideal color palette should resonate with your lifestyle and preferences, providing a tranquil and aesthetically pleasing retreat.*",1,1747300012.0,interiorvibes,0,1.0,False
+1kn3mu2,https://www.reddit.com/r/BeardTalk/comments/1kn3mu2/found_coffee_grounds_in_my_beard_oil/,Found Coffee Grounds in My Beard Oil?,"My father gave me some beard oil from a new local company. One of their coffee-scented beard oils contained coffee grounds when I used it. Is this normal, and is it safe to have coffee grounds in my beard?",3,1747299929.0,BeardTalk,1,1.0,False
+1kn3m1g,https://i.redd.it/393ah3givw0f1.jpeg,Am i doin this right?,How do you make coffee for two?,6,1747299840.0,AeroPress,6,1.0,False
+1kn3l2g,https://www.reddit.com/r/AmIBeingTooSensitive/comments/1kn3l2g/classmate_having_daily_rides_in_my_car/,Classmate having daily rides in my car,"So, I have a doubt about being too sensitive in this situation. I am doing my masters and taking night classes, I work full time and then go to class, then home to parent my toddlers, so maybe my exhaustion is having something to do with this feeling.
+
+
+Early in the semester, I was talking to classmates and one happens to live in the town right next to mine, we take classes in the capital city, and our towns are like 30 minute drive or 1 hour by train. I have a car and drive to my town after class, so I offered to give her a ride to the entrance of her town, she can walk or take the bus from there and it’s “like 5-10 minutes to her house” she said. 
+
+
+Well now that the semester is almost over, almost every time I drive her, she just sits there in the passenger seat, looking at her phone or sending voice messages, she barely talks to me, I feel like an uber. Then one of my friends talked to her about something else and found out she has a car but chooses not to take it to class because I take her home. 
+
+
+I feel like I’m being taken advantage of, I have given other people rides and they were always so nice chatting to me and some even thanked me bringing me a coffee the next day. 
+
+
+My partner says I should just tell her I cannot drive her anymore, but I avoid confrontation, and feel uncomfortable with this option and then see her at class everyday and driving away. So, am I being too sensitive? Is this like normal? I don’t know if this is relevant but she’s like 24 and I’m 35.",3,1747299730.0,AmIBeingTooSensitive,1,1.0,False
+1kn3kbz,https://www.reddit.com/r/sheffield/comments/1kn3kbz/quiet_place_for_work/,Quiet place for work,"Hi all; I’m not from Sheffield but I’m meeting someone I’m mentoring tomorrow to take her through some work.
+We need somewhere quiet to sit and read aloud and discuss what we are reading so I can make sure she’s understanding it.
+Does anyone know of somewhere relatively quiet we could go and sit for about 6 hours? 
+Either a coffee shop with a quiet upstairs or something or perhaps a library, but would I then have to be a member? 
+Not sure how it works.
+Appreciate any suggestions. ",2,1747299652.0,sheffield,6,1.0,False
+1kn3jts,https://www.reddit.com/r/indiehackers/comments/1kn3jts/show_ih_just_launched_our_waitlist_for_clearmvp/,[SHOW IH] Just launched our waitlist for ClearMVP 360 - Your AI co-founder that actually delivers results,"Hey fellow entrepreneurs!
+
+After months of late nights and countless coffee runs, we're finally ready to share what we've been building at ClearMVP. We've created what we believe is the ultimate AI co-founder for non-technical founders - ClearMVP 360.
+
+**Why we built this:** We kept seeing brilliant ideas die because founders got stuck in development hell or ran out of runway before getting to market. Sound familiar?
+
+ClearMVP 360 combines four powerful tools in one platform:
+
+* **Page Rush**: Converts your design mockups directly into clean, production-ready code without manual coding. Build responsive pages that work across all devices instantly
+* **Blog Rush**: Creates comprehensive, SEO-optimized blog content up to 5,000 words with proper structure and keywords - no more staring at blank pages
+* **Social Rush**: Generates platform-specific social content that maintains your brand voice while maximizing engagement across LinkedIn, Twitter, Facebook, and Instagram
+* **AI Co-Founder**: Strategic guidance and implementation support to help identify the right AI solutions for your specific business challenges
+
+Our early tests show these tools can reduce development time by up to 68% and cut costs by 50% compared to traditional methods, while maintaining quality that actually impresses investors (94% of our clients have successfully secured funding)
+
+**We're looking for our first batch of founders to join the waitlist.** We'll be onboarding users in small groups to ensure everyone gets proper support.
+
+Would love to hear your thoughts and answer any questions! Drop a comment or sign up for the waitlist - link in comments.
+
+Link: [https://clearmvp.com/waitlist](https://clearmvp.com/waitlist)",1,1747299606.0,indiehackers,0,1.0,False
+1kn3jkh,https://www.reddit.com/r/u_Mark2080/comments/1kn3jkh/how_i_finally_beat_my_awful_hemorrhoids_after/,How I Finally Beat My Awful Hemorrhoids After Years of Hell,"I’m just a regular guy who dealt with hemorrhoids for way too long, and I finally got rid of them. This sub helped me a ton, so I wanna share my story in case it helps anyone else. Fair warning, it’s kinda gross, but if you’re here, you probably get it. I’m not a doctor or anything, just someone who’s been through the wringer. Would love to hear what’s worked for you guys too!
+
+So, my hemorrhoids started in my 20s, probably from sitting at my desk job all day and pushing too hard when I pooped. I had both internal and external ones, and the external ones got as big as freaking soybeans, all swollen and gross. I also had these painful cracks around my butt—fissures, I guess. Every time I went to the bathroom, there’d be blood, like bright red streaks on my poop or in the toilet. Total nightmare. Showers were the worst; water hitting that area stung like crazy, like someone was stabbing me. At night, the itching drove me insane. I’d try not to scratch, but I’d cave, and it’d just get itchier. I was going through underwear like crazy—had to toss a few pairs a month because of stains, which made me feel so disgusting.
+
+The absolute worst was that spicy food and coffee, my two favorite things, made it all flare up. One bite of hot wings or a latte, and my butt was on fire, like actual burning pain. I had to cut them out, which sucked because I’m a total spice junkie. On top of that, I was so embarrassed. I couldn’t tell anyone, not even my best friends. I felt like a weirdo, hiding this secret that was ruining my life.
+
+I tried a bunch of stuff that didn’t do much. Those over-the-counter creams you get at the drugstore? They’d help for a day, then stop working, and my skin got all irritated. I kept hoping it’d just go away, but ignoring it made the lumps bigger and the cracks worse. My diet was trash—lots of fast food, barely any water—so my poop was hard, which made me strain more and bleed like crazy. And when I was constipated, I’d still try to go, which was a huge mistake. More pain, more blood.
+
+I was honestly scared I’d need surgery after reading some of the recovery stories here. But after a lot of messing around, I figured out what worked. It took a few months, but my hemorrhoids are gone now, and they haven’t come back. First, I changed my diet big time. I started eating a ton of fiber—stuff like oats, apples, broccoli, lentils, probably 25-30g a day. Drank like 2-3 liters of water too, which made my poop soft so I barely had to push. I stayed away from spicy food and coffee for a while, which sucked but helped calm things down. 
+
+I also fixed my bathroom habits. No more straining or sitting on the toilet forever. I keep it under 5 minutes. I stopped sitting so much too—set a timer at work to stand up every hour, and I walk for 20 minutes a day, which helps keep things moving. Oh, and I tried some herbal cream, not a fancy brand or anything, but it helped with the swelling and pain after 2 days or so. 
+
+Sticking with all this was the key, even when I started feeling better. I went to a doctor too, just to make sure it was only hemorrhoids and not something scarier, which was a huge relief. Now I’m totally symptom-free, and the best part? I can eat spicy food and drink coffee again without my butt exploding. It’s like getting my life back.
+
+The mental side was rough too. Having to toss underwear and deal with flare-ups in public made me feel like crap about myself. I thought I was the only one until I found this sub and saw how common this is—many of people get hemorrhoids, who knew? Talking to a close buddy and reading your posts here made me feel way less alone. If you’re in the thick of it, hang in there—you’re not weird, and it can get better.
+
+So yeah, that’s my story. I hope it gives someone out there some hope. What’s helped you guys? Any foods or tricks that worked? Spill the beans, let’s help each other out!
+
+P.S. Not a doctor, so check with one before trying stuff. This is just what got me through.",1,1747299573.0,u_Mark2080,0,1.0,False
+1kn3jaz,https://www.reddit.com/r/Situationships/comments/1kn3jaz/should_i_hold_out_hope_or_am_i_delusional/,Should I hold out hope or am I delusional?,"I (20F) just moved across the country by myself so I could have a fresh start. Originally I was moving with my then boyfriend (23M) of almost one year. That was before he decided to break up with me a month before our anniversary. Now I will admit the relationship was by no means perfect. In any way if I’m being completely honest. So it wasn’t incredibly shocking and it didn’t exactly tear me to shreds. 
+
+Time skip 4 months and I’m all moved into my new apartment 2,000 miles away from him. I’m feeling pretty good and I’m over the breakup completely. My mom and I decide to go get coffee and the super cute barista (20M) writes his number on my cup. I text him, we start flirting, and within a week he asks me out on a date. The date goes fantastic. We can’t stop talking, we share so many of the same views, we have similar interests, and we share the same plans for the future. He’s ambitious, intelligent, he’s got a sense of humor, he’s a gentleman, and a great listener. 
+
+We go on 2 more dates. Him and I have discussed what we both want out of this but we’re not in any rush to get to the end result. I let him know I’ve got a 3 month rule before getting into a relationship. He agrees that’s a good idea. We’ve started having some deeper conversations. You know like talking about our childhood and a little about our dating history yada yada. After date 3 he starts to pull away a little. I don’t think much of it because he’s got two jobs and he’s a busy man. I never expected him to text me constantly anyway. 
+
+For our 4th date I ask him out. I plan out and make food for us to have a picnic. All he has to do is pick me up so we can go to a local park I found. He ends up being an hour and a half late but I’m not upset because he has a valid excuse. So he picks me up and we go on our picnic. Again we can’t stop talking but when we do it’s a comfortable silence. I’m laying in his lap while he plays with my hair, he’s telling me I’m beautiful, and I tell him that in all honestly I’m really starting to like him. He says he’s really starting to like me too but that it really scares him. His parents are divorced and while I don’t know a lot of the details it was obviously messy and it obviously changed his perspective on relationships. I’ve been in a lot of bad relationships and honestly him saying that along with him pulling away put me a little on edge. We have a short conversation about it before we both get a little distracted. 
+
+Against my better judgment I invite him back to my place and we end up having sex. It was incredible. We had amazing chemistry and it was probably the best I’ve ever had. However what he said at the park was still scratching at my brain. So while we’re laying skin to skin cuddling in my bed I ask him about it again. We have an in depth conversation and I find out he’s never had a real girlfriend because they always get too serious too fast. I quickly realize that I don’t think this man is as ready for a relationship as I am. So I give him an out. I tell him that if he doesn’t intend to ask me to be his girlfriend after 3 months that he should leave now. He apologizes and I tell him to come find me if he ever figures his stuff out. He promises to get help so he can get his shit together. Then reiterates that he still really likes me and tells me he’s glad he put his number on my cup. He told me he’s open to the possibility of a relationship in the future but not right now. We’ve agreed to stay friends and update each other on our progress. I update him on my application process to cosmetology school and he’ll update me on his therapy progress. 
+
+While I know I did this to myself and it was probably for the best it kinda sucks. Since we decided to just be friends our contact has lessened significantly and it really doesn’t seem like he wants to talk to me. I don’t want him to think I want to continue where we left off but I’d genuinely still like to hang out with him and get to know each other. I’m too afraid to ask though. What if he only agreed to stay friends because he felt bad? My best friend seems to think that all he was looking for was sex. I have no intention to wait for him but I also don’t plan on dating anyone. I want to focus on school and working without having to worry about a relationship. I am however holding out hope. My best friend thinks I’m delusional and that I should cut my losses and cut contact. Though I obviously don’t know him super well he seems like an incredibly sweet and genuine guy which makes me want to see the best in him. I need an outside perspective. Am I being delusional or should I hold out hope?
+
+TL:DR
+4 months after getting dumped by my long term boyfriend (23M) I (20F) moved 2,000 miles cross country to start fresh. Not even a week after moving a super cute barista (20M) puts his number on my cup. We talk and go out on a few dates. We’re extremely compatible and have amazing chemistry. However his parents went through a messy divorce that changed his perspective on relationships. So after a month of talking and saying we like each other and agreeing we’d take things slow I give him an out. He clearly isn’t ready for a relationship but he promises to get help and to stay in contact. He did say he’d be open to a relationship in the future. We’ve agreed to be friends but he barely talks to me now. I don’t want him to get the wrong idea but I’d genuinely like to hang out with him as friends and continue to get to know each other. I don’t plan on waiting for him but I don’t intend to seek out a relationship. I plan to focus on school and work. My best friend thinks I’m delusional to hold out hope, that he probably just wanted sex, and that I should cut my losses and cut contact. I need an outside perspective. Am I being delusional or should I hold out hope? ",1,1747299540.0,Situationships,0,1.0,False
+1kn3j0v,https://www.reddit.com/r/askdentists/comments/1kn3j0v/other_foods_to_avoid_during_the_12_weeks_after_srp/,Other foods to avoid during the 12 weeks after SRP?,"I know I’ll need another deep cleaning at my next appointment and I’m not upset. Life has been rough these past few months and my dental bushing & flossing reverted back to being poor. I feel my inflammation and preparing for another SRP.
+
+Last time I had this procedure was 2023. I was told 1-2 weeks I can eat normally but I waited 12 weeks to be sure and even then I fell I waited too little. These are the foods and beverages I avoided during those months - nuts, chips, popcorn, highly salted food, other crunchy food, hot food (like soup), raw or hard vegetables, hard fruit (like apples), cold foods (like ice cream), pretzels, bread with hard crust, hot beverages (coffee/tea), spicy foods, acidic foods (oranges, limes,lemons), dairy if any kind, sticky foods, meat, seeds on bread or without (peanuts, pistachios , almonds etc), and acidic beverages (soda or anything that bubbles)
+
+In the first 3 weeks I watched eating seasoned foods and often ate unseasoned warm mashed potatoes and scrambled eggs because I’m afraid of the seasoned particles going into my gums and causing an infection since they’re ‘open’.
+
+What else should I watch for after a SRP? Is it suggested to wait longer than the 12 weeks for the gums to fully reattach?
+
+Edit: adding on foods I avoid that I remember",1,1747299507.0,askdentists,1,0.99,False
+1kn3ikv,https://www.reddit.com/r/digitalnomad/comments/1kn3ikv/update_talked_with_2_thai_tax_attorneys_about_dtv/,Update: Talked with 2 Thai Tax Attorneys about DTV Taxes in Thailand (6+ Months),"In a [previous post](https://www.reddit.com/r/digitalnomad/comments/1klf7ep/thailand_dtv_taxes_6_months_going_to_talk_to_thai/), I talked about the confusion of the current tax situation for Thailand DTV holders as digital nomads. Because I was confused (and many others), I talked to 2 different Thai tax advisors about most digital nomads situations. 
+
+I'm going to try to synthesize the information here into things that you can probably use for your own situation; however, this isn't legal advice (covering my ass here).
+
+Sadly, I didn't get permission to record the conversations, so I'm going to synthesize the information here into a usable step-by-step guide. I hope it's helpful!
+
+Thai tax companies I talked to:
+
+* American International Tax Advisers
+* Expat Tax Thailand
+
+# Step 1: Have you been in Thailand for more than 180 days in a calendar year?
+
+* **No:** You don't have to file a tax return or pay taxes in Thailand.
+* **Yes:** Proceed to Step 2.
+
+# Step 2: Do you have a Thai bank account?
+
+* **No:** You don't have to file a tax return OR pay taxes in Thailand. 
+   * Why? The one tax lawyer from American International Tax Advisers informed me (not as legal advice) that Thailand currently has no way to track and measure ways for foreigners to remit (send) their income from abroad via ATM withdrawals and bank transfers.
+   * In the future, this might change, but as of May-2025, the general advice is you're not required to file a tax return in Thailand.
+* **Yes:** Proceed to Step 3.
+
+# Step 3: Did you make money in the calendar year?
+
+* **No:** You're not required to submit a tax return or pay taxes in Thailand, but you can submit a tax return if you want to. I don't know why you would do so, but this might be necessary if you have submitted more than 150,000 THB during the year to your Thai bank account since that's the base deduction (tax free) for personal income taxes.
+* **Yes:** Then you're required to file a tax return and pay taxes in Thailand.
+   * Proceed to step 4.
+
+# Step 4: How much in taxes do I owe, and how much does it cost to file taxes in Thailand?
+
+* **First -- You're going to need to work with a Thai tax filing firm.** 
+   * The documents to submit forms are not in English, and they're very complicated to understand. You don't want to risk messing this up and getting your DTV cancelled.
+   * Not trying to fear-monger here or sell lawyer services. 
+   * The filing deadline for Thai tax returns is April 8th of the following year. So for money you transfer into your Thai bank account in 2025, you'll need to pay the taxes on it by April 8, 2026.
+* **Second -- Thailand only considers the money that you remit (send) into the country as taxable.**
+   * For example, as an American, if you earn $100,000 in USA in 2025, but you only send $24,000 to your Thai bank account for living expenses, then you'll only use the $24,000 that you send to your Thai bank account as the amount used to calculate the tax.
+   * Thailand has an interesting rule where if you earned the money you have in a previous calendar year before you become a tax resident (staying 180+ days in Thailand), then you just have to show your bank statement from December of the previous calendar year (If filing taxes for year 2025, this would mean your bank statement from December 2024) showing that you made that money in that year that you transferred into your account. In short, there are a lot of loopholes here.
+   * To figure out how much your tax base amount, it is just be the money you have brought into Thailand, NOT the total income you made in the year. :)
+      * Bringing income into Thailand, in this case, would mean any transfers into your Thai bank account from abroad or from income sources.
+      * This might change in the future, but for now, it's just the money you're transferring into your Thai bank account.
+* **Third -- How much would you pay in tax?**
+   * This is a bit tricky. But there are a ton of deductions to reduce the total amount you pay.
+      * Taxable income: $24,000 --> 800,000 Thai Baht (THB)
+      * Deductions: 160,000 - 210,000 THB
+      * So 800,000 - 160,000 = 640,000 THB Taxable Income
+   * Then Thailand has a progressive tax system for that 640,000 taxable income amount.
+      * For this amount, the total tax would be about
+      * 0 – 150,000: Exempt
+      * 150,001 – 300,000: 5%
+      * 300,001 – 500,000: 10%
+      * 500,001 – 750,000: 15%
+      * 750,001 – 1,000,000: 20%
+      * 1,000,001 – 2,000,000: 25%
+      * 2,000,001 – 5,000,000: 30%
+      * Over 5,000,000: 35%
+   * So the total tax amount would be (150,000 \* .05) + (200,000 \* 0.1) + (140,000 \* .15) = 48,500 THB
+* **Fourth -- How much to have a tax filing company file it for me?**
+   * One of the lawyers said the filing service takes about 2 weeks and costs 14,000 THB
+   * As foreigners, it's almost impossible to understand all of this, send the right documents/attachments to forms, and do this right. That's why it's highly recommended to talk with a Thai tax attorney.
+* **Fifth -- How much total (Tax + Filing cost)**
+   * For someone who has DTV, Thai bank account, and sends $24,000 USD to their Thai Bank account, and the money was made in the calendar year, the total **pain** to file Thai taxes would be 48,500 (taxes owed) + 14,000 (tax filing fee) = 62,500 THB \~= $1,900 USD
+
+\-------------------  
+TL;DR - if you don't have a Thai bank account, you as a DTV holder don't need to file Thai taxes for tax year 2025 (1-Jan-2025 to 31-December-2025).
+
+I hope all of this makes sense. If you like this information and it saved you a ton of headaches, [I'd love a coffee](https://buymeacoffee.com/tropicflare?new=1)!",7,1747299454.0,digitalnomad,11,1.0,False
+1kn3ig6,https://www.reddit.com/r/Magisk/comments/1kn3ig6/discussion_so_i_read_on_xda_that_viper4android/,[Discussion] So I read on XDA that Viper4Android might come to the Pixel 9 Pro soon? Which repository and TG should I follow for the updates.,"So the original one isn't updated since 2023 so it seems discontinued, saw a repository that was reverse engineering the original module. But which package should I follow for the Pixel 9 Pro? 
+
+Wanna thank that dev with 10 crates of beer instead of a coffee lol 😂",2,1747299438.0,Magisk,0,1.0,False
+1kn3i39,https://www.reddit.com/r/Prostatitis/comments/1kn3i39/burning_in_urethra_penis_after_urination_for_over/,Burning in Urethra & Penis After Urination for Over a Year,"Hi everyone,
+
+I’m a 33-year-old guy, in a relationship, desk job, fairly active (I run regularly).
+
+For the past year and a half, I’ve been dealing with a really persistent issue: a burning sensation in my urethra and penis, mostly during and after peeing. It’s been seriously affecting my mental health, sex life, and day-to-day quality of life. I’m honestly at a loss at this point and hoping someone here might relate or have insight.
+
+
+
+# Main symptoms:
+
+* Burning at the tip of the penis during urination
+* Burning often lingers for 1–2 hours afterward
+* Occasional feeling of pressure or a “blockage” at the base of the penis, especially in the morning
+
+
+
+**How it started:**
+
+It began as mild burning during urination. My first urine test showed elevated white blood cells (WBC), so my doctor initially suspected kidney stones. He advised drinking more water, cutting coffee, and avoiding spicy food, but the symptoms stayed.
+
+I saw multiple doctors — each with different ideas. Some suspected irritation or internal urethral damage, others thought it might be prostatitis. I was prescribed several antibiotics:
+
+* Azithromycin
+* Ofloxacin
+* Levofloxacin
+* Celecoxib (anti-inflammatory)
+
+Eventually, I tested positive for **Mycoplasma genitalium**. An ultrasound also showed a **varicocele**, but the doctor said to focus on clearing the infection first.
+
+
+
+# Treatment so far:
+
+From an infectious disease specialist:
+
+* **Doxycycline 100 mg** – 7 days
+* **Moxifloxacin 400 mg** – 7 days
+
+
+
+Then, based on resistance testing:
+
+* **Doxycycline hyclate 100 mg** – 7 days
+* **Pristinamycin (Pyostacine) 500 mg** – 10 days (8 pills per day)
+
+
+
+Despite completing all antibiotics, the burning didn’t go away. A urine culture came back negative, but symptoms remained. My urologist now suspects lingering inflammation and suggested doing a **urethroscopy (fibroscopy)**.
+
+
+
+# Current situation:
+
+* Still experiencing burning during and after urination (slightly milder or I’m just used to it)
+* Burning sensation lasts 1–2 hours post-urination
+* Ongoing feeling of internal irritation or inflammation in the penis
+
+
+
+# Recent test results:
+
+* Mycoplasma genitalium – **negative**
+* Chlamydia & Gonorrhea – **negative**
+* Urine WBC – **normal**
+* PSA (prostate test) – **normal**
+
+
+
+# Possible causes I’m exploring:
+
+At this point, I’m wondering if the issue could be something other than an infection. Some conditions I’ve come across and want to ask about:
+
+* **Chronic Prostatitis / Chronic Pelvic Pain Syndrome (CPPS)**
+* **Nerve-related causes** (e.g., Pudendal nerve entrapment / Pudendal neuralgia)
+* **Pelvic floor dysfunction**
+* **Prostatitis** (despite normal PSA)
+
+
+
+If anyone has experience with any of these, how did you get a diagnosis? What kind of tests or specialists helped figure it out?
+
+
+
+# My questions:
+
+* Has anyone here gone through something similar?
+* How long did your symptoms last, and what actually helped?
+* Could the Mycoplasma still be playing a role, even with a negative test?
+* Could this still be prostatitis, or something nerve or pelvic-floor related?
+* What tests or scans should I ask for next?
+
+
+
+Really appreciate any guidance or shared experiences. Thanks for reading — I’m just trying to find a path forward.",2,1747299397.0,Prostatitis,3,1.0,False
+1kn3hte,https://www.reddit.com/r/pregnant/comments/1kn3hte/30_years_of_my_life_never_drank_coffee_or_milk/,30 years of my life never drank coffee or milk tea(Indian style) now all I want is coffee and tea,"All my life I never really drank coffee or tea cause they are bitter and make me all jittery and hyper. But now at 30 weeks pregnant I am only craving coffee and tea. And it can’t be the less strong/ decaf version I want the strong coffee or tea. I make this masala tea with a lot of spices and tea powder with milk. It’s very crazy. Today after my appointment with my diabetologist for my gestational diabetes, I went straight to Starbucks (first time ever in my life) and bought the vanilla latte or something. Is this safe? I am not drinking everyday let’s say 3 drinks a week or even 1 drink a week. 
+I am
+Just worried I will get addicted to this or that baby will be addicted to it. 
+Maybe I’m over reacting I don’t know. 
+What is this new craving for something I never drank before? ",2,1747299365.0,pregnant,2,0.75,False
+1kn3hfn,https://www.reddit.com/gallery/1kn3hfn,A summer told through sips🥤,"This isn’t from one perfect day.it’s a collection of small escapes from the heat.
+Every drink had its own moment:
+The one that saved me after a long walk.
+The one I didn’t plan to order but ended up loving.
+The one that looked too pretty to drink (but I drank it anyway).
+And the one that made summer feel just a little more bearable. Coffee is constant!! Irrespective of the weather.
+
+No fancy plans. Just chilled glasses, sweaty afternoons, and tiny pockets of peace in every sip.
+Cheers to the drinks that kept us cool🍻
+",10,1747299320.0,IndianFoodPhotos,0,1.0,False
+1kn3h73,https://i.redd.it/jlqqo31msw0f1.png,<BAD> MODS KILLING THE GAME BY BANNING PLAYERS,"<BAD> mods out here swinging the *ban hammer* like they're Thor on a caffeine bender. I say *boo* in general chat and suddenly I’m branded a war criminal and launched into the Shadow Realm.
+
+This game has like **12 people left playing** and the mods are working overtime to make it 11. You ever seen a dying game get CPR and then the medic just punches it in the chest instead? That’s what’s happening here.
+
+I got banned for “harassment” because **a squad of command-reject trolls with anime profile pictures** spent the whole match ignoring objectives, refusing orders, couldn’t kill a paper bag in a wind tunnel, and only seemed capable of whining and spamming voice lines. I ask them to push point, they respond with “You’re not my real dad” and hide behind a bush roleplaying trauma.
+
+So I call them “gremlins” (which, frankly, was generous) and suddenly *I’m* the villain?? I’m banned while they’re probably getting promoted to mod trainee or something.
+
+AND THE MODS? Oh they’re **deep in the sauce.** They’ve picked sides harder than a reality TV host during a reunion episode. I’ve seen them in Discord, planning server law like it’s international diplomacy. Meanwhile their buddies are free to grief, scream nonsense, and livestream themselves cooking hot pockets while AFK in spawn.
+
+This isn’t moderation. This is *targeted playerbase thinning.* The game is already on life support and the mods are yanking the plug so they can install a coffee machine instead.
+
+**TL;DR:** Got banned for calling a bunch of anime PFP trolls after they tanked the match and blamed me. Mods are power tripping, game is dying, and I'm not even mad — I'm *radiating cartoon supervillain energy* at this point. JUSTICE FOR ME.",5,1747299292.0,ns2,0,1.0,False
+1kn3h6l,https://www.reddit.com/r/TalesFromTheFrontDesk/comments/1kn3h6l/give_me_my_room_or_there_will_be_consequences/,"""GIVE ME MY ROOM OR THERE WILL BE CONSEQUENCES!""","I posted about this in another thread's comment a few months ago, but I figured this story deserved its own post. For context, my life as a GSA has drastically improved since I switched to a new company. 
+
+>Rerun: GM resigned, Sales Manager resigned, the owners removed the FoM position: there was ZERO management and the individual who was selected to be the next GM quit without notice. I was just an FDA being paid a pitiful wage in the year 2025, expected to work 3 different salaried positions without any compensation, raise, or promotion from the owners. I quickly looked for a different job after encouragement from this subreddit. 
+
+I had already found a new hotel and already worked my first couple of evenings there. I loved it and was completely looking forward to the transition. I was finishing my final week at my old hotel while working my new one, effectively not having a single day off for a few weeks.   
+  
+It was one of those clopen shifts- overnight from 11pm until 7am, then the following evening at 3pm until 11pm. I had an errand to run that morning too, so I was already running on fumes and coffee.
+
+The shift was rough, another sold out weekend and working alone with no maintenance. Luckily, I had the foresight to make dummy reservations the night before to prevent us overselling. But even those aren't infallible; usually on nights like these, we have to move people anyway for all kinds of reasons beyond my scope to fix. Shower running cold, AC not changing temps, toilet leaking, you get the gist.   
+  
+By the end of it all I had somehow perfectly balanced the books, not a single room to spare but everyone squared away, assuming I didn't need to move anyone else.
+
+10pm rolled around, the light at the end of the tunnel. I had a few more arrivals, two of which were under the same woman with a super shiny status. One of them was booked with a nonrefundable rate with points. 
+
+She arrives and declares she's checking in to her three rooms. Puzzled, I take another look and confirm I only had two in her name. I relay what I see. She already gets snippy with me and insists she booked three. I start digging into our system to see what might have happened to it to help- all the while she's already condescending. I don't remember exactly what was exchanged, but I do recall her making a comment about her status and that ""You'd BETTER have my room, or else."" 
+
+I kept looking without engaging with that. I eventually found a noshow reservation with her name on it, booked on points, nonrefundable, and was booked to arrive the evening prior. It was booked 2 nights, but there were no notes about her needing only one night. 
+
+I couldn't reinstate a noshow booked with points (the system literally prevents this), and even if it wasn't on points, we were sold out and I couldn't just kick someone out for her or make a new reservation. I physically did not have a single room for her third room.  
+  
+Not even when I'm done explaining the circumstances with an apology, she flew off the handle. ""No, no, nonono NONE of that bullshit! I booked a room and you're GOING to give it to me, or else! This is fucking ridiculous just give me my room that I paid for!""
+
+I explained to her that when she books a reservation, she has to have the arrival date match the day she actually arrives, or else it goes to noshow- but before I'm even halfway through that sentence she starts giggling incredulously, exchanging mirthful smiles to her family members who are giggling along. 
+
+She then pointedly asks for my manager, telling me she had every right to that third room because she paid 2 nights for it and was with a group here. I told her that's not how that works. She then flew off the handle again and accused me, personally, of cancelling her room, stealing her money, and selling the room to someone else.
+
+My patience was really running thin, I peeked at the time and wondered if it was worth it to just close my computer and go home. I held strong, I only had 30 minutes left of this miserable job, may as well go out with a bang. 
+
+I tell her again, more firmly and shaking now, that as a super shiny member she should know that she needs to book the arrival date for the day she arrives or it goes to noshow. That's policy. I tell her we had a two night minimum this weekend and were now sold out. ""YEAH, I SAW THAT ONLINE. I BOOKED TWO NIGHTS BUT JUST NEEDED ONE AND DONT UNDERSTAND WHY YOU GAVE MY ROOM AWAY!"" Basically, confessing her own fault.
+
+She yelled at me to cut the bullshit and give her the damn room ""or there WILL be consequences, you won't ever have a career again!""
+
+Ah, the classic verbal threat.  
+  
+With the flick of a wrist, I cancelled her remaining rooms and told her she will no longer be staying with us, citing her poor attitude, and that she needs to find somewhere else to go. She gaped at me. ""You won't even let me get my two other rooms that I had tonight?!"" 
+
+Nope. You are no longer welcome here after threatening and intimidating me. You have been DNR'd. Please leave and go somewhere else.  
+  
+She was red in the face and stepped outside with her family to make some calls. Over the shoulder threatening my job again, saying I just made a grave mistake with them. Her dad hobbled over, pointed a bony finger at me, glowering, ""I know your manager and I'm giving them a call RIGHT NOW. This is completely unprofessional of you and you WILL see consequences."" (Reddit, refer to paragraph 2.)
+
+While I was waiting on my ""manager"" to call me, the lady rebooked two rooms. Her name cropped back up in the arrivals list as two new reservations. Holding nothing back, I guided my cursor to the cancel buttons and let off two deeply satisfying clicks.
+
+The super Shiny Desk called me shortly, as the family gathers in the lobby snickering at me with phones in their faces. I keep a calm expression, keep my voice level, and listen to what the Shiny Desk says. The Shiny Desk lady asks why the hotel is cancelling this shiny member's rooms for no reason.
+
+So, I confided to the poor employee everything that had transpired. The two night minimum, sold out status, the shiny lady's noshow on points, her attitude and threats, and being DNR'd. I tell them the guest was already told to leave as we can no longer assist her.
+
+I hear the poor shiny desk's soul leave through her voice the more she hears. ""Oh.... ooohhhhh......"" Likely dreading the conversation she's about to have with the lady. She apologizes to me and says she will inform the guest that she will need to leave.
+
+So, the Shiny Desk told them to leave. I watched in real time the family's mocking grins across the lobby, awaiting for me to break down at the news of being fired, morph into infuriated grumbling. They left without another word, but they did get my name on the way out.
+
+I enjoy my weekend.
+
+And plot twist: they found another hotel, alright. They drove over to the hotel I was just hired at. They unload their experience to my new manager and demand corporate's number for my old hotel. The lady bitches and accuses me through email and several bad reviews that I was the worst manager in the world and needed to be fired immediately for kicking them out. Carefully omitting the parts where they threatened me or booked a nonrefundable points room that went to noshow and expected to still have it on a sold out night.
+
+In the same email, she praises my manager at the new hotel. For having availability. 
+
+We all have a good laugh about it once I explain my side of the story. The lady probably thinks she got me fired and had been trying to reach out to any management at the old hotel. I was not at all in trouble with my new job and my manager resolved to not at all assist this lady. 
+
+If she ever comes back to stay at my new hotel, it would be REALLY funny to run into her again. Should I get a mustache and glasses?",54,1747299290.0,TalesFromTheFrontDesk,3,0.97,False
+1kn3h1t,https://www.reddit.com/r/FoodAllergies/comments/1kn3h1t/purified_water_that_isnt_ran_through_a/,Purified water that isn't ran through a coconut-carbon filter?,"Husband and I were thinking of getting a filtered water supply for our new coffee maker (just a simple one) and don't want to repeat the mistake of using tap water (we have a feeling it clogged up the pipes).
+
+The only issue is that we don't know which brand of purified water uses coconut or not, aside from Fiji which is... expensive. My coconut allergy is so severe that it's set off by the filtered water most companies use.
+
+We also cannot install a system ourselves, as the apartment's kitchen is small and doing such probably breaks our lease.
+
+If it's relevant, we live in the States/US. Any advice is appreciated.",2,1747299273.0,FoodAllergies,1,1.0,False
+1kn3ggk,https://www.reddit.com/r/UnreleasedIDTechHouse/comments/1kn3ggk/looking_for_sidepiece_shake_that/,Looking for Sidepiece - Shake That,"Looking for that ID from Eminem’s Shake That Remix from the Sidepiece’s coffee set.
+
+Please DM for trade if anyone has that
+
+",1,1747299199.0,UnreleasedIDTechHouse,0,1.0,False
+1kn3g67,https://i.redd.it/2l9mb7nhtw0f1.jpeg,Am I aloud to bring this onboard?,"Thank you everyone for your suggestions on my last post. I think I’m almost ready for my first ever cruise. One question I have is about bringing Instant coffee packs onboard. I love decaf coffee and need to have a few every night especially if it’s cold. If I have it packaged like this *image* will this be acceptable? I also have some hot chocolate and tea and sweetener, just stuff I can keep in my cabin. Also I have an unopened bottle of hot sauce, will this be acceptable? Thanks heaps ",4,1747299161.0,CarnivalCruiseFans,7,0.7,False
+1kn3g46,https://www.reddit.com/r/Caversham/comments/1kn3g46/childfree_in_reading/,Childfree in Reading,"I run a local social group for childfree adults in and around Reading—whether you’re childfree by choice or circumstance, this is a group for making real-life connections with like-minded people.
+
+We’ve had a few casual meetups recently (coffee, pub nights, that sort of thing), and it’s been a lovely way to meet new people without the usual kid-talk.
+
+It’s not a dating group—just a chilled space for friendly chats, good vibes, and local meetups.
+
+So far, most of the group happens to be women (hi ladies!), but we’d love to see a more mixed crowd—men, couples, solo folks, everyone’s welcome as long as you’re kind, respectful, and childfree.
+
+We organise through a private Facebook group and use WhatsApp to plan events.
+
+https://www.facebook.com/share/g/12K9AZA5WwY/?mibextid=wwXIfr
+
+Drop me a message if you’ve got questions—and hopefully see you at a future meetup!",2,1747299153.0,Caversham,0,0.75,False
+1kn3dbt,https://www.reddit.com/r/Bacolod/comments/1kn3dbt/cebu_to_bacolod_job_requirements/,Cebu to Bacolod Job Requirements.,"Hello, Im from Cebu and i just got a job from a coffee shop here in Bacolod and merong requirements na idk where to get.
+
+•Brgy.Clearance - Can i get brgy clearance kahit di ako taga bacolod?
+
+• Mayor’s Permit - diba for starting a business to na requirement if im not mistaken? I also want to know how and where can i get this requirement.
+
+Thank you guys :)",1,1747298817.0,Bacolod,8,1.0,False
+1kn3daa,https://www.reddit.com/r/BORUpdates/comments/1kn3daa/avocado_toast_leads_to_nicest_day_in_long_time/,"Avocado toast leads to ""nicest day in long time""","Originally posted by user OllieSantiago
+
+[Original](https://www.reddit.com/r/IndianFoodPhotos/comments/1k939i4/attempted_avocado_poached_egg_sourdough_toast_for/): April 27, 2025
+
+[Update](https://www.reddit.com/r/IndianFoodPhotos/comments/1kmha4y/serendipity_kismet_happy_chance_op_met_a_redditor/) : May 14, 2025
+
+**Mood**: slice of life, food, sweet, zero drama
+
+\----------------------------------------------------------------------------------------------
+
+**\*\*\* Editor's note for context:**
+
+* OOP posted in *Indianfoodphotos*  (one of the many food related subs within India Reddit space) and *Indiasocial* (a sub for Indian users to just casually chat about anything); comments included from both subs
+* Filter kaapi -- South Indian coffee (drip). The coffee decoction is made from mixture of coffee beans and chicory (typically 60-40% ratio) and can be made via traditional brass filter or on the stove. The decoction is added to milk to create a cup that has a strong, sweet taste with milk froth on top.  
+
+\----------------------------------------------------------------------------------------------
+
+**Original: Attempted avocado poached egg sourdough toast for the first time at home. What do you think about it? Also, probably my last post here..**
+
+OOP includes following pics -- [photo#1](https://preview.redd.it/attempted-avocado-poached-egg-sourdough-toast-for-the-first-v0-fyax62lwjdxe1.jpg?width=1080&crop=smart&auto=webp&s=4d831fe59d4d8f2919711dc26df7eea03e1627b4), [photo#2](https://preview.redd.it/attempted-avocado-poached-egg-sourdough-toast-for-the-first-v0-79ydz0wwjdxe1.jpg?width=1080&crop=smart&auto=webp&s=0965ef49900930a65ebcdb5c105805b3d26eeafd), [photo#3](https://preview.redd.it/attempted-avocado-poached-egg-sourdough-toast-for-the-first-v0-7m7zwz8xjdxe1.jpg?width=1080&crop=smart&auto=webp&s=04c5995807ac8250374dadac5596a3942c6e0be4)
+
+\--------------------------------------------
+
+**Comments:**
+
+***Comment1***: Good Grief! That’s amazing!! Looks very professional better than the food available in all these nonsense brewpubs, all day breakfast cafés & all. Definitely Michelin 🌟  
+Also OP, if you don’t mind me asking. Why last post here???
+
+>***OOP*** \-- hahhaha .. grief indeed.. I'm always telling my friends that I can cook as good as it's available at some places.. i don't wanna go out .. it feels like you're paying such exorbitant prices outside.. but downside is they come home or call me to their home to cook such stuff for them 🤦‍♂️🤦‍♂️  
+Spending so much time here on reddit posting and trying to get that perfect shot and plating.. want to spend all that time on some other very important things at hand.
+
+***Comment2***: No way this is first attempt 😭
+
+>***OOP*** \-- It is 🙈🙈 spent 3 days looking at almost all the recipes on YouTube 😕
+
+***Comment3***: That looks so good I m ready to invite myself over. Btw why is it your last post? Is the world as we know it ending after your last bite?
+
+\----------------------------------------------------------------------------------------------
+
+**Update: (3 weeks later) -- Serendipity? Kismet? Happy Chance? OP met a Redditor for a cup of filter kaapi ☕️**
+
+A few days ago, I met someone—a total stranger—and it turned out to be the nicest thing (somewhat beautiful too) that’s happened to me in the last 7-8 months.
+
+How it happened: I posted a pic of avocado toast on Reddit (my ""last Reddit post,"" or so I thought). Got a bunch of DMs—some weird, a couple of them nice. But one stood out. It was so sweet and respectful, so disarming, so genuinely kind, it caught me off guard. It actually made me smile. What did it say? ""Will you freak out if I said I'd like to buy you a coffee at a local filter kaapi place? No wrong intentions—you can say no, and I won’t mind.""
+
+I was skeptical. I hesitated. Happens with guys too. But there was something so simple and genuine about it. Filter kaapi, at a local coffee shop—it felt cute and sweet. So, against my usual instincts, I said yes.
+
+We connected on social media, talked a bit online first, then finally decided to meet up. And guess what? It was just as sweet and easy as that first message. No pressure, no weirdness—just good conversation and good coffee.
+
+I don’t know who to thank—the universe for nudging me, or her for sending that DM in the first place. I guess I have to thank both of you. But, a special thanks to the stranger.. For the DM, coffee, conversations, and for giving me one of the nicest days in a long time..
+
+Maybe it was serendipity. Maybe it was kismet. Or maybe it was just two people having coffee on an ordinary day that turned out to be kind of special. Either way, I’m glad it happened. ☕️☕️
+
+OOP includes following pics from meet -- [photo#1](https://preview.redd.it/serendipity-kismet-happy-chance-op-met-a-redditor-for-a-cup-v0-szuha3ljhr0f1.jpg?width=1080&crop=smart&auto=webp&s=8fe2bec26d3c28fb02af00541d8b97c0bd395e46), [photo#2](https://preview.redd.it/serendipity-kismet-happy-chance-op-met-a-redditor-for-a-cup-v0-lg6yw0ljhr0f1.jpg?width=1080&crop=smart&auto=webp&s=75463341f2117300603789623f3b272ef79d0423), [photo#3](https://preview.redd.it/serendipity-kismet-happy-chance-op-met-a-redditor-for-a-cup-v0-fttr9zkjhr0f1.jpg?width=1080&crop=smart&auto=webp&s=fbfc880c7046999a8c3a051e406d09286bc3c0e9)
+
+\--------------------------------------------
+
+**Comments:**
+
+***Comment1***: It was meant to happen, your post was just a medium. Glad that you had a great time. Since she made your day with the meet, you owe her a good treat.
+
+>***OOP*** \-- Totally!! She said she'll tell me when she wants my treat. 😌
+
+***Comment2***: Rushed to OPs profile out of curiosity. And oh boiiii. I'm dizzy. Each and every food that you've posted is sooo appetizing, no less than a piece of art. God bless you bro. All the love and happiness your way.
+
+***Comment3***: redditors meet irl? 😳
+
+>***OOP*** \-- Sometimes 🙈 If you read the post, i had to really get myself to do this. But, now looking back, I'm glad I did. It was such a comfortable meeting. Just sitting, sipping coffee and talking.
+
+***Comment4***: Enjoyed reading your post and how your are explaining/answering to comments 😅😋
+
+>***OOP*** \-- Glad you did 😊  
+Idk why everyone wants to call it a date 🤷‍♂️
+
+***Comment5***: Anyone who want filter coffee people
+
+\----------------------------------------------------------------------------------------------
+
+**REMINDER: I am not OOP. Do not comment on original post or harass OOP.**  
+**Please remember the No Brigading Rule and to be civil in the comments**",46,1747298812.0,BORUpdates,8,0.9,False
+1kn3csd,https://www.reddit.com/r/mentalhealth/comments/1kn3csd/i_feel_sleepy_all_the_time_does_anyone_have/,I feel sleepy all the time does anyone have advise so i could be energized again?,"*(English is not my first language and i have dyslexia so I am sorry if this isn't the best text)* I(F) have been to the doctors about this problem but nothing abnormal has appeared so im thinking what things would help me to energize. 
+
+Im in school and i have been falling asleep in my classes and fighting to stay awake. I sleep 7-18hours every night. I cant sleep less that 7 hours or I will fall asleep and i cant function if I sleep less than 7hours. The only times i feel like im fully awake and energized is when I have slept three or so days almost 20hours each night. I try to exercises when Im not exhausted but it really doesn't wake me up it only gets me sleepy more. And I drink coffee sometimes but it aighter doesn't work or it work too to the point I feel like im jumping on the walls. 
+
+Im thinking does anyone have advise for what could wake me up. I will take anything at this point Im so tired. I've tried/I am eating healthy but it didn't help so does anyone have better ideas?",1,1747298754.0,mentalhealth,0,0.99,False
+1kn3cjz,https://www.reddit.com/r/AutismInWomen/comments/1kn3cjz/i_live_with_a_narcissist/,I live with a narcissist,"[CW: Emotional abuse, narcissistic behavior]
+
+Hey, I’m a late-diagnosed autistic woman and wanted to share a pattern I’ve just come out of, mainly as a warning to others like me. People with narcissistic tendencies often target autistic folks, especially those of us who are empathetic, accommodating, and looking for connection.
+
+Last year, I made friends with a woman in her 30s. She seemed kind at first, then started getting controlling. We moved in together after I helped her during a housing crisis. That’s when the mask slipped.
+
+She hated how I stacked pans (landlord's, stainless steel) but never communicated it directly until she exploded over it. I adjusted immediately, but it was never really about the pans.
+
+She got upset that I don’t make eye contact. She called me a bitch on my period. I isolate when in pain, I don’t lash out. I offered to explain autism. She refused, but still took my traits as personal slights.
+
+When I needed space after a hard Christmas, she turned cold. Ignored me, sulked in shared spaces, drank too much, insulted me again. She never took accountability. She always blamed me instead. That was her pattern. If I had a friend over for coffee for one hour, she got mad that I didn’t ask permission.
+
+I realized she wants control. She took over the kitchen, and I had to ask for equal space. Every time I set a boundary, she treated it like a threat.
+
+We haven’t spoken in two months. We only text now. It’s peaceful. No communication means no opportunity for her to be condescending or cruel.
+
+Autistic women, beware of these red flags:
+
+Passive aggression and silent treatment
+
+Deflecting blame when confronted
+
+Viewing your needs as selfish or rude
+
+Punishing you for boundaries
+
+Only being kind when they benefit
+
+
+We deserve peace and comfort in our homes. If you've experienced anything similar, please share if you're willing. It took me a month of constant stress before I went no contact (as much as possible) and now I can breathe again.",1,1747298729.0,AutismInWomen,0,1.0,False
+1kn3c4m,https://www.reddit.com/r/GardeningNow/comments/1kn3c4m/15_small_apartment_storage_ideas/,15 Small Apartment Storage Ideas,"Original article:
+
+  
+[https://www.plantedshack.com/15-small-apartment-storage-ideas/](https://www.plantedshack.com/15-small-apartment-storage-ideas/)
+
+  
+Living in a small apartment can be a delightful experience, filled with the coziness of compact living and the vibrancy of urban life. However, one of the greatest challenges faced by many apartment dwellers is storage. In this blog post, we will explore 15 innovative small apartment storage ideas that will help you maximize your space while keeping your home organized and stylish.
+
+  
+1.
+
+  
+Utilize Vertical Space
+
+  
+One of the best strategies for making the most of a small apartment is to think vertically.
+
+  
+Wall Shelves
+
+  
+: Install floating shelves above furniture to store books, plants, or decorative items without taking up floor space.
+
+  
+Tall Bookcases
+
+  
+: Opt for tall, narrow bookcases that can fit into corners or small nooks while providing ample storage.
+
+  
+How to Achieve the Look:
+
+  
+Choose shelves with a simple design to keep your space looking uncluttered.
+
+  
+Use storage bins on higher shelves to quickly grab and store items.
+
+  
+2.
+
+  
+Under-Bed Storage
+
+  
+Make use of the often-overlooked space under your bed.
+
+  
+Storage Containers
+
+  
+: Invest in rolling bins or under-bed storage boxes to hold shoes, seasonal items, or extra linens.
+
+  
+Lift-Up Frames
+
+  
+: Consider a bed with a frame that lifts to reveal hidden storage.
+
+  
+How to Achieve the Look:
+
+  
+Opt for low-profile boxes that slide easily and maintain a streamlined look.
+
+  
+3.
+
+  
+Multi-Functional Furniture
+
+  
+Choose furniture pieces that serve multiple purposes.
+
+  
+Ottomans
+
+  
+: Look for ottomans that double as storage units.
+
+  
+Sofa Beds
+
+  
+: Invest in a sofa bed that can accommodate guests while providing seating.
+
+  
+How to Achieve the Look:
+
+  
+Select pieces in stylish fabrics or designs that complement your decor.
+
+  
+4.
+
+  
+Smart Closet Organizers
+
+  
+Maximize closet space using smart organizational tools.
+
+  
+Hanging Shelves
+
+  
+: Add hanging shelves or organizers that utilize vertical space.
+
+  
+Shoe Racks
+
+  
+: Use under-shelf racks or over-the-door organizers for shoes.
+
+  
+How to Achieve the Look:
+
+  
+Color-code and categorize items for a pleasing visual effect and quick access.
+
+  
+5.
+
+  
+Hooks and Pegboards
+
+  
+Hooks and pegboards are excellent for creating additional storage without needing much room.
+
+  
+Wall Hooks
+
+  
+: Install hooks for bags, coats, and hats near entrances to prevent clutter.
+
+  
+Pegboards
+
+  
+: Use pegboards in the kitchen or office to hang utensils or tools.
+
+  
+How to Achieve the Look:
+
+  
+Paint hooks and boards to match your decor for a cohesive look.
+
+  
+6.
+
+  
+Over-the-Door Organizers
+
+  
+Take advantage of door space with over-the-door solutions.
+
+  
+Pocket Organizers
+
+  
+: Use pocket organizers in closets or bathroom doors to hold accessories and toiletries.
+
+  
+Shelved Racks
+
+  
+: Install shelving units over doors to store books or cleaning supplies.
+
+  
+How to Achieve the Look:
+
+  
+Opt for stylish organizers that blend well with the door color and surrounding decor.
+
+  
+7.
+
+  
+Creative Kitchen Storage
+
+  
+Kitchens in small apartments often lack cabinet space.
+
+  
+Magnetic Spice Containers
+
+  
+: Use magnetic containers on the fridge for spices or other small items.
+
+  
+Wall-Mounted Pot Racks
+
+  
+: Create hanging storage for pots and pans above the kitchen island or stove.
+
+  
+How to Achieve the Look:
+
+  
+Choose materials that match your kitchen aesthetic for seamless integration.
+
+  
+8.
+
+  
+Bathroom Shelving
+
+  
+Add portable shelving units to increase bathroom storage.
+
+  
+Tiered Carts
+
+  
+: Use rolling carts to store toiletries and towels.
+
+  
+Wall-Mounted Cabinets
+
+  
+: Add cabinets above the toilet or sink for extra storage.
+
+  
+How to Achieve the Look:
+
+  
+Decorate shelves with plants or candles for added visual appeal.
+
+  
+9.
+
+  
+Nesting Tables
+
+  
+Save space with nesting tables that can be moved as needed.
+
+  
+Stackable Designs
+
+  
+: Use nesting tables as side tables that can be tucked away when not in use.
+
+  
+Lap Desks
+
+  
+: Consider small lap desks that can function as tables and be stored away.
+
+  
+How to Achieve the Look:
+
+  
+Choose tables in similar materials or colors to create a coordinated look.
+
+  
+10.
+
+  
+Baskets and Bins
+
+  
+Baskets and bins are versatile storage solutions that add texture.
+
+  
+Woven Baskets
+
+  
+: Use woven baskets in living spaces to store throws or magazines.
+
+  
+Decorative Bins
+
+  
+: Opt for stylish bins in closet spaces for an organized appeal.
+
+  
+How to Achieve the Look:
+
+  
+Select bins that match your color scheme or decor style for a cohesive effect.
+
+  
+11.
+
+  
+Laundry Room Solutions
+
+  
+Maximize your laundry area with smart storage solutions.
+
+  
+Wall-Mounted Drying Racks
+
+  
+: Save floor space with wall-mounted racks for air-drying clothes.
+
+  
+Cabinetry
+
+  
+: Install shelves or cabinets above the washer and dryer for laundry supplies.
+
+  
+How to Achieve the Look:
+
+  
+Match storage solutions to existing decor to create a nice composition.
+
+  
+12.
+
+  
+Declutter Regularly
+
+  
+Routine decluttering helps maintain a storage-friendly environment.
+
+  
+Regularly Sort Items
+
+  
+: Set aside time to go through belongings monthly or quarterly.
+
+  
+Donate or Recycle
+
+  
+: Be proactive about getting rid of items you no longer use.
+
+  
+How to Achieve the Look:
+
+  
+Use stylish bins to sort items during decluttering, making the process more enjoyable.
+
+  
+13.
+
+  
+Use Furniture with Built-in Storage
+
+  
+Invest in pieces specifically designed to provide storage.
+
+  
+Storage Beds
+
+  
+: Many beds come with built-in drawers for easy access.
+
+  
+Coffee Tables
+
+  
+: Choose coffee tables with hidden storage compartments.
+
+  
+How to Achieve the Look:
+
+  
+Select furniture styles that match your decor for effortless integration into your space.
+
+  
+14.
+
+  
+Create a Mudroom
+
+  
+Even in small apartments, a corner can serve as a mini mudroom.
+
+  
+Entryway Benches
+
+  
+: Use benches with storage for shoes and gear.
+
+  
+Wall-Mounted Hooks
+
+  
+: Add hooks for bags and coats in a designated entry space.
+
+  
+How to Achieve the Look:
+
+  
+Use colors and materials that define your entry area and keep it organized.
+
+  
+15.
+
+  
+Seasonal Rotation of Items
+
+  
+Keep only what you need in your apartment and rotate seasonal items.
+
+  
+Store Off-Season Clothing
+
+  
+: Use bins to store seasonal clothing and swap them out as needed.
+
+  
+Holiday Decorations
+
+  
+: Keep holiday decorations boxed until it’s time to use them.
+
+  
+How to Achieve the Look:
+
+  
+Label boxes for easy access and quick identification of contents.
+
+  
+Conclusion
+
+  
+Maximizing storage in a small apartment doesn’t have to be challenging. By utilizing vertical space, choosing multi-functional furniture, and incorporating clever organization systems, you can create a functional and stylish living environment. Embrace creativity in your storage solutions, and your small apartment can be transformed into a spacious oasis that meets all your needs. With these 15 small apartment storage ideas, you’re well on your way to optimizing your space and enhancing your home life!
+
+  
+",1,1747298680.0,GardeningNow,0,1.0,False
+1kn3c0a,https://www.reddit.com/r/IndiaCoffee/comments/1kn3c0a/fraction9_is_so_underrated/,Fraction9 is so underrated,"Too muchbof hype for other roaseters here, But I think Fraction9 is so underrated. Their coffee is so good and no disappointments till now. While big names such as BT are so inconsistent. Am I wrong here?",10,1747298666.0,IndiaCoffee,8,0.92,False
+1kn3b33,https://www.reddit.com/gallery/1kn3b33,Is this significant?,"I’ve got this first gen Tristan Easton dunny that I got about 20 years ago. Think it was featured in the I AM PLASTIC coffee table book. But I never had any peers in vinyl figure collection, so I don’t know if it’s as big for other collectors as it is for me. 
+
+OBS. There’s no scythe and the arm was chewed up a bit by my dog. ",3,1747298553.0,vinyltoys,0,1.0,False
+1kn378k,https://www.reddit.com/r/AskMenAdvice/comments/1kn378k/is_this_going_slow_or_is_this_kindly_being_led_on/,Is this 'going slow' or is this (kindly) 'being led on'?,"I've been speaking to a man for about 2/3 months every day online. We've met up about 6 times. All casual hang outs - coffee, walk, or chilling at home. We've slept together a few times but we didn't right away.
+
+I had a casual 'what is this' chat (without it being that direct but for the purpose of this post, let's just say that). He likes things to move slow and seems hesitant about the changes I could bring to his life - he enjoys his routine he has but says he enjoys spending time with me too.
+
+I'm the same but I feel I would sacrifice my free time more to spend time with him than he would me (because I would prefer spending time with him more than my usual routine anyway).
+
+I very much doubt he is speaking to any other women. He has been single for a few years and focusing on his hobbies, work, friends, etc.
+
+I'm happy with taking it slow (it's not even slow yet, it's undefined). I told him I just want to know if it *could* be something rather than it *will* be something.
+
+What do you think? I've been out of the dating game for a long time so I don't have any reference anymore.
+
+  
+Update - late 20s. His friends and some family know about me",2,1747298087.0,AskMenAdvice,25,1.0,False
+1kn36ba,https://www.reddit.com/r/pourover/comments/1kn36ba/waterwhat_water/,Water...what water?,"Hello everyone. 
+
+I've been using bottled water (Volvic) to brew my coffee and I'm pretty satisfied with the results I get from it, but I'd like to move to a more affordable option.
+
+I already have a brita jug (maxtra filter) and I was wondering if getting a Zerowater jug and mixing it with Brita water would get me decent results.
+
+Thanks in advance!",3,1747297975.0,pourover,21,1.0,False
+1kn35jm,https://www.reddit.com/r/Tunisia/comments/1kn35jm/where_to_hangout_in_tunis/,where to hangout in tunis?,"When you wanna chill at a coffee shop or something alike, where to go in tunis?",2,1747297875.0,Tunisia,7,1.0,False
+1kn34pi,https://www.reddit.com/r/BlackNovel/comments/1kn34pi/billionaires_accidental_marriage_by_whispering/,Billionaire's Accidental Marriage by Whispering Willow - (Katherine Galatea and Alexander Melville),"# Rather than marrying a repulsive blind date, I'd prefer a quick wedding with a handsome older man. What I didn't anticipate, however, was that this man I hastily married would turn out to be not only kind and caring but also a hidden billionaire...
+
+# （I highly recommend a captivating book that I couldn't put down for three days and nights. It's incredibly engaging and a must-read. The title of the book is ""The Billionaire's Daughter"" You can find it by searching for it in the search bar.）
+
+# Chapter 1 Help me out!
+
+The coffee shop.
+
+""After we get married, you'll quit your job and become a full-time mom,"" the man arrogantly declared.
+
+Katherine Galatea looked at the man from her blind date, a middle-aged man with thinning hair, a bulky figure, and nearing his forties.
+
+Her stepmother, Lillian Galatea, must be afraid that she would marry a good man, forcing her to meet such an old scumbag.
+
+Katherine sneered.
+
+This middle-aged man was initially dissatisfied with Katherine's smoky eyes, but considering her slender figure and good temperament, he thought she would be beautiful when undressed.
+
+So he asked, ""Miss, how tall are you without shoes?""
+
+Katherine casually stirred her coffee and replied, ""Five and a half feet.""
+
+The middle-aged man was satisfied with this. ""You are somewhat suitable for me. I'm nearly 5.9 feet tall, which is the perfect height difference between us! When we kiss, you'll have to tiptoe, but it's okay; I can bend down to match you!""
+
+It was well known that mediocre and self-absorbed men who claimed to be 5.9 feet tall were at most 5.7 feet!
+
+Katherine looked at him speechlessly. ""Sir, you might not be aware of the height required for a girl to tiptoe and kiss a man.""
+
+The middle-aged man frowned, displeased. ""What do you mean by that?""
+
+At that moment, a tall and stern man walked into the coffee shop.
+
+Katherine glanced and saw Alexander Melville, who had just entered. She became interested and walked over to him.
+
+""Hello, excuse me. I want to use your height to demonstrate what a real height difference is!""
+
+Alexander furrowed his brow coldly.
+
+Before he could refuse, Katherine grabbed his tie and pulled it down, tiptoed, and accurately kissed his lips.
+
+""Did you see that? At the very least, you should be as tall as him to deserve a girl's tiptoeing kiss!""
+
+""You..."" The middle-aged man was infuriated and stood up, pointing at Katherine.
+
+""You are an unscrupulous woman, actually kissing a stranger! Just wait. I will tell the matchmaker about your misdeeds and tarnish your reputation. No one will ever go on a blind date with you again!""
+
+This was exactly what she wanted!
+
+After this incident spread, she wondered how Lillian would continue to find strange men for her blind dates!
+
+Katherine disdainfully snorted, then thanked the tall man who had ""helped"" her.
+
+""Sir, thank you for your kind assistance! See you later!""
+
+With that, she turned around to leave, but her wrist was firmly grabbed by a cold hand!
+
+A deep and chilling voice reached Katherine's ears.
+
+""You kissed me forcefully, and now you think you can just walk away?""
+
+Katherine felt a strong sense of oppression and looked up, only to be met with a strikingly handsome face.
+
+What a breathtakingly beautiful face!
+
+He had mature, styled hair and deep features on his handsome face, exuding a dangerous and fierce aura.
+
+Katherine had been too focused on dealing with the cheesy man earlier, so she had simply picked the tallest man around without carefully examining his appearance.
+
+Now that she took a closer look, this gentleman was indeed extraordinarily handsome. From his demeanor, she knew he was not an ordinary person!
+
+Katherine furrowed her brows slightly.
+
+""What do you want then?""
+
+Alexander looked at Katherine with extreme gloominess, his lips moving as if about to say something.
+
+At that moment, one of his black-clad subordinates who had been waiting nearby answered a phone call.
+
+He approached with a grave expression to report, ""Mr. Melville, there's been a change in plans! Sophia's flight encountered severe weather and had to turn back. She won't be able to make it to the country today. But your engagement ceremony is scheduled for tonight. What should we do now?""
+
+Alexander frowned upon hearing this.
+
+This engagement ceremony was crucial for his Grandfather, Warner Melville.
+
+Warner was not pleased that Alexander, nearing his thirties, was still unmarried and had been urging him to get married. Recently, Warner had a heart attack and needed an immediate heart transplant to survive.
+
+However, Warner threatened Alexander, saying that if Alexander wanted him to cooperate with the surgery, he had to get engaged today and married within three days!
+
+Sophia was the woman he had found to appease Warner, but now she couldn't make it.
+
+Meanwhile, Katherine had been impatiently held onto by Alexander. She asked, ""Excuse me, Sir, do you still need something? Can you let go of me?""
+
+Alexander gazed at Katherine, a deep and mysterious expression flickering in his profound eyes.
+
+Suddenly, he coldly curled his lips and said, ""Since this young lady has come to me voluntarily, let her replace Sophia!""
+
+Leander was taken aback and looked at Katherine's smoky eyes and disheveled curly hair with a disdainful gaze. She was dressed like a rebellious girl, and Leander felt that such a woman was not worthy of standing next to Alexander!
+
+""Mr. Melville, is this lady a bit...""
+
+""Do as I say!""
+
+Leander dared not voice any further objections. ""Yes!""
+
+Sensing something amiss, Katherine asked vigilantly, ""What do you mean? Sir, what do you want from me?""
+
+Alexander looked at her with disdain and said coldly, ""I want you to take responsibility for me!""
+
+Katherine's face was filled with disbelief.
+
+""Are you serious, Sir? I only kissed you, and now you want me to take responsibility for you? I just gave you my first kiss, and I never expected you to be responsible for me!""
+
+Alexander raised an eyebrow with interest. ""Your first kiss?""
+
+Katherine sighed with a hint of regret. ""Yes! I just gave you my first kiss for nothing!""
+
+Alexander's expression turned indifferent again as he calmly said, ""Take her away!""
+
+Immediately, Katherine was dragged out by several men in black and forced into a black luxury car.
+
+Moonlight Manor was the most prestigious estate in the city.
+
+Today, Alexander of the first family, the Melville family, was holding a grand engagement ceremony here, with a gathering of celebrities from all walks of life, creating a lively atmosphere.
+
+""I wonder which young lady is so fortunate to become Mr. Melville's woman!""
+
+""She must be a perfect woman with both family background and beauty! Ordinary women wouldn't stand a chance with Mr. Melville!""
+
+""Look, Mr. Melville is here! He looks so handsome...""
+
+""Huh? Is the girl next to Mr. Melville the rumored fiancée? She seems a bit...""
+
+She seemed different from what everyone had imagined.
+
+Amidst the attention of the crowd, Alexander led a strangely dressed girl to the central stage of the banquet.
+
+The host of the engagement ceremony stepped forward, holding the microphone, and began to speak.
+
+""Good evening, esteemed guests! Welcome to Mr. Melville's engagement ceremony!""
+
+Katherine stood on the stage, feeling utterly speechless!
+
+She had kissed Alexander without his consent, and she was in the wrong. He could have reported her for sexual harassment, and she would have acknowledged it!
+
+But she never expected that Alexander would be so arbitrary, forcibly bringing her here for the engagement!
+
+# Chapter 2 She Was Taken to Get Engaged!
+
+The guests in the audience had different expressions, and discussions were abound.
+
+""So, this is Mr. Melville's fiancée? She's dressed like a rebellious girl!""
+
+""Mr. Melville's woman should be gentle, beautiful, and elegant. What is this?""
+
+""Oh, Mr. Melville's taste is indeed quite unique.""
+
+Katherine deliberately dressed like this to scare off the man from her blind date.
+
+But Alexander seemed completely unconcerned about the image of his ""fiancée"" being criticized by others.
+
+In fact, he didn't even care if his own taste was questioned, watching everyone's discussions as if he were an outsider.
+
+Under the curious gazes of the guests, with a cold blade at her back, Katherine could only exchange engagement rings with Alexander helplessly until the host announced the completion of the engagement!
+
+Although the crowd found it difficult to appreciate Alexander's fiancée, they had to applaud and offer their blessings for his sake.
+
+Applause filled the air.
+
+Katherine walked down the stage, wanting to leave this troublesome place as soon as possible.
+
+But she was surrounded by three gorgeously dressed women who blocked her way.
+
+""Whose daughter are you?""
+
+""Why did you come dressed like this?""
+
+""Do you really think you're worthy of standing by Mr. Melville's side in this appearance?""
+
+Katherine walked past them without paying any attention.
+
+But these women blocked her again, refusing to let her pass.
+
+Losing her patience, she glanced at their extravagant dresses and said, ""You may look suitable standing next to Mr. Melville, but does he agree?""
+
+""You...""
+
+These three women were all from prominent families, and they had never been mocked like this before.
+
+They demanded an apology from Katherine and refused to let her leave!
+
+Meanwhile, Hilton Allen from the Allen family approached Alexander and clinked glasses with him.
+
+""Alex, where did you find this rebellious girl? If you bring her home, your Grandfather should be furious, right?""
+
+Alexander replied coldly, ""My Grandfather just wants a daughter-in-law. As long as she's a woman, it's fine.""
+
+Hilton sighed, ""There are so many women in the world; why did you choose someone like her?""
+
+Alexander lowered his eyes and took a sip of his wine, seemingly reminiscing about something.
+
+""Because she has a sweet mouth!""
+
+Hilton was taken aback and looked at his usually composed friend with disbelief. ""I never realized your taste was so... ""
+
+Suddenly, a glass of wine was spilled on Katherine!
+
+Hilton looked over at the sound and raised an eyebrow. ""It seems like your fiancée is being bullied. Shouldn't you go and help her?""
+
+Alexander narrowed his eyes at Katherine. ""No need.""
+
+Curious about what Alexander meant, Hilton watched as Katherine grabbed the hair of two women with both hands and forcefully slammed their heads together!
+
+The two women fell to the ground, dazed, while the remaining one stood there in shock.
+
+""You...""
+
+Katherine remained expressionless, said nothing, and simply waved her hand lightly.
+
+The last woman immediately stepped back, no longer daring to block the way.
+
+Hilton's mouth twitched.
+
+""I think I know why you chose this rebellious girl!""
+
+Alexander's eyes deepened as he sipped his wine, remaining silent.
+
+Katherine swiftly approached him, catching him off guard, and with just one hand, she pulled him closer and kissed him passionately.
+
+She was incredibly strong and daring, with quite a skill!
+
+""Leander, take her to change her clothes.""
+
+""Yes, Mr. Melville!""
+
+Instead of going to change, Katherine walked over and glared at Alexander discontentedly.
+
+""Sir, this is not fair! I only gave you a light kiss, and now you want me to marry you. That's too much. Can't I take a different responsibility, like financial compensation?""
+
+Alexander narrowed his eyes, a hint of a mysterious smile appearing in his deep gaze as he looked at Katherine. ""So, how much do you think a kiss from me is worth?""
+
+Katherine first examined his face, then seriously observed his handsome thin lips, as if she was really evaluating.
+
+""I'm not sure, so why don't you name your price? You don't seem young, so I assume it's not your first kiss. I hope the price doesn't exceed 40 dollars. Even if you want more, I won't give it to you!""
+
+""How dare you!""
+
+Leander thought Katherine was asking for trouble.
+
+It was an honor for her to be engaged to Alexander, yet she dared to look down on him?
+
+Alexander gestured for Leander to step back, and then he pinched Katherine's delicate chin between his fingers.
+
+His grip was not strong, but it carried a sense of danger.
+
+""Katherine, since you dare to tease me in public, you have to see it through and bear the consequences. Remember that.""
+
+Katherine furrowed her brows, pondering, 'This man must be a little crazy. I don't look good today, so why is he so fixated on me?'
+
+Katherine smiled, her eyes darting around, and casually said, ""Alright! Can I go to the restroom now?""
+
+Alexander didn't say anything; he just gave Leander a faint look, indicating that he should take her to the restroom.
+
+A few minutes later, Leander returned to Alexander with a serious expression and leaned in.
+
+""Mr. Melville, Ms. Galatea jumped out of the restroom window and ran away. I've sent someone to chase after her.""
+
+Alexander, dressed in a sharp suit, lazily leaned back on the sofa as if he had anticipated this outcome. His handsome face remained calm as he swirled the glass of red wine in his hand.
+
+""No need to chase her. Find out her home address and send someone to visit her family.""
+
+""Yes!""
+
+Hilton, who had witnessed the scene, couldn't help but advise, ""Alex, do you really want to marry this disgraceful girl? Actually...""
+
+Alexander spoke with a profound meaning, ""It takes a woman like her to handle it.""
+
+When Katherine returned home, it was already late at night.
+
+As soon as she entered the house, her father, Joshua Galatea, raised his hand and swung it towards her face.
+
+""How dare you come back!""
+
+Katherine agilely stepped back, easily avoiding his slap.
+
+Joshua's anger grew when he missed hitting her.
+
+""Katherine, your mother carefully chose a high-quality man for you, but you dressed like this and went on a blind date! You even kissed a stranger in public. You have brought shame upon the Galatea family! Apologize to your mother immediately!""
+
+Katherine's hands were in her coat pockets, her gaze cold. ""She is not my mother.""
+
+Lillian was just her stepmother, someone who tried every means to get her married off quickly and deprive her of the inheritance from the Galatea family.
+
+Lillian pretended to be kind and said, ""Joshua, I'm fine. Don't be angry with Katherine. She's young and willful. It's my fault for not raising her well.""
+
+Seeing Lillian still speaking up for Katherine at a time like this, Joshua felt even more affectionate towards Lillian.
+
+He turned his head and scolded, ""You are so ungrateful! Lillian is always good to you, and you won't even call her mom!""
+
+Lillian wiped away nonexistent tears and appeared conciliatory as she said, ""Joshua, it's okay! It doesn't matter if she doesn't call me mom. I don't mind!""
+
+Watching Lillian's performance, Katherine no longer found it surprising.
+
+This hypocritical woman was best at pretending to be pitiful; she was two-faced.
+
+Only Joshua was blinded by her beauty and couldn't see her true colors!
+
+Katherine handed a stack of documents to Joshua and said, ""Dad, these are all the real information about the men Lillian found for me to go on blind dates with. Take a look. If you think there's a suitable candidate, I'll marry him!""
+
+Joshua was taken aback, picked up the documents, and as he flipped through them, his expression gradually became strange.
+
+# Chapter 3 Wedding Presents
+
+The men in the information were all unattractive, with an average age of around forty, and most of them didn't even have proper jobs!
+
+Joshua glared at Lillian in dissatisfaction. ""There are even men here who are almost the same age as me! Lillian, how could you introduce Katherine to such old men!""
+
+Lillian's expression stiffened. She had someone falsify the photos and information of those men in advance.
+
+But she didn't expect that Katherine, who usually had no capabilities, would be able to find out the real information about those men this time!
+
+Lillian quickly looked grieved and said, ""Joshua, I don't know why things turned out this way. I carefully selected some men for Katherine. It must be the person who introduced them who provided false information!""
+
+Katherine found it amusing. ""Lillian, you didn't even verify the authenticity of the men's information, and yet you are so certain that they are all high-quality men? Is it because I'm not your biological daughter that you are not taking my marriage seriously? Dad, if I were to marry such old men, you would also feel ashamed, right?""
+
+Lillian hurriedly tried to explain, ""No... I...""
+
+But Joshua didn't want to hear her explanation. He was extremely disappointed and threw the information at Lillian's face.
+
+""That's enough! You don't have to handle Katherine's marriage anymore! I will freeze your credit card this month, so don't go out and spend money recklessly. Stay at home and reflect on your actions!""
+
+Lillian's face turned pale. ""Joshua, you have misunderstood me.""
+
+Joshua ignored her and looked at Katherine with some guilt. ""Katherine, you must have been through a lot meeting all those old men recently. You don't have to go on blind dates anymore.""
+
+Katherine smiled. ""Thank you, Dad.""
+
+After Joshua went upstairs, Lillian's expression turned fierce, and she glared at Katherine with malice!
+
+Katherine felt Lillian's angry gaze but calmly said, ""Lillian, I forgot to tell you that I thought the high-quality men you personally chose would make great sons-in-law for you. So, I gave them Sherry's private number, hoping that Sherry could have a happy life with them!"" Sherry Galatea was her stepsister.
+
+Lillian was furious and gritted her teeth. ""What? How dare you!""
+
+‘Sherry is a popular celebrity. Those bad men don't deserve to call Sherry!’ Lillian pondered.
+
+Katherine had no interest in Lillian anymore and yawned as she went upstairs to sleep.
+
+Lillian muttered a curse at Katherine under her breath and then went back to her room to persuade Joshua not to freeze her credit card. Suddenly, the doorbell rang!
+
+Who could it be at this late hour?
+
+She opened the door and saw a man in a suit, followed by a row of black men carrying many things.
+
+With so many strangers suddenly showing up in the middle of the night, Lillian couldn't help but be cautious. ""Who are you looking for?""
+
+Leander said, ""Mrs. Galatea, hello, we are here on Mr. Melville's orders to deliver wedding presents to Ms. Galatea!""
+
+""Wedding presents? And who is Mr. Melville?""
+
+""Mr. Melville's full name is Alexander Melville.""
+
+The name made Lillian's eyes widen. After all, Alexander was quite famous.
+
+""Alexander?! Are you talking about Alexander from the first family, the Melville family?""
+
+Leander replied, ""Yes.""
+
+Lillian asked, ""Are you saying that Mr. Melville has fallen for my daughter?""
+
+Leander's expression was complex, and he hesitated for a second before saying, ""You... could understand it that way.""
+
+Lillian considered her daughter Sherry to be a popular star, beautiful and talented, so it was normal for a wealthy man to be interested in her.
+
+But this pursuer's background was incredibly powerful, and he had come to her with so many wedding presents. It was all too sudden!
+
+Seeing that Lillian had been silent for a while, Leander asked, ""Does Mrs. Galatea disagree with the marriage to Mr. Melville?""
+
+Lillian snapped out of her thoughts and quickly shook her head. ""No. It's just that my daughter is not at home right now, and this is a big deal. I think we should wait for her to come back...""
+
+Leander interrupted, ""Mrs. Galatea, your daughter has already accepted the engagement ring from Mr. Melville. She has agreed to marry him. You can accept the wedding presents that Mr. Melville has sent to her.""
+
+Lillian was astonished. ""Sherry has already accepted Alexander's ring, so does that mean they have been in a relationship for a long time? Sherry had such a great boyfriend, and she didn't tell us!""
+
+Lillian didn't dare to neglect Leander and quickly invited him into the living room.
+
+Leander didn't enter but gestured for his subordinates to bring in the gifts.
+
+""In three days, Mr. Melville will personally come to marry Ms. Galatea.""
+
+Lillian was once again taken aback. ""Ah? In three days? Is that too rushed?""
+
+Leander said, ""Mrs. Galatea, please rest assured. Mr. Melville has already made all the preparations for the wedding. It will be a grand event.""
+
+‘A grand wedding?! It seemed that Alexander really loved Sherry!’ Lillian was excited and thought, ‘Once Sherry marries into the Melville family, I will be Alexander's mother-in-law. I will have a higher status and more wealth. Everyone will respect me in the future!’
+
+With these thoughts, Lillian felt overjoyed.
+
+""Alright! We will also prepare for my daughter's wedding in three days!""
+
+Leander nodded and bid farewell, ""Alright, goodbye.""
+
+Upon hearing the voices, Joshua came out again. ""Who is here? And what are all these?""
+
+Lillian joyfully touched the valuable gifts, her heart trembling with excitement.
+
+""Joshua! Something big has happened! The Alexander of the Melville family is going to marry Sherry. These are the wedding presents that the Melville family has sent for Sherry, all precious items!""
+
+Joshua was taken aback. ""What? Alexander? You mean Alexander Melville, the CEO of the Melville Group who just returned to the country recently?""
+
+Lillian nodded frantically. ""Exactly!""
+
+Joshua placed a hand on his chest, afraid that his heart might stop due to the excitement.
+
+""My goodness! I never expected that Sherry would capture Mr. Melville's favor!""
+
+Lillian couldn't hide her pride. ""After all, Sherry is my daughter!""
+
+""Lillian, you have given birth to a promising daughter!""
+
+""Now you're praising me. Just a moment ago, you said you would freeze my credit card!""
+
+""Well, I was angry earlier. Katherine is not your biological daughter, but you can't let her go on blind dates with much older men!""
+
+""I didn't mean it! Katherine grew up in the countryside; she has a wild personality and a bad temper. I just thought that older men might be more tolerant of her. I didn't expect the matchmaker to lie about the information!""
+
+""Lillian, I'm sorry. I misunderstood you.""
+
+Lillian easily appeased Joshua, feeling triumphant.
+
+She believed that Katherine was still too young and no match for her!
+
+However, Sherry was about to marry into the Melville family, and they would have a better life together in the future!
+
+The next morning, Lillian called her star daughter Sherry and asked her to come home immediately.
+
+As soon as Sherry entered the house, she complained unhappily, ""Mom, why did you call me back in such a hurry? I still have a shoot in the afternoon!""
+
+""Of course, it's for your marriage with the Alexander of the Melville family!""
+
+""Marriage? What do you mean? I don't know him at all!""
+
+Seeing Sherry's completely unaware expression, Lillian became nervous and quickly told her about the visit last night and the wedding presents.
+
+""Sherry, how can you not know Mr. Melville? You have already accepted the engagement ring from him!""",1,1747297778.0,BlackNovel,0,1.0,False
+1kn337i,https://www.reddit.com/r/espresso/comments/1kn337i/how_to_deal_with_coffee_beans_to_make_them_last/,How to deal with coffee beans to make them last longer?,"So i've got 2x 1 kg of freshly roasted cofffee beans by mail. It was roasted 1 week ago.  
+I intend to use 1kg for dialing in (it's the first time i have this coffee) and what will be left i'll distribute to single dosing jars and freeze. I'll use jars when i need them directly from freezer to grinder. 
+
+The other 1kg bag...can i just freeze it as it is and take it out when i need it, leave to to defrost (closed) and then distribute it to single jars and freeze again? I don't have enough single dosing jars to distribute 2kg in them right now.",1,1747297593.0,espresso,6,1.0,False
+1kn32zo,https://www.reddit.com/r/HFY/comments/1kn32zo/the_ace_of_hayzeon_ch_46_legacy_of_the_stray/,The ace of Hayzeon CH 46 Legacy of the Stray,"[first](https://www.reddit.com/r/HFY/comments/1ildxx8/the_ace_of_hayzeon_ch_1_awaken_in_the_dark/) [prevouis](https://www.reddit.com/r/HFY/comments/1klu7w6/the_ace_of_hayzeon_ch_45_the_breath_after_the/) next
+
+**Zixter – POV**
+
+I watched the planet’s winds roll beneath us, carrying thick clouds like rivers of turquoise fire. Part of me still couldn’t believe it.
+
+We did it.
+
+I whispered the words before I could stop myself.
+
+“We won.”
+
+Not even thirty minutes ago, we were fighting tooth and nail just to stay alive. And now… now they’re the ones falling.
+
+I chuckled under my breath—more disbelief than amusement. My muscles ached. My fur was scorched in places I couldn’t even see. But I was alive.
+
+We were all.
+
+And somehow, that felt stranger than the fight itself.
+
+
+
+I let my head fall back against the chair. It wasn’t fancy. Wasn’t even padded right. But it fit. Better than that blocky human one with the weird lumbar wedge—who builds a command chair without a tail slot, seriously?
+
+Still… we won.
+
+I could see it in the readouts, the sensors, the steady trickle of survivor reports coming in from all over the ship. We’d taken hits. Big ones. Some decks were sealed, others half-flooded with gas leaks or warped from hull stress—but we were still here.
+
+Alive.
+
+The bridge lights were low, red-tinged emergency glow dancing across consoles like ghost fire. A few of the crew were still at their stations, eyes glued to diagnostics. I saw Nixten down by the lower rail—his leg wrapped, ribs probably still aching—but he hadn’t left since he got back from Doc. He kept working.
+
+Stubborn brat.
+
+I tapped a claw against the armrest, more out of habit than anything. My comm buzzed softly. One of the Moslnoss had sent a report. No stragglers found on Deck 6. Good.
+
+Bit by bit, the mess was being cleaned up.
+
+My ears flicked at the sound of someone approaching. It was Sires—still in full armor, visor up, muzzle creased from exhaustion.
+
+“You should rest,” he said bluntly.
+
+I raised an eyebrow. “That coming from the guy who just cleared six decks solo?”
+
+He grunted, lowering himself into the chair beside mine. It creaked ominously under his weight. “Fair.”
+
+For a long moment, neither of us said anything. We just sat there, staring at the storm outside. The clouds rolled like angry oceans beneath us—turquoise and violet, shifting in unnatural patterns.
+
+“You think they’ll come back?” he asked.
+
+“The Seekers?” I tilted my head. “They always come back.”
+
+He nodded slowly. “Yeah. Thought so.”
+
+I turned back toward the viewport, claws steepling beneath my chin. “But next time, they’re going to find a pack that’s ready.”
+
+Sires didn’t respond. He didn’t need to. The silence between us said enough.
+
+We’d held the line.
+
+We’d protected our own.
+
+We’d brought back something no one else could.
+
+And in the shadows of a gas giant, buried under more wreckage than most ships ever survive—we still had a ship.
+
+I shifted in the chair again, this time finding the cup holder. I pulled out the emergency stim-coffee pod I’d stashed there weeks ago. Popped it open. Steam hissed out, sharp and bitter.
+
+I held it up toward the bridge crew. “To surviving.”
+
+Nixten, from the pit, raised a half-eaten ration bar in salute.
+
+“To surviving,” Sires echoed, his voice low.
+
+Yeah.
+
+Just for now.
+
+That was enough.
+
+
+
+Ten days.
+
+Ten days since we came to this sector looking for supplies—just to survive. That was the mission. Scavenge. Repair. Keep the crew fed.
+
+Now?
+
+I don’t even know anymore. New enemies. New allies. Ghosts and gods wrapped in machine skin. Whatever we were before… we’re not that now.
+
+I leaned back in the captain’s chair, fingers drumming slowly on the armrest, and played a war game in my head. The kind you run when sleep won’t come and the old instincts won’t shut up.
+
+What if we were still with the Naateryin navy?
+
+Still part of the grand fleet. Full formation. Standard protocols. Tactics polished through a thousand drills and doctrine reviews.
+
+Would we have made it?
+
+I pulled up the readouts. Combat analysis. Projection grids. Fire arcs and formation maps.
+
+Yeah.
+
+We’d have done okay.
+
+Right up until the Captains showed up.
+
+And then?
+
+They would’ve torn our fleet apart in minutes.
+
+Too rigid. Too slow to adapt. Built to fight wars we understood, not whatever this was.
+
+Whatever we’ve become now—it’s messier. Looser. We break rules. We improvise. We bleed weird.
+
+But we’re still standing.
+
+And in this sector?
+
+That might be the only thing that matters.
+
+
+
+And then there’s Dan—the strange one.
+
+It’s only been a month and a half since we met, but somehow it feels like he’s always been here. Part of the crew. Part of the pack.
+
+Still… there’s something about him that doesn’t add up.
+
+He’s hiding things. Not out of malice, just... holding pieces of himself back. Like how someone with zero recorded combat history can fly circles around elite pilots. How he moves like a veteran, yet flinches like a civilian.
+
+Is he a retired ace from some lost human war? No—he doesn’t carry himself like someone who served.
+
+It’s like someone downloaded elite-level reflexes into a noncombatant and forgot to tell him.
+
+And yet, there he was—charging through a death swarm, one arm down, just to get back a member of the crew.
+
+A member of *our* pack.
+
+I caught myself there.
+
+When did I start thinking of Zen like that? Like *pack*?
+
+I groaned, rubbing my forehead.
+
+Stars help me—I’m losing it.
+
+
+
+An AI.
+
+Back home, we were taught from a young age: any self-aware program—anything even close to what they call a DLF—was to be terminated on sight. No exceptions. No questions. Just kill it before it kills you.
+
+And yet... here we are.
+
+Zen. Ren.
+
+They're not just machines. They're not threats.
+
+They're packmates.
+
+Zen, who’s flown beside us. Fought with us. Bled with us in her own way.
+
+Ren, glitchy and awkward, sure—but still stood her ground when it mattered. Still put herself in danger to save Zen.
+
+And then there's Kale—a trained AI hunter. Raised and educated to track and destroy synthetic threats. I’ve seen him trace rogue code through corrupted systems like it was a blood trail in the snow.
+
+And he used those same skills to *save* a DLF.
+
+Stars… what are we even anymore?
+
+Naateryin, sure. But the kind that would’ve shot Zen on sight just weeks ago now fights to protect her.
+
+We’ve changed.
+
+Or maybe... we’re finally starting to see things clearly.
+
+
+
+Sires was still next to me, silently reviewing the battle report on his tablet. The bridge lights flickered faintly as the ship adjusted to the deeper atmospheric pressure. The storm outside groaned against the hull, but in here, everything felt too still.
+
+“Zixter,” Sires said suddenly.
+
+Something in his tone made me look over.
+
+He wasn’t just tired—he looked like someone had dropped a starship on his shoulders.
+
+“See this,” he muttered, handing me the tablet.
+
+I scanned it… and my ears flattened against my skull. My forehead thunked against the console in front of me.
+
+“You know what this means,” I groaned.
+
+Sires didn’t even blink. “Yeah. Whether Dan knows it or not… he just passed the Final Trial.”
+
+“The High One’s Trial of Fang and Blood,” I muttered. “Stars help us.”
+
+“Bring back an enemy alive,” Sires recited quietly. “Save a packmate. Secure territory. Deliver food to the den. All four. He did them.”
+
+I leaned back in my seat, rubbing my temples. “Do we *have* to say anything?”
+
+“If it gets out that a non-Naateryin passed the Trial,” Sires said, “we won’t have a choice. The whole clan network will hear about it.”
+
+“That makes him our pack leader now, doesn’t it…” I groaned again.
+
+Sires nodded once. “By right. Not rank. Not title. But by the Old Laws—yes.”
+
+I sat there, stunned, a bitter laugh bubbling up in my throat.
+
+“He doesn’t even *know*,” I said. “Doesn’t even *realize* what he did.”
+
+Sires folded his arms. “He didn’t need to. He just *acted*.”
+
+We both sat in silence for a long moment, letting the truth settle.
+
+Dan—human, outsider, wildcard—was now, by every rite and tradition, the leader of our pack.
+
+And I had no idea how the stars I was supposed to tell him that.
+
+
+
+I leaned back in the captain’s chair, ears flat. “Okay… so how exactly do we tell him? ‘Hey Dan, guess what? By the ancient laws of our people, you now outrank all of us, and can command us. Oh—and bonus round: according to the rites, the females of the pack, namely Callie and Nellya, you can ask them to bear your kits.’”
+
+Sires didn’t even flinch. Just stared ahead and muttered, “Stars, I hate old laws.”
+
+I groaned again. “He’s not even Naateryin. This law wasn’t *meant* for outsiders.”
+
+Sires shrugged. “Doesn’t matter. The Trial’s not about bloodline. It’s about action. And he did the deed.”
+
+I pinched the bridge of my muzzle. “He doesn’t even *know*. The guy barely figured out how to open a ration pack last week.”
+
+Sires smirked faintly. “That one *was* upside down.”
+
+I pointed a claw at him. “Not helping.”
+
+He held up both hands. “Look, at least we don’t have to worry about hybrid pups running around. I don’t think we’re… compatible.”
+
+I squinted at him. “You *think*?”
+
+“I mean, I’m not willing to run the experiment,” Sires said with a dry, deadpan.
+
+I sat there in silence for a while, tail flicking in slow, irritated arcs. Dan. Dan of all people. The human who once flinched when I bared my fangs. The outsider with no bloodline, no trial markings, no rite of passage…
+
+…and now?
+
+Now he’d passed a rite most trained Naateryin never survived. And he did it *by accident*.
+
+“I say we don’t tell him,” I muttered.
+
+Sires raised an eyebrow. “That’s… dishonorable.”
+
+“Then let me be dishonorable,” I snapped. “He already holds the rank of Wing Commander. He gives orders and we follow. If he finds out he’s *also* our traditional pack leader, it’ll break his brain.”
+
+Sires was quiet, then sighed. “You’re probably right. But what do we say when someone else figures it out?”
+
+I snorted. “We say… it’s complicated. Which, to be fair, it is.”
+
+But a part of me didn’t hate it.
+
+The other part just hoped he never asked why I started calling him ‘Alpha’ in front of the crew by accident.
+
+
+
+As I rubbed my temples, trying to figure out how we were going to break this to Dan without it sounding like a prank or a threat,
+
+Nixten limped up to us, his leg still in a cast, balancing a datapad and a half-eaten ration bar.
+
+“Am I interrupting the ‘existential dread and ancestral law’ meeting?” he asked, chewing with one cheek puffed out.
+
+Sires gave him a look. “Nixten, this is serious.”
+
+“It always is with you two.” He hobbled over, sat down—then winced. “Okay, serious, but also ow. So Dan accidentally triggered the ancient blood rite.”
+
+We all looked at him
+
+I nodded grimly.
+
+Nixten stared. “Stars help us. So what now—he’s our pack leader? Do we bow? Kneel? Offer tribute? I don’t even have cookies.”
+
+Sires grunted. “Worse. If he *knew* what it meant, he could technically order any of us to mate. Including—”
+
+“Nope!” Nixten threw up a hand. “Stopping you right there. Cast leg or not, I will hop out of the airlock before that talk continues.”
+
+I tried not to snort. I failed.
+
+He leaned back with a groan, shaking his head. “So how do we tell him?”
+
+“I don’t know,” I muttered. “Maybe during a meal? Hide it in the middle of a sentence, like, ‘Hey Dan, pass the salt—also you’re our alpha by ancient decree, enjoy your new harem, how’s the soup?’”
+
+“Perfect,” Nixten deadpanned. “I’m sure that’ll go great. Someone bring Doc when we do, in case he passes out.”
+
+
+
+You sure he did *all* of the Trials?” Nixten asked, already bracing for the headache this was going to cause.
+
+Sires didn’t even look up from his tablet. “Every. Single. One.”
+
+I rubbed between my eyes. “Okay, fine. Let’s walk through it. First—saving a pack member.”
+
+Nixten raised his paw, the one not in a cast. “Nellya. She was gone after the *Vortex*. Dan brought her back.”
+
+Sires nodded. “Callie too. Remember the first Seeker attack? He pulled her out when they surrounded the supply run.”
+
+I grunted. “And technically, he got us all out of starvation range when the food stocks were down to recycled protein cubes.”
+
+“Trial one, check,” Nixten muttered.
+
+“Trial two: securing territory,” I said.
+
+Sires raised a brow. “This ship. Who commands it?”
+
+“I’m the captain,” I snapped.
+
+“And who do you take orders from?” Sires asked, already smirking.
+
+I paused.
+
+Nixten blinked. “Oh yeah… Dan *does* outrank you.”
+
+I groaned. “Fine. Two for two.”
+
+“Trial three?” Sires said. “Bringing food to the pack.”
+
+We all paused.
+
+Then Nixten slowly raised his cast. “The party. Yesterday. The one with the real food.”
+
+“It was *steak,*” Nixten said seriously. “Like, actual steak.”
+
+I groaned into my paw. “Okay, fine. Fine. But he didn’t bring in an enemy alive. That’s the one that breaks it. Right?”
+
+Nixten tilted his head. “Drazzin.”
+
+I squinted at him. “What about Drazzin?”
+
+“He’s alive.”
+
+“I mean…” I frowned. “He’s a digitized mind in a tin shell.”
+
+Sires let out a low growl. “Since the AI Rebellion thirty years ago, that *still counts.* They codified it—an AI-hostile captured with operational thought is recognized as a live combatant.”
+
+I stared blankly for a second.
+
+Sires looked like someone had just stepped on his tail.
+
+“…He did do all four.”
+
+I slumped into the chair with a pained grunt. “Which means…”
+
+Sires nodded grimly. “By ancient law, that makes him the pack leader.”
+
+Nixten leaned back, a little too amused. “Think we should tell him?”
+
+“You gonna explain the part where he can now give us direct commands and we have to obey?”
+
+I opened my mouth to fire back—
+
+—and the wall speaker crackled.
+
+**Ren’s** voice. through the wall speakers.
+
+“Oh, sorry. I’ve been recording this whole thing.”
+
+We froze.
+
+“You’ve *what*?” I snapped, standing up so fast I nearly knocked over my console.
+
+“You guys talk a lot when you think no one’s listening,” Ren said innocently. “I mean, I’ve got over three hours of audio. Do you know how many times you called him *‘strangely competent’*?”
+
+Nixten grinned. “I want a copy of that. Please.”
+
+Sires just stared at the wall and muttered, “How do we keep forgetting the walls *literally* have ears?”
+
+I groaned and rubbed my face. ""Delet it. We can't have it going out."" Ren's voice came back. ""Too late. I already filed it under 'emergency command promotion, informal basis.' It's official now."" I facepalmed. ""Ren... why?""
+
+“Because,” she said with an a slike sense of nerves in her tone. “Zen asked me to keep a record of the ship’s social dynamics and hierarchy. She likes having logs. Besides, Dan deserves to know. Eventually.”
+
+“Eventually?” Sires asked warily.
+
+“Well, not now,” she said. “I’m still trying to figure out how to tell him without him running full-speed into a wall. And I’m already in hot water with him.”
+
+Nixten leaned back in his seat, smirking. “We’re doomed.”
+
+“Yup,” I groaned.
+
+Ren’s voice crackled in again.
+
+“Just be glad Zen’s not stable enough to leave her containment yet—or she’d probably be live-streaming this to Dan right now.”
+
+There was a beat of silence.
+
+Then Sires muttered, “We need to uninstall every mic on this ship.”
+
+Nixten coughed. “Too late. She *is* the mics.”
+
+I slammed my head gently against the console. “High One help us.”
+
+
+
+The door to the bridge hissed open.
+
+We all froze mid-conversation—Nixten with his ration bar halfway to his mouth, Sires still staring at the wall like it had betrayed him, and me… mentally panicking.
+
+Dan walked in, holding a datapad like nothing was wrong. No fanfare. No music. Just his usual “I have seventeen things to fix and no time” energy.
+
+He looked around at the three of us.
+
+Then tilted his head.
+
+“…Zixter?” he asked slowly, eyes narrowing slightly. “Everything okay?”
+
+Sires snapped to attention like he’d been caught stealing from the armory.
+
+“Fine,” I barked, too quickly. “Fine. Just… routine analysis.”
+
+“Uh-huh.” Dan raised an eyebrow. “Because you’re all staring at me like I walked in on a crime scene.”
+
+Nixten coughed. “No crime here. Just three normal Naateryin doing normal… Naateryin things.”
+
+Dan glanced between us. “Right. And the sudden silence, awkward tension, and the fact that Zixter has a dent in his forehead from headbutting the console?”
+
+I instinctively rubbed the sore spot. “That was unrelated.”
+
+Dan blinked. “Unrelated.”
+
+“Completely,” Sires added.
+
+Dan didn’t believe us for a second, but thankfully, he didn’t press.
+
+Instead, he handed me the datapad.
+
+“I just finished the damage reports. Kale’s got containment prepped, the new hull patches are holding, and Ren’s working with Zen on memory sorting. Thought you’d want the overview.”
+
+I took the pad like it was a live grenade. “Thanks. Appreciate it.”
+
+He started to turn away.
+
+Then paused.
+
+Turned back.
+
+“…Also, Ren just messaged me something weird. She said, ‘Ask them what an Alpha Trial is.”
+
+All three of us choked at once.
+
+Nixten coughed up part of his ration bar.
+
+Dan narrowed his eyes. “Okay. What did I miss?”
+
+I opened my mouth.
+
+Closed it.
+
+Sires looked at the ceiling like he was hoping it would crush him.
+
+Nixten whispered, “She *streamed it, didn’t she*…”
+
+Dan just stared at us, confused. “...Seriously. What did I miss?”
+
+I sighed, long and slow. Then patted the seat next to mine.
+
+“Dan… sit down. This is going to get *weird.*”
+
+
+
+[first](https://www.reddit.com/r/HFY/comments/1ildxx8/the_ace_of_hayzeon_ch_1_awaken_in_the_dark/) [previous](https://www.reddit.com/r/HFY/comments/1klu7w6/the_ace_of_hayzeon_ch_45_the_breath_after_the/) next [patreon](http://patreon.com/rathorn50)",1,1747297563.0,HFY,2,1.0,False
+1kn32wm,https://www.reddit.com/r/Lofi_Beats_Submission/comments/1kn32wm/seeking_talented_lofi_producers_for_collaboration/,🎶 Seeking Talented Lofi Producers for Collaboration,"Hey Megazeus here 👋🏼
+I’m currently working on a new lofi project and looking to team up with like-minded producers. If you’re interested in collaborating, feel free to send your demos via DM. Let’s build something fresh and meaningful.
+
+You can check out my lofi tracks below 👇🏼 
+
+Dreaming Of You 
+https://open.spotify.com/track/2khrPP76o1lWB5dqE3VtAR?si=XHfRapnhTz6PLy7kIlExtg
+
+Found The Way
+https://open.spotify.com/track/7h9ElJHEntHdFcVj1MoTRf?si=Ji3iOg9OR3GRIdmdjDWWEA
+
+Coffee
+https://open.spotify.com/track/77sUiIdVElOfEoNf4lZhSo?si=rbVMLhvyRoGaSNEYydGIKQ",1,1747297552.0,Lofi_Beats_Submission,1,1.0,False
+1kn32qs,https://i.redd.it/6kwcsodnow0f1.jpeg,Looking for this book: Katherine Galatea and Alexander Melville,"The coffee shop.
+
+""After we get married, you'll quit your job and become a full-time mom,"" the man arrogantly declared.
+
+Katherine Galatea looked at the man from her blind date, a middle-aged man with thinning hair, a bulky figure, and nearing his forties.
+
+Her stepmother, Lillian Galatea, must be afraid that she would marry a good man, forcing her to meet such an old scumbag.
+
+Katherine sneered.
+
+This middle-aged man was initially dissatisfied with Katherine's smoky eyes, but considering her slender figure and good temperament, he thought she would be beautiful when undressed.
+
+So he asked, ""Miss, how tall are you without shoes?""
+
+Katherine casually stirred her coffee and replied, ""Five and a half feet.""",1,1747297532.0,romancenovels,0,1.0,False
+1kn30ev,https://www.reddit.com/r/CoffeePH/comments/1kn30ev/coffee_grinder_recommendation/,Coffee grinder recommendation,"Planning to upgrade ng automatic grinder. Any suggestions? Looking at
+
+1. koryaiko k680
+
+2. barista af83,
+
+3. hey cafe on demand (pricey) 
+
+4. eureka atom specialty 65
+
+5. eureka firenze 75
+
+Any other brand or model recommendations? Budget is 45k below. At least 1kg hooper capacity for semi commercial use. TIA",1,1747297246.0,CoffeePH,3,0.67,False
+1kn2xxi,https://www.reddit.com/r/r4rquezoncity/comments/1kn2xxi/35_m4f_meet_up_timog_or_nearby_coffee_or_shot/,35 M4F meet up. Timog or nearby? Coffee or shot? Today!!,,1,1747296943.0,r4rquezoncity,0,1.0,False
