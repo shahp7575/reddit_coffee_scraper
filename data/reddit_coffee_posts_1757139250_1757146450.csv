@@ -1,0 +1,1581 @@
+id,url,title,text,score,created_utc,subreddit,num_comments,upvote_ratio,over_18
+1n9tyfc,https://www.reddit.com/r/berkeley/comments/1n9tyfc/4_semesters_of_rejection/,4 semesters of rejection,"Title. I’m a junior now recruiting for banking and every semester I’ve applied to numerous consulting clubs to try and network and make friends. I’ve been getting rejected every semester since I was a freshman and my last shot to make it was this semester. The ship has sailed completely.
+
+I don’t understand why or how I keep getting rejected. I do coffee chats, attend info sessions and casing, my resume is strong with 5+ internships in equity research, investment banking and private equity in 3 different countries, my gpa is above a 3.0, plenty of extras. 
+
+I’m gonna graduate Berkeley without having made a single connection in clubs. I’m not in Greek life. I’m not in a club. I’ll never have gone on a single retreat. I have like 4 friends. I missed out on everything. 
+
+Is there still any hope for me. Someone please tell me there is a way that I can make a group of friends and not feel like I graduated without a single quintessential Berkeley experience",1,1757145837.0,berkeley,2,0.67,False
+1n9tw5u,https://www.reddit.com/r/perth/comments/1n9tw5u/has_everyone_in_perth_forgotten_how_a_bar_works/,Has everyone in Perth forgotten how a bar works?,"Went out last night and people were literally forming a queue at the bar. Like, one behind the other, waiting their “turn.”
+
+That’s not how a bar works. The whole point is you spread out, make eye contact with the bartender, and they serve people roughly in order of arrival. When you queue in a straight line, half the bar is empty, the “queue” is sprawled amongst tables of people trying to have a drink and people are giving demon eyes at those just walking straight up to the bar.
+
+It’s not a coffee shop. You don’t need to stand single-file with your hands politely folded. Just approach the bar, claim a bit of space, and wait your turn like a normal human.
+
+Am I crazy, or is this a new thing people are doing?
+",0,1757145606.0,perth,7,0.35,False
+1n9tvxn,https://www.reddit.com/r/Smartphones/comments/1n9tvxn/meet_pixel_10s_camera_coach_ai_that_turns_every/,Meet Pixel 10’s Camera Coach – AI That Turns Every Snap Into a Masterpiece,"Google is taking smartphone photography to another level with the **Pixel 10**. The headline feature this year? **Camera Coach** – an AI-powered assistant built right into the camera app.
+
+Here’s what it does:
+
+* **Real-time guidance:** It analyzes your frame and gives live tips like “move closer,” “adjust lighting,” or “try portrait mode.”
+* **AI composition help:** Suggests angles and framing to make your shots look professional.
+* **Smart corrections:** Fixes exposure, shadows, and colors on the fly without making photos look fake.
+* **Learning-based suggestions:** The more you use it, the better it adapts to your style of photography.
+
+Google claims this will **bridge the gap between casual users and pro-level photography**, making sure even your random coffee cup pic looks Instagram-ready.
+
+The Pixel lineup has always been praised for computational photography, but with Camera Coach, it feels like Google wants to become your personal photography mentor.
+
+Do you think this is a **game-changer** for smartphone photography, or is it just more AI hype?",1,1757145582.0,Smartphones,0,1.0,False
+1n9tvw4,https://www.reddit.com/gallery/1n9tvw4,Weekend is here Double XP you know what that means,,2,1757145577.0,Battlefield,0,1.0,False
+1n9tvqq,https://www.reddit.com/r/learnmachinelearning/comments/1n9tvqq/am_i_planning_it_right_to_learn_machine_learning/,Am I planning it right to learn Machine Learning?,"# I made the below plan after prompting ChatGPT and Claude. Please help me verify if this is a good roadmap. If there is something missing, do let me know. 
+
+# Phase 1: Mathematical Foundations
+
+Linear Algebra
+
+* 📺 3Blue1Brown ""Essence of Linear Algebra"" ★★★★★
+* 📚 Mathematics for Machine Learning (Ch. 2–4) ★★★☆☆ 
+
+Calculus (6 hrs)
+
+* 📺 3Blue1Brown ""Essence of Calculus"" ★★★★★ (\~5 hrs) → *Focus on derivatives & gradients.*
+
+Statistics & Probability (8–10 hrs)
+
+* 📺 StatQuest ""Statistics Fundamentals"" ★★★★★
+* 📺 Khan Academy / Harvard Stat110 Lite ★★★★☆ (\~5 hrs) → *Deeper intuition.*
+
+# Phase 2: Python for Data Science (1–2 weeks, 12–16 hrs)
+
+NumPy & Pandas (10 hrs)
+
+* 📚 Python for Data Science Handbook (Jake VanderPlas) ★★★★★ (\~8 hrs)
+* 📺 Kaggle Learn: Pandas ★★★★☆ (\~2 hrs hands-on)
+
+Data Visualization (2–4 hrs)
+
+* 📚 VanderPlas Ch. 4 (Matplotlib basics) ★★★☆☆
+* Skip deep dive into Seaborn ★★☆☆☆.
+
+# Phase 3: Machine Learning Fundamentals (4–6 weeks, 40–60 hrs)
+
+Core ML Concepts
+
+* 📚 Hands-On ML (Aurélien Géron) Ch. 1–9 ★★★★★
+* 📺 StatQuest: ML Playlist ★★★★★
+* 📺 Andrew Ng Coursera ML ★★★★☆ 
+
+Practical Implementation (15 hrs)
+
+* 🛠️ Scikit-learn tutorials ★★★★☆ (\~5 hrs)
+* 🛠️ Kaggle Titanic competition ★★★★★ (\~10 hrs, build portfolio)
+
+👉 If short on time: Do Géron + StatQuest + Kaggle. Andrew Ng’s course is optional but valuable.
+
+# Phase 4: Deep Learning Foundations (4–6 weeks, 40–50 hrs)
+
+Neural Networks from Scratch (25 hrs)
+
+* 📺 Andrej Karpathy: ""Neural Networks: Zero to Hero"" ★★★★★ (\~10 hrs videos + 15 hrs coding)
+
+CNNs & Computer Vision (12 hrs)
+
+* 📺 3Blue1Brown: Neural Networks (4 eps) ★★★★★ (\~1 hr)
+* 📚 Géron Hands-On ML Ch. 14 (CNNs) ★★★★★ (\~4 hrs)
+* 📺 Stanford CS231n Lecture 5 ★★★☆☆ (\~1.5 hrs, optional)
+
+Framework Mastery (10 hrs)
+
+* PyTorch tutorials: ""Learning PyTorch with Examples"" ★★★★★ (\~8 hrs)
+* OR TensorFlow 2 (Effective TF2) ★★★☆☆ (only if your company uses TF)
+
+RNNs/LSTMs (3 hrs skim)
+
+* 📚 Géron Hands-On ML Ch. 15 ★★★☆☆ (\~3 hrs skim) → *Legacy systems still use them.*
+
+👉 Don’t skip Karpathy + PyTorch. CNNs are must-do. RNNs/LSTMs skim only.
+
+# Phase 5: Specialization (Pick One, 3–4 weeks, 25–35 hrs)
+
+Option A: NLP (Most Industry Demand)
+
+* 📺 Stanford CS224n Lectures 1–3, 6–8 ★★★★★ (\~9 hrs)
+* 📚 Hugging Face NLP Course Ch. 1–4 ★★★★★ (\~6 hrs)
+* 🛠️ Project: Fine-tune BERT ★★★★★ (\~10 hrs)
+
+Option B: Computer Vision
+
+* 📺 Stanford CS231n (selected lectures) ★★★★★ (\~6 hrs)
+* 📚 PyTorch Vision Tutorials ★★★★☆ (\~9 hrs)
+* 🛠️ Project: Transfer learning classifier ★★★★★ (\~10 hrs)
+
+Option C: Recommender Systems (Great for industry)
+
+* 📚 Deep Learning for Recommender Systems survey ★★★★☆ (\~5 hrs)
+* 📺 YouTube: Recommender Systems lectures ★★★★☆ (\~4 hrs)
+* 🛠️ Project: MovieLens dataset recommender ★★★★★ (\~15 hrs)
+
+YouTube Channel Priorities
+
+* **Tier 1 (Subscribe now):** 3Blue1Brown, Karpathy, StatQuest ★★★★★
+* **Tier 2 (After ML Fundamentals):** [Fast.ai](http://Fast.ai), Two Minute Papers, Yannic Kilcher ★★★★☆
+* **Tier 3 (Optional):** Lex Fridman, AI Coffee Break ★★★☆☆
+
+Realistic Timelines
+
+* **Intensive (20 hrs/week):** 5 months
+* **Part-time (10 hrs/week):** 8–10 months
+* **Weekend (6 hrs/week):** 12–15 months",1,1757145561.0,learnmachinelearning,0,1.0,False
+1n9tve4,https://www.reddit.com/r/SlashYourBills/comments/1n9tve4/reduce_phantom_power_use/,reduce phantom power use,"Unplug and Save: The Ultimate Guide to Reducing Phantom Power Use
+
+In today's technology-driven world, invisible energy vampires are silently draining your electricity and inflating your energy bills. Phantom power, also known as standby power or vampire power, refers to the electricity consumed by electronic devices when they're seemingly turned off but still plugged in. From your smart TV to your coffee maker, these devices continue to draw power even when you think they're not in use. The cumulative effect is staggering – studies show that phantom power can account for up to 10% of your home's total energy consumption, translating to hundreds of dollars wasted annually. Understanding and reducing phantom power use isn't just about saving money; it's a crucial step towards energy conservation and reducing your environmental footprint.
+
+Click here to learn more: FREE Ebook https://drive.google.com/file/d/1ZcnjsjJPklKxDdFHEYKskGom128lU874/view?usp=sharing
+
+What is Phantom Power?
+
+Phantom power is the electricity consumed by electronic devices when they're technically ""off"" but still plugged into a power source. These devices continue to draw small amounts of electricity to maintain standby modes, power displays, or stay ready for instant activation. Common culprits include:
+
+- Televisions
+- Computer equipment
+- Gaming consoles
+- Kitchen appliances
+- Chargers and adapters
+
+The Cost of Phantom Power Consumption
+
+The financial impact of phantom power is more significant than most people realize. An average home can waste $100-$200 annually on standby power alone. Modern electronics are particularly notorious for continuous power draw, with some devices consuming nearly as much electricity when ""off"" as when in active use.
+
+Click here to learn more: FREE Ebook https://drive.google.com/file/d/1ZcnjsjJPklKxDdFHEYKskGom128lU874/view?usp=sharing
+
+Practical Strategies to Reduce Phantom Power Use
+
+1. Unplug Devices Completely
+The most straightforward method to **reduce phantom power use** is simple: unplug devices when not in use. This eliminates any standby power consumption entirely.
+
+2. Use Smart Power Strips
+Smart power strips automatically cut power to devices in standby mode. These innovative devices can:
+- Detect when devices are not in use
+- Completely shut off power to multiple electronics
+- Save up to 10% on your electricity bill
+
+3. Choose Energy-Efficient Electronics
+When purchasing new devices, look for:
+- Energy Star certified products
+- Low standby power consumption ratings
+- Devices with automatic power-down features
+
+Click here to learn more: FREE Ebook https://drive.google.com/file/d/1ZcnjsjJPklKxDdFHEYKskGom128lU874/view?usp=sharing
+
+Room-by-Room Phantom Power Reduction
+
+Kitchen Strategies
+- Unplug small appliances like toasters and coffee makers
+- Use power strips for multiple kitchen electronics
+- Disconnect charging stations when not in use
+
+Home Office Tactics
+- Turn off computer peripherals completely
+- Use laptop computers which typically consume less power
+- Unplug chargers and adapters when not charging
+
+Entertainment Center Approach
+- Use advanced power strips for TV, gaming consoles
+- Completely disconnect devices not frequently used
+- Enable power-saving modes on smart TVs
+
+Click here to learn more: FREE Ebook https://drive.google.com/file/d/1ZcnjsjJPklKxDdFHEYKskGom128lU874/view?usp=sharing
+
+Technology and Phantom Power Monitoring
+
+Modern technology offers innovative solutions to track and **reduce phantom power use**:
+- Energy monitoring smart plugs
+- Home energy management systems
+- Mobile apps that track electricity consumption
+
+Environmental Impact
+
+Reducing phantom power isn't just about saving money. By minimizing unnecessary electricity consumption, you:
+- Reduce carbon emissions
+- Decrease overall energy demand
+- Contribute to sustainable living practices
+
+Click here to learn more: FREE Ebook https://drive.google.com/file/d/1ZcnjsjJPklKxDdFHEYKskGom128lU874/view?usp=sharing
+
+Conclusion
+
+Reducing phantom power use is a simple yet powerful way to save money and support environmental sustainability. By implementing",1,1757145525.0,SlashYourBills,0,1.0,False
+1n9tsyt,https://www.reddit.com/r/espresso/comments/1n9tsyt/mahlkonig_ek_omnia/,Mahlkonig EK Omnia,"Ok, I'm at my wits end with my EK omnia, I bought it to be a bulk grinder doing approx 250g to 1000g at a time. 
+
+What i like. 
+- it's sturdy, 
+- the GUI interface is great 
+- it's consistent 
+- low power use. Being dc mean it uses less power which is great for people like me on battery power
+- the DC motor is super quiet. Which is a good thing an a bad. I use it at markets which means I have no easy way to tell if the grinder is actually running. Other than putting my hand on the side.
+
+What I don't like 
+- retention, this thing retains between 5g-30g batch after batch. Which would make it useless if you ever want to single dose. As a espresso grinder you may get away with the same beans as the retained coffee will be the same.
+- due to retention you basically have to knock using the flap constantly. Which has an added negative effective. The shoot where the ground coffee comes out of falls out of its housing into your coffee a lot.
+- it clogs, again the shoot clogs ups which causes the thing to fall out into your bag
+- I am unable to put a 1kg bag under the shoot and grind at once, I have to grind into a vessel and then transfer. Infact I need to do that all the time because of the fact that it keeps chocking and the shoot keeps popping out.
+
+Overall I feel this grinder has a some pretty significant design flaws. I regret buying it and will most likely be selling to either get a Guatemala or ek43 ",1,1757145255.0,espresso,0,1.0,False
+1n9tsun,https://www.reddit.com/r/kolkata/comments/1n9tsun/looking_for_frnd_for_coffee_cafe_hopping_and/,Looking for frnd for coffee cafe hopping and upcoming Durga puja,"How to find F frnd,
+I’m new in kolkata and im from Jaipur Rajasthan im 27M, 
+please give some suggestions,
+guys anyone help me?
+",1,1757145242.0,kolkata,2,0.67,False
+1n9trnf,https://v.redd.it/0215ht3j2inf1,Linea Micra making weird noise,Got my machine for less then a year. Since a week the machine makes a weird humming noise when making coffee. I’ve always cleaned and maintained the machine using La Marzocco products. Any suggestions on how to fix? ,3,1757145107.0,LaMarzocco,1,1.0,False
+1n9tq4f,https://www.reddit.com/r/BangaloreMeetups/comments/1n9tq4f/_/,☕️✨✨,"Hey everyone! 😊
+
+Is anyone here from Neeladri Road, Electronic City (or nearby)? Just putting this out there—if you’re around and would like to catch up for a coffee ☕ or a walk 🚶‍♂️🚶‍♀️, let’s connect!
+
+Would be nice to meet a few friendly faces in the area and just chill or chat 🌿🗨️
+
+Drop a comment or DM if you’re up for it. Super casual, no pressure! 😄",1,1757144934.0,BangaloreMeetups,0,1.0,False
+1n9tq2j,/r/roasting/comments/1n9tpvk/green_coffee_buyers/,Green coffee buyers,,1,1757144928.0,coffeetraders,0,1.0,False
+1n9tq09,https://www.reddit.com/r/AccountingPH/comments/1n9tq09/fellow_accountants_and_cpas_who_wants_to_start_an/,Fellow Accountants and CPAs who wants to start an Accounting firm or related services,"Hi, Fellow Accountants and CPAs!
+
+ 
+
+This might just be a shower thought or maybe not. But has anyone else started to think of starting an accounting firm or similar services?
+
+ 
+
+Just for context. I want to break free of the traditional system we have currently. Not because there’s anything inherently wrong with it(I myself galing din ako dito, and I can confidently say that without those experiences, I won’t be the professional I am today or the very person writing this), but because I think there's still room for us to grow *around* it.
+
+ 
+
+We accountants, at the start of our careers, are often immediately put in the ""grinder."" We don't get to choose our clients, and more often than not, we are handed down responsibilities where we have little to no choice but to simply adapt. I think this is why, for the most part, we Filipino accountants have poor work-life balance.
+
+Again, I’m not saying that's inherently wrong. Most seasoned CEOs, CFOs, and C-suite executives have sacrificed most of the first 10 years of their careers. I myself have put the past 8 years of my life on that front. There are days where I don’t get to spend even an hour with my kid or partner, family events na hindi makaattend or sleep sacrifices just for long hours of over-time and even early morning meetings. But tayo kasi now, we are already at the gates where we can choose not only what the future lies for us but for future practitioners in our profession. Of doing something bigger than ourselves.
+
+ 
+
+I realized this in the current years where we finally see a change in the dynamics from our generation. We finally have a voice, we finally have an impact in our country's politics, social norms, etc. Where in the past, it felt like we were only seen as a passive or soft population.
+
+ 
+
+I want to start an accounting firm or related service that is open to the changing dynamics and preferences of our collective. An environment that has some if not all of the following:
+
+·            **Purely Work-From-Anywhere Scheme:** Some of us want to do our work in places where we feel most comfortable. Some want to work a classic 40 hours a week in an office, while others want more than that. So why not work from a place where you can be more productive? You want to work while on a beach? Go for it! In a coffee shop? Go for it! You want to work while drinking and listening to a music gig? Go for it! The 80s and early 90s had a similar environment that led to successful companies, so why can't we do that as well?
+
+·            **Unlimited Paid Leave:** If you have worked hard enough and delivered your outputs, then what’s stopping you from taking a leave for the rest of the week or even the month? A work environment where work can be just ""a part"" of your life or a ""significant part"" of your life. The choice is yours.
+
+·            **A Culture of Choice and Growth:** Let's embrace change, including perceived threats like machine learning. Our firm should be adaptable, not just us as practitioners. We get to choose the clients we handle. If you want to take on a complex, challenging client, go for it! If you prefer to oversee mostly automated, robotics-integrated software used in an ERP, then you can do that too.  
+That same culture of choice and innovation will be offered to our clients. We will look for opportunities to develop their business, no matter how small. For example, we'll emphasize the use of API tools like Dext or Syft to improve their accounting processes. And we won't stop at traditional services; we'll offer consulting and advisory on everything from funding to expansion. This is how we foster a culture where everything we do is about value-adding to their business. And if a client asks us something that's beyond our capacity, we will not shy away from referring them to those who can help.
+
+·            **A Solid Career Growth Path:** We'll make a transition effort for everyone’s career growth. Associates can opt for a bridging program for roles they want to choose in the future, not just for local practice but for international practice as well. For example, if your first years are in accounting but you want to transition into consulting, robotics, or tax/R&D claims, you can do trainings while still in your main role. Of course, this means we need a diverse talent pool. Or even yung parts were we think they are not beneficial pero malaking tulong to us. Like learning a new language. If we are accepting clients from overseas then there’s a great chance they will be more confident and comfortable to work with someone in our team that speaks their tongue, or we must be open to the idea that some if not majority of our members or associates will eventually leave or go abroad. So why not be a stepping stone to that progress even more and offer language programs they want to learn on days off or lax hours at work.
+
+·            **Financial Literacy and Empowerment:** Let’s be more open and proactive about providing alternatives for personal finance and retirement for our associates. This means utilizing offers like PERA but also providing access to foreign investment opportunities, UITFs, and other financial tools.
+
+·            **A More Liberal Approach to Leadership:** I believe that there's more to leadership than just being motivated by profit, seniority, or even petty office politics. A leadership where it fosters every talent, new or old, with trust and an openness to innovation, because ideas can come from even the lowest rung of the ladder. This vision should linger and echo to those who will eventually take the lead. And if I am to be one of the leaders, I would be more than welcome to step down if I am no longer competent enough to hold it. Our firm should be open to reshuffling and extreme change if necessary, in order to uphold its value, long-term sustainability, and the ultimate benefit of the associates and members of the firm.
+
+ 
+
+I know some of these points need to be ironed out, and we have to be realistic as well in our expectations. While this may be a novel idea, it may or may not succeed. And I am aware that some things may be better said than done. Not to mention that the road ahead will be full of bumps and learning curve. But I am a firm believer that there’s something more for us and what we can offer, not only to our clients but also to ourselves and future practitioners. And I’d like to be, even at the very least, a part of that journey.
+
+ 
+
+So if you are like me who thinks the same, and would like to be a pioneer on this, maybe we can take a leap of faith and build something that has a potential of a major breakthrough. Then maybe we can discuss it a bit more.
+
+ 
+
+ ",1,1757144920.0,AccountingPH,1,1.0,False
+1n9tpvk,https://www.reddit.com/r/roasting/comments/1n9tpvk/green_coffee_buyers/,Green coffee buyers,Anyone interested in buying arabica or robusta in bulk from India?,1,1757144907.0,roasting,0,1.0,False
+1n9to2m,https://www.reddit.com/r/nespresso/comments/1n9to2m/why_the_hype/,Why the hype?,"Hey there, I am here to understand the hype.
+I've gotten so furious thinking about Nespresso (and it's mother company Nestlé) today and I just want to understand why literally everyone else is okay with the following:
+
+- Nespresso capsules have a price/kg coffee of about 60-90€, where a high quality coffee like Lavazza, Dallmayr, Illy is about 15-30€/kg coffee.
+
+- Nespresso machines tend to not last very long, I've seen a lot of machines stop working after 2-3 years. Is there a repair service by Nespresso of some kind, even after warranty? If not, isn't like super bad for the environment, if people just throw them away and buy new ones every few years?
+
+- I drink Nespresso coffee every few days, because my parents and coworkers share it with me. I have tried a lot of different capsules, but none really hit me as like SUPER DELICIOUS in comparison to other coffee brands. Do you really like nespresso coffee taste so much better than others?
+
+What is it that you like about it?
+Or do you just believe that George Clooney won't sell you bad coffee? (Because I'd believe that, he is handsome and trustworthy)
+
+Thank you for your honest opinions and have a nice weekend.",0,1757144719.0,nespresso,4,0.33,False
+1n9tnpw,https://www.reddit.com/r/NoFriendsFriendsClub/comments/1n9tnpw/home_gym_in_a_tiny_apartment_my_equipmentfree/,Home gym in a tiny apartment - my equipment-free muscle building routine,"So I live in what can generously be called a ""cozy"" apartment (translation: I can touch opposite walls with my arms spread out), and for the longest time I used this as an excuse to avoid working out. ""Can't afford a gym membership, no space for equipment, my downstairs neighbor will hate me"" - you know the drill.
+
+But plot twist: I've actually built more muscle in my shoebox apartment over the past year than I did during my previous two years of inconsistent gym visits. Turns out you don't need a bunch of fancy equipment or even that much space - you just need to get creative with what you've got.
+
+Here's my whole setup and routine that's designed for people living in spaces where doing jumping jacks means rearranging furniture.
+
+**My ""Gym"" Setup (Spoiler: It's Just Floor Space)**
+
+My entire workout area is literally a 6x6 foot section of my living room floor. That's it. When I'm not working out, it's just... floor. When I am working out, I move my coffee table 3 feet to the right and boom - home gym activated.
+
+Equipment list:
+
+- One yoga mat (got it for $15 at Target)
+- My own body weight
+- Occasionally a backpack filled with books for extra resistance
+- The edge of my couch for incline stuff
+- My bathroom counter for... you'll see
+
+That's literally it. No weights, no machines, no monthly fees, no commute time.
+
+**The ""Apartment-Friendly"" Workout Rules**
+
+**Rule #1:** No jumping. My downstairs neighbor Susan doesn't need to think there's a small earthquake happening every morning at 7 AM.
+
+**Rule #2:** Everything has to be doable in bare feet on carpet. No special shoes, no hardwood floors required.
+
+**Rule #3:** Maximum noise level = ""someone doing yoga"" not ""someone fighting for their life.""
+
+**Rule #4:** If I can't do it while my roommate is on a video call in the next room, it's not happening.
+
+These constraints actually made me more creative, not less effective.
+
+**The Routine That Actually Builds Muscle**
+
+I do this 4 times a week, takes about 35-40 minutes total. Each day focuses on different muscle groups so I'm not completely dead the next day.
+
+**Day 1 & 3: Upper Body Focus**
+
+_Push-ups (but make them interesting):_
+
+- Regular push-ups: 3 sets of as many as I can do
+- Incline push-ups using my couch: 2 sets (easier version for when I'm dying)
+- Decline push-ups with feet on couch: 2 sets (harder version when I'm feeling spicy)
+
+_The Couch Edge Workout:_
+
+- Tricep dips using couch edge: 3 sets of 12-15
+- Incline rows (lying under coffee table and pulling myself up): 3 sets of 10
+
+_Floor Stuff:_
+
+- Plank variations: regular, side planks, plank-to-push-up transitions
+- Mountain climbers (the quiet version - more controlled, less bouncing)
+
+**Day 2 & 4: Lower Body + Core**
+
+_Squat Variations:_
+
+- Bodyweight squats: 3 sets of 20
+- Single-leg squats (using couch for balance): 2 sets of 8 each leg
+- Wall sits against my bedroom door: 3 sets of 30-60 seconds
+
+_Lunge Situations:_
+
+- Forward lunges: 3 sets of 12 each leg
+- Reverse lunges: 2 sets of 10 each leg
+- Lateral lunges when I'm feeling ambitious
+
+_Core Destruction:_
+
+- Dead bugs: 3 sets of 10 each side
+- Bicycle crunches: 3 sets of 20
+- Leg raises: 2 sets of 12
+
+**The Progression System (Because Getting Stronger Matters)**
+
+Started with regular versions of everything, but here's how I keep challenging myself without buying new equipment:
+
+**Make It Slower:** Instead of fast push-ups, I do super slow controlled ones. Burns like hell but builds more strength.
+
+**Make It Uneven:** One-arm push-ups, single-leg squats, offset positions - makes everything harder.
+
+**Add Volume:** More reps, more sets, or shorter rest periods between sets.
+
+**Get Creative:** Push-ups with my backpack on, squats holding a gallon of water, lunges with books in my hands.
+
+The key is making tiny progressions. This week I can do 15 push-ups? Next week I'm aiming for 16, or 15 slower ones.
+
+**Dealing With Motivation in a Tiny Space**
+
+**The 5-Minute Rule:** On days when I really don't want to work out, I tell myself I only have to do 5 minutes. Usually once I start moving, I end up doing the whole thing. But if I only do 5 minutes, that's still better than nothing.
+
+**Netflix Workouts:** Sometimes I'll do planks or wall sits while watching TV. Doesn't count as my real workout, but keeps me moving on rest days.
+
+**The ""Uniform"" Effect:** I have specific workout clothes that I only wear for working out. When I put them on, my brain switches into exercise mode even in my tiny space.
+
+**Why This Works Better Than Gym Membership (For Me)**
+
+**No Excuses:** Can't use ""gym is too far"" or ""gym is too crowded"" or ""forgot my gym bag."" My gym is literally 5 feet away at all times.
+
+**Consistency Over Intensity:** I actually work out more often because there's zero friction. Bad weather? Don't care. Feeling antisocial? Perfect.
+
+**Progressive Overload Still Happens:** You can absolutely build muscle with bodyweight exercises if you keep making them harder over time.
+
+**Time Efficient:** No commute, no waiting for equipment, no getting distracted by other people. In and out in 40 minutes max.
+
+**The Reality Check**
+
+Will this turn me into a bodybuilder? Probably not. But will it make me significantly stronger, more toned, and more functional than doing nothing? Absolutely.
+
+I'm not trying to compete with people who have home gyms that cost more than my rent. I'm just trying to be stronger than I was last month, and this system works for that goal.
+
+** I'm convinced you can get surprisingly strong with just bodyweight and creativity, but maybe I'm just trying to justify my shoebox living situation.
+
+**TL;DR:** Built a muscle-building routine using just floor space, a couch, and bodyweight exercises. No equipment, no noise complaints, no excuses. Small space doesn't mean small gains if you get creative with progressions.",1,1757144682.0,NoFriendsFriendsClub,0,1.0,False
+1n9tnl7,https://i.redd.it/6sbsack81inf1.jpeg,"FORCED TO SAY, but best coffee for me so far!!!!!",,2,1757144668.0,IslamabadSocial,4,1.0,False
+1n9tm3q,https://www.reddit.com/r/BeneiYisraelNews/comments/1n9tm3q/hundreds_of_tears_israel_counts_900_soldiers/,Hundreds of tears: Israel counts 900 soldiers killed since start of Gaza war,"# From reservists to career officers, their lives reflect courage, devotion and the human cost of war as families and the military continue to mourn each loss
+
+Since the start of the fighting, Israel has been focused on numbers. Counting the days of combat and the days in captivity, tallying the living hostages, the fallen, and the IDF soldiers who paid with their lives. Officials and families count because it is the only way to provide markers in time, to remind themselves that the war is still ongoing. To gain context and perspective. Each loss opens a chasm in the heart of a family and community. Whole lives are reduced to a sticker and a military section.
+
+Ariel Lubliner became the 900th fatality in the campaign earlier this week, also becoming a symbol of the growing toll. As the numbers rise, it becomes harder to hold onto the stories, to remember names and faces. Families and the military return to the lists, to the “authorized for release” notices, trying to identify who opened the next hundred count. And another. And another.
+
+[Ariel Lubliner's son at his funeral \(Photo: Sharon Tzur\)](https://preview.redd.it/57ce0b100inf1.png?width=1024&format=png&auto=webp&s=b3e5cd892afaa7888c24a8f4f4b8f744edbd06d5)
+
+There is no way to know the exact order of the fallen. The scale of the October 7 attack and the ensuing chaos likely left the first casualty anonymous, but the first official “authorized for release” notice is known and remembered. In the following days, many soldiers fell. The tally relies on media reports during the fighting and on the IDF’s official list of fallen.
+
+Here are ten stories of ten soldiers representing 900 casualties: from north to south, religious and secular, men and women, reservists and active duty. In their lives, the fallen tell the story of Israel: a tiny country demanding so much from its people, filled with wealth and beauty, courage and deep camaraderie, and endless devotion.
+
+Yet the mosaic of loss is also a warning during days when the military prepares to enter Gaza amid sharp disagreements with political leadership. In thousands of homes, every breath is once again interrupted. The fallen and the terrible gap they left reflect not only the unbearable cost of the campaign but also the enormous responsibility required to manage it.[Ad](https://popup.taboola.com/en) 
+
+# Fallen No. 1: Col. Yehonatan Aharon Steinberg – 7.10.23
+
+Three officers arrived at Kibbutz Shomria on Simchat Torah and informed the [Steinberg family](https://www.ynetnews.com/article/hkmqdg2xkl) that their father, commander of the Nahal Brigade, had been killed in battle
+
+[Yiska Steinberg \(Photo: Gadi Kabalo\)](https://preview.redd.it/3cqjakt40inf1.png?width=853&format=png&auto=webp&s=a1daf2b3e09275373d6cc9dd6a3fe0ea96806a18)
+
+Born in Jerusalem and raised in Givat Ze’ev, he continued his studies at Ma’aleh Eliyahu Yeshiva in Tel Aviv before pursuing a distinguished military career. Friends and subordinates described him as quiet, gentle and determined, respected wherever he went.
+
+Hours earlier, Yoni received reports of infiltrators and rocket fire, packed his bag, and said goodbye to his wife, Yiska, who handed him a box of homemade cookies. She spent the following hours trying to comfort their six children. Yoni went to join his troops in battle but never made it, encountering a terrorist ambush at the Magen Junction and fighting alone before falling.His sister, Eilat Steinberg, eulogized him: “You were always the most organized child at home, everything arranged by height and color. You were a symbol of stability and security for us. Already at ten, during the first Gulf War siren, you woke us to enter the safe room. You taught us that even with a smile and a wink, one can express themselves. You knew how to distinguish what is essential in life from what is trivial.”
+
+# Fallen No. 100: Capt. Ido Israel Shani – 7.10.23
+
+Born in Giv’atayim, Ido grew up in the moshav of Tzora in Sharon from the age of three, the youngest son of the Shani family. As a teenager, he devoted himself to the Agricultural Union youth movement and volunteered for a service year.His wife, Maayan Shani, eulogized him: “You left us doing until the very last moment what you were destined to do, what you believed in most... the best man in the world has left us.”
+
+[Capt. Ido Israel Shani \(Photo: IDF Spokesperson's Unit\)](https://preview.redd.it/3obt7t180inf1.png?width=500&format=png&auto=webp&s=d58f2ec95150371a45a730dbb014392924800ca5)
+
+Ido was charismatic and responsible, but also playful and adventurous. On that Sabbath, as deputy commander of the Nahal Reconnaissance Unit, he stayed in charge of the Kerem Shalom sector. At 6 a.m., he had a morning coffee with other commanders; 43 minutes later he went on the radio: “War, I repeat, we are at war, everyone defend their sector, kill terrorists, good luck.”He was killed in the battle for Kibbutz Sufa, wounded in the head, evacuated to the settlement of Avshalom, and died of his injuries at 29.
+
+# Fallen No. 200: Sgt. Noa Freis – 7.10.23
+
+Noa’s father, Erez, traveled four times to Nahal Oz base hoping to rescue or understand what had happened to his daughter. The last message her parents received from her was “I love you” at the start of the attack.She served as a ground collection officer in the 414 Border Defense Battalion. At the end of her course, she proudly received her commander’s beret with the inscription: “The light in your heart will overcome every obstacle on the way to your goal.”
+
+[Sgt. Noa Freis](https://preview.redd.it/37lgorda0inf1.png?width=612&format=png&auto=webp&s=ab1f1fed42df83feea26641af43aa8ff9a50d404)
+
+Her mother, Sigal, eulogized her: “You made me feel pride, admiration and endless love. I learned from you and with you how a mother-daughter relationship can be close, authentic, direct, sometimes stormy, but always loving.”
+
+# Fallen No. 300: Sgt. Shira’el Chaim Por – 7.10.23
+
+Shira’el’s family endured three weeks of uncertainty before learning she had been killed at the Nahal Oz command post. Though not on duty, she immediately ran to the command center to alert forces and prevent further attacks, saving hundreds of lives.
+
+[Sgt. Shira’el Chaim Por ](https://preview.redd.it/qphddoac0inf1.png?width=552&format=png&auto=webp&s=438220d9471662dcff9980c6aa049cdf90f5ed99)
+
+Her parents, Tzmeret and Eliezer Por, and her brother, Barak, remembered her as a bright and dedicated young woman.
+
+# Fallen No. 400: Ret. Lt. Col. Adi Shani – 6.12.23
+
+Known for his playful spirit and mischievous sense of humor, Adi loved sports and professional running. He and his wife, Lior, built a home in Tzur Yitzhak with their three daughters. On October 7, he was called up to reserve duty as a combat engineer and continued to bring humor and energy even in the field.
+
+[Ret. Lt. Col. Adi Shani](https://preview.redd.it/z6e6xbne0inf1.png?width=400&format=png&auto=webp&s=c36b6203b92c202183e7f61eb22eeedfd8dfc721)
+
+His sister, Tamar, eulogized him: “You give your heart and soul before anyone even asks. That is who you are.”
+
+# Fallen No. 500: Lt. Col. Roy Yohai Yosef Mordechai – 6.1.24
+
+Roy and his wife, Neta, had a daughter, Uri, two years ago. Three months later, he was killed in combat in northern Gaza. A dedicated soldier, he had narrowly survived a terrorist attack in 2008 that killed eight classmates, an event that shaped his life.
+
+[Lt. Col. Roy Yohai Yosef Mordechai ](https://preview.redd.it/ho5gfnog0inf1.png?width=400&format=png&auto=webp&s=cdaf0bd00edb8426e31f9146e31acee5f3e869a6)
+
+His father-in-law, Poli Mordechai, described his devotion and bravery: “You would do exactly as he did.”
+
+# Fallen No. 600: Sgt. Nadav Cohen – 31.3.24
+
+Nadav, nicknamed Nedi, met his mother, Michal, and family outside Gaza a month and a half into the war. The reunion was filmed as his mother ran to embrace him on the bus.
+
+[Sgt. Nadav Cohen](https://preview.redd.it/mmwzr8hi0inf1.png?width=400&format=png&auto=webp&s=a46d194d68dc22ed50982ee6aa99c23aba92942b)
+
+A sensitive and beloved young man, Nadav volunteered enthusiastically for missions abroad and served in the 7th Armored Brigade like his grandfather. [He was 20 when he fell in combat in southern Gaza](https://www.ynetnews.com/article/sk0y11yzyjg).
+
+# Fallen No. 700: Sgt. Amit Tzadikov – 24.8.24
+
+Amit loved the Scouts, basketball, surfing, skateboarding and Israeli rap. During the Gaza fighting, he distinguished himself, including responding immediately when an RPG hit a building housing his commanders.
+
+[Sgt. Amit Tzadikov ](https://preview.redd.it/5q0z1k9k0inf1.png?width=400&format=png&auto=webp&s=fad94f086e84e4b2610519735915e4987ad55e90)
+
+His girlfriend, Maya, eulogized him: “I don’t know how to live without you by my side. I love you more than myself and still wait for you to return.” He was 20.
+
+# Fallen No. 800: Ret. Sgt. Roee Sasson – 19.11.24
+
+Roee, a brilliant and energetic soldier, continued intensive reserve service after his release despite awaiting travel plans. His mother meticulously tracked his movements to ensure his safety. He was 21 when he fell.
+
+[Ret. Sgt. Roee Sasson](https://preview.redd.it/7wv0ds2m0inf1.png?width=400&format=png&auto=webp&s=d04f644ad266ed676c348f2c7588ef5a086f31a0)
+
+Lt. Col. Yoel Glikman, commander at his funeral, said: “You will always be part of us. Israel lost one of its finest sons last night.”
+
+# Fallen No. 900: Ret. Sgt. Ariel Lubliner – 29.8.25
+
+[Ariel and his wife, Barbara](https://www.ynetnews.com/article/hji4wtx5gx), met in Hebrew classes at Kibbutz Na’an. Immigrants from Brazil and Spain, they built their lives together in Kiryat Bialik and had a son, Lior. Ariel was called for four long reserve deployments during the war while Barbara was pregnant and caring for their baby.
+
+[Ret. Sgt. Ariel Lubliner  ](https://preview.redd.it/zv1172vn0inf1.png?width=1024&format=png&auto=webp&s=7b689a8a6f0d1a14f967b931d6d3019ae6984d00)
+
+He was known for his joy, volunteer spirit, and love of music, ping-pong and coffee-making for his friends. He was 33 when he was killed. Barbara eulogized him: “Thank you for sharing 11 years of your life with me. I will teach Lior everything about you when he grows up. My love, how will I live without you?”
+
+[Hundreds of tears: Israel counts 900 soldiers killed since start of Gaza war](https://www.ynetnews.com/magazine/article/rksheyucex)",1,1757144496.0,BeneiYisraelNews,0,1.0,False
+1n9tl2p,https://www.reddit.com/r/productreview/comments/1n9tl2p/what_do_you_think_of_glossier_you_perfume/,What do you think of Glossier you perfume?,"I picked up Glossier You about two weeks ago because my friend wouldn’t stop talking about it, and I was super curious after smelling it on her. The first time I wore it was actually to a brunch date, and I remember sitting down with my coffee and catching little whiffs of it every time I moved my arm. It was kind of addictive because it didn’t smell heavy or like a typical “perfume,” more like something that just blended into my skin.
+
+The best part was that people didn’t immediately go “oh you’re wearing perfume,” but I still got compliments. One of my coworkers even said I smelled “clean but cozy,” which made me laugh because that’s exactly how it feels. The only thing is that it doesn’t last forever on me after around 5 or 6 hours I can barely smell it unless I’m up close. I’m still enjoying it though, especially for casual days when I don’t want to feel like I’m drowning in scent. For anyone else who’s used it, does it stick around longer for you or do you also have to reapply?",1,1757144388.0,productreview,0,1.0,False
+1n9tkvd,https://www.reddit.com/r/MeetNewPeopleHere/comments/1n9tkvd/28m_bored_day_at_work_lonely_i_would_love_to_meet/,[28/m] Bored day at work. Lonely . I would love to meet some ppl,"
+
+Hey! I’m Guus. My perfect day is pretty simple: good music, a strong coffee in the morning, a road trip or city adventure during the day, and ending it with a drink and some laughs. If I kidnapped you for a day like that, what would you add to make it perfect?",0,1757144367.0,MeetNewPeopleHere,0,0.5,False
+1n9tko0,https://i.redd.it/ezvsikq80inf1.png,Kya bakchodi chal rhi,"What the actual fuck is going on... Like srsly dude... How tf can they be so arrogant about everything that's happening... I would NEVER trade my lunch time for this fucking SIP where they called bs people, about whom we know nothing and they keep on goiving lectures for fucking hours... And when you try to leave early a faculty members guarding the fucking gates stop you randomly... Like bro it's fucking 1:10 I'm running on a sip of coffee and now you won't let me leave to get my lunchjssjj?!?",5,1757144344.0,kietcollege,7,1.0,False
+1n9tkiz,https://www.reddit.com/r/NoFriendsFriendsClub/comments/1n9tkiz/my_apocalypse_pantry_approach_to_staying_on_track/,"My ""apocalypse pantry"" approach to staying on track when life gets chaotic","So I call this my ""apocalypse pantry"" strategy because it's basically designed to keep me eating reasonably well even when my life completely falls apart. And let me tell you, it's been tested thoroughly - job changes, family emergencies, mental health spirals, you name it.
+
+You know those weeks where everything goes sideways and suddenly you're living off gas station coffee and whatever's in the vending machine? Yeah, those weeks used to completely derail any healthy eating progress I'd made. Now I've got a system that keeps me fed with actual nutrients even when I can barely remember to brush my teeth.
+
+**Why I Built My Chaos-Proof Food System**
+
+Picture this: It's 9 PM, I've had the day from hell, I haven't eaten a real meal since breakfast, and I'm standing in my kitchen wanting to cry because I have no idea what to eat and everything feels impossible.
+
+Old me would order pizza and hate myself. Current me opens my ""emergency stash"" and can have a decent meal on the table in under 10 minutes without thinking. Game changer.
+
+The whole idea is to remove as many barriers as possible between stressed-out me and actual food. Because let's be real - when life gets intense, we don't make great decisions, so the system has to be bulletproof.
+
+**The Apocalypse Pantry Essentials**
+
+These are my non-negotiables that I always keep stocked, no matter what:
+
+**Proteins That Don't Require Brain Power:**
+
+- Canned beans (black beans, chickpeas, whatever)
+- Rotisserie chicken (I grab one every few days)
+- Eggs (hard to mess up scrambled eggs)
+- Greek yogurt
+- Protein powder for when I can't even chew
+
+**Carbs That Actually Fill Me Up:**
+
+- Brown rice in those microwaveable packets (judge me, I don't care)
+- Whole grain pasta
+- Oats
+- Sweet potatoes (microwave-friendly)
+
+**Vegetables That Won't Go Bad:**
+
+- Frozen broccoli, spinach, mixed veggies
+- Baby carrots and hummus
+- Canned tomatoes
+- Frozen berries
+
+**The ""Make Everything Taste Good"" Arsenal:**
+
+- Good olive oil
+- Garlic powder (fresh garlic requires too much thinking sometimes)
+- Everything bagel seasoning
+- Hot sauce
+- Lemon juice in those plastic bottles
+- Pre-made pesto or marinara sauce
+
+**The 5-Minute Meal Templates**
+
+When I'm too fried to think, I default to these super simple combinations:
+
+**The ""I Can't Even"" Bowl:** Microwaved rice packet + canned beans + frozen vegetables + hot sauce + olive oil. Mix it all together. Done.
+
+**Scrambled Egg Situation:** Scrambled eggs + whatever vegetables I can throw in + cheese if I'm feeling fancy. Eat with toast or just straight up.
+
+**Greek Yogurt Hack:** Plain Greek yogurt + frozen berries + granola or nuts + honey if I have it. Sometimes I add protein powder if I remember.
+
+**Pasta Emergency:** Whole grain pasta + jarred sauce + frozen vegetables cooked right in the sauce + parmesan cheese from the container.
+
+**Sweet Potato + Stuff:** Microwave a sweet potato, cut it open, add black beans and whatever else is around. Sometimes it's weird combinations but it works.
+
+**The Mental Health Meal Prep**
+
+This is key - when I'm having a good week, I do ""crisis prep."" Not elaborate meal prep, just basic stuff:
+
+- Cook a big batch of rice and freeze it in portions
+- Hard boil a bunch of eggs
+- Wash and cut vegetables when I'm mentally able
+- Make sure my emergency ingredients are stocked
+
+It's like leaving presents for future stressed-out me. Past me is looking out for current me, and it's honestly kind of touching.
+
+**The ""Good Enough"" Philosophy**
+
+Here's the thing that took me forever to learn: when life is chaos, the goal isn't perfect nutrition. The goal is eating SOMETHING that has actual nutrients instead of surviving on caffeine and spite.
+
+Is microwaved rice with canned beans as good as a beautiful homemade meal? No. Is it infinitely better than skipping meals or living on takeout? Absolutely.
+
+I had to give myself permission to eat ""good enough"" meals during rough patches instead of abandoning all structure entirely.
+
+**Why This Saved My Sanity (And My Health)**
+
+**No Decision Fatigue:** When I'm already maxed out mentally, I don't have to figure out what to eat. I just grab template ingredients and combine them.
+
+**Always Available:** These ingredients don't go bad quickly, so even if I haven't grocery shopped in two weeks, I can still eat real food.
+
+**Cheap and Effective:** Way less expensive than constantly ordering delivery when I'm too overwhelmed to cook.
+
+**Builds on Itself:** Even when I'm eating ""emergency meals,"" I'm still maintaining some healthy habits instead of completely falling off track.
+
+**The Social Aspect**
+
+Yeah, people think it's weird that I have a ""disaster preparedness"" approach to food. But honestly? Life is unpredictable. Jobs get stressful, family stuff happens, mental health fluctuates. Having a system that works regardless of circumstances feels like taking care of myself.
+
+Plus, this approach has helped friends too. When someone's going through a rough time, I can give them specific ""here's how to feed yourself with minimal effort"" advice instead of just saying ""take care of yourself.""
+
+**Real Talk: It's Not Always Pretty**
+
+Some weeks my meals are just various combinations of the same five ingredients. Sometimes I eat scrambled eggs for dinner three days in a row. It's not Instagram-worthy, but it keeps me functioning.
+
+And you know what? After a rough patch passes, I actually appreciate ""fancy"" meals more because they feel special instead of being the exhausting daily default.
+
+**Anyone else have emergency food strategies? What are your go-to ""chaos meals""?** I'm convinced everyone needs a version of this system, even if they don't think they do.
+
+**TL;DR:** Keep a stocked pantry of simple, versatile ingredients and learn 5-minute meal templates so you can eat actual food even when life implodes. Good enough nutrition beats no nutrition every time.",1,1757144329.0,NoFriendsFriendsClub,0,1.0,False
+1n9tk78,https://www.reddit.com/r/Mindfulness/comments/1n9tk78/whats_your_morning_mindfulness_ritual/,What’s your morning mindfulness ritual? 🌞,"I’ve noticed that the way I spend my first hour after waking can completely change the rest of my day.
+
+Some people meditate before coffee, some light incense or candles, others go for a quiet walk, and a few simply breathe mindfully while the kettle boils.
+
+Personally, I’ve found that 10 minutes of mindful breathing before touching my phone sets me up with a calmer, clearer headspace. It feels like building a buffer between myself and the day’s chaos.
+
+I’m curious:
+
+Do you have a [specific ritual](https://monianlife.com) that helps you drop into mindfulness more quickly?
+
+Have you noticed certain habits (journaling, stretching, tea preparation, prayer, etc.) make it easier to stay mindful throughout the day?
+
+Or do you prefer letting the morning unfold naturally, without structure?
+
+Would love to hear what works for you. Maybe we can all share ideas and build a “toolkit” of rituals to try.",1,1757144290.0,Mindfulness,1,1.0,False
+1n9tjxo,https://www.reddit.com/r/MakeNewFriendsHere/comments/1n9tjxo/28m_bored_day_at_work_lonely_i_would_love_to_meet/,[28/m] Bored day at work. Lonely . I would love to meet some ppl,"
+Hey! I’m Guus. My perfect day is pretty simple: good music, a strong coffee in the morning, a road trip or city adventure during the day, and ending it with a drink and some laughs. If I kidnapped you for a day like that, what would you add to make it perfect?",1,1757144260.0,MakeNewFriendsHere,1,1.0,False
+1n9tin1,https://i.redd.it/ll21k7pezhnf1.jpeg,On Monday,,1,1757144119.0,u_Ornery-Ad4835,0,1.0,False
+1n9thpp,https://www.reddit.com/r/studypartner/comments/1n9thpp/kochi_study_buddy_for_coding_good_vibes_fun_chill/,"Kochi Study Buddy for Coding, Good Vibes, Fun & Chill!","Hey (F)!
+I’m a progra(m)mer who loves tech and good times. I’m looking for a college girl to team up as a study buddy—especially if you’re excited to learn coding! Whether you’re new to programming (Python, Java, or web dev) or studying any subject, I’d love to help you crush it.
+
+Let’s grab some filter coffee or crispy dosas, study together, and chat about life, music, or travel. If we vibe, maybe it leads to more fun hangouts or even a date! 😊 DM me if you’re in Kochi and up for learning and chilling. Tell me what you’re studying or if coding’s your thing!",1,1757144017.0,studypartner,0,1.0,False
+1n9th85,https://www.reddit.com/gallery/1n9th85,COFFEE ANALOG WORK- 500T V3 - EOS 30 - 50mm - ARGENTINA,,5,1757143967.0,analog,2,1.0,False
+1n9tglb,https://www.reddit.com/r/u_Scary-Dust7662/comments/1n9tglb/looking_to_connect/,looking to connect !!!!!,"heyy, redditors. new here. looking to connect and make friends!! lil about myself- i'm a feminist, makeup and psych enthusiast and a recovering coffee addict who works in marketing. also i have no idea how to use reddit ;)",1,1757143899.0,u_Scary-Dust7662,0,0.99,False
+1n9tdev,https://www.reddit.com/r/AskPH/comments/1n9tdev/what_do_you_guys_do_when_youre_staying_alone_in/,What do you guys do when you're staying alone in coffee shop?,,7,1757143569.0,AskPH,18,1.0,False
+1n9td89,https://www.reddit.com/r/stopdrinking/comments/1n9td89/day_5/,Day 5,"Slept in weird positions. Body feels achy this morning. Indulged on ice cream and gummy bears yesterday evening. But no cravings.
+
+Decaf coffee now. ",2,1757143551.0,stopdrinking,1,1.0,False
+1n9tcrm,https://www.reddit.com/r/SwordAndSupperGame/comments/1n9tcrm/coffee_break_and_mystical_forces/,Coffee break and Mystical Forces,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/SwordAndSupperGame/comments/1n9tcrm),1,1757143500.0,SwordAndSupperGame,1,1.0,False
+1n9tcjq,https://www.reddit.com/r/AskDocs/comments/1n9tcjq/brown_coffee_grounds_looking_vomit_er_discharged/,Brown coffee grounds looking vomit... ER discharged me with no explanation,"Hello docs. I am 24F and have chronic gastritis. I have a long history of bulimia which I think caused my current stomach issues. I have been in recovery for about 2 years now, and am doing well with it. 
+Usually I just get a lot of acid reflux, sometimes other symptoms.
+The past few days leading up to this incident, I had some nausea and couldn't eat. 
+The other night, I began having bad reflux. Eventually, it stopped fully coming up, but it kept trying to come up... If that makes sense. This was accompanied by severe pain in my chest area. This went on for a few hours. Eventually I vomited. It was dark brown in color and looked like coffee grounds. I immediately knew this was a bad sign, so I took a photo of the vomit and went to the ER. 
+The nurse checking me in asked to see the photo. She commented that it looked like coffee grounds... So I know I'm not crazy for thinking that. 
+I was brought into a room with a doctor and 2 nurses. The doctor began asking me questions. I asked him if he wanted to see the photo of my vomit. He said no. This really threw me off to be honest, I feel like a doctor would normally want to see that? 
+They took my blood and urine for testing, all of which came back normal. At first they said they would do imaging/scans, but they ended up deciding not to. 
+They ended up discharging me a few hours later. I was told to follow up with my GI doctor. I was not given any explanation for what happened. 
+I'm honestly very frustrated with how the ER handled this. From what I understand, vomiting like that is usually an indication of bleeding in the GI tract. I know that this is a serious matter. The ER staff did not seem to take me seriously. 
+All of this happened about 24 hours ago. I have not had any more vomiting, but still having some chest pain. 
+I did call my GI doctor, and they seemed surprised when I told them the ER had discharged me without doing imaging. They scheduled me to come in on Monday. 
+I am honestly very concerned... I don't know why the ER didn't do more to figure out what was going on. 
+I tried to include all the relevant details...please let me know your thoughts on this situation. ",1,1757143475.0,AskDocs,1,1.0,False
+1n9tbev,https://i.redd.it/p2wiz6maxhnf1.jpeg,"Team Café La Leche is all set for the day 🤭☕🧟‍♀️ Happy Saturday, my friends 🥰",,3,1757143355.0,Replikatown,1,1.0,False
+1n9tadx,https://www.reddit.com/gallery/1n9tadx,Nyx update!,"Nyx is already 6,5 months old now! It goes so fast! 
+
+She loves the park and plays with everyone. She totally thinks she is Husky sized, playing with big and small dogs. 
+
+She definitely started acting like a teenager, walking off to explore the park, looking at me when I say something and then not do it(or a minute later. She listens, but on her time) she started howling more, but still pretty minimal. 
+
+We have almost no accidents inside anymore, I started letting her outside the crate if I'm out less than an hour and it goes great! 
+
+She hasn't destroyed a single thing, not even her toys. She loves to jump up on the coffee table and throw my bottle off (are my cats influencers? ). While I am working she played on her own, naps or comes for a hug. 
+
+She sleeps in bed with me, wakes me up by crawling up my chest and give me kisses. 
+
+She growls and barks only for: people doing yoga in the park, peppa pig, herself in a specific mirror exactly at 22.30 every day or to start playing. 
+
+
+She found the little turtle backpack of the picture on a walk and she keeps bringing it to me so i put it on her. I definitely but some cute outfits for her now! 
+
+And she found her broom to fly to hogwarts! 
+
+My cats accepted her now, they don't play, but they do all sleep on the bed sometimesz get closer together and it all goes well. 
+
+I think she is starting her first heat as dogs start trying to mount her, she is licking herself more, wants more cuddles o none at all. Any tips to survive the first heat for both Nyx and for me??  (I got the pants ready for walks, her comfy bed etx) 
+
+",12,1757143244.0,beagles,0,1.0,False
+1n9t8ql,https://i.redd.it/5g5ra3bhwhnf1.png,Streak 217: I promise myself start working out from Monday,I promise myself to start working on my education and fitness from Monday. But now its Saturday and I'm enjoying my bumble coffee.,1,1757143068.0,WriteStreakEN,0,1.0,False
+1n9t6u3,https://i.redd.it/ryk28hsvvhnf1.jpeg,Beautiful cup,"Lately I’ve been eating at Subway quite a lot, and I realized their 12oz clear cup (usually used for coffee) looks really nice — the minimalist design is truly impressive. If they ever released a glass version of it as merch, I’d definitely buy one.
+",1,1757142868.0,subway,0,0.6,False
+1n9t5xm,https://www.reddit.com/r/fasting/comments/1n9t5xm/first_three_day_fast_tips_and_advice_welcome/,First three day fast. Tips and advice welcome!,"As the title says I'm doing a 3 day fast, first ever. No food, no supplements, just coffee for appetite suppression (and because coffee is just ☺️) and Prime/ sugar free Gatorade/ sparkling ice fizzy waters for hydration. I do allow a few single serve (non dairy) creamers per cup, but nothing else. My diet typically consists of either salmon and rice, lamb and potatoes or sausage and eggs for breakfast, grated sharp cheddar cheese on the last two, or no breakfast if I didn't sleep well. For lunch at work I have these little salame and mozzarella roll ups, a few apple sauces, protein shake made with beef protein isolate and oat/almond milk, and a pack of Sun Lovin Bites made from dates. Pears if I can find the good ones, dried plantain chips from time to time, and previously mentioned drinks switching out along with nitric oxide booster, testosterone booster, mushroom powder blend and multivitamin supplements. Weekend breakfast is the same, a pack of strawberries or red raspberries throughout the day, and big portion dinners being either homemade tacos, biscuits and gravy, mashed potato bowl (think KFC but homemade), and snacking on either pancakes, cheese and crackers, chili with fixins..whatever mood I'm in. I do grab fast food now and then if I'm feeling lazy but trying to get away from it, and occasional pizza (yes...I eat the whole thing muahahahah). So, with all that being typical, what changes would i need to make if I were to make 3-day fasts a normal thing? Google keeps giving conflicting all over the place answers..thanks in advance everyone who shares tips and tricks!!",1,1757142772.0,fasting,1,1.0,False
+1n9t4w1,https://www.youtube.com/watch?v=1awCRK7wqEU,Relaxing September Fall Morning Jazz 🍁 Smooth Bossa Nova & Autumn Café Ambience for Study & Focus,"Relaxing September Fall Morning Jazz 🍁 Smooth Bossa Nova & Autumn Café Ambience for Study & Focus
+
+
+
+Welcome to Jazz Music BGM – where mellow bossa nova melodies meet the peaceful charm of a quiet autumn street.
+
+
+
+Immerse yourself in the warm glow of a cozy outdoor café: fallen leaves, soft jazz guitar, and the gentle rhythm of street ambience. Perfect for focus, creativity, or simply enjoying a peaceful break with a cup of coffee.
+
+
+
+🎵 You’ll hear:
+
+• Smooth bossa nova & jazz piano
+
+• Soft ambient café sounds
+
+• Autumn visuals: golden leaves, cozy sidewalks, morning light
+
+
+
+🎯 Ideal for:
+
+✔️ Studying & working
+
+✔️ Journaling, reading, or sketching
+
+✔️ Coffee breaks & calm evenings
+
+
+
+📌 Subscribe to Bossa Street Café for more cozy jazz moments and peaceful city café scenes.
+
+All music is original, crafted for deep focus and relaxation.
+
+
+
+💖 Like, comment, and share if this video brings you peace 🍁
+
+
+
+\#autumnjazz #coffeeshopambience #cozycafejazz #smoothbossanova #relaxingjazzmusic #cafemusic #falljazz #fallbossanova
+
+SEO Keywords: bossa nova, jazz, smooth jazz, jazz piano, cafe jazz, coffee shop ambience, coffee music, background music, study music, work music, focus music, relaxing music, chill jazz, instrumental jazz, reading music, productivity music, cozy ambience, cafe vibes, morning jazz, autumn jazz, street corner cafe, bookstore cafe, vintage coffee shop, paris cafe, autumn ambience, cozy autumn",1,1757142670.0,JazzBossa,0,1.0,False
+1n9t4n0,https://i.redd.it/kdt78do5vhnf1.png,Flyer for a coffee beans shop,,1,1757142644.0,u_Skillnovo,0,1.0,False
+1n9t3xl,https://www.reddit.com/r/Bacolod/comments/1n9t3xl/affordable_coffee_shops_reco/,Affordable coffee shops reco???,Helloo din may namii nga coffee shops near san ag? ,1,1757142574.0,Bacolod,0,1.0,False
+1n9t3fh,https://www.reddit.com/gallery/1n9t3fh,"Actively planning my suicide. Rosemary crackers, ham","Nutella, crackers and coffee for afterwards! ",37,1757142520.0,depressionmeals,17,0.95,False
+1n9t305,https://www.reddit.com/r/BurningMan/comments/1n9t305/births_accidents_murdermy_heart_is_aching/,Births Accidents Murder…my heart is aching,"
+Usually when I get home from the Burn I decompress—relive the highs and lows, feel grateful. This year was different. Surreal.
+
+My 55-year-old friend had a heart attack on Thursday the 28th. He was surrounded by friends and family in a place that he loved. But man that shit hits hard. Saturday night, while I was dancing in the dust, another tragedy unfolded and I learned nothing of it until coffee and news on Tuesday. The on-site clinic Rampart, run by Royal Ambulance, reported handling three successful cardiac arrest resuscitations, yes that is true but my friend later passed at the hospital, a childbirth, and 1,450+ cases by mid-week—with dozens sent to hospitals. 
+
+And in just a few days, three GoFundMes: 
+
+Burning Man Baby Girl 2025
+JP’s Recovery – Cybertruck accident
+In Loving Memory of Vadim Kruglov
+
+Yes, things happen every year. But birth, murder, multiple cardiac arrests, and over a thousand medical calls before the weekend? That feels different. I don’t have much to give but I did swing 5 bucks and I bet if more of us did the same we could our fellow burners. And maybe the next generation too! 
+
+Not trying to sensationalize—just opening the conversation. Do others feel the same? Have I just been living my own happy fantasy ignoring the realities of the new burn? The MOOP that is around us? Does anyone else think there are 2 many photos and tik toks and content creators taking videos of the burn and you don’t have the same freedom you once might have had  at an earlier burn? Remember the days when someone asked before recording you, this year I saw a pretty accurate day on the playa and a get ready with me that made me cringe. Remember the authentic freedom the burn is about. Let’s get there again. Radical Inclusion by Radical exclusion?! I don’t know I want to go back. To the before times. I want the old burn and I feel like I’m whining. I’m pretty sure I saw a huge giant private jet on Wednesday the 27th…the rumors of who it was were crazy. Elon. Paris. Who cares. talk about exclusion… ok now I am ranting and it’s getting late. Thanks for reading if you have gotten this far. One love. In Unity. For all Humankind. Let’s talk about it. It will make us feel better together. Love you. bye. 💋
+
+
+",3,1757142478.0,BurningMan,7,0.8,False
+1n9t2kh,https://i.redd.it/aelmd6nluhnf1.jpeg,Morning Coffee with the Girls,"Perhaps a weird ritual, but does anybody else enjoy having a morning coffee with the women in the camp? I take comfort with waking up and knowing that Sadie and Abigail will be there straight away, with Tilly coming a tad later, like clockwork. 
+
+It brings me peace to have a serene moment with just the splendid women in the camp, without Micah nor any other foul specimen there to ruin the moment. I enjoy the view of the water at Clemens Point, the nice sounds of their gentle voices in conjunction with everyone’s sips of coffee, and knowing that the possibilities are endless with so many hours left in the day. I might go fishing today! Cheers to this beautiful, detailed game.
+
+",11,1757142434.0,reddeadredemption,1,0.92,False
+1n9t25n,https://www.reddit.com/r/novelsfree/comments/1n9t25n/kneel_down_to_win_back_the_heiress/,Kneel Down to Win Back the Heiress,"She is the adopted daughter of the Moore family, a top elite household. By age 12, she is already a world-class musician.
+
+At 15, she makes a name for herself in medicine.
+
+By 18, she is a financial mogul.
+
+Her adoptive parents dote on her and even declare they will hand over the company to her.
+
+But a year ago, she found her biological parents.
+
+Unexpectedly, they tell everyone their long-lost daughter is just a country bumpkin and refuse to acknowledge her.
+
+The fake daughter even takes credit for all the Moore family's support.
+
+She decides to check things out for herself when they hear about their ""achievements"".
+
+""Sir, someone's here.""
+
+As soon as the maid finished speaking, Nancy emerged from the sunlight. She wore a white T-shirt and jeans, radiating youthful energy. Her delicate, flawless face held a beauty that drew and held the eye.
+
+Chapter 2 The Fake Heiress
+Nancy bore a subtle resemblance to Regina, but Nancy was much prettier.
+
+Raine's nails dug into her palms. She had expected the long-lost Nancy to be mousy and dowdy, never this dazzling. Regina and Andrew were just as stunned.
+
+Nancy let her gaze travel over the faces in the room before breaking the silence. ""Hello, I'm Nancy… Your daughter.""
+
+Her tone was even, her composure unshaken. It felt less like a reunion than the opening of a negotiation.
+
+Regina seemed to wake from a daze. Her first glance, however, went to Raine, worry clouding her eyes. Only then did she speak. ""Nancy, come here. Have a seat.""
+
+Nancy crossed the room and settled onto the couch. All eyes were on her, and she felt a faint unease stirring within.
+
+Raine's gaze lingered on the details of Nancy's clothing, and a quiet breath of relief escaped her. Nancy was exactly as she had imagined.
+
+Though beautiful, Nancy bore no trace of a designer label. She could only have come from an ordinary family.
+
+Raine's voice was soft. ""You're back, Nancy. We've all missed you.""
+
+The moment Nancy's gaze settled on her, she knew—this was the fake heiress who had taken her place in the Lidell family. She answered only with a short, noncommittal hum.
+
+Raine's eyes brimmed with sudden redness. ""Do you not like me, Nancy?""
+
+Nancy frowned, her voice carrying mild confusion. ""Why wouldn't I like you?""
+
+Raine lowered her head, her words faltering. ""I know you must hate me for taking your place. I'm truly sorry. If you don't want me here, I can leave right now.""
+
+Fergus' face darkened at once. Stepping forward, he positioned himself squarely in front of Raine, his body a shield as his cold gaze locked on Nancy.
+
+""The fact that you two were switched wasn't Raine's fault. There's no reason for you to take your anger out on her!""
+
+Feeling the sudden surge of hostility, Nancy fell silent again. Her glance swept over Raine, and a low, mirthless chuckle escaped her.
+
+""I don't recall saying anything to you. There's no need to put on an act. If I'm not welcome here, I can just as easily stay away.""
+
+The words settled heavily, a flicker of guilt rippling through the room.
+
+Regina caught her hand in hers. ""Nancy, that's not what we meant.""
+
+Then, turning to Raine, she said, ""Raine, Nancy has no intention of driving you out, so there's no need for you to be so tense.""
+
+Raine's smile tightened for the briefest heartbeat, then bloomed again into something bright and cheerful. ""Alright. Nancy, welcome home. I even brought you a gift!""
+
+She set out a set of high-end skincare products.
+
+Nancy's eyes flicked over them before she reached for her own gifts. ""Dad, these are coffee beans from Southridge. Mom, this is a Chanel scarf for you.""
+
+When it came to Fergus, she saw no point in trying to please someone who clearly disliked her.
+
+Fergus looked her way several times, and when he realized no gift was coming, a faint disappointment touched him.
+
+Raine looked at the gifts in astonishment. ""Nancy, that's incredible. This Chanel scarf is a discontinued design. Back then, Mom couldn't get one at all, but you did.
+
+""And these coffee beans from Southridge cost a fortune. Only Boraska's century-old families can get them—""
+
+The words tumbled out before Raine seemed to realize her misstep. She broke off abruptly, lifting a hand to cover her mouth.
+Chapter 3 Loved Unequally
+There was a subtle shift in Regina's and Andrew's expressions. They questioned silently whether those gifts could be counterfeit. Suspicion and uncertainty intertwined in their gazes.
+
+Still, given that Nancy had been raised by ordinary folk, it was only natural she might fail to recognize a forgery. Gradually, their features softened, settling into a composed, indifferent calm.
+
+""No matter what, these gifts carry Nancy's heartfelt intentions. Lunch is ready. We should eat first,"" Regina said lightly.
+
+Nancy caught the flicker of their reactions and roughly grasped the thoughts swirling behind their eyes, yet she held back from explaining. Even if she tried, she doubted they would believe her.
+
+Fergus eyed the items with disdain. He never imagined those were counterfeit, and he was relieved that Nancy hadn't given him a gift.
+
+The group gathered around the dining table, greeted by a generous spread of salmon tartare and other luxurious dishes, including king crab.
+
+Regina paused, surprised by the lavish fare. She didn't think she had asked the kitchen to put together such a spread.
+
+Smiling, Raine placed a king crab on Nancy's plate. ""Mom and Dad specifically asked them to prepare plenty of delicious food to welcome you back.
+
+Nancy's gaze fell on the unfamiliar tools beside her plate. ""How do I use these?""
+
+The air around her suddenly grew perceptibly chillier.
+
+""I'll show you,"" Raine said, smiling as she demonstrated how to crack the crab's shell.
+
+Nancy picked it up quickly but found the process a bit bothersome. After all, at the Moore household, they never had to deal with removing the crab shell themselves.
+
+Out of her deep care for Nancy, Freya refused to let her handle any of these things.
+
+Regina and the others were overwhelmed by a deep sense of disappointment. They'd known Nancy came from a rural background, yet the chasm between her and Raine was far greater than they had imagined.
+
+Should the truth of Nancy's parentage within the Lidell family come to light, they worried the family name would be irreparably tarnished.
+
+""You should try this, Nancy,"" Raine urged, eagerly piling more food onto Nancy's plate.
+
+Fergus frowned. ""She has her own hands, Raine. You don't need to do that.""
+
+""It's fine, Fergie. Nancy just came back, and I want to help her settle into the family quickly,"" Raine responded thoughtfully.
+
+Fergus's gaze softened immediately, sympathy shining through. She truly was considerate.
+
+Yet, Nancy quietly pushed the food away.
+
+Tears welled in Raine's eyes as she asked, ""Do you hate me, Nancy?""
+
+""I just had seafood. I could go into shock if I eat these,"" Nancy explained evenly.
+
+Regina was somewhat startled by Nancy's reply. It was clear Nancy wasn't as clueless as they had thought.",1,1757142391.0,novelsfree,0,1.0,False
+1n9t1k7,https://www.reddit.com/gallery/1n9t1k7,IRL Bright Falls: Dark Forest ➕The Woods➕Oh Deer Diner 🌲🔦,"Played the first game as a kid and never made the connection with the Pacific Northwest. Years later I moved to Washington, and the scenery felt oddly familiar but I didn’t put two and two together since I haven’t played the game for a long time. 
+
+Then I moved to the East Coast, played Alan Wake 2, and suddenly it hit me—this looks exactly like North Bend. Even noticed the WA license plates in the game.
+
+Went back to the remake with commentary, and yep, confirmed it’s actually based here.
+Just got back recently and decided to see it in real life—basically max settings unlocked. 🌲💡",71,1757142332.0,AlanWake,4,0.99,False
+1n9t0xf,https://www.reddit.com/r/coffeeswapsuk/comments/1n9t0xf/what_can_you_post_in_coffee_swaps_uk/,What can you post in Coffee Swaps UK?,"A non-exhaustive list:
+- Buying & selling second-hand equipment
+- Coffee gear swaps (machines, grinders, brewers, accessories)
+- Bean trades (share half a bag you won’t finish, swap for something new)",1,1757142270.0,coffeeswapsuk,0,1.0,False
+1n9sypp,https://i.redd.it/kkkrk8agthnf1.jpeg,Coffee & Tea & Wine & Beer ASCII Art,,3,1757142049.0,EmoticonHub,1,1.0,False
+1n9sxpf,https://www.reddit.com/r/punemeetup/comments/1n9sxpf/its_a_lazy_day_today_how_about_some_soft_music/,It's a lazy day today! How about some soft music and a good drive?,"Looking for some like minded people around viman nagar? Let's explore nearby, go for a coffee, a realxed drive, or just get to know each other? ",1,1757141957.0,punemeetup,1,1.0,False
+1n9sxjk,https://www.reddit.com/gallery/1n9sxjk,Desolate Hope could be a separate universe that is close to that of FNaF and Coffee is manifesting within the canonical FNaF games for this very reason?,"I just want to know if this argument I found [on the Desolate Hope Wiki](https://share.google/bumSfjMgFEF1uZiYr) is valid for the claim of why Coffee appears everywhere in the FNaF games.
+
+",3,1757141940.0,fnaftheories,2,1.0,False
+1n9sw92,https://i.redd.it/vgrj449qshnf1.jpeg,Summer Joy: Iced Strawberry Matcha Lattes.,Because it’s nice to break out of the iced coffee stereotype occasionally.,4,1757141805.0,gaybrosgonemild,1,1.0,False
+1n9svd3,https://www.reddit.com/r/vegan/comments/1n9svd3/i_killed_over_100_lives_blow_flies_in_a_few_hours/,I killed over 100 lives (blow flies) in a few hours and I felt guilty and terrible,"I lived in a basement that recently got swarmed with blow flies. During daytime I can open the window and they would get out. However, during nighttime they came back in despite me sealing every gaps. I tried to live with them. Living with 10 flies is okay but there were like more than 100 of them flying around my computer screen, lights and restroom. When I was taking shower some of them just fly to the water stream and got carried down the drain. At one point I got angry since I couldn't sleep with their buzzing noises. I was so dedicated in getting rid of them that I did not care the way of killing them: Sometimes I sprayed bleaching water on them, sometimes I use tapes which are cruel. Electric fly swatter would be the best and fastest way to kill them. However, I don't have it. I literally killed over 100 lives in a few hours yesterday. I couldn't sleep after that and I had constant shiverings due to guiltiness. All animals being equal. I shouldn't kill them just because they are annoying or even make me sick, and killing them just made me a hypocrite.
+
+There are still many of them at this moment. I suspect there might be dead mices stuck inside the HVAC pipelines. As I research the flies can decompose the dead mouse in a few days and blow flies lifespan is two weeks. So I took a vow not to kill them anymore. I am living with them now by shifting my sleep schedule and eating out. After that I went to Mcdonalds (yes) where I just grab a 1-dollar hot coffee there and sit till midnight. Yes blow flies can spread diseases but human immune system is way stronger. I figure out that they are very afraid of human: they don't want to fly to you and land on you. They don't bite. I also wash my cup before I drink water. Right now it is 2:30 in the morning. As soon as the sun comes up I can open the window and they will get out.",0,1757141715.0,vegan,6,0.33,False
+1n9sv0u,https://www.reddit.com/r/casualgensan/comments/1n9sv0u/coffee_shops/,Coffee shops,hello gensan pips! unsay top tier na coffee shops diri sa gensan? na not just for aesthetics (like other shops lol) kanang lami jud ug reasonable ang price,1,1757141679.0,casualgensan,2,0.67,False
+1n9suiz,https://www.reddit.com/r/CPTSD/comments/1n9suiz/has_anyone_been_able_to_overcome_the_inability_to/,Has anyone been able to overcome the inability to work? Looking for advice on my situation,"To keep it short, I suffered a severe psychotic episode during which I was forced to work. I was completely dissociated and it took all I had to just mask enough for people not to notice the severity of my situation.  
+  
+I was - ofcourse - unable to pay attention to chit-chat and fitting in, so I came off as very aloof and weird and a group used that to bully me for being ""stupid"" and ""weird"". My boss was part of that group.  
+I was forced to do jobs outside of my contract. Such as cleaning toilets, when we had 10 cleaning ladies hired. I was also forced to stand at attention behind my bar when the bullies were there. They claimed I made the worst coffee in the world, and would brew their own, but they made sure my boss forced me to stand there for 3 hours straight while they were in the room, because sitting down is ""disrespecting my superiors"". They would also insult me to my face frequently.
+
+Since I was literally psychotic, when I would come home I would stare at walls. I lost 15kg out of my 55kg, I ate one meal a week and slept for 3 hours a day. I didn't have a choice, I was unable to pay for therapy and was also unable to look for other jobs (I don't think I need to explain why lmao).
+
+I've now been unemployed for about a year.
+
+Now, whenever I even THINK about working my body shuts down completely. I go back to not eating, not sleeping and staring at walls. I've identified the fear to be mostly ""being stuck in a situation there's no escape from and being forced to endure the abuse"", it's essentially a fear of being trapped in an abusive situation that is so violent my body just checks out.  
+  
+The only thing available to me is going on SSRIs. But I worry they will interfere with my healing. I'm not *forced* to work, but there's things I would love to do, and I would love to have the *ability* to work and more energy.
+
+My energy levels are completely fucked. I do 4-6 hours of household work a day and that exhausts me completely on top of trying to research things to heal.
+
+Was anyone in a similar situation? Were you able to heal? Also, what are the experiences of people who used SSRIs? Looking for both positives and negatives.
+
+Thanks for reading!",2,1757141625.0,CPTSD,1,1.0,False
+1n9st0e,https://www.reddit.com/r/nerdfighters/comments/1n9st0e/why_is_the_coffee_tea_named_after_keats/,Why is the coffee & tea named after Keats specifically?,"I cant remember if it was ever explained anywhere- just that it was because Keats died of TB. But a LOT of people & poets had & died of it too so why specifically him? Did they ever say? 😅😅😅
+
+I hate it when i cant remember something like this i could swear they mentioned it once ",7,1757141472.0,nerdfighters,1,1.0,False
+1n9ssah,https://www.reddit.com/r/DecidingToBeBetter/comments/1n9ssah/some_mornings_just_making_coffee_feels_like_an/,"Some mornings, just making coffee feels like an achievement","Not every day is about big goals or long to-do lists. Some days, it’s just about showing up, making coffee, and breathing. What’s your “bare minimum” habit that still makes you feel accomplished?",5,1757141408.0,DecidingToBeBetter,2,1.0,False
+1n9srxr,https://www.reddit.com/r/exmormon/comments/1n9srxr/a_exmormon_monopoly_game/,A Exmormon Monopoly game.,"We need a game is about the problems with the church. You start with 1,000 dollars but you have to be last person with money or finding out the church isn’t real. Jail can be the Disciplinary council or Bishops office. Pass go you have to take 10% of the current money you have to the church fund, you gain no money. Things can happen when you pull cards like, “you were forced to go to fast and testimony meeting, pay 100 dollars. 💸 “. “Parents caught you with your partner, go to the Bishops office” “Prepare for your mission, give 100 dollars tot he church”, “John Delin asked you to write a book about your experience in the Mormon church, you get 500 dollars.” Of course the buildings can be Church buildings to Malls to Temples. Lanes can be places like Kirtland, Nauvoo, Salt Lake. Figures can Tapir, a coffee mug, porn shoulders, Joseph Smiths nose, Alyssa Grenfell in Temple clothing. 😂 
+Just being funny, something I have been conjuring in my head. ",1,1757141369.0,exmormon,0,1.0,False
+1n9sr99,https://www.reddit.com/r/DesiFragranceAddicts/comments/1n9sr99/need_help_with_perfume_recommendation/,Need help with perfume recommendation,"Hey Everyone!  
+
+
+
+I’m looking to buy two new fragrances and was hoping for some help.
+
+
+
+I’m after a fresh, daily scent in the 4k range. I really enjoy citrus-based fragrances, especially lemon, but a lot of them end up smelling like floor cleaner.
+
+
+
+Here are a few fresh fragrances I’ve tried and liked:
+
+
+
+\- Dylan Blue: Has that fresh shower gel vibe. Reached for this one quite a lot for daily use.
+
+
+
+\- YSL Y EDP: This one’s my favorite so far. Nice sweet opening with solid longevity.
+
+
+
+\- D&G Light Blue Intense: They weren’t kidding with the intense part. I sprayed like 4-5 times and my nose was done for the day. Still, it has nice salty oceanic vibes as long as used lightly.
+
+
+
+I’ve also tried CDNIM PP and Cedrat Boise Intense but they’re definitely not for me. Didn’t enjoy the scent profiles of these two.
+
+
+
+Also, any recommendations for a budget-friendly coffee fragrance (around 2-3k) with a prominent coffee note? Most of the ones I’ve seen are too sweet and gourmand, with less focus on the coffee itself.",1,1757141299.0,DesiFragranceAddicts,1,1.0,False
+1n9spp1,https://www.reddit.com/r/chemistry/comments/1n9spp1/how_much_baking_soda_to_add_to_black_coffee_to/,How much baking soda to add to black coffee to raise it's pH level above 5.5?,"I hope this is the right subreddit to ask this question.
+
+Let's say I have 500ml of black coffee with a pH level of 4.5. How much baking soda (sodium bicarbonate) do I need to add to raise the pH level above 5.5?
+
+Real-world application: I want to reduce the acidity of my morning coffee to protect my enamel from erosion. Enamel starts to erode at a pH level of 5.5 or lower.",0,1757141142.0,chemistry,6,0.5,False
+1n9sph7,https://www.reddit.com/r/JaipurCinephiles/comments/1n9sph7/welcome_to_jaipurcinephiles_lets_talk_movies/,🎬 Welcome to JaipurCinephiles! Let’s Talk Movies 🍿,"Hey everyone! 👋 🤗 
+
+This subreddit is for Jaipur’s film lovers 🎥🎬— whether you’re into Bollywood, Hollywood, anime, indie films, or arthouse cinema.
+
+Here’s what you can do here:
+
+Share reviews, thoughts, and hot takes on movies.💬
+
+Find movie buddies so you don’t have to go to a theater alone again.🤝
+
+Plan meetups to watch films and discuss them over coffee or snacks.☕🎬
+
+
+Introduce yourself in the comments —
+
+What’s your all-time favorite movie?
+
+The last film you watched in theaters?
+
+
+Let’s build a community that celebrates cinema!",1,1757141119.0,JaipurCinephiles,0,1.0,False
+1n9sp5c,https://www.reddit.com/r/u_WaveConscious6721/comments/1n9sp5c/how_can_bespoke_architecture_transform_the_way/,How Can Bespoke Architecture Transform the Way You Live?,"https://preview.redd.it/3op5ws2dqhnf1.png?width=1024&format=png&auto=webp&s=40f01d3e43c26523afc0f38405d45f2adfd77557
+
+Bespoke architecture is more than a fashionable phrase — it’s a promise that your home, workplace, or public space will be thoughtfully designed around the way *you* move, breathe, work, rest and connect. At its core, bespoke architecture replaces one-size-fits-all templates with careful listening, high-craft details, intelligent spatial sequencing, and materials that age well. The result is a built environment that supports daily rhythms, amplifies wellbeing, and adapts as life changes. This article explores how bespoke architecture works, the practical and emotional benefits it delivers, and how you can approach a custom project — from brief to handover — to genuinely transform the way you live.
+
+In the practice of bespoke architecture, firms and studios translate a client’s lifestyle, site conditions, and environmental goals into a unique built response. One excellent example of this approach is [**dRAW Architecture**](https://www.draw-architecture.co.uk/) — a practice that integrates careful contextual analysis with tailored design solutions. In the same spirit as bespoke design, dRAW Architecture focuses on craftsmanship, spatial clarity, and sustainable choices that respond specifically to each client’s needs; this ensures that every decision — from façade proportions to joinery details — directly enhances daily life and long-term usability. Mentioning such contemporary studios illuminates how thoughtful architectural practice turns abstract desires (privacy, light, flow, comfort) into measurable improvements in experience and performance.
+
+# What “Bespoke Architecture” Really Means
+
+Bespoke architecture is custom design taken seriously: an iterative, client-centered process that shapes buildings around human behavior, site microclimate, cultural context, and long-term adaptability. Unlike speculative or pattern-book architecture, bespoke work begins with discovery — mapping routines, relationships between spaces, storage habits, preferred materials, and future-proofing needs — and proceeds toward a single, coherent solution. Key characteristics include deep client collaboration, tailored spatial sequences, individualized material palettes, and often a higher level of craft and integration across disciplines (landscape, lighting, joinery, acoustics, and building services).
+
+# Why Personalization Changes Everyday Life
+
+Small, targeted architectural choices alter how we perform everyday tasks and feel in our environment. Consider three quick examples:
+
+* A kitchen reconfigured so that food storage, preparation and cleaning form a continuous loop can reduce daily friction and reclaim minutes every day.
+* Bedroom placements that respond to morning sun paths or noise sources dramatically improve sleep quality and privacy.
+* Entrances and mudrooms designed for the family’s exact commute patterns (bike storage, pet-cleaning area, parcel drop) reduce household clutter and stress.
+
+Bespoke architecture is therefore an investment in time saved, cognitive load reduced, and wellbeing increased. These are measurable improvements — less time searching for keys, fewer disrupted sleeps, more efficient work-from-home days — that compound over the life of the building.
+
+# The Bespoke Design Process: From Brief to Built Reality
+
+A reliable bespoke process typically follows clear stages. Each stage is an opportunity to translate lifestyle insights into enduring design decisions.
+
+# 1. Discovery & Research
+
+This initial phase is intensive: interviews, household observation, lifestyle questionnaires, and site analysis. Professionals capture how people use spaces, daily routines, special needs, storage habits and environmental conditions (sun, wind, views, noise). This is where bespoke diverges from off-the-shelf: the team seeks to understand *you* before drawing.
+
+# 2. Concept & Spatial Strategy
+
+Here architects generate multiple strategies that test spatial relationships, light, circulation and program hierarchy. Rather than producing one general layout, bespoke processes typically produce several concept iterations so you can choose a strategy that resonates.
+
+# 3. Design Development & Material Research
+
+This stage refines the concept, selecting materials, finishes, joinery details and building systems. Attention to tactility, acoustic performance, durability and maintenance informs selection. Bespoke projects often include bespoke furniture and millwork design — down to hardware — to ensure full integration.
+
+# 4. Technical Design & Engineering
+
+Structural design, services integration, and compliance get resolved. The bespoke advantage is that technical choices are harmonized with design intent; your heating, lighting and acoustics are selected to support the experience rather than merely meet code.
+
+# 5. Tender & Contractor Selection
+
+Because bespoke projects value craftsmanship, careful contractor selection is essential. Tendering prioritizes builders who understand the required level of finish and who can execute unusual details with precision.
+
+# 6. Construction & Quality Control
+
+On-site supervision, mock-ups, and sample approvals ensure the built product matches the design intent. Bespoke architecture often includes bespoke detailing — built-ins, custom facades, integrated lighting — requiring closer collaboration during construction.
+
+# 7. Handover & Post-Occupancy Evaluation
+
+Good bespoke practice includes a post-occupancy evaluation to measure if the design delivers on promised outcomes and to learn for future improvements.
+
+# The Human-First Metrics: How to Measure Transformation
+
+When claiming that architecture transforms life, it helps to use tangible metrics:
+
+* Time savings in routine tasks (kitchen workflows, laundry, mornings).
+* Energy use reductions from passive design and efficient systems.
+* Acoustic performance improvements measured in decibels.
+* Reported wellbeing scores from occupant surveys (sleep quality, perceived comfort).
+* Resale value uplift tied to functional improvements and quality materials.
+
+Designers who document these outcomes create a feedback loop that refines future bespoke work.
+
+# Spatial Psychology: Designing for Behavior and Mood
+
+Space affects behavior. Bespoke architecture uses spatial psychology to craft sequences that invite certain moods and activities:
+
+* **Threshold design**: Entry spaces that transition gradually (covered porch → mudroom → living area) let occupants mentally shed workday stress before entering private life.
+* **Controlled openness**: A mix of open-plan living with carefully sized alcoves or screened areas balances sociability and private retreat.
+* **Staging routines**: Dedicated zones for morning rituals, remote work, hobby spaces and family gatherings support different modes of daily life without conflict.
+
+In practice, designers manipulate ceiling heights, light quality, sightlines and material warmth to create spaces that encourage relaxation, focus or social connection.
+
+# Light, Air and Thermal Comfort: Passive Design as a Transformative Tool
+
+Bespoke architecture places enormous emphasis on natural light, ventilation and thermal comfort. Passive design strategies — optimal orientation, window placement, shading, thermal mass, and cross-ventilation — reduce reliance on mechanical systems while improving daily comfort. Thoughtful daylighting reduces glare and provides even illumination that supports mental health and circadian rhythms. Likewise, ventilation strategies that prioritize fresh air exchange raise indoor air quality and support respiratory health.
+
+Examples of passive strategies in bespoke projects:
+
+* South-facing living spaces with controllable shading to harvest winter sun and shade in summer.
+* Night purge ventilation for cooling in temperate climates.
+* Use of thermal mass (concrete or masonry) behind high-performance glazing to moderate temperature swings.
+
+# Craftsmanship, Materials and Longevity
+
+Bespoke architecture champions high-quality materials and craftsmanship because they deliver tactile pleasure, longevity and a sense of identity. Choosing the right timber species, masonry detailing, and metalwork can both age gracefully and require less maintenance over time. Bespoke design teams often specify locally-sourced materials and artisan joinery to create a sense of place and to support sustainable supply chains.
+
+Material decisions affect:
+
+* Tangible comfort (warmth of wood underfoot).
+* Acoustic quality (soft finishes absorb sound better than hard, reflective surfaces).
+* Maintenance cycles (durability reduces lifetime cost).
+
+# Biophilic Design: Reconnecting with Nature
+
+Integrating nature — visual connections, natural materials, plant life and ventilation — is core to many bespoke projects. Biophilic design reduces stress and improves cognitive function. Ways bespoke architecture introduces nature:
+
+* Courtyards and internal gardens for private outdoor space.
+* Large operable windows and sliding doors that blur the boundary between inside and out.
+* Green roofs or planted terraces that support biodiversity and reduce urban heat gain.
+
+These decisions not only uplift experience but can also materially reduce energy demand and improve stormwater management.
+
+# Technology Integration Without Compromise
+
+Smart-home technology, when thoughtfully integrated, can make bespoke homes intuitive rather than intrusive. The key is to embed technology so that it recedes into the background and reinforces the user's routine: adaptive lighting that follows circadian rhythms, heating controls that learn occupancy patterns, or integrated AV that disappears into cabinetry. Bespoke architecture coordinates these systems with spatial logic — for example, placing controls in natural, ergonomic spots and ensuring connectivity for updates.
+
+Principles for successful tech integration:
+
+* Prioritize systems that improve comfort and efficiency.
+* Keep interfaces simple and centrally documented for homeowners.
+* Plan for upgrades and avoid hardwiring to obsolete protocols.
+
+# Accessibility, Aging-in-Place and Multi-Generational Living
+
+Bespoke design is uniquely positioned to address changing household needs — from young families to aging households. Universal design strategies increase independence and dignity for all occupants:
+
+* Step-free access, wider doorways, and level thresholds.
+* Bathrooms with future-proof layouts for grab bars and barrier-free showers.
+* Flexible rooms that can change function (guest room → caregiver room).
+
+Designing for longevity and adaptability avoids costly retrofits later and ensures homes remain usable and valuable.
+
+# Landscape, Microclimate and Site-Specific Responses
+
+A bespoke project pays close attention to the site — topography, soil, views, wind, and neighboring context. The relationship between building and landscape frames daily experience: a garden path aligned to the morning sun, terraces for evening gatherings, or deciduous trees that provide summer shade and winter light. Site-specific strategies also reduce environmental impact by preserving mature vegetation, optimizing stormwater disbursement, and minimizing excavation.
+
+# Acoustics and Privacy: Designing for Quiet
+
+Sound profoundly affects comfort. Bespoke spaces account for acoustics early: separating noisy and quiet zones, specifying floor constructions that reduce impact noise, and using soft finishes where appropriate. Acoustic design improves sleep, concentration, and a general feeling of peace.
+
+Approaches include:
+
+* Floating floors and resilient layers.
+* Double-stud walls for party-wall attenuation.
+* Strategic placement of bookcases, curtains, and fabric surfaces.
+
+# Sustainability Beyond Energy: Whole-Life Thinking
+
+Sustainability in bespoke architecture goes beyond solar panels. Whole-life thinking considers embodied carbon, maintenance cycles, material reusability, and long-term adaptability. Designers prioritise low-carbon materials, durable construction details, and systems that can be serviced or upgraded without demolition. The aim is to reduce total environmental cost over the building’s life.
+
+Strategies:
+
+* Use of engineered timber and responsibly sourced materials.
+* Designing assemblies for disassembly.
+* Passive-first strategies to reduce operational energy use.
+
+# Cost, Value and Return on Investment
+
+A common misconception is that bespoke automatically equals wasteful expense. While bespoke often carries a premium for design time and higher-grade finishes, it can deliver better value in several ways:
+
+* Reduced operational costs from passive design and efficient systems.
+* Higher resale value due to unique quality, functionality, and timbered detailing.
+* Lower lifecycle costs because durable materials need less replacement.
+
+Key to value is clarity during brief and disciplined cost control: prioritizing what will be used daily and where investment impacts quality of life most — typically kitchens, bathrooms, and envelope performance.
+
+# Working with an Architect: Collaboration and Expectations
+
+To get the most from bespoke architecture, approach the relationship as a partnership:
+
+* Be honest about lifestyle, budget, and non-negotiables.
+* Expect iterative design and evidence-based recommendations.
+* Insist on clarity in fees, deliverables, and timelines.
+* Ask for examples of past projects, sample materials and on-site mock-ups.
+
+Good architects will guide clients through choices, explain trade-offs, and document decisions so that the final result is cohesive and predictable.
+
+# Planning, Regulations and Risk Management
+
+Bespoke architects navigate regulatory environments to secure approvals, ensuring a smooth process. This includes planning constraints, heritage considerations, structural safety and building control compliance. Early engagement with local authorities and heritage officers, where needed, dramatically reduces delays.
+
+Risk management strategies:
+
+* Build contingency into time and budget.
+* Use detailed surveys and soil reports before finalizing foundations.
+* Avoid late design changes during construction.
+
+# Interiors as Integrated Systems: Lighting, Joinery, and Furnishings
+
+In bespoke projects the interiors are not an afterthought — they are designed in tandem with architecture. Custom joinery, integrated lighting, and furniture that matches spatial proportions create a unified aesthetic and functional system. Designers use lighting layers (ambient, task, accent) to define mood and support activities. Joinery is considered part of thermal and acoustic performance, not merely decoration.
+
+# Case Studies (Illustrative, Non-Branded Examples)
+
+To illustrate transformation, imagine these archetypal bespoke interventions:
+
+1. **A City Townhouse Reordered for Quiet Remote Work** By relocating a home office to the quietest facade, adding acoustic glazing, and designing a private courtyard, the house becomes a high-performance remote-work environment that preserves family social spaces.
+2. **A Coastal House Reimagined for Seasonal Living** Raised living areas, breezy cross-ventilation, and robust, salt-tolerant materials make the home resilient and low-maintenance while emphasizing panoramic views and outdoor living.
+3. **A Multigenerational Home That Grows With the Family** Flexible partitioning, service cores for future stairlifts, and convertible living areas support independence for elderly relatives while keeping shared communal cores intact.
+
+Each case shows how targeted decisions — orientation, partitioning, materials — convert generic dwellings into purpose-built, life-enhancing spaces.
+
+# Common Myths About Bespoke Architecture
+
+* **Myth:** Bespoke is only for the wealthy. **Reality:** While high-end finishes can be costly, many bespoke principles (thoughtful circulation, passive strategies, and better storage) are low-cost and high-impact.
+* **Myth:** Bespoke takes forever. **Reality:** A disciplined brief, experienced team, and clear decision-making frameworks keep bespoke projects timely. Mock-ups and phased handovers can speed usable occupation.
+* **Myth:** Bespoke is not sustainable.\*\* **Reality:** Bespoke projects are well-placed to adopt sustainable assemblies, source responsibly and design for longevity — all eco-positive outcomes.
+
+# How to Prepare for a Bespoke Project: Practical Checklist
+
+* Clarify priorities: what must be included, what can be adjusted?
+* Gather inspiration photos and note why they appeal.
+* Document daily routines and pain points in your current space.
+* Set a realistic budget and contingency (10–15%).
+* Choose an architect with relevant experience and strong communication.
+* Ask for sample panels, mock-ups, and a clear procurement strategy.
+
+This preparation smooths design decisions and keeps the project focused on transformational outcomes.
+
+# Future-Proofing: Designing for Change
+
+Bespoke architecture anticipates change: family growth, aging, evolving technology, and climate shifts. Design strategies for future-proofing include:
+
+* Flexible structural grids that allow reconfiguration.
+* Service routes that allow upgrades without demolition.
+* Passive resilience (shading, thermal mass) to cope with climate variation.
+* Spaces that can change use (garage → home office; attic → bedroom).
+
+Designing for change reduces future disruption and expense.
+
+# The Emotional Dimension: Place, Memory and Identity
+
+Beyond function, bespoke architecture fosters attachment. A house that responds to rituals and remembers usage patterns becomes part of personal memory and identity. Moments of delight — a view framed at breakfast, a warm stair handrail, a perfectly sized reading alcove — accumulate and define the emotional richness of daily life.
+
+Designers who attend to these small, human moments create spaces that are not just efficient, but beloved.
+
+# Practical Examples of Transformative Design Moves
+
+* **Creating a morning ritual path**: route from bedroom to coffee station to daylighted workspace.
+* **Zoning for activity**: separate noisy utilities (laundry) from restful zones.
+* **Layered storage**: visible daily storage vs. long-term archival storage.
+* **Integrated outdoor rooms**: transitional spaces that expand living in temperate seasons.
+
+Each tactical move yields measurable daily gains in convenience and satisfaction.
+
+# Selecting Materials that Age Gracefully
+
+Choose materials with patina potential: natural timber, oil-finished metals, lime-based renders, and dense masonry. These materials develop character over time, avoiding the look of premature wear and often requiring less cosmetic maintenance than cheaper finishes.
+
+Consider maintenance cycles and local climate when selecting materials: humidity, UV exposure and salt can dramatically affect durability.
+
+# Final Thoughts: Bespoke as a Way of Living
+
+Bespoke architecture is not a mere aesthetic choice — it’s a commitment to designing life-supporting environments. When architecture is tailored to routines, climate, and human needs, it reduces friction, elevates wellness, and makes daily life more pleasurable and efficient. The bespoke approach values listening, iteration, craft, and whole-life thinking. For those ready to invest in long-term quality of life, bespoke architecture delivers transformations that are both practical and poetic.
+
+# Closing Checklist — Quick Reminders Before Starting:
+
+* Define lifestyle priorities and non-negotiables.
+* Hire an architect who asks better questions than your builders.
+* Insist on mock-ups for critical details.
+* Prioritize passive strategies before mechanical fixes.
+* Factor durability and maintenance into every material choice.
+* Build flexibility into spaces and services for future change.
+
+Bespoke architecture is a deeply human practice: it asks not just *what* you want to build, but *how* you want to live. When done well, it changes routines, restores calm, and creates a backdrop for the life you want to lead.",1,1757141085.0,u_WaveConscious6721,0,1.0,False
+1n9sorc,https://www.reddit.com/r/HeartWritten/comments/1n9sorc/varkala_trip/,Varkala Trip,"Dear me,
+
+I am a corporate employee in India. This means that I do not take a single long holiday, because I am not granted those. Instead, we wait for long weekends where we merge a single Friday or Monday and add the delicacies of Saturday, Sunday to it, and every time we plan on falling ill the next day.
+
+So, in the beginning of July, me and my colleagues from the same organisation noticed that this Independence Day is on Friday, which gives us 3 sweet days of a vacation where we can relax, have drinks in the breakfast and drive out somewhere.
+
+The plan was pretty much simple. Land in Bangalore, pick up a friend, and drive to Varkala. The roads are great; the views are what the French says *Magnifique* but the challenge was 34 hours total driving time between Varkala and Bangalore (to-and-fro).
+
+We book from the infamous Zoomcars, and start our drive at 10 pm from Bangalore. We took the notorious NH 844 which is famous for its sightings of wild elephants in the region, reach Salem, take a few breaks in between for tea, coffee, and cigarettes.
+
+As we were eagerly waiting for the sunrise to come in, as we expected it to be great view, to our surprise it was far greater than we ever imagined. Driving through the NH 44, as I am cruising past a 100 km/hr in a Nissan Magnite, our headlights at full power, my right-hand side view is as dark as the Orcs country in Lord of the Rings. But the left side reminded me of the scene where Gandalf reached at sunrise and rode with Eomer and the Riders of Rohan followed by the great glance of the Sun outshining the evil orcs.  Trust me, this view with the song “Highway to Hell” blasting on the speakers is something you will never feel in flights or some other mode of luxury travel.
+
+Finally, we reach Kerala, which felt like entering the helm of Wakanda. The view changed suddenly, the weather greeting us with slight rain and clouds entering our car as if it wants us to mix with its vapour and absorb us within. So, we changed our rock playlist to the songs of Karwaan and started the ride uphill.
+
+We reach Varkala at around 3 pm in the afternoon, take rest the whole day as our body was begging us to stay indoors this time. Next day, our plans were simple, go out to some beaches, enjoy the view, take in the peace within and forget our worries by seeing them drowning in the sounds of the ocean, chilling out in a restaurant with drinks and driving back home to get ready for the evening.
+
+However, the evening is where plans go a little astray. Due to heavy rain, the beaches and the nearby shacks, and restaurants have been closed by the officials, and thus we could not enjoy the night out on the beach. Instead, we did what friends do. Ordered in, brought drinks, and enjoyed talking to each other after a very long time of work. We reminiscent our past when we all used to live together and see each other on every weekend and in the office on every weekday.
+
+Finally, we started our drive back to Bangalore the next day at 12 pm, drove at a brilliant 120 km/hr because the roads were not made by greedy constructors and politicians but honest people, and reached home at 4 am in the morning. We rest till 10 am, leave for airport and reach back.
+
+All in all, a good trip, and I intend on going back to Varkala this New Year for Surfing, so will let you know if plans come to reality.",2,1757141044.0,HeartWritten,0,1.0,False
+1n9so3u,https://www.reddit.com/r/ThirtiesIndia/comments/1n9so3u/confused_with_my_husbands_behavior/,Confused with my husband's behavior,"I am 32f married for almost 9  years. Few years back i came to know my husband is on dating apps ,chatting with girls and making friends. When asked him he told that he is not interested in anything else but wanted to make new friends. 
+After that I realised he started hiding things from me. He is in reddit and chats with girls( and made some good guy friends as well) on telegram. Recently he also he lied to me about visiting a city for his vacation with his friend but they went to some other city. When asked he said he got scared as this city he keeps on visiting and I will suspect him.
+
+He also said that he has met few girls from dating app for coffee. According to him he never had any other motive except making friends.
+And he only loves me and will never cheat me in any way. 
+
+He thinks from the day of our marriage I suspect him and that's why he hid things from me and now also he doesn't know how will I react and hence he will continue doing the same. I don't have access to his phone as he keeps that locked from me. 
+
+At times I feel cheated. But I can't even blame him. After my kid's birth physical relationship has been difficult for us due to my difficult delivery. 
+
+Is he right? Am I wrong? I love him so much I want to understand his POV. But I am not so open minded to accept that my husband in on dating app. I am trying to accept it but I think, in the whole process I will lose myself. I tried talking to him but he said it took him years to have this kind of open mind and he would love to be in this space. What should I do? 
+",6,1757140975.0,ThirtiesIndia,20,0.8,False
+1n9snyw,https://i.redd.it/5se04ig6qhnf1.jpeg,Clive Head - Les Souvenirs du Café Anglais (2014),,8,1757140958.0,museum,0,0.9,False
+1n9sncx,https://i.redd.it/4yy9dkg0qhnf1.jpeg,My caravan setup,"We bought a caravan a few weeks ago and one of our priorities was to make sure we could enjoy some half-decent coffee in the van. We are on our first weekend away and I used these for the first time this morning.  I’m really happy with the setup, it’s compact and the DF52 is single dosing so well suited for bringing some beans for the trip and takings the rest back home. 
+
+I got a little lucky, dialled in the first shot and it was bang on. Was expecting to go through a a fair few beans before getting a decent shot. ",27,1757140896.0,espresso,1,0.96,False
+1n9smwc,https://www.reddit.com/r/Advice/comments/1n9smwc/will_delaying_sex_deter_guys_who_are_only_after_it/,Will delaying sex deter guys who are only after it?,"Will delaying sex deter guys who are only looking to pump and dump?
+
+I want to form serious and meaningful relationships and want to get to know someone well before doing the deed. 
+
+I just want them to date me because they enjoy my company and like me for who I am, not because of the sex I can give them.
+
+I could have sex with someone after 6 dates (food, coffee, cinema, wine walking etc) because I would like to see his consistency and investment in time. I always pay for half of these dates because I do not want a guy to think that I am only using him for free meals.
+
+",25,1757140846.0,Advice,77,0.86,False
+1n9sli8,https://www.reddit.com/r/FrenchEscapes/comments/1n9sli8/24_hours_in_paris/,24 hours in Paris," For those who do not have much time in Paris, but want to have it all, here are my advices :
+
+* Stay on the left bank, in Saint Germain des Prés  (for example: Le Lutetia is a great choice). From there, we can go shopping (Le Bon Marché is just in front of le Lutetia, excellent selection of finest food and fashion). On the left bank as well: Jardin du Luxembourg (beautiful gardens), art galleries  (stay around Rue de Seine). If you want to have some parisian vibes, get a coffee at  Café de Flore
+* Cross the River Seine and have a lunch at Tout Paris, michelin star restaurant, which is on top of the famous La samaritaine (just reopened 2 years ago, stunning)
+* Go through le Louvre 
+* Pastry at Jardin des Tuileries. You can for example grab macarons at Ladurée, which is basically just below the Louvre (Carroussel du Louvre), or get a hot chocolate at Angelina, the famous café near the Louvre as well.
+* Private boat tour on River Seine 
+* Evening around Eiffel Tower and diner (there are two restaurants on the Eiffel tower, Madame Paris, a brasserie or Jules Verne, michelin star restaurant)",1,1757140707.0,FrenchEscapes,0,1.0,False
+1n9skiy,https://www.reddit.com/r/EU5/comments/1n9skiy/will_i_be_able_to_play_as_the_devlopers_anxiety/,Will I be able to play as the devlopers anxiety?,"As the game deadline approaches I would like to know if I can play as anxiety and conquer the Tinto Studio?
+I would like to see how the mechanics play out, such as: - Bribing the community manager to tell the devs they need to simulate organs now and make them playable.
+- Making trade alliances with the QA department to mark each ticket as urgent
+- Send spies to influence Paradox to give full creative control to the marketing department and have devs implement lootboxes and no actual proper game design
+- Go at war with Johan Universalis and have him tell the devs they will also start work on the Season 2 DLC before release.
+- Take the studios trade nodes and cut off the coffee supplies and force them to use only 1 play toilet paper
+
+Will the dimming spark of life in the devloper eyes be accurately simulated per each game tick?
+
+P.S.
+Is giving the devs impostor syndrom be at launch or come later as a DLC?",0,1757140607.0,EU5,1,0.39,False
+1n9skh3,https://i.redd.it/2lvldvc5phnf1.jpeg,Question 104..What should be the answer according to u?,,2,1757140602.0,CATStudyRoom,12,1.0,False
+1n9sjek,https://i.redd.it/wvz49f0tohnf1.jpeg,Thanks for the person who posted about this offer!,Each one for 9rs. Ordered on Instamart. Multiple orders since there is order limit for each product. Thanks to the kind stranger who posted about this offer. Please check these might still be available in your area.,103,1757140488.0,Fitness_India,73,0.91,False
+1n9sj95,https://www.reddit.com/r/UTAustin/comments/1n9sj95/solo_date_ideas_in_austin/,solo date ideas in austin,"wanting to look forward to doing things alone and by myself. any ideas? maybe some coffee shops, food, shopping, etc that are relatively safe areas to go alone please. 
+
+ALSO any running/walking trails that are safe to walk on alone. ",4,1757140470.0,UTAustin,1,1.0,False
+1n9si84,https://i.redd.it/mr75jyufohnf1.jpeg,Difference between Yuuko and Tomo Takino,They are kinda similar yet different,9,1757140364.0,Nichijou,0,1.0,False
+1n9shzf,https://www.reddit.com/r/exmormon/comments/1n9shzf/changes_in_doctrine/,Changes in “Doctrine”!?,"So I have been fully out since 2018. 
+2-hour church was a huge change when I heard about it.
+What is this now about changes in policy about tattoos and coffee and the underwear? WHAT!? So much for “eternal”.",1,1757140338.0,exmormon,0,1.0,False
+1n9sglt,https://www.reddit.com/r/epistemology/comments/1n9sglt/here_is_purpose_of_human_life/,"Here is Purpose of human life,","Practical Explanation ( For Example ) :- `1st of all can you tell me every single seconds detail from that time when you born ?? ( i need every seconds detail ?? that what- what you have thought and done on every single second )
+
+can you tell me every single detail of your `1 cheapest Minute Or your whole hour, day, week, month, year or your whole life ??
+
+if you are not able to tell me about this life then what proof do you have that you didn't forget your past ? and that you will not forget this present life in the future ?
+
+that is Fact that Supreme Lord Krishna exists but we posses no such intelligence to understand him.
+there is also next life. and i already proved you that no scientist, no politician, no so-called intelligent man in this world is able to understand this Truth. cuz they are imagining. and you cannot imagine what is god, who is god, what is after life etc.
+_______
+for example :Your father existed before your birth. you cannot say that before your birth your father don,t exists.
+
+So you have to ask from mother, ""Who is my father?"" And if she says, ""This gentleman is your father,"" then it is all right. It is easy.
+Otherwise, if you makes research, ""Who is my father?"" go on searching for life; you'll never find your father.
+
+( now maybe...maybe you will say that i will search my father from D.N.A, or i will prove it by photo's, or many other thing's which i will get from my mother and prove it that who is my Real father.{ So you have to believe the authority. who is that authority ? she is your mother. you cannot claim of any photo's, D.N.A or many other things without authority ( or ur mother ).
+
+if you will show D.N.A, photo's, and many other proofs from other women then your mother. then what is use of those proofs ??} )
+
+same you have to follow real authority. ""Whatever You have spoken, I accept it,"" Then there is no difficulty. And You are accepted by Devala, Narada, Vyasa, and You are speaking Yourself, and later on, all the acaryas have accepted. Then I'll follow.
+I'll have to follow great personalities. The same reason mother says, this gentleman is my father. That's all. Finish business. Where is the necessity of making research? All authorities accept Krsna, the Supreme Personality of Godhead. You accept it; then your searching after God is finished.
+
+Why should you waste your time?
+_______
+all that is you need is to hear from authority ( same like mother ). and i heard this truth from authority "" Srila Prabhupada "" he is my spiritual master.
+im not talking these all things from my own.
+___________
+
+in this world no `1 can be Peace full. this is all along Fact.
+
+cuz we all are suffering in this world 4 Problems which are Disease, Old age, Death, and Birth after Birth.
+
+tell me are you really happy ?? you can,t be happy if you will ignore these 4 main problem. then still you will be Forced by Nature.
+___________________
+
+if you really want to be happy then follow these 6 Things which are No illicit s.ex, No g.ambling, No d.rugs ( No tea & coffee ), No meat-eating ( No onion & garlic's )
+
+5th thing is whatever you eat `1st offer it to Supreme Lord Krishna. ( if you know it what is Guru parama-para then offer them food not direct Supreme Lord Krishna )
+
+and 6th "" Main Thing "" is you have to Chant "" hare krishna hare krishna krishna krishna hare hare hare rama hare rama rama rama hare hare "".
+_______________________________
+If your not able to follow these 4 things no illicit s.ex, no g.ambling, no d.rugs, no meat-eating then don,t worry but chanting of this holy name ( Hare Krishna Maha-Mantra ) is very-very and very important.
+
+Chant "" hare krishna hare krishna krishna krishna hare hare hare rama hare rama rama rama hare hare "" and be happy.
+
+if you still don,t believe on me then chant any other name for 5 Min's and chant this holy name for 5 Min's and you will see effect. i promise you it works And chanting at least 16 rounds ( each round of 108 beads ) of the Hare Krishna maha-mantra daily.
+____________
+Here is no Question of Holy Books quotes, Personal Experiences, Faith or Belief. i accept that Sometimes Faith is also Blind. Here is already Practical explanation which already proved that every`1 else in this world is nothing more then Busy Foolish and totally idiot.
+_________________________
+Source(s):
+every `1 is already Blind in this world and if you will follow another Blind then you both will fall in hole. so try to follow that person who have Spiritual Eyes who can Guide you on Actual Right Path. ( my Authority & Guide is my Spiritual Master "" Srila Prabhupada "" )
+_____________
+if you want to see Actual Purpose of human life then see this link : ( triple w ( d . o . t ) asitis ( d . o . t ) c . o . m {Bookmark it })
+read it complete. ( i promise only readers of this book that they { he/she } will get every single answer which they want to know about why im in this material world, who im, what will happen after this life, what is best thing which will make Human Life Perfect, and what is perfection of Human Life. ) purpose of human life is not to live like animal cuz every`1 at present time doing 4 thing which are sleeping, eating, s.ex & fear. purpose of human life is to become freed from Birth after birth, Old Age, Disease, and Death.",0,1757140200.0,epistemology,0,0.25,False
+1n9sg7u,https://www.reddit.com/r/decaf/comments/1n9sg7u/five_weeks_caffeinefree_my_story/,Five Weeks Caffeine-Free: My Story,"Hey everyone, 
+
+I (33M) wanted to share my journey of quitting coffee and going caffeine-free, thanks to the encouragement from this community. Hopefully, this helps anyone else on considering that or dealing with withdrawal symptoms!
+
+I started drinking coffee in my late teens and really ramped up during university. Once I started working in finance, I relied on coffee for energy, which, as we all know, is a double-edged sword.
+
+In early July, I had to stop coffee for three days due to blood tests, and I felt awful—depressed, anxious, and questioning everything. That experience made me realize that it didn’t make sense to consume something that made me feel that way. So, about a month later, I decided to quit altogether. I gradually reduced my intake over a week and cut out all sources of caffeine, starting my caffeine-free journey on August 1st.
+
+The first week was tough, but not as bad as those initial three days. I felt depressed and anxious, and I also had strong cravings for junk food during those first three weeks. Also I really needed a nap for 10 to 20 minutes around the period of time when I used to have the high of caffeine consumption, which is like 11 a.m. to 12 p.m. But thanks to my remote job I managed to accommodate this for the first three weeks. I also noticed that staying active and doing sports three times a week really helped keeping my energy up, especially on the tough days.
+
+After that initial period, I started feeling better and more stable. Now, five weeks in, I’ve noticed less anxiety, more vivid dreams, and more stable energy levels. My sleep is still adjusting, and on about 7–8 occasions I’ve struggled to fall asleep at my usual time—which is unusual for me. I also still get the occasional coffee craving, especially on rough mornings or cold, rainy days, but it’s manageable. What really keeps me away from caffeine on those days is the understanding that if I go back and decide to quit again, I’ll need to go through those three weeks one more time 
+
+I’ve noticed quite a lot of posts mentioning that it can take a really long time—like three to six months—to fully feel normal without coffee. I do understand that the brain is a very complex and sophisticated organ, and it can take time for brain chemistry to adjust after cutting out caffeine. However, if you’re still feeling off for that long, it’s worth considering whether coffee was masking some underlying health issues. Don’t just rely on the idea that things will fix themselves over a long timeline—whether it’s three, six, or even twelve months. Be proactive, ask the right questions, and consult with specialists to see if there might be something else going on.
+
+That’s my story! If you’re thinking of quitting coffee, I hope this helps",5,1757140162.0,decaf,0,0.86,False
+1n9sfr3,https://i.redd.it/e9wpynhpnhnf1.jpeg,Coffe table suggestions?,"If I purchase a couch like this, what kind of coffee table would you pair with it?  I hate MCM style and prefer walnut/espresso colored wood. I love my rectangular lift top coffee table but fear a rectangle coffee table would no longer work.  Thanks.",4,1757140117.0,femalelivingspace,1,1.0,False
+1n9sf2o,https://www.reddit.com/r/SuicideWatch/comments/1n9sf2o/nothing_makes_sense/,Nothing makes sense,Everything is contradiction. People are dying all over the place yet no one is dying in my place. There are rise of right wing politics yet people are grabbing coffees and just living. Nothing makes sense. I cant focus on anything because everything is contradiction. My existence makes no sense. If I dont exist then everything will make sense. I dont want to exist anymore. Im doomed.,1,1757140050.0,SuicideWatch,0,1.0,False
+1n9seht,https://www.reddit.com/r/SwordAndSupperGame/comments/1n9seht/riddles_quest_and_iced_coffee/,"Riddles, Quest, and Iced Coffee",This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/SwordAndSupperGame/comments/1n9seht),1,1757139994.0,SwordAndSupperGame,1,1.0,False
+1n9sedh,https://www.reddit.com/r/london/comments/1n9sedh/looking_to_connect_with_lbs_and_imperial_mba/,looking to connect with LBS and Imperial (MBA) students,"hii everyone, a bit about myself, im from mumbai (india) and joining Royal College of Arts for MA service design this fall :), and since London will be buzzing with new students, I thought it’d be great to connect with some incoming LBS and Imperial MBAs.
+
+im very inclined and curious about the overlap between design, business, and innovation, but also just excited to meet new people, share perspectives, and explore the city together (coffee chats, exploring parks, all of it ☕🎄).
+
+if you’re heading to London for your MBA, feel free to DM me! I’d be happy to set up a small group chat if there’s interest. 
+loooking forward to meeting some future London friends ✨",0,1757139981.0,london,1,0.2,False
+1n9sea4,https://www.reddit.com/r/MeetNewPeopleHere/comments/1n9sea4/33m_vancouver_married_man_looking_to_chat/,[33/M] Vancouver- married man looking to chat,"Hi,
+
+I’m a 33-year-old married Indian man from Vancouver, Canada. Life's been busy lately, and I'm looking to relax and unwind with some good conversation. I’m hoping to connect with a like-minded lady who’s up for a chat. I'm open to all kinds of conversations—whether you just want someone to listen, enjoy a platonic exchange, or you're feeling a little adventurous, I’m here for it.
+
+About me: I’m known to be fun, especially if you’re the calm and fun type too. I’m well-educated, soft-spoken, and generally considered a nice guy. Not tall, but fit—I run a lot. I’d say I’m fairly good-looking and happy to share a photo. I enjoy reading, watching YouTube, and being outdoors—hiking and weekend walks are my thing. I'm also a huge fan of coffee, chips, chocolate, and ice cream. I don’t drink or smoke, and I prefer one-on-one chats over group settings or parties.
+
+All ages, races, locations, time zones, and relationship statuses are welcome to message me. I just ask that you’re respectful and genuinely want to chat.
+
+Thanks!",1,1757139972.0,MeetNewPeopleHere,0,0.67,False
+1n9se0u,https://www.reddit.com/r/singleph/comments/1n9se0u/34_m4f_long_read_for_safety_lets_date_and_get_to/,34 [M4F] Long read for safety. Let's date and get to know each other.,"Let's see if we will work out. To set expectations, I'm willing to travel to your location as long as it's not far away than Manila or Quezon City Areas. If you're from Tarlac or Pangasinan, all the better.
+
+**For both of our safety**: Let's exchange pictures of ourselves in DMs (we can also do it on TG or WhatsApp, if you want). Just to be sure we can trust each other. If we end up both being attracted to each other by seeing our pictures, then let's go for it! Don't worry, I will NOT be asking you for nude photos or videos and please don't ask me for those as well. I personally think ""Spark"" is important in any relationships and it's better if we're both attracted to each other physically FIRST before anything else, then we can go from there. This is to filter out scammers and frauds out there. I'm NOT the type of guy who will ghost you or get rid of you out of nowhere. Instead, I'll be HONEST with you up-front (more details below and I don't know why so many can't just spit it out instead of wasting another person's time) and that's the reason why spark and expectations in the beginning is IMPORTANT. Safety first!
+
+**About Me:**
+
+\- 34 Years old
+
+\- 5'5 (168cm)
+
+\- Cosplayer and Model
+
+\- Professional Artist
+
+\- Passionate Video Game Player (owns a PS5 and Gaming PC)
+
+\- Catholic but not very religious
+
+\- Currently residing in Baguio for work
+
+\- Hometown is Tarlac
+
+\- STD/HIV FREE
+
+\- Fit / BMI Normal Body Type (I got very broad shoulders so be ready to feel small when I embrace you :P)
+
+\- Has Chinese, Korean and American Ancestry
+
+\- High Libido but can be very unpredictable (I have a huge physical appetite but still depends on my mood)
+
+\- Doesn't have kids (I value my freedom and privacy too much but I'm willing to adopt pets)
+
+\- Had quiet a number of ex-girlfriends but I no longer have contacts with any of them (I had intercourse with 2 of them, but the others are just plain non-penetrative bedroom sessions since I don't want any UNWANTED PREGNANCY)
+
+\- Has a LOT of hobbies and may require a lot of away time but I'll always make sure to always remind you that I think of you and spend time with you as best I can
+
+\- Loves watching Anime, Cartoons, Horror/Psychological Thriller/Slasher/Fantasy (particularly, magical medieval fantasy)/CGI/Superhero movies
+
+\- Very Fashionable (I always dress to impress in every occasion EXCEPT at home)
+
+\- Values Healthy Living - I'm on STRICT Carnivore Diet, NEVER smoked since birth, rarely drinks alcohol, lives life stress-free/no drama, hates eating junk foods, processed foods, chips, sugary stuffs, candies, soft drinks, and too much carbs. Oh, and I hate coffee and tea too.
+
+\- Values Honesty (I don't beat around the bush)
+
+\- Values Honor and Dignity (pride in one's abilities, strengths, limitations, talents and sticking to my ideals and principles)
+
+\- Values Communication (I will NOT allow both of us to go to sleep UNTIL we resolve our issues)
+
+\- Very Organized - I always mark important events in my calendar
+
+\- Very Time-Sensitive and hates ""Filipino Time"" - Whenever I plan things with someone, I always make sure to BE THERE ON TIME. This is true not just for my dating prospects, but my friends as well.
+
+\- Values Family above everything - I LOVE my parents to death! I'd DIE for them!
+
+\- Values Loyalty (A real man must ALWAYS be loyal to his lady)
+
+\- Certified Dog and Cat-lover (I can't help but pet and play with every dog or cat I see in the streets)
+
+\- Has a severe case of Cuteness Proximity (I like cute things - hoomans, puppies, kittens, hamsters, hedgehogs, etc.)
+
+\- Willing to travel - as long as it's NOT far away than Manila or Quezon City Areas
+
+**About You:**
+
+\- Ages 22-34 (it depends. If we end up both being attracted to each other, I can accept older than these ranges)
+
+\- Fit, Curvy or THICC Body Types (It's just my personal preference so please don't take it personally. I'm just NOT attracted to chubby or plus-sized women)
+
+\- Preferably, shorter or equal to my height
+
+\- Must be STD/HIV FREE
+
+\- Must have your own job. If you don't have work at the moment, don't worry, I can still date you as long as you're NOT going to ask me for money or loans, and you're willing to look for work later on
+
+\- Must have no connections to any ex-boyfriends anymore (I prefer relationships that are drama-free and no one bothering us)
+
+\- Preferably, someone who does NOT smoke, in the process of quitting smoking, or has quit smoking altogether (I HATE the smell of cigarettes)
+
+\- Drinking Alcohol is fine as long as you're NOT an alcoholic/addict
+
+\- Hopefully, you're also a dog or cat-lover
+
+\- Hopefully, you're also into Anime and Video Games
+
+\- Hopefully, you also value loyalty
+
+\- Hopefully. you also don't want kids
+
+\- Hopefully, you also have high libido (bedroom chemistry is extremely important in a relationship, after all)
+
+For anyone interested to apply, feel free to send me DMs any time! I admit this might come off as a job application but that's only because I don't want any scammers or fraud ruining our experience. After all, we all want genuine connections at the end of the day. Again, don't forget to send your pictures and I'll send mine to you as well. I repeat, no nude photos or videos! I'll do my best to accommodate you.
+
+See you soon! :D",0,1757139947.0,singleph,0,0.33,False
+1n9sdks,https://www.reddit.com/r/Contemporary_Romance/comments/1n9sdks/fake_dating_my_exs_favourite_hockey_player/,Fake Dating My Ex's Favourite Hockey Player,"""We’re doing a couples-only cruise before the wedding. Bring your boyfriend… if you have one.""My ex is getting married?!We were together for ten years, and he swore he’d stay single forever.But just a few months after we broke up, he found his bride.Here’s what he doesn’t know—Not only am I going on that cruise,I’m bringing the man he wishes he could be，His favorite hockey player… aka the hottest man in the world.I devoted ten years of my life to the only man I've ever loved, my ex-fiancé, Zane Whitmoore.Since our eighth grade in middle school, I was always by his side. I shaped myself into the perfect woman for him.I kept my black curls cut short, just the way he liked. I never wore makeup. I dressed in outfits he approved of because he didn't like when other men looked at me.For ten years, I did everything he wanted. I was going to be his wife. Everyone knew we were meant to be.So it made no sense when, six months ago, he threw it all away.""What did you say?"" My voice was barely above a whisper.Zane stared at me across the restaurant table, his expression unreadable. I had made this reservation months ago for our ten-year anniversary.""I think we should break up,"" he said.I blinked. My heart pounded. ""Zane, is this supposed to be a joke? Because it's not funny, babe.""""I'm not joking, Emilia.""""No, you have to be joking!"" My voice rose slightly, and I glanced around. People were staring. I took a deep breath and reached for his hands across the table. My engagement ring still sat on my finger. I had never wanted to take it off. Not even now.""We just started planning the wedding,"" I said, keeping my voice steady. ""I know it's stressful, but that's why I've been doing most of the work.""He didn't respond.""If it's too much, we can push it back,"" I added, even though the words felt like poison. We had already delayed it for years. But if that's what it took to keep us together, I would do it in a heartbeat. ""I don't want you to feel pressured.""Zane exhaled sharply. ""Then you don't want me to marry you? Because that's something I don't want to do, Emilia.""His words hit like a slap. My heart tightened. ""You don't mean that.""""But I do."" His voice was firm. Cold. Nothing like the man I fell in love with. ""I don't love you anymore. I haven't for years.""I stopped breathing.""I stayed because I know how much I owe you,"" he admitted. ""But I can't put you over my happiness anymore.""""Relationships go through tough times. We just have to work-""Zane pulled his hand from mine and ran it through his hair. He had always been handsome. He had light brown hair, golden-brown eyes, and a smile that could make anyone melt. I knew I was lucky to have him.He could have had any girl.But he chose me.That had to mean something. People don't just throw ten years away.But he wasn't smiling at me now. He was scowling. He stood, dusting his hand on his pants like my touch was something dirty.""I don't want to work on anything. Not with you."" His voice was flat. ""It's been ten years, Emmy. If we were meant to be, wouldn't we have gotten married by now?""The nickname stung. I stared down at my plate. ""The only reason we're not married yet is because you had to focus on your career-""""No."" His tone was sharp. ""It's because I never saw you as someone I could marry.""The words hit like a punch to the stomach.""You might be someone's cup of tea, but not mine, Emilia. And besides, most NHL athletes don't get married. But you wouldn't understand that.""I did understand. I didn't want to go my whole life without being someone's wife. But for him, I would have tried.""Don't cause a scene, Zane. There might be reporters here.""He chuckled. ""You've always been a pushover, haven't you?"" He leaned in slightly. ""But I did love you when we were younger. Because of that, you can keep the engagement ring. I don't want it back.""He turned to leave, then glanced over his shoulder. ""Oh, and we can't live together anymore. You get that, right? I'm a free man now. I should be able to bring my hookups to my own house.""He smirked. ""Leave the key in the flower pot.""Then he walked away.And just like that, he took my life with him.CHAPTER 2It's been six months since Zane left me.At first, I didn't take it well. He kicked me out, and I had nowhere to go until Tessa, my best friend, booked me the first flight to NYC and forced me to stay with her.I spent nights crashing on her couch, crying in the bathroom when she was at work.I ignored the little bakery - Tessa and I named it The Whimsy Bakehouse after getting smashingly drunk one night in college and having what she called a crazy epiphany - Zane had opened for me after he got his first NHL paycheck for weeks. I couldn't bring myself to step inside.Then Tessa got fed up. She called me a couch potato, said I was wasting my tears on an 'scumbag,' and dragged me back to work.Unlearning ten years of habits hasn't been easy.Some nights, I still catch myself staring at my phone, waiting for a message that will never come. Waiting for Zane to say he made a mistake. That he wants me back.But he never does. Not even in my dreams.It's Friday and I'm at the bakery. The regular season is about to start. I know because I memorised Zane's schedule months ago. Back then, I planned my days around his, making sure we had time together.Now, the only reason I keep up with hockey is Tessa. She's been extra busy lately.She's a PR manager for the New York Titans. It was Zane's favourite team. He had always dreamed of being drafted there. Instead, he ended up with the Chicago Blizzards.That was a rough time for us. He was so angry about it, and I was the one he took it out on. It took everything I had to keep our relationship from falling apart.I push the memory away and pull the second batch of cookies from the oven. Just as I set them down, the bell above the door jingles, making me smile.The Becketts live across the street. They stop by every morning for cookies, and I always make sure to have something extra for them.""Good morning, Miss Carter!"" Angel, their little girl, grins up at me, two front teeth missing. She holds her father's hand, swinging it back and forth.My heart melts. ""Good morning, Angel. Mr Beckett. Just the two of you today?""Mr Beckett nods, smiling. ""My wife gave birth yesterday. We're here to pick up some treats for her. She specifically asked for your doughnuts.""Mrs. Beckett had been carrying a child forever, or at least, that's how it felt. In reality, she had been carrying a child for about twelve months now.She used to sit in my bakery, watching me bake, complaining about how heavy and tired she was. All she wanted was a healthy, happy baby. The doctors said the long stretch of carrying a child was unusual but nothing to worry about.Hearing the news now, I couldn't contain my excitement. I let out a squeal, and Angel giggled.""Congratulations! I'm so happy for you!"" I beamed. ""I'll grab the doughnuts right away. I also made some cupcakes! It's almost like I knew something good was coming!""Angel nodded enthusiastically. ""I have a little brother now! He's really red and not very pretty, but Mummy says all babies look like that.""""That's not a very nice thing to say, Angel,"" Mr. Beckett scolds gently as I quickly pack up the cupcakes, doughnuts, and a few fresh cookies for Mrs. Beckett.""But it's true!"" Angel pouts, crossing her arms. She turns to me for backup. ""Miss Carter, tell Daddy it's true!""I hand the treats to Mr. Beckett, then place a hand on my hip as I ruffle Angel's hair. ""I agree with your dad. He might be a little red, but he's still your brother. And as his big sister, it's your job now to protect him. Especially from people who talk about how red he is.""Angel lets out an exaggerated huff. ""That's going to be so hard.""Mr. Beckett chuckles. ""Welcome to being a big sister.""I smile, watching the two of them. Moments like these remind me that not all relationships fall apart. Some families actually stay happy.But for some reason, none of my relationships ever last. No matter how much I give, it's never enough.I wave at the Becketts as they leave, their happiness lingering in the air like the scent of freshly baked cookies. I wanted what they had, a family that cared for each other.But after what I did seven years ago, I knew I didn't have a family to go back to. My parents haven't called in months. My sister barely acknowledges my existence.It used to hurt less when I told myself I deserved it. That this was just the price of my mistakes. And no matter how much I lost, I thought I'd always have Zane.But I even failed at that.I was pathetic. I couldn't even be the kind of woman Zane wanted to marry. Everything I touched fell apart, and there was nothing I could do to stop it.My phone rings, and a quick glance at the screen tells me it's Tess. The tight feeling in my heart eases the moment I hear her voice.""You're not on my couch, are you?"" she asks, her tone is so skeptical that I burst out laughing.""No, Tess. I'm at the bakery. I even made you some cookies.""Right then, the bell above the door jingles, and in walks Tessa, holding up her phone with a triumphant grin. ""Well, thank God for small mercies.""Tessa and I have been best friends since our freshman year of college.It was a rough time for me, I had followed Zane to college in New York because he asked me to, but I struggled to fit in.He never liked when I had too many friends, so I wasn't used to having someone that wasn't him to lean on. Then I met Tess in an art history class.She couldn't stand Zane, and I used to hate that about her. But for some reason, she stuck around anyway.She's drop dead gorgeous with platinum blonde hair, forest green eyes, and long legs that make heads turn. She's the exact opposite of me in every way.Her skin is freakishly pale, mine is warm brown. Her hair is pin-straight, mine is a mess of curls. She has curves in all the right places, while I've always been insecure about my nonexistent ones. Her eyes are striking, while mine are just... brown.Compared to her, I'm a plain Jane.And not just in looks, but in personality too. When she told Zane she was going to be a PR manager for a hockey club, he laughed in her face and said she was wasting her time.Now she's doing exactly what she loves, while I'm still stuck wondering what direction my life is going.Before Zane and I started dating, I dreamed of owning an art gallery, but he thought that wasn't good enough.I love baking and this bakery, but sometimes I can't help but feel like he only bought it for me to make sure I did exactly what he wanted.Tess walks up, wraps her arms around me, and showers me with kisses, making me giggle. She's always been so affectionate. It's endearing.Then I feel her slump against my back with a sigh. ""You'll never believe what happened.""CHAPTER 3I hum softly, a small smile tugging at my mouth. ""Hello to you too. You can sit down while I make the coffee. A flat white with cinnamon on top, right?""She grins. ""I love you, you know me so well."" She slumps into a chair, resting her arm on the table and propping her head up with her hand.I start making our coffees but glance at the clock with a frown. ""It's just 10 AM, Tess. What are you doing here? Shouldn't you be at work?""She sighs loudly. ""Yes, I should. But I'm burnt out. Had to get off early.""I raise an eyebrow as I begin kneading dough. Rush hour hits by noon, and I need to work quickly. ""Work emergency?""""When is it ever anything else? It's not even counted as an emergency today. Usually, the whole team gives me problems, but this time, it's just one person!""Here we go again.""His name's... Leon, right?"" I ask, trying to remember.She raises an eyebrow at me. ""Good try, but you should know better. I've complained about him so much, he should be a household name by now. It's Liam Calloway. We went to college together. Remember?""That was new. ""We did?""""Of course, we did. He was a year ahead of us. Played on the hockey team with Zane. Good Lord, Zane was soo obsessed with him. He even wanted to get drafted by the NYC Titans just because Liam did. Remember?""Was that why Zane wanted to be chosen by NYC so badly? I rummage through my memories. I remember Zane driving me to his hockey game one day, when he didn't want Tess to drive me, so Tess was forced to tag along with us. I think he mentioned a Liam then.He did seem a bit obsessed.I shake my head, and she lets out a huge sigh. ""Don't worry about it, that scumbag's obsession wasn't the issue anyway."" She frowns, thinking. ""What was the issue again?""""Work emergency.""""Right! That!"" She huffs and starts getting worked up again. I wash my hands, grab our coffees, and put the cookies on a large plate. I walk over and hand her coffee before sitting down across from her. ""He's an insufferable heart breaker!""I tilt my head, confused. ""And... is that a problem?""""Ordinarily, no. It's not the team's concern. But he's been way over the top lately. He's the biggest name in hockey right now, and with the regular season coming up, he should be polishing his image, not ruining it!""I shrug, not really getting it. I blow at my steaming coffee and take a sip. ""But you guys should get along, right? You knew each other in college.""She looks at me like I'm clueless. ""This isn't about his personality. If it was, it wouldn't be a problem because he's charming and nice. But his endorsement contracts have a morality clause. He has to stay in good standing, or he loses them. Even the club contract has the same condition. If he keeps this up, he'll lose his job.""""It can't be that bad.""""It is! I know he might be going through something, but this isn't it. You know Jessica Monroe? From Confidential Family?""At the mention of my and Tess's favorite show, I perk up. ""Who doesn't?""""Exactly!"" She looks furious when she adds, ""They're supposed to be dating and in a happy relationship, but last night, pictures came out of him on a date with her co-star.""My jaw drops. ""He cheated on THE Jessica Monroe?""Tess grabs a cookie and chews it angrily. ""I don't know. I was too busy being pissed off that he was dumb enough to get photographed at such a crucial time. I didn't even think to ask. Everyone knows Jessica Monroe! Confidential Family is the most-watched show right now. Her fans are going crazy, flaming him on social media.""""Well, he deserves it. She's way too hot for him anyway."" I've never seen the guy, but Jessica's basically a goddess. ""What a scumbag.""""I mean, they did look really good together. Two ridiculously hot people deserve each other, I guess. And he's not really a scumbag. He's probably the best guy I know,"" she says, grinning sheepishly. ""After you, of course. Liam's just going through something, not sure what, but I just hope he handles it more quietly.""I nod. ""So, what's the plan?""""Emergency PR, for now. I'm pretty sure he and her co-star weren't actually on a date. I'm not even sure he and Jessica were really dating. It's just what everyone assumed. He has commitment issues. We'll let it blow over, Jess will probably get asked about it during her press tour and clear it up. After that, we'll go with the serious relationship angle. Have him fake date someone less famous, and when they break up, he'll be the heartbroker and a media darling again.""I can't help but smile. Of course, she's already thought everything through. Whenever Zane ranted, it was for advice he was never going to take. But when Tessa rants, it's because she already knows exactly what to do, she just needs someone to listen.I cringe slightly. I should stop thinking about him. It's been months. He probably hasn't thought about me once.I'd already spent six months mourning him. It was time to let go. It wouldn't be easy, nothing ever was, but I had to try.""Earth to Emmy!"" Tessa sing-songs. She's smiling, but I see the concern in her eyes. ""I lost you for a second there. You okay?""I'd been so distracted I didn't even notice she'd finished eating.I smile and reach for her hand. For a split second, I'm terrified she'll pull away and wipe it on her suit pants just like Zane did.Like I was something dirty. Something disgusting.But she doesn't. Instead, she squeezes my hand, erasing the bitter memory he left behind. ""A penny for your thoughts?""I shake my head, hating the way my eyes sting. ""Just thinking... it's time. I need to move on. Once and for all.""The tearscome anyway. Tessa's eyes are suspiciously wet when she pulls me into a hug. ""Oh my God, Em. I'm so proud of you.""I'm moving on. I'm finally leaving my scumbag ex behind.Or at least, that was the plan.A month later, I get a message from Zane.It's an invitation to his wedding.CHAPTER 4When I first moved into Tessa's apartment, two thoughts hit me.One: Tessa was just as high maintenance as she'd been in college. Everything in her place screamed luxury. High-end furniture, designer décor, the kind of perfectly curated space that made you wonder if people actually lived there. I was happy she had a job that let her maintain the lifestyle.Two: Tessa's apartment was the most comfortable place in the world to feel like garbage.Even though she had decorated a guest room just for me, I spent most of my worst nights on her couch, wrapped in an overpriced throw blanket, drinking wine straight from the bottle.And now, as I stare at the notification on my phone, I know exactly what I need to do.I walk into Tessa's kitchen, grab a bottle of red wine, some expensive brand I don't recognize, and collapse onto her couch. Popping the cork, I take a long gulp before daring to look at my phone again.For months, I wanted this. I prayed for him to reach out. Now, it's the last thing I need.Calm down, Emilia. It's probably just closure or whatever.It's not like one message could change anything.I tap the notification. My stomach twists as I realize I never changed how I saved his name.Babe <3: Hey, Em. I know we haven't talked in a while, and the last time we did... well, it wasn't great. I'm not pointing fingers, but you could've handled things better.Babe <3: I'm gonna be the bigger person here. For old times' sake, I think we should try to be amicable. And honestly? I really really really miss you. You were my best friend.Babe <3: I'm getting married in two months. Right before the season starts. Never thought I'd meet the one, but I did. I hope you find someone like that too.Babe <3: We're doing a month-long cruise before the wedding. I sent your invite to your email. It's a couples-only trip, so bring your boyfriend. Or that friend of yours.. Tilda? Is that her name? Doesn't matter, just bring a plus one.Babe <3: Really hope you come. Bye, I guess.I stare at the screen, heart pounding.Zane is getting MARRIED?!I throw back wine at a pace that makes me dizzy.A month-long cruise? A couples-only cruise?I take another large gulp of wine.Of all the ways and reasons I imagined Zane reaching out to me, this was never one of them.I'm halfway through the bottle when the tears finally come.Ten years.We were together for a whole decade. And in all that time, I was never enough for him. Never someone he saw as worth marrying.But in just seven months, he's found his bride. Someone he adores.Someone he's happily planning a wedding with, when I had to beg just for him to be present for ours.Holding a month-long cruise to celebrate their love before they even get married.I never asked for anything that extravagant. I just wanted his attention. His love.We started dating when we were fourteen. Every adult around us said it wouldn't last, that we were too young to know anything about love. The only person who believed in us was my brother.Even thinking about him makes me cry even harder, so I shove the thought away. One day, I'll have to unpack that can of worms, I'd been holding it off for seven years now, but today isn't that day.Zane and I beat the odds. We went through high school together, then college. His teammates used to call me Mrs. Whitmoore.Everyone around could see we were set to play the long game. Everyone but Zane, the person who was supposed to be playing on my side of the field.The only person I truly cared about.I never even used to care about changing my last name or wearing his ring on my finger, I just wanted to be his. Forever.Tess once said the only reason I wanted to marry him so badly was because everyone else expected it.Maybe she was right.Tess is always right.That thought hits me just as I realise I'm wasted. The wine bottle is nowhere to be found, and in my attempt to locate it, I end up rolling off the couch and onto the floor.Groaning, I fumble for my phone, my hands are clumsy and shaking. Tessa. She'll know what to do. She always does.The call barely rings before she picks up, her voice is warm and steady, like a lifeline. ""Hey, honeycomb. Isn't it a little early for a wellness check?""""Zane is getting married."" My voice comes out in a pathetic slurp as I try to peel myself off the floor.I blink blearily around the room. Where the heck did the couch go?I'm still searching for the couch when-BAM!I slam my toe against Tessa's coffee table.""No!"" I curse loudly, clutching my foot like it might fall off. The pain is sharp, but my drunken brain registers it a second too late.In my attempt to regain balance, I miscalculate completely and fall backward-Right onto the couch I'd been looking for.I glare at it suspiciously. I swear it wasn't there a second ago.I'll have to tell Tess her couch disappears from time to time.""What?!"" Tess practically shouts into the phone. I hear muffled voices in the background before she lowers her voice. ""I'm sorry, I'm at work, but did I hear you correctly?""""You did!"" I announce dramatically. ""He sent me an invitation to his wedding. And a month long couple-only cruise before the wedding, Tess! Since I clearly can't move on, you'll have to be my plus one.""I cackle like a lunatic then stop abruptly.Wait. What was I laughing at?""Tess?"" I squint at the phone. ""You still there?""Her voice softens in a way that makes my stomach twist. ""Yeah, I'm still here. Just... stay put, okay? I'll be back from work before you know it. And stop drinking my wine, honeycomb, that thing expensive.""She pauses. Long enough that I can hear the weight in her silence.""And, Em... I think I have something important to tell you.""Then the call ends.CHAPTER 5A few hours pass, but Tess is still not back.I wonder what she wants to tell me that's so important.Once I sober up, I take a shower, brush my teeth, and keep myself busy by cleaning her apartment.I try not to think about Zane, but I can't help it. I open the email again, staring at the invitation to his wedding and the couple-only cruise.Then I see my name in the wrong spot.My stomach turns, and I barely make it to the bathroom before throwing up.Later, I do something even worse.I Google her.His fiancée is a model. Perfect. Beautiful. Everything I'm not.Of course, he left me for someone like her.I'm chugging water, actually following Tess's advice for once, when she finally walks in.Her nose scrunches as she looks around, but when her eyes land on me, she just sighs and gives a small, sad smile.""I thought you'd be in worse shape,"" she says, settling onto the couch beside me.I lean my head on her shoulder and hold up the water bottle. ""If I didn't pull myself together, you would've done it for me. I've learned to pick my battles.""""Straight."" She tugs at my hair lightly. ""Wanna go out for dinner? There's a new Thai place near my office. It's supposed to have really good food.""I squint at her. ""You hate Thai food. What's going on?""She laughs, and for a second, I forget how miserable I feel. She's beautiful and effortlessly so. If I looked more like her, or like his new fiancée, maybe Zane would still be mine.Tess sobers up quickly. ""Okay, you got me. I just... I didn't know how to say this."" She hesitates, then looks me in the eye. ""Zane's an scumbag, Em. He never deserved you.""I let out a bitter laugh. ""You've said that before.""""And I meant it. Do you remember when he got drafted and basically bullied you into moving to Chicago with him?""I shake my head. ""That's not what happened.""""But it is,"" she insists. ""He only got you that bakery because he thought he'd be drafted to New York. Remember our plan? If he didn't, we were gonna split an apartment here. And when you told him you were staying with me, he threw a fit.""I roll my eyes. ""He wasn't throwing a fit. He was hurt.""Tess scoffs. ""Yeah? So he had to hurt you too? Em, you didn't even want to move. He kept you locked up in his apartment so he could keep an eye on you. I saw you twice a year, and that's only when Chicago played New York.""""That's not his fault. I didn't want to leave. I didn't want a job. I was okay relying on him-""""And never seeing me? You were okay with that too?"" Her voice cracks, but she masks it quickly.I open my mouth to say something, anything at all, but she cuts me off.""That's not the point. The point is that I went from barely seeing you to having you around every day. When I said you could stay as long as you want, I meant it, Em. I like having you here.""Her words hit me harder than I expect. When was the last time someone actually said they wanted me around?Zane never did. ",3,1757139903.0,Contemporary_Romance,1,1.0,False
+1n9sch2,https://v.redd.it/j0jvyz3qmhnf1,"Karnali’s reality = pain. But of course, no prince, no leader shows up to heal it. Guess the plan is: sip coffee at a fancy resort in Jumla, post a couple of selfies with “#KarnaliFeels,” and boom — suffering solved! 🙃☕",,17,1757139797.0,NepalSocial,2,1.0,False
+1n9sbzw,https://www.reddit.com/r/alwar/comments/1n9sbzw/filter_coffee/,Filter coffee,"Is there any cafe in alwar serving filter coffee, or just some nice cafes in alwar which serves good coffee( hot coffee) not shakes disguised as coffee",1,1757139751.0,alwar,1,1.0,False
+1n9saxs,https://www.reddit.com/r/buhaydigital/comments/1n9saxs/should_i_switch_to_a_higherpaying_contractor_role/,Should I switch to a higher-paying contractor role abroad or stay in my stable local job?,"Hi everyone,
+
+I need your advice on a big career decision. I recently passed the final interview for a tech role with a company based in Portugal. The setup is **independent contractor** (no standard employee benefits), and the salary offer is **€2,000/month (\~₱133,500)**. They said it’s negotiable depending on experience. The next steps after the final interview are job offer then contract signing.
+
+The HR clarified that:
+
+* The package is **all-in** (no allowances).
+* They will provide a laptop (reimbursable)
+* I’ll manage my own **taxes, SSS/PhilHealth/Pag-IBIG, and HMO** if I choose to get one.
+* PTO is **30 days total**, but it already includes PH holidays and sick/vacation leaves.
+* The company has around **40–50 employees worldwide** (multinational setup, 24/7 support).
+* My schedule would be **8 AM – 5 PM PHT**, which I like since it’s a morning shift.
+
+I did some background checks. The company seems small but established (not a startup, they have revenues and clients). Limited info online, but based on the interviews with their director, they seem stable.
+
+To help compare, I made this table between my **current local job (Employee)** and the **new role (Contractor)**:
+
+|**Category**|**Current Job (Employee)**|**New Job (Contractor, No Contributions/HMO)**|**New Job (Contractor, With Contributions/HMO/Taxes)**|
+|:-|:-|:-|:-|
+|**Gross Monthly (PHP)**|₱85,000.00|₱133,500.00|₱133,500.00|
+|**Government Contributions**|\-₱4,068.75|₱0.00|\-₱5,760.00|
+|**Taxes**|\-₱12,045.21|\-₱9,013.00|\-₱9,013.00|
+|**Transportation**|\-₱3,300.00|₱0.00|₱0.00|
+|**Meals / Coffee**|\-₱3,850.00|₱0.00|₱0.00|
+|**Total Monthly Expenses**|\-₱23,263.96|₱0.00|\-₱14,773.00|
+|**Net Monthly Income**|₱61,736.04|₱124,487.00|₱118,727.00|
+|**Bonus (Annual)**|₱146,000.00|₱0.00|₱0.00|
+|**Life Insurance**|Included (Company-provided, ₱250k coverage)|₱0.00|\-₱1,400.00|
+|**HMO**|Included (VIP Private, ₱200k DDL, 5-star hospitals)|₱0.00 (Self-managed \~₱3k/month est.)|\-₱30,000.00 (Annual cost)|
+|**PTO (Paid Time Off)**|30 days (15 convertible to cash)|30 days (includes PH holidays)|30 days (includes PH holidays)|
+|**PH Holidays**|17–20 days separate|Included in PTO|Included in PTO|
+|**Taxes & Compliance**|Company-managed|Self-managed|Self-managed|
+|**Stability**|High (Regular Employee)|Low (Contractor)|Low (Contractor)|
+|**Career Growth**|Local company experience|International exposure|International exposure|
+|**Work Setup**|Hybrid (50% onsite, \~2.5–3 hrs/day travel)|100% Remote|100% Remote|
+|**Net Annual Income**|₱886,832.48|₱1,493,844.00|₱1,393,324.00|
+|**Net Effective Monthly (with benefits factored)**|₱73,902.71|₱124,487.00|₱116,110.33|
+
+I’d love to hear your thoughts:
+
+* Is the contractor setup worth it for the pay difference?
+* Any risks I might be overlooking (taxes, long-term stability, etc.)?
+* What would you choose if you were in my situation?",0,1757139648.0,buhaydigital,3,0.5,False
+1n9saxn,https://www.reddit.com/r/DatingInIndia/comments/1n9saxn/looking_to_connect_with_someone_genuine_in_lucknow/,Looking to connect with someone genuine in Lucknow ✨,"Hey everyone 👋,
+
+I’m from Lucknow and thought I’d give this a try 🙂  
+I’m looking to connect with a girl here — mainly for friendship, good conversations, and maybe hanging out around the city. If things go right and the vibe matches, I’d definitely be open to something more meaningful 💖
+
+A little about me:
+
+* 🎓 Electronics & Communication Engineering graduate
+* 💻 Currently working as a Python Backend Developer
+* ☕ Love coffee dates, exploring new places, and late-night talks
+* 🎶 Into music, food hopping, and tech stuff
+
+Not here to rush anything — just want to meet someone genuine and see where it goes. If you’re also looking to connect, feel free to DM 🙂",1,1757139648.0,DatingInIndia,0,1.0,False
+1n9s8bw,https://www.reddit.com/r/GigilAko/comments/1n9s8bw/gigil_ako_para_akong_nasa_palengke/,Gigil ako para akong nasa palengke! 😩,"Bakit naman ganon ang ibang tao? Okay, I get it! Hindi naman library ang coffee shop. Pero hello, hindi rin naman palengke! It’s a common space, so sana common sense (and etiquette) na rin to keep the volume down. Nakakaloka yung group na bagong dating, na akala mo may team building, na para bang nirentahan nila yung buong floor sa sobrang ingay. Like SUPER DUPER INGAY! 😩 why naman ganon.
+",2,1757139390.0,GigilAko,1,1.0,False
+1n9s86p,https://www.reddit.com/r/Crushes/comments/1n9s86p/what_do_i_doooooo/,WHAT DO I DOOOOOO????,"some backstory first: 
+so there is this girl I really like, we knew each other in highschool and were in the same class but didnt really talk that much other than a project here and there,
+
+ anyways fast forward 2 years
+we are in community college in the same town still and we hangout from time to time now, sometimes we will text and text about whatever for a while, sometimes we'll hop in a vc and play videogames together, or just talk about whatever
+
+recently we have gotten coffee together and also gone out to get food with another friend about 2 weeks ago
+ when we were getting food that one time  idk if i misheard her but she said that she would usually hangout with anyone else as long as there was a plus one, but then she said with me she wouldnt mind hanging out with just me and her   <im probably overthinking all that lol
+
+anyways since we got food that one time ive been trying to hangout with her again but she has been busy every single time ive asked   im in painnnnnn   
+
+i want to just ask her again but this time ask her if we can call it a date 
+
+should i ask her out? or maybe wait a bit? i need thoughts opinions suggestions whatever   🙏🙏🙏
+",1,1757139374.0,Crushes,1,1.0,False
+1n9s83s,https://i.redd.it/wgd36vvglhnf1.jpeg,"[M27] Nutrabay WPC - Cold coffee, scratched away the scratch code pathetic quality","Scratched the scratch code
+
+
+Any ideas what to do? ",1,1757139366.0,Fitness_India,1,1.0,False
