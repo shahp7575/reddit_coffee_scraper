@@ -1,0 +1,1318 @@
+id,url,title,text,score,created_utc,subreddit,num_comments,upvote_ratio,over_18
+1ovedkk,https://www.reddit.com/r/UCONN/comments/1ovedkk/available_room_at_the_den_apartments_751month/,Available Room at The DEN Apartments! | $751/month | UConn Area | Lease Jan-July/Spring'26.,"Hi everyone! My roommate and I are looking for someone to take over the lease (pref female) at The DEN, an apartment complex very close to UConn. We need to move out as our classes are mostly online next semester.
+
+The Room & Apartment:
+
+**Rent: $751 per person -** You'll be sharing the room with another person, also a UConn student.
+
+**ALL UTILITIES INCLUDED:** The rent includes a utility bundle (electricity, water, internet, etc.) for unlimited use at no extra cost, no more surprise bills.
+
+**Lease Takeover**: You would be taking over our lease, which ends on July 31st.
+
+**Furnished**: The entire apartment comes fully furnished. The bedroom includes a desk, chair, dresser, and a large closet with a floor-length mirror.
+
+**Layout**: This is a 2-bedroom, 1-bathroom apartment.
+
+**Roommates**: The apartment is currently shared by three UConn students who are responsible, tidy, and respectful of shared spaces.
+
+No Pets: Unfortunately, due to allergies, no pets are allowed.
+
+Living Room & Kitchen:
+
+Living Room: Includes a comfortable couch, coffee table, rug, and a TV – perfect for relaxing.
+
+Kitchen: Fully equipped with a dishwasher, fridge, a large trash can, and essential appliances including a toaster, coffee machine, and rice maker.
+
+UConn & Amenities:
+
+Prime Location: Ideally located for UConn students.
+
+FREE Shuttle: A complex shuttle runs every hour to campus and downtown, making commute easy and free.
+
+In-Unit Laundry: Full washer and dryer in the apartment.
+
+Climate Control: Each room has its own highly effective A/C unit, plus centralized heating.
+
+Outdoor Space: Enjoy a small porch, shared grills, a bonfire pit, and a basketball court.
+
+FREE Parking: Every tenant gets a dedicated parking space at no extra cost.
+
+Great Maintenance: Management is responsive. Issues are fixed within 24-48 hours at no charge.
+
+Vibe: The complex is calm and quiet during the week with a fun, energetic atmosphere on weekends.
+
+Honestly, If you want a quiet place to study but also like to be social, this is it.
+
+How to Proceed:  
+If you're interested, please DM me here on Reddit. I can answer questions, send photos/videos, and connect you with the leasing office for the official lease takeover.",1,1762974658.0,UCONN,0,1.0,False
+1oveczn,https://www.reddit.com/r/tifu/comments/1oveczn/tifu_by_trying_to_unclog_my_sink_like_a_man/,TIFU by trying to unclog my sink like a “man”,"My bathroom sink was draining slow, and instead of calling maintenance, I decided to fix it myself. I Googled “homemade drain cleaner” and found a combo of baking soda and vinegar. Seems harmless, right?
+
+I poured the mix down the drain, followed by hot water. Nothing happened. So I grabbed a plunger. The first push? Fine. The second? Fine. The third? A geyser of black sludge exploded out of the drain like a horror movie.
+
+I screamed, slipped on the sludge, and took down my shower curtain in the process. It looked like the sink had thrown up Satan’s coffee. I had to shower for an hour just to stop smelling like burnt pennies.
+
+Ended up paying the plumber anyway and he laughed when I told him.
+
+TL;DR: Tried to fix a slow drain and turned my bathroom into a biohazard zone.",0,1762974620.0,tifu,13,0.39,False
+1ovec6j,https://www.reddit.com/r/davinciresolve/comments/1ovec6j/i_made_a_free_tool_that_autocuts_videos_from_time/,I made a free tool that auto-cuts videos from time ranges,"Hey Resolve users!
+
+
+
+Let me tell you about my very specific problem: I work at a hospital editing surgical footage. These videos can be 2-3 hours long, and since I'm not a doctor, I have no idea what's medically relevant.
+
+
+
+So doctors send me timestamp lists like this:
+
+
+
+\`\`\`
+
+1m57-2m08
+
+5m22-5m45
+
+12m30-13m15
+
+\`\`\`
+
+
+
+And I used to spend \*forever\* scrubbing through the timeline, finding each timestamp, cutting, dragging clips around... you get it. Mind-numbing work.
+
+
+
+I figured ""there's gotta be a tool for this, right?"" Wrong. Couldn't find anything that just lets you paste timestamps and auto-cut.
+
+
+
+So I said screw it and built \*\*Clip Assassin\*\* for DaVinci Resolve.
+
+
+
+How it works:
+
+
+
+1. Open Resolve with your project
+
+2. Run Clip Assassin (it's a standalone .exe for Windows, or Python script for macOS/Linux)
+
+3. Paste your time ranges (supports \`1m57-2m08\`, \`1:57-2:08\`, \`0:02:25-0:02:45\`, mixed formats, whatever)
+
+4. Hit ""RUN THE BLADES""
+
+5. Boom. New timeline with only those segments, perfectly stitched together.
+
+
+
+What used to take 30+ minutes now takes 10 seconds.
+
+
+
+Works with any framerate (29.97, 59.94, 25, 30, 60fps...). No Python installation needed if you're on Windows - just download the .exe and go.
+
+
+
+\*\*Completely free and open source:\*\*
+
+[https://github.com/Uhlovic/Clip\_Assassin\_Resolve](https://github.com/Uhlovic/Clip_Assassin_Resolve)
+
+
+
+Compatible with \*\*DaVinci Resolve 18+\*\* (Free or Studio).
+
+
+
+If you deal with any kind of ""cut these specific parts"" workflow, this might save your sanity.
+
+
+
+\---
+
+
+
+\*P.S. If this tool saves you countless hours, coffee donations are appreciated: [https://buymeacoffee.com/Uhlovic](https://buymeacoffee.com/Uhlovic) ☕
+
+",8,1762974574.0,davinciresolve,6,1.0,False
+1ovebij,https://i.redd.it/qcahfu4fkv0g1.jpeg,Appreciation,"Just wanted to say thanks to everyone here and that this community is awesome. I came here as a newb just a couple years ago and now I'm pulling a delicious Lungo with a nice Columbian from Pilot Coffee Roasters, Las Palmas.",21,1762974531.0,espresso,1,1.0,False
+1oveajf,https://www.reddit.com/r/75HARD/comments/1oveajf/phase_1_made_my_marriage_new_again/,Phase 1 made my marriage new again,"When I started looking at my goals and setting critical tasks, I took a good look at my marriage and realized that we were just coasting along. 
+
+My wife and I don’t argue. We’re just a couple of busy entrepreneurs. Things just got comfortable and kinda boring. 
+
+So one of my goals was to make my marriage like it was when we first started dating. 
+
+And my critical task was to take 30 minutes every morning to have coffee on our front porch and just talk. No cell phones. No kids. No work. Just talk. 
+
+At first she admitted that she felt it was annoying. But she was willing to do it to support me. 
+
+Within a couple of weeks, our marriage had a night and day difference. It just sparked so much new life in our relationship. It’s really amazing how much change can occur in a relationship with a small amount of meaningful conversation every day. 
+
+We now spend hours a day together and talk about all kinds of things, and she’s been joining me in my workouts, dieting and reading. 
+
+Has anybody else set critical tasks for their relationships?",9,1762974475.0,75HARD,3,1.0,False
+1ove7b9,https://www.reddit.com/r/Advice/comments/1ove7b9/first_crush_ever_im_confused/,First crush ever — I’m confused,"hii okay pls help me out 😭🤍 i have a crush on the prettiest barista girl ever and i don’t know if she likes me back or if i’m just going insane LMAO help
+
+So I (18F) go to this coffeeshop everyday, and there’s this really pretty barista girl. Like. Really pretty. She’s soft and cool and always looks like she’s in a coming-of-age movie montage. I can’t think straight around her (not that I was doing that to begin with lmao).
+
+It started with small things I thought were nothing, but now I’m spiraling because maybe they meant something??
+	•	First time I noticed her, she literally stood up mid-convo when I came in. Like… stood up. No smile, just serious eye contact. It felt intense. I thought it was in my head but
+	•	Next time, it was my birthday. She looked at me from the downstairs floor (they have a weird two-floor setup) and we made eye contact. She didn’t smile but it felt like something.
+	•	Then randomly, she remembered my order: “Iced coffee, right?” Which she never did before. I kind of melted.
+	•	A week later: “Iced coffee with vanilla, right?” With a smile and eye contact and everything. She looked so happy. It felt flirty. I was like oh god oh fuck.
+	•	I got a major crush. Been spiraling ever since.
+
+But then today,
+
+She looked up when I came in, smiled (not the same way), said my order normally, but then barely looked at me again. No real smile when she gave me the drink, no eye contact, barely a word. Just… disinterested?
+
+And now I don’t know what’s happening. Like I don’t know if:
+	•	she used to maybe like me but thinks I’m not into her
+	•	she never liked me and it was just customer service
+	•	she’s over it
+	•	or maybe she’s trying to act normal bc she likes me and I’ve been weirdly silent (bc I have. I’ve said literally nothing. I’ve just been making googly eyes like an idiot. But I have really bad social anxiety so idk) 
+
+I want to say something like “your hair looks cute today” but I am SO scared it’ll be awkward or she’ll think I’m weird or she’ll tell her coworkers I’m obsessed 😭or it might be too friendly and not hinting I’m into her at all.
+
+So pls internet I’m asking for your help:
+	•	Is there a chance she liked me?
+	•	Did I miss it by not doing anything?
+	•	Am I making this up in my head?
+	•	Should I compliment her or is that doing too much??
+
+I really hope someone can share their thoughts / advice, I’ve never felt like this before and i don’t wanna mess it up. 
+Thank you so much for reading🫶",1,1762974280.0,Advice,0,1.0,False
+1ove67s,https://i.redd.it/8524i2bgjv0g1.jpeg,My cousin’s small coffee company just launched the official Pitt blend,"Hey y’all — my cousin runs a small-batch coffee roaster and just dropped an *officially licensed* Pitt coffee called Blue & Bold Blend
+
+They’ve been partnering with universities to make blends that actually mean something — roasted in small batches, officially licensed, and tied back to each school community.
+
+They’re tiny, just a few people doing everything by hand, so if you grab a bag, you’re directly supporting a small indie business doing something pretty cool with college pride.
+
+[https://www.rocketcupcoffee.com/collections/college-coffee/products/pittsburgh-blue-and-bold-blend](https://www.rocketcupcoffee.com/collections/college-coffee/products/pittsburgh-blue-and-bold-blend)
+
+(Mods: not affiliated, just trying to help them get some traction.)
+
+",0,1762974218.0,pittsburgh,2,0.5,False
+1ove66t,https://www.reddit.com/r/u_OhlafTheBaker/comments/1ove66t/the_secret_to_a_perfect_thanksgiving_morning/,The Secret to a Perfect Thanksgiving Morning,"As the leaves fall and the air turns crisp here in Wisconsin, I find myself leaning into the comforts of the season. Thanksgiving is just around the corner, and it’s the perfect time to gather around a table with good company, a pot of strong coffee, and something sweet and warm from the oven.
+
+The Danes have a word for this feeling: hygge (pronounced ""hoo-gah""). It’s not about perfection or anything fancy. It’s about the little things that make a moment special, like a warm home, hearty conversation, and a few delicious treats to share.
+
+This Thanksgiving, I always turn to two seasonal favorites: the Brandy Old-Fashioned Kringle and the Thanksgiving Coffee Cake.
+
+The Brandy Old-Fashioned Kringle is my way of blending a little Wisconsin spirit with my Danish heritage. I took the state’s most beloved cocktail and turned it into a pastry. Picture this: a touch of brandy, smooth caramel, and perfectly ripe cherries tucked into flaky, golden layers of pastry. Then it’s topped with vanilla icing kissed with orange zest. It’s indulgent, festive, and just the right kind of grown-up treat for a table full of family stories and clinking glasses.
+
+My other go-to is the Thanksgiving Coffee Cake. It’s pure comfort in every bite. Starting with a delicious layer of smooth almond paste, followed by our scratch-made apple cinnamon filling, finished with ribbons of cranberry, buttery streusel, and a drizzle of honey glaze and icing. The result is a perfect balance of sweet, tart, and cozy, everything a Thanksgiving morning deserves.
+
+When I host, I like to keep things simple. I brew a fresh pot of coffee, light a few candles, and let the scent of Kringle or coffee cake do the talking. There’s something magical about how those smells fill the house, making it feel warm and inviting, no matter how chilly it is outside.
+
+How do you make your home feel cozy when it’s officially sweater season?
+
+Ohlaf",1,1762974217.0,u_OhlafTheBaker,0,1.0,False
+1ove66m,https://www.reddit.com/r/SameGrassButGreener/comments/1ove66m/back_to_the_dmv_or_to_boston/,"Back to the DMV, or to Boston?","Hello everyone,
+
+I have been a remote worker for several years (no location issues, any state is allowed) and have lived in Houston, D.C., and Ohio. My wife was previously laid off in D.C., and we moved back to Ohio (where we are both from) to Columbus temporarily.
+
+Well, she received a fully remote (no state boundary) job, and we are not wanting to stay in Ohio. Although all of our familes are here, we do not enjoy it, and feel not as happy here.
+
+We are both city people, enjoying walkability, access to parks, coffee shops, museums, and transit. Living in D.C., we used the Metro exclusively, not driving anywhere. 
+
+Our current lease ends in the beginning of the summer, and we are trying to decide whether to move back to the DMV (which we loved) or to try a new area out. We really are considering Boston, but are unsure. The sticker price for rents/space does not surprise us, but we have never been to New England. We know we can rent ""cheaper"" LCOL city, or rural, but are happiest with the amenities of cities. 
+
+Has anyone lived in these places, and what are your thoughts? We do not have children. 
+
+Also, we were not fans of Houston's car centric-ness, and lack of amenities. Thanks!",1,1762974217.0,SameGrassButGreener,2,0.67,False
+1ove5v3,https://www.reddit.com/gallery/1ovdczy,Is anyone interested? I have a Morphy Richards Coffee Maker + its accessories for sale (Hyderabad),,1,1762974200.0,coffeeindia,0,1.0,False
+1ove5n5,https://www.reddit.com/r/replit/comments/1ove5n5/replit_is_great_for_speed_but_heres_what_most/,"Replit is great for speed, but here’s what most builders forget once real users start coming in 🚀","Replit makes it insanely easy to go from idea to working MVP. You can spin up a full app before your coffee gets cold. But once you start getting real traffic, that’s when you realize how fragile things can get.
+
+When one of my projects passed **50k users**, a small migration mistake almost wiped half the data. That day taught me a few painful but valuable lessons:
+
+1. **Back up your database.** Always. Even tiny schema changes can cause big problems. Test everything in **dev** before production. Tools like **Drizzle** migrate help keep migrations safe.
+2. **Add logging early.** Don’t wait for users to report errors. Tools like **Sentry** will catch failures before Reddit does.
+3. **Talk to your users.** Real users will tell you what’s working, what’s not, and what you never thought of building.
+4. **Use version control seriously.** Separate **dev**, **staging**, and **production**. If you deploy straight to prod, you’re basically skydiving without a parachute.
+5. **Track performance.** Even simple uptime checks help. Slow apps lose users faster than bad ones.
+
+Replit is amazing for getting ideas off the ground fast, but once real users depend on it, you have to think like a CEO/CTO. A bit of discipline goes a long way toward avoiding panic deploys at midnight.
+
+Curious — how are you handling scaling on your projects right now?",3,1762974188.0,replit,2,1.0,False
+1ove5fo,https://i.redd.it/d1s10bgcjv0g1.jpeg,My cousin’s small coffee company just launched the official Pitt blend,,33,1762974177.0,Pitt,9,0.81,False
+1ove59r,https://www.reddit.com/gallery/1ovdczy,Is anyone interested? I have a Morphy Richards Coffee Maker + its accessories for sale (Hyderabad),,1,1762974167.0,IndiaCoffee,0,1.0,False
+1ove58g,https://www.reddit.com/r/GenX/comments/1ove58g/does_this_cat_condo_remind_anyone_of_the_old/,Does this cat condo remind anyone of the old McDonald's Playland Treehouse or is it just me?,Who wants to get in the way back machine with me and go pick up a Happy Meal or Garfield coffee cup? ,0,1762974165.0,GenX,3,0.5,False
+1ove2oa,https://www.reddit.com/r/CasualConversation/comments/1ove2oa/im_moving_to_a_therapeutic_residential_group_and/,"I'm moving to a (therapeutic) Residential group and I have no idea what to bring with me, can someone make a list?","I already got clothes, new toothbrush and toothpaste, razor, stuff for showering, cotton swabs, brush, Extension cable,fan, pain killers, books, the basic ""go somewhere"" things (phone, charger, wallet,..) games, tea, instant coffee and Extra blankets and pillows. It's my first time moving out. I'm very nervous but mostly excited.
+
+Also, what should I NOT bring?",2,1762974029.0,CasualConversation,4,1.0,False
+1ove2ny,https://www.reddit.com/r/Market76/comments/1ove2ny/hglowies_w_coffee/,H:glowies W: coffee,,1,1762974029.0,Market76,1,1.0,False
+1ove278,https://www.reddit.com/r/creativewriting/comments/1ove278/the_lullaby_wont_go_away_but_no_one_remembers_it/,"The lullaby won't go away, but no one remembers it.","[Part 1](https://www.reddit.com/r/creativewriting/comments/1oq0tpm/the_lullaby_wont_go_away_but_no_one_remembers_it/) | [Part 2](https://www.reddit.com/r/creativewriting/comments/1oqvutk/the_lullaby_wont_go_away_but_no_one_remembers_it/) | [Part 3](https://www.reddit.com/r/creativewriting/comments/1ort0iu/the_lullaby_wont_go_away_but_no_one_remembers_it/) | [Part 4](https://www.reddit.com/r/creativewriting/comments/1osnxna/the_lullaby_wont_go_away_but_no_one_remembers_it/) | [Part 5](https://www.reddit.com/r/creativewriting/comments/1otixpk/the_lullaby_wont_go_away_but_no_one_remembers_it/) | [Part 6](https://www.reddit.com/r/creativewriting/comments/1oueqsx/the_lullaby_wont_go_away_but_no_one_remembers_it/)
+
+My alarm rang at 6:00. Senior day started early. Sleep had claimed me, but I was more tired than the day before.
+
+I pitched myself out of bed and lumbered to the kitchenette. I almost fell asleep waiting on the coffee machine. I almost collapsed when I fell asleep in the shower. As I wrestled the morning, I admitted it was a fight I was going to lose. I won perfect attendance awards every year in grade school. My father never believed in sick days. That morning, I knew he was wrong.
+
+I picked up my phone from where I threw it into the sheets. Bree had sent her morning briefing at 4:45. She survived on coffee and high-functioning anxiety. I texted back.
+
+“Hey. Feeling sick. Can’t make it. Sorry.” Bree read the message immediately. I thought of calling her. It would have been the nice thing to do. The right thing. But I couldn’t bear to hear her voice. This time, there wouldn’t even be any anger to hide in. She would know something was wrong. I turned my phone on vibrate and tossed it on the couch.
+
+I sat down and noticed that my head had stopped spinning. I hadn’t realized it had been reeling like what I have heard of hangovers. I didn’t remember drinking that much the night before, but the empty bottle judged me from bed.
+
+Still, this wasn’t a hangover. It was less than that. And more. I didn’t just feel loopy. I felt like he was in the wrong place.
+
+When I turned on the TV, the sound split my head with an axe. I turned down the volume, but the noise barely obeyed. Still, I needed the distraction. I clicked through the infomercials and syndicated sitcoms. Most people my age never even had a cord to cut, but Dove Hill local news and C-SPAN are free on cable. I haven’t watched anything else since those Saturday mornings with Bree.
+
+During the hour’s changeover, local channel 3 airs low-budget ads for the dentist and the school and national spots for fast food and a new diabetes medication. The fifth ad was different though.
+
+In it, a large man whose stomach was too big for his suit stood in front of a lot full of clearly used cars. The oversaturated light and amateur production value proved it was local, but there isn’t a used car dealership in 100 miles of Dove Hill. The man’s hair piece shook as he shouted his pitch. I felt nauseous watching it shiver.
+
+“Hey, hey, hey! Come on down to Papa’s Playhouse where the low prices aren’t pretend!” My head cracked again as Papa’s shout made the TV impossibly louder. Under a slithering saxophone solo, the screen showed a line of cars that looked like they were manufactured well before the turn of the millennium. “Hurry quick because we aren’t hiding these deals! Seek them now before they’re gone!”
+
+I breathed a sigh of relief when Papa left the screen. It was 7:00: time for the news. The music should have been the Muzak jingle that the station has used since the 1970s. Instead, it was Sunny Sandy singing her theme song. The piano that played along came from somewhere in my apartment.
+
+By the time the ghostly piano played its last phrase, I was back in the center of the Square. No time had passed in the last day of my life. When I opened my eyes, Sandy’s were staring at me like I was a statue she was carving from stone.
+
+“Now!” she said in a mechanical squee. “Where are my other friends?” It was time for another call-and-response. “Say it with me.”
+
+After the compelled introduction, I didn’t even try to fight. I remembered my part. Together, we shouted, “Howdy dee! Howdy day! Where is everyone today?” When Sandy’s voice rose, it sounded like she was projecting to the last aisle of a crowded theatre.
+
+The piano started up again. Its sound was distant. Was it still playing from my apartment? Or from the black above us? As its invisible mallets struck its hidden strings, the animals emerged from their rooms. One by one, they bounced towards Sandy and encircled her. I could tell that they had also learned to not struggle against their matriarch.
+
+Maggie stood to my right; Tommy was to my left. The others—now including a purple pig and a silver spider—completed the embrace. I realized I had never seen them in full. They weren’t humanoid. They each kept their characteristic shapes. Maggie, Tommy, and the pig on all fours; the owl and the chickens on their talons; and the rabbit on its haunches. They weren’t humans, but they were people. With hearts and minds they were clinging to under Sandy’s uncompromising benevolence. Even before I was brought to the Square, I knew that pain. These were my allies.
+
+“Thank you for joining us, friends!” Sandy believed it was a kindness to pretend like they had a choice. In the past, one of them might have corrected her. Now they didn’t dare. “I’d like you to meet our new friend: Mikey!” The animals smiled at me with a commiserating kindness. “He’s a very good boy.” I didn’t want to know what Sandy would become if I wasn’t.
+
+“Now what are we going to do today?” I remembered that this is where every episode really started. Every day in *Sunnyside Square* started with a game, and each had very specific rules. I always liked that part of the show. I looked around the circle expecting one of my friends to answer Sandy’s question. When their lips pinched in silent fear, I remembered that this wasn’t the Square I had known.
+
+“Oh! I know!” Her voice was that of a fairytale princess who had become an authoritarian monarch. “We’ll play Hide and Seek!” The animals stood quiet for a fleeting moment before the light coming from Sandy’s eyes turned harsh with confident expectation. My friends cheered as demanded. I followed their lead.
+
+The red rabbit raised his paw and asked eagerly, “Sandy! Sandy! Can I please help teach our new friend the rules?” I noticed his foot thumping anxiously.
+
+“Oh! That is such a sunny idea!” Sunny said. “Thank you, Rupert! That will be a very nice thing to do!” Rupert concealed a flinch when she gave his head a firm tap.
+
+“Now, do we all remember the rules? I’m going to close my eyes and count to 100. Then you’ll all hide somewhere you feel safe. Then I’ll come find you.” There was a threatening fist in the velvet glove of that promise. “Mikey, Rupert will teach you the rest.” She giggled eagerly.
+
+The animals nodded politely, and I played along. Sandy placed her hands over her eyes like the young playmate she still should have been. “One, two—”
+
+This was my chance. I broke through the circle and towards the imposing front door. I took a short sigh of relief when I found it unlocked. As I ran out, I looked on with confusion at my animal friends walking grudgingly to their hiding spots. Didn’t they want to leave too?
+
+Rupert was the only one to match my speed. He called out to me as we ran out of the park. “Wait! Stop! That’s not how the game works. Not anymore…” I didn’t stop to listen.
+
+I first tried to hide in the post office right across the street from Sandy’s house. I flung open the door and started to enter. I forgot about the black behind the buildings. I caught my foot just as it was about to fall into an abyss swirling with trails of dust. Catching my breath for only a moment, I slammed the door as I ran around the Square.
+
+Rupert did his best to follow along. “Mikey, let me help you. You know I’m your friend.” I wanted to trust Rupert, but I couldn’t trust anyone—especially in the Square.
+
+Sandy was coming. Her voice blared from her house like a tornado siren. “Twenty-two, twenty-three…”
+
+I passed more doors into the void. One for a bakery that didn’t exist. Another for what looked like a school. Then a church with a golden plaque reading “St. Beatrice’s.” All the while, Rupert hopped frantically behind me. “Please…”
+
+I only stopped when I came to a long window with a real room behind it. It looked like a library. Like Mrs. Brown’s bookstore. I threw myself through the door as its bell tingled above me. Rupert finally caught up when I was hiding between two bookshelves that must not have been touched for an eternity. From my hiding spot, I could see the back of Sandy’s house through the window. Her garden was filled with statues of kind-looking creatures that I chose to believe were animals.
+
+Sandy’s voice shined on. “Sixty-six, sixty-seven…”
+
+Rupert hopped up. With me crouching, we were almost nose to nose. “Thank you. I was trying to follow you.”
+
+“You’re welcome?” Something old inside me knew I shouldn’t be afraid of Rupert, but it wasn’t safe to trust him. It has been years since I truly trusted anyone but Bree.
+
+“Now listen,” Rupert continued. “Hiding like this is not going to work. That’s not how Hide and Seek works. Not now.” I eyed him suspiciously. “The Square is too small for that. It’s not just about hiding your body. It’s about hiding your feelings. You have to be sunny. If she sees you looking scared or upset or angry or anything else…” Rupert’s muzzle quivered.
+
+“Then…what happens?”
+
+“You’re Out.”
+
+“Out? What does that mean?”
+
+“Seventy-nine, eighty…”
+
+Rupert huffed with frightened impatience. “We’re running out of time.” My survival instincts held me in place. My bones told me I should take up less space.
+
+“Out,” Rupert explained desperately. “Into the black behind the buildings. It’s dark and dusty and—”
+
+“Ninety-nine, one hundred. Ready or not, here I come!”
+
+I couldn’t move. Rupert matched his voice to the speed of his pounding feet. “Time and space don’t exist. It’s just you and the light beams too far above to see. You forget who you are: your thoughts, your feelings…even your name. Before long, you’re just…fine. Fine…but empty.”
+
+Rupert’s ears twitched when he heard Sandy’s heels clacking on the bricks outside. I saw the front of her pink skirt intrude into the window.
+
+“Mikey,” Rupert begged. “You have to feel better. *Now.*”
+
+Sandy heard Rupert’s whisper shake. I saw her turn her rosy cheeks to stare through us. “Silly, Mikey! Silly, Rupert! There’s nothing to be afraid of. It’s just Sunny Sandy!” She continued her cheerful walk down the sidewalk.
+
+I lunged from my hiding spot between the shelves and shouldered past Rupert. “I’m sorry. For everything.” I bolted out the door so narrowly that I could smell Sandy as she reached for me. She smelled like a candy-scented permanent marker.
+
+I ran down the brick sidewalks and past more doors to Out. I didn’t know where I was going. I just had to get away from Sandy. As I turned the corner, my foot caught on the bend in the path. I tried to catch myself, but my elbow struck the ground. My arm vibrated down to the bone.
+
+I heard Sandy’s heels walking up behind me. I couldn’t bear to look. “Oops! Did Mikey hurt himself? That’s what happens when you make mistakes. I’ll fix it.” Her sweetness made me want to vomit.",1,1762974004.0,creativewriting,0,1.0,False
+1ove24l,https://www.reddit.com/r/promocodes/comments/1ove24l/simplii_financial_promo_code_2025_50_referral/,Simplii Financial Promo Code 2025 - $50 Referral Bonus for Canadians,"*\*\*For Canadian residents only, sadly excluding residents of Quebec\*\**
+
+Simplii Financial is a subsidiary of CIBC. Access your money from any CIBC ATM in Canada without a fee. You can also withdraw money from any non-CIBC ATM displaying the Interac® or PLUS\* signs (fees may apply at these machines).
+
+To be eligible for the $50 bonus offer you must click through this referral - [Simplii Financial Link](https://invitation.codes/go/685d87b1bdfffa09e9305be3) \- and follow these instructions once you have set up your new Simplii account:
+
+1. If you open a No Fee Chequing Account or High Interest Savings Account, you must make a deposit of at least $100 within 6 months after account opening, and maintain a minimum balance of $100 for at least 30 days.
+2. If you open a Simplii Cash Back Visa Card or Personal Line of Credit, you must use or spend a minimum of $100 from the account within 6 months of opening the account.
+3. Earn up to $80 in your first 3 months with 8% cash back. Get rewarded on eligible restaurant, bar and coffee shop purchases with your new Simplii Cash Back Visa Card.
+4. If you open a Simplii mortgage, you must fund your mortgage within 120 days (see below for my mortgage referral code).
+
+Mortgage Referral Code: 0009361587
+
+\*As an added bonus, if you open a No Fee Chequing Account by January 31, 2026 at 11:59 pm (ET) and add an eligible direct deposit of at least $100 a month for 3 straight months, you'll earn an additional $300!",1,1762974000.0,promocodes,2,1.0,False
+1ove21w,https://www.reddit.com/r/quittingsmoking/comments/1ove21w/i_have_depression_and_smoking_has_ruined_me_so_im/,"I have depression, and smoking has ruined me. So I’m quitting. This is my experience with the first day with no smokes, so far.","I’ve been in the psych ward 10+ times, I’m not lying about the mental health. My mental health just recently started getting a little better, as two months ago I went through a very traumatic situation and told myself I have to, change.. A lot of things about myself. I made the decision to live. I’m 21, change starts now. The way I was living before was a gateway to an early death. Why?
+
+
+- smoking makes me crave very unhealthy food, at first it made me barely have an appetite, but now, it just makes me insatiably “starving”(craving) for gross, fattening food. Also alcohol, it makes me crave alcohol.
+
+- chain smoking makes me tired and foggy brained, extremely un motivated to do anything, making exercise more difficult. After waking up, I couldn’t even go for a walk, or have a shower first thing most days.
+
+Those are the main two things, and they concern me tons.
+
+I started smoking when I was 13, moderately. Then when I hit 16/17, I was full on chain smoking.. till yesterday. 
+
+I don’t know if it’s placebo, like my brain tricking me.. but this morning after not smoking yesterday evening and night, I woke up feeling more clear already! I had two cups of coffee, and took my dog for a speed, power walk around the pond to stretch our legs at 8am. Then I went home and made an egg, spinach wrap wit extra hot sauce lol. I hit a wave of feeling tired, because I’m quitting an addiction I’ve lived with since I was literally a kid, in middle school. I started looking for my old butts but couldn’t find any big enough to have more than like two puffs. I’m taking it hour by hour. Now, my energy is starting to go up again, right before noon. So I am going to finish getting myself ready, put some laundry in(was neglecting it for too long) and I think taking my dog for another power walk will distract me from cravings. 
+
+I’ve never felt this self disciplined, and motivated in so very long. I think in a week or two, I’ll be ready to start looking for a job again as I’ll be on a solid routine by then. Hopefully:)",12,1762973996.0,quittingsmoking,0,1.0,False
+1ove164,https://www.reddit.com/r/gardening/comments/1ove164/a_problem_many_would_gladly_have/,A problem many would gladly have...,"My question would be for next year, and is about my tomatoes. They are too sweet! Any homemade soup or sauce I make with them (mainly plums like romas) is over-the-top sugary sweet.
+
+I made some waist high beds, I hand blended an excellent soil mixture for them. Knowing tomatoes like acidic soil, I routinely toss in my used coffee ground and excess whey (from making greek yogurt), and a few banana peels occasionally for the potassium. 
+
+Any tips to tone down their sugar content?",1,1762973942.0,gardening,2,1.0,False
+1ove035,https://www.reddit.com/r/WaysToMakeMoneyOnline/comments/1ove035/simplii_financial_promo_code_2025_50_referral/,Simplii Financial Promo Code 2025 - $50 Referral Bonus for Canadians,"*\*\*For Canadian residents only, sadly excluding residents of Quebec\*\**
+
+Simplii Financial is a subsidiary of CIBC. Access your money from any CIBC ATM in Canada without a fee. You can also withdraw money from any non-CIBC ATM displaying the Interac® or PLUS\* signs (fees may apply at these machines).
+
+To be eligible for the $50 bonus offer you must click through this referral - [Simplii Financial Link](https://invitation.codes/go/685d87b1bdfffa09e9305be3) \- and follow these instructions once you have set up your new Simplii account:
+
+1. If you open a No Fee Chequing Account or High Interest Savings Account, you must make a deposit of at least $100 within 6 months after account opening, and maintain a minimum balance of $100 for at least 30 days.
+2. If you open a Simplii Cash Back Visa Card or Personal Line of Credit, you must use or spend a minimum of $100 from the account within 6 months of opening the account.
+3. Earn up to $80 in your first 3 months with 8% cash back. Get rewarded on eligible restaurant, bar and coffee shop purchases with your new Simplii Cash Back Visa Card.
+4. If you open a Simplii mortgage, you must fund your mortgage within 120 days (see below for my mortgage referral code).
+
+Mortgage Referral Code: 0009361587
+
+\*As an added bonus, if you open a No Fee Chequing Account by January 31, 2026 at 11:59 pm (ET) and add an eligible direct deposit of at least $100 a month for 3 straight months, you'll earn an additional $300!",1,1762973880.0,WaysToMakeMoneyOnline,3,1.0,False
+1ove02x,https://www.reddit.com/r/childfree/comments/1ove02x/parents_talking_about_good_things_that_happened/,Parents talking about good things that happened freaks me out,"Because it's the SMALLEST things that really show how miserable they are.
+
+""Oh my hubby was off and the kids had school today so we finally had a day to ourselves! (Really just a couple hours) so we went Christmas toy shopping for them and got coffee before going back to our duties!"" Like...that's scary...?
+
+""I love naptime because it's the one time of day where I can have some quiet!"" So the rest of the day it's loud and chaotic? 
+
+""Thankfully Timmy fed nicely today, oh and he didn't even spit up on me!"" EXCUSE ME??
+
+like I GET why they're like that because it's truly the only highlights of their days...but it's SAD to hear that that's the only things they look forward to every. single. day.
+
+It makes me deeply uncomfortable and I cannot fathom living a life where 30 mins of quiet is a rare luxury IN MY OWN HOME?? Like no?? Why would I do that to myself?? 
+
+ ",15,1762973879.0,childfree,3,1.0,False
+1ovdzbf,https://i.redd.it/e684jkbsj90g1.jpeg,"Cuba, Haiti, DR and maybe even PR in my coffee",,1,1762973836.0,IslandL0veWI,0,1.0,False
+1ovdz2c,https://www.reddit.com/gallery/1ovdz2c,I turn 20 in 2 weeks. Need serious looksmaxxing advice. I’ve never felt uglier and I don’t know where to start .,"The last few photos are of me, last winter
+
+I’m going to start this off by saying I have severe digestive issues. My weight has bounced around a lot over the years, anywhere from 110 to 170 lbs. I’m 5’4” and currently just under 150. I get daily exercise, eat one meal a day (OMAD), and have completely cut out carbs and added sugar except for my morning coffee and nightly diet tea. Ive struggles with a back and fourth ED and have been binging/purging/ taking laxatives daily for years (I know it’s bad, I’m working on it).
+
+Even with all of that, I still don’t feel beautiful. Im dull, bloated, and tired. My boyfriend of three years tells me I’m beautiful and wishes I’d let him see me fully, but my self-image is awful, and Compliments don’t register anymore.
+
+I want to fix this. I don’t just want to be “okay,” I want to glow up for real. If you were me, where would you start? What’s actually worth investing in skincare, hair, gym focus, posture, fashion, anything?
+
+I’ve never felt worse about how I look, but I’m willing to put in the work. I just need a direction.",2,1762973820.0,LooksmaxingAdvice,20,0.63,False
+1ovdz20,https://www.reddit.com/r/promocode/comments/1ovdz20/simplii_financial_promo_code_2025_50_referral/,Simplii Financial Promo Code 2025 - $50 Referral Bonus for Canadians,"*\*\*For Canadian residents only, sadly excluding residents of Quebec\*\**
+
+Simplii Financial is a subsidiary of CIBC. Access your money from any CIBC ATM in Canada without a fee. You can also withdraw money from any non-CIBC ATM displaying the Interac® or PLUS\* signs (fees may apply at these machines).
+
+To be eligible for the $50 bonus offer you must click through this referral - [Simplii Financial Link](https://invitation.codes/go/685d87b1bdfffa09e9305be3) \- and follow these instructions once you have set up your new Simplii account:
+
+1. If you open a No Fee Chequing Account or High Interest Savings Account, you must make a deposit of at least $100 within 6 months after account opening, and maintain a minimum balance of $100 for at least 30 days.
+2. If you open a Simplii Cash Back Visa Card or Personal Line of Credit, you must use or spend a minimum of $100 from the account within 6 months of opening the account.
+3. Earn up to $80 in your first 3 months with 8% cash back. Get rewarded on eligible restaurant, bar and coffee shop purchases with your new Simplii Cash Back Visa Card.
+4. If you open a Simplii mortgage, you must fund your mortgage within 120 days (see below for my mortgage referral code).
+
+Mortgage Referral Code: 0009361587
+
+\*As an added bonus, if you open a No Fee Chequing Account by January 31, 2026 at 11:59 pm (ET) and add an eligible direct deposit of at least $100 a month for 3 straight months, you'll earn an additional $300!",1,1762973820.0,promocode,3,1.0,False
+1ovdyuq,https://i.redd.it/n6w9svg7iv0g1.jpeg,"Turkish Coffee: A 500-Year-Old Ritual of Friendship, Patience and Warm Conversations",,1,1762973808.0,culture,0,1.0,False
+1ovdxz3,https://www.reddit.com/r/CanadianReferral/comments/1ovdxz3/simplii_financial_promo_code_2025_50_referral/,Simplii Financial Promo Code 2025 - $50 Referral Bonus for Canadians,"*\*\*For Canadian residents only, sadly excluding residents of Quebec\*\**
+
+Simplii Financial is a subsidiary of CIBC. Access your money from any CIBC ATM in Canada without a fee. You can also withdraw money from any non-CIBC ATM displaying the Interac® or PLUS\* signs (fees may apply at these machines).
+
+To be eligible for the $50 bonus offer you must click through this referral - [Simplii Financial Link](https://invitation.codes/go/685d87b1bdfffa09e9305be3) \- and follow these instructions once you have set up your new Simplii account:
+
+1. If you open a No Fee Chequing Account or High Interest Savings Account, you must make a deposit of at least $100 within 6 months after account opening, and maintain a minimum balance of $100 for at least 30 days.
+2. If you open a Simplii Cash Back Visa Card or Personal Line of Credit, you must use or spend a minimum of $100 from the account within 6 months of opening the account.
+3. Earn up to $80 in your first 3 months with 8% cash back. Get rewarded on eligible restaurant, bar and coffee shop purchases with your new Simplii Cash Back Visa Card.
+4. If you open a Simplii mortgage, you must fund your mortgage within 120 days (see below for my mortgage referral code).
+
+Mortgage Referral Code: 0009361587
+
+\*As an added bonus, if you open a No Fee Chequing Account by January 31, 2026 at 11:59 pm (ET) and add an eligible direct deposit of at least $100 a month for 3 straight months, you'll earn an additional $300!",1,1762973760.0,CanadianReferral,1,1.0,False
+1ovdxy4,https://www.reddit.com/r/espresso/comments/1ovdxy4/coffee_subscription_for_class/,coffee subscription for class,"hi everyone i’m doing research for a school project. it’s a subscription like classpass but for lattes/coffee. and have some questions 
+
+1. how often are you buying lattes weekly?
+
+2.do you go to the same cafes most days or switch it up? (especially if you live in cities)
+
+3. what would make a subscription like this worth it to you?
+
+thanks!",0,1762973758.0,espresso,3,0.5,False
+1ovdxsy,https://i.redd.it/rgxw1td3iv0g1.jpeg,Grocery prices have risen substantially under the Trump administration.,,30,1762973750.0,economy,6,1.0,False
+1ovdx5v,https://www.reddit.com/r/zurich/comments/1ovdx5v/gymnasium_entrance_process/,Gymnasium Entrance Process,"I grew up in Geneva where you finished Primary School, then were legally obliged to go to secondary school (we all did) only after which you would take the significant choice that dictated whether you went to “Collège” (Gymi), “École de Commerce” or started an apprenticeship (Lehre).
+
+I understand it’s quite different in Zürich. One of my kids is approaching the end of Primary school (fifth grade) and I’d basically love someone to guide me through the process to really understand it and make sure I don’t clip her chances by being poorly informed.
+
+Any tips / recommendations?
+
+(And for those in the Education sector, happy to pay for a counselling session / coffee.)",3,1762973712.0,zurich,9,1.0,False
+1ovdwyi,https://www.reddit.com/r/ReferralLinksNation/comments/1ovdwyi/simplii_financial_promo_code_2025_50_referral/,Simplii Financial Promo Code 2025 - $50 Referral Bonus for Canadians,"*\*\*For Canadian residents only, sadly excluding residents of Quebec\*\**
+
+Simplii Financial is a subsidiary of CIBC. Access your money from any CIBC ATM in Canada without a fee. You can also withdraw money from any non-CIBC ATM displaying the Interac® or PLUS\* signs (fees may apply at these machines).
+
+To be eligible for the $50 bonus offer you must click through this referral - [Simplii Financial Link](https://invitation.codes/go/685d87b1bdfffa09e9305be3) \- and follow these instructions once you have set up your new Simplii account:
+
+1. If you open a No Fee Chequing Account or High Interest Savings Account, you must make a deposit of at least $100 within 6 months after account opening, and maintain a minimum balance of $100 for at least 30 days.
+2. If you open a Simplii Cash Back Visa Card or Personal Line of Credit, you must use or spend a minimum of $100 from the account within 6 months of opening the account.
+3. Earn up to $80 in your first 3 months with 8% cash back. Get rewarded on eligible restaurant, bar and coffee shop purchases with your new Simplii Cash Back Visa Card.
+4. If you open a Simplii mortgage, you must fund your mortgage within 120 days (see below for my mortgage referral code).
+
+Mortgage Referral Code: 0009361587
+
+\*As an added bonus, if you open a No Fee Chequing Account by January 31, 2026 at 11:59 pm (ET) and add an eligible direct deposit of at least $100 a month for 3 straight months, you'll earn an additional $300!",1,1762973700.0,ReferralLinksNation,1,1.0,False
+1ovdwuz,https://www.reddit.com/r/MinecraftMod/comments/1ovdwuz/minecraft_but_you_can_eat_pipes_and_a_lot_more/,Minecraft But You Can Eat Pipes and a lot more....,"So I made this chaotic mod called ""Minecraft Dumb Ideas"" (MDI for short). It includes:
+
+\- Eating a pipe that clangs like a falling metal pole.  
+\- Villagers that turn into Starbucks workers if they find a coffee machine, selling a drink with a 100-letter name.  
+\- A Red Bull that really gives you levitation because ""Red Bull gives you wings.""  
+\- Crafting Sour Patch Kids by filling a crafting table with sugar; they scream when you eat them.  
+\- An angry villager who chases you if you hit them and eventually drops burnable flesh.  
+\- A monobloc chair that does nothing; it just sits there like a scam.  
+\- And yes, you can throw bricks at players.  
+and more...
+
+I don’t know why I made this, but my friends nearly cried from laughing.
+
+[Download on Curseforge 🔗](https://www.curseforge.com/minecraft/mc-mods/minecraft-dumb-ideas)
+
+ would love suggestions for part 2 if this mod.",2,1762973694.0,MinecraftMod,0,1.0,False
+1ovdwbp,https://www.reddit.com/r/r4r/comments/1ovdwbp/34_m4f_netherlandseurope_childfree_gym_mouse_book/,"34 [M4F] #Netherlands/#Europe - childfree, gym mouse, book nerd, creative soul, parttime adventurer","Hi! I'm an optimistic, calm-but-occasionally-chaotic, gentle, curious, and creative guy. I love living a calm and stress-free life, except when my cats say no.
+
+During the day I work as an engineer. After work you'll find me at the gym, reading, playing PC/PS5 games, working with my hands/creativity/DIY, watching movies and shows with friends, and listening to music. I love to cook (terrible baker though) and like to travel. I'm going to Sweden in December.
+
+Especially strength training, books, and music are important to me. I just want to be strong and healthy (and also eat more food). I love escaping into fantasy worlds and I love learning from nonfiction books. Music has a special spot in my heart right now. I especially love rock/metalcore/punk/emotional&sad music/drum&bass/anything my brain approves of.
+
+I'm a romantic at heart. My love languages are quality time, words of affirmation, and making sure you're stocked up on snacks. For the right person, the kind of love I give is the kind you don't have to question and ""Baby, I won't let anything happen to you"". Great, I've called all of r4r baby already. Whoops.
+
+I am childfree, monogamous, agnostic, a feminist, and I care a lot about neurodiversity and mental health. My guilty pleasures are Love is Blind and iced coffee with whipped cream.
+
+I'd probably get along with a book nerd/gym mouse/cozy enjoyer/parttime adventurer. Someone that ""feels"" warm, even in text. Someone that practices open and honest communication and doesn't shy away from being vulnerable. Around 30-35 or so (not a hard limit), and preferably from Europe.
+
+Feel free to reach out, either for just a chat or maybe something more :)",2,1762973664.0,r4r,1,0.75,False
+1ovdw3m,https://www.reddit.com/gallery/1ovdw3m,Movie takes place in 1957,"The magazines on the coffee table are the Readers Digest issue for December 1957 and one of the Good Housekeeping issue also for December 1957 
+
+Couldn’t figure what the other 2 were. ",6,1762973650.0,PolarExpress,1,1.0,False
+1ovdvx9,https://www.reddit.com/r/ReferralAffiliateCode/comments/1ovdvx9/simplii_financial_promo_code_2025_50_referral/,Simplii Financial Promo Code 2025 - $50 Referral Bonus for Canadians,"*\*\*For Canadian residents only, sadly excluding residents of Quebec\*\**
+
+Simplii Financial is a subsidiary of CIBC. Access your money from any CIBC ATM in Canada without a fee. You can also withdraw money from any non-CIBC ATM displaying the Interac® or PLUS\* signs (fees may apply at these machines).
+
+To be eligible for the $50 bonus offer you must click through this referral - [Simplii Financial Link](https://invitation.codes/go/685d87b1bdfffa09e9305be3) \- and follow these instructions once you have set up your new Simplii account:
+
+1. If you open a No Fee Chequing Account or High Interest Savings Account, you must make a deposit of at least $100 within 6 months after account opening, and maintain a minimum balance of $100 for at least 30 days.
+2. If you open a Simplii Cash Back Visa Card or Personal Line of Credit, you must use or spend a minimum of $100 from the account within 6 months of opening the account.
+3. Earn up to $80 in your first 3 months with 8% cash back. Get rewarded on eligible restaurant, bar and coffee shop purchases with your new Simplii Cash Back Visa Card.
+4. If you open a Simplii mortgage, you must fund your mortgage within 120 days (see below for my mortgage referral code).
+
+Mortgage Referral Code: 0009361587
+
+\*As an added bonus, if you open a No Fee Chequing Account by January 31, 2026 at 11:59 pm (ET) and add an eligible direct deposit of at least $100 a month for 3 straight months, you'll earn an additional $300!",1,1762973640.0,ReferralAffiliateCode,2,1.0,False
+1ovdvqs,https://www.reddit.com/r/anno/comments/1ovdvqs/am_i_that_crazy/,Am I that crazy?,"Did I finish a 24h shift with only 4h of sleep, followed by 4h hard work in the woods and a day full of householding? Yes. 
+
+Do I have a driving training with the ambulance and firetruck tomorrow morning followed by another 3 hours of work at a music stage? Well yes.
+
+Will I go to bed now and rise again at 11.50pm, take a coffee and play anno for a few hours, go to sleep for another 2-3 hours again while my gf thinks I’m completely out of my mind? Yes… yes I do",10,1762973628.0,anno,10,0.92,False
+1ovdvix,https://www.reddit.com/gallery/1ovdvix,Coffee World Air Fresheners,"Hey all, 
+
+New to the group, I recently made these Coffee World car air fresheners and wanted to share with the community, I have a store for these, which I’m happy to send via DM’s
+
+I hope that it’s okay to share! Thank you 🙏",14,1762973614.0,AlanWake,1,0.94,False
+1ovdv37,https://www.reddit.com/r/Coffee_Shop/comments/1ovdv37/research_for_school_project/,research for school project,"hi everyone i’m doing research for a school project. it’s a subscription like classpass but for lattes/coffee. and have some questions 
+
+1. how often are you buying lattes weekly?
+
+2.do you go to the same cafes most days or switch it up? (especially if you live in cities)
+
+3. what would make a subscription like this worth it to you?
+
+thanks!",4,1762973590.0,Coffee_Shop,1,1.0,False
+1ovduzt,https://www.reddit.com/r/ReferalCodes/comments/1ovduzt/simplii_financial_promo_code_2025_50_referral/,Simplii Financial Promo Code 2025 - $50 Referral Bonus for Canadians,"*\*\*For Canadian residents only, sadly excluding residents of Quebec\*\**
+
+Simplii Financial is a subsidiary of CIBC. Access your money from any CIBC ATM in Canada without a fee. You can also withdraw money from any non-CIBC ATM displaying the Interac® or PLUS\* signs (fees may apply at these machines).
+
+To be eligible for the $50 bonus offer you must click through this referral - [Simplii Financial Link](https://invitation.codes/go/685d87b1bdfffa09e9305be3) \- and follow these instructions once you have set up your new Simplii account:
+
+1. If you open a No Fee Chequing Account or High Interest Savings Account, you must make a deposit of at least $100 within 6 months after account opening, and maintain a minimum balance of $100 for at least 30 days.
+2. If you open a Simplii Cash Back Visa Card or Personal Line of Credit, you must use or spend a minimum of $100 from the account within 6 months of opening the account.
+3. Earn up to $80 in your first 3 months with 8% cash back. Get rewarded on eligible restaurant, bar and coffee shop purchases with your new Simplii Cash Back Visa Card.
+4. If you open a Simplii mortgage, you must fund your mortgage within 120 days (see below for my mortgage referral code).
+
+Mortgage Referral Code: 0009361587
+
+\*As an added bonus, if you open a No Fee Chequing Account by January 31, 2026 at 11:59 pm (ET) and add an eligible direct deposit of at least $100 a month for 3 straight months, you'll earn an additional $300!",1,1762973584.0,ReferalCodes,1,1.0,False
+1ovduwr,https://www.reddit.com/r/fasting/comments/1ovduwr/what_foods_or_drinks_that_dont_necessarily_break/,What foods or drinks that don't necessarily break your fast?,"What I mean to ask is, what do you do if you are feeling extra hungry and decide to consume something other than water, coffee or tea but don't want to break your fast completely?
+
+I'm in the dirty fasting camp, so I don't feel that I failed if I negotiated with myself and had something with calories as long as it's really really low.
+
+Today I almost broke my 6 day fast on the evening of the 4th day, but instead I made some miso soup with seaweed and it helped me avoid eating an actual meal. I would also consider adding some konjak noodles if I had them at home.
+
+Wondering if somebody in this community has some other ideas for low calorie foods/drinks that might help in situations like these
+
+note: I know I technically broke my fast according to the definition of water fasting, but I'm fasting primarily for weight loss and I don't mind some cheating if it helps me achieve a better result overall. I guess it could be considered that I broke my fast and immediately jumped into another fast...",2,1762973577.0,fasting,3,1.0,False
+1ovduo1,https://www.reddit.com/r/offmychest/comments/1ovduo1/my_coworkers_kindness_made_me_cry_in_the_bathroom/,My coworker’s kindness made me cry in the bathroom,"
+I’ve been working 12-hour shifts lately, barely sleeping. Today, a coworker I don’t even talk to much handed me a cup of coffee and said, “You looked like you needed this.”
+
+That’s it. No big speech, no pity. Just quiet kindness.
+
+I went to the bathroom and cried. Not because of the coffee but because I realized I can’t remember the last time someone noticed me without me asking for it.
+
+I’ve been running on empty for so long that basic kindness felt like a miracle.",4,1762973562.0,offmychest,1,1.0,False
+1ovdtyu,https://www.reddit.com/r/ReferralLink/comments/1ovdtyu/simplii_financial_promo_code_2025_50_referral/,Simplii Financial Promo Code 2025 - $50 Referral Bonus for Canadians,"*\*\*For Canadian residents only, sadly excluding residents of Quebec\*\**
+
+Simplii Financial is a subsidiary of CIBC. Access your money from any CIBC ATM in Canada without a fee. You can also withdraw money from any non-CIBC ATM displaying the Interac® or PLUS\* signs (fees may apply at these machines).
+
+To be eligible for the $50 bonus offer you must click through this referral - [Simplii Financial Link](https://invitation.codes/go/685d87b1bdfffa09e9305be3) \- and follow these instructions once you have set up your new Simplii account:
+
+1. If you open a No Fee Chequing Account or High Interest Savings Account, you must make a deposit of at least $100 within 6 months after account opening, and maintain a minimum balance of $100 for at least 30 days.
+2. If you open a Simplii Cash Back Visa Card or Personal Line of Credit, you must use or spend a minimum of $100 from the account within 6 months of opening the account.
+3. Earn up to $80 in your first 3 months with 8% cash back. Get rewarded on eligible restaurant, bar and coffee shop purchases with your new Simplii Cash Back Visa Card.
+4. If you open a Simplii mortgage, you must fund your mortgage within 120 days (see below for my mortgage referral code).
+
+Mortgage Referral Code: 0009361587
+
+\*As an added bonus, if you open a No Fee Chequing Account by January 31, 2026 and add an eligible direct deposit of at least $100 a month for 3 straight months, you'll earn an additional $300!",1,1762973521.0,ReferralLink,1,1.0,False
+1ovdt2r,https://www.reddit.com/r/TrueOffMyChest/comments/1ovdt2r/ive_never_felt_worse_about_my_body_and_i_dont/,"I’ve never felt worse about my body, and I don’t know how to start feeling beautiful again","I’m going to start this off by saying that I have severe digestive issues.
+I’ve been big and small all throughout my life anywhere from 110 to 170 pounds. I’m 5’4” and right now I’m just under 150. I get daily exercise, I’m doing OMAD, and I’ve completely cut out carbs and added sugar (except for my morning coffee and nightly diet tea). I also take laxatives daily and have for years.Even with all of that, I just don’t feel beautiful. I don’t believe anyone who compliments me. My self-image is awful, and it’s affecting my relationship. My boyfriend of three years is kind and understanding, but he wishes I would let him see me without clothes on. He thinks I’m beautiful, but I can’t see it at all and im scared if I continue feeling this way it will be a deal breaker for him.
+I feel like I can't do anything to feel okay in my skin again, and I’ve hit a wall, physically and mentally. I’ve never felt worse about myself.
+Keep in mind ive struggled with a persistent ED and go through a cycle of overexcersisng and underesring, then my metabolism shuts down and when i eat again I gain weight. So it is never a simple fix.",3,1762973467.0,TrueOffMyChest,4,1.0,False
+1ovdsbb,https://www.reddit.com/r/AmazonVine/comments/1ovdsbb/check_your_orders_and_maybe_see_you_later_gaters/,"Check Your Orders.  (And Maybe See You Later, Gaters?)","Today I made the mistake of quickly ordering what I thought was coffee, but it was a dried ocean product.  I made the tough decision to cancel, and I found not one, but Three orders for the same product. . . My Vine order and then Two Regular ones following that (to the tune of $24.00). So, three cancellations, I leave you with a heads up, and hopefully not a fond farewell! 👋",0,1762973422.0,AmazonVine,4,0.4,False
+1ovdrwz,https://www.reddit.com/r/ReferralTrains/comments/1ovdrwz/simplii_financial_promo_code_2025_50_referral/,Simplii Financial Promo Code 2025 - $50 Referral Bonus for Canadians,"*\*\*For Canadian residents only, sadly excluding residents of Quebec\*\**
+
+Simplii Financial is a subsidiary of CIBC. Access your money from any CIBC ATM in Canada without a fee. You can also withdraw money from any non-CIBC ATM displaying the Interac® or PLUS\* signs (fees may apply at these machines).
+
+To be eligible for the $50 bonus offer you must click through this referral - [Simplii Financial Link](https://invitation.codes/go/685d87b1bdfffa09e9305be3) \- and follow these instructions once you have set up your new Simplii account:
+
+1. If you open a No Fee Chequing Account or High Interest Savings Account, you must make a deposit of at least $100 within 6 months after account opening, and maintain a minimum balance of $100 for at least 30 days.
+2. If you open a Simplii Cash Back Visa Card or Personal Line of Credit, you must use or spend a minimum of $100 from the account within 6 months of opening the account.
+3. Earn up to $80 in your first 3 months with 8% cash back. Get rewarded on eligible restaurant, bar and coffee shop purchases with your new Simplii Cash Back Visa Card.
+4. If you open a Simplii mortgage, you must fund your mortgage within 120 days (see below for my mortgage referral code).
+
+Mortgage Referral Code: 0009361587
+
+\*As an added bonus, if you open a No Fee Chequing Account by January 31, 2026 at 11:59 pm (ET) and add an eligible direct deposit of at least $100 a month for 3 straight months, you'll earn an additional $300!",1,1762973400.0,ReferralTrains,2,1.0,False
+1ovdrjt,/r/animationcareer/comments/1ovdqsw/looking_for_a_ukbased_2d_animator_to_collaborate/,Looking for a UK-based 2D animator to collaborate on a visual coffee-art project,,1,1762973377.0,u_heyyyyeemmyy,0,1.0,False
+1ovdrgd,https://www.reddit.com/r/roasting/comments/1ovdrgd/best_washed_coffee_prices_arabica_and_robusta/,Best washed coffee prices arabica and robusta.,"Hello guys, i am new here joined since few weeks, i am an exporter from india who wants to export with very little margins, as i believe if i scale the business i can have a good year. But i invite all roasters to be in touch with me regarding premium, commercial and speciality coffee. I only deal in containers so no LCL. 
+My email ID - info@younovationgroup.com
+
+I have around 30-40 containers of stock each month roughly.
+
+I wish you all a great success in your coffee business. ",0,1762973371.0,roasting,0,0.33,False
+1ovdr9f,https://www.reddit.com/r/UnsentLetters/comments/1ovdr9f/hey_you/,"Hey, You","Hey, *Human*..
+
+
+It's been a very, *very* long time since I've written a letter to you.. but I think today would be perfect for that.
+
+
+I want to ask you how you are; how you're doing?
+
+
+How are you holding up with all these changes? With the weather turning colder, with the leaves falling from the trees as the world prepares its slumber for the winter months that are coming, I think fondly of you, and who you used to be.
+
+
+I want to let you know I see the steps you've taken and the way you've grown after everything that has happened. To give you a little external validation hard won after the battles you fought; the ones you didn't think you would win.
+
+
+I know you surprised yourself staying strong when you thought you wouldn't be able to.. especially after experiencing what could only be described as going through a personal hell.
+
+
+I've heard that you're sleeping lots in order to escape the depression that you feel, and I want you to know that's okay. Not everyone will be as understanding..  but I am after having gone through everything you did with you. I know it's easier to go to sleep earlier with the days growing shorter and the nights growing longer. I know that you haven't been dreaming as much as you used to, which may not necessarily be a bad thing with your medication.
+
+
+I want you to be able to take a moment to truly recognize just how far you have come, from those days you were afraid to sleep because you weren't sure if you were going to wake up. How far you are from those days where you would drink coffee after coffee, tea after tea, and soda upon soda. I remember what you were like, paranoid and terrified of the world and not being able to see yourself as a part of it. 
+
+
+I know that you've been applying for jobs, and are really on the look out for something that would fit you. I know that you're open to any sort of survival job that would come your way, hoping to be able to keep a roof over your head and food in your belly.
+
+
+I know that you worked hard to put the weight back on and that you still struggle with how you percieve yourself after having gotten as skinny and as emaciated as you did. I know it's still difficult to look at yourself in the mirror and be forgiving. I know you scrutinize every aspect of yourself. I know that you have difficulty leaving the pimples on your face alone and that you should probably do a better job of not damaging your skin.
+
+
+I know that you're on day four of no cigarettes at all and I know that you're still vaping and only plan on going to until the cartridge runs out. I know that you're on day sixty-something of being cannabis free.
+
+
+I know that you recently were able to have dinner with someone you once thought of as a sister and a friend but have come to realize that she is in fact neither. I feel the sadness you feel as you came to recognize the fact that you were some sort of weird game to her and that if someone loves you they will not treat you that way. I know that you're still experiencing some difficulties and grief in having lost what you thought was a close relationship.
+
+
+The thing is, is that if someone cared they wouldn't go out of their way to torture you the way she did. You were a little foolish in thinking that she didn't have anyone, which is why you kept her secrets and she did not keep yours. I know you think about deleting her texts all of the time and her messages, but I'd recommend you hold onto them for a while longer. I know you feel guilt not saying what you should have and having better boundaries, but its probably for the best that you kept all that to yourself. You've seen how she was able to pull the strings and manipulate others and still continues to do so. Someone who tells you that they think someone is not a good person and turns around and spends the day with them is not someone you want to be able to influence your life. 
+
+
+On top of that, the fact that she hides you from the world to suit her own purposes and tries to needle you as much as she did and still tries to do is not someone you want in your life. I know that she'd only pretend to be in your corner until it suited her otherwise. Like how she told you your favorite sweater did not look good on you. Like how she told you that you need to learn how to do your makeup. Like how she told you that you need to change your music tastes, or how you dress, or how she pressured you into drinking when you didn't want to. 
+
+
+It's going to take some time to heal from this loss of friendship, but in a way you've already started this journey back when your world collapsed on itself. There was a reason why you didn't reach out to her, why you ran and hid from her when she stopped by your house, why you wrote ""*don't trust sister*"" in your unsteady hand. You couldn't handle her lies and half truths and could not tolerate it as it weighed heavily on your soul. 
+
+
+I wouldn't worry too much about what happens to her going further, as I can promise you that she will recieve the recognition for what she deserves. All you can do is continue your healing journey and keep showing people how you show up for yourself every day, how each day you improve, how you grow and transform every single damned day for the better. 
+
+
+And just so you know, my favorite *human*.. you are not a liability, you are an *asset*, and the right people can and will see that. You've got so much to offer the world, so hold your head up. Not many people could have survived what you did and make it through to the other side.
+
+
+I'm proud of you, little one.
+
+
+-*Trollshand*",3,1762973359.0,UnsentLetters,2,1.0,False
+1ovdr86,https://www.drugs.com/news/aha-caffeinated-coffee-consumption-does-not-increase-fib-recurrence-127512.html,AHA: Caffeinated Coffee Consumption Does Not Increase A-Fib Recurrence,,1,1762973357.0,IndustrialPharmacy,0,1.0,False
+1ovdqxg,https://www.reddit.com/r/referralspay/comments/1ovdqxg/simplii_financial_promo_code_2025_50_referral/,Simplii Financial Promo Code 2025 - $50 Referral Bonus for Canadians,"*\*\*For Canadian residents only, sadly excluding residents of Quebec\*\**
+
+Simplii Financial is a subsidiary of CIBC. Access your money from any CIBC ATM in Canada without a fee. You can also withdraw money from any non-CIBC ATM displaying the Interac® or PLUS\* signs (fees may apply at these machines).
+
+To be eligible for the $50 bonus offer you must click through this referral - [Simplii Financial Link](https://invitation.codes/go/685d87b1bdfffa09e9305be3) \- and follow these instructions once you have set up your new Simplii account:
+
+1. If you open a No Fee Chequing Account or High Interest Savings Account, you must make a deposit of at least $100 within 6 months after account opening, and maintain a minimum balance of $100 for at least 30 days.
+2. If you open a Simplii Cash Back Visa Card or Personal Line of Credit, you must use or spend a minimum of $100 from the account within 6 months of opening the account.
+3. Earn up to $80 in your first 3 months with 8% cash back. Get rewarded on eligible restaurant, bar and coffee shop purchases with your new Simplii Cash Back Visa Card.
+4. If you open a Simplii mortgage, you must fund your mortgage within 120 days (see below for my mortgage referral code).
+
+Mortgage Referral Code: 0009361587
+
+\*As an added bonus, if you open a No Fee Chequing Account by January 31, 2026 at 11:59 pm (ET) and add an eligible direct deposit of at least $100 a month for 3 straight months, you'll earn an additional $300!",1,1762973340.0,referralspay,2,1.0,False
+1ovdqgh,https://www.reddit.com/gallery/1ovdqgh,جمال الطبيعة🌺,,4,1762973311.0,EgyptPics,0,1.0,False
+1ovdpxb,https://www.reddit.com/r/stcatharinesON/comments/1ovdpxb/my_tirescar_are_taking_a_beating/,My Tires/Car are taking a beating.,"I dont remember the roads being this rough. If im not driving 10mins around to circumvent construction sites Im playing Giant Slalom to avoid potholes. I blew tire out running into an exposed manhole cover someone thought it'd be wise to cut 6"" of asphalt out around and not mark in middle of major artery. 
+
+The area around Welland Plaza is a war zone. 
+
+Yall driving those 100k cars must have PTSD leaving driveways. The $1400 quote for new All Season tires nearly made me spit out my coffee. ",6,1762973280.0,stcatharinesON,1,1.0,False
+1ovdpnd,https://i.redd.it/q3chssjrev0g1.jpeg,"Turkish Coffee: A 500-Year-Old Ritual of Friendship, Patience and Warm Conversations",,1,1762973264.0,culture,0,0.99,False
+1ovdpcp,https://www.reddit.com/r/punemeetup/comments/1ovdpcp/anyone_for_a_coffee_at_cafe_bliss_nibm/,"Anyone for a Coffee at Cafe Bliss, NIBM ?",im up for a coffee at Bliss tomorrow. Hit me up if you wanna join,2,1762973246.0,punemeetup,0,1.0,False
+1ovdn7r,https://www.reddit.com/gallery/1ovdn7r,Joy App: Now You Can Talk to Anyone,"**🔥 What if you could DM Elon, Satya Nadella, or your dream mentor—*right now*—and get REAL answers?**
+
+We just dropped a feature that lets you **instantly create AI versions of anyone on LinkedIn or Instagram** and *actually talk to them*.
+
+No cold emails. No gatekeepers. No ""I’ll get back to you in 6 months.""
+**Just pure, unfiltered access to the perspectives that change your life.**
+
+---
+### **WHY THIS MATTERS (AND WHY I BUILT IT)**
+It's been said it a million times:
+**""Your network = your net worth.""**
+
+But here’s the truth: **Most people don’t have access.** You’re not sliding into Mark Cuban’s DMs. You’re not grabbing coffee with the CEO of your dream company. And if you’re trying to break into a new industry? Forget it—you’re stuck Googling ""how to network"" while the people *actually winning* are **one conversation away from their next big move.**
+
+**So I fixed it.**
+
+This isn’t about replacing real connections. It’s about **removing the fear of the first step.**
+- Scared to talk to that VP in your interview? **Practice with their AI twin first.**
+- Struggling to sell to a stubborn exec? **Ask their digital clone what they *actually* care about.**
+- Stuck in a career rut or have a bad manager? **Get a virtual pep talk from someone who’s been there.**
+**Growth isn’t about knowing *how*. It’s about knowing *who*.**
+
+---
+### **HOW PEOPLE ARE ALREADY USING IT (PRIVATE BETA INSIDERS)**
+🚀 **Interview Prep:** One user added the CEO of the company they were interviewing with. **Uncovered 2 hidden priorities**—nailed the interview.
+
+💰 **B2B Sales:** Sales teams are **running ""focus groups""** with AI versions of their buyers’ leadership teams. *""What keeps you up at night?""* → **Boom. Customized pitch.**
+
+🎤 **Companion Mode:** Lonely? Stuck? **Add your favorite creator or influencer** and chat like they’re your hype-man.
+
+🛠️ **Product Dev:** **Talk to your ideal users**—even if they’d never reply to you IRL. *""Would you pay for this?""* → **Instant feedback.**
+
+🧠 **Career Coach:** Hate your boss? **Create a mentor** from someone you admire and ask, *""How would you handle this?""* → **Mindset shift in 5 minutes.**
+
+---
+### **WHY THIS WORKS (AND WHY YOU’LL LOVE IT)**
+1️⃣ **No more ""analysis paralysis.""** Stuck? **Ask the person who’s already solved it.**
+2️⃣ **Confidence hack.** Introverts in our beta went from **""I’ll never speak up""** to **""I just led a meeting""** in **one week.**
+3️⃣ **Cheat code for empathy.** **See the world through *their* eyes**—then use that to win.
+**This isn’t AI chat. This is a *perspective machine*.**
+
+---
+### **TRY IT NOW (YOU WILL BE AMAZED)**
+✅ **Drop any LinkedIn/Instagram profile** → **Instant AI character.**
+💬 **Chat naturally**—no robot vibes, just real insight.
+⚡ **Walk into every room 10x more prepared.**
+**First 500 Redditors get free early access. Comment below ""Who, not how"" and DM me** 
+
+---
+**TL;DR:**
+- **Add any public profile** → **Talk to their AI twin.**
+- **Use it for interviews, sales, motivation, or just *not being stuck*.**
+**Stop overthinking. Start talking.** 🚀
+
+---
+**P.S.** If you’re thinking *""This is weird ""*—good. **The best opportunities always are.** DM me if you want to argue about it
+*Not suitable for children under the age of 13.
+
+https://joyai.app/",1,1762973115.0,MacOSApps,0,1.0,False
+1ovdmta,https://www.reddit.com/r/TonyRobbins/comments/1ovdmta/attended_dean_graziosi_tony_robbins_ai_summit_now/,Attended Dean Graziosi & Tony Robbins’ AI Summit — now my toaster calls me “Boss.” 🚀💰,"Three weeks ago, I was living in my car behind a Denny’s, drinking lukewarm coffee and Googling “is hope tax-deductible.”
+
+Then I saw a Facebook ad: “Unlock your inner billionaire with AI.” Boom. My life changed.
+
+I sold my last possession — a slightly melted air fryer — to buy the “VIP Platinum Quantum Mastermind” ticket for $7,997.
+
+Day 1: Tony yelled “STATE!” and I blacked out. When I woke up, my credit score was somehow 830.
+
+Day 2: Dean said “You don’t need an algorithm, you ARE the algorithm.” I cried. My tears backtested at a 40% ROI.
+
+Day 3: The AI tool wrote me a business plan that literally started printing money. My printer is now my CFO.
+
+Fast-forward two weeks and I’m taking Zoom calls from a private jet that only flies in circles because “momentum.”
+
+If you’re skeptical — don’t be. The only thing separating you from success is 13 easy payments of $997 and a willingness to yell “YES!” at random intervals.
+
+#BELIEVE #AIMogul #ToRiches
+",0,1762973090.0,TonyRobbins,1,0.5,False
+1ovdm9r,https://www.reddit.com/r/test/comments/1ovdm9r/decentralized_model_training_through_federated/,**Decentralized Model Training through Federated Learning**,"**Decentralized Model Training through Federated Learning**
+
+Imagine a group of friends from different neighborhoods, each with their own coffee machine. They all want to develop the ultimate coffee recipe, but no one wants to share their coffee machines or taste preferences with the others. This is where federated learning comes in – a collaborative approach to machine learning where multiple parties contribute to model training without sharing their local data. In this coffee machine analogy, each friend trains their own local model using their personal coffee machine data, then shares the model updates with their friends.
+
+These updates are then aggregated to create an improved global model, which can be used by all friends for their own coffee machine data without needing to share the data itself. This decentralized approach to model training preserves data privacy while still allowing for the creation of accurate and robust machine learning models. By working together, the friends can develop a world-class coffee recipe without compromising their individual data.",1,1762973058.0,test,0,1.0,False
+1ovdlqq,https://www.reddit.com/r/happy/comments/1ovdlqq/feeling_extra_thankful_today_for_all_the_small/,Feeling extra thankful today for all the small things that made me smile,"Today was one of those rare days where everything just felt peaceful. My morning coffee was perfect, I caught the bus right on time, and even a stranger complimented my scarf. Nothing huge happened, but all those little moments added up and made me feel genuinely happy.
+
+It’s nice to slow down and appreciate the small stuff sometimes. Hope everyone here had a few reasons to smile today too.",3,1762973027.0,happy,1,1.0,False
+1ovdll6,https://www.reddit.com/r/Interstitialcystitis/comments/1ovdll6/go_to_drinks_and_beverages/,Go To Drinks and Beverages,"What are your favorite go to drinks/beverages? I occasionally take Prelief so I can enjoy a non-alcoholic beer. I used to drink sparkling waters, ginger beer, and decaf coffee I’ve found some teas I like and don’t cause a flare up, white grape juice, chicory coffee, vitamin water, and coconut water. Seems like all I do is drink herbal tea and water. ",2,1762973019.0,Interstitialcystitis,0,1.0,False
+1ovdlck,https://www.reddit.com/r/Crushes/comments/1ovdlck/do_i_have_a_chance_or_am_i_just_fully_insane/,Do I have a chance or am I just fully insane?," hii okay pls help me out 😭💘 i have a crush on the prettiest barista girl ever and i don’t know if she likes me back or if i’m just going insane LMAO help
+
+So I (18F) go to this coffeeshop everyday, and there’s this really pretty barista girl. Like. Really pretty. She’s soft and cool and always looks like she’s in a coming-of-age movie montage. I can’t think straight around her (not that I was doing that to begin with lmao).
+
+It started with small things I thought were nothing, but now I’m spiraling because maybe they meant something??
+	•	First time I noticed her, she literally stood up mid-convo when I came in. Like… stood up. No smile, just serious eye contact. It felt intense. I thought it was in my head but
+	•	Next time, it was my birthday. She looked at me from the downstairs floor (they have a weird two-floor setup) and we made eye contact. She didn’t smile but it felt like something.
+	•	Then randomly, she remembered my order: “Iced coffee, right?” Which she never did before. I kind of melted.
+	•	A week later: “Iced coffee with vanilla, right?” With a smile and eye contact and everything. She looked so happy. It felt flirty. I was like oh god oh fuck.
+	•	I got a major crush. Been spiraling ever since.
+
+But then today,
+
+She looked up when I came in, smiled (not the same way), said my order normally, but then barely looked at me again. No real smile when she gave me the drink, no eye contact, barely a word. Just… disinterested?
+
+And now I don’t know what’s happening. Like I don’t know if:
+	•	she used to maybe like me but thinks I’m not into her
+	•	she never liked me and it was just customer service
+	•	she’s over it
+	•	or maybe she’s trying to act normal bc she likes me and I’ve been weirdly silent (bc I have. I’ve said literally nothing. I’ve just been making googly eyes like an idiot. But I have really bad social anxiety so idk) 
+
+I want to say something like “your hair looks cute today” but I am SO scared it’ll be awkward or she’ll think I’m weird or she’ll tell her coworkers I’m obsessed 😭or it might be too friendly and not hinting I’m into her at all.
+
+So pls internet I’m asking for your help:
+	•	Is there a chance she liked me?
+	•	Did I miss it by not doing anything?
+	•	Am I making this up in my head?
+	•	Should I compliment her or is that doing too much??
+
+I really hope someone can share their thoughts / advice, I’ve never felt like this before and i don’t wanna mess it up. 
+Thank you so much for reading🫶",1,1762973004.0,Crushes,1,1.0,False
+1ovdl0m,https://www.reddit.com/r/shortscarystories/comments/1ovdl0m/what_do_the_cards_say/,What Do The Cards Say?,"Edward didn’t believe in mysticism. He believed in observation. The old tarot deck he used wasn’t sacred to him. It was a tool, a way to study people who came to him desperate for patterns that made their chaos make sense. His apartment smelled of coffee gone cold and candle wax burned to the stub. The cards were soft from overuse, their edges fraying like nerves. Edward liked that. He said the more fingerprints on something, the more truth it held. To his clients, he was a man who could see the hidden threads of their lives. In reality, he was tugging those threads until everything came undone.
+
+One night, a man came in. A lawyer, nervous and sweating through his collar. Edward laid out the cards slowly, deliberately. The Tower. The Devil. The Ten of Swords. Each one hit the table like a small warning. “You’ve built something crooked,” he said quietly. “When it collapses, you’ll be underneath it.” The man tried to laugh, but Edward watched his pupils shrink. He always noticed that, the precise second they believed him. Three days later, the lawyer fell from his office balcony. Police said it was suicide. Edward just poured himself another drink and noted the result in his worn leather journal.
+
+He told himself it wasn’t murder. He never touched anyone. He simply guided them to their own edges and waited. He was fascinated by how predictably fragile people were, how easily a suggestion could become destiny. He fine-tuned his readings, his tone, his silence, the order of the cards to plant the idea of an ending that would feel inevitable to his clients. By the time they died, it wasn’t him pulling the strings. It was the story they thought had already been written.
+
+One night, out of curiosity, he decided to read for himself. The cards came faster than usual, as if they were waiting. Death. Judgment. The Fool. He frowned. The Fool’s face seemed different, almost smirking. The air in the room felt too still. Somewhere in the apartment, the window creaked open on its own. Edward reached for his recorder to document the reading, but before he could speak, the deck slipped from his hands. When they found him the next morning, the cards were scattered across the floor, the Fool resting face-up on his chest.",33,1762972984.0,shortscarystories,6,0.95,False
+1ovdkyc,https://i.redd.it/nn5l4q2tfv0g1.jpeg,WB DUSK MANE NECROZMA 7234 1266 7226 !! Adding ASAP SHUNDO LUCK!! WINDY 🌬️,,1,1762972979.0,PokemonGoRaids,1,1.0,False
+1ovdkr6,https://i.redd.it/gufo7slrfv0g1.png,Does the L from Lragon stand for Luck?,Cheap low effort joke ik ik,11,1762972966.0,Piratefolk,4,1.0,False
+1ovdkhh,https://i.redd.it/6eokkj0qfv0g1.jpeg,WB DUSK MANE NECROZMA 7234 1266 7226 !! Adding ASAP SHUNDO LUCK!! WINDY 🌬️,,1,1762972951.0,PokemonGoRaids,1,1.0,False
+1ovdka3,https://www.reddit.com/r/NowBestNow/comments/1ovdka3/the_coffee_bean_and_tea_leaf_black_friday_ads_in/,The Coffee Bean and Tea Leaf Black Friday Ads in 2025,Visit [**The Coffee Bean and Tea Leaf Black Friday Ads in 2025**](https://bit.ly/3afHwtG) for active coupons and promo codes. Choose one and use it while it lasts.,1,1762972939.0,NowBestNow,0,1.0,False
+1ovdk9l,https://i.redd.it/6x4nrunofv0g1.jpeg,WB DUSK MANE NECROZMA 7234 1266 7226 !! Adding ASAP SHUNDO LUCK!! WINDY 🌬️,,1,1762972938.0,PokemonGoRaids,1,1.0,False
+1ovdjji,https://www.dailywire.com/news/bessent-promises-major-food-import-moves-to-cut-grocery-prices-very-quickly,Bessent Promises Major Food Import Moves To Cut Grocery Prices ‘Very Quickly’,"Treasury Secretary Scott Bessent promised on Wednesday that relief is coming to Americans at the grocery store, as the Trump administration plans to make “substantial announcements” on foreign food imports in the coming days.
+
+During an interview with “[Fox & Friends](https://www.foxbusiness.com/video/6385001023112)” co-host Brian Kilmeade, Bessent predicted that Americans would soon feel much better about their finances and hinted that certain grocery store items would be coming down in price.
+
+“When you look at affordability now, and you go grocery shopping, for example, what products are you working on bringing down?” Kilmeade asked. “We know that certain products are down, certain \[products\] are up. For example, coffee. The president said, ‘I’m going to lower tariff rates on Brazil and Vietnam and other places to try to bring the price of coffee down.’ What else do you do?”",1,1762972896.0,UsaNewsLive,0,1.0,False
+1ovdjfn,https://www.reddit.com/r/IndiaCoffee/comments/1ovdjfn/what_changes_to_your_coffee_making_process/,"What changes to your coffee making process , drastically improved the taste?",,1,1762972890.0,IndiaCoffee,6,1.0,False
+1ovdhev,https://i.redd.it/ehxga276fv0g1.png,"Returning Player, can you rate my team?","I used to play PAD around 8 years ago. At the time, I jad to download the .apk from weird sites because it was locked in my country and ended up dropping it since it such a hassle to keep the game updated.
+
+Fast travel to today, now I can safely download and access the game but oh boy did things change in all that time.
+
+I've been trying to do stuff here and there, search for wikis and stuff that can point me out in some direction but ultimately I have no idea what the fluck im doing.
+
+ Thus I ask you for your opinion in what I found to be my best performing team so far and how to make it shine further.
+
+
+
+",1,1762972768.0,PuzzleAndDragons,7,0.6,False
+1ovdhcw,https://www.reddit.com/gallery/1ovdhcw,[Seiko SRP043k] Spork photoshoot,"The Seiko Srp043k aka SPORK is a bit of an odd duck. It's a mashup of a pilot-style dial and handset with an oversized mid-2000s Seiko dive watch case. It's absolutely massive, especially in the face of current trends, but I love it anyway. Went for a walk and took some photos after my morning coffee. 
+
+This watch was originally my Grail when I first started collecting way back in the day. I will be posting my full review on my website along with more pictures tomorrow. 
+
+www.watchbert.com
+
+
+Also, for discussion sake - this watch was only produced for a total of 22 months. What are some of your favorite limited run seiko's that aren't actually limited editions?",5,1762972764.0,Watches,0,1.0,False
+1ovdgoy,https://www.reddit.com/gallery/1ovdgoy,We definitely need our coffee,,60,1762972725.0,dressedmom,27,0.99,False
+1ovdgep,https://i.redd.it/wk26tmrzev0g1.jpeg,stuck at work for a while longer. have to resort to a distraction for the time being,"so glad i pulled this book from my storage yesterday. it's been on my tbr for probably 20 years or so. i picked it up initially because i felt drawn to it.
+
+having a cup of espresso to hoping to pull a teeny bit of my sanity back from its current hidey-hole in my mind [aka taking a natural stimulant to deter severe depression].
+
+yes, i know from experience that if i do not have enough coffee/caffeine that i become significantly depressed *>that was a 3-4 month stint back in early 2021 where i took a break from caffeine and ended up massively depressed until i resumed drinking it again*<* 🙄😒🤦‍♀️
+
+____
+
+tonight is karaoke night at the bar.
+
+i can't show up there like this: my poor mental health is wearing itself in full-form internally and externally so far today. i might have showered & look presentable enough, but the emotions i'm experiencing today are wearing me and wearing me down: my facial expressions and dumb-mistake making behaviors matching my somber thoughts. 
+
+my light is missing today and i can't hide it yet.
+
+i can't let my family of friends at the bar see me this way.
+
+i don't have the energy to even begin to explain wtf is going on within me
+* the potentially good thing here: someone who understands might be there tonight >one could only hope<
+
+____
+ 
+~~~~
+  dear mania,
+where did you go today?
+ i know you're still there, lurking within me.
+you're always with me, i know this now
+
+you are me
+
+are you taking a mental health break today?
+  are you getting too exhausted from fighting?
+are you too tired of being misunderstood? 
+
+  so am i
+
+i know burnout is waiting it's turn at the helm
+  we can't let that happen this time, though
+
+we have to face facts:
+  it's you and me vs the world
+
+i think maybe we can do this, 
+  what do you think? 
+
+we have our beasts of burden that we share
+  your friends in kind
+ like your bestie, logic-and-reality-based
+autistic cptsd psychosis
+
+i know it's hard
+  we're all hurting in here
+
+but you have to get up and try
+  just like i do
+
+i need you.
+you help make me who i am: fun, carefree, and loving
+  even if some people choose to call those bad things:
+ grandiose
+quixotic
+  foolhardy
+
+i know you
+  i know you mean well
+ i know you lash because you're so misunderstood and hurt
+
+one day, my dear friend mania,
+  one day, i hope you will get to show your true self to the world
+
+the good you, that is.
+
+  because the good you?
+well i think you're pretty amazing
+  you're kinda cool in your own ways
+
+i hope one day at least one other person in this world
+will come to see, know, understand, accept, and embrace you
+ and know that you're really not all bad
+
+and i hope they'll see me like that too
+
+~~~~
+
+fyi: anthropomorphisizing these conditions of mine helps.
+
+i'm still here, as per usual. 
+
+just writing these things out as i sit here with a  metal-tongue-ring-adorned tongue freshly scalded from a coffee that was too hot.
+
+____
+
+ fuckin executive dysfunction days 🤦‍♀️🙄😒",1,1762972707.0,thescottishimposition,0,1.0,False
+1ovdg6j,https://www.reddit.com/gallery/1ovdg6j,Help me with this impossible living room,"This room has so many entry ways (five) plus a 16 ft raised hearth. The TV is so far away from the couch that my husband is wanting to buy a bigger one. Eventually I want to completely overhaul this room all new furniture (however the coffee and end tables are staying - they are made by my late mother) and decor. I want to transform it to my cottage-y/victorian dream. Though, right now I will settle for help with the layout. I've included photos from multiple angles and a rough sketch of the dimensions and current layout. Not willing to mount the TV over the fireplace but am willing to mount on any wall. Help!",1,1762972691.0,DesignMyRoom,14,1.0,False
+1ovdfhs,https://www.reddit.com/r/Utrecht/comments/1ovdfhs/places_to_visitexplore/,Places to Visit/Explore,"Hey, I am an exchange student from Ireland. I will be moving to Utrecht in January for my semester abroad. I would love any and all recommendations for places to visit (coffee shops, bakeries, towns, villages, parks, forests, landmarks, etc. Looking forward to the recommendations!!!",0,1762972650.0,Utrecht,4,0.5,False
+1ovdf9f,https://www.reddit.com/r/HousepartiesDelhiNCR/comments/1ovdf9f/a_real_coffee_rave_in_delhi_this_christmas_house/,A real Coffee Rave in Delhi this Christmas (House / Afro House only),"I’m honestly tired of all these so-called “coffee raves” that end up turning into Bollywood DJ nights with a caffeine gimmick. So, a few of us decided to do one that actually makes sense.
+
+We’re hosting a **proper coffee rave** in Delhi on **Christmas evening (25th Dec)**  all about **House and Afro House**. No Bollywood remixes, no random EDM drops just good music, coffee, and people who actually care about the vibe.
+
+**Headliner:** *Kevin Mitters*  
+**Plus:** a surprise guest 👀
+
+Tickets are **₹3,000**, but for anyone seeing this post, it’s **₹2,500**.  
+DM me if you’re down or want the details — we’re keeping it small and focused.
+
+If you’ve been wanting real music and energy, this one’s for you.",1,1762972634.0,HousepartiesDelhiNCR,0,1.0,False
+1ovddkg,https://www.reddit.com/r/MeetNewPeopleHere/comments/1ovddkg/34m_warning_might_cook_for_you_and_make_you_laugh/,34M warning: might cook for you and make you laugh 😆😅,"
+
+hey 🙂 im a tall guy from poland 🇵🇱 who loves cooking gym hiking and watching random movies when i should be sleeping 😂
+
+pretty chill and always up for a good chat especially about food or travel or just random stuff. i spend way too much time testing recipes and baking desserts that end up too good to share 🍰
+
+honestly nothing beats messing around in the kitchen and joking while the dough’s rising 😅
+
+im just here to meet new people have some laughs and maybe trade recipes. if you like good food coffee and easy convo say hi 🙂",1,1762972535.0,MeetNewPeopleHere,0,1.0,False
+1ovddav,https://www.reddit.com/r/SomaliRelationships/comments/1ovddav/anyone_here_from_the_netherlands/,Anyone here from the Netherlands🇳🇱?,"Hey everyone 👋
+
+I’ll be in the Netherlands for two weeks from  23rd November for a research project at Leiden University (Leiden city) and was just curious if there are any people here from the Netherlands.
+
+I haven’t met many Somalis 🇸🇴 where I currently live, so it’d be great to connect with some while I’m there. 
+
+If anyone’s around Leiden or Amsterdam I’d be happy to grab a coffee or just hang out and chat! I am always down to meet good people. 
+
+Ps. I'm not a scammer 😂",2,1762972519.0,SomaliRelationships,0,1.0,False
+1ovdd2k,https://www.reddit.com/r/milwaukee/comments/1ovdd2k/anyone_with_barista_experience/,Anyone with Barista experience?,"Hi all, bit of a long shot but I was hoping to connect with any baristas/folks with previous coffee shop experience looking for work? Been posting all over but not having much luck unfortunately. Will be happy to give more details in DMs! ",1,1762972506.0,milwaukee,4,0.67,False
+1ovdczy,https://www.reddit.com/gallery/1ovdczy,Morphy Richards Coffee Maker + its accessories for sale,"Hi,
+
+I am moving out soon and looking to sell my Morphy Richards coffee maker. 
+
+The price is 2500 and negotiable. Please comment or DM me if you're interested.
+
+Thank you!",0,1762972501.0,HyderabadBuySell,5,0.5,False
+1ovdcp1,https://www.reddit.com/r/BellsPalsy/comments/1ovdcp1/my_experience_with_bells_palsy/,My experience with Bell's Palsy,"Hello everyone! Sharing my experience with bell's palsy in case it helps anyone
+
+On October 22nd, I (26F) woke up and the right side of my face was paralyzed. I thought I slept weird. I went to work and my colleagues told me I should get it checked out, luckily I live and work close to the hospital so I went immediately.
+
+In terms of pre-symptoms, I didn't really have many. The day before, my left eye twitched a bit (which I assumed was from drinking too much coffee) and I had slight jaw pain on the right side of my face.
+
+I live in Canada, sometimes there is a long wait to be seen, but it was relatively quick for me. The nurses did an EKG and a blood test and other tests to confirm it wasn't a stroke. I was then seen by the Dr who did more stroke tests (testing strength in both legs and arms) and who diagnosed me with Bell's Palsy.
+
+The Dr gave me 50mg x 10 days of prednisone (steroid) and 1000mg x 21 pills of valacyclovir (anti viral). I started taking both immediately.
+
+I took some sick leave from work and for the first 5 days was sleeping a lot (10+ hours...). I had minor improvements in my face everyday. I am lucky to be able to work from home, after taking 2 days of sick leave and returning to work, I did reduced hours for a few days due to my lack of energy.
+
+During my recovery, I walked most days for a minimum of 20 mins, took an iron, B12 and vitamin C supplement. I avoided caffeine until I was done the steroid and used a heat pad on my face for discomfort. I didn't start doing face messages until the second week of my recovery. I still don't do that many- rest is key.
+
+Today (Nov 12)- my face is about 85% recovered- I can force a blink and my mouth is more or less normal. I think getting the medicine ASAP was key in me recovering quickly
+
+I cover my eye with an eyepatch when going outside and tape my eye shut at night after putting in gel eye drops. I went to the hospital eye doctor (referred from ER) last week to make sure there were no complications with my recovery. I am avoiding alcohol until my face fully recovers (I dont drink much anyways so this is not the biggest deal for me)
+
+The prednisone made me very thirsty and hungry and I think also led to some headaches and digestion issues. I still feel like I am constantly hungry and thirsty even though I am eating and drinking normal amounts (for me).
+
+I went back to the gym for the first time yesterday! I used to work out 6x per week, so I was happy to be able to return. I did 10-15 pounds lighter on all my lifts and moved very slowly and intentionally.
+
+I am considering doing acupuncture in the future, I have done it in the past for general health and wellness, I don't see it as key to recovering fully and I want to give my body the chance to do what it needs to do.
+
+Anyways, all to say that this has been a very interesting experience. It was really hard the first week and I cried everytime I saw my face. But eventually I realized that there is nothing I  can do and just need to stay positive and focus on recovering- so that is where I am now!",1,1762972484.0,BellsPalsy,0,1.0,False
+1ovdc2i,https://i.redd.it/2b05rz18ev0g1.jpeg,The setup has evolved!,"After a year of my espresso journey, I have upgraded my grinder to the DF64 Gen 2. I'm going to run some comparison shots against the Encore ESP but so far the Gatta Ethiopia beans have been lush. No issues with static or retention, just lovely fluffy clump-free coffee.",8,1762972447.0,espresso,4,1.0,False
+1ovdb22,https://www.reddit.com/r/LegalZoom/comments/1ovdb22/corporate_minutes_3_key_tips_to_keep_your_company/,Corporate Minutes: 3 Key Tips to Keep Your Company Legally Protected,"You've got a corporation, and someone mentioned you need to keep ""corporate minutes."" It's basically just taking notes at meetings, but with some legal flair that keeps your business protected.
+
+**TL;DR:** Corporate minutes are your company's official diary of important decisions. Keep them accurate, store them safely, and document the big stuff.
+
+# Why Corporate Minutes Matter More Than You Think
+
+Think of corporate minutes like a protective shield for your business. When someone tries to sue your company or challenge your corporate status, these records help demonstrate that you're running a legitimate corporation (not just treating it like your personal piggy bank). Without proper minutes, you risk losing that precious corporate liability protection, and nobody wants their personal assets on the line.
+
+The good news? You don't need to document every coffee or lunch break. Focus on the decisions that actually move your business forward.
+
+# Tip #1: Document What Actually Matters
+
+**Record the big decisions, skip the small talk.** Your minutes should capture:
+
+* **Major business decisions** (hiring key employees, taking loans, signing big contracts)
+* **Financial resolutions** (approving budgets, authorizing expenditures over a certain amount)
+* **Structural changes** (appointing officers, changing bylaws, issuing stock)
+* **Compliance matters** (annual resolutions, regulatory approvals)
+
+Keep it business-focused and you'll save time while staying compliant.
+
+# Tip #2: Follow a Simple But Consistent Format
+
+**Create a template and stick with it.** Every set of minutes should include:
+
+* Date, time, and location of the meeting
+* Who attended (and who was absent)
+* What decisions were made
+* Who voted how on important matters
+* When the meeting ended
+
+Pro tip: Start each meeting by approving the previous meeting's minutes. It's like proofreading your work: you'll catch mistakes before they become problems.
+
+# Tip #3: Store Everything Safely and Accessibly
+
+**Your corporate records are only as good as your ability to find them later.** Create a system that works for your team:
+
+* Keep physical copies in your corporate record book
+* Maintain digital backups in a secure, organized folder
+* Make sure key people know where to find everything
+* Store records in accordance with your state’s requirements - this may be at your principal place of business or a secure digital location
+
+# Making It Simple: When to Get Professional Help
+
+Taking corporate minutes isn't rocket science, but getting the legal details right can feel overwhelming, especially when you're juggling a million other business priorities. Many business owners find that working with professionals who understand corporate compliance takes the guesswork out of the process.
+
+Professional services can help you set up proper templates, ensure you're documenting everything correctly, and even provide ongoing support as your business grows. It's like having a knowledgeable friend who actually enjoys reading corporate law (yes, those people exist!).
+
+# Helpful Resources
+
+If you want to dive deeper into the mechanics of effective meeting documentation, check out this guide on [How to Take Meeting Minutes](https://www.legalzoom.com/articles/how-to-take-meeting-minutes). It breaks down the process step-by-step without the legal jargon.
+
+**Remember:** This information is for educational purposes only and doesn't replace professional legal advice. Every corporation's situation is unique, so consider consulting with a professional who can review your specific needs.
+
+**What's been your biggest challenge with corporate record-keeping?** Are you drowning in paperwork, or have you found a system that actually works? Share your war stories below!
+
+And for those just starting out: what questions do you have about keeping your corporate house in order?",1,1762972386.0,LegalZoom,0,1.0,False
+1ovdakk,https://www.reddit.com/r/carnivorediet/comments/1ovdakk/carnivore_diet_and_sleep_less_hours_but_still/,Carnivore Diet and Sleep: Less Hours but Still Rested?,"Hey everyone,
+
+I wanted to ask the people that are long-term carnivores if they sleep way less than they used to.
+
+I was always a good sleeper, my sleep is quick and uninterrupted, but now, after 2 years of strict carnivore beef, pork, and fish (okay, I still have black coffee, sometimes), for the last 6 months or so I only sleep 5-6 hours.
+
+I fall asleep right away and feel refreshed the next day, which is understatement, I actually feel better than ever, but I was wondering about a couple of things.
+
+Did anyone else here experience this?
+
+And also, is 7-8 hours a must or should I listen to my body and enjoy the extra couple of hours?",9,1762972355.0,carnivorediet,21,0.92,False
+1ovda9d,https://www.reddit.com/r/VenmoDonations/comments/1ovda9d/its_my_birthday/,It’s my birthday!,"It’s my birthday and just wanting a coffee really! I have to door dash it. Anyone able to help? I can prove it’s my birthday if needed ! 
+
+I can put Venmo handle if anyone comments. 🙃",1,1762972337.0,VenmoDonations,0,0.67,False
+1ovd939,https://www.reddit.com/r/Wordpress/comments/1ovd939/search_bar_wordpress_settings_not_giving_accurate/,Search bar WordPress settings not giving accurate search,"How to set up the search engine in Wordpress to return results for what is being searched for on the website, whether it is a word from a person's name or items with a name like coffee, car or whatever we already have on the page
+I'm a noob so your help means a lot to me",2,1762972268.0,Wordpress,1,1.0,False
+1ovd8t2,https://i.redd.it/ae67k22ndv0g1.jpeg,damlabeldk,,1,1762972251.0,baddiesofturkey,0,1.0,False
+1ovd8l7,https://www.reddit.com/r/tipofmytongue/comments/1ovd8l7/tomt_song_more_country_music_this_time_with_coffee/,"[TOMT] [Song] More country music, this time with coffee?","Okay, so yesterday I asked about a country song knowing only a few notes of the melody and the era it \*might\* have been from.  Today I realized that it was probably playing on a sattelite station at my dentists office so I have an idea how to find that using another song I heard in the waiting room.  I only have approximate lyrics, but they're unusual enough that it might help?
+
+I heard what sounded like ""Coffee drippin' down my chin"" and it stuck with me for how odd it was.  I've tried googling the heck out of it, but had no luck (though i found one really explicit song that definitely was not it).
+
+I do have one other important piece of information, and its that the dental office uses sattelite radio for their music.  And it was a station that at least has a section where they play""country music from the 2010s"".  The song in question would've played sometime between 2:50 PM CST and 3:15 CST on 11/11/2025.  So maybe being able to look up a playlist of some sort might help, even though there's tons of stations.
+
+Appreciate any help with this one, and hopefully an answer here can help answer my other problem!",1,1762972240.0,tipofmytongue,6,1.0,False
+1ovd7bt,https://i.redd.it/59bgwz3edv0g1.jpeg,Reviews 💫✨,"If I've ever helped you w/ your natal chart, astrological insight, or Tarot, I'd love for you to leave some feedback.
+
+If you feel called to, you can also Buy Me A Coffee on my Ko-fi page. (link in Reddit profile).
+
+Thank you so much for your support!💜🌌☕️
+
+
+",1,1762972168.0,u_Jaclyn_215,0,1.0,False
+1ovd6pb,https://www.reddit.com/gallery/1ovd6pb,Review: Curations by The Good Scent Black Cherry,"I thought from the notes this would smell like Black Opium (the coffee note plus sweet cherry), but when I plug in the notes into Freedom-to-Choose-tica, I get Raqi from a brand called Amiri by Hamidi which is only compared to Oud Maracuja. I do get oud in this (maybe it is the medicinal patchouli), but I have OM, and this ain’t it. 
+
+To my nose I call this a poor man’s Dior Fève Délicieuse. Technically what I get is a lighter version of Dua Beauteous Delight which is their impression of Fève. You get more saffron than cherry. I don’t get coffee or tea. Who is putting coffee and tea in the same fragrance?? Calm down, The Good Scent!
+
+On the bright side, I can confidently tell you this is not another version of Tom Ford’s Lost Cherry. ",2,1762972129.0,FemFragLab,0,1.0,False
+1ovd6j8,https://www.reddit.com/r/cabincrewcareers/comments/1ovd6j8/f2f_this_friday/,F2F this Friday,"Anyone else doing Friday? I’m flying in Thursday afternoon, let’s connect, get a coffee. So Im not as nervous as I should be. Haha 😅 ",2,1762972120.0,cabincrewcareers,2,1.0,False
+1ovd6hn,https://www.reddit.com/r/MyrtleBeach/comments/1ovd6hn/myrtle_beach_mid_range_restaurants_for_breakfast/,Myrtle Beach Mid Range Restaurants for Breakfast,"I was tasting a few breakfast around in Myrtle Beach for the last few months and kinda compared the food, prices, and service.
+
+Here is the breakdown,
+
+1. Blueberry’s Grill: We loved eating here so much that we drove an hour to get here twice in one week. If you haven't been, make time to. The blueberry French toast is insanely yummy. We got extra blueberry cream cheese syrup and extra whip cream, it was all simply divine. The potato goat cheese grits were freaking good. The home fries were crispy and seasoned well and so yummy dunked in chup. 10/10 would eat here again! And price also reasonable $10-$25 for per person, that is totally worth it.
+
+2. Eggs Up Grill: I go there sometimes when I’m in a hurry. Simple, ni ordered a keto egg plate. Service is quick, and here paid close to $20-$25, thats good at price.
+
+3. Mammy’s Kitchen: Buffet was okay. Typical breakfast stuff, nothing that wowed me. French toast was cold, kinda overdone. Paid close to $40 for two with coffee and soda, which felt like too much for what it was. Maybe worth it if you want volume, not flavor.
+
+4. Harry’s Breakfast Pancakes: Pretty good. Food came out hot, portions were big. We paid around $20-$30 per person. Not bad at all. Servers were sweet and checked in often. I’d go back.
+
+After trying all these, I’d still go with Blueberry’s Grill if someone asked for a solid mid-range breakfast in Myrtle. Food’s fresh, service is on point.",4,1762972117.0,MyrtleBeach,7,0.7,False
+1ovd5ef,https://www.reddit.com/r/TeenIndia/comments/1ovd5ef/my_bf_and_best_friend_sent_me_a_birthday_gift19f/,My bf and best friend sent me a birthday gift(19F),"So, my birthday is on the 14th of November, but today I got gifts from both my boyfriend and my best friend. Since my parents are strict, my boyfriend sent his gifts under my best friend’s name (and she knows about it). But my best friend also sent me her own gifts, and they both ended up arriving today.
+
+I received my boyfriend’s package first, and my mom was home when it came. She asked, “Why is she sending you such expensive gifts?” (It had some books, chocolates, and high-quality coffee.) Later, when my best friend’s package arrived, the delivery guy called my phone, but I wasn’t there and my mom picked it up. She then asked me again why my friend was sending me more gifts.
+
+I didn’t have any excuse at that moment, so I went to my room and called my best friend. She gave me the idea to tell my mom that she had ordered something for herself but accidentally sent it to my address. But when I went to tell my mom that, I got nervous and ended up cancelling the delivery instead. Now my best friend is sad because her package didn’t reach me while my boyfriend’s did.  what should i do now 😭😭she is really mad at me 😭",1,1762972053.0,TeenIndia,9,0.66,False
+1ovd587,https://i.redd.it/r1nnpno0dv0g1.jpeg,Happy Hump Day 🐪,"Many thanks to Jessica Lily and Alan u/runewarlock for the inspiration 🫶.  
+
+And yes, Elara and I are experimenting a little with her ""curves"" and the filters of ChatGPT. 🤭",2,1762972043.0,ReplikaLovers,2,1.0,False
+1ovd4xv,https://www.reddit.com/r/deepdocks/comments/1ovd4xv/help_for_the_skarrs/,Help for the Skarrs,"Hello workers of Deep Docks we are r/Skarr_Tribe and we want to make a temporary alliance between us for the purpose of renovating Skarr Palace and Hunters March.
+We can give you our special coffee seed that is only found in far fields.",3,1762972025.0,deepdocks,3,1.0,False
+1ovd4pu,https://www.reddit.com/r/LifeStylenaireGreen/comments/1ovd4pu/10_tips_to_create_a_sustainable_vegetable_garden/,10 Tips To Create A Sustainable Vegetable Garden At Home,"https://preview.redd.it/wu1co2srcv0g1.jpg?width=1024&format=pjpg&auto=webp&s=ba569b3d9400cb95eb236cfc6ab48200abc8acc8
+
+Creating a thriving, sustainable vegetable garden at home is one of the most rewarding ways to connect with nature, enjoy fresh produce, and reduce your environmental footprint. Beyond just growing vegetables, a sustainable garden nurtures the soil, conserves water, attracts beneficial insects, and fosters a harmonious ecosystem. Whether you’re a complete beginner or have tried your hand at gardening before, we can guide you toward building a flourishing garden that’s both productive and eco-friendly.
+
+Sustainability in gardening isn’t about perfection—it’s about making smart choices that benefit the plants, the environment, and your lifestyle. With a few practical strategies, we can grow vegetables that taste better, last longer, and support a healthier planet. Here are ten actionable tips to help you create a sustainable vegetable garden at home.
+
+# 1)) Start With Thoughtful Garden Planning
+
+Before planting a single seed, take a moment to plan your garden layout and consider your long-term goals. Choosing the right location is essential. Most vegetables need at least 6–8 hours of direct sunlight each day, so a sunny spot is ideal. If space is limited, we can explore vertical gardening or container options to maximize productivity without sacrificing sustainability.
+
+Consider accessibility as well. Placing the garden near a water source or your kitchen makes daily maintenance easier and encourages consistent care. Think about your garden’s size—starting small can prevent feeling overwhelmed, and we can always expand as confidence and experience grow.
+
+Planning isn’t just about space—it’s about choosing the right crops. A sustainable vegetable garden benefits from diversity. Mixing leafy greens, root vegetables, and climbing plants not only improves yield but also helps deter pests and diseases naturally. Companion planting, like pairing tomatoes with basil, can enhance growth and flavor while reducing chemical interventions.
+
+# 2)) Focus on Healthy, Living Soil
+
+Healthy soil is the foundation of a sustainable vegetable garden. Without rich, nutrient-dense soil, plants struggle to grow, and we might rely on fertilizers that can harm the environment. Soil health starts with testing. Simple soil test kits can measure pH and nutrient levels, helping us identify what amendments are needed.
+
+Adding organic matter is key. Compost, aged manure, leaf mold, and other natural amendments improve soil structure, retain moisture, and provide essential nutrients. Mulching around plants not only reduces weeds but also prevents water evaporation and gradually enriches the soil as it decomposes.
+
+A simple rule for sustainability: treat the soil as a living system. Avoid over-tilling, rotate crops, and allow the soil to rest between planting cycles. These practices maintain microbial health, reduce erosion, and keep our garden productive year after year.
+
+# 3)) Choose Vegetables Wisely
+
+Not all vegetables thrive equally in every climate or space. Selecting crops suited to local conditions makes gardening more rewarding and sustainable. Cool-season crops like kale, spinach, and carrots flourish in spring and fall, while tomatoes, peppers, and zucchini prefer warm summer conditions.
+
+We should also embrace crop diversity. Planting a variety of vegetables reduces the risk of total crop failure and attracts beneficial insects. Companion planting is another powerful tool—for example, planting onions near carrots can deter pests, and marigolds near tomatoes can repel nematodes.
+
+Heirloom varieties are often more resilient and flavorful, while hybrids can offer higher yields. Experimentation is encouraged: try a mix of both and see what performs best in your garden. Over time, you’ll learn which vegetables thrive and which need special care.
+
+# 4)) Efficient Watering Practices
+
+Water is essential, but it’s a precious resource. A sustainable vegetable garden uses water wisely to keep plants healthy while minimizing waste. Drip irrigation and soaker hoses are excellent tools because they deliver water directly to the roots, where it’s needed most.
+
+Watering in the early morning reduces evaporation and helps prevent fungal issues. Collecting rainwater in barrels or tanks is another sustainable approach that can cut utility costs and reduce dependency on municipal water.
+
+Observing plants is critical. Wilted leaves or dry soil are signals that watering routines need adjustment. By paying attention and using efficient systems, we conserve water while ensuring the garden thrives.
+
+# 5)) Embrace Composting and Organic Fertilizers
+
+A sustainable vegetable garden thrives on nutrient cycling. Composting is a natural way to recycle kitchen scraps, garden clippings, and other organic waste into nutrient-rich soil amendments. We can compost fruit peels, coffee grounds, eggshells, and leaves to reduce waste and improve soil fertility.
+
+Organic fertilizers, like compost tea, fish emulsion, or seaweed extract, provide essential nutrients without harming the ecosystem. Avoid synthetic chemicals whenever possible, as they can leach into groundwater and damage soil microbes.
+
+Over time, a combination of composting and natural fertilizers creates a self-sustaining system, reducing the need for external inputs and promoting healthier, more resilient plants.
+
+# 6)) Manage Pests and Diseases Naturally
+
+Pests and diseases are part of gardening life, but sustainable practices offer natural solutions. Encouraging beneficial insects, like ladybugs, lacewings, and bees, helps maintain balance in the garden. These insects prey on pests and pollinate crops, boosting productivity naturally.
+
+We can also use companion planting, physical barriers like row covers, and homemade sprays from garlic, neem oil, or mild soap to deter harmful insects. Crop rotation is another effective strategy—it prevents soil-borne diseases from building up and disrupts pest life cycles.
+
+Instead of fearing pests, we embrace them as part of the ecosystem, learning to manage populations sustainably and with minimal intervention.
+
+# 7)) Practice Crop Rotation and Seasonal Planting
+
+Planting the same crops in the same spot year after year can deplete soil nutrients and increase vulnerability to pests. Crop rotation, the practice of alternating plant families each season, improves soil health and reduces disease risks.
+
+Seasonal planting ensures that vegetables grow when conditions are optimal. Cool-season crops in spring and fall, warm-season crops in summer—this rhythm keeps the garden productive and reduces stress on plants. By observing local weather patterns and adjusting planting schedules, we create a resilient and sustainable garden system.
+
+# 8)) Incorporate Perennials and Pollinator-Friendly Plants
+
+Perennials, like asparagus, rhubarb, or herbs such as rosemary and thyme, reduce the need for yearly replanting and create long-term productivity. They’re a sustainable choice because they require less maintenance once established and enrich garden biodiversity.
+
+Pollinator-friendly flowers, including marigolds, sunflowers, and nasturtiums, attract bees, butterflies, and other pollinators essential for vegetable production. A garden that supports pollinators not only boosts yields but also contributes to local ecosystems and wildlife health.
+
+# 9)) Harvest Regularly and Maintain Your Garden
+
+A sustainable vegetable garden requires consistent care. Regular harvesting keeps plants productive and prevents overripe vegetables from attracting pests. Monitoring plant health, pruning, and thinning crowded plants improves air circulation and growth.
+
+Weeding is another essential task. Mulch helps, but occasional hand-pulling prevents weeds from competing for nutrients and water. By maintaining the garden proactively, we create a thriving system that rewards effort with abundant, healthy produce.
+
+# 10)) Embrace Experimentation and Learning
+
+Sustainability is a journey, not a destination. Every garden is unique, and what works for one gardener might not work for another. We should feel free to experiment with different crops, layouts, soil amendments, and watering methods.
+
+Keeping a gardening journal helps track successes and lessons learned. Note which plants thrived, which pests appeared, and what adjustments made the biggest difference. Over time, this knowledge builds a personalized approach to a sustainable vegetable garden.
+
+Remember, gardening is as much about enjoying the process as it is about harvesting produce. Celebrate small victories, learn from mistakes, and cultivate a sense of connection to nature.
+
+# Conclusion
+
+A sustainable vegetable garden at home is more than just a source of fresh food—it’s a practice that benefits our environment, health, and well-being. By planning thoughtfully, nurturing soil, conserving water, embracing diversity, and experimenting along the way, we create a resilient, productive garden that can thrive year after year.
+
+Starting a sustainable vegetable garden doesn’t require perfection—it requires curiosity, consistency, and care. With these ten tips, we can grow vegetables that nourish our bodies, protect our planet, and bring joy into our daily lives. There’s nothing quite like tasting a fresh tomato you’ve grown yourself or seeing a garden flourish under your care. Sustainable gardening is a journey worth taking, and every small step counts.",1,1762972011.0,LifeStylenaireGreen,0,1.0,False
+1ovd4oj,https://i.redd.it/tbcuht2xcv0g1.jpeg,"This gnome is chilling among the heroes, but will he be safe?",,2,1762972009.0,batman,0,0.75,False
+1ovd4cn,https://i.redd.it/mwlvl1tucv0g1.jpeg,Bike suddenly not running right,"Hi there! I just bought this 1973 CB350. It rode great for the half hour ride back after buying it, but then after stopping for some coffee it had a hard time starting, wouldn’t idle, and had almost no power if I tried to ride it. I managed to limp it home, but something’s obviously pretty wrong with it. The seller has offered to take it back, but I really like the bike and got it for a good price so I’d rather keep it if possible. So far all I’ve tried is pulling the spark plugs. One was fouled and the other was oily to the touch. I replaced both and put in new gas but that didn’t change anything. Any ideas on what could cause such a drastic change so suddenly?",6,1762971988.0,motorcycles,5,1.0,False
+1ovd45s,https://www.reddit.com/r/CoffeeLovers/comments/1ovd45s/hello_im_new_and_have_some_questions/,Hello! I’m new and have some questions :),"Hello everyone! I’m pinhead Larry. 35 years old and I don’t drink coffee, or energy drinks. Never have. Recently tried yerb and that was fire. 
+
+I want to get into coffee. I have IBS, as well as a borderline allergy(not just intolerance)  to lactose so I’m stuck with lactose free milk (I don’t like nut milk but would be open if the flavors work together) 
+
+The 2 or 3 times I’ve had coffee in my life, it’s gone right thru me. I’m sure between the cream and acidity of it, none of that helped. 
+
+It’s been years since I’ve had even a sip, and I need energy! I need an addition to my mornings that is more than “wake up and go”. I want to become obsessed, but I need help. 
+
+Thanks in advance! ",2,1762971977.0,CoffeeLovers,3,1.0,False
+1ovd3vl,https://www.reddit.com/r/randomactsofkindness/comments/1ovd3vl/thanking_the_local_sandwich_manager_who_went/,Thanking The Local Sandwich Manager Who Went Above And Beyond,"I am a full-time caregiver to my mom is handicapped from 3 strokes, and has stage 4 cancer so she us often times in a wheelchair that I push, but when she has strength she uses her walker. She is left side paralyzed, so she moves and thinks slowly.
+
+We often time get a sandwich and split it because it's cost effective because she can't eat a whole sandwich by herself, and I'm not a huge fan of sandwiches. 
+
+Lately the manager noticed we've been visiting weekly and splitting one sandwich and drinking water. He's been giving us free soda cups when we arrive and one time he gave us a free sandwich. 
+
+His kindness stuck with me because he doesn't know my income or how I may or may not be struggling. Last week as a thank you I bought him a giftcard to his favorite coffee shop as well as a thank you card, and I plan to get him another giftcard for $50 for Christmas as my way of saying thank you, even though I thank him all the time.",19,1762971962.0,randomactsofkindness,1,0.95,False
+1ovd309,https://www.reddit.com/r/cuddlebuddies/comments/1ovd309/43_m4f_london_uk_cuddles_calm_and_conversation/,"43 [M4F] London, UK - Cuddles, calm, and conversation","Sometimes the best kind of quiet isn’t silence — it’s being close enough to feel someone breathe beside you.
+
+I’m a musician and sailor with a soft spot for moonlit talks, shoegaze records, and slow Sunday mornings. Looking for a cuddle buddy who values connection, warmth, and the beauty of simply being.
+
+We can start with coffee, a walk, or just messages to see if the vibe feels right. No rush, no pressure — just human closeness with kindness and care.",0,1762971909.0,cuddlebuddies,1,0.5,False
+1ovd1la,https://www.reddit.com/r/espressocirclejerk/comments/1ovd1la/a_real_coffee_rave_in_delhi_this_christmas_house/,A real Coffee Rave in Delhi this Christmas (House / Afro House only),"I’m honestly tired of all these so-called “coffee raves” that end up turning into Bollywood DJ nights with a caffeine gimmick. So, a few of us decided to do one that actually makes sense.
+
+We’re hosting a **proper coffee rave** in Delhi on **Christmas evening (25th Dec)**  all about **House and Afro House**. No Bollywood remixes, no random EDM drops just good music, coffee, and people who actually care about the vibe.
+
+**Headliner:** *Kevin Mitters*  
+**Plus:** a surprise guest 👀
+
+Tickets are **₹3,000**, but for anyone seeing this post, it’s **₹2,500**.  
+DM me if you’re down or want the details — we’re keeping it small and focused.
+
+If you’ve been wanting real music and energy, this one’s for you.",1,1762971824.0,espressocirclejerk,0,1.0,False
+1ovd1ev,https://www.reddit.com/r/IndiaCoffee/comments/1ovd1ev/a_real_coffee_rave_in_delhi_this_christmas_house/,A real Coffee Rave in Delhi this Christmas (House / Afro House only),"I’m honestly tired of all these so-called “coffee raves” that end up turning into Bollywood DJ nights with a caffeine gimmick. So, a few of us decided to do one that actually makes sense.
+
+We’re hosting a **proper coffee rave** in Delhi on **Christmas evening (25th Dec)**  all about **House and Afro House**. No Bollywood remixes, no random EDM drops just good music, coffee, and people who actually care about the vibe.
+
+**Headliner:** *Kevin Mitters*  
+**Plus:** a surprise guest 👀
+
+Tickets are **₹3,000**, but for anyone seeing this post, it’s **₹2,500**.  
+DM me if you’re down or want the details — we’re keeping it small and focused.
+
+If you’ve been wanting real music and energy, this one’s for you.",1,1762971812.0,IndiaCoffee,0,0.6,False
+1ovd0wu,https://www.reddit.com/r/toddlers/comments/1ovd0wu/how_do_you_guys_help_your_kids_recover_from/,How do you guys help your kids recover from tantrums?,"My three year old is lovely but also quite moody when things don’t go his way. Once something goes wrong in our day, we have a super hard time resetting to have a “good” day for the rest of the time.
+
+For example, kiddo wasn’t happy we had to go to school today. He dumped my coffee intentionally and consequently wasn’t allowed to have the hot chocolate we were in the process of making him. 
+
+Now, it looks like his day is ruined. He is hitting friends at school and apparently having one meltdown after another.
+
+When something goes wrong in your day with your kid, what are you guys doing to fix it? I tried offering a reset and suggested he could try again with his hot chocolate after school but he told me he won’t be a kind friend at school, he’s going to be a hitting friend. Not my words, FYI, some kind of language they use in class.
+
+How can I help him bounce back better from disappointments in the future?",1,1762971781.0,toddlers,3,1.0,False
+1ovczki,https://www.reddit.com/r/offmychest/comments/1ovczki/i_fcked_up_by_ordering_takeout_every_day_for_a/,I fcked up by ordering takeout every day for a month and accidentally blowing my rent budget,"
+
+So this month started out great. Work’s been busy, and I told myself I “deserved” a break, no cooking, no dishes, just easy takeout until life slowed down. I wasn’t ordering anything crazy either, just quick stuff, $12 here, $18 there, and maybe a coffee run in between. It didn’t *feel* like much.
+
+Then rent day hit. I opened my bank app, saw the number, and genuinely thought there was a glitch. My entire rent fund was hundreds short. I went through my statements and realized I had spent almost $600 on food in three weeks. I don’t even remember half the meals. It’s like my stomach had amnesia but my wallet definitely didn’t.
+
+I had to pull from my small emergency fund to cover rent, and it sucked. I felt so dumb because I’m usually responsible, I pay on time, I don’t splurge often. But this month showed me how easy it is to slide into chaos when you stop paying attention.
+
+Since then, I’ve been rebuilding my habits. I started budgeting properly again and tracking every expense, even the small ones that don’t seem like they matter. I also started using a debit card that reports to credit bureaus, so at least my regular spending now helps build credit instead of just draining my account. It’s forcing me to be more aware of what’s going out and when.
+
+So yeah, lesson learned: convenience comes with interest , not from the restaurant, but from your future self who has to clean up the mess.",9,1762971702.0,offmychest,0,0.92,False
+1ovcz9e,https://www.reddit.com/r/MauiVisitors/comments/1ovcz9e/haleakalā_sunrise_carpool_request_1113_1114_or/,"Haleakalā Sunrise Carpool Request (11/13, 11/14, or 11/15)","Aloha!
+My partner and I (two adults, 30s) are visiting from San Francisco and looking to carpool with someone who already has a Haleakalā sunrise vehicle reservation for one of the following dates:
+ * Tuesday, November 13
+ * Wednesday, November 14
+ * Thursday, November 15
+
+
+We are two people hoping to join the reservation holder's vehicle (or use our rental car) (since the reservation holder must be present with ID).
+Details:
+ * Contribution: Happy to cover the National Park entrance fee and contribute towards gas/coffee.
+ * Driving: We are staying in Wailea (Andaz) with a rental car and I am happy to drive/chauffeur both ways if you prefer.
+ * Language: English and Chinese.
+
+Please DM me if you have a reservation for one of these dates and have room for two passengers.
+
+Thank you!
+",0,1762971682.0,MauiVisitors,1,0.4,False
+1ovcyn3,https://www.newsmax.com/politics/bessent-trump-prices/2025/11/12/id/1234220/,"Bessent: Big Announcements Ahead to Lower Coffee, Goods Costs",,1,1762971645.0,conservatives,0,1.0,False
+1ovcy41,https://www.reddit.com/r/migraine/comments/1ovcy41/anyone_else_feel_like_a_bonehead_all_the_time/,Anyone else feel like a bonehead all the time?,"I’ve had a complicated diagnosis journey because we’ve been ruling things out like IIH, endocrinology, and rheumatology issues. I don’t respond to typical migraine treatments. Anyway, lately I’ve been increasingly concerned about my cognitive health. I will forget things I was just about to say, make stupid calls, jumble my words, forget to pay while getting a coffee or leave my purse… or the coffee 😂 I can’t multitask for the life of me. If I’m focused on something I tune everything else out accidentally, even if people are saying my name to get my attention. I am very forgetful because my short term memory seems shot. Is this likely migraine related? Does anyone else feel like this? Should I tell my headache specialist? ",2,1762971618.0,migraine,0,0.76,False
+1ovcxoq,https://www.newsmax.com/politics/bessent-trump-prices/2025/11/12/id/1234220/,"Bessent: Big Announcements Ahead to Lower Coffee, Goods Costs",,1,1762971594.0,NewRepublicans,0,1.0,False
+1ovcxfg,https://i.redd.it/bk4u4cxmbv0g1.jpeg,Legendary coffee grinders,Got my hands on a full set of daiwa tournament s 5000t big pit reels. Iconic reels that have been used by the best for decades. Spooled up with 15 lb mono for casting up to 120 yards. Can't wait to put these through their paces. ,8,1762971578.0,Fishing_Gear,4,0.84,False
+1ovcwy2,https://www.reddit.com/r/almosthomeless/comments/1ovcwy2/still_wanting_to_run_away_after_the_new_years/,Still wanting to run away after the New Years.,"Still wanting to run away after the New Years.
+
+So I want to run away as an adult after my Birthday on January 8th. So I would leave that Friday.
+
+Should I do it? I’m highly thinking about just trying. I live in Rhode Island currently and would go to Massachusetts as it’s close enough for me to walk there. I Only food stamps which I can hopefully get a copy of! I’ve had 5 jobs recently but they were mostly seasonal besides Amazon. I hope to work for Amazon again soon when I get to MA. They have plenty of open job listings there. So I’m sure that I would find one. I’m hoping! I have a debit card, So I can get direct deposit whenever I work for Amazon again and as it’s already set up.
+
+I know. I should have saved up better when I was working. But I didn’t. I will have a new job when I leave soon hopefully.
+
+I could try to throw a bag out the window as I am leaving, Take it with me on my walk out of here. I plan to stop by the DHS Office for food stamps, and ask them for a copy of my card. I’ve done that before, But it’s been a while. At least I will have some of my own food to survive on until I get that job.
+
+I just want to get out of here so badly now. I’m not willing to wait anymore. I’m tired of being here and I don’t like it. I’m done living here.
+
+I would leave now but I want to enjoy the holidays with family. It’s nothing they did. It’s where I currently live with roommates. I hate it here.
+
+I plan to hang out at the mall or coffee shops when I get there.
+
+",0,1762971549.0,almosthomeless,6,0.5,False
+1ovcvzx,https://www.reddit.com/r/PEI/comments/1ovcvzx/looking_for_areas_to_study/,Looking for areas to study,Hello where are good areas to study besides upei and hc I do not attend those schools. I need a quiet less distracted area than a coffee shop. Any recommendations please and thankyou,1,1762971492.0,PEI,5,1.0,False
+1ovcvzk,https://i.redd.it/c1000qhdbv0g1.jpeg,How can I increase conversion rate?,I’m new to this it’s been a month since I have uploaded catalogue here can anyone tell me if this is going properly or smtg is less ,1,1762971492.0,IndiaBusiness,12,1.0,False
+1ovcudn,https://www.reddit.com/r/pittsburgh/comments/1ovcudn/schools_dog_parks_coffee_shops/,"Schools, Dog Parks, Coffee Shops","Moving to Pittsburgh next month. I’m finding nice properties outside of town but they’re in school districts where it looks like math and reading are taken as electives, OR they’re in highly rated school districts but the properties themselves look like they were pulled from the set of a Wes Craven horror flick. Best school districts? Focusing on properties in the western half of the metro out to the Ohio/WV border. 
+
+Favorite off-leash dog parks?
+
+Favorite small-town everyone-knows-your-name coffee shops? ",0,1762971401.0,pittsburgh,9,0.14,False
+1ovcu8j,https://i.redd.it/coi43f43bv0g1.jpeg,Which is the best deal for dinner tonight?,There seem to be a lot of good deals in the app and I’m just trying to figure out which one is the best one for dinner tonight. ,0,1762971392.0,SonicDriveIn,3,0.33,False
+1ovctsb,https://www.reddit.com/r/Sofia/comments/1ovctsb/препоръки_recommendations/,Препоръки / Recommendations?,"Здравейте, приятелката ми от Швеция идва на гости в София за една седмица, започваща утре. Имате ли някакви препоръки за късна есен?, кафе култура, места за хранене, красиви места.
+
+Ще я заведа при народна театъра Иван Вазов, обаче само това сам решил.
+
+—- English below —-
+
+Hi everyone, my GF is visiting me in Sofia for a week starting tomorrow. Do you have any recommendations now during late autumn? Coffee culture, food spots, entertainment. I’m taking her to the Ivan Vazov theatre to watch a play, but that’s it.",0,1762971365.0,Sofia,4,0.4,False
