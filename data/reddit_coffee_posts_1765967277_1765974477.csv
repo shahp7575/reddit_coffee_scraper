@@ -1,0 +1,3000 @@
+id,url,title,text,score,created_utc,subreddit,num_comments,upvote_ratio,over_18
+1pov8vz,https://i.redd.it/k4jmnw7bcr7g1.jpeg,What is the best blender for grinding coffee?,I bought a new La Marzocco Linea Mini R from goodwill for 50 dollars and I’m looking to pair it with best coffee blender grinder. I’m currently using the kitchen aid as pictured below but I’ve been told the vitamix or Hamilton beach ones might be better. Picture related.,2,1765974315.0,espressocirclejerk,0,1.0,False
+1pov8kp,https://www.reddit.com/r/TheGirlSurvivalGuide/comments/1pov8kp/i_have_no_friends_what_should_i_do_for_my_birthday/,I have no friends. What should I do for my birthday?,"18F, will be turning 19 in February and looking for ideas of how to spend my birthday.  Preferably nothing super expensive. As the title states, I have no friends, so unless I want to be alone all day (something I have considered) I'll be spending the day with my family (parents, 1 younger brother). Also for context, I can get pretty down during winter so I'm more prone to feeling guilty/lonely over things.
+
+Last year I requested going ice skating, which was a very special trip because the nearest rink is several hours away (I live in a very rural area), but I just ended up feeling kinda lonely and guilty about requesting something that required so much out of my family. I'd gone ice skating by myself when I was younger for my birthday and had had fun, but last year being out there alone on the rink just hit different in a bad way.
+
+I would honestly love having a simple cutesy meet up with friends if I had any, like going to get our nails done (something I'venever done before), or going and hanging out at a coffee shop and chatting, but again, no friends. 
+
+Something I've thought about is making it a ""me day"" (go get a massage, get my nails done, schedule a haircut, go get coffee, etc) and then meeting up with my family at a local restaurant for dinner or something, which does sound kinda nice tbh, but I'm also afraid that I would end up feeling lonely and guilty about spending so much money (I'm sure the things I just mentioned would total up to several hundred dollars) and that would ofc kill the vibe.
+
+An actual birthday party also sounds nice, but feels a little self-centered and immature at my age. But I do have cousins and relatives that I enjoy spending time with that would be nice just hanging out with for an evening. But they are all older than me and I would feel weird asking them to take time out of there day to come to a party ✨️just for me✨️, and I don't want them to feel pressured to buy me anything because ik most of them are living on tight budgets rn.
+
+Idk, I would just love suggestions, ik I'm in a weird situation but any advice is appreciated. 
+
+Edit: would appreciate recommendations on communities to crosspost this to for more visablity",2,1765974285.0,TheGirlSurvivalGuide,0,1.0,False
+1pov7ru,https://www.reddit.com/r/GetStudying/comments/1pov7ru/im_in_a_drivers_school_for_a_week_and_im/,I’m in a drivers school for a week and I’m struggling to study when I have the time,"Japan you can have a 2 week program to learn and drive a car and I’m half way there. 
+
+Everyday is busy with learning something new about driving and the road so it’s very exhausting. All classes ends at 8 pm but the whole day I have hours studying or driving. Sometimes in between we have a 50 minute break or two. 
+
+After I eat dinner at 8 pm I really want to and should study but I’m already tired of the day and I can’t review what I did thus making me falling back a little. Should I stay late drink some coffee and push thru? Idk 
+
+",1,1765974210.0,GetStudying,1,1.0,False
+1pov781,https://www.reddit.com/gallery/1pov781,Zino Nicaragua + Coffee = One of Those Mornings,"Had one of those slow, perfect mornings today. I lit up a **Zino Nicaragua** and paired it with Cuban espresso T**urquino**, made from beans grown at the highest point in Cuba. Started with a regular hot espresso, bold, rich, slightly bitter, and it matched the cigar effortlessly. Smooth smoke, well-balanced, nothing too heavy.
+
+Halfway through, I switched to a **cold espresso**, and it surprisingly brought out a slightly sweeter, cleaner profile from the cigar. To avoid feeling nauseous, I wrapped it up with a **healthy protein dessert**, which actually fit the whole experience really well.
+
+Honestly, this feels like the **perfect cigar for the first part of the day**. Not overpowering, very enjoyable, and it pairs incredibly well with coffee. If you like morning cigars, this combo is hard to beat.",1,1765974160.0,cigar,0,1.0,False
+1pov70q,https://www.reddit.com/r/espresso/comments/1pov70q/replace_portafilter_for_sage_barista_pro_to_use/,Replace portafilter for Sage Barista Pro to use on grinder,"Hello coffee lovers!
+
+I currently have a Sage Barista Pro since 5 years and several months ago I got an Eureka Mignon Manuale to replace the built-in grinder. The problem is that the portafilter for this machine (I have an aftermarket one, but the included one is the same) doesn't rest on the stand that the grinder includes because of the metal part that protrudes (it's the one that actions the built-in grinder button) it hits against the wall of the grinder and doesn't go in deep enough. Do you know if there is any portafilter that I could use on the Barista Pro but without that piece so the portafilter can rest on the grinder while I'm using it?
+
+https://preview.redd.it/ghn4ehctgq7g1.png?width=590&format=png&auto=webp&s=03d8ccae515b13f66e8a84cabcad812791bc49b5
+
+",1,1765974143.0,espresso,0,1.0,False
+1pov5fv,https://www.reddit.com/r/replit/comments/1pov5fv/enterprise_level_output_my_experience/,Enterprise Level Output - My Experience,"**TL;DR:** Apologies for the novel—this is both a technical deep-dive on a multi-tenant Node/React/Express SaaS architecture AND a rant about what it actually takes to build it with AI agents without losing your mind. Grab coffee.
+
+I've been building a fairly complex SaaS platform and wanted to share the infrastructure decisions and patterns that emerged. This isn't about the business domain—just the technical scaffolding that might be useful to others building similar systems.
+
+**Stack Overview**
+
+* Frontend: React + TypeScript (Vite), wouter, TanStack Query, React Hook Form + Zod
+* Backend: Node.js + Express + TypeScript
+* Database: PostgreSQL (Neon serverless) via Drizzle ORM
+* Auth: Auth0 Universal Login (RFC 8252 compliant)
+* Queue: BullMQ with Redis (Postgres fallback)
+
+**Multi-Tenancy + Row Level Security**
+
+Every tenant-scoped query requires a `TenantContext` object. We enforce this at the service layer with a `requireTenantContext(ctx, 'methodName')` helper that hard-fails with descriptive errors if `tenantId` is missing. This prevents accidental cross-tenant data leaks at the code level before RLS even kicks in.
+
+For global resources (pricing tiers, system configs), we use a `SYSTEM_CTX` constant that explicitly bypasses tenant filtering—making it obvious in code review when something is intentionally tenant-agnostic.
+
+**Storage Abstraction Layer (SAL)**
+
+We built a SAL to future-proof for scale with OLTP/OLAP separation. The abstraction provides domain-specific interfaces (e.g., `ICreditStorage`, `IUserStorage`) rather than a generic `IStorage`. Each interface method enforces `TenantContext`.
+
+Current implementation:
+
+* Relational (OLTP): Postgres via Drizzle for transactional data
+* Binary/Audio: Replit Object Storage (S3-compatible)
+* Analytics (future OLAP): Architecture supports plugging in columnar stores
+
+Migration from legacy `IStorage` to SAL is phased. We track migration status per-router and have test coverage validating tenant isolation at each layer.
+
+**Async Writes with Read-Your-Writes**
+
+We implemented a transactional outbox pattern for reliable background writes. Writes are routed as either:
+
+* **Direct:** Immediate execution (users, sessions, payments, auth, credits)
+* **Queued:** Outbox table → BullMQ worker with Postgres fallback
+
+The key insight: we needed read-your-writes semantics. When a user triggers an action that queues a write, subsequent reads in the same request should reflect that pending write. The outbox pattern handles this by making the write visible in the outbox before the background worker processes it.
+
+**Stateless for Autoscale**
+
+The main application is stateless. We extracted stateful components into separate services:
+
+**2-Repl Architecture for Voice:**
+
+* Main App: Auth, UI, business logic, voice proxy
+* Voice Service: Thin WebSocket relay to OpenAI Realtime API
+
+A feature flag (`USE_VOICE_SERVICE`) controls whether voice routes through the proxy or falls back to local implementation. Local fallback code is preserved but frozen—CI prevents modifications.
+
+**WebSocket Autoscale:** [Socket.IO](http://Socket.IO) with optional Redis adapter (`@socket.io/redis-adapter`) for cross-instance pub/sub. Graceful degradation to single-instance mode if Redis is unavailable.
+
+**Distributed Locking:** Redis-based locking (`withDistributedLock`) prevents duplicate job execution for scheduled tasks across instances. Falls back to running without lock if Redis is down (acceptable for idempotent jobs).
+
+**Event Loop Protection**
+
+Long-running scheduled jobs were blocking the Node event loop, causing `node-cron` to miss executions. We built a `yieldToEventLoop()` utility that periodically yields during batch processing.
+
+We also stagger background `setInterval` timers to prevent collision:
+
+* Audit flush: 0s start, 30s interval
+* Retention metrics: 15s start, 60s interval
+* Session cleanup: 45s start, 15min interval
+
+**RBAC System**
+
+Six-tier role hierarchy: `PLATFORM_OWNER` → `PLATFORM_ADMIN` → `TENANT_ADMIN` → `COACH_LEAD` → `COACH` → `WARRIOR`
+
+Backend middleware: `requireAuth`, `requirePermission`, `requireAnyPermission`
+
+Frontend guards: `<PermissionGuard>`, `<CanAccess>`
+
+Database tables: `roles`, `permissions`, `role_permissions`, `user_role_assignments`, `feature_configs`, `role_features`
+
+The `useAuth()` hook exposes `isAdmin` and `isCoach` for UI conditional rendering.
+
+**Custom Form Engine**
+
+Built a Typeform-style form system with extensions:
+
+* Hybrid AI strategy: GPT-4o for quick feedback, Claude Sonnet for deep analysis
+* AI feedback is advisory (human review + coach oversight)
+* Pattern/rule data is version-controlled and timestamped
+* Forms feed into a rules engine for downstream automation
+
+**Error Management**
+
+Centralized error service with:
+
+* Structured error capture and logging
+* Persistence layer for error history
+* Real-time WebSocket feed for monitoring
+* Analytics dashboard for patterns/frequency
+
+Circuit breakers (using `opossum`) wrap external API calls. Rate limiting middleware prevents abuse. All errors return structured JSON responses with consistent shape.
+
+**Resilience Patterns**
+
+* Circuit breakers on all external APIs (Auth0, OpenAI, SendBlue, etc.)
+* Rate limiting at middleware level
+* Graceful degradation (Redis unavailable → Postgres fallback, Voice service down → local fallback)
+* Distributed locks with fallback to lock-free execution for idempotent jobs
+
+**Integrations**
+
+Auth0 (identity), Daily.co (video/transcription), Typeform (legacy forms), Mailgun (email), Calendly (scheduling), Circle.so (community), SendBlue (SMS webhooks), OpenAI (GPT-4o, TTS, Realtime), Anthropic (Claude Sonnet), Vidalytics (video hosting)
+
+# Part 2: Making It Work
+
+Now we move into the *process* of building it with AI agents—specifically Replit Agent—and the hard-won lessons about making it actually work.
+
+**TL;DR:** AI agents are powerful but chaotic. The unlock wasn't better prompting—it was using Claude as a ""senior dev"" to review and prompt Replit, while I act as the USB cable between them.
+
+**The Problem: Replit Forgets Everything Exists**
+
+My codebase has a Storage Abstraction Layer, custom error handling, a write queue system, i18n requirements, strict TypeScript, and about 15 other architectural patterns that *must* be followed.
+
+Replit Agent doesn't care. Every major build:
+
+* Defaults to `any` types everywhere
+* Ignores the SAL and writes directly to the database
+* Litters the project with TypeScript errors
+* Creates linting violations
+* Finds creative ways to code *around* existing utilities instead of using them
+* Declares ""done"" with half-implemented features
+
+I've tried system prompts, [REPLIT.md](http://REPLIT.md) files, explicit instructions. It helps marginally, but the agent has the memory of a goldfish with ADHD.
+
+**The Validation Script Wall**
+
+This is why my `package.json` looks like this:
+
+json
+
+    ""validate:sal"": ""tsx scripts/validate-sal-imports.ts --strict"",
+    ""validate:i18n"": ""tsx scripts/validate-i18n.ts --strict"",
+    ""validate:console"": ""tsx scripts/validate-console.ts --strict"",
+    ""validate:any"": ""tsx scripts/validate-any-types.ts --strict"",
+    ""validate:errors"": ""tsx scripts/validate-error-handling.ts --strict"",
+    ""validate:ai"": ""tsx scripts/validate-ai-prompts.ts --strict"",
+    ""validate:lockfile"": ""tsx scripts/validate-lockfile.ts"",
+    ""validate:side-effects"": ""tsx scripts/validate-side-effects.ts"",
+    ""validate:pure-core"": ""tsx scripts/validate-pure-core.ts"",
+    ""validate:write-queue"": ""tsx scripts/validate-write-queue-compliance.ts"",
+    ""validate:all"": ""npm run validate:sal && npm run validate:i18n && ..."",
+    ""preflight"": ""npm run check && npm run lint && npm run validate:ifr""
+
+After *every* major build, I run `npm run preflight` and let the agent fix what it broke. Without this, the codebase would be unmaintainable within a week.
+
+These scripts catch:
+
+* Direct storage access bypassing SAL
+* Hardcoded user-facing strings (must use `t()` for i18n)
+* Stray `console.log` statements
+* `any` types that should be properly typed
+* Error handling that bypasses our centralized system
+* AI prompts not using our prompt management system
+* Side effects in files that should be pure
+* Write operations that should go through the queue
+
+The agent will confidently tell you ""done, all tests passing"" while 40 violations are sitting there.
+
+**Force the Agent to Ask Questions First**
+
+Someone in the original thread mentioned Socratic prompting. I'd go further: **force the agent to ask questions before every build.**
+
+If you just say ""build X,"" the agent will make assumptions and start coding immediately. Those assumptions are usually wrong.
+
+Instead: ""Before writing any code, ask me clarifying questions about requirements, edge cases, and how this integrates with existing systems.""
+
+The first time I did this, the agent came back with a list of questions that revealed it was about to make 6 catastrophic assumptions. We went through 3-4 rounds of Q&A before a single line of code was written. The build went 10x smoother.
+
+**Markdown Task Files Save Everything**
+
+This was a game-changer: **force the agent to create a markdown file in the repo with phases, tasks, and checkboxes before starting.**
+
+markdown
+
+    ## Phase 1: Database Schema
+    - [x] Create migration for new tables
+    - [x] Add foreign key constraints
+    - [ ] Update SAL interfaces
+    
+    ## Phase 2: API Routes
+    - [ ] POST /api/resource
+    - [ ] GET /api/resource/:id
+    ...
+
+Benefits:
+
+1. **Scope creep detection** \- When the agent starts adding tasks that weren't in the original spec, you see it immediately
+2. **Drift prevention** \- Agent stays on track instead of wandering
+3. **Context recovery** \- When context is shot (and it will be), you have a record of what's done and what's left
+4. **Agent errors** \- When Replit crashes or loses context mid-build, you don't lose everything
+
+I've had builds where Replit errored out 3 times. The markdown file meant I could resume without re-explaining everything.
+
+**The Real Unlock: Claude as the Senior Dev**
+
+Here's what actually changed everything: **using Claude to prompt Replit.**
+
+Yes, Replit is built on Claude. No, they can't talk to each other directly. But Claude *understands* Replit's behavior patterns, failure modes, and how to structure prompts for it.
+
+My workflow now:
+
+1. **Spec it out with Claude** \- Describe what I want to build, discuss architecture, identify edge cases
+2. **Ask Claude for the prompt** \- ""Write me a prompt for Replit Agent to implement this""
+3. **Give the prompt to Replit** \- Copy/paste
+4. **Replit generates code/diffs** \- Before writing, Replit shows what it's about to do
+5. **Send diffs to Claude for review** \- ""Here's what Replit is about to write. Any issues?""
+6. **Claude catches the mistakes** \- Typos, logic errors, architectural violations, missing edge cases—Claude spots them in seconds
+7. **Send Claude's feedback to Replit** \- ""Don't write that yet. Here are issues to fix: ...""
+8. **Iterate until clean** \- Then let Replit write
+
+I'm literally a USB cable between two AI systems that can't talk directly.
+
+**Why This Works**
+
+Claude reads code faster than I ever could. When Replit spits out a 200-line diff, I'd need 10 minutes to properly review it. Claude does it in seconds and catches:
+
+* Typos in variable names
+* Off-by-one errors
+* Missing null checks
+* Violations of patterns Claude knows about from our earlier conversations
+* Logic that doesn't match the spec we discussed
+* Edge cases we identified that weren't handled
+
+Claude also writes better prompts for Replit than I do. It knows how to be specific in ways that reduce Replit's tendency to make assumptions.
+
+**The Economics**
+
+With this workflow, I'm genuinely getting the output of 4-6 junior developers:
+
+* They write code (Replit)
+* A senior dev reviews everything at superhuman speed (Claude)
+* I'm the tech lead making decisions and coordinating
+
+What would have taken me years with a small team is happening in months. Not weeks—let's be honest, it's still hard. But months instead of years is transformative.
+
+**What Still Sucks**
+
+* Context limits are real. Long builds require breaking into phases with fresh contexts.
+* Replit still forgets architecture constantly. The validation scripts are non-negotiable.
+* You can't fully trust ""done."" Always verify.
+* The USB-cable workflow is tedious. I dream of the day these systems can talk directly.
+* Debugging agent-written code when something subtle is wrong is painful.
+
+**Practical Takeaways**
+
+1. Build validation scripts for your architectural patterns. Run them religiously.
+2. Force Q&A before coding. Multiple rounds if needed.
+3. Require markdown task files with checkboxes in the repo.
+4. Use a smarter AI to review and prompt your coding AI.
+5. Never trust ""done."" Verify everything.
+6. Expect to iterate. A lot.
+
+The AI isn't replacing developers. It's replacing the *typing*. You still need to architect, review, decide, and verify. But if you set up the right workflow, you can move fast.
+
+Happy to dive deeper into any of these if there's interest. The SAL migration and read-your-writes outbox pattern were probably the most interesting challenges.",1,1765973998.0,replit,0,1.0,False
+1pov4tt,https://www.reddit.com/gallery/1pov4tt,I found a cool new place,Coffee pee lou,1,1765973944.0,IslamabadSocial,0,1.0,False
+1pov4io,https://i.redd.it/wknx22nbnq7g1.jpeg,Dev Log Entry #3: 17.12.2025 - Finding the Scribe’s Voice,"Let’s be honest: today was rough, and the headache that came with it wasn’t helping.
+
+But I think this is one of those days that feels like the labor pains of something better being born. I now have three fully revised systems in front of me: the health system, the mental resilience system, and a brand-new experience and skill-acquisition system.
+
+Calling it a “level system” would be inaccurate, because I think I may have accidentally removed the entire concept of leveling from the game.
+
+Sometimes you just flip the table and go radical. I do that a lot.
+
+
+
+But none of that was the hard part.
+
+
+
+Rewriting these mechanics and finishing the terminology dictionary ate half my day, yes—but the real weight was the realization that, after all this time, I finally know how to present the voice of the scribe who won’t shut up in my head.
+
+
+
+As I write this, Affinity is open on my screen; the MasterPage is up. A page the color of ivory—lightly textured, like a traveler’s journal, almost like Tomoe River paper, but rougher. Not the stiff, mass-pressed kind.
+
+More like the kind wrapped in red, tanned hide—a wanderer’s notebook from the 19th-century Orient, made long before machines decided paper should be perfect.
+
+Something between Arthur Morgan’s journal and Leonardo da Vinci’s sketchbooks, but darker, dusted with ash from the Grey Road.
+
+
+
+I’m not going for those cliché burnt-edge parchment PDFs you see everywhere.
+
+This journal belongs to someone who took care of it—who protected it.
+
+Someone who writes with a single color of ink because that’s all the world allows.
+
+Someone who sketches in charcoal.
+
+Someone whose pages have stains of tea… or ink… or blood, depending on the night.
+
+
+
+That’s the voice I’m bringing forward.
+
+That’s how your notes—from my head, via this fictional scribe—will finally live on the page.
+
+
+
+Before I wrap up, I should mention something simple and strangely uplifting: I actually went outside today. Met a friend. Had coffee. Then tea—six or seven glasses, I think—and the conversation drifted into the kind of art philosophy talk that keeps you awake for days.
+
+
+
+Gonca and I ended up circling around this idea:
+
+that music and story together can either hold meaning or lead emotion;
+
+that entertainment is undeniably part of art;
+
+but that somewhere deeper, the core of art is sorrow, tragedy, and the ache that makes us human.
+
+Maybe the most emotional works really are the most valuable ones.
+
+
+
+I’m ending tonight not with a song, but with something I treasure deeply:
+
+Sir Ian McKellen reading Kurt Vonnegut’s “Make Your Soul Grow.”
+
+[https://www.youtube.com/watch?v=tHPerf4eVcQ](https://www.youtube.com/watch?v=tHPerf4eVcQ)
+
+
+
+With love.
+
+Erol",1,1765973918.0,u_WayfarersLog,0,1.0,False
+1pov45a,https://i.redd.it/f97ejnb1br7g1.jpeg,Cold War scenario: Mittelafrika and Brazil competing for the tropical crops market,,3,1765973885.0,Kaiserreich,1,1.0,False
+1pov3rt,https://i.redd.it/89qr34rwar7g1.jpeg,time for coffee,,1,1765973851.0,Olivesplace,0,1.0,False
+1pov2ri,https://i.redd.it/eyccfzfkar7g1.png,Parental leave?,,4,1765973756.0,rachelbrathensnark,0,1.0,False
+1pov2l6,https://i.redd.it/bi5vezqkar7g1.png,What about vitamin D?,,4,1765973741.0,Animemes,5,0.67,False
+1pov1c0,https://www.reddit.com/r/Pasig/comments/1pov1c0/quite_place_to_hang_and_talk/,Quite place to hang and talk,"
+
+Any recommendations for a late night venue to just sit and hang out that serves non alcoholic drinks/coffee and light snacks, possibly with a smoking area in Pasig? I've been gone for a long long time and when I was living here we use to go to hotels like the Pen to wind down before going home.
+",2,1765973632.0,Pasig,0,1.0,False
+1pov19g,https://www.reddit.com/r/IndiaCoffee/comments/1pov19g/after_years_of_drinking_coffee_what_actually/,"After years of drinking coffee, what actually keeps you hooked  the taste, the ritual, or the caffeine?",,1,1765973625.0,IndiaCoffee,0,0.67,False
+1pov0x8,https://www.reddit.com/r/ShopeePH/comments/1pov0x8/espresso_machine_reco/,Espresso machine reco,"Planning to start a coffee shop, any espresso machine recommendations? Thaaaanks advice na din if meron hehe ",1,1765973597.0,ShopeePH,1,1.0,False
+1pov0hz,https://i.redd.it/5w059qj2ar7g1.jpeg,Adding visibility to our review insightfulness just highlights how utterly nonsensical it is,"This got a “poor”. It’s a bulk pack of paper cups. What else are we supposed to say? Also notable was a “poor” rating for generic Claritin. What do they want from us on stuff like this? I talked mostly about the price, it’s an actual FDA approved drug, the contents of that can’t really vary. I went into detail about the budget effectiveness of it. 
+
+All this visibility does it make me angry. Seems 90% of what they’re looking for is for the review to be long, which is far *less* useful to customers for many basic products. ",4,1765973559.0,AmazonVine,1,1.0,False
+1pov0dc,https://www.reddit.com/gallery/1pov0dc,Can someone please read my coffee cup? 25F,Can someone pls explain what these figures in my coffee cup mean? I can’t quite tell what they really are. ,1,1765973548.0,tasseography,0,1.0,False
+1pouywk,https://www.reddit.com/r/Roleplay/comments/1pouywk/f4m_superheroes_villains_and_corporate/,"[F4M] Superheroes, Villains, and Corporate!","Hey, all! It is I, Lilith — back again!
+I’ve been wanting to do this for a while now — it’s pretty cliche, I’m aware — but I’d love to write something involving a superhero unknowingly growing close to a villainess. For this prompt, I was thinking something sort of Clark Kent-ish; guy who works at some sort of office for a (secret) villainess. Though they fight during the night, they find camaraderie during the daytime. ♡
+
+For a baseline, I’m thinking that my character’s name is Cassandra Adler. She is an extremely intelligent member of a secret organization, whose ability involves mind-control via touch. What company does she work for? Well, considering that your OC might be interested in different things, we can discuss it in DMs! Still, I have some ideas; your character can work as a secretary for Cassandra to gain experience in the technology field, your character can be an extremely talented writer newly brought on to a titan of a news agency, etc. 
+
+This is a reminder to *please* not message me if you’re under eighteen; I just turned twenty, and am not looking to write with minors!
+
+With all of that in mind, please feel free to message! Don’t worry, I won’t bite — feel free to toss around some ideas!
+
+- ♡ WRITING SAMPLE ♡ -
+The rising sun blared through the massive window in Cassandra's office, illuminating the scarlet decor in a soft embrace of light.
+
+*He's late.*
+
+She resisted the urge to bite her lip in frustration. He had only been working at Starlight for, what, a week? Her nails dug into the white wood of her desk, tapping rhythmically. The hiring managers said this one had *potential*; out of the seven others she’d fired in the last month, it seemed that absolutely nobody had any idea of what working actually meant. When she had risen to the top barely a year out of school, *commitment* was what absolutely everybody had known her for. Commitment was supposed to get you a competent assistant — it was supposed to get you more than *five minutes late.*
+
+As soon as the door blew open in a rather unflattering blend of coffee and disheveled hair, her headache had intensified.
+
+“If I don’t hear an excuse I’m satisfied with, you’re fired. *Go.*”",1,1765973419.0,Roleplay,0,1.0,False
+1pouy22,https://v.redd.it/nqn80ov09r7g1,TRAUMA-SUE ☕,"Also, her saying ""it reminds me of espresso but not straight up coffee"" 💀 ffs she doesn't know shit about food",2,1765973342.0,SongbyrdASMRrantss,0,1.0,False
+1pouy08,https://i.redd.it/y4f5fyie9r7g1.jpeg,Purchasing power of US dollar!,,1,1765973337.0,Tech_Updates_News,0,1.0,False
+1pouxlo,https://i.redd.it/4r7ts6ga9r7g1.jpeg,Didn't have my usual coffee so,,2,1765973300.0,MealDealRates,3,1.0,False
+1pouxk5,https://i.redd.it/abvlpmca9r7g1.png,Have (see image). Want offers in Seeds or ideally Candleberries. Or Volcano,"Really looking for Candleberries. Also need : 2 Coffee pots, 2 frying pans, and 6 Mushrooms. Lol. Send offers with what you have and what you want. 
+
+Unless you want to trade me for a Volcano BP or Aphelion BP. (I have everything else) ",1,1765973296.0,ArcRaidersMarketplace,5,1.0,False
+1pouwks,https://www.reddit.com/r/espresso/comments/1pouwks/trying_to_decide_between_scales_max_50/,Trying to decide between scales [max £50],"I’m looking to upgrade my boyfriend’s coffee scales (he’s using a standard set of scales without a timer currently).
+I’m looking for a mid-price point set for now, with the plan to upgrade to a “fancier” set in future.
+
+Been doing a fair bit of research and have whittled down my list to these four. 
+
+MiiCoffee Nano Pro, Wacaco Exagram Pro, Outin Claro, MHW-3Bomber Cube or Mini
+
+
+Was hoping to get some insight and opinions to see if any of these would be a good choice. ",1,1765973206.0,espresso,0,0.99,False
+1pouvkc,https://www.reddit.com/r/Advice/comments/1pouvkc/whats_the_small_daily_gesture_that_truly_changes/,What's the small daily gesture that truly changes your mood?,"Realize that sometimes, tiny things can completely change our day. For some, it's drinking a coffee in silence in the morning; for others, it's sending a message to a friend.
+I'm curious to know: what small gesture or simple habit truly changes your mood or your day?",0,1765973115.0,Advice,3,0.5,False
+1pouv8t,https://www.reddit.com/r/McDonalds/comments/1pouv8t/excessive_wait_times_forrestdale_wa/,Excessive wait times Forrestdale WA,"Called into Forrestdale today (17 Dec), wait time fairly got me wound up. As a result had a need to become that complaint that had to write in to state my grievances and then as a public service to let everyone else know where to avoid whilst renovations continue. If I hear back will update - I don’t expect it, miracles can happen from time to time. Who knows maybe a corporate boffon may see this and want to jump all over it. 
+
+Writing today to provide feedback as to what can only be described as an absolute disaster at this restaurant. The wait time I and others experienced today was nothing short of pathetic. To wait over 20 minutes to place an order to then wait a further 8 minutes to receive an order. To arrive at the speaker to see signage stating coffee unavailable, when in fact it actually was. Then to find out there is no grilled chicken, when it is available to order on the app. Just appeared to be a royal shit show. Definitely not encouraged to return any time soon. 
+
+In a positive the young man at the collection window, manners on point, very apologetic and very professional. 
+
+I understand there are renovations underway - if you can’t provide a timely and suitable level of customer service during a renovation then close the restaurant, get the renovation completed in a timely manner, instead of losing customers. Today was an epic example of how not to run a business. 
+
+Not expecting a call back - if someone feels the need to try and justify this disgrace - happy to hear you out. ",2,1765973090.0,McDonalds,0,1.0,False
+1pouv7p,https://www.reddit.com/r/LoveLetters/comments/1pouv7p/i_miss_the_quiet_moments_the_most/,i miss the quiet moments the most,"not a dramatic letter. just thinking about the small stuff that doesn't seem to fade.
+
+  
+""I was making coffee and remembered how you'd always steal the first sip. You'd say it was a toll. It's just a dumb thing, but my kitchen feels too orderly now. I miss the chaos you brought. I miss the way you'd hum when you thought no one was listening.""",5,1765973088.0,LoveLetters,1,1.0,False
+1pouuxp,https://www.reddit.com/r/Invisalign/comments/1pouuxp/for_those_you_use_a_cleaning_pod/,For those you use a cleaning pod....,"I bought a cleaning pod from Amazon.  It has a 5 min continuous ultrasonic with uv option and a 10 min pulse with UV option.  I also have the retainer brite tablets.  
+
+Just seeing what people use on a daily basis and how many times a day they use their cleaner.
+
+Also do you clean both upper and lower at the same time or run the cleanings separate.
+
+I'm on a 2 week tray schedule, no coffee but I drink water with mio most of the day and have 1 can of soda a day...all using a straw.  Thanks.",2,1765973065.0,Invisalign,1,1.0,False
+1pouuta,https://i.redd.it/5bla9sep2r7g1.jpeg,Code Red at OpenAI: Sam Altman Panic Launches GPT-5.2,"OpenAI's CEO issued an internal ""code red"" after ChatGPT lost significant market share to Google's Gemini 3 and Anthropic's Claude Opus 4.5. The company rushed out GPT-5.2 with three modes: Instant (quick answers), Thinking (grab a coffee), and Pro (take a nap). While GPT-5.2 now dominates OpenAI's own benchmarks, independent testing shows Claude still reigns supreme for coding, and Gemini leads in science and academic reasoning.",1,1765973054.0,ai_apps_developement,0,1.0,False
+1pouu7a,https://www.reddit.com/r/shopify_growth/comments/1pouu7a/outrank_your_competitors_with_zero_backlinks/,Outrank your competitors with ZERO backlinks using this Shopify SEO strategy,"Most Shopify stores completely ignore the easiest traffic source available: blogging.
+
+Here's why it works stupidly well right now.
+
+The opportunity: 99.5% of Shopify stores don't blog. They just focus on product pages and call it a day. Meanwhile, people are constantly searching for informational content and Google actually prioritizes ecommerce sites over regular blogs for this stuff.
+
+For example a coffee equipment store. Instead of only listing products, I started writing articles like:
+
+* What's the best coffee grind for French press?
+* How to clean your espresso machine properly
+* Cold brew vs iced coffee: what's the difference?
+
+Results after 4 months:
+
+* Zero backlinks
+* Outranking established coffee blogs
+* Consistent organic traffic without spending on ads
+* Sales coming in while I'm literally doing nothing
+
+Why this actually works:
+
+Google's recent updates favor helpful content from actual sellers over affiliate blogs and generic news sites. If you sell dog food and write ""what should I feed my puppy,"" you'll rank above those generic pet blogs because you're the actual store selling the product.
+
+How to start:
+
+1. Find keywords - Use Ubersuggest for free or any similar tool
+2. Write informational content - Not promotional. Actually helpful stuff.
+3. Use clean HTML - ChatGPT can draft it, but clean up the code after
+4. Publish inside Shopify's blog - Don't bother with external sites
+5. Focus on how-to and what is queries in your specific niche
+
+Start with questions your customers are already asking you. Go through your support emails, product reviews, and DMs. Those are literally your first 10-20 blog topics right there.
+
+I don't even have social media for my shop. No Instagram. No TikTok. Nothing. Just SEO through blogging.
+
+The barrier to entry is so low nowadays that everyone rushes to launch stores without even thinking about traffic. Build your content foundation FIRST, then launch. Or at the bare minimum, start blogging the same day you launch.
+
+If you sell anything with an educational angle equipment, ingredients, tools, supplies, whatever this strategy literally prints money.   
+  
+You're just teaching people about topics related to what you're selling.
+
+Anyone else doing this? What niches are working for you?
+
+",1,1765973000.0,shopify_growth,0,1.0,False
+1poutmp,https://i.redd.it/knq42sq98r7g1.jpeg,Kiss him,Manhattan Cafe,21,1765972955.0,okbuddyumamusume,1,1.0,False
+1pout63,https://historicalvagabond.com/2025/09/07/katwijk-the-last-coffee-plantation-of-suriname/,Katwijk: The Last Coffee Plantation of Suriname,"The plantation system is gone but in modern Suriname, the former plantation properties still exist. Out of hundreds of former Dutch plantations (plantage in Dutch) there is one coffee producer still in operation: The Katwijk Plantation of Suriname’s Commewijne District. But first, some background on the Dutch Plantations in Suriname and the role New England merchants played.",1,1765972921.0,Historical_Vagabond,0,1.0,False
+1pout4p,https://www.reddit.com/r/NarcissisticSpouses/comments/1pout4p/i_need_some_help_as_im_questioning_and/,I need some help as I’m questioning and gaslighting myself (F30),"don’t know where to start. I think I need therapy.
+
+I met my partner 2 years ago. I had no idea what was in store for me. He has lied from the start about so much stuff. Triangulation with friends and family, ignoring my constant begs for privacy and transparency. Lies that shattered my world and sense of reality. He minimizes his behaviour and acts like it’s normal. He attacks me when I express my feelings. I’m at a point where I’m getting numb and don’t express my feelings anymore. I’m getting numb feelings but an increased sex drive and I know this is really unhealthy behaviour.
+
+We broke up over his lies and lost our apartment earlier this year. My world shattered. I wasn’t sure he was a narc. I received letters from him over the summer taking accountability for what he had done. I gave into the second letter and we got back together. 
+
+I also have Lyme disease and his behaviour has affected my treatment a lot. I have asked him to please consider me and my treatment but it seems like I’m speaking a foreign language. It’s so weird that a partner can forget all your basic needs but then give you flowers and gifts. We’ve been back together two months and he’s bought me a Coach bag, NARS foundation, flowers every week, beauty appointments…… but yet if I express my needs or ask him to stop lying… he just forgets or attacks me.
+
+When we broke up, I wondered about narcissism. But the thing is, he can be so so so kind sometimes. So loving and affectionate. It’s like I experience DARVO a bit but then he has these epiphanies. He tells me “he doesn’t know what to do sometimes” and he needs me to help him figure it out. But I think it’s DARVO. Can DARVO be followed by kindness and care?
+
+Fast forward to this week. I went to London with my friends for a girls trip. On the Sunday, he started messaging me telling me he’s low and has SAD. I spent my last day in London comforting him. Turns out, no it’s not SAD. He actually wanted to confront a lie he had told me the previous week and felt guilty. He got soothed all day to tell me a lie and then like didn’t care for me afterwards? It ended up being a big drama? He didn’t address it on Monday as he promised.. he affected my Lyme treatment. Tuesday comes, I’m having my morning coffee… he unloads on me that he has a p\*rn addiction and some other deeply traumatizing things that a partner shouldn’t hear on a Tuesday morning casually over coffee. He spoke with no guilt or even awareness of what he was saying. No consideration for me at all. I went into shock over the stuff he disclosed. I dissociated all day. He acted so normal and seemed to have no remorse? I think he tells me the truth about stuff to bait me and act like he’s “improving on his lying”. He went and got McDonalds. He then went to a church and discussed our relationship with a stranger (even though I begged for privacy and to stop telling one sided stories). I genuinely didn’t know he was this delusional? Is this behaviour normal? Is this how men treat women? Is there something wrong with me that I can’t walk away from abuse?
+
+After all his confessions yesterday, he did nothing to check in on me. He actually unloaded more fucked up stuff on me that he has done. He also caught himself out in more lies. He doesn’t even apologise anymore for lying, that’s how normal it is. I just have to act unaffected. This all happened since my London trip at the weekend. I have cried so so so so much I can’t even explain how numb I am. I’m in shock. He just keeps unloading more and more and disguising it as him “telling the truth”. I’m starting to wonder if it’s him inserting and centring himself when my life isn’t revolving around him. He ruined my birthday in 2024 and he ruined Christmas 2024 too. 
+
+This morning, Wednesday, I wake up and he’s immediately talking about himself. That he has anxiety over how I reacted yesterday and he had a nightmare over his anxiety. Then he sat scrolling instagram and barely spoke. I couldn’t imagine putting somebody through what he’s done since Sunday and just acting normal scrolling instagram. I told him I don’t feel cared for. He attacked me and said “nothing he does is good enough” and started talking about a break up. Bear in mind, I have a scheduled Lyme treatment today and he’s promised me multiple times he won’t affect my treatment. He got dressed and went to storm out and discussed a break up. When I didn’t engage much, he was kind of acting like a child having a tantrum. Then he was really nice and almost like he’s “figured it out”. Telling me he’ll help me with my treatment and acting so reassuring. This is when I usually give in and think he’s changing. It’s so confusing for me.
+
+Can somebody please help me? What am I dealing with? Am I the problem? Is this how relationships should be? Do I need to be more patient?
+
+Thank you",2,1765972918.0,NarcissisticSpouses,0,1.0,False
+1pousty,https://www.reddit.com/r/singleph/comments/1pousty/32_m4f_lf_new_connectionchill_chatscoffee_date/,32 [M4F] LF new connection/chill chats/coffee date near ust area,"You:
+25 - 28
+Normal bmi
+Graduate and professional
+Witty and good conversant
+Has lots of interest and pwede ituro 🤣
+Cat person sana
+Near ust or manila city
+
+Me:
+32 M
+Chinito
+Working professional
+Can cook and drive
+An Introvert exploring life
+Very willing to learn new things
+
+Dm me
+
+",0,1765972889.0,singleph,0,0.5,False
+1pousow,https://www.reddit.com/r/MakeNewFriendsHere/comments/1pousow/29m_lets_chat_and_see_what_happens/,29M Lets chat and see what happens,"Im from the east coast of USA. Usually, I am able to chat most of the time or day since I have a lot of free time at my job until something breaks and I need to fix it. Can be from anywhere around the world. I'm down to share photos, too. 
+
+I've been drinking a lot of tea lately, too. I'm trying to see what is the best stuff to out in tea for taste and for health. Coffee, I recently tried grinding beans, and it really does make a huge difference. So, I've been trying different coffee beans to see what's best. I'm trying to slowly get into doing more and more homesteading. Been making different types of bread
+
+I'm into all kinds of different hobbies. I'm really into houseplants and aquarium keeping. I have over 100 different houseplants. I just got a small greenhouse now, too. I'm in the process of setting up a fish tank room. I have 4 tortoises that also live in the fish tank room until I build them an outside enclosure. I also have one cat and one dog too.
+
+I'm into video games, too. I mainly play Marvel Rivals, Valorant, Overwatch, Palworld and Ark ASA. Just bought Dinkum, too. I built a PC to play on a couple of years ago.
+
+I'm down to chat about any random stuff you like to chat about. Always up to try or learn about new hobbies.",1,1765972876.0,MakeNewFriendsHere,1,1.0,False
+1pouson,https://i.redd.it/73shyqf08r7g1.jpeg,What kind of coffee do you drink when you go camping? Any recommendations?,,1,1765972875.0,hottents,0,1.0,False
+1pousj2,https://www.reddit.com/r/DarkAcademia/comments/1pousj2/dark_academia_wishlist_for_you_or_yours_friends/,Dark academia wishlist for you or yours friends,"Dark academia gifts to offer/ask for
+Home
+● Candles ( a lot )
+● Busts
+● A old style lamp
+Stationery/Material
+● Foutain pen
+● Good quality notebook / paper
+Books
+● Book abt their/your interest
+● Beautiful books with pictures
+Example :  Taschen edition
+● Book for learning a new language 
+Other
+● Tea /Coffee 
+●  A watch
+● A pullover/sweater 
+● A tarot game 
+● Favorite painting reproduction
+Hope you'll like it",0,1765972864.0,DarkAcademia,0,0.5,False
+1pour22,https://www.reddit.com/r/getdisciplined/comments/1pour22/a_simple_jar_of_challenges_brought_me_closer_to/,A simple jar of challenges brought me closer to people. Now I want to share it,"For the past few months, I’ve been writing small, doable challenges on slips of paper and putting them in a jar. Each month, I’d pull 4 - 6 and try to complete it.
+
+Examples that actually worked for me and my people:
+
+* *“With your partner: Cook a meal using only ingredients that are red.”*
+* *“With colleagues: Grab coffee and talk about anything but work.”*
+* *“With friends: Try a food from a cuisine none of you have tried before.”*
+
+It wasn’t about pressure—just playful nudges that brought us closer.
+
+Now I’m thinking about turning the idea into a free, simple platform where:
+
+1. You draw a random challenge
+2. Accept or pass — no guilt
+3. If you accept, pick your own deadline
+4. Get a reminder later asking, “Did you do it?”
+5. Rate it afterward, so the system learns what you enjoy
+
+My question is: **does this sound like something you’d actually use?** What would make it feel helpful vs. gimmicky?
+
+Not promoting anything — just curious if other people would find a “challenge jar” helpful for staying connected in a low-pressure way.",1,1765972739.0,getdisciplined,0,1.0,False
+1pouotp,https://www.reddit.com/gallery/1pouotp,3D printed V60 Dripper,"My friend 3D printed this using PETG material amazing to see how far the capabilities are about 3d printers 
+Drop your opinions if you feel safe about using 3D printed products for brewing coffee",0,1765972525.0,pourover,11,0.2,False
+1pouokw,https://www.reddit.com/r/R4R30Plus/comments/1pouokw/35_m4f_europeonline_lets_jump_into_christmas/,35 [M4F] Europe/online - Let's jump into christmas season with...?,"I’m 35, 1.85m tall, sporty, and secretly convinced that life’s too short for bad Wi-Fi or boring meals. By day I work in IT, by night I might be outside hiking, trying out a new recipe, or hopping on a fire truck as a volunteer firefighter (yes, the uniform is real 😉).
+
+I like to stay active, laugh often, and enjoy the little things—sunsets, fresh coffee, or cooking dinner for two. I’m looking for someone who’s just as curious, outdoorsy, loves a good book and up for spontaneous adventures as I am.
+
+If you can keep up on a trail, appreciate good food, and don’t mind a guy who occasionally smells like campfire smoke… we might be a match.
+
+\*NSFW because it's reddit",1,1765972501.0,R4R30Plus,0,1.0,False
+1pouoa5,https://www.reddit.com/gallery/1pouoa5,New Zimaya perfume 🎀,"This sounds delicious?!
+FYI Tiramisu Caramel from the same collection is another dupe for Bianco Latte, confirmed by me.✨",1,1765972472.0,FemFragLab,0,1.0,False
+1pouo8r,https://www.reddit.com/r/Thailand/comments/1pouo8r/feeling_unsafe_as_queer_black_and_trans/,feeling unsafe as queer Black and trans,"trigger warning: stalking
+
+came to live in Thailand two months ago because I was told it was LGBTQ safe here and that people were very accepting. and i have to preface this by saying that in general people have been very calm and sweet. But i cannot sent that there have also been instances where i don’t feel very welcome here. When I walk around the streets people are staring and I have multiple instances daily where someone is shouting or laughing at me on the street, even though I am just walking!!!
+
+but this is somewhat tolerable (??). but then i was hiking close to the city alone and maybe 20 minutes in i noticed there was a thai man following me and taking pictures of me. i kept going faster but he kept following me. and then i finally got to a place where there were other hikers and he disappeared. a few days later, i see the same man in a coffee shop as i am passing by. i kept ignoring him and briskly walked away. then a week later he is near my coworking space and took pictures of me when i stepped out for lunch. i am scared for my life and have packed my bags and left chiang mai.
+
+i truly don’t want to tarnish the reputation of this place. chiang mai is beautiful but it’s also very hard for me to agree with others who have said that it is SAFE because i have felt on multiple occasions it had not been for me. at all.
+
+I really do not want this to sour my experience, but i can’t agree with others who have said they feel safe here. i certainly have not. ",0,1765972468.0,Thailand,9,0.26,False
+1pouo3t,https://www.reddit.com/gallery/1pouo3t,3D printed V60 Dripper,"My friend 3D printed this using PETG material amazing to see how far the capabilities are about 3d printers 
+Drop your opinions if you feel safe about using 3D printed products for brewing coffee",5,1765972456.0,IndiaCoffee,5,0.69,False
+1pouo3k,https://www.reddit.com/r/r4r/comments/1pouo3k/35_m4f_europeonline_lets_jump_into_christmas/,35 [M4F] Europe/online - Let's jump into christmas season with...?,"I’m 35, 1.85m tall, sporty, and secretly convinced that life’s too short for bad Wi-Fi or boring meals. By day I work in IT, by night I might be outside hiking, trying out a new recipe, or hopping on a fire truck as a volunteer firefighter (yes, the uniform is real 😉).
+
+I like to stay active, laugh often, and enjoy the little things—sunsets, fresh coffee, or cooking dinner for two. I’m looking for someone who’s just as curious, outdoorsy, loves a good book and up for spontaneous adventures as I am.
+
+If you can keep up on a trail, appreciate good food, and don’t mind a guy who occasionally smells like campfire smoke… we might be a match.
+
+\*NSFW because it's reddit",1,1765972456.0,r4r,1,1.0,False
+1pounqn,https://www.reddit.com/r/Habits/comments/1pounqn/a_simple_jar_of_challenges_brought_me_closer_to/,A simple jar of challenges brought me closer to people. Now I want to share it,"For the past few months, I’ve been writing small, doable challenges on slips of paper and putting them in a jar. Each month, I’d pull 4 - 6 and try to complete it.
+
+Examples that actually worked for me and my people:
+
+* *“With your partner: Cook a meal using only ingredients that are red.”*
+* *“With colleagues: Grab coffee and talk about anything but work.”*
+* *“With friends: Try a food from a cuisine none of you have tried before.”*
+
+It wasn’t about pressure—just playful nudges that brought us closer.
+
+Now I’m thinking about turning the idea into a free, simple platform where:
+
+1. You draw a random challenge
+2. Accept or pass — no guilt
+3. If you accept, pick your own deadline
+4. Get a reminder later asking, “Did you do it?”
+5. Rate it afterward, so the system learns what you enjoy
+
+My question is: **does this sound like something you’d actually use?** What would make it feel helpful vs. gimmicky?
+
+Not promoting anything — just curious if other people would find a “challenge jar” helpful for staying connected in a low-pressure way.",2,1765972420.0,Habits,0,1.0,False
+1pounki,https://www.reddit.com/r/romancenovels/comments/1pounki/i_feared_my_loves_return_novel/,I feared my loves return Novel,"# I feared my loves return : [Read Online](https://inkwriters.mjobs11.com/time-eats-gentle-lies-by-asa-river-cade-1/)
+
+
+
+# The moans from the bedroom had turned into grating white noise, like a crappy porno on endless loop. I highlighted another awkward Time in the script, zeroed in on fixing the dialogue before tomorrow’s make–or–break meeting. 
+
+
+
+# Just wrap it up already, you two. Some of us have real shit to handle. 
+
+
+
+# I nursed my ice–cold coffee, turning the hotel suite’s living room into my makeshift war room. The woman–hell, I couldn’t even recall her name, just another notch in Chase’s revolving door of hookups–belted out another over–the–top cry. 
+
+
+
+# “Oh fack, Chase, yes! Pound my tight little pussy harder–deeper, baby!” she wailed, her voice bouncing off the thin walls. “You’re so huge, you’re splitting me apart!” 
+
+
+
+# Take it all, you filthy slut, Chase growled, his hips slamming with those wet, rhythmic slaps. Clamp that cunt down on my cock–yeah, just like that. Beg for my cum, you greedy bitch!” 
+
+
+
+# “Fuck me, Chase! Fill me up–make me yours!” she screamed, her moans crumbling into ragged gasps. “I’m cumming–oh God, yes, cum 
+
+
+
+# inside me! 
+
+
+
+# His roar ripped through the air, raw and victorious: “Fuck yeah, take every drop! You’re mine tonight!” 
+
+
+
+# It was almost laughable how Chase Anderson, my fake fiancé, kept up that golden–boy act in public. That killer smile, the designer suits, the slick charm–it suckered everyone but the unlucky ones who saw the real him up close. A total asshole with a stutter that popped out whenever he lost his cool. 
+
+
+
+# Three years back, I’d never pictured myself in this hell. Dad’s gambling habit had buried us under a $180 million debt avalanche, ready to bury us alive. Then the Andersons swooped in like sharks, offering to erase it all—with one catch: marry their entitled brat of a son. 
+
+
+
+# I could still picture that stifling family dinner where they dropped the bomb. 
+
+
+
+# “Luna, darling, Margaret Anderson had cooed, her smile like a razor blade, “Chase has had a crush on you since college. What better way to join our families than a wedding?” 
+
+
+
+# William leaned in, all authoritative bullshit. “Your father’s debts vanish. Your family’s name stays clean. All we ask is you give our boy a 
+
+
+
+# shot. 
+
+
+
+# And Chase, playing the chivalrous prince, reached for my hand. “I know it’s out of nowhere, Luna, but I’ve loved you for years. I’ll wait as long as it takes.” 
+
+
+
+# What a load of crap. 
+
+
+
+# I’d been hustling ever since, pouring every directing paycheck into chipping away at that debt. My plan? Pay it off and bail on Chase and 
+
+
+
+# 1/3 
+
+
+
+# 46.40 Wed Dec 17 be 
+
+
+
+# E for that year, herd and the patient suitor, murmuring lies about no rush to seal the deal. 
+
+
+
+# sau the actors tiginood 
+
+
+
+# The Amarta harga und an at a gale, Chase is getting antsy. This engagement’s gone on long enough, don’t you agree?” 
+
+
+
+# Jus blumen: “My sons not waiting forever. Time to make it real.” 
+
+
+
+# Gase pay the good guy: thom, Dad, ease up, una ll say yes when she’s ready. I’m not going anywhere,” 
+
+
+
+# Goudied woper she tag team pressure, I cracked and accepted the ring. Not out of love–just desperation, a lifeline in the storm. Even 
+
+
+
+# gt wudio set him lay finger on me. That’s when his facade shattered, and the side chicks started parading through. He hid it Salut don’t care which pissed him off more. Now he rubbed them in my face, fishing for jealousy I’d never give, 
+
+
+
+# by us or open, Chase sauntered out buck–naked, not even bothering to cover his junk. Objectively, the guy had a killer 
+
+
+
+# body build a stone cold. do spack, no nothing 
+
+
+
+# Sumulong the woman pursed, trailing him in a tangled sheet. She was peak Instagram bait: plumped lips, chiseled cheeks, stays as an aber flattery, ext time, I’ll show you that mouth trick I mentioned,” 
+
+
+
+# Que tu as bad won the fontary. “W–why can’t you be more like her?” he snapped, that stutter kicking in as he tried to flex. 
+
+
+
+# * && ponti wa man 
+
+
+
+# my so the sorry m working, Chase? 
+
+
+
+# wend gabbing a water from the minibar, Cold as ice, Luna. A frigid bitch no one can melt,” 
+
+
+
+# mwmotted motion line, swallowing the familiar ache in my chest. [](https://www.reddit.com/r/Novelnews/?f=flair_name%3A%22Question%3F%22)",1,1765972402.0,romancenovels,1,1.0,False
+1pounhb,https://www.reddit.com/r/Hot_Romance_Stories/comments/1pounhb/i_feared_my_loves_return_novel/,I feared my loves return Novel,"# I feared my loves return : [Read Online](https://inkwriters.mjobs11.com/time-eats-gentle-lies-by-asa-river-cade-1/)
+
+
+
+# The moans from the bedroom had turned into grating white noise, like a crappy porno on endless loop. I highlighted another awkward Time in the script, zeroed in on fixing the dialogue before tomorrow’s make–or–break meeting. 
+
+
+
+# Just wrap it up already, you two. Some of us have real shit to handle. 
+
+
+
+# I nursed my ice–cold coffee, turning the hotel suite’s living room into my makeshift war room. The woman–hell, I couldn’t even recall her name, just another notch in Chase’s revolving door of hookups–belted out another over–the–top cry. 
+
+
+
+# “Oh fack, Chase, yes! Pound my tight little pussy harder–deeper, baby!” she wailed, her voice bouncing off the thin walls. “You’re so huge, you’re splitting me apart!” 
+
+
+
+# Take it all, you filthy slut, Chase growled, his hips slamming with those wet, rhythmic slaps. Clamp that cunt down on my cock–yeah, just like that. Beg for my cum, you greedy bitch!” 
+
+
+
+# “Fuck me, Chase! Fill me up–make me yours!” she screamed, her moans crumbling into ragged gasps. “I’m cumming–oh God, yes, cum 
+
+
+
+# inside me! 
+
+
+
+# His roar ripped through the air, raw and victorious: “Fuck yeah, take every drop! You’re mine tonight!” 
+
+
+
+# It was almost laughable how Chase Anderson, my fake fiancé, kept up that golden–boy act in public. That killer smile, the designer suits, the slick charm–it suckered everyone but the unlucky ones who saw the real him up close. A total asshole with a stutter that popped out whenever he lost his cool. 
+
+
+
+# Three years back, I’d never pictured myself in this hell. Dad’s gambling habit had buried us under a $180 million debt avalanche, ready to bury us alive. Then the Andersons swooped in like sharks, offering to erase it all—with one catch: marry their entitled brat of a son. 
+
+
+
+# I could still picture that stifling family dinner where they dropped the bomb. 
+
+
+
+# “Luna, darling, Margaret Anderson had cooed, her smile like a razor blade, “Chase has had a crush on you since college. What better way to join our families than a wedding?” 
+
+
+
+# William leaned in, all authoritative bullshit. “Your father’s debts vanish. Your family’s name stays clean. All we ask is you give our boy a 
+
+
+
+# shot. 
+
+
+
+# And Chase, playing the chivalrous prince, reached for my hand. “I know it’s out of nowhere, Luna, but I’ve loved you for years. I’ll wait as long as it takes.” 
+
+
+
+# What a load of crap. 
+
+
+
+# I’d been hustling ever since, pouring every directing paycheck into chipping away at that debt. My plan? Pay it off and bail on Chase and 
+
+
+
+# 1/3 
+
+
+
+# 46.40 Wed Dec 17 be 
+
+
+
+# E for that year, herd and the patient suitor, murmuring lies about no rush to seal the deal. 
+
+
+
+# sau the actors tiginood 
+
+
+
+# The Amarta harga und an at a gale, Chase is getting antsy. This engagement’s gone on long enough, don’t you agree?” 
+
+
+
+# Jus blumen: “My sons not waiting forever. Time to make it real.” 
+
+
+
+# Gase pay the good guy: thom, Dad, ease up, una ll say yes when she’s ready. I’m not going anywhere,” 
+
+
+
+# Goudied woper she tag team pressure, I cracked and accepted the ring. Not out of love–just desperation, a lifeline in the storm. Even 
+
+
+
+# gt wudio set him lay finger on me. That’s when his facade shattered, and the side chicks started parading through. He hid it Salut don’t care which pissed him off more. Now he rubbed them in my face, fishing for jealousy I’d never give, 
+
+
+
+# by us or open, Chase sauntered out buck–naked, not even bothering to cover his junk. Objectively, the guy had a killer 
+
+
+
+# body build a stone cold. do spack, no nothing 
+
+
+
+# Sumulong the woman pursed, trailing him in a tangled sheet. She was peak Instagram bait: plumped lips, chiseled cheeks, stays as an aber flattery, ext time, I’ll show you that mouth trick I mentioned,” 
+
+
+
+# Que tu as bad won the fontary. “W–why can’t you be more like her?” he snapped, that stutter kicking in as he tried to flex. 
+
+
+
+# * && ponti wa man 
+
+
+
+# my so the sorry m working, Chase? 
+
+
+
+# wend gabbing a water from the minibar, Cold as ice, Luna. A frigid bitch no one can melt,” 
+
+
+
+# mwmotted motion line, swallowing the familiar ache in my chest. [](https://www.reddit.com/r/Novelnews/?f=flair_name%3A%22Question%3F%22)",1,1765972394.0,Hot_Romance_Stories,1,1.0,False
+1pounfq,https://www.reddit.com/r/Novelnews/comments/1pounfq/i_feared_my_loves_return_novel/,I feared my loves return Novel,"# I feared my loves return : [Read Online](https://inkwriters.mjobs11.com/time-eats-gentle-lies-by-asa-river-cade-1/)
+
+
+
+# The moans from the bedroom had turned into grating white noise, like a crappy porno on endless loop. I highlighted another awkward Time in the script, zeroed in on fixing the dialogue before tomorrow’s make–or–break meeting. 
+
+
+
+# Just wrap it up already, you two. Some of us have real shit to handle. 
+
+
+
+# I nursed my ice–cold coffee, turning the hotel suite’s living room into my makeshift war room. The woman–hell, I couldn’t even recall her name, just another notch in Chase’s revolving door of hookups–belted out another over–the–top cry. 
+
+
+
+# “Oh fack, Chase, yes! Pound my tight little pussy harder–deeper, baby!” she wailed, her voice bouncing off the thin walls. “You’re so huge, you’re splitting me apart!” 
+
+
+
+# Take it all, you filthy slut, Chase growled, his hips slamming with those wet, rhythmic slaps. Clamp that cunt down on my cock–yeah, just like that. Beg for my cum, you greedy bitch!” 
+
+
+
+# “Fuck me, Chase! Fill me up–make me yours!” she screamed, her moans crumbling into ragged gasps. “I’m cumming–oh God, yes, cum 
+
+
+
+# inside me! 
+
+
+
+# His roar ripped through the air, raw and victorious: “Fuck yeah, take every drop! You’re mine tonight!” 
+
+
+
+# It was almost laughable how Chase Anderson, my fake fiancé, kept up that golden–boy act in public. That killer smile, the designer suits, the slick charm–it suckered everyone but the unlucky ones who saw the real him up close. A total asshole with a stutter that popped out whenever he lost his cool. 
+
+
+
+# Three years back, I’d never pictured myself in this hell. Dad’s gambling habit had buried us under a $180 million debt avalanche, ready to bury us alive. Then the Andersons swooped in like sharks, offering to erase it all—with one catch: marry their entitled brat of a son. 
+
+
+
+# I could still picture that stifling family dinner where they dropped the bomb. 
+
+
+
+# “Luna, darling, Margaret Anderson had cooed, her smile like a razor blade, “Chase has had a crush on you since college. What better way to join our families than a wedding?” 
+
+
+
+# William leaned in, all authoritative bullshit. “Your father’s debts vanish. Your family’s name stays clean. All we ask is you give our boy a 
+
+
+
+# shot. 
+
+
+
+# And Chase, playing the chivalrous prince, reached for my hand. “I know it’s out of nowhere, Luna, but I’ve loved you for years. I’ll wait as long as it takes.” 
+
+
+
+# What a load of crap. 
+
+
+
+# I’d been hustling ever since, pouring every directing paycheck into chipping away at that debt. My plan? Pay it off and bail on Chase and 
+
+
+
+# 1/3 
+
+
+
+# 46.40 Wed Dec 17 be 
+
+
+
+# E for that year, herd and the patient suitor, murmuring lies about no rush to seal the deal. 
+
+
+
+# sau the actors tiginood 
+
+
+
+# The Amarta harga und an at a gale, Chase is getting antsy. This engagement’s gone on long enough, don’t you agree?” 
+
+
+
+# Jus blumen: “My sons not waiting forever. Time to make it real.” 
+
+
+
+# Gase pay the good guy: thom, Dad, ease up, una ll say yes when she’s ready. I’m not going anywhere,” 
+
+
+
+# Goudied woper she tag team pressure, I cracked and accepted the ring. Not out of love–just desperation, a lifeline in the storm. Even 
+
+
+
+# gt wudio set him lay finger on me. That’s when his facade shattered, and the side chicks started parading through. He hid it Salut don’t care which pissed him off more. Now he rubbed them in my face, fishing for jealousy I’d never give, 
+
+
+
+# by us or open, Chase sauntered out buck–naked, not even bothering to cover his junk. Objectively, the guy had a killer 
+
+
+
+# body build a stone cold. do spack, no nothing 
+
+
+
+# Sumulong the woman pursed, trailing him in a tangled sheet. She was peak Instagram bait: plumped lips, chiseled cheeks, stays as an aber flattery, ext time, I’ll show you that mouth trick I mentioned,” 
+
+
+
+# Que tu as bad won the fontary. “W–why can’t you be more like her?” he snapped, that stutter kicking in as he tried to flex. 
+
+
+
+# * && ponti wa man 
+
+
+
+# my so the sorry m working, Chase? 
+
+
+
+# wend gabbing a water from the minibar, Cold as ice, Luna. A frigid bitch no one can melt,” 
+
+
+
+# mwmotted motion line, swallowing the familiar ache in my chest. [](https://www.reddit.com/r/Novelnews/?f=flair_name%3A%22Question%3F%22)",1,1765972389.0,Novelnews,1,1.0,False
+1poumsi,https://i.redd.it/mhz60uae6r7g1.jpeg,Secret Santa Gift,"Playing the whole series in the first time chronologically + platinum and got this as a gift when I'm half way through MGS4, nice",11,1765972325.0,metalgearsolid,2,0.92,False
+1poum5z,https://www.reddit.com/r/kdramas/comments/1poum5z/ive_watched_235_dramas_any_mustwatch/,"I’ve Watched 235 Dramas, Any Must-Watch Recommendations I Might Have Missed?","**2005–2009**
+
+Coffee Prince (2007) ✅
+
+Boys Over Flowers (2009) ✅
+
+
+
+**2010–2014**
+
+Secret Garden (2011) ✅
+
+Queen In-hyun's Man (2012) ✅
+
+The King 2 Hearts (2012) ✅
+
+My Love From Another Star (2013) ✅
+
+I Hear Your Voice (2013) ✅
+
+Master's Sun (2013) ✅
+
+Angel Eyes (2014) ✅
+
+It's Okay, That's Love (2014) ✅
+
+Pinocchio (2014) ✅
+
+Healer (2014) ✅
+
+Fated to Love You (2014) ✅
+
+
+
+**2015–2019**
+
+My Love Eun Dong (2015) ✅
+
+Sassy, Go Go (2015) ✅
+
+Oh My Ghost (2015) ✅
+
+Reply 1988 (2015) ✅
+
+She Was Pretty (2015) ✅
+
+Splash Splash Love (2015) ✅
+
+Kill Me, Heal Me (2015) ✅
+
+Doctors (2016) ✅
+
+Beautiful Mind (2016) ✅
+
+Remember: War of the Son (2016) ✅
+
+Oh My Venus (2016) ✅
+
+Shopping King Louie (2016) ✅
+
+Goblin (2016) ✅
+
+Descendants of the Sun (2016) ✅
+
+Weightlifting Fairy Kim Bok-joo (2016) ✅
+
+The Legend of the Blue Sea (2016) ✅
+
+Uncontrollably Fond (2016) ✅
+
+Dr. Romantic (2016) ✅
+
+Something About 1% (2016) ✅
+
+Bring It On, Ghost (2016) ✅
+
+W: Two Worlds Apart (2016) ✅
+
+Marriage Contract (2016) ✅
+
+Good Manager (2017) ✅
+
+Man to Man (2017) ✅
+
+Live Up to Your Name (2017) ✅
+
+Fight for My Way (2017) ✅
+
+Reunited Worlds (2017) ✅
+
+The Package (2017) ✅
+
+Tomorrow with You (2017) ✅
+
+Tunnel (2017) ✅
+
+Strong Woman Do Bong Soon (2017) ✅
+
+Because This Is My First Life (2017) ✅
+
+Suspicious Partner (2017) ✅
+
+A Korean Odyssey (2017) ✅
+
+While You Were Sleeping (2017) ✅
+
+Chicago Typewriter (2017) ✅
+
+Go Back Couple (2017) ✅
+
+Mad Dog (2017) ✅
+
+You Drive Me Crazy (2018) ✅
+
+Rain or Shine (2018) ✅
+
+Live (2018) ✅
+
+I'm Not a Robot (2018) ✅
+
+Two Cops (2018) ✅
+
+Still 17 (2018) ✅
+
+Life on Mars (2018) ✅
+
+What's Wrong with Secretary Kim (2018) ✅
+
+Mr. Sunshine (2018) ✅
+
+Hymn of Death (2018) ✅
+
+Partners for Justice (2018) ✅
+
+The Beauty Inside (2018) ✅
+
+My Secret, Terrius (2018) ✅
+
+Familiar Wife (2018) ✅
+
+Come and Hug Me (2018) ✅
+
+The Guest (2018) ✅
+
+Doctor Prisoner (2019) ✅
+
+Welcome 2 Life (2019) ✅
+
+Extraordinary You (2019) ✅
+
+Romance Is a Bonus Book (2019) ✅
+
+Crash Landing on You (2019) ✅
+
+He Is Psychometric (2019) ✅
+
+Hotel Del Luna (2019) ✅
+
+Her Private Life (2019) ✅
+
+Touch Your Heart (2019) ✅
+
+Angel's Last Mission: Love (2019) ✅
+
+When the Camellia Blooms (2019) ✅
+
+The Secret Life of My Secretary (2019) ✅
+
+Psychopath Diary (2019) ✅
+
+Doctor John (2019) ✅
+
+Stove League (2019) ✅
+
+
+
+**2020–2025**
+
+A Piece of Your Mind (2020) ✅
+
+Find Me in Your Memory (2020) ✅
+
+Do Do Sol Sol La La Sol (2020) ✅
+
+Tell Me What You Saw (2020) ✅
+
+Kairos (2020) ✅
+
+It's Okay to Not Be Okay (2020) ✅
+
+The King: Eternal Monarch (2020) ✅
+
+Itaewon Class (2020) ✅
+
+Mr. Queen (2020) ✅
+
+Start-Up (2020) ✅
+
+Mystic Pop-up Bar (2020) ✅
+
+Run On (2020) ✅
+
+18 Again (2020) ✅
+
+Flower of Evil (2020) ✅
+
+Hospital Playlist (2020) ✅
+
+True Beauty (2020) ✅
+
+Hi Bye, Mama! (2020) ✅
+
+When the Weather Is Fine (2020) ✅
+
+Memorist (2020) ✅
+
+Tale of the Nine Tailed (2020) ✅
+
+The Uncanny Counter (2020) ✅
+
+Missing: The Other Side (2020) ✅
+
+Train (2020) ✅
+
+You are My Glory (2021) ✅
+
+Sell Your Haunted House (2021) ✅
+
+Lovestruck in the City (2021) ✅
+
+Awaken (2021) ✅
+
+Bad and Crazy (2021) ✅
+
+Vincenzo (2021) ✅
+
+My Name (2021) ✅
+
+Mad for Each Other (2021) ✅
+
+Our Beloved Summer (2021) ✅
+
+Hometown Cha-Cha-Cha (2021) ✅
+
+Snowdrop (2021) ✅
+
+The Devil Judge (2021) ✅
+
+Youth of May (2021) ✅
+
+My Roommate Is a Gumiho (2021) ✅
+
+D.P. (2021) ✅
+
+She Would Never Know (2021) ✅
+
+Beyond Evil (2021) ✅
+
+Taxi Driver (2021) ✅
+
+The Veil (2021) ✅
+
+Dali & Cocky Prince (2021) ✅
+
+Lovers of the Red Sky (2021) ✅
+
+The King's Affection (2021) ✅
+
+Move to Heaven (2021) ✅
+
+First Love (2022) ✅
+
+Silent (2022) ✅
+
+My Liberation Diary (2022) ✅
+
+The King of Pigs (2022) ✅
+
+Military Prosecutor Do Bae Man (2022) ✅
+
+Again My Life (2022) ✅
+
+Extraordinary Attorney Woo (2022) ✅
+
+Business Proposal (2022) ✅
+
+Big Mouth (2022) ✅
+
+If You Wish Upon Me (2022) ✅
+
+The Law Cafe (2022) ✅
+
+Shooting Stars (2022) ✅
+
+The Sound of Magic (2022) ✅
+
+Juvenile Justice (2022) ✅
+
+Our Blues (2022) ✅
+
+Alchemy of Souls (2022) ✅
+
+Twenty Five Twenty One (2022) ✅
+
+May I Help You? (2022) ✅
+
+Summer Strike (2022) ✅
+
+Soundtrack #1 (2022) ✅
+
+One Dollar Lawyer (2022) ✅
+
+Why Her? (2022) ✅
+
+All of Us Are Dead (2022) ✅
+
+Little Women (2022) ✅
+
+Ghost Doctor (2022) ✅
+
+The First Responders (2022) ✅
+
+Gaus Electronics (2022) ✅
+
+Through the Darkness (2022) ✅
+
+Rookie Cops (2022) ✅
+
+Crazy Love (2022) ✅
+
+Once Upon a Small Town (2022) ✅
+
+Love All Play (2022) ✅
+
+When I Fly Towards You (2023) ✅
+
+Moon in the Day (2023) ✅
+
+King the Land (2023) ✅
+
+The Glory (2023) ✅
+
+Castaway Diva (2023) ✅
+
+Crash Course in Romance (2023) ✅
+
+Agency (2023) ✅
+
+Love to Hate You (2023) ✅
+
+True to Love (2023) ✅
+
+The Good Bad Mother (2023) ✅
+
+Revenant (2023) ✅
+
+See You in My 19th Life (2023) ✅
+
+Moving (2023) ✅
+
+Bloodhounds (2023) ✅
+
+Daily Dose of Sunshine (2023) ✅
+
+The Worst of Evil (2023) ✅
+
+Twinkling Watermelon (2023) ✅
+
+My Dearest (2023) ✅
+
+Perfect Marriage Revenge (2023) ✅
+
+Death's Game (2023) ✅
+
+Welcome to Samdal-ri (2023) ✅
+
+Like Flowers in Sand (2023) ✅
+
+My Demon (2023) ✅
+
+The Judge from Hell (2024) ✅
+
+Seoul Busters (2024) ✅
+
+Mr. Plankton (2024) ✅
+
+A Shop for Killers (2024) ✅
+
+A Killer Paradox (2024) ✅
+
+Flex x Cop (2024) ✅
+
+Queen of Tears (2024) ✅
+
+Chief Detective 1958 (2024) ✅
+
+Lovely Runner (2024) ✅
+
+The Atypical Family (2024) ✅
+
+Marry My Husband (2024) ✅
+
+Spirit Fingers (2025) ✅
+
+Trigger (2025) ✅
+
+Love, Take Two (2025) ✅
+
+Beyond the Bar (2025) ✅
+
+Law and the City (2025) ✅
+
+Our Unwritten Seoul (2025) ✅
+
+Mercy for None (2025) ✅
+
+When Life Gives You Tangerines (2025) ✅
+
+Study Group (2025) ✅",6,1765972264.0,kdramas,13,0.88,False
+1poum5y,https://i.redd.it/l0ese7q76r7g1.jpeg,T14 f2f delhi dealings,"Always up for new new perspectives , met an interesting human over a cold coffee u/Socialaid! 
+",2,1765972264.0,Lestic,3,1.0,False
+1poulm3,https://www.reddit.com/r/nudistroommates/comments/1poulm3/clothing_optional_room_for_rent_for_men_in/,Clothing optional room for rent for men in Illinois,"Under renovation. Updated pics coming soon. Description: fully renovated furnished room with own mini fridge, coffee maker, tv, ac unit and microwave. The room also has a closet. There is a washer and dryer on site. Fully renovated with new flooring, new mattress, new drapes, new sheets and pillows.
+
+Must speak English. This is a drama free house that's close to shops and stores in downtown elgin. Looking for a clean responsible roommate. Must be employed.
+
+Clothing optional
+
+LGBTQ friendly.
+
+Gay straight bi men are all welcome
+
+A background check will be made at no cost to you. This is to check for previous evictions and criminal activity.
+
+This is a safe haven for men to be men without judgement. A place where men get a second chance to get back on their feet and go out on their own again. It's a place for men to regroup, grow, heal and move on to the next step in their lives. bad attitudes will not be tolerated.
+
+Respect is paramount. Absolutely no drama. It is understood that life happens but I cannot have the house disrupted nor discord in my house.
+
+No smoking No drinking on premises No drunk and disorderly
+
+$150 deposit. Refundable upon inspection. Non refundable if there is damage beyond wear and tear.
+
+$700 rent
+
+$60 cleaning fee
+
+Month to month lease
+
+Male candidates preferred.
+
+No pets. Turtles and fish ok. No cats. No dogs. No snakes. No reptiles. No rodents. (Hamsters, gerbils, mice rats, rabbits, etc). HYGIENE IS MANDATORY. NO ODORS ON SELF OR IN ROOM. ABSOLUTELY NO SMOKING AT ALL WHATSOEVER!! THIS IS NON NEGOTIABLE. Sorry for the dramatics but I have had issues with previous roommates.
+
+Full house privileges.
+
+I went to culinary school so I cook and bake a lot and will often offer to share my food.
+
+All utilities included except electric. And will be split 3 way summer months only.",2,1765972215.0,nudistroommates,0,1.0,False
+1poule4,https://www.reddit.com/r/PleaseCallMe/comments/1poule4/a_simple_jar_of_challenges_brought_me_closer_to/,A simple jar of challenges brought me closer to people. Now I want to share it,"For the past few months, I’ve been writing small, doable challenges on slips of paper and putting them in a jar. Each month, I’d pull 4 - 6 and try to complete it.
+
+Examples that actually worked for me and my people:
+
+* *“With your partner: Cook a meal using only ingredients that are red.”*
+* *“With colleagues: Grab coffee and talk about anything but work.”*
+* *“With friends: Try a food from a cuisine none of you have tried before.”*
+
+It wasn’t about pressure—just playful nudges that brought us closer.
+
+Now I’m thinking about turning the idea into a free, simple platform where:
+
+1. You draw a random challenge
+2. Accept or pass — no guilt
+3. If you accept, pick your own deadline
+4. Get a reminder later asking, “Did you do it?”
+5. Rate it afterward, so the system learns what you enjoy
+
+My question is: **does this sound like something you’d actually use?** What would make it feel helpful vs. gimmicky?
+
+Not promoting anything — just curious if other people would find a “challenge jar” helpful for staying connected in a low-pressure way.",2,1765972195.0,PleaseCallMe,1,1.0,False
+1poukib,https://www.reddit.com/r/chiangmai/comments/1poukib/feeling_unsafe_as_a_black_queer_trans_person/,feeling unsafe as a Black queer trans person.,"trigger warning: stalking
+
+came to live in Thailand two months ago because I was told it was LGBTQ safe here and that people were very accepting. and i have to preface this by saying that in general people have been very calm and sweet. But i cannot sent that there have also been instances where i don’t feel very welcome here. When I walk around the streets people are staring and I have multiple instances daily where someone is shouting or laughing at me on the street, even though I am just walking!!!
+
+but this is somewhat tolerable (??). but then i was hiking close to the city alone and maybe 20 minutes in i noticed there was a thai man following me and taking pictures of me. i kept going faster but he kept following me. and then i finally got to a place where there were other hikers and he disappeared. a few days later, i see the same man in a coffee shop as i am passing by. i kept ignoring him and briskly walked away. then a week later he is near my coworking space and took pictures of me when i stepped out for lunch. i am scared for my life and have packed my bags and left chiang mai.
+
+i truly don’t want to tarnish the reputation of this place. chiang mai is beautiful but it’s also very hard for me to agree with others who have said that it is SAFE because i have felt on multiple occasions it had not been for me. at all.
+
+I really do not want this to sour my experience",0,1765972106.0,chiangmai,5,0.22,False
+1poukd2,https://www.reddit.com/r/PhR4Friends/comments/1poukd2/23_f4m_down_to_hang_tonight/,23 [F4M] down to hang tonight?,"📍makati
+just out and seeing who’s around and matches the vibe. literally just friendly company and easy conversation. thinking something low-key like walking around, grabbing coffee, or sitting somewhere chill and people-watching :) ",5,1765972092.0,PhR4Friends,0,1.0,False
+1pouk4f,https://i.redd.it/1hpnfjgm5r7g1.jpeg,"Snap Shack Cafe, Middlesborough.",£9.95 including free bottomless tea or coffee. ,34,1765972065.0,fryup,7,0.98,False
+1pouiyh,https://www.reddit.com/r/TwoXIndia/comments/1pouiyh/its_either_0_chivalry_or_90s_bollywood_psycho_wtf/,it's either 0 chivalry or 90's bollywood psycho - wtf is wrong with men these days,"Hi all,
+
+I'm very sorry for the vent included, i'm just appalled and at this point thinking of going all 4B. I'm a lurker and i usually stick to giving advice. I have shied away from updating my user flair to ""woman"" because of the nightmare-ish bullying experience i once had more than 10 years ago when i was young and in early college years. And im back again to posting on reddit, mostly because i don't know where to ask this.
+
+My parents had been trying to fix my marriage (through AM setup) last two years. After a terrible experience with one dude that i was talking to for a year I had signed out of the whole process. wasted my 50k that my parents had given to vip shaadi.
+
+I joined an expensive gym 2 weeks ago, hoping for good gentry. First time enrolling in a gym. I've been there only 7 days with breaks in between and also because of this horrible shitty thing that happened over Friday - Saturday last week. WHY CAN'T MEN JUST LEAVE ME ALONE??
+
+This is a startup city, btw. So this decent, fit guy who generally seemed friendly and helpful to everyone in the gym came about and helped me with hanging the handle on the tricep pulldown machine. I thanked him, exchanged a few words later when we were both getting out of the same time. Turns out he was in the same sector as me - and it's a very small space rn.
+
+Immediately I get a message from him as i get home asking me over coffee. I was flattered, but as i said I'm working on myself and really not in the mental space to date right now. SO how do I tell him without looking like a traumatized person? I tell him that I'm busy with work for the next few months and not in the zone. Better to say no than to keep someone stringing along.
+
+Over the next day, dude keeps texting me. I find out that he was a **CO-FOUNDER and CEO AT A TECH STARTUP** with an exit / was exiting. I may be biased but CEO's are psychopaths. And i'm generally anxious and very WARY of people who lovebomb me after having suffered this on online dating a few years ago. It makes me very, very uncomfortable. For some reason I also asked an astrology chatbot and it said 40% chance wait and see his intentions over the next few months. So I kept avoiding his attempts at flirting over text the entire day.
+
+* Until it was night, and he called me (apparently drunk - I didn't know until later) to crib about his work. I mean I'm nice but 2 hours of hearing about your problems with your dad and family and board is a bit too much.
+* And a lot of ""you're not like other girls"".
+* and a lot of convincing on why we should go out.
+* After gently letting him down multiple times I finally firmly say that this is not happening, you need to see someone else. I'm not ready to date right now and i absolutely don't expect you to wait up. (PLEASE NOTE that this guy didnt even know about my education, my background, literally nothing about who I am as a person).
+* First he goes on a rant on how he's ""rich af, hot, has dogs, ambitious and still not able to get girls"" and ""what should I do? Should I jump off the balcony??"".
+* And while I'm still reeling with this, he directly jumps to ""**We go to the same gym and are in the same startup community. I have friends here, and I talk to people. You should not come to the gym, it'll be awkward for you.**"" I couldn't believe something like this could still happen in a metro, with someone as educated as me (and him??).
+
+Should I write to his board - that is already voting to oust him from the board? Which he was bitching about? If it helps, guy was racist af and called his investor a ""f\*\*king jew"" and a ""c\*\*\* faced whore"" while he was texting me. I know. big red flag.
+
+I feel bad for him too having known about his sad life that night, but I feel worse for me. What have I done to deserve this?? I feel like I am to blame that I even spoke to him. I just didn't want to come across as a b\*\*ch but looks like there's no escape no matter what i do.
+
+tldr; seemingly hotshot guy at the gym asked me out, when i refused because I'd literally known him 48 hours, threatened suicide and also threatened to make things awkward for me at the gym and in the startup community at large. I'm frustrated and at my wits end. Pls advise.",2,1765971949.0,TwoXIndia,2,0.63,False
+1pouhwz,https://www.reddit.com/r/Solopreneur/comments/1pouhwz/how_do_you_use_qr_codes_in_your_small_business/,How do you use QR codes in your small business marketing?,"I run a small coffee shop in Seattle with about 100 customers a day, mostly locals grabbing quick lattes or working remotely. Last year, I noticed our loyalty program wasn't getting much traction because people forgot their punch cards, and our social media posts weren't driving foot traffic like I hoped. I started experimenting with QR codes on table tents and packaging to make things easier, like linking to a quick survey for free drink rewards or our menu for contactless ordering during busy hours.
+
+What creative ways have you found to integrate QR codes without overwhelming customers?
+
+I used [https://me-qr.com/](https://me-qr.com/) to generate dynamic ones that I can update anytime, such as changing a promo code for seasonal drinks without reprinting everything. The free plan lets me create unlimited codes with basic analytics to see how many scans happen each week, and I added our logo to make them look branded. Upgrading to premium gave me ad-free codes and more storage for PDF menus, plus email alerts after scans to track engagement better.
+
+How do you analyze QR scan data to tweak your strategies?",1,1765971850.0,Solopreneur,1,1.0,False
+1pouhr2,https://www.reddit.com/r/decaf/comments/1pouhr2/3_years_caffeine_free_read_if_you_are_dealing/,3 years caffeine free (read if you are dealing with withdrawal anxiety),"Can’t believe it’s been 3 years. What a ride 
+
+Throughout my teens I never really drank coffee but used pre workout , and drank energy drinks when I needed them ( not everyday but definitely a bunch of times a week ) 
+
+Started working and would drink 1-2 cups of coffee a day, not even a year into drinking coffees and I found that I slowly needed more and more coffee for the effects to work/benefit me and get me through my day. 1 cup just wasn’t enough and I’d hit a wall at like 2PM , I was also having a cup of green tea before bed
+
+I started getting anxiety (had anxiety growing up but never that bad) did a bunch of research and read that giving up caffeine completely helped a lot of people so I decided to quit cold turkey one day after a massive anxiety attack . Oh boy was I in for a ride,
+
+The next 3-4 months were the worst of my life, the anxiety and panic attacks were so bad that the thought of even leaving my house was dreadful, I did anything to avoid driving too since I’d get anxiety attacks in traffic . At the time i genuinely had no idea what was going on or why my anxiety was that bad. I also lost 7Kgs without even trying. 
+
+After doing some research on YouTube and reddit I learnt that there is no real timeframe for anxiety as a caffeine withdrawal symptom, and everyone’s brains heal in their own time. I would say it genuinely took me 10 months - 1 year to fully heal and to feel the benefits from completely giving up caffeine. Anyways I’ve rambled on but here’s a list of benefits and also things to remember .
+
+Benefits I noticed 
+
+- better sleep quality (my Garmin watch said so)
+- My skin cleared up 
+- my heart wasn’t always racing for no reason 
+- Waaaay easier to wake up in the morning 
+- my anxiety eventually eased ( I believe everyone has feelings of anxiety and there’s no such thing as getting rid of anxiety completely) 
+-I’m not a slave to caffeine products , I can go to the gym, run marathons, go to my 9-5 without needing caffeine
+- I saved money from buying coffees
+- I don’t need to constantly go to the toilet 
+- easier to fall asleep 
+
+
+Things to remember 
+
+- Please stay strong , I know it’s hard
+- just because one day feels good, and the next day feels bad doesn’t mean you took a step backwards. The path ahead isn’t a straight line 
+- you will get cravings, these will eventually pass
+- you will have headaches, drink water , juice, anything else
+- if you are caffeine sensitive like me, avoid chocolate , coke, and tea 
+- healing looks different for everyone, do what you need to do and don’t compare your progress to randoms on reddit , if I takes a year, if it takes a week, so be it.",14,1765971834.0,decaf,0,1.0,False
+1poufls,https://www.reddit.com/r/datavisualization/comments/1poufls/how_would_you_showcase_process_journeys_my/,How would you showcase process journeys? My mediocre approach,"I've tried a few iterations on how to best visualise the benefits of automating processes in a before/after table (anonimised to showcase a coffee run). I've never been good at these.... still feels like there's too much text and it's hard to fully understand at a glance
+
+The aim is to showcase the team(s) usage of 6 different tools vs 3 where most of it is automated instead of being riddled with delays, human error and labour cost
+
+https://preview.redd.it/0s9l3h6o2r7g1.png?width=1021&format=png&auto=webp&s=c84c23a6af0a3a4ffac60b1d59ff924aa0b18c2e
+
+",1,1765971633.0,datavisualization,0,1.0,False
+1poufkw,https://www.reddit.com/r/askdatascience/comments/1poufkw/how_would_you_showcase_process_journeys_my/,How would you showcase process journeys? My mediocre approach,"I've tried a few iterations on how to best visualise the benefits of automating processes in a before/after table (anonimised to showcase a coffee run). I've never been good at these.... still feels like there's too much text and it's hard to fully understand at a glance
+
+The aim is to showcase the team(s) usage of 6 different tools vs 3 where most of it is automated instead of being riddled with delays, human error and labour cost
+
+https://preview.redd.it/0s9l3h6o2r7g1.png?width=1021&format=png&auto=webp&s=c84c23a6af0a3a4ffac60b1d59ff924aa0b18c2e
+
+",1,1765971630.0,askdatascience,0,1.0,False
+1pouff9,/r/BangaloreMeetups/comments/1pouf6b/coffee_and_reading_on_christmas_eve/,Coffee and Reading on Christmas Eve,,1,1765971615.0,BangaloreSocial,0,1.0,False
+1pouf6b,https://www.reddit.com/r/BangaloreMeetups/comments/1pouf6b/coffee_and_reading_on_christmas_eve/,Coffee and Reading on Christmas Eve,"Hello, I am 45 male, living around Whitefield.  Around Christmas holiday I was looking to find a good cafe where one can have some good coffee, healthy snacks and do some reading. 
+If there are more people around doing the same, even better. Not sure if there are any such cafes in Bangalore with book reading. 
+
+Do let me know if anyone aware and can suggest a good place to visit. ",1,1765971592.0,BangaloreMeetups,0,1.0,False
+1pouenh,https://www.reddit.com/r/offmychest/comments/1pouenh/i_23f_keeping_thinking_about_ending_my_engagement/,I (23F) keeping thinking about ending my engagement with my partner (24M),"
+We’ve been together for over 5 years and this September he proposed (note, I chose my own ring since he said he didn’t want to mess up and I kept asking him when the engagement would happen because he’s been saying he will propose since 2 years ago). I was very excited, everything seemed great, until I went on a work holiday for 3 days.
+
+For the first time in years, I was taken care of and I didn’t have to plan or think about anything and it made me spiral. I simply had fun, I didn’t have to engage with his friends, who now I see as very immature (they only talk about cars and racism, no intellectual conversations and none of them are trying to do anything with their lives). Ever since I’ve come back (it’s been over a month) I just feel suffocated.
+
+I always plan every holiday, every meal, I do the cooking and cleaning at home. My partner doesn’t pay any rent since I pay half of my dads mortgage (we have a big house and I barely see him because of how his work patterns fall, so it feels like we have our own space).
+
+I spoke to my partner about this and he is trying to change and “be better man” for me. He will make me a coffee in the morning on the days I work from home (even though I wake up before him so I need to wait for him to wake up to make me a coffee), he’s trying to help in the kitchen, and all that. But I feel horrible because it feels superficial to me.
+
+He’s a fantastic guy, he’s caring and we do have a laugh. I see him as my best friend, however my body has gone into shutdown. We don’t have a sex life anymore (I used to initiate most of the time but over the last few weeks I’ve stopped because I simply don’t find him attractive in that way) - I do find myself fantasising about strangers and other people so it’s not that I have gone asexual.
+
+TL:DR - has anyone else been in this situation with their partner and did you recover? 
+
+If so, what can I do? Will the spark come back? 
+
+So far I’ve tried to step back from some of the house work to try and give him some responsibility and I’ve requested some nights where he stays at his parents house (basically asked for space). Again, I feel unfair for feeling this way because I know he loves me and he’s trying to change, but as it stands I simply can’t see a future.",0,1765971541.0,offmychest,0,0.5,False
+1poudtq,https://www.thecut.com/article/heated-rivalry-connor-storrie-interview-hockey-ilya-rozanov.html,"Connor Storrie talks about languages, glute routine, being recognized and how he spends his free time in a new interview for The Cut","""If you’re like me and basically everyone else in the world, your brain space and your phone’s algorithms have undergone a radical transformation. Suddenly, everything is gay (not new for me) and everything has to do with hockey (very new for me). *Heated Rivalry*, a new six-part series based on the *Game Changers* books, has completely taken over.
+
+In the Crave/HBO Max series that follows two closeted pro-hockey players who are deeply in love, Connor Storrie plays Ilya Rozanov, a Russian hockey player who is known for his cocky attitude and frank demeanor. He’s the polar opposite of Shane Hollander (Hudson Williams), his Major League Hockey rival. They begin to have sex (*really* hot sex) while maintaining their status as rivals to the public, and for the two actors the whole experience has ushered them into a whole new level of fame. “I keep gaslighting myself into thinking that nobody has watched this show,” Storrie tells The Cut merely an hour after hearing the announcement that the show has been renewed for a second season. Below, Storrie talks about his Russian manifestations, joining the L.A. clown scene, and who he would cast in a lesbian version of *Heated Rivalry.* 
+
+**I know you’ve talked about it, but everyone is still wondering: How did you become so proficient in Russian? Do you speak any other languages?**  
+I’m not a polyglot. When I was little, besides wanting to be an actor, I just wanted to be European. I wanted to speak a foreign language. Also, I think like 70 percent of the town where I grew up in West Texas was Latino, so I was around Spanish all the time. I speak French because I studied abroad in France. When I was there, I met some Russians, and I got really into their music. I think I just have a knack for it. I’m good at feeling stupid and trying the accent and really committing to it, which is 90 percent of the language-learning stuff.
+
+**Did you understand what you were saying in character on the show?**  
+I understand *those* words. The thing that makes Russian impossible is that it’s not like any other language. In Spanish, dog is always *perro.* In Russian *sabaka* means dog, but depending on the context it’s *sabaka*, *sabaki*, *sabaku*. If I’m like, “This is the dog,” then that’s one word. But if I say, “I’m petting the dog,” then that becomes a different word. And if it’s “the toys of the dog,” then the dog is a different word again. There’s six different ways to say almost every single word that depends on context. So learning vocabulary is almost impossible.
+
+**It’s been a crazy two weeks, and I’m sure you didn’t expect the reaction of the show to be like this, but what has been the most surreal thing that’s happened since the show came out?**  
+I keep gaslighting myself into thinking that nobody has watched this show. I just went and walked and got my coffee with François, who plays Scott Hunter, and we got stopped four times in 15 minutes. Yesterday my sister and I went grocery shopping, and we were just walking around, and after we left she was like, “I didn’t want to tell you in the moment because I didn’t want to make you uncomfortable, but I saw like five different people sneak photos of you.” I was like, *Damn, are we really at that level?*
+
+**You very much are. Let’s get into some of the taste-test questions. Where do you get your best cultural recommendations from?**  
+I only started being online in the past year or so. I’m in the clown scene in L.A.; it’s like an alternate-comedy theater that’s kind of blowing up. It’s been around forever. It’s very European. But it’s having a moment right now, and I feel like I get a lot of my culture from that. I get a lot of music recommendations. I see a lot of performance artists that are doing really crazy, daring stuff that show me what you can do artistically to stimulate people. It can be really brash. It can be kind of cringe. It can be really funny or manic or hysterical or sad.
+
+**What is your pre-filming ritual? Is there something you do to get into the right mind-set to film a scene?**  
+With Ilya, his mannerisms and his accent clicked me into his physicality and his emotional state so easily. Since the accent’s so different from mine, and it does inform so much of the character, the moment I got to my trailer that morning until the time they called cut on the last thing, I kept that accent on just because it would be exhausting for me and everyone else if I went from talking like Connor to \[*switches to Ilya’s voice*\] being this all the time. No one would believe it. It would be bad for my brain. If I know that I have some heavier scenes, I’m a very high-energy person so if I have something that requires me to be a little bit more down, I have to kind of drop Connor a little bit and I have to work to slow my energy down and make my baseline like a level three rather than a level nine or ten, which I usually am.
+
+**Did you have a playlist that you listened to or a song that was on repeat when you guys were on set?**  
+I had a playlist that was all old Russian music that I imagined Ilya’s grandmother probably would listen to. Old ’50s and ’60s love ballads and shit. Playing this Russian character was kind of a manifestation for me. I’ve loved Russian music since like 2015 or 2016. IC3PEAK, which is a pretty popular Russian band now, I was into them from the jump. I used to have an alter ego that I would DJ under with friends, and the character was Russian. I was the Czar. Russian music has always been a huge interest of mine.
+
+**I am a firm believer in manifestation, so I love hearing this. What’s the last book you read that you couldn’t put down?**  
+To be honest, the last book I read was one of the books in the *Game Changers* series, *Role Model*, which is a book that’s connected to Shane and Ilya’s story. But before something in *Game Changers*, I actually think it was one about timeboxing, which is pretty much like how to schedule your life if you want to be highly productive. I read a lot of self-help books. I read Rick Rubin’s *The Creative Act: A Way of Being.*
+
+**Does the timeboxing stuff really work for you?**  
+I don’t do the exact method of timeboxing, but I wrapped production on my feature-film debut as a director and writer at the end of last month, right before the premiere of *Heated Rivalry,* and timeboxing was super-helpful because I was doing all the production, preproduction, planning, all the call sheets, everything. Without taking an interest in these methods, I wouldn’t have been able to do any of that. But right now, life has been so crazy that my schedule is kind of like, *Show up here and do this and then go do this.* To quote Lady Gaga, “A bus, a club, another bus” or whatever she says.
+
+**This is a question from my friends, so I have to ask you: Did you read any smut before** ***Game Changers***\*\*? Or was this your introduction to the world of smut?\*\*  
+To be completely honest with you, I don’t read like that. I’m a very visual person, like my imagination is very visual, so when I start to imagine things, I can’t help but take it and run somewhere else. The only time I was able to *really* get into reading was when I studied abroad in France. Since French was my second language, I had to double focus, not only on the story but also on the language. But no, I had not read any smutty books before *Game Changers*. When you all said sex and books, I did not realize it was like *this*.
+
+**It’s a whole world out there. What is your comfort rewatch?**  
+*The Great British Baking Show.* I’m really bad at keeping up with movies. I will not watch a single thing for like six months, and then I will just be so gluttonous. I feel weird admitting that because if Hudson were here right now, like his idea of comfort … that man is so well researched. My comfort is not in watching something. I’m a doer, you know? I’m always working on something, whether I’m painting my room or learning how to reorganize my kitchen or writing something or making really experimental electronic music that will never see the light of day.
+
+**Okay, so you’re crafty. That’s a good skill to have**. **What is your glute workout? Do you have one?**  
+I do legs. I think legs are super-important.
+
+**How many times a week do you do legs?**  
+Well, first of all, I’ve only worked out like twice in the past two months because of the feature that I directed. I lost 15 pounds. So the butt is gone, everybody! The butt is dead! I’m kidding. I do a lot of kettlebell squats, but I’ll do them raised. I think the whole thing about legs that people mess up is that you don’t get deep enough, but it really depends on your body. Like some people can’t do a full squat where you sink all the way into your heels. Some people can only go about 90 degrees, or else they’ll fall over. But I have really long legs and a really short torso, so I can sit all the way into my heels. I just make sure that whatever I do, I go super-deep. Luckily, at my gym, they have a whole butt room withe five different types of hip thrusts and five different types of abductor machines. We call it the booty room.
+
+**That’s the most L.A. thing I’ve ever heard. Do you do a lot of reps, or is it heavy weight?**  
+I do heavy weights. I’m always switching it up. My body just responds well to change, and it’s funny because it’s kind of the polar opposite of what a lot of workout experts say, which is that consistency is key. But I think it’s nice for a few weeks to go super-heavy, super-low reps and just really fail at like six reps. Then, next time you do it, do three-quarters of the amount of weight, but do twice as many reps and feel the burn in a different way. If you’re doing a squat, for example, really let yourself sit there at the bottom and feel the stretch, and then really push from that place and connect; I think that’s what takes it to the next level.
+
+**In your opinion, what’s the most erotic sport?**  
+Wrestling. It’s practically foreplay.
+
+**If there were a lesbian version of** ***Heated Rivalry***\*\*, who would you cast?\*\*  
+I don’t really know who I would cast, but I can tell you that my favorite actress that I’m obsessed with is Sophie Wilde, the Australian actress who was in *Babygirl* and *Talk to Me.* I just think she’s the most talented and beautiful thing on the entire planet. I don’t know if she would make sense in a lesbian hockey show, but she’s so awesome. Her and the actress from *Squid Games*, Jung Ho-yeon. I just picked the two most beautiful women I could think of. I don’t know if that’s so shallow of me.
+
+This interview has been edited and condensed for clarity.""
+
+By Brooke LaMantia",1,1765971459.0,connorstorrie,0,1.0,False
+1poudg2,https://www.reddit.com/r/Strasbourg/comments/1poudg2/composting_etiquette/,Composting etiquette?,"Hey everyone,
+ 
+  Been in the city for a bit and we have access to the compost bins near our apartment.  The instructions for composting tell us to place all of our compost in those thin paper bags and then dump into the receptacle.  The problem is that if we have anything even remotely wet (think coffee grounds), those paper bags start leaking immediately.  We have a plastic container we are trying to dry out stuff in before we put it in the bag, that only helps too much.  Do people just not use the bags and dump their compost directly into the bin, or am I missing some clever trick, I never see anyone actually putting stuff into the bins, but I do know they get used, as I see food smears on the inside of the insert mechanism.
+
+Thanks for your insight into this matter, it is greatly appreciated!",3,1765971424.0,Strasbourg,2,1.0,False
+1poud37,https://www.reddit.com/r/monkeyspaw/comments/1poud37/i_wish_strong_coffee_worked_like_it_does_in/,I wish strong coffee worked like it does in cartoons.,,3,1765971388.0,monkeyspaw,5,1.0,False
+1poucb4,https://www.reddit.com/r/casualbataan/comments/1poucb4/lolengs_hu_tieu_morong_bataan/,LOLENG’S HU TIEU MORONG BATAAN,"Tried Loleng’s again, located in Morong—and it’s still the best budget-friendly Vietnamese restaurant here in Bataan. I love how they’ve preserved the authentic taste of their Hu Tieu and Banh Mi over the years. One of the things I really love about their place is the Vietnamese coffee—sarap talaga!
+
+We’ve tried almost everything on the menu, and everything has been satisfying despite the affordable prices and their simple, carinderia-style setup. 💯👏🏻
+
+",5,1765971311.0,casualbataan,1,1.0,False
+1poubfd,https://www.reddit.com/r/gurgaon/comments/1poubfd/coffee_place_recommendations/,Coffee place recommendations,Need good outdoor/rooftop coffee place ideas with sunlight for winters where I can work on my laptop.,2,1765971224.0,gurgaon,1,1.0,False
+1poub7y,https://www.reddit.com/r/legaladvice/comments/1poub7y/friend_was_put_on_1099_but_worked_for_a_country/,Friend was put on 1099 but worked for a country club in ATL like a W2 employee,"Location: ATL. 
+
+A friend of mine worked for a country club down in GA. She worked there for a few years but suddenly they got new management and things started to get weird and they ended up just randomly not putting her on the schedule anymore but still didnt fire her for several weeks so she couldn't file for unemployment. Theres a bunch of shady stuff goin on at this place and I guess others are doing it too. 
+
+I guess Im just wondering how I can help her file a lawsuit or help her expose these businesses and maybe get her some money back and these people closed. I already looked into requesting a health insepction because I know theyll fail. Shes a very hard worker and every single job has completely taken advantage of her and worked her 7 days a week sometimes all day at this place and then they had the audacity to not even fire her formally but just randomly told her not to come in anymore but when she asked if shes being let go they would say no or just wouldnt respond. 
+
+Heres part of one message because I asked her if she could file wrongful termination or something along those lines:
+
+""It’s all different because I was under a 1099. They do that so they’re not held liable but I have proof he treated us as w2 employees. We were never independent. Same thing that lady from the coffee shop did. She puts everyone on a 1099 so she doesn’t have to pay taxes and she’s not held liable for anything. Even though we were baristas not contractors. It’s a scam. She’s been fined before and I made her pay me the $300 in taxes I owed because she put me on a 1099 without my knowledge""
+
+We dont have a lot of money but shes not the only one who was treated this way and just wondering if anyone has any ideas on what she could do. ",1,1765971205.0,legaladvice,1,1.0,False
+1poub7r,https://www.reddit.com/r/feedthebeast/comments/1poub7r/earlygame_power_gen_192k_fet_with_coffee/,Earlygame Power Gen 19.2k Fe/t with Coffee,"Its something ... unusual... i guess
+
+But maybe someone out there finds this useful :D
+
+1 Coffe Maker provides 3 Culinary Mycelial Generators generating 6.4k Fe/t each.
+
+I automated it with Modular Routers and Distributer Modules so its expandable.
+
+Also Water and Energy with Modular Routers.
+
+The Coffee Beans get farmed with Ars Nouveau.
+
+The Redstone Clock beneath the Coffee Maker starts cooking, the Tables are just Decoration XD.
+
+https://preview.redd.it/lf9cn7df2r7g1.png?width=1097&format=png&auto=webp&s=a5dec9c80c6693490b3f5e57f099b1b5efe6d4ac
+
+Edit: Its Stoneblock 4 btw",1,1765971204.0,feedthebeast,0,1.0,False
+1poua2z,https://www.redbubble.com/i/notebook/DECAF-NO-THANKS-I-CHOOSE-VIOLENCE-Coffee-addict-by-GagShots/176564170.WX3NH,"DECAF? NO THANKS, I CHOOSE VIOLENCE - Coffee addict Journal",,1,1765971091.0,tshirtscorner,0,1.0,False
+1pou9sw,https://i.redd.it/8j9ppmkn6k7g1.jpeg,coffee time,,1,1765971066.0,u_Affectionate-Fig3998,0,1.0,False
+1pou97x,https://www.reddit.com/r/goodmorning/comments/1pou97x/good_morning_sending_good_vibes_your_way/,Good Morning!!! Sending Good Vibes Your Way!!,Hoping your day is filled with good vibes and great energy to get you through the day! - If not - Coffee's good lol - You can do this!! - HUGS to everyone :),4,1765971010.0,goodmorning,7,1.0,False
+1pou8or,https://www.reddit.com/r/greggsappreciation/comments/1pou8or/with_christmas_around_the_corner/,With Christmas around the corner...,"...Please be kind to staff!
+
+We all understand the holidays can be a stressful time but that isn't an excuse to take it out on people simply trying to do their job. 
+
+
+With Christmas day just over a week away and shops getting busier I thought I'd give some tips on how to make your trip to Greggs as stress free as possible for both customers and staff.
+
+
+- If possible try to order your hot drinks first rather than after we've started packing your food, this means your drinks can go on whilst we do everything else, minimising your waiting time.
+
+
+- Please don't ask for ""just coffee"", tell us which kind you'd like, we're not mind readers. We also can't make drinks ""extra hot"", we press a button on the machine and it does everything for us. If you want to add more milk ask for a regular drink in a large cup. 
+
+
+- Asking for a ""hot sausage roll"" (or any other bake) doesn't change the temperature of what we have out, what's warm is simply pot luck. To add to this we can't heat anything back up for you and if the counters were hot you'd have to pay more.
+
+
+- If you're paying through the Greggs app make sure you're money is on there before getting to the front of the queue. 
+
+
+- We have to ask you if you're taking away, please just say yes or no rather than ""is it not obvious i'm sitting (*gestures to seats*) over there"" or something along those lines. 
+
+
+- We have to confirm your food back to you which is why we'll say things like ""pork sausage roll"". 
+
+
+- Speak up! If you mumble then chances are things are getting missed off your order, it's hard to hear over the noise of machines sometimes, especially whem the shop is busy.
+
+
+- We have no control over the pricing.
+
+
+- If you're waiting for your baguette or toastie to be warmed stand to the side so we can continue to serve other customers, someone will let you know as soon as it's ready.
+
+
+- If you have a big order please don't rush through it, we need time to find things on the till, if you're speed running through it then things are getting missed off.
+
+
+- Manners go a long way!
+
+
+Finally if anyone from the sun (or other tabloids) happens to be reading this, no you don't have permission to use this for an article. 
+
+
+
+
+",16,1765970963.0,greggsappreciation,10,0.9,False
+1pou88p,https://www.reddit.com/r/u_Big-Sleep-5747/comments/1pou88p/why_manglam_dental_hospital_is_considered_the/,Why Manglam Dental Hospital Is Considered the Best Dental Hospital in Jaipur,"Oral health plays a vital role in overall well-being, confidence, and quality of life. Finding the [**best dental hospital in Jaipur**](https://manglamdentalhospital.com/) that offers comprehensive, advanced, and affordable dental treatments is essential for individuals and families alike. Jaipur has emerged as a hub for modern healthcare, and dental services have seen significant advancements in technology, expertise, and patient care.
+
+**Manglam Dental Hospital** stands out as a trusted name in Jaipur, offering a wide range of dental treatments under one roof. From preventive care to cosmetic dentistry and advanced laser procedures, the hospital is committed to delivering safe, comfortable, and long-lasting dental solutions.
+
+# Why Manglam Dental Hospital Is Considered the Best Dental Hospital in Jaipur
+
+Manglam Dental Hospital combines experienced dentists, modern infrastructure, and patient-centric care. The hospital focuses on accurate diagnosis, painless procedures, and personalized treatment plans. With state-of-the-art equipment and strict sterilization protocols, patients receive world-class dental care in a comfortable environment.
+
+Key reasons patients trust Manglam Dental Hospital:
+
+* Highly qualified dental specialists
+* Advanced digital and laser technology
+* Affordable and transparent pricing
+* Comprehensive dental services
+* Friendly staff and hygienic facilities
+
+# Professional Teeth Cleaning Service in Jaipur
+
+Regular dental cleaning is essential for maintaining healthy teeth and gums. [**Professional Teeth Cleaning Service in Jaipur**](https://manglamdentalhospital.com/teeth-cleanings-in-jaipur) at Manglam Dental Hospital helps remove plaque, tartar, and stains that brushing alone cannot eliminate.
+
+Dental scaling and polishing not only improve oral hygiene but also prevent gum disease, tooth decay, and bad breath. The procedure is painless, quick, and recommended every six months to maintain long-term oral health.
+
+Best Teeth Whitening Service in Jaipur
+
+A bright smile enhances confidence and appearance. Manglam Dental Hospital offers the Best Teeth Whitening Service in Jaipur using safe and effective techniques. Whether your teeth are stained due to coffee, tobacco, aging, or medication, professional whitening treatments can restore their natural brightness.
+
+
+
+The hospital provides advanced whitening options, including laser teeth whitening, delivering faster and longer-lasting results compared to home remedies.
+
+
+
+Best Dental Implant Service in Jaipur
+
+Missing teeth can affect chewing, speech, and facial structure. The Best Dental Implant Service in Jaipur at Manglam Dental Hospital offers a permanent and natural-looking solution for tooth loss.
+
+
+
+Dental implants are titanium posts placed into the jawbone, providing strong support for artificial teeth. With proper planning and advanced imaging, implants are placed with precision, ensuring durability, comfort, and improved oral function.
+
+
+
+Root Canal Treatment in Jaipur
+
+Tooth pain and infection can be effectively treated with Root Canal Treatment in Jaipur at Manglam Dental Hospital. This procedure removes infected pulp, cleans the canal, and seals it to prevent further infection.
+
+
+
+Modern root canal treatments are painless and completed with the help of advanced tools and anesthesia. The treatment saves the natural tooth and restores its strength and function.
+
+
+
+Mouth Disease Treatment in Jaipur
+
+Oral diseases such as gum infections, ulcers, oral fungal infections, and precancerous conditions require timely attention. Manglam Dental Hospital provides comprehensive Mouth Disease Treatment in Jaipur, focusing on accurate diagnosis and effective care.
+
+
+
+Early detection and treatment help prevent complications and promote long-term oral health. The hospital also offers patient education to reduce the risk of recurring conditions.
+
+
+
+Tooth Extractions Service in Jaipur
+
+When a tooth cannot be saved due to severe damage or infection, Tooth Extractions Service in Jaipur becomes necessary. Manglam Dental Hospital performs both simple and surgical extractions using minimally invasive techniques.
+
+
+
+With proper anesthesia and post-procedure care, tooth extraction is safe, comfortable, and promotes faster healing.
+
+
+
+Crown and Bridge Treatment in Jaipur
+
+Damaged or missing teeth can be restored with Crown and Bridge Treatment in Jaipur. Dental crowns protect weakened teeth, while bridges replace missing teeth by anchoring to adjacent teeth or implants.
+
+
+
+Manglam Dental Hospital uses high-quality materials that provide durability, natural appearance, and long-term performance.
+
+
+
+Veneers Treatment in Jaipur
+
+For patients looking to enhance their smile, Veneers Treatment in Jaipur is an excellent cosmetic option. Veneers are thin shells placed over the front surface of teeth to correct discoloration, gaps, chips, or irregular shapes.
+
+
+
+At Manglam Dental Hospital, veneers are custom-designed to match natural teeth, offering a flawless and confident smile.
+
+
+
+Braces and Invisalign Treatment in Jaipur
+
+Misaligned teeth and bite problems can affect both appearance and oral health. Manglam Dental Hospital provides advanced Braces and Invisalign Treatment in Jaipur for children, teenagers, and adults.
+
+
+
+Traditional braces and clear Invisalign aligners help straighten teeth effectively. Invisalign offers a discreet, removable, and comfortable alternative for patients who prefer invisible orthodontic treatment.
+
+
+
+Dental Bonding Services Jaipur
+
+Minor cosmetic imperfections such as chips, cracks, or gaps can be corrected with Dental Bonding Services in Jaipur. This quick and cost-effective procedure involves applying tooth-colored resin to improve tooth shape and appearance.
+
+
+
+Dental bonding at Manglam Dental Hospital is completed in a single visit and delivers natural-looking results.
+
+
+
+Artificial Teeth Service in Jaipur
+
+For patients with multiple missing teeth, Artificial Teeth Service in Jaipur provides functional and aesthetic solutions. Options include removable dentures, partial dentures, and fixed prosthetics.
+
+
+
+Manglam Dental Hospital designs artificial teeth that restore chewing ability, speech clarity, and facial structure while maintaining a natural appearance.
+
+
+
+Digital Smile Design in Jaipur
+
+Modern dentistry goes beyond treatment—it focuses on visualization and planning. Digital Smile Design in Jaipur at Manglam Dental Hospital allows patients to preview their smile transformation before treatment begins.
+
+
+
+Using digital imaging and software, dentists customize smile designs based on facial features, tooth alignment, and patient preferences, ensuring predictable and satisfying results.
+
+
+
+Intra Oral Scanning in Jaipur
+
+Traditional dental impressions can be uncomfortable. Intra Oral Scanning in Jaipur uses advanced digital scanners to capture accurate images of teeth and gums.
+
+
+
+This technology improves comfort, precision, and treatment planning for crowns, implants, aligners, and cosmetic procedures at Manglam Dental Hospital.
+
+
+
+Laser Dentistry Treatment in Jaipur
+
+Laser Dentistry Treatment in Jaipur represents the future of painless and precise dental care. Manglam Dental Hospital uses laser technology for gum treatments, cavity removal, whitening, and soft tissue procedures.
+
+
+
+Benefits of laser dentistry include reduced pain, minimal bleeding, faster healing, and lower risk of infection.
+
+
+
+**Cosmetic Dentistry in Jaipur**
+
+A beautiful smile boosts self-confidence and overall personality. Cosmetic Dentistry in Jaipur at Manglam Dental Hospital includes teeth whitening, veneers, bonding, smile designing, and orthodontic solutions.
+
+
+
+Each cosmetic treatment is customized to meet individual needs, ensuring natural and long-lasting results.
+
+
+
+**Conclusion**
+
+When it comes to choosing the best dental hospital in Jaipur, Manglam Dental Hospital offers a perfect blend of expertise, technology, and compassionate care. With a comprehensive range of services—from preventive treatments to advanced cosmetic and laser dentistry—the hospital ensures complete oral healthcare for every patient.
+
+
+
+Whether you need routine cleaning, dental implants, smile makeover, or specialized treatments, Manglam Dental Hospital is your trusted destination for healthy teeth and confident smiles in Jaipur.",1,1765970921.0,u_Big-Sleep-5747,0,1.0,False
+1pou6g7,https://www.reddit.com/r/AITAH/comments/1pou6g7/aita_for_not_longer_doing_anything_for_my_husband/,AITA for not longer doing anything for my husband?,"My husband and I have been together for 9 years now and yes, we are currently in marriage therapy and have been for roughly 7 months - though admittedly, I am considering canceling future sessions. We have a 2 year old together, no other kids. Our relationship prior to our baby was a happy one.
+
+So, when our child was around 2.5 weeks old, I was diagnosed with PPD. I honestly think I was simply struggling with being alone more than anything. We moved away from my mother when our baby was only a day old (he basically said ""oh I found us an apartment, we move in today"" - as we were staying in my moms basement apartment to save to buy a home - and this was 100% sprung on me with no discussion). And he only took 2 days off work. So basically the first couple weeks of our child's life I was isolated in an apartment, in unfamiliar territory with a brand new baby and surrounded by boxes of our stuff. He left for work at 5am and often didnt come home until after 5pm. I was terrified and irritable, and instead of seeing it for what it was (despite me literally telling him what was wrong), he just ultimately decided he couldn't handle my ""anger"" and started hanging out with his buddies outside our apartment complex for a few hours at least - every single night. It was a VERY telling time of our relationship, where he basically abandoned me. Loved our child and did everything when he was home but the problem was that he hardly ever was home. Eventually I turned ice cold, is the only way I know how to put it. I stopped caring that he wasnt home and I worked through my PPD, essentially, alone. He tried smartening up once I was better. Damage was already done. He suggested therapy, I agreed. In essence, a lot feels better. I started feeling like I actually loved him again. He started taking accountability for everything he did and did everything he could to make it up to me. So, things were going well. 
+
+But that leads us to this issue.. I am technically a SAHM but I also own an online shop and bring in around $900 a month. Its not much but I only spend maybe 2hrs a day on my business and the rest of my time is dedicated to our child. I buy all home necessities, he pays the bills, and for literal months he has told me that he prefers this and that even the little bit I bring in helps him ""tremendously"" and that he enjoys our arrangement. I now realize he was lying. He picked a fight with me a week ago. He had the day off and I told him I was leaving the baby with him while I went grocery shopping because she is sick. He acted totally fine with it. By the time I got home 2.5 hours later, he was livid. He was trying to play some game with his online buddies and our baby was not having it. As stated, they are sick. So my husband is getting irritated because he is being interrupted and the baby is screaming in to his microphone. I get the baby calmed down, put away the groceries and then take a seat on the couch. My husband looks at me and I kind of chuckle and say ""I am glad you see what I go through every day"". He goes ""what do you mean?"" So I told him that he tells me I take this (SAHM) for granted and that he would love to stay home. He SNAPPED. He said the difference between me and him is that he ""actually works"" and never gets a break, that I ""dont want to work"" and if I did, I would find a real job so he wouldn't have to work so much. I asked him when tf I ever get a break (this is literally the FIRST time I have ever been away from our child). He goes ""you get a break every single time you take a nap with them"" and made some commented about laziness. Our son has quite literally not taken a nap in damn near 3 months and even when he did take a nap prior, I stayed away and worked on my business. I do not nap. So I told him that, and he immediately tells me that that is a ""crock of shit"". Keep in mind he was on his microphone the entire time so all his friends heard this. 
+
+I didnt argue further. But I took my ring off. After that, I stopped doing all his laundry. I stopped plating his dinner plates and just left his food in the pots/pans/tupperware with the rest of the leftovers. I no longer prep the coffee pot in the morning to brew at 5am for him. I stopped sending him update texts through the day. Stopped sending him daily pictures of our child. Stopped cleaning up after him - which means all his plates are still on the counters, all his dirty clothing is strewn along the home, his desk has 4 dirty cups and snack wrappers. Yesterday he came home and I was already in bed with the baby and didnt greet him. He ends up picking up some of his garbage and comes in to say we need to talk and that this is being pushed too far and ""obviously he didnt mean it, he was just stressed out because he had dealt with the baby screaming for 2.5 hours straight"". I told him the damage was already done - especially considering he was a POS for over a year, not even 7 months ago. He didnt get to bounce back to being a POS that quickly when what he did before is still etched heavy in my head. And that no, I wont get over his comments and I dont even know if I want to continue this marriage. He said everything he said isnt enough to warrant a divorce and that he is sorry. I dont even want to look at him though. ",126,1765970749.0,AITAH,55,0.98,False
+1pou5zh,https://www.reddit.com/r/espresso/comments/1pou5zh/finedining_restaurant_designing_of_coffee_program/,Fine-Dining Restaurant Designing of Coffee Program [no budget],"Hi everyone, I'm a Sommelier by trade and I have been following this community for years because Specialty Coffee is a passion of mine.
+
+I recently convinced my new GM to upgrade our coffee program at the restaurant where I work at.
+
+The idea that I'm tryin to work on before I pitch it to them is of a Coffee Menu with six different coffees from three different roastery.  
+That will give us the opportunity to talk about origin, varietals, farming, processing, roasting philosophy.
+
+At that point I would like to have maximum customisation possible for my espressos, therefore I'm opting for a Sanremo Opera 2.0 that will allow us to save up to twelve different profile, customising pressure of pre-infusion, main, post; working volumetric or by weght, all sort of Temperatures, with great stability in the groups and many more features.
+
+HERE IS MY QUESTION:  
+Which grinders would you consider if you had to choose on one that needs to give you great espressos, but delivering decent results in french presses and filters (unfortunately you can't remove the idea of a black coffee from Nordic customers, I might switch to OXO rapid brewer).
+
+I've seen the Mazzer Philos, the EK Omnia, not sure if the Weber EG-1 would fit the budget.
+
+What are your general thoughts?
+
+[](https://www.reddit.com/submit/?source_id=t3_1pou3do)",2,1765970700.0,espresso,1,1.0,False
+1pou3tw,https://www.reddit.com/r/sexeducation/comments/1pou3tw/looking_for_a_sexpositive_coffee_table_book_photo/,"Looking for a sex-positive coffee table book / photo album as a teaching aid in counselling, psychological intervention","Hi! I want to help my clients (I'm a psychologist, my dig: sex ed for men) understand the ""reality"" of sexuality, fight their unrealistic expectations, look, and performance anxiety, etc.
+
+People like it when I show them a brain cross-section to explain that ""they're not crazy"", but it's just a normal chemical and electrical reaction. So many young folks need encouragement about their sexuality. Heck, I will not forget the day I learned that my cashew was perfectly fine in shape and size 📏.
+
+Any ideas for photo books with naked ""average people"": cis, trans, vanilla sex acts (not necessarily visually explicit)?
+
+Thanks in advance for recommendations! 💜",1,1765970484.0,sexeducation,1,1.0,False
+1pou3km,https://i.redd.it/a683r3sm0r7g1.jpeg,"December 17, 1941: Steamed Pudding Recipes - Minneapolis Morning Tribune","Link to enlarged recipes:
+
+[https://imgur.com/a/qKqLW7u](https://imgur.com/a/qKqLW7u)",9,1765970458.0,oldrecipes,2,1.0,False
+1pou3do,https://www.reddit.com/r/barista/comments/1pou3do/design_coffee_program_x_finedining_restaurant/,Design Coffee Program x Fine-Dining Restaurant,"Hi everyone, I'm a Sommelier by trade and I have been following this community for years because Specialty Coffee is a passion of mine.
+
+I recently convinced my new GM to upgrade our coffee program at the restaurant where I work at.
+
+The idea that I'm tryin to work on before I pitch it to them is of a Coffee Menu with six  different coffees from three different roastery.  
+That will give us the opportunity to talk about origin, varietals, farming, processing, roasting philosophy.
+
+At that point I would like to have maximum customisation possible for my espressos, therefore I'm opting for a Sanremo Opera 2.0 that will allow us to save up to twelve different profile, customising pressure of pre-infusion, main, post; working volumetric or by weght, all sort of Temperatures, with great stability in the groups and many more features.
+
+HERE IS MY QUESTION:   
+Which grinders would you consider if you had to choose on one that needs to give you great espressos, but delivering decent results in french presses and filters (unfortunately you can't remove the idea of a black coffee from Nordic customers, I might switch to OXO rapid brewer). 
+
+I've seen the Mazzer Philos, the EK Omnia, not sure if the Weber EG-1 would fit the budget.
+
+What are your general thoughts?
+
+",3,1765970440.0,barista,2,1.0,False
+1pou20s,https://www.youtube.com/watch?v=jzsBpw056S8,Coffee Guy reacts : 🦊🔥🤘Babymetal - Monochrome (MV) reaction from The Other One album,,2,1765970307.0,BABYMETALReactVideos,0,1.0,False
+1pou1wg,https://www.reddit.com/r/SaaSSales/comments/1pou1wg/would_you_be_interested_in_trying_an_app_that/,Would you be interested in trying an app that converts money into hours of your life?,"Hi everyone,
+
+I’m exploring a very simple app idea and I’m not trying to sell anything or claim it solves a problem.
+I just want to see if this concept resonates with anyone.
+
+The idea isn’t about budgeting, saving money, or optimizing finances.
+It’s more about awareness.
+
+👉 The concept:
+You enter your salary (or hourly rate).
+Every time you make a purchase, the app converts the amount into actual working time.
+
+Concrete example:
+If you earn around €10/hour:
+
+a €3 coffee → 18 minutes of work
+
+a €15 subscription → 1 hour 30 minutes of work per month
+
+a €120 purchase → 12 hours of work
+
+
+That’s it.
+No advice.
+No judgment.
+No goals.
+
+I know this doesn’t really solve anything by itself.
+It just reframes money",1,1765970293.0,SaaSSales,1,1.0,False
+1pou0xj,https://www.reddit.com/r/iems/comments/1pou0xj/dont_sleep_on_ear_tips/,Don't sleep on ear tips,"[all of these are good](https://preview.redd.it/0khneyydsq7g1.jpg?width=1920&format=pjpg&auto=webp&s=2ad908765c404b67823a38dfbc53751f50d02681)
+
+This post is mainly for those of us with budget IEMs. Don't underestimate ear tips. Some cheap sets come with decent tips, but many don't. And this can hurt your experience. Look for deals and try different ear tips. If you have KZ IEMs almost anything is better than the stock ones.
+
+I ignored tip recommendations because some cost more than the IEMs themselves. But after trying better options, I get it now. ""Ear tips can make or break an IEM"" - believe those words. And am not even talking about sound. It's all about comfort, fit and getting a good seal.
+
+[good seal](https://preview.redd.it/6umpl7zuvq7g1.png?width=624&format=png&auto=webp&s=8abeeca8203092a72720baa0cee33b8aa20f5677)
+
+The right tips make getting a seal effortless and let you forget you even have your IEMs on. ""It's not the size that counts"". We all know nobody actually believes that. And it's true - what size tips work on one shell may completely fail on another. Experiment!
+
+My favorites so far are Kbear Coffee (ugly af but very comfy) and the TRI Clarion. Both seal easily and stay put. But which I prefer depends on the IEM. The Coffee tips are the most shallow of all I tried. They may not work on IEMs that already have a shallow fit. And vise-versa, the TRI Clarion are very long, so they don't feel comfortable to me on IEMs that already have a long deep fitting nozzle. I thought I'd hate wide bore because I prefer warmer sound but I find they don't increase treble so much as they improve clarity. But yea you lose some bass with those.
+
+Some budget IEMs come with good tips in the box. The 7Hz Zero2 and Tanchjim Bunny come with a larger variety that are sticky and seal well. The Tangzu Wan’er 2 include Sancai tips, which are decent, but for me they're not the best. That said, I don’t think Sancai tips are worth the price when bought separately, compared to other options. I still have others to try when they arrive.
+
+Look for deals, use coins and coupons on AE, get better tips.
+
+Maybe don't buy the cheap generic ones of which you can get like 30-50 pieces for sub $2. I have like 100 of them and they're all useless.",8,1765970201.0,iems,2,1.0,False
+1potzkl,https://www.reddit.com/r/PhR4Dating/comments/1potzkl/28m4m_looking_for_my_constant/,28[M4M] looking for my constant,"Hello. I'm looking to meet genuine people to hangout with. I’m down for coffee runs, food trips, movie nights, or even just random conversations. Not rushing for a relationship, but open to more if it feels right.
+
+I’m a bit introverted at first but can be an extrovert once I get comfy. I enjoy meaningful conversations and good. Just really looking for someone I can vibe with.
+
+I’m 5’7”, chinoy, corporate employee in Metro Manila, and on my free time I like to relax by catching up on movies or series, trying new food spots, and exercise.
+
+About you: Hoping you are sensible, emotionally mature, and financiay stable. Please don’t message with just “hi” or “hello”",1,1765970061.0,PhR4Dating,0,1.0,False
+1potzjg,https://www.youtube.com/watch?v=mioYAALSALk,Coffee Guy reacts : 🦊🔥🤘Babymetal - Timewave London The Roundhouse day 2 - reaction from The Other One album,,2,1765970058.0,BABYMETALReactVideos,0,1.0,False
+1potyj7,https://www.reddit.com/r/developers/comments/1potyj7/open_source_developers_how_do_you_genuinely/,"Open Source Developers: How do you genuinely manage to fund/maintain your large, free side-projects?","Hi everyone, I'm a solo developer, and I've been maintaining a fairly complex, free-to-use desktop application in my spare time. It's a passion project, and I'm totally committed to keeping it free and open-source forever. The problem I've run into and I know many of you have faced this too is one of sustainability. My time and costs (like hosting, testing services, etc.) are becoming difficult to manage alongside a full-time job. I have a Ko-fi link set up, but I'm finding it hard to get traction.
+
+I would genuinely love to hear from other developers who have successfully navigated this:
+
+1. **What non-intrusive methods have you found most effective** for encouraging donations (e.g., a README banner, a prompt inside the app, setting milestones)?
+2. **Is sponsoring a developer's time** through something like GitHub Sponsors or Open Collective a better approach than Ko-fi/Patreon for developer tools?
+3. **What's the best way to frame the request?** (e.g., ""Help pay for my testing servers"" vs. ""Buy me a coffee"")
+
+I'm trying to find a good balance where the maintenance is sustainable without ever compromising the ""free"" or ""open source"" nature of the tool.
+
+Thanks in advance for any advice. I'm excited to hear about your experiences!",1,1765969957.0,developers,1,1.0,False
+1potydu,https://www.reddit.com/r/SaaS/comments/1potydu/would_you_be_interested_in_trying_an_app_that/,Would you be interested in trying an app that converts money into hours of your life?,"Hi everyone,
+
+I’m exploring a very simple app idea and I’m not trying to sell anything or claim it solves a problem.
+I just want to see if this concept resonates with anyone.
+
+The idea isn’t about budgeting, saving money, or optimizing finances.
+It’s more about awareness.
+
+👉 The concept:
+You enter your salary (or hourly rate).
+Every time you make a purchase, the app converts the amount into actual working time.
+
+Concrete example:
+If you earn around €10/hour:
+
+a €3 coffee → 18 minutes of work
+
+a €15 subscription → 1 hour 30 minutes of work per month
+
+a €120 purchase → 12 hours of work
+
+
+That’s it.
+No advice.
+No judgment.
+No goals.
+
+I know this doesn’t really solve anything by itself.
+It just reframes money",2,1765969943.0,SaaS,2,1.0,False
+1potyar,https://i.redd.it/nhz26ga6zq7g1.png,Steam Winter Sale 2025 Starts This Week: Major Discounts on the Year’s Best Games,"Steam’s **final sale of the year** is almost here, and it’s shaping up to be one of the biggest deal events of 2025.
+
+The **Steam Winter Sale** kicks off on **December 18** and runs until **January 5, 2026**, bringing deep discounts across thousands of PC games.
+
+Based on Valve’s preview, several of **2025’s most talked-about releases** will be included from award nominees to blockbuster hits and long-awaited PC ports.
+
+As usual, this sale is expected to be the moment when many newer games receive their **first meaningful price cuts**, while older wishlist titles drop to historically low prices.
+
+If past years are anything to go by, inboxes will soon be flooded with “wishlist on sale” emails and many games may end up cheaper than a coffee.
+
+And while Steam steals the spotlight, other PC storefronts are also gearing up for year-end deals, making this one of the best buying windows of the entire year.
+
+# 💬 What’s sitting at the top of your wishlist going into the Winter Sale? Are you hunting new releases or finally clearing your backlog?",2,1765969935.0,allkeyshop,0,1.0,False
+1poty2c,https://www.reddit.com/r/Nepal/comments/1poty2c/where_can_i_meet_locals_in_kathmandu/,Where can I meet locals in Kathmandu ?,"&#x200B;
+
+Hi I'm a foreigner in Kathmandu and would really like to meet locals. I'll be here for a while and may even extend my time if I can meet ppl. I'm already enjoying my time here. 
+
+Where can I meet folk for coffee, beer, lunch ..? I don't really like touristy Thamel-like places. Ty all",0,1765969913.0,Nepal,3,0.33,False
+1potxub,https://www.youtube.com/watch?v=0VoEWcV0suA,Coffee Guy reacts : 🦊🔥🤘Babymetal - The Legend(MV) reaction from The Other One album,,1,1765969889.0,BABYMETALReactVideos,0,1.0,False
+1potxrt,https://www.reddit.com/r/SFWr4rIndia/comments/1potxrt/32_m4r_bangaloredelhiindia_seeking_new_friends/,32 [M4R] Bangalore/Delhi/India - seeking new friends,"Hi everyone! I'm a 32M entrepreneur/IT professional of Indian origins. I've traveled a bit and also studied abroad and got used to the independence but missing this recently and hence considering a move to Bangalore or Delhi. Will likely be in Bangalore on the 25th Dec to 12 Jan this year. And maybe for longer periods next year. 
+
+I''m looking to connect with like-minded people for chats, recommendations (places to visit, live, eat, etc.), and hopefully in-person hangouts once I'm there, nothing fancy, just coffee, movies, trying new restaurants, or casual activities.
+
+About me:
+
+- Total geek in the tech space.
+- Huge movie/TV buff—sci-fi, horror, and adventure are my top genres. Lord of the Rings is hands-down my all-time favorite!
+- Enjoy table tennis, football (watching/playing)
+- Experimenting with different teas, and indulging in dark chocolate.
+
+Favorite conversation topics: Finance, movies/TV shows, tech, and anything geeky.",1,1765969883.0,SFWr4rIndia,0,1.0,False
+1potx8s,https://i.redd.it/7rdleruzyq7g1.jpeg,"Spilled coffee on my keyboard, dried for 3 days, we are so back","Yunzii AL66, Alpacas, Kinetic Labs Code keycaps",5,1765969835.0,MechanicalKeyboards,5,1.0,False
+1potwsu,https://www.reddit.com/r/r4r/comments/1potwsu/26_m4f_glasgow_scotland_inexperienced_in_dating/,"26 [M4F] #Glasgow, Scotland - Inexperienced in dating and looking for the right person","Hey there,
+
+Earnestly I don’t really know what I’m looking for on here, right now I’m hoping to find someone who would like to meet up and grab a drink or a coffee. 
+
+After that I’m open to suggestions haha. 
+
+I’m a bit of an inexperienced guy, never really dated and the idea posting here is to talk and get to know someone who is okay being a bit more understanding that I’m a bit new to all this. Open to making friends, something long term or just something else you may have in mind.
+
+I’d rather ease into things and get to know someone first. 
+
+I can send a pic if you’re interested but description wise I’m 5 10, short brown hair, medium build. I like to read, go to the movies, started working out recently, and i like going for walks around the city. I’m a sociable, funny guy (I think lol) happy to chat and see if we’re a good match!
+
+An odder type of post on here but if you’re interested let me know!
+
+Thanks!",2,1765969792.0,r4r,1,1.0,False
+1potw0o,https://www.youtube.com/watch?v=Smt68APVuG8,Coffee Guy reacts : 🦊🔥🤘Babymetal - Light and Darkness (MV) reaction from The Other One album,,1,1765969711.0,BABYMETALReactVideos,0,1.0,False
+1potvkp,https://www.reddit.com/r/hygiene/comments/1potvkp/do_people_really_skip_brushing_their_teeth_at/,Do people really skip brushing their teeth at night or is this more common than I thoughtDo people really skip brushing their teeth at night or is this more common than I thought,"I recently found out that some people don’t brush their teeth before bed and I honestly can’t wrap my head around it. Like after eating all day, drinking coffee, snacks, everything… how do you just lie down and sleep without brushing?
+
+I get being tired, exhausted, or coming home late, but skipping it regularly feels wild to me. Morning breath, plaque buildup, and just that dirty feeling would drive me crazy.
+
+Not trying to judge, just genuinely curious  is brushing before bed something people actually struggle to keep consistent, or am I just overthinking something that’s way more common than I realized?",0,1765969662.0,hygiene,30,0.5,False
+1potv4m,https://www.reddit.com/r/u_Extension-Humor6823/comments/1potv4m/is_it_possible_to_color_your_hair_without/,Is It Possible to Color Your Hair Without Damaging It?,"Hair colouring is no longer just about covering greys. Today, people experiment with brown hair colour, dark brown hair colour, hair colour burgundy, and many trendy hair colour brown shades. At the same time, awareness about hair health is growing. Beginners, students, and even small business owners in the beauty space want to know if there is a natural hair colour at home or a best ammonia free hair colour that truly protects hair.
+
+https://preview.redd.it/5cee33a5yq7g1.png?width=2816&format=png&auto=webp&s=abea6b308a712f4a1d1a8fbb8fbea41c61f580bf
+
+# The Big Question: Can Hair Coloring Ever Be Truly Damage Free?
+
+The honest answer is: completely damage-free hair colour does not exist, but low-damage options absolutely do. Traditional hair color dye changes the structure of your hair. However, with modern hair colour products, smart ingredient choices, and correct application, damage can be reduced significantly.
+
+So instead of asking *“Is hair colour safe?”*, the better question is:  
+**Which hair colour causes the least damage?**
+
+# What Actually Causes Damage During Hair Coloring
+
+Hair damage happens mainly due to three reasons:
+
+* **Chemical penetration**: Permanent dyes open the hair cuticle to deposit colour.
+* **Ammonia and peroxide**: These weaken hair proteins.
+* **Overuse and poor aftercare**: Frequent colouring without nourishment worsens damage.
+
+This is why people experience dryness, breakage, and fading after repeated colouring. The hair colour effect depends on the formula, frequency, and hair type.
+
+# Understanding Different Types of Hair Color
+
+Not all hair colour dyes work the same way.
+
+**Permanent Hair Colour**
+
+* Long-lasting
+* Uses ammonia or similar agents
+* Best for grey coverage
+* Higher damage risk
+
+**Semi Permanent Hair Colour**
+
+* No deep penetration
+* Fades in 6–8 washes
+* Lower damage
+
+**Hair Colour Dye Shampoo / Hair Colour Instant Products**
+
+* Coat the hair surface
+* Very low damage
+* Ideal for beginners and easy hair colour at home
+
+**Hair Colour Henna & Herbal Options**
+
+* Plant-based
+* Minimal structural damage
+* Limited shade range
+
+# Low Damage Hair Coloring Options Worth Considering
+
+If you want safer colouring, these options work well:
+
+**Ammonia Free Hair Colour**  
+This is one of the most searched solutions today. A good [**hair colour ammonia free**](https://cavinkart.com/products/indica-creme-10-minutes-hair-color-dark-brown-12g-12ml-100-grey-coverage-ammonia-free-long-lasting-colour-enriched-with-walnut-amp-silk-proteins-pack-of-12?utm_source=Organic&utm_medium=SEO&utm_campaign=offpage) formula uses gentler alkalizing agents. It reduces dryness and scalp irritation.
+
+**Hair Colour Herbal & Ayurvedic**
+
+* Includes henna, indigo, amla
+* Popular as hair colour natural solutions
+* Ideal for sensitive scalps
+
+**Hair Colour Dye Shampoo**
+
+* Fast, convenient
+* Suitable for students and busy professionals
+* A growing trend in hair colour kit sales
+
+**Natural Hair Colour at Home**
+
+* Coffee, henna, beetroot (for subtle tones)
+* Works best for brown or light brown shades
+
+# The Role of Ammonia-Free
+
+Ammonia-free does not mean chemical-free, but it does mean gentler.
+
+Benefits include:
+
+* Less cuticle damage
+* Better moisture retention
+* More shine
+
+This is why searches for best ammonia free hair colour, best ammonia free hair colour in India, and ammonia free hair colour shampoo continue to rise.
+
+For e-commerce sellers and marketers, ammonia-free ranges are among the best hair colour categories to promote due to high demand and repeat usage.
+
+
+
+So, is it possible to colour your hair without damaging it?  
+Yes if you choose wisely.
+
+Opt for ammonia free hair colour, hair colour herbal, or hair colour instant products. Match your hair colour according to skin tone, avoid overuse, and follow proper aftercare. Low-damage colouring is not a myth it’s a smarter approach.
+
+",1,1765969612.0,u_Extension-Humor6823,0,1.0,False
+1pots8i,https://i.redd.it/49imc6pt4l7g1.png,turkish coffee,,8,1765969323.0,balkans_irl,3,0.83,False
+1potrzu,https://www.reddit.com/r/DSNY/comments/1potrzu/dont_lie_to_the_supervisor/,Don’t Lie to the Supervisor,"
+
+
+
+
+
+By Edward Panzarella
+
+
+    I was born and raised in New York City, The Home of Broadway, the financial center, The Mets and The Yankees, and the 911 Memorial. Our police and firefighters are among the bravest in the world, There is however one New York municipality that is taken for granted, that is the NYC Dept. of Sanitation. A mistake I will never make again.
+Twice a week I place my garbage curbside,  like every other New Yorker, and like clockwork the garbage disappears, never giving it a second thought.
+
+      On Friday, the building where I worked lost power. With no other choice, my boss give us the rest of the day off.
+     I was excited by this news, all I could think of was grabbing my surfboard and hitting the beach before anyone else,  getting a head start on the weekend. I got out of there as quick as I could, jumped in my car and sped off.
+     The whole way home all I could think about was having the beach all to myself. That's when I made the mistake of turning down a long narrow block with a sanitation truck on it.
+
+The sanitation workers were hard at work, moving the truck up to every house, removing the garbage that was at the curb, and doing it again.
+I tried to be patient, but seconds seemed like hours. All I could think of,  was the day slowly ticking away, and losing that alone time on the beach.
+So I did what any New Yorker would do, I leaned on my horn. The workers did their best to ignore me and continue doing their job. After a minute or so, one of the sanitation workers finally approached me.
+
+“ Excuse me, but could you please stop blowing your horn,  We're moving as fast as we can. We'll get out of your way just as soon as possible,  just be patient”.
+
+       That answer only seemed to grate on my nerves. So again I responded like a New Yorker and flipped him the bird. The sanitation worker ignored this and went back to work. Finally in what seemed like forever, we got to the end of the block and the truck turned off the street and I was able to get home.
+
+       I pulled into the drive way, grabbed my surfboard and headed to the beach. I caught a couple of waves but I couldn't seem to get my mind off of those sanitation workers. After a couple of hours people started to show up, so I packed it in, realizing that no matter what I did I wasn’t going to be able to enjoy the day.
+      When I returned home, I parked my car, put away my surfboard, went into the house, sat on the couch and turned on the tv.
+
+     Next thing I know it was morning, I must have fallen asleep. I stumbled into the kitchen to make myself a cup of coffee. Then I heard it, the sound of a garbage truck going up the block and I realized I forgot to take out the trash. A sense of panic went threw me, thinking that I would have to have the garbage on the side of my house for for another few days. I grabbed the garbage from the kitchen, ran out the back door grabbing the pail in the driveway rushing to the curb.
+
+     When I got there the truck was nowhere in sight.  After what happened yesterday, I was not going to deal with this, they owe me for ruining my day, so I called 311 complaining that the truck drove by my house and didn’t pick up my garbage.
+Later that day an official sanitation car pulled up and a man in a green uniform with a badge on his shirt got out walked up to my pail inspected it, then went to the front door and rang my bell.
+“Hello sir, I’m supervisor Jacks from New York City sanitation, I am here about the 311 complaint you made.”
+
+       I replied “Thank you for coming. It seems that the sanitation workers picked up everyone else’s garbage but mine.”
+The supervisor said “I looked at the way you put your garbage out, there doesn’t seem to be anything wrong. I don’t know why the crew left it. When did you put it out?”
+     I told him “I put it out last night.”
+The supervisor looked puzzled and again said “I don’t understand why.”
+
+       I  exclaimed “ I’ll tell you why, this is because yesterday I found myself behind one of your trucks. I was in a hurry, I got a call from my mother, she had an accident. I was rushing to the hospital to see her. I beeped at the workers to get their attention, and explain this. One of the workers give me the finger, and they purposely started working slower. Now they are refusing to pick up my garbage!”
+
+        Yes, I lied, but I wasn’t about to let those self important civil servant’s get the better of me. They ruined my day at the beach, now it’s pay back.
+
+       The supervisor said “I apologize for their behavior. I will look into this. I will get your garbage picked up. I  hope everything is ok with your mother.”
+He said all the right things, but I was on a roll  “I pay my taxes and I deserve service. These uneducated morons better learn how to do there job.”
+
+     That's where he interrupted me “Sir I appreciate your situation, but I have to tell you the men and women of the sanitation department work hard to keep this city clean and disease free.”
+
+     I replied “Disease free, suddenly they’re all doctors please.”
+
+        The supervisor in a sharper voice said “Again I am sorry for how you were treated, I will get this sorted out, I will tell you this, if there comes a day where those trucks stop rolling, the city will be in serious trouble. Now you have a good day sir.”
+
+     True to his word, at some point during the night the garbage was picked up, bottom line treatedI thought to myself serious trouble, I’m sure the world would be just fine.
+
+      The following week I put out my garbage as usual, but when I came home from work, I found the my garbage thrown about my front hallway, I was furious at this site.
+
+      I don’t know how they got into my house, but this was obviously pay back. I called 311 again and blasted the operator, screaming and yelling how the sanitation workers broke into my house and threw garbage all over.
+
+    Again, the same official car pulled up, and the same officer got out. This time, I was standing outside waiting for him. When he walked over to me, I hit him with a barrage of profanity telling him how the sanitation workers came into my house and threw garbage all around.
+
+     He said to me “ Calm down, now explain what happened?”
+ 
+      I told him”  The sanitation workers took the garbage that I had at the curb, somehow got into my house and scattered it throughout my hallway.”
+
+    The supervisor said” Those are serious charges,  I don't believe that the sanitation workers would do that. Do you have any proof?”
+
+      Yelling at the top of my lungs” You can't believe they would do this. Who else would it be? They're just getting even for the other day.”
+
+       He asked me if I had cameras on the property.
+I told him I have a video doorbell.
+
+      He said again ""those are serious charges, do you mind if I look at the video to see who it was?”
+I agreed, thinking who else could it be, I figuring I had them dead to rights.
+
+      I pulled up the video on my phone, we both watched, what we saw was my garbage sitting at the curb a few minutes go by, then the sanitation truck comes in to view, slowly pull up the sanitation worker picks up my garbage throws it into the truck and drives to the next stop.  I was shocked, I couldn't understand what happened, but there it, was on video it wasn't the sanitation workers.
+
+      The supervisor said to me” Sir I don't know what to tell you, nor do I know who did this. I can tell you that it wasn't the sanitation, workers so I suggest you call the police.”
+
+      So that's what I did. The police came by went over the video, not finding anything obvious, they asked me some questions. Then made a report and left.
+
+      The next couple of weeks went by without incident, so I thought. I put my garbage out and the next day it was gone.
+I then started to notice a rancid rotting smell. I searched my house, and couldn't find anything, until I opened the basement door. The smell was so bad I immediately vomited. There was garbage piled up in the basement. I was bewildered at this discovery. Who was doing this? Since it wasn’t the sanitation workers, I was at a loss. I checked the video for the past week and found nothing. All I know is that I have all this garbage in my basement, and no idea how to get to get rid of it.
+
+       I went to the hardware store, and bought industrial size garbage bags and good pair of gloves. I went back to my house and down to the basement and began to clean up the mess.
+
+     I had to take time off from work, it took 2 days and a 20 yard dumpster, but I finally got all the garbage out of the basement.
+
+     The next day I woke up to that same rancid odor. There was a swarm of flies surrounding and biting me,  I jumped up and ran out of the bedroom. And straight to the bathroom,  I could still smell that horrific odor and I started to wretch.  I jumped in the shower and washed over and over again, trying to get rid of the smell.  No matter how hard I tried I could still smell the garbage. I got out of the shower and went downstairs, what I saw filled me with dread. I found that not just the basement but the entire house filled with garbage. 
+
+     There were maggots all over the countertops, rats running wild, along with roaches.  The amount of flys and mosquitoes were unbelievable.
+I was engulfed by the creatures.  Flies and mosquitoes were biting me everywhere. The swarm was so thick that when I looked down at my hands all I could see was a writhing mass of insects.
+
+     My hair was starting to fall out. I began coughing, sores and boils were starting to cover my entire body. I started to vomit, all that came out was a mixture of blood and bile.
+
+      I tried to make it to the door for help, but before I could get there, I collapsed. I barely had the strength to move. I slowly dragged myself to a window thinking I would call out for help. I didn't have the strength to open it. I could only stare out the window hoping someone would see me.
+Days later I watched as a sanitation car pulled up to the house,  a supervisor gets out and was greeted by my neighbor. I could just make out what was being said.
+
+     I heard my neighbor ” Are you here about the 311 complaint”
+
+     The supervisor answered “Yes, I’m Supervisor Jacks, How can I help you?”The neighbor replied” this use to be a nice house, for some reason the owner must have abandoned it. There is nothing here now but garbage, rodents, and flies, It's a breeding ground for all kinds of diseases, is there anything you can do?”
+
+      The supervisor answered “I can write some summons's, and I'll get in touch with the board of health and we'll try to get this cleaned up for you""  the supervisor add “some people just don't seem to understand how important good sanitation is.”
+I just closed my eyes.
+
+                            The End.
+
+This is my first attempt at writing a short story. I hope it was enjoyable. Please excuse any grammatical errors. The story was written completely without any help from AI
+
+",2,1765969298.0,DSNY,0,0.6,False
+1potrp6,https://www.reddit.com/r/Coffee/comments/1potrp6/mod_the_daily_question_thread/,[MOD] The Daily Question Thread,"Welcome to the daily [/r/Coffee](https://www.reddit.com/r/Coffee) question thread!
+
+There are no stupid questions here, ask a question and get an answer! We all have to start somewhere and sometimes it is hard to figure out just what you are doing right or doing wrong. Luckily, the [/r/Coffee](https://www.reddit.com/r/Coffee) community loves to help out.
+
+Do you have a question about how to use a specific piece of gear or what gear you should be buying? Want to know how much coffee you should use or how you should grind it? Not sure about how much water you should use or how hot it should be? Wondering about your coffee's shelf life?
+
+Don't forget to use the resources in our [wiki](http://www.reddit.com/r/Coffee/wiki)! We have some great starter guides on our [wiki ""Guides"" page](https://www.reddit.com/r/Coffee/wiki/guides) and [here is the wiki ""Gear By Price"" page](http://www.reddit.com/r/Coffee/wiki/gear#wiki_coffee_gear_suggestions) if you'd like to see coffee gear that [/r/Coffee](https://www.reddit.com/r/Coffee) members recommend.
+
+As always, be nice!",2,1765969272.0,Coffee,0,1.0,False
+1potqw8,https://v.redd.it/55x9vbz2xq7g1,Rattle and Stop [Mahlkonig x64],"I’ve had my grinder for about 3 weeks, seemed to be working fine.
+
+This morning put in my 20g of beans and only got about 13g out and a bit of a weird noise.  In my 5am stupor I threw in another 7g thinking maybe I had not hit the tare properly.  Those 7g didn’t come out and increasing weird clunking noise and visible rattle/shake of the mechanism inside.  A few bits of clump spat out.
+
+So that’s 14g of coffee stuck somewhere in the machine?  Seems weird for such a new machine.
+
+About to take it apart and investigate but has anyone else had this issue?  I’m thinking return and another grinder- any suggestions?",5,1765969198.0,espresso,4,1.0,False
+1poto5h,https://i.redd.it/n0vestm8wq7g1.jpeg,On the way for coffee,,11,1765968910.0,Moustache,1,0.87,False
+1potnoq,https://i.redd.it/c7u7vlv3wq7g1.jpeg,On the way for coffee,,5,1765968866.0,gaybrosgonemild,1,0.78,False
+1potnda,https://www.reddit.com/r/justpoetry/comments/1potnda/never_meant_to_be/,Never meant to be,"We met many times after that—
+
+in corridors smelling of chalk dust and fading sunlight,
+
+where your laughter brushed mine like a feather,
+
+but never quite settled.
+
+Love came fast.
+
+In two meetings, my heart had crossed oceans
+
+you never promised to sail.
+
+
+
+Not because you were beautiful,
+
+not because your name carried magic on other lips,
+
+but because you moved as if the world could not hold you.
+
+Carefree. Untouched.
+
+I wanted that freedom too—
+
+before I understood how hollow it could feel,
+
+how lonely it could be to fly
+
+without anyone to anchor you.
+
+
+
+You were the first to notice me in ways I did not notice myself—
+
+the first to speak sentences that landed like warmth.
+
+Keep your hair open, you said once,
+
+and I wore it every day
+
+like a secret spell,
+
+a talisman that kept the impossible
+
+closer,
+
+even if only in memory.
+
+
+
+You traced constellations on my notebook when I wasn’t looking,
+
+leaving tiny doodles in the margins of my day,
+
+and I found myself smiling at empty pages.
+
+You remembered the exact shade of my favorite coffee,
+
+brought it to me once,
+
+and I thought that the world had never been more gentle.
+
+
+
+You laughed when I tripped over words,
+
+caught my hands mid-gesture to steady me,
+
+and let me lean on your shoulder during long walks
+
+through sunlit hallways.
+
+
+
+Your flirting was sunlight on water—
+
+gentle, teasing, impossible to grasp.
+
+When I wore a saree,
+
+you said, marry me,
+
+and my heart said yes before my mind
+
+could protest,
+
+before I learned the rules of waiting.
+
+
+
+You tucked a strand of hair behind my ear when I laughed too loudly,
+
+whispered my name like a secret in crowded rooms,
+
+and pressed your coat over my shoulders when the evening turned cold.
+
+Small things, fleeting things,
+
+but each one a heartbeat
+
+that seemed to say: I see you.
+
+
+
+We kept meeting. I kept waiting—
+
+at doors, in hallways,
+
+in pauses between words,
+
+reading your silence like a promise
+
+that was never mine to keep.
+
+When the weight became unbearable,
+
+I spoke my truth.
+
+You didn’t hesitate.
+
+You loved someone else.
+
+My heart argued. Reality did not.
+
+
+
+Time moved me forward anyway.
+
+I loved again. I married.
+
+And in marriage, I found something steady,
+
+something quiet,
+
+like rain in summer:
+
+soft, constant, enough to survive on.
+
+Not butterflies, not fire—just life
+
+that could be relied upon.
+
+
+
+Then you returned.
+
+Years later, untethered,
+
+free from promises you could never keep.
+
+You said you had never stopped thinking of me,
+
+that every man I loved
+
+was a shadow you could not compete with,
+
+that jealousy had kept you awake at night,
+
+that I had always belonged to you.
+
+
+
+You remembered the songs I hummed as a child,
+
+laughed at the same jokes I had long forgotten,
+
+brushed imaginary dust off my shoulder,
+
+as if to remind me you had always been near,
+
+even in absence.
+
+You pressed my hand into yours,
+
+just for a moment,
+
+and it was enough to send memory tumbling through me,
+
+all the corridors,
+
+all the waiting,
+
+all the impossible weight of first love.
+
+
+
+You looked at my daughter—my answered prayer—
+
+and called her your favorite person in the world.
+
+You whispered the words I had craved—
+
+“I never stopped loving you.”
+
+
+
+Tell me—what do I do
+
+with a love that always arrives too late,
+
+except the first?
+
+What do I do with a truth
+
+that waited for me
+
+to learn how to live without it?
+
+What do I do with the echo of longing,
+
+that has broken me in a thousand quiet ways,
+
+in corridors no one remembers
+
+except me?
+
+
+
+Some loves are never meant to stay.
+
+They are ghosts we carry,
+
+teaching us how deeply we can wait,
+
+how fiercely we can love,
+
+and how cruelly time can keep the ones
+
+we want just out of reach.
+
+
+
+And still, I touch the memory of you
+
+like a scar I never wanted,
+
+like a song that plays
+
+long after the singer has gone.
+
+Even in your return,
+
+even in the warmth of your hand on mine,
+
+I know some doors are meant to stay closed—
+
+and some hearts must learn to hold more than one kind of love.
+
+",1,1765968835.0,justpoetry,0,1.0,False
+1potmsn,https://i.redd.it/d03xj7vuvq7g1.jpeg,I found Nolan and Oliver disguised as coffee,,6,1765968780.0,okbuddyviltrum,2,0.88,False
+1potm1e,https://i.redd.it/r7r51q9mvq7g1.jpeg,Cooked skincare,,41,1765968702.0,shitposting,5,0.96,False
+1potjih,https://www.reddit.com/r/productivity/comments/1potjih/stimulant_cycling_to_maximize_productivity/,Stimulant cycling to maximize productivity,"Mods: I wasn't sure if this discussion was allowed. Please remove if not, and forgive me.
+
+—
+
+I have all the good habits: Exercise, healthy diet, daily meditation, 8h sleep, waking up early.
+
+But nothing boosts my productivity as much as drinking an **extra cup of coffee** over my usual baseline or, on occasion, chewing a **4mg nicotine gum**.
+
+The problem with stimulants is that you quickly **build a tolerance**, the effects diminish, and eventually you need them just to feel normal.
+
+I think for non-addictive personalities, **cycling caffeine and nicotine** (non-smoking forms\*) **intelligently** can be a net positive for productivity and life. I haven't tried any other substance.
+
+Does anyone here do this? What are the on/off schedules that work best for you?
+
+—
+
+\*Regarding nicotine's addictiveness:
+
+As an ex-smoker who didn't touch nicotine for **12 years**, I think nicotine gum is not more addictive than caffeine. It feels nice, which makes me want to take it more often, but it doesn't have the immense pull that cigarettes used to have on me. Cigarettes contain a lot of other garbage specifically designed to get you hooked, and the nicotine hits you much faster.
+
+Looking forward to a reasonable, grown-up discussion about this topic.",0,1765968443.0,productivity,3,0.5,False
+1potfh9,https://www.reddit.com/r/language_exchange/comments/1potfh9/offering_german_seeking_norwegian/,Offering: German | Seeking: Norwegian,"Hi! I'm an early 30sF hoping to find a language exchange partner. I would love to practice my Norwegian and make new friends since I travel to Norway frequently.
+
+My level of Norwegian is B1/B2 but I understand a lot more than I can produce myself. In return I can offer native German!
+
+In my free time I like to travel, do arts and crafts, bake and cook and play video games. I also love going to coffee shops and read or spending time at home with my pets.",1,1765968021.0,language_exchange,0,1.0,False
+1pote76,https://en.wikipedia.org/wiki/Fort_Douaumont,"TIL during the Battle of Verdun, a massive fire and ammunition explosion occurred in Fort Douaumont after some German soldiers tried to heat coffee with flamethrower fuel. Over 600 were killed and some survivors, covered in soot were mistaken for French colonial troops and shot at as they escaped",,279,1765967889.0,todayilearned,21,0.99,False
+1potdoh,https://www.reddit.com/r/u_theleatherfarmuk/comments/1potdoh/find_the_best_leather_handbags_women_will_love/,Find the Best Leather Handbags Women Will Love,"Finding the right handbag is not just about fashion—it’s about comfort, daily usability, and something that feels right every time you carry it. A [best leather handbag](https://theleatherfarm.com/collections/leather-tote-bags) becomes part of your routine, whether you’re heading to work, running errands, traveling, or meeting friends. Leather bags have remained a favorite for decades because they combine beauty, strength, and timeless appeal.
+
+In this guide, we’ll walk through why leather handbags continue to win hearts, what makes a great tote, and how to choose the right style for different needs. This blog is written in a simple, easy-to-read way so you can confidently pick a bag you’ll truly love.
+
+https://preview.redd.it/gi2l2911tq7g1.png?width=1024&format=png&auto=webp&s=c0df82c6455fce6ef403dfbda229400054117626
+
+# Why Leather Handbags Never Go Out of Style
+
+Leather has always been associated with quality and class. Unlike synthetic materials, real leather grows better with age. Over time, it develops a natural character that tells your story.
+
+**Key reasons women prefer leather handbags:**
+
+* Long-lasting and durable
+* Soft yet strong material
+* Works for both casual and formal looks
+* Never feels outdated
+* Suitable for daily use
+
+This is why leather handbags for women remain a smart and stylish choice across all age groups.
+
+# A Genuine Leather Tote Bag Is All You Need
+
+While shopping for handbags, you’ll come across many options—satchels, backpacks, crossbody styles, and more. Yet, one design continues to stand out for everyday life: the leather tote bag.
+
+A tote offers the perfect balance between style and space. You can carry your laptop, wallet, makeup pouch, notebook, and even a water bottle without feeling cluttered. The open design makes it easy to access your belongings, and the sturdy handles allow for comfortable shoulder carry throughout the day.
+
+If you’re someone who prefers one reliable bag that fits into every situation, a leather tote bag can easily become your everyday companion.
+
+# Why Choose a Leather Tote Bag for Women?
+
+Leather itself stands for strength and elegance. When shaped into a tote, it becomes even more practical. Whether you’re heading to work or stepping out for a casual day, [leather tote bags for women](https://theleatherfarm.com/collections/leather-bags-for-women) offer flexibility that few other styles can match.
+
+**Benefits you’ll love:**
+
+* Spacious interior for daily essentials
+* Easy transition from work to weekend use
+* Strong structure that holds its shape
+* Comfortable shoulder straps
+
+With the right size and design, a leather tote fits seamlessly into a busy lifestyle while still looking polished.
+
+# Personalized Leather Tote Bags Add a Special Touch
+
+A handbag feels more meaningful when it reflects your personality. Personalized leather totes allow you to add initials, a date, or a small symbol that matters to you. This makes the bag truly yours and sets it apart from mass-produced pieces.
+
+Personalized totes are also thoughtful gifts for birthdays, anniversaries, or milestones. Along with the custom detail, many totes include secure inner pockets or zipper compartments, making them practical as well as sentimental.
+
+A personalized bag often feels like the best leather handbag because it carries both function and emotional value.
+
+# Genuine Leather Tote Bags for Work
+
+Workdays demand a bag that is both professional and practical. A genuine leather tote fits perfectly into office life without looking bulky or boring. It easily carries laptops, documents, chargers, notebooks, and personal items.
+
+**Why leather totes work for the office:**
+
+* Clean and confident appearance
+* Enough room for work essentials
+* Keeps items organized
+* Matches formal and business-casual outfits
+
+Many professionals consider a structured tote the best leather tote bag because it supports daily work needs while maintaining a sharp look.
+
+# Spacious and Practical for Busy Days
+
+If you carry more than just the basics, a roomy tote is a must. Large leather totes are designed for women who need space without giving up style. The wide opening and deep interior make it easy to organize everything in one place.
+
+Some women refer to a well-designed, roomy option as an almost perfect leather tote bag because it balances size, comfort, and appearance so effortlessly.
+
+# Classic Colors That Always Work
+
+Color plays a big role in how often you’ll reach for your bag. Neutral shades like black, brown, and tan are popular because they pair well with almost everything.
+
+A black leather tote, in particular, feels timeless. It looks just as good with office wear as it does with casual outfits. These shades are also easier to maintain and don’t show wear as quickly, making them ideal for everyday use.
+
+# Hobo and Crossbody Styles for Relaxed Looks
+
+Not every day calls for a structured tote. On casual days, many women prefer softer silhouettes like hobo bags or crossbody styles. These bags offer comfort and ease while still looking stylish.
+
+A leather shoulder bag is especially useful when you want something lighter but still spacious enough for essentials. It sits comfortably on the shoulder and works well for shopping trips, coffee dates, or short outings.
+
+# Choosing the Right Leather Handbag for You
+
+Before buying a leather handbag, think about your daily routine and what you carry most often.
+
+**Ask yourself:**
+
+* Do I need space for a laptop?
+* Will I use this bag daily or occasionally?
+* Do I prefer structured or soft designs?
+* What color suits most of my outfits?
+
+Answering these questions will help you choose a bag that truly fits your lifestyle.
+
+# A Collection Designed for Every Occasion
+
+From work-ready totes to relaxed everyday bags, leather handbags offer endless options. Some designs focus on simplicity, while others highlight bold textures and finishes. The beauty of leather lies in its versatility—it adapts to different needs without losing its charm.
+
+A high-quality tote can be your go-to for years, making it a meaningful addition to your wardrobe rather than just another accessory.
+
+# Conclusion
+
+Leather handbags continue to be loved for a reason. They combine durability, comfort, and timeless style in a way few other materials can. Whether you’re drawn to classic totes, spacious work bags, or relaxed everyday styles, the right leather handbag can simplify your routine and elevate your look.
+
+At [**The Leather Farm**](https://theleatherfarm.com), each leather tote is crafted with care, focusing on quality materials, thoughtful design, and everyday practicality. If you’re looking for a handbag that feels just right from the first use and grows better with time, a genuine leather tote is always a choice worth making.",1,1765967834.0,u_theleatherfarmuk,0,1.0,False
+1potdld,https://www.reddit.com/r/RoundhillETFs/comments/1potdld/woke_up_at_5am_and_already_got_my_wpay_dividends/,Woke up at 5AM and already got my WPAY Dividends,"Due to my new job, I found myself waking up earlier than usual. As I sip on my coffee, I discovered that my Dividends were already in my accounts. Why so early? ",0,1765967826.0,RoundhillETFs,5,0.33,False
+1potcvn,https://www.reddit.com/r/GiftedHaven/comments/1potcvn/believe_in_me_kevin_gates/,Believe In Me - Kevin Gates,"(Intro)
+I remember the first day that I ever saw you
+I knew that I loved you when I saw you
+And I was just like... like you fuck with bums
+You fuck with bullshit niggas like
+What is it you see in them, you don't see in me?
+
+(Hook)
+Stayed fly..
+Just in case I caught your eye
+What is it you don't see in me
+You see in those guys
+Always been beautiful to me
+I'm not hating baby, They not even your type
+I fell in love on the first day I met you
+But why don't you believe in me?
+Why don't you believe in me?
+One day you'll believe in me!
+
+(Verse 1)
+Me playing the background
+I was thugging hard
+Big Ron jumping out of cars
+Seen my process get destroyed
+Hard to say I love you when I don't
+Stubborn, Not admitting when I'm wrong
+Smoke clears, Nodding off alone
+Passing by your grandmother house
+Hoping I could catch you outside
+Stepping out, I gotta dress fly
+Hoping, we could maybe catch eye
+I'm that little nigga now
+Balling for billions
+I'm leaning, Hell of a feeling now
+Turn the lights down, mouth blinging
+God damn just what I was thinking
+Big Jigga talking about banging
+Actually I'm thinking 'bout sneezing
+Never change up
+Never change up
+Gave the lames up
+In the game
+Never gave a name up
+Murder gang
+I am Louie banged up
+But I move those thangs
+I don't do no gang banging
+Fuck the game up
+Passing in the bottom
+Everybody hollering 
+They say Gates you came up
+
+(Hook)
+Stayed fly..
+Just in case I caught your eye
+What is it you don't see in me
+You see in those guys
+Always been beautiful to me
+I'm not hating baby, They not even your type
+I fell in love on the first day I met you
+But why don't you believe in me?
+Why don't you believe in me?
+One day you'll believe in me!
+
+(Verse 2)
+I swear them bands singing
+Got my phone ringing
+Old hoes tend to blow me up lately
+Call you back later
+Caught up, rack chasing
+Bread Winner Ron, Rubberband bringing
+Bread Winner Films, Im'ma shoot ya
+Shot by Spencer on the roof
+AMG, Big body coupe
+Passing through the ghetto, They salute
+Broke and out of dope
+They was acting like they didn't have smoke on em
+Now we on the road, My cologne got a strong odor
+Asking where you been at little homie
+Smell like you got a pound of smoke on ya
+Lost shopping look at what I found
+Private jets, We not on the ground
+12 am, Smell of coffee grounds
+Gates right back at it once again
+I'm a gangster, My administration
+Go and get it, I don't to no waiting man
+Pussy rapper made me play the waiting game
+Smell like Teen Spirit, I am Kurt Cobain
+Smell like Teen Spirit, I am Kurt Cobain
+
+(Hook)
+Stayed fly..
+Just in case I caught your eye
+What is it you don't see in me
+You see in those guys
+Always been beautiful to me
+I'm not hating baby, They not even your type
+I fell in love on the first day I met you
+But why don't you believe in me?
+Why don't you believe in me?
+One day you'll believe in me!
+You'll..You'll believe in me
+One..one day you'll believe in me",1,1765967752.0,GiftedHaven,0,1.0,False
+1potcvi,https://www.smh.com.au/national/nsw/when-coffee-plans-are-grounded-20251217-p5nobx.html?ref=rss&utm_medium=rss&utm_source=rss_national,[AU] - When coffee plans are grounded | Sydney Morning Herald,,1,1765967751.0,AutoNewspaper,0,1.0,False
+1potcve,https://www.smh.com.au/national/nsw/when-coffee-plans-are-grounded-20251217-p5nobx.html?ref=rss&utm_medium=rss&utm_source=rss_national_nsw,[AU] - When coffee plans are grounded | Sydney Morning Herald,,1,1765967751.0,AutoNewspaper,0,1.0,False
+1potc68,https://www.reddit.com/gallery/1potc68,"You know that feeling when you remember recording something important but can't find it? Yeah, we fixed that.","Three weeks ago I had a client meeting. Great ideas came up. I recorded it all on voice memos.
+
+Last week I needed to reference something from that meeting. Spent 20 minutes scrolling through voice memos. Gave up. Used my memory. Got it half-wrong. Looked unprepared.
+
+That moment made me realize: everyone has this problem. Voice notes feel productive when you record them. But they're useless if you can't find them later.
+
+So I built **SpeakSummarize** with my team. It's not complicated:
+
+**Record → Summarize → Search → Find**
+
+You talk. App listens. You get back:
+
+* Clean summary of what you said
+* Action items automatically extracted
+* Topics organized
+* Ask Echo ""what did they say about X?"" and it finds it instantly (with context)
+* Works in 28 languages
+
+**Real example from a user:** ""I recorded 5 meetings last week. Used to have them buried in my phone. Now I have them organized with action items pulled out automatically. It's saved me hours.""
+
+That's it. That's the product.
+
+**Why you should try it now:**
+
+We're capping lifetime access at 100 total. We're at 75+ in 5 days.
+
+Lifetime = $39.99. One payment. Forever.
+
+After 100, it's $4.99/month or $49.99/year.
+
+The 7-day free trial lets you try everything before deciding.
+
+**Free tier:** 15 recordings/month (actually good enough for most people)
+
+**Download:** [App Store](https://apps.apple.com/us/app/speaksummarize/id6755344657)
+
+**Questions:** [hello@speaksummarize.com](mailto:hello@speaksummarize.com)
+
+**Community:** [r/SpeakSummarize](https://www.reddit.com/r/SpeakSummarize/)
+
+**Website:** [speaksummarize.com](https://www.speaksummarize.com/)",1,1765967681.0,ProductivityApps,0,1.0,False
+1potaq7,https://www.reddit.com/gallery/1potaq7,"You know that feeling when you remember recording something important but can't find it? Yeah, we fixed that.","Three weeks ago I had a client meeting. Great ideas came up. I recorded it all on voice memos.
+
+Last week I needed to reference something from that meeting. Spent 20 minutes scrolling through voice memos. Gave up. Used my memory. Got it half-wrong. Looked unprepared.
+
+That moment made me realize: everyone has this problem. Voice notes feel productive when you record them. But they're useless if you can't find them later.
+
+So I built **SpeakSummarize** with my team. It's not complicated:
+
+**Record → Summarize → Search → Find**
+
+You talk. App listens. You get back:
+
+* Clean summary of what you said
+* Action items automatically extracted
+* Topics organized
+* Ask Echo ""what did they say about X?"" and it finds it instantly (with context)
+* Works in 28 languages
+
+**Real example from a user:** ""I recorded 5 meetings last week. Used to have them buried in my phone. Now I have them organized with action items pulled out automatically. It's saved me hours.""
+
+That's it. That's the product.
+
+**Why you should try it now:**
+
+We're capping lifetime access at 100 total. We're at 75+ in 5 days.
+
+Lifetime = $39.99. One payment. Forever.
+
+After 100, it's $4.99/month or $49.99/year.
+
+The 7-day free trial lets you try everything before deciding.
+
+**Free tier:** 15 recordings/month (actually good enough for most people)
+
+**Download:** [App Store](https://apps.apple.com/us/app/speaksummarize/id6755344657)
+
+**Questions:** [hello@speaksummarize.com](mailto:hello@speaksummarize.com)
+
+**Community:** [r/SpeakSummarize](https://www.reddit.com/r/SpeakSummarize/)
+
+**Website:** [speaksummarize.com](https://www.speaksummarize.com)",2,1765967528.0,GenAiApps,0,1.0,False
+1potaj3,https://i.redd.it/j2izjem2sq7g1.png,I Am The Moooooooon!,,18,1765967507.0,marvelrivals,0,0.95,False
+1potacn,https://www.reddit.com/r/VisitingHawaii/comments/1potacn/best_way_to_meet_singles_in_honolulu/,Best way to meet singles in Honolulu?,"I'm here till the 29th. I don't do much (any) dating or hookups at home,  I've never been that smooth and it's just easier to not get my hopes up, plus I live in a small town. I figure here if I make an ass of myself, I'll never see them again so the pressure is off!
+
+I'm trying bumble but I'm almost as bad at that type of thing as I am at meeting single women IRL. Honestly if I just went out for coffee or drinks with a girl and that was it, I'd call it a win.",0,1765967491.0,VisitingHawaii,1,0.5,False
+1pot9qt,https://www.reddit.com/r/HarukiMurakami/comments/1pot9qt/repost_of_repost_finally_to_reflect_a_final/,"*RE-POST OF RE-POST, FINALLY, TO REFLECT A FINAL TRANSLATION* My Reading Of “The Town of Cats'” by Hagiwara Sakutarō (Which Inspired My Favorite Novel, 1Q84, By Haruki Murakami) *TRANSLATED INTO CHINESE, WITH ENGLISH SUBTITLES*","**IMPORTANT NOTE:** When I originally posted my translation of ""The Town of Cats,"" it was only a shortened, truncated version of Hagiwara Sakutarō's short story.
+
+This new post features a complete and unabridged translation.
+
+My previous post containing the abbreviated version has been deleted by me.
+
+**NOTE ON MY PREVIOUS NOTE:** I've revisited the project one last time. This version featurest he most accurate and natural translation I could achieve (refined extensively for clarity, flow, and cultural nuance)
+
+Hagiwara Sakutarō's ""The Town of Cats"" (*Nekomachi*, 1935) is the renowned Japanese poet's only work of fiction. A morphine-addicted narrator, recovering at a hot spring, wanders toward a familiar town but suddenly perceives it as a perfect, harmonious city filled with thousands of cats instead of people. The vision blends drug-induced hallucination, vestibular disorientation (from defective semicircular canals), and possible supernatural reality, exploring alienation, fragile perception, and the eerie appeal of an idealized but lifeless world.
+
+In Haruki Murakami's novel *1Q84* (2009–2010), protagonist Tengo reads an embedded short story titled ""Town of Cats,"" supposedly by an obscure 1930s German author. It depicts a traveler who discovers a remote town active only with cats at night; he leaves, but later finds no train ever stops there again, implying eternal isolation for anyone who stays. Tengo sees it as a metaphor for loneliness and his own estranged relationship with his dying father.
+
+The two stories share striking similarities in premise—a lone human glimpsing a hidden cat-dominated realm—along with themes of disorientation, alienation, and blurred reality. Critics view Murakami's version as a clear homage to Hagiwara's weirder, more psychologically intense original, despite framing it as European to universalize or subtly mask the influence. This intertextual link highlights Murakami's debt to Japanese literary predecessors while adapting the motif to symbolize isolation, fate, and parallel worlds in *1Q84*.
+
+MY TRANSLATION: [https://www.youtube.com/watch?v=TrgZoYGKhdE](https://www.youtube.com/watch?v=TrgZoYGKhdE)
+
+**THE TEXT EXCERPT:**
+
+*The quality that once stimulated my desire to travel has gradually disappeared from my imagination. In the past, however, the symbol of travel almost filled my thoughts. Just imagining a train, a ship, or a foreign town was enough to make my heart rejoice. But experience has shown me that what travel offers is merely the same objects moving through the same spaces. No matter where you go, you encounter the same kinds of people living in similar villages, repeating the same monotonous lives.*
+
+*In every small town you see merchants playing with their abacuses all day long, staring at the white dew floating on the dust outside. In every city hall, officials smoke and wonder what to eat for lunch. They lead boring, monotonous lives—each day identical to the one before. As I watch this, I feel myself aging. Now the thought of travel reflects only an infinitely monotonous landscape upon my tired heart, like a copper statue standing in the open air. I hate this repetitive, monotonous human existence. Travel has ceased to be interesting or romantic for me.*
+
+*In the past, however, I often traveled in my own unique way. Let me explain: I would reach those rare moments when a human being seems able to fly—special moments detached from time and space, free from the chain of cause and effect. I would travel to the border between dream and reality and play in a world of my own creation.*
+
+*I have said enough; I think there is no need to explain my secret further. I will only add this: besides those hallucinations, I generally preferred morphine and cocaine, which required only a simple injection or dose. Opium is difficult to obtain in Japan and demands elaborate tools and preparation—there is not enough space here to describe it in detail. Those drug-induced travels often took me to marshlands where tiny frogs gathered, or to the extreme coasts inhabited by penguins. The scenery in those dreams was always bright and colorful; the sea and sky were clear as glass. Even after returning to ordinary consciousness, I would continue to rely on those hallucinations again and again.*
+
+*In the real world, however, these drug travels inflicted terrible damage on my health. I became increasingly haggard; my skin deteriorated; I seemed to age prematurely. Gradually I began to pay more attention to my health. On my doctor’s advice, I started taking short daily walks nearby—forty or fifty meters from home, lasting thirty minutes to an hour.*
+
+*One day, while exercising, I accidentally discovered a new way to satisfy my strange craving for travel.*
+
+*I usually walked in the familiar area near my house, never straying far from the designated paths. But for some reason that day I wandered into a strange alley and took the wrong direction. I completely lost my sense of orientation.*
+
+*In short, I have no natural sense of direction; my ability to follow the compass is severely lacking. As a result, I get lost anywhere if I enter even a slightly unfamiliar place. Worse, I have the habit of walking while immersed in my own thoughts—so deeply that if I pass an acquaintance I notice nothing at all.*
+
+*Because of this poor sense of direction, I get lost even in completely familiar places, such as my own neighborhood. I may be very close to my destination, close enough that people laugh at me for asking directions. Once, after living in the same house for many years, I walked dozens of circles around the fence without seeing the gate that was right in front of me. My family insisted a fox spirit had bewitched me. Psychologists might interpret such confusion as inner disorder; some experts claim the sense of direction depends on the semicircular canals in the ear.*
+
+*In any case, completely lost and confused, I guessed a direction at random and hurried down the street to find my way home. Wandering through wooded suburbs and residential areas, I suddenly emerged onto a bustling street in a charming little district.*
+
+*I had no idea where I was. The roads were swept clean and glistening with moisture. The shops were tidy and orderly; their windows were piled with unusual goods. Flowers grew under the eaves of a coffee shop, playing with the artistic light and shadow cast by the street. The red mailbox was strikingly beautiful. The young woman in the tobacco shop was as bright and sweet as a pear blossom.*
+
+*I had never seen such a beautiful place. Where in Tokyo could such a place exist? Yet I could not have walked far; I had little time and was surely only half an hour from home—or at least not much farther. Still, how could this place be so close? I did not know. It felt like a dream; perhaps what I saw was not a real town but a reflection or silhouette projected on a screen.*
+
+*Then suddenly my memory and common sense returned. I realized I was looking at an ordinary, familiar street in my neighborhood. The mailbox stood at the intersection as usual. The young woman in the tobacco shop was the one who stuttered. The same goods were piled in the windows. The coffee shop had a rough roof decorated with artificial flower pots. This was no new place—it was the familiar French concession district.*
+
+*In the blink of an eye, my perception of the surroundings had completely reversed. A mysterious, magical place had turned into an ordinary town. All because I had lost my bearings: the mailbox that had seemed at the south end now stood at the north entrance across the street; the merchant’s house on the left had moved to the right. This simple reversal was enough to make the entire district appear new and different.*
+
+*In that brief moment I noticed a sign atop a shop in the unknown, fantastic town—and I swore I had seen the same picture on that sign elsewhere. When memory returned to normal and all directions reversed, I realized that although I had been walking north, I was now heading south. At the instant my memory normalized, my inner compass truly spun; locations switched, the whole universe changed. The atmosphere of the town before me altered completely. The mysterious district I had seen moments earlier existed in a universe on the opposite side of the compass.*
+
+*After this accidental discovery, I began deliberately getting lost in order to travel again to such mysterious places. The shortcomings I described earlier were particularly helpful for these journeys. Yet even people with a good sense of direction sometimes experience the same phenomenon. For example: you board a late-night train home, doze off, and wake to find the train has changed direction at some point—now traveling west to east instead of east to west. Convinced it is impossible, you look out the window: the familiar midway stations and scenery appear utterly unfamiliar. The world looks so different that you cannot recognize anything. Only when you arrive and step onto the familiar platform do you awaken from the illusion and regain your sense of direction. Strange scenery reverts to boring familiarity; everything becomes ordinary again.*
+
+*In fact, you first saw the same view from the opposite side, then from the accustomed front. Every object has two independent faces; merely changing perspective reveals the other. This way of seeing is far more mysterious than the mere concept of a hidden side.*
+
+*As a boy I often examined paintings on the wall, wondering what world lay on the reverse of the canvas. I repeatedly lifted them to peek at the blank back. Those childhood thoughts remain an unsolved riddle even in adulthood. But the story I am about to tell may contain a hint toward solving it.*
+
+*If my strange tale leads readers to imagine a fourth dimension—the world behind objects, a universe existing on the opposite side of the landscape—then this story will be entirely true for you. If you cannot imagine such a place, the following will seem like a horse flying into shadow, destroying an absurd delusion. Regardless, I will have the courage to write. I am not a novelist and know nothing of dramatic complexity or plot. All I can do is describe directly the reality I experienced.*
+
+
+
+**DISCLAIMER**: Professional English translations already exist and are superior in accuracy and polish (such as Jeffrey Angles' version, featured in anthologies like *The Weird* and *Modanizumu*). If you're seeking the most faithful reading experience in English, I strongly recommend those instead of my fan-made rendition.",1,1765967426.0,HarukiMurakami,0,1.0,False
+1pot9fn,https://www.reddit.com/r/Chandigarh/comments/1pot9fn/chandigarh_walk_run_talk/,"Chandigarh Walk, run, Talk","Hey! I am having busy days at work. I wish to meet new people, we can go for a walk, run, workout or a coffee (no Junk food).
+
+Anyone, please don't be shy. Show up. 
+I am very non judgemental and comfortable to be with. 
+
+Thank you! ",2,1765967393.0,Chandigarh,12,1.0,False
+1pot8pn,https://i.redd.it/lznwj4chrq7g1.jpeg,Hire me for Errands,Anyone na may ipapabili in Molino? I gotchu ! Dm for rates,1,1765967318.0,EnglishPractice,2,1.0,False
+1pot8ld,https://www.reddit.com/r/writingcirclejerk/comments/1pot8ld/im_writing_the_next_bestselling_masterpiece_and_i/,I'm writing the next best-selling masterpiece and I want advice.,"OK, I'm writing the greatest novel of all time, something that will make all the other authors, including you, kill themselves of shame. I already have the story planned and everything. I plan to post it on both Writers Wannabe and Basement Dewellers. I just want ANY advice y'all would have for the writing genius who will end all your careers. Like how to write like Stephen King fucked a genderbent clone of himself and then that clone gave birth and produced me. Where to write on -- do I need a large tome to place the paper on when I'm writing? How y'all plan chapters. What sites to post on. How did y'all do your covers, did y'all use AI? I don't want to, but not sure how else I can do covers -- I asked a professional artist, but when I told him he'd get paid later, when my book started selling and I became filthily rich, he laughed so hard that he choked on his coffee and had to be taken to the hospital. [Just any advice y'all have.](https://www.reddit.com/r/fantasywriting/comments/1po0u4k/im_writing_a_webnovel_and_i_want_advice/)",6,1765967306.0,writingcirclejerk,5,0.8,False
