@@ -1,0 +1,2519 @@
+id,url,title,text,score,created_utc,subreddit,num_comments,upvote_ratio,over_18
+1qcjnpy,https://www.reddit.com/r/OneMinuteStories/comments/1qcjnpy/the_freezer_aisle_hums_my_dead_brothers_song/,The freezer aisle hums my dead brothers song,"  
+So this is going to sound insane but the freezer section at walmart hums at B-flat. thats the EXACT note my brother used to whistle when he did dishes. like not similar, the exact same off-key flat B that used to drive my mom completely insane.  
+i stood there for like 20 minutes. some lady reached past me for frozen peas and didnt even notice.
+
+  
+it followed me to the parking lot. now my fridge does it too. im sitting here at 2am drinking coffee and both my fridge and freezer are humming his song and i dont know if im having a mental breakdown or if this is just what grief is now. probably both",1,1768385648.0,OneMinuteStories,0,1.0,False
+1qcjnio,https://www.reddit.com/r/propfirm/comments/1qcjnio/your_prop_firm_challenge_is_rigged_not_by_the/,"your prop firm challenge is rigged. not by the broker, but by how you think drawdown works.","i used to get so angry at support tickets. ""i didn't hit my total loss limit, why is my account closed?"" they’d point to some tiny rule about **intraday trailing drawdown** i ignored because i was busy looking at rsi.
+
+96% of traders fail these evaluations because they don't understand the ""high-water mark"" math. here is the technical reality that is eating your fees:
+
+• **the high-water mark trap:** most firms use **intraday trailing drawdown**. if you are up $1,000 in open profit and the trade pulls back to $200 before you close it, you didn't just make $200. to the firm, **you just lost $800 of your buffer**. your maximum loss limit trails your highest *unrealized* profit.
+
+• **equity vs. balance:** firms like ftmo calculate your daily loss based on **equity** (floating p&l), not closed balance. if you have a big winner that pulls back, it can trigger a daily loss breach even if your account balance is positive.
+
+• **the 1% math:** data shows traders who risk more than 1-2% per trade are **40% more likely to fail**. one bad losing streak (which happens to everyone) hits the daily loss limit faster than the total drawdown, resulting in an ""emotional stop-out"".
+
+• **reference dependence:** your brain sees that $1,000 floating profit as ""yours"" already. when it pullbacks, it registers as a ""phantom loss,"" triggering a surge of anger and the urge to **revenge trade** to get back what you never actually banked.
+
+institutional desks don't play this game. they use **pre-trade risk controls** that are non-negotiable. they treat the human as a source of volatility that must be governed by a machine.
+
+i realized i couldn't calculate these dynamic drawdown numbers in my head while a gold trade was moving 50 pips against me. my brain was too busy panicking. **i had to build a literal checklist and dashboard (TradeApollo) to track the ""true"" drawdown in real-time.** it tells me exactly when to walk away before i hit the ""auto-liquidation"" threshold.
+
+i made the tool available for the price of a coffee if you want to stop guessing your risk. link on my profile. stop brings a ""mindset"" to a mathematical war.",1,1768385626.0,propfirm,0,1.0,False
+1qcjmt4,https://i.redd.it/x19h0wz5iadg1.jpeg,My Vivid Dream: Dialogue with Aster the Traveler,"My vivid dream last year, I'm posting part one. This year 2026 the dream reoccur again I'll post part 2 next week. I drew a cute doodle about what I remember of Aster. 
+ 
+04/18/2025 
+
+Part 1
+
+“This world ceases to exist. I can not fathom how humanity repeats their history over and over. It's tiring, you know that?” Aster sat on a Victorian red sofa, and drank his medium cup of espresso coffee. He continues to rant. 
+
+“At this point humanity will destroy themselves again. Another world order reset will happen.” Aster sighs stressfully “It always keeps me up at nightless hours. I can't rest at all. It's a loop of this damn cycle. Are you hearing me?” I nod, listening to his remarks.
+
+“Very well… I should invite you when I have time. I do need company, being alone here does make me feel lonely and mad. You can make my sanity at least sane. How about that? Deal?” 
+
+",2,1768385556.0,Dreams,0,1.0,False
+1qcjmst,https://www.reddit.com/r/SouthBayLA/comments/1qcjmst/coffee_shop_recs_for_cafe_de_olla/,Coffee Shop Recs for Cafe de Olla?,Title kinda sums it up. I’m looking for a coffee place or restaurant that serves some bomb cafe de olla. Preferably located in the south bay but I don’t mind driving into LA,1,1768385555.0,SouthBayLA,0,1.0,False
+1qcjlgi,https://www.reddit.com/r/VIPHealthClub/comments/1qcjlgi/living_well_with_chronic_conditions_the/,Living Well with Chronic Conditions: The Self-Management Revolution That's Changing Healthcare,"If you're one of the 6 in 10 adults living with a chronic condition—or one of the 4 in 10 managing multiple chronic diseases—this might be the most important health information you read this year.
+
+## The Paradigm Shift in Chronic Disease Care
+
+For decades, chronic disease management meant passive compliance: take your pills, follow doctor's orders, and hope for the best. But groundbreaking research from Stanford's Chronic Disease Self-Management Program has flipped this model on its head. The evidence is clear: **patients who actively participate in managing their conditions experience 20-40% better health outcomes** than those who simply follow prescriptions.
+
+## The Five Pillars of Effective Self-Management
+
+### 1. **Knowledge Is Your Superpower**
+
+Understanding your condition isn't just empowering—it's clinically proven to improve outcomes. A 2023 meta-analysis in *The Lancet* found that patients with comprehensive disease knowledge had:
+- 35% fewer emergency room visits
+- 28% better medication adherence
+- Significantly improved quality of life scores
+
+**Action step:** Dedicate 15 minutes weekly to learning about your condition from reputable sources (CDC, Mayo Clinic, peer-reviewed journals). Keep a ""health journal"" documenting what you learn and how it applies to you.
+
+### 2. **Monitoring That Matters**
+
+Self-monitoring isn't about obsession—it's about awareness. Whether it's blood glucose, blood pressure, pain levels, or mood patterns, tracking key metrics helps you spot trends before they become crises.
+
+**The sweet spot:** Research shows that checking 2-3 times daily (for most conditions) provides optimal data without causing anxiety. Use apps or simple notebooks—consistency matters more than technology.
+
+### 3. **Medication Mastery**
+
+Here's a sobering statistic: **50% of medications for chronic diseases aren't taken as prescribed**. But this isn't about willpower—it's about systems.
+
+**Game-changing strategies:**
+- Link medication times to existing habits (morning coffee, tooth brushing)
+- Use pill organizers with alarms
+- Understand *why* each medication matters (not just *that* you should take it)
+- Communicate openly with your doctor about side effects or barriers
+
+### 4. **Lifestyle as Medicine**
+
+The Mediterranean diet reduces cardiovascular events by 30%. Regular exercise can be as effective as medication for mild-to-moderate depression. Quality sleep improves insulin sensitivity and immune function.
+
+**The 80/20 rule:** Focus on the lifestyle changes that deliver the biggest impact for your specific condition:
+- **Diabetes:** Consistent meal timing and 30 minutes of daily movement
+- **Heart disease:** Mediterranean diet and stress management
+- **Arthritis:** Low-impact exercise and anti-inflammatory foods
+- **Asthma:** Identifying and avoiding triggers, breathing exercises
+
+### 5. **Building Your Healthcare Team**
+
+You're the CEO of your health, but every CEO needs a strong team. This includes:
+- Primary care physician (your quarterback)
+- Specialists for your specific conditions
+- Pharmacist (an underutilized resource for medication questions)
+- Mental health support (chronic illness affects mental health—period)
+- Peer support groups (people who ""get it"")
+
+## The Mental Game: Managing the Emotional Toll
+
+Living with chronic illness isn't just physically challenging—it's emotionally exhausting. Depression affects 1 in 3 people with chronic conditions, yet it's often undertreated.
+
+**Evidence-based coping strategies:**
+- **Cognitive reframing:** Instead of ""I can't do what I used to,"" try ""I'm learning new ways to live fully""
+- **Mindfulness practices:** Just 10 minutes daily reduces stress hormones and improves pain tolerance
+- **Social connection:** Isolation worsens outcomes; connection heals (even virtual connection counts)
+
+## Technology as Your Ally
+
+The digital health revolution offers powerful tools:
+- **Telehealth:** Reduces barriers to specialist care
+- **Health apps:** Track symptoms, medications, and triggers
+- **Online communities:** Connect with others managing similar conditions
+- **Wearables:** Provide continuous monitoring and early warning signs
+
+## The Flare-Up Action Plan
+
+Every chronic condition has ups and downs. Having a written action plan for flare-ups can prevent minor setbacks from becoming major crises.
+
+**Your plan should include:**
+1. Early warning signs specific to your condition
+2. Immediate steps to take (medications, rest, breathing exercises)
+3. When to call your doctor vs. when to go to the ER
+4. Emergency contacts and current medication list
+
+## Small Changes, Big Impact
+
+Research from the University of Michigan shows that implementing just **three self-management strategies** can reduce disease burden by up to 40%. You don't need to overhaul your entire life overnight.
+
+**Start here:**
+- Choose ONE monitoring habit to establish this week
+- Schedule ONE appointment you've been putting off
+- Learn ONE new thing about your condition
+- Connect with ONE person who understands your journey
+
+## The Bottom Line
+
+Chronic disease management isn't about achieving perfection—it's about progress. It's not about letting your condition define you—it's about defining how you live with your condition.
+
+The most powerful medication isn't in a pill bottle—it's your own engaged, informed, proactive participation in your care.
+
+---
+
+**Medical Disclaimer:** This information is for educational purposes only and doesn't replace professional medical advice. Always consult your healthcare provider before making changes to your treatment plan.
+
+---
+
+**What's your biggest challenge in managing a chronic condition? What strategies have worked best for you? Let's learn from each other in the comments.**",1,1768385415.0,VIPHealthClub,0,1.0,False
+1qcjka1,https://www.reddit.com/r/chessprogramming/comments/1qcjka1/chess_in_vscode_awaitchess/,Chess in VSCode? AwaitChess!,"Hey there!
+
+What do you guys do while waiting your agent to finish coding? Or your tests to finish? Instagram? **No, don't do it.**
+
+I introduce you... **AwaitChess**!
+
+[AwaitChess](https://preview.redd.it/kqje1ksahadg1.jpg?width=1920&format=pjpg&auto=webp&s=405db0f7ff227d5571fed6534e650bbf1f20146e)
+
+Without leaving VS Code, you can now play a quick chess match with AwaitChess. You sign in using your GitHub account easily and play with fellow developers! If no developers available, you can play with the chess bot too.
+
+You can view the extension by clicking [here](https://marketplace.visualstudio.com/items?itemName=MehmetAkifVARDAR.awaitchess-vscode).
+
+I just released it so I'd appreciate if you can report the bugs you came across. Thank you so much.",2,1768385292.0,chessprogramming,1,1.0,False
+1qcjjur,https://i.redd.it/vpmvqtz8hadg1.jpeg,Coffee becomes the bridge back to reality,"After vacation mode fades and the inbox wakes up, coffee becomes the bridge back to reality.
+One cup resets the focus, the other powers the code — turning post-vacation grogginess into fresh ideas and getting the work flowing again.",1,1768385246.0,pakcoffee,0,1.0,False
+1qcjjhw,https://v.redd.it/t4hzkwmja9dg1,Making The Last Coffee Order For The Day (us),,1,1768385206.0,GoodCoffeeGreatCoffee,0,1.0,False
+1qcjjfq,https://www.reddit.com/r/TheRaceTo10Million/comments/1qcjjfq/you_arent_undisciplined_you_are_just_a_mammal/,"you aren't ""undisciplined."" you are just a mammal with a brain designed to keep you poor.","i spent years shouting at my monitors, telling myself to just be ""disciplined."" i felt like a massive loser because i’d blow a whole week of gains in twenty minutes of rage-clicking entries. i thought i was weak until i stopped listening to ""zen"" gurus and started looking at human biology. the truth is, the market is an environment that specifically punishes the instincts that kept your ancestors alive.
+
+here is the raw data on why your brain is a financial liability:
+
+• **the 2:1 pain gap (loss aversion):** science proves the pain of losing $100 is **twice as powerful** as the joy of gaining $100. when a trade goes red, your brain registers it as a physical threat to your survival. your logical brain shuts down, and you freeze like a ""deer in the headlights"" instead of cutting the loss.
+
+• **the survival glitch (prospect theory):** because losing hurts so much, you are biologically wired to **sell winners too fast** (to stop the anxiety) and **hold losers too long** (to avoid the ""death"" of a realized loss). this is the **disposition effect**.
+
+• **evolutionary misalignment:** in the wild, ""holding on"" to resources is a survival trait. in trading, it is a mathematical death sentence. you have to consciously override millions of years of evolution every single day just to hit a stop loss.
+
+• **the neural trap of habits:** every time you revenge trade, you strengthen a **neural pathway**. under stress, your brain reverts to these familiar, losing patterns because they feel ""natural"". you aren't losing because you lack knowledge; you are addicted to familiar failure.
+
+elite firms like jane street don't hire zen monks; they hire people who understand that human neurology is broken for markets. they don't trust their traders' ""mindset."" they implement mandatory **""kill switches""** that immediately disable all trading when a risk limit is hit. they know once a human is in ""tilt"" mode, they physically cannot follow rules.
+
+i finally accepted i couldn't out-willpower my own dna. **i had to build a logic gate (TradeApollo) to act as my external executive function.** it calculates my risk based on actual equity and acts as my ""robot boss."" if i hit my daily loss limit, it forces me out, exactly like an institutional risk manager would.
+
+i made the protocol available for the price of a coffee if you want to save the 10 hours it takes to build it yourself. i pinned it to my profile if you have the same brain rot.",1,1768385200.0,TheRaceTo10Million,1,1.0,False
+1qcjiv5,https://i.redd.it/l072ijkqgadg1.png,Luckin Coffee US is savage,,0,1768385136.0,transit,0,0.25,False
+1qcjhdb,https://i.redd.it/ksuxbj9bfadg1.jpeg,Hey everyone. i build a free platform called CoffeeCat AI where you can generate images with Nano Banana Pro at no cost.,"Prompt Below:  
+A 22-year-old woman with very long voluminous platinum blonde hair flowing down her back and shoulders in soft waves, sharp winged eyeliner defining her almond-shaped eyes, thick long lashes framing her gaze, smooth fair skin with subtle freckles across her nose, full lips parted slightly, athletic yet curvaceous figure in a black bikini, sitting on the smooth marble edge of a luxurious indoor swimming pool at night, her legs dangling into the rippling turquoise water illuminated by submerged LED lights casting blue volumetric glows and reflections on the wet tiled surroundings, glass walls and high vaulted ceiling with recessed spotlights creating rim lighting along her silhouette, shallow depth of field with 50mm lens at eye level from front three-quarter angle, water droplets glistening on her thighs and calves, steam faintly rising from the heated pool surface, polished chrome pool ladder nearby, dark moody atmosphere with cool blue dominant palette contrasted by her warm skin tones and metallic hair sheen
+
+The site [CoffeeCat AI ](https://www.coffeecatai.com/ai-image)is totally free and does not require any login or signup. Please be gentle with the site since it is new, and drop your feedback in the comments everything you share will help me improve it.  i would really appreciate your feedback to help me make it better.       Seriously, every comment and suggestion helps.
+
+Since the platform is brand new, if you see an error alert, it just means the server is getting overloaded. just be patient and try again in some time.
+
+  
+Thanks so much and enjoy",0,1768384976.0,comfyui,0,0.25,False
+1qcjh6v,https://www.reddit.com/r/IndiaCoffee/comments/1qcjh6v/best_everyday_coffee_in_india_that_actually/,Best everyday coffee in India that actually tastes good?,"Indian coffee drinkers: which brand do you keep re-ordering?
+
+Looking for genuine suggestions.
+
+P.S. Black coffee lover here. ☕️",2,1768384955.0,IndiaCoffee,2,0.75,False
+1qcjecg,https://www.reddit.com/r/SmallBusinessUAE/comments/1qcjecg/getting_a_coffee_brand_into_the_uae/,Getting a coffee brand into the UAE,"I’m part of a coffee brand from my home country (Kenya) and I’m based in Dubai. I’m trying to understand how small coffee brands enter the UAE market. Ialready have samples ready.
+
+Any practical advice is welcome.
+",1,1768384663.0,SmallBusinessUAE,0,1.0,False
+1qcjbxo,https://www.reddit.com/r/BookRecommendations/comments/1qcjbxo/cozy_asian_fiction_thats_actually_good/,Cozy Asian Fiction that's actually good?,"I see the book market is pretty filled with what I call the ""books and tea""-books, ie usually Japanese or sometimes Korean contemporary fiction about exactly these topics like ""Before the Coffee Gets Cold"", ""What You Are Looking for Is in the Library"", or ""Days at the Moriskai Bookshop"". Usually with bright illustrated covers featuring cats.
+
+I don't want to suggest any of them are bad in this post, but I become hesitant when something becomes so trendy. And as there are so many of those books, it's hard to find a great start.
+
+So, I thought I'd just ask here: Which books falling somewhat into this category would you recommend? Which are worth a shot, and which ones are more jumping on the trend but have little to say, in your opinion?",1,1768384404.0,BookRecommendations,0,1.0,False
+1qcjb3i,https://www.reddit.com/r/StartUpIndia/comments/1qcjb3i/need_urgent_advice_need_5l_working_capital_for/,Need urgent advice : Need ₹5L Working Capital for 3-Month-Old DPIIT Startup (Specialty Coffee Export),"Hi everyone, reaching out for some specific advice on bridging a cash crunch for an export-focused startup.
+
+The Situation:
+We are a Private Limited company (registered Oct 2025) specializing in exporting premium specialty coffee to Europe.
+• Invested so far: ₹8–9 Lakhs of our own capital (Self-funded).
+• Compliance: We have our DPIIT (Startup India) Certificate, IEC (Import Export Code), and GST active.
+
+The Need: We need ₹4–5 Lakhs working capital, within the next 1–2 weeks for two specific things:
+
+1. Procurement: Securing high-grade beans for our first inventory batch.
+2. Marketing: Ad spend to drive D2C/B2B sales in Europe.
+
+The Challenge:
+We do not have confirmed Purchase Orders (POs) yet, we are building stock to sell directly in Europe. And company is only 3 months old.
+
+Question for the community:
+1. What are our realistic options to get working capital of 4-5 Lakhs in the next few weeks? (personal loan is not an option currently)
+
+We have the product and the setup ready, just need this last mile of funding to go live. Any leads or experiences would be massively helpful!",1,1768384314.0,StartUpIndia,2,1.0,False
+1qcjaev,https://www.reddit.com/r/ForeverAloneDating/comments/1qcjaev/19_f4m_onlineanywhere_and_here_i_am_still/,"19 [F4M] Online/Anywhere ○ And here I am, still hopelessly hoping.","I hope you're doing good out there. I still havent found you but i have hope ! im still here, crying over sad animal videos, and spending hours binge watching documentaries on things ill never have a practical use for. You know, i still wonder what you look like.. i wonder if youll have short hair, if youll be tall, or just as short as me. I wonder if you like sugar in your coffee or tea. I wonder if you look at the little things in life like i do. But.. its getting late, ill write to you again eventually. xoxo, your dreamer girl.
+
+Heres a bit more about me, hope to hear from you! 
+
+Who am i? 
+
+- silly little dreamer who daydreams about everything and anything. i especialy like looking out from car windows and watching the leaves sway. im very sentimental, i treasure every little thing given to me, even if its just a piece of paper.
+
+-  im a photographer ! i like seeing things and keeping little snips of time frozen in my phone.. everything is precious in a way.
+
+- Im quite emotional, i cried over a piece of macaroni once, felt bad for crushing it. But its in the past(a)
+
+- i love cats, unconditionally, if the whole love thing doesnt work out ill probably end up collecting cats. 
+
+- i love vc's, im quite clingy and need a good bit of attention, but i respect your time for sure! 
+
+Dealbreakers?
+- im in for long term relationships bound by rings and silly silly vows (with little ones too!)
+- im not a fan of alcohol at all, but dont prohibit it
+- smoking and drugs are a no-go, bad memories last. 
+- im currently on anti depressants and may occasionally go numb
+
+What do i ask from you? 
+- max of 6 years older
+- willing to communicate properly (please dont open with just ""hey"", i will NOT exhaust my time responding to nothing)
+- please start with your age and a short intro
+
+Im always willing to try. Even if life hasnt given me much to work with. Have a great day ♡
+",3,1768384239.0,ForeverAloneDating,1,1.0,False
+1qcja77,https://www.reddit.com/r/MakeNewFriendsHere/comments/1qcja77/35m_seeking_vibrant_sparks_and_soothing/,[35/M] – Seeking vibrant sparks and soothing connections,"Hello! My name is Anthony. I’m a 35-year-old man (US, ET time zone) who thrives on introspection, curiosity, and passionate drives.
+
+I seek people who seek meaningful connection that plays out in several different ways, from daily casual chats to shared passions and endeavors. I appreciate the sudden whim of adventure and adore abstract minds and vibrant souls.
+
+Rumination and contemplation are lifelong pursuits of mine. I’m an autodidact who’s been passionate about a variety of persuasions since I’ve been young.
+
+Creativity and artistry are important to me. Personally, I write: about my observations, thoughts, and lived experiences. I also dabble in photography.
+
+I love coffee, both simple and bitter and excessively frilly concoctions, burning incense, because I've always thought the smoke is cool, archiving and organizing, collecting (written texts, oddities and cool things), and time pieces.
+
+If my signal created resonating vibes within you, send me a short message about yourself or the things that make your life up. Let’s see where our conversation takes us.",1,1768384218.0,MakeNewFriendsHere,2,1.0,False
+1qcj9tt,https://www.reddit.com/r/phlgbt/comments/1qcj9tt/feeling_emotionally_unseen/,Feeling emotionally unseen,"**TL;DR:** I’m with someone I genuinely prayed for, but I feel emotionally unseen. I feel loved, but not fully understood and I don’t know if that’s something we can fix.
+
+I met this guy through my friend group. At the time, I didn’t really pay him much attention. I was happily single and he wasn’t making obvious moves anyway. Eventually he started checking in, asking what I was up to, asking if I had plans. I don’t like ambiguity, so one day I asked him point blank over coffee what the fuck was he doing, is he playing with me. For context, this guy is well put together. Pogi, mabango, looks good with our without clothes, can command the room and fucks real good. You get the idea, that’s partly why I was confused because he can get anyone why me? He said he’d been interested for a while but held back because he’d heard I thought dating was a headache. He sounded sincere, so we decided to try.
+
+We started exclusively dating late October. Things were good, daily check ins, fun moments, intimacy. At one point, I even told him while very drunk that I felt like he was an answered prayer. I really believed that. As the weeks went on, though, I started noticing a pattern. Whenever there was a misunderstanding or tampuhan, it felt like my emotions were not allowed to exist on their own. If I was upset, he would get defensive or even more upset than me. Can you imagine, your boyfriend, one of the most important people in your life pero they forgot your birthday? Happened to me. When I brought it up, alam naman daw nya. Almost EOD na nun around 11pm pero no greetings nothing. Parang normal day lang for him. Ang iyak ko nun beh sobrang lala, the next day he got me something fancy that he knows I like and I appreciate it I do but it's not really what I wanted for my birthday. I can get anything I want pero what I wished was for him to make me feel special that day but the fact he forgot made me realize something. Looking back at our conversations parang lagi nalang pala sya. The guy who showed genuine interest before checking on me everyday was gone. Gets ko naman that he probably got too familiar na. I stay in Makati and he stays sa Rockwell, we have very busy schedules so we cannot really spend everyday together. He is amazing in person pero when we are apart. It feels like my emotional needs are not being met.
+
+Now I’m unsure if I’m being overly sensitive or if we’re just not emotionally compatible long-term. I wanted to talk to him about this before Christmas but held back because of the holidays and because I struggle to articulate my feelings without breaking down. I can't put my feelings in proper words so that he understands where I am coming from. Don't get me wrong, I love this guy. I love him so much but I am also getting exhausted trying to fill the emotional cup of our relationship.
+
+I will be staying at his place this weekend and I think this will be a good time to talk things through but I am bracing myself because 95% I will just cry like a baby before I actually say what needs to be discussed and we will just have sex and I will pretend everything is okay after.",3,1768384176.0,phlgbt,1,1.0,False
+1qcj8pl,https://www.reddit.com/r/StopEatingSeedOils/comments/1qcj8pl/is_seed_oil_a_gateway_toxin/,Is Seed Oil a Gateway Toxin?,"If you look into the horrendous way seed oil is produced and the dangers of it then it can make you sensitive to other scams.
+
+I have investigated coffee, particularly instant coffee and it is not pretty! This then lead me into examining the beer market, what a horror show!
+
+Instant cofffee tends to feature alot of robusta beans because they are cheap. The trouble is they have to be roasted at a high temperature which creates carcinogenic acrylamide to form because they have less flavour. 
+
+They are also sprayed heavily with pesticides and alot more prone to mycotoxins from mould. There is even an allowable level of toxins which is regularly broken!
+
+The own brands are the worst offenders but all are bad. You want 100% arabica organic but even that doesen't gurantee there are not heavy metals or mycotoxins present without batch testing.
+
+Then there is beer, companies are bought out and then the ingredients are cheapened up. Glucose  syrup is used instead of sugar and hops flavour instead of actual hops. It is basically counterfit beer! I am talking big names here like Stella and San Miguel, don't trust any you have not researched.
+
+So you need 3rd party tested coffee and beer that is using old methods. Not going to name drop. 
+
+What I am saying is seed oils are the tip of the iceberg. People who regularly use seed oils are probably filling their bodies with all kinds of other crap. 
+
+Are you mindful about all of the things you buy?
+
+I would presume seed oil isn't the only thing that you avoid. Please comment below any horror stories you have discovered about things you used to buy.
+
+ It might open someone elses eyes! 👀🙈",3,1768384051.0,StopEatingSeedOils,0,1.0,False
+1qcj8d9,https://www.reddit.com/r/Baripada/comments/1qcj8d9/looking_for_some_relaxed_hangout_spots_in_baripada/,Looking for some relaxed hangout spots in Baripada,"Hi everyone,
+I’m new to Baripada and still getting to know the place.
+Looking for some nice, relaxed spots to hang out—good coffee places, decent restaurants, or a bar where you can just sit and unwind. Even quieter places where people usually chill or smoke are fine.
+Would appreciate any local suggestions. Thanks.",1,1768384017.0,Baripada,0,1.0,False
+1qcj855,https://www.reddit.com/r/MakeFriendsOver30/comments/1qcj855/39_m_uk/,39 M UK,"Hey currently having a week off due to a minor operation so I’m bored out of my mind so could use a distraction and some great conversation.
+
+Me… I like watching tv shows (currently watching Dark), love films and cinema trips. Like listening to music and podcasts and going to gigs or watching some live comedy. Already have a few shows lined up for this year, seeing Josh Widdicombe, Tim Key, James Acaster, The Maccabees and Jimmy Eat World 🤙🤘.
+
+Also enjoy a theatre trip despite how much it costs now! When I do have some spare time I like to cook and bake too. Batch cooked a huge amount of bolognese yesterday.
+
+Really trying to get in to reading but my attention span is that of a goldfish. Do have a ps5 too so I do game from time to time currently playing Alan Wake 2 which is great but a bit freaky.
+
+Typical Brit I love a cup of tea so if I can go for a long walk and find a coffee shop on route for a cuppa and some cake then perfect. Love a good walk/hike and used to cycle quite a bit but the time to do that now is small.
+
+So if you want to chat tell me your favourite colour and the most random thing about you.",1,1768383993.0,MakeFriendsOver30,1,1.0,False
+1qcj7jh,https://www.reddit.com/r/SwordAndSupperGame/comments/1qcj7jh/iced_coffee_in_the_mossy_forest/,Iced Coffee In the Mossy Forest,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/SwordAndSupperGame/comments/1qcj7jh),1,1768383928.0,SwordAndSupperGame,0,1.0,False
+1qcj7dz,https://i.redd.it/akkq8xfadadg1.png,"I wrote this yesterday, trying to process the disaster that was my day. Looking back now, maybe I am just weak.","##Songs of Assimilation
+
+I wake up glued to the sheets.
+Sweat, salt, good sex.
+The smell isn’t sacred, it’s stale.
+Light cuts the room open.
+It’s not even five and the day is already hostile.
+
+Addiction wakes faster than I do.
+I answer the sun with a screen.
+Good morning, good cell phone, did you sleep well?
+Good morning, trannies of the world; did you survive the night too?
+
+Good morning, playlist.
+
+What are you going to do to me today?
+
+My assimilation song.
+Let’s see where it drags me.
+
+Black coffee.
+
+Black cat named Coffee.
+
+Black cigarette tasting like her mouth — or like Coffee,the drink... Not  the cat... everything’s mixed now.
+
+Same routine. Same residue.
+
+And her, of course.
+Thick black hair. Black sunglasses. Black blouse, rock-star stiff.
+Sweat and her don’t seem to share the same physics.
+Only when we’re tangled, sticky, one thing.
+But she’s leaving for work.
+Today my quest is solitary.
+
+My job: trick the system.
+
+Get the ampoule.
+
+Don’t fuck it up.
+
+Phone again.
+
+A little creature from the West is crying in it.
+
+Her city is polite, you see?.
+
+No matter how hard she tries to  not pass, they keeping treating  her like a woman.
+
+Poor thing. They are so so hugboxxing her... 
+
+My hugbox is this for walls I call home. They protect me for the fucking bullets of the secret civil war that unfolds out the window. 
+
+But what I know?
+
+ Kindness hurts more than hate, it seems.
+
+>""Now shut your dirty mouth
+If I could burn this town
+I wouldn’t hesitate
+To smile while you
+Suffocate and die”
+
+Oh well. Oh well.
+
+Weekles, iDKHOW.
+
+So that’s the mood.
+
+Good.
+
+I drink coffee by the window.
+
+The sun presses against my skin like a threat.
+
+It feels like God is humming the same song to me.
+
+This is your trial, my dear:
+be a woman under forty degrees.
+
+My makeup melts as I apply it.
+Black lines liquefy, run.
+Apocalyptic drops slide down my face,
+announcing the day like bad news.
+Clothes.
+And a prayer for a sound mind.
+
+Long legs — the skirt fits. Okay.
+
+Ribs nice — the light blouse falls as my cloak.
+
+ Okay.
+
+Women wear jewelry — a fake gold necklace, my cilice.
+
+Okay. Okay.
+
+Boots: youthful, defiant.
+
+Okay. Okay. Okay.
+
+I say it out loud, because silence lies:
+
+I am a woman.
+
+The word of the Lord.
+
+_Are you?_
+
+The judges will decide.
+
+Outside, nine in the morning feels like punishment.
+
+My lighter is dead.
+
+Sweat soaks the blouse immediately.
+
+I consider turning back.
+
+I don’t.
+
+I look up.
+
+This is hot.
+
+> ""Don’t try and blame for your sins
+For the sun has burned me black”
+
+Thanks, Bruce.
+
+Let’s cook together in the hallway of my judges.
+
+Car windows line the street. They are the tribuna and the judgment today. 
+
+Old, new, abandoned, crooked.
+
+I read them like verdicts.
+
+She.
+
+She.
+
+She.
+
+Woman.
+
+Woman.
+
+Her.
+
+They…
+
+Man?
+
+No.
+
+No fucking way
+
+>“Devil town is colder in the summertime
+I’ll lose my mind at least a thousand times”
+
+Not Cavetown.
+
+Devil Town is burning.
+
+And my mind is actually slipping.
+
+At the bus stop, women hide in the shade.
+
+Men roast in the sun.
+
+Another ordeal?
+
+Another test for me, my Lord you put it on my path?
+
+I board the bus.
+
+I refuse the game. Fuck you a little God... 
+
+Inside:
+men standing up front, women sitting in the back.
+
+A clean solution to dirty hands. The hand of God showing me his finger. 
+
+Where do I go?
+
+> ""She’s a monster but (a model and) is looking good”
+
+Wrong lyric. I don't understand rhe language.
+
+Right fuel.
+
+Tuck.
+Stand still... please
+Behave... I command you...
+
+Wrong bus.
+
+Wrong side of town.
+
+Ordeal.
+
+Ordeal.
+
+Ordeal.
+
+Of course.
+
+Back outside.
+
+Sun again.
+
+Fifteen minutes to the metro.
+
+I want a cigarette so bad it feels moral.
+
+I spot someone smoking... 
+
+A literal hentai fat bastard type. I can even see the plot unfolding, a Netorare to call my own.
+
+The nicotine-starved brain takes over.
+It demands. A lighter for a grope... Nice, don't you think? 
+
+> ""Please forgive me I got demons in my head”
+
+No.
+
+I don’t deserve that humiliation. There’s still some dignity left.
+
+I’ll buy a lighter!
+
+I go into the store, grab the lighter, go to the cashier and...
+
+I have no money.
+
+No credit.
+
+I forgot...
+
+I’m broke.
+
+>“Tururu, I’m a loser, a disgrace.”
+
+I walk anyway.
+
+No nicotine, just sun branding my skull.
+
+Maracanã throws a shadow.
+
+Everyone in running clothes.
+
+Me in a skirt and boots,
+looking like freshly used.
+
+Yeah.
+
+The day fucks me personally.
+
+A beggar appears.
+
+They always do.
+
+Beggars love trannies.
+
+Same trash tier.
+
+Beggars and trannies — the bastards of the nation.
+
+We trade: cigarettes for fire. A more fairer exchange.
+
+He smells the mint.
+
+Doubts me. He smells my perfume on my sweat, and I smell his sweat on my perfume. 
+
+— Rough night shift?
+
+I get it instantly.
+The boots.
+The legs.
+The blouse.
+I look like I sell something, and is not cigars.
+
+> ""Oh dirty women… they don’t mess around.”
+
+Yeah, Ozzy. Thanks.
+
+— Terrible,
+I say, smiling.
+
+ I mixed it up: 
+
+Beggars and whores.
+The nation’s bastards.
+
+Metro.
+
+Down.
+
+Down.
+
+Just go to the area controlled by organized crime.
+
+Everything will be fine.
+
+I will outsmart the government.
+
+No armed men today.
+
+Lucky.
+
+The territory is calm.
+
+Among drugs and watchers, my oasis:
+the clinic with the best pharmacy in Rio.
+
+Old prescription.
+
+Polite smile.
+
+Little disguise.
+
+They’ll give it to me.
+
+They have to.
+
+I paid enough.
+
+— MISS, WHAT HAPPENED TO YOUR FACE?!
+
+The makeup is gone...
+
+The scars are naked...
+
+Children always see first.
+
+My heart races.
+
+Hello, dissociation.
+
+Good timing.
+
+I don’t remember leaving.
+
+Between blackouts, I find myself covered in sweat and blood.
+
+My palms are red with blood.  New scars are for playing with the old ones... 
+
+The smell is hideous. Blood and sweat. Disgusting. 
+
+Is so hot... I'm in a bathroom, spawned on the ground. 
+
+My skirt is gone. But the tuck is stil strong, congratulations. 
+
+Only the blouse remains... 
+
+Bloody, stuck to my stomach and breasts. I took my bra off, it seems... 
+
+I look around, my legs aren't strong, there's blood on the walls, mine. The bathroom, at least it's mine... It's my house. 
+
+I tricked the government.
+And now what?! 
+
+Now you have failed. The word of a child, a little sacred light, and Vera crumbled before the eyes of the Lord. 
+
+Now, I (you) disappear again. And I will finish with you (us).",6,1768383915.0,4tran4,3,1.0,False
+1qcj73u,https://www.reddit.com/r/Tunisia/comments/1qcj73u/recommendation_for_coffee_shops_to_study/,Recommendation for coffee shops to study,"nlawaj aala coffee shop (manar , centre urbain ,Aouina ) . tbda calme wfihash double consommation (au moins moush kol 2h double ) any recommendations ?.",2,1768383885.0,Tunisia,0,1.0,False
+1qcj707,https://www.reddit.com/r/MakeFriendsUK/comments/1qcj707/39_m_west_midlands/,39 M West Midlands,"Hey currently having a week off due to a minor operation so I’m bored out of my mind so could use a distraction and some great conversation.
+
+Me… I like watching tv shows (currently watching Dark), love films and cinema trips. Like listening to music and podcasts and going to gigs or watching some live comedy. Already have a few shows lined up for this year, seeing Josh Widdicombe, Tim Key, James Acaster, The Maccabees and Jimmy Eat World 🤙🤘. 
+
+Also enjoy a theatre trip despite how much it costs now! When I do have some spare time I like to cook and bake too. Batch cooked a huge amount of bolognese yesterday. 
+
+Really trying to get in to reading but my attention span is that of a goldfish. Do have a ps5 too so I do game from time to time currently playing Alan Wake 2 which is great but a bit freaky. 
+
+Typical Brit I love a cup of tea so if I can go for a long walk and find a coffee shop on route for a cuppa and some cake then perfect. Love a good walk/hike and used to cycle quite a bit but the time to do that now is small. 
+
+So if you want to chat tell me your favourite colour and the most random thing about you. ",1,1768383873.0,MakeFriendsUK,0,1.0,False
+1qcj6oo,https://www.reddit.com/r/espresso/comments/1qcj6oo/first_setup_advice_needed_500/,First Setup Advice needed [500€],"So I already have a Baratza Encore grinder making moka pot coffee and I want to start delving into espresso soon.
+
+I am looking at the Delonghi Dedica because here in Germany its cheap (125€) and all the other options like the bambino are way more expensive while i dont really see what I would gain from them.
+
+Now Ive seen recommended that I immideately swap out the pressurized basket or the whole portafilter and there my first question is about naked portafilters:
+
+How messy are they for a beginner? Can I fit a narrow cup under there (about as wide as the grouphead)?
+
+Then my second question:
+
+Would you recommend other accessories for just starting out? what are some reasonable prices for those accessories? Should I immediately get a precision basket aswell? What about a scale?",1,1768383838.0,espresso,6,1.0,False
+1qcj6l5,https://www.reddit.com/r/careerguidance/comments/1qcj6l5/why_am_i_double_guessing_accepting_a_better_job/,"Why am I double guessing accepting a ""better"" job?","Currently I am working as a duty manager at a pet store on a 16 hour contract. I love this store and my team. I have been with them less than two years and in that time have climbed up to a managerial position. I also have an amazing track record of beating all the kpis set out for me (which is alot). Due to this I have been given and asked for alot of over time , ranging from 24-40 hours, but its not really consistent. Travel time is around 30-50 mins
+
+I couldn't really envision myself in a different store or company until I was told by my manager they would be cutting down hours significantly. This made me panic so I have been applying to other jobs.
+
+Thats when I got an offer to be supervisor at a coffee chain. 40 hr contract. 24 hr shop. 2 days guaranteed off. To top it off my friend already works there. Travel time is 50-60mins.
+
+When I said this to my manager, he was initially disappointed, he doesn't want to lose me as a worker. So he countered offered me a 24 hr contract but with no guarantee that I'll always get overtime. 
+
+Ive come to this crossroads where I feel stuck in my decision. I love my team and the job but i do feel a sense of guilt leaving. There also feels like there isn't much security in a possibility i could get 0 overtime. Though I feel like due to how I work, I should get at least a little bit but its not guaranteed.
+
+But this new job im scared I wont fit in or I wont be good at it. That ill regret changing jobs or that I wont be able to handle the stress. Ive worked in coffee shops and ""rush"" style environments before but not for around 2 years. 
+
+Financially also there is a huge difference between the two. I do want to go travelling and save for trips to other countries, the coffee shop would allow me to save more.
+
+Pet store annual: > £14151 / £1178 p/m after tax
+Coffee shop annual: > £25056 / £1879.90 p/m after tax
+
+Now, tell me am I being stupid if i dont take the leap?",1,1768383829.0,careerguidance,2,1.0,False
+1qcj6cb,https://www.reddit.com/r/mrcreeps/comments/1qcj6cb/i_staffed_a_fire_lookout_for_one_night_something/,I Staffed a Fire Lookout for One Night. Something Tried to Talk Me Down.,"I wasn’t supposed to be staffing the lookout that week.
+
+It was a favor. A gap in the schedule. A “can you just cover two nights until we get someone up there?” kind of thing.
+
+I said yes because I’ve been saying yes to the park in some form for most of my adult life, and because the tower makes sense to me. The routine. The lists. The way your world shrinks down to weather, visibility, and a radio that either works or it doesn’t.
+
+The lookout was technically “decommissioned,” which sounds dramatic until you realize it just means the budget moved on. The stairs were still solid, the catwalk still intact, the windows still swept clean enough to see smoke. The radio still had power if you fed the generator and kept the battery topped off.
+
+It was the kind of place you could pretend was abandoned while still being maintained, because nobody wanted to be the person who admitted they’d let it rot.
+
+I got up there around late afternoon with a pack, a thermos, and a clipboard. The sun was low enough that it turned the treetops copper. From the cab you could see the whole back side of the park: ridgelines folding into each other, cut by long shadows and a few pale scars where lightning fires had burned years ago.
+
+The tower creaked in the wind the way all towers do. Not dangerous creaking. Just the sound of wood and metal remembering they’re tall.
+
+Inside, everything smelled like dust, pine pitch, and old coffee.
+
+There was a laminated sheet tacked by the radios with three bullet points in bold.
+
+DO NOT REQUEST ASSISTANCE OVER UNMONITORED FREQUENCIES.
+
+If you are lost, stay put. Use emergency phones or 911. If you hear a voice directing you off-trail, do not respond.
+
+Somebody had underlined the last line twice, hard enough to emboss the plastic.
+
+I remember smirking at it when I first saw it. Not because it was funny, but because it was such a weird thing to have to write down. It felt like superstition in a workplace that runs on checklists.
+
+I did my first call-in with dispatch. Gave them my location, weather read, and the fact I had a clear view of the southern ridge. They logged it, told me to call again at 2100, and that was that.
+
+The first few hours were quiet.
+
+I made coffee on a little camp stove. I filled out a logbook nobody reads unless something goes wrong. I watched the light fade. The forest below turned into one solid dark mass with only the service road cutting a faint line through it.
+
+The tower radio for the lookout was an old handheld unit plugged into a charging cradle by the window. Someone had wrapped the antenna base with a band of black electrical tape, and the casing had a crescent-shaped gouge on the bottom left corner, like it had been dropped on rock years ago and never repaired. The faceplate sticker was so sun-faded you could barely read it, but if you tilted it just right, you could make out the handwritten block letters: LOOKOUT 3.
+
+Around 2030, the radio squelched and popped in a way that made my shoulders lift automatically. You don’t ignore that sound, not out there.
+
+“Lookout Three, dispatch,” came the voice. “You copy?”
+
+I pressed the transmit. “Copy. Go ahead.”
+
+There was a pause, then dispatch again. “We got some weird traffic earlier. Not on our main. Just letting you know in case you hear it.”
+
+I glanced at the laminated sheet by the radio.
+
+“Define weird,” I said.
+
+Dispatch sounded tired. Same operator I’d talked to a hundred times, the kind who can sound calm even when there’s a crash on the highway and someone’s screaming in the background.
+
+“Unmonitored channel. Someone calling for ranger assistance. Using the word ‘lookout.’”
+
+My stomach tightened a little. “Someone knows there’s a tower up here.”
+
+“Yeah,” dispatch said. “Probably kids. Or someone with an old radio. You’re not to answer anything that isn’t us. If you hear it, log it. That’s all.”
+
+I looked at the underlined line on the laminated sheet and felt my earlier smirk dry up.
+
+“Copy,” I said. “I won’t engage.”
+
+I meant it.
+
+At 2100, I called dispatch with my update. Wind had picked up. Temperature dropping. Visibility still good.
+
+“Copy,” dispatch said. “If you hear anything unusual, do not respond. Do not leave the tower. Rangers are already stretched thin.”
+
+“Copy,” I repeated.
+
+I remember looking at the stairs after that. The trapdoor that led down. The way the tower’s shadow cut across the catwalk in the moonlight. I remember thinking, for no logical reason, that it would be easy to step out and go down and check the perimeter, just to prove to myself nothing was out there.
+
+I didn’t do it.
+
+I locked the trapdoor like I always do in old structures, because it keeps the wind from rattling it. I set my flashlight beside the logbook. I sat in the chair by the window and listened to the tower creak.
+
+At 2217, the radio squelched again, but this time it wasn’t dispatch.
+
+Not a call sign. Not a proper prefix.
+
+Just a soft click, then a voice, thin through static.
+
+“Ranger…?”
+
+I froze with my coffee halfway to my mouth.
+
+I didn’t touch the transmit button.
+
+The voice came again, a little clearer. “Ranger, I need help.”
+
+It sounded like a man trying to keep panic down. Breathing too fast. Words clipped. The kind of voice you hear right before people do something stupid.
+
+I stared at the radio like it was going to bite me.
+
+The laminated sheet was right there in my peripheral vision. The underlined warning felt like it was aimed directly at me.
+
+Do not respond.
+
+I sat still.
+
+The voice on the unmonitored channel tried again. “I’m on Trail Six, I think. I’m lost. I can’t find the pull-off. Ranger station, do you copy?”
+
+Trail Six was on the back side. It wasn’t the busiest trail, but it wasn’t obscure. People wandered on it all the time thinking it was “easy.”
+
+My thumb hovered over transmit, then stopped.
+
+I told myself I could call dispatch. That’s the right move. Log it. Let someone with authority decide if it’s real.
+
+I picked up the handset for the main dispatch channel.
+
+Before I could key it, the unmonitored channel voice came again, lower now.
+
+“I can hear you up there,” it said. “Please.”
+
+My throat went dry.
+
+You could hear the tower. The generator hum. The wind.
+
+But “hear you up there” made it feel like there was a line between us that wasn’t radio at all.
+
+I keyed dispatch.
+
+“Dispatch, Lookout Three.”
+
+“Go ahead,” dispatch said immediately, alert now.
+
+“I’m receiving traffic on an unmonitored frequency. Caller claims lost on Trail Six. Says he can hear me up here.”
+
+There was a pause, then dispatch again, quieter. “Do not engage. We’ll send a unit to check Trail Six access points. Stay in the tower. Confirm you’re secure.”
+
+“I’m secure,” I said. “Trapdoor locked.”
+
+“Copy,” dispatch said. “Do not leave. Do not respond.”
+
+I set the handset down.
+
+On the unmonitored channel, the man’s voice changed.
+
+It went flat for a second, like the emotion dropped out.
+
+Then it said, in my own voice, “Lookout Three, dispatch.”
+
+I felt my stomach drop in a way I haven’t felt since I was a kid and a car spun out on ice right in front of me.
+
+It wasn’t a perfect recording quality. It was radio-thin. But it was my cadence. My breath. The tiny throat-clear I do without thinking before I speak.
+
+The radio clicked again, and my own voice repeated, “Go ahead.”
+
+I didn’t move.
+
+I didn’t even breathe right.
+
+The unmonitored channel kept going like it was practicing.
+
+“My location, weather read…”
+
+It was pulling phrases out of context, stitching them together like a puppet.
+
+I grabbed the lookout radio and turned the volume down until the speaker was barely audible. Not off. I couldn’t bring myself to turn it off. Off felt like it would be worse, like closing your eyes when you’re sure something is still there.
+
+I wrote in the logbook with a shaking hand.
+
+2217: Unmonitored traffic. Male voice. Trail Six. Mimicked my call sign and dispatch phrasing.
+
+I underlined mimicked twice, hard enough the pen tore the paper.
+
+The tower creaked.
+
+Outside, the wind rose and fell.
+
+Then I heard something that wasn’t radio at all.
+
+A knock.
+
+Not on the trapdoor.
+
+On the base of the tower, far below.
+
+One heavy knock, metal on wood.
+
+I stood so fast the chair scraped.
+
+I leaned toward the floor hatch, listening.
+
+Another knock.
+
+Then, faintly, a voice from below, carried up through the stairwell like someone standing at the bottom and shouting carefully.
+
+“Ranger!”
+
+My skin tightened.
+
+No one should have been down there. The access road is gated at night. There are signs. There are cameras, even if they’re old.
+
+I moved to the window and looked down.
+
+The base of the tower was a black shape among darker trees. The moonlight didn’t reach the ground well.
+
+I saw nothing.
+
+Then the voice came again, from directly below the tower, and it sounded like dispatch.
+
+“Lookout Three, come down. We need you.”
+
+My mouth went numb.
+
+Dispatch would never tell me to leave the tower at night for a lost camper without sending a unit. Dispatch would never use that tone, like it was urgent and casual at the same time.
+
+I reached for the main dispatch handset.
+
+“Dispatch, Lookout Three,” I said, forcing my voice steady. “Confirm you did not send anyone to tower base.”
+
+Dispatch answered instantly, and there was something in the operator’s voice I hadn’t heard before.
+
+A tightness.
+
+“Negative,” dispatch said. “No units at your location. Stay in the tower. Do not open the hatch.”
+
+As she spoke, the voice from below overlapped her.
+
+“Open the hatch.”
+
+Same words. Same rhythm.
+
+Not through the radio speaker.
+
+Through the stairs.
+
+It was like the tower itself was relaying it.
+
+I backed away from the trapdoor until my shoulders hit the opposite wall.
+
+Dispatch kept talking, faster now. “Listen to me. Do not respond to any voice that is not on this channel. Do not open the tower. Units are en route to the access road. Do you understand?”
+
+“I understand,” I said, but my voice came out thin.
+
+Below, the knocking started again. Slow. Patient.
+
+Knock.
+
+Pause.
+
+Knock.
+
+Like it knew I was counting.
+
+The unmonitored radio channel hissed in the background, even with the volume low, and through it I heard my own voice whispering, “Please.”
+
+I don’t know what did it.
+
+I’ve replayed the next part a hundred times and I still can’t point to a single moment where my brain broke. It wasn’t a sudden decision. It was like a series of tiny rationalizations stacking up until I couldn’t see the drop-off anymore.
+
+Maybe someone really was down there. Maybe a hiker found the tower and was terrified. Maybe dispatch was wrong and a unit had already made it to the base. Maybe, if I just cracked the hatch and called down, I could clear it up.
+
+Maybe the laminated sheet was for something else.
+
+Maybe I was being dramatic.
+
+I hate myself for the thought even now, but there was another thing too.
+
+The voice from below sounded like my brother.
+
+My younger brother has been dead for three years. Car accident. Wrong place, wrong time, drunk driver.
+
+I hadn’t heard his voice in a long time, not cleanly, not without memory blurring it.
+
+From below the tower, through the stairwell, came his voice, small like he was trying not to scare me.
+
+“Hey,” it said. “It’s cold.”
+
+I felt my eyes sting.
+
+I stepped toward the hatch like a sleepwalker.
+
+Dispatch was still in my ear, but it sounded far away now, like a TV in another room.
+
+I unlocked the trapdoor.
+
+The second the lock turned, the knocking stopped.
+
+The silence that followed wasn’t dramatic. It was just empty.
+
+I pulled the hatch up an inch and peered down into the stairwell.
+
+Blackness. A faint smell of damp wood and old rust.
+
+I didn’t see anyone.
+
+I didn’t hear breathing.
+
+Then, from halfway down the stairs, the radio crackle sound happened again, but it wasn’t coming from the lookout radio.
+
+It was coming from the stairwell itself, like static in the air.
+
+And my brother’s voice said softly, “Come on.”
+
+I opened the hatch fully.
+
+The cold air that came up was wrong. It wasn’t just night air. It smelled sour, like wet fur and something metallic.
+
+I backed up, hand on my flashlight.
+
+Dispatch’s voice sharpened. “Lookout Three, what are you doing? Confirm you are in the tower and the hatch is secured.”
+
+I lied.
+
+“In the tower,” I said. “Hatch secured.”
+
+The words tasted like pennies.
+
+I don’t know why I lied. Maybe because part of me already knew I was about to do something I couldn’t explain.
+
+I grabbed my flashlight and stepped down into the stairwell.
+
+The tower groaned as my weight shifted onto the stairs.
+
+Each step down felt like stepping into thicker air. The darkness pressed in tight around the flashlight beam, making it feel small and weak. The metal railing was cold under my hand.
+
+Halfway down, the beam caught something on a step.
+
+A strip of reflective tape.
+
+Park trail marker tape.
+
+It was stuck to the metal like someone had pressed it there.
+
+I stopped. My heart hammered.
+
+That tape shouldn’t have been inside the tower. Nobody comes up here and starts peeling markers off trees to decorate.
+
+The voice from below didn’t rush me.
+
+It just said, patient, “Almost there.”
+
+I kept going.
+
+At the bottom, the tower’s base platform was open to the air. From there you step onto the ground, onto packed dirt and needles. The flashlight beam swept across the base supports, the old maintenance box, the little post where the fire extinguisher used to hang.
+
+No person.
+
+No ranger truck.
+
+No fresh footprints.
+
+I stood at the base of the tower and felt the night press in from all sides.
+
+“Ranger?” I called, and my voice sounded too loud.
+
+Nothing answered.
+
+Then the lookout radio, still up in the cab, crackled faintly through the structure.
+
+And in my own voice, it said, “Here.”
+
+The word came from the trees to my left too, at the exact same time.
+
+“Here.”
+
+Like two speakers playing the same track.
+
+My stomach dropped hard enough I almost gagged.
+
+I backed toward the tower stairs.
+
+The flashlight beam caught movement between two trunks.
+
+Not a full shape. Just a shift. Something tall adjusting its weight.
+
+I swung the light fully and saw it.
+
+It was upright, but it wasn’t standing like a man. It looked assembled wrong. Too thin. Too long. Arms hanging low with too many joints.
+
+The head was not antlers, not a clean skull like you see in cheap horror. It was like skin pulled tight over something sharp. Ridges under the surface. A mouth that didn’t sit right on the face, stretched farther than it should be.
+
+The worst part was the eyes.
+
+Not glowing. Not bright.
+
+Dull, wet reflections in the flashlight beam, like stones at the bottom of a creek.
+
+It didn’t charge.
+
+It stepped forward once, quiet and confident, closing distance in a way my brain couldn’t map properly.
+
+I turned and ran.
+
+I hit the stairs and took them two at a time, boots clanging on metal. My hands shook so hard I nearly missed the railing.
+
+Behind me, something moved through brush without crashing. It sounded like it knew exactly where to place its weight.
+
+I got five steps up before a sound like a dry throat clicking came from right below the tower, closer than it should have been.
+
+I looked down without meaning to.
+
+It was on the first landing already, climbing without haste, long limbs folding wrong.
+
+My flashlight beam caught its hands on the rail.
+
+Hands like bundled sticks. Fingers too long, too many joints, gripping like clamps.
+
+I bolted up again, lungs burning.
+
+The tower creaked in protest, like it hated being part of this.
+
+I hit the trapdoor platform and shoved the hatch up, scrambling through. My shoulder slammed the frame. Pain shot down my arm, but I didn’t care.
+
+I got one knee into the cab and reached back to slam the hatch—
+
+—and something caught me.
+
+Not a grip. A swipe.
+
+A fast, cold rake across my back through my shirt, like dragging a handful of bent nails from shoulder blade to ribs.
+
+The pain didn’t even register right away. It was heat and shock and a breath that turned into a noise I didn’t recognize as mine.
+
+I fell forward into the cab, slammed my palms on the floor, and kicked back hard. The hatch dropped. Wood thudded into place.
+
+Then the burning hit full force.
+
+I scrambled upright and fumbled for the lock. It didn’t align. My hands were shaking too much.
+
+Below me, the hatch bumped once, gently, as if something had tested it.
+
+Then again.
+
+I shoved my weight onto it and finally got the lock to catch with a metallic click.
+
+I pressed my back against the far wall of the cab and felt wetness spreading under my shirt. The scratches stung with every breath, each inhale pulling at torn fabric and skin like the injury wanted to remind me it was there.
+
+Dispatch was still on my actual channel, voice edged with panic now.
+
+“Lookout Three, respond. Respond now.”
+
+Under my feet, another voice repeated her exact words a half-second later, using her tone so well it made my teeth ache.
+
+I forced myself to key dispatch.
+
+“It’s at the tower,” I said, words coming out in ragged pieces. “It mimics. It got into the stairwell. It—”
+
+My voice hitched when my back spasmed.
+
+Dispatch didn’t waste time asking what it was. “Stay away from the hatch. Barricade if you can. Units are two minutes out.”
+
+The hatch bumped again, harder.
+
+A sound like claws, or nails, dragging along the wood.
+
+My stomach rolled. My back was on fire. I could taste copper at the back of my throat from biting down too hard.
+
+I grabbed the heavy chair and shoved it over the hatch.
+
+Then I grabbed the small table and jammed it against the chair.
+
+The tower shook slightly, and for the first time I realized the thing wasn’t just testing the hatch.
+
+It was putting weight on the tower.
+
+Like it was climbing the supports.
+
+The windows rattled.
+
+The catwalk outside the cab gave a soft metallic ping as something stepped onto it.
+
+The flashlight beam caught a shadow pass over the window.
+
+Tall.
+
+Too thin.
+
+I backed away until I hit the far wall of the cab, my back screaming, and I nearly blacked out from the sudden flare of pain.
+
+The radio shrieked with static. Not dispatch. The other channel.
+
+And then, in my own voice, right in the speaker by my ear, it said softly, “Come down.”
+
+The window behind me thudded once, like something tapped it with a knuckle.
+
+Then again, harder.
+
+I saw the outline press against the glass for a split second. Not a face, not clear, just a suggestion of that stretched mouth and ridged head.
+
+The glass bowed.
+
+It didn’t break, but it flexed enough to make me realize how old it was. How many winters it had seen. How many times it had been heated and cooled and stressed.
+
+The thing outside didn’t rush. It didn’t slam wildly.
+
+It tapped. Then waited. Then tapped again.
+
+Like it knew time was on its side.
+
+Dispatch was still talking, telling me to hold, to stay put, that headlights were on the access road, that they were almost there.
+
+I believed her.
+
+And then the voice on the other side of the glass said, in my brother’s voice again, small and cold, “I’m scared.”
+
+That almost got me.
+
+I won’t lie.
+
+My hand moved toward the hatch without permission. A reflex built from a lifetime of responding to voices asking for help.
+
+I stopped myself by biting down on the inside of my cheek until I tasted blood.
+
+The tapping on the window stopped.
+
+For a few seconds, the tower was still except for my breathing and the faint crackle of radios and the slow drip of something warm down my side under my shirt.
+
+Then something scraped across the roof.
+
+Slow.
+
+Like fingernails being dragged along metal.
+
+The sound traveled from one end of the roof to the other, then stopped above my head.
+
+I looked up without meaning to.
+
+The ceiling was thin paneling. If something heavy sat on it, the whole cab would feel it.
+
+The tower creaked, a deep groan, like it was taking a breath.
+
+And then the hatch behind my barricade bumped from below again.
+
+Two directions.
+
+It was on the roof and under the floor.
+
+Or it wanted me to think it was.
+
+Then headlights washed the trees below in white beams, sweeping back and forth.
+
+A ranger truck.
+
+Another.
+
+Radios on the dispatch channel erupted with voices. Call signs. Orders. Real human urgency.
+
+The scraping on the roof stopped immediately.
+
+The tapping stopped.
+
+The pressure under the hatch eased.
+
+For one shaky breath, I thought it was over. That it would retreat when there were more people.
+
+Then, over the unmonitored channel, in dispatch’s exact voice, came a calm instruction.
+
+“Units, proceed off-road. Follow the voice.”
+
+I heard a ranger on the main channel hesitate. “Dispatch, confirm.”
+
+Dispatch snapped, real and sharp. “Negative. Stay on the road. Do not go off-road. Do not follow any voice.”
+
+And then, like it was enjoying itself, the unmonitored channel repeated her denial in her voice but with a tiny twist, like a smile hidden in it.
+
+“Proceed.”
+
+Below, one of the trucks turned its lights toward the tree line, and for a brief second I saw the shape at the edge of the beams.
+
+Tall.
+
+Too thin.
+
+Half-hidden like it didn’t want to be fully seen.
+
+Then it stepped back into the woods and the darkness swallowed it.
+
+The rangers stayed on the road. They didn’t chase. They didn’t play hero. They swept the area, found nothing, and told me to stay in the cab until morning.
+
+When daylight came, they walked me down the tower with two people on either side like I was the fragile one.
+
+Halfway down, my shirt had dried stiff against my back. Every step made the scratches flare again, like the air itself was cutting me.
+
+At the base, one of the rangers asked, “You hit something?”
+
+I shook my head once, because I didn’t know how to answer without sounding like a lunatic.
+
+At the park office later, I tried to explain what happened in a way that didn’t make me sound like I’d lost my mind in the dark. I talked about radio interference. About prank calls. About an animal under the tower.
+
+The older clerk behind the counter didn’t laugh.
+
+She slid a binder toward me, opened to a page that looked like it had been read too many times.
+
+Incident reports. Dates. Channels. Notes about mimicry and unmonitored frequencies.
+
+At the bottom of the page was a line underlined twice.
+
+If it uses your voice, it already has you.
+
+They sent me to urgent care in town anyway, the way they do when paperwork starts to smell like liability. The nurse didn’t ask many questions. She just had me turn around, lifted my shirt carefully, and went quiet for a second.
+
+“You got lucky,” she said.
+
+They cleaned the scratches, bandaged them in long strips, and told me to watch for infection. The back of my shirt went into a plastic bag like evidence. I drove home with my shoulders tight, trying not to move too much because every shift tugged at the raw lines under the gauze.
+
+I quit volunteering the next week.
+
+Not out of fear of the woods in general. I can walk a trail in daylight and enjoy it like anyone.
+
+I quit because I learned something I can’t unlearn.
+
+There are rules out there that aren’t about bears or weather or dehydration. There are rules about what happens when you ask for help the wrong way, on the wrong channel, in the wrong place.
+
+And there’s one more detail I haven’t told anyone in the park system because I don’t want to see the look on their faces.
+
+Sometime after midnight, a couple nights later, I finally fell asleep in my own bed.
+
+I woke up at 2:17 a.m. exactly.
+
+Not the slow drift up from a dream. The kind where your eyes open and your body is already tight, like it heard something before your brain caught up.
+
+My back ached under the bandages. I could feel the scabbed lines pulling every time I breathed too deep.
+
+The apartment was quiet. No cars. No neighbors. The heater clicked once and stopped.
+
+Then I heard it.
+
+Not from outside.
+
+From inside the room.
+
+A soft burst of static, like a speaker waking up.
+
+A click.
+
+My throat closed. I sat up so fast the sheet tangled around my legs.
+
+The sound came again, clearer now. Static, then a tiny, controlled squelch, like someone had keyed a mic and let go.
+
+It wasn’t my phone. My phone was on the dresser, dark and charging.
+
+I swung my bedside lamp on.
+
+The light filled the room, bright and normal, and for half a second my brain tried to calm down. Tried to tell me it was nothing.
+
+Then I saw the green glow.
+
+A faint, sick little rectangle of light coming from the crack under my bedroom door.
+
+My heart started banging hard enough to make my vision pulse.
+
+I got out of bed and limped to the door, barefoot, quiet, holding my breath like it mattered.
+
+I opened it.
+
+The hallway was lit only by the kitchen nightlight. The glow on the floor wasn’t from that.
+
+It was coming from my living room.
+
+I stepped out and followed it, slow, like approaching a trap you can already see.
+
+On my coffee table—centered like someone had placed it carefully—was the tower radio from the lookout.
+
+I knew it instantly.
+
+Not because of the model.
+
+Because I could see the black electrical tape wrapped around the antenna base, and that crescent-shaped gouge on the bottom left corner of the casing—the one I’d noticed because it made the radio sit crooked in its cradle up in the cab. The faceplate sticker was still sun-faded, but in the lamplight I could make out the handwritten block letters if I leaned close enough.
+
+LOOKOUT 3.
+
+And taped to the side of it—pressed flat, neat as a label—was a strip of reflective trail marker tape.
+
+I didn’t touch it.
+
+I just stood there, staring at the radio like it was a live animal.
+
+The speaker crackled again.
+
+Click.
+
+Then my own voice came out of it, patient and calm, the way I sound when I’m trying to keep somebody else from panicking.
+
+“Lookout Three… do you copy?”
+
+I backed up until my shoulders hit the wall, and the movement tugged at my bandages hard enough to make me hiss.
+
+The radio clicked again, and this time it didn’t use my voice.
+
+It used dispatch.
+
+Sharp. Official. Convincing.
+
+“Confirm you are secure.”
+
+I stood there in my hallway, barefoot, shaking, staring at a radio that didn’t belong in my apartment, and I realized something that made my stomach turn cold.
+
+It wasn’t just copying voices.
+
+It wasn’t just playing with a frequency.
+
+It knew where the tower was.
+
+It knew where I lived.
+
+And it knew exactly what words would make me answer.
+
+I didn’t answer.
+
+I didn’t even breathe right.
+
+I walked backward into my bedroom and shut the door and locked it like that meant anything.
+
+The radio kept talking out in my living room, voice changing every few seconds—mine, dispatch, my brother—cycling through the ones that worked best.
+
+I stayed in my room until sunrise, listening to it through the wall like you listen to an intruder moving around your house.
+
+At 6:41 a.m., it went quiet.
+
+No static. No click.
+
+Just silence.
+
+When I finally opened my door, the radio was gone.
+
+There was no mark on the table. No tape. No dust disturbed. No sign it had ever been there.
+
+Except for one thing.
+
+On the hardwood in front of my coffee table, right where the green glow had pooled, was a single strip of reflective tape pressed flat to the floor like a breadcrumb.
+
+Pointing toward my front door.",1,1768383801.0,mrcreeps,0,1.0,False
+1qcj6bl,https://www.reddit.com/r/UCalgary/comments/1qcj6bl/why_do_you_prefer_studying_on_campus/,Why Do You Prefer Studying on Campus?,"Hi everyone,  
+I’ve noticed that a lot of people prefer studying on campus, which honestly surprised me a bit. I did my bachelor’s degree outside of Canada, where most students usually study at home or sometimes at coffee shops.
+
+I was wondering if you could share your experiences with studying on campus. What do you like about it, and why do you feel it helps you study better compared to studying at home or elsewhere?
+
+I’d love to hear your perspectives. Thanks!
+
+
+
+",1,1768383799.0,UCalgary,0,1.0,False
+1qcj61z,https://www.reddit.com/r/UniUK/comments/1qcj61z/looking_for_london_students_ucl_area_preferred_to/,Looking for London students (UCL area preferred) to try a study product — coffee on me ☕️,"I was top one of my major as an undergrad for three years and then studied at Cambridge. Altogether I’ve spent about five or six years studying, and honestly the biggest thing I learned is **finding a study workflow that actually feels comfortable takes way longer than people expect.**
+
+After trying all kinds of tools, I basically ended up back at **iPad + handwritten notes**.
+
+I’ve also always felt that a lot of AI study tools right now are… just too fancy.  
+They look cool, but don’t really help knowledge sink in. Sometimes they even do the opposite, information overload, or relying too much on AI and not really learning in the end.
+
+So lately I’ve been building a note-taking product that’s closer to how students actually study. The idea is pretty simple: keep lecture slides and notes in one workflow, then add a few AI features that are actually useful, not flashy, just practical. Something that feels natural to use.
+
+The product works, but I’m kind of stuck. I’m not fully happy with where it is right now, and building alone makes it hard to see clearly. That’s why I really want to hear **real feedback from current students,** what’s helpful, what’s pointless, what should be cut or rebuilt.
+
+If you’re studying near **UCL / in London**, or you’re just interested in learning systems, indie dev, or study tools, I’d love to meet up and let you try it.  
+I’ll buy you a coffee ☕️ and just listen.
+
+No marketing. No ads.  
+Just trying to make something better.",1,1768383770.0,UniUK,0,1.0,False
+1qcj4rz,https://www.reddit.com/r/tradingmillionaires/comments/1qcj4rz/your_brain_is_literally_programmed_to_fail_prop/,Your brain is literally programmed to fail prop challenges: The math of why 95% of you are just donating fees,"Your brain is literally programmed to fail prop challenges: The math of why 95% of you are just donating fees
+
+I’ve been at the desk for a long time, and I’m exhausted by the ""lambo"" gurus telling you that you just need a better indicator. I’ve looked at the data, and the truth is much uglier: 90% to 95% of retail traders fail evaluations because they are fighting a war against their own neurobiology and a business model designed to win.
+
+Here is the ""Meat"" of why you keep blowing accounts. It isn't bad luck; it's a combination of how your brain works and how B-Book firms make money.
+
+• The Dopamine Trap: Trading works on a Variable Ratio Reinforcement Schedule. This is the exact same mechanism used in slot machines. Because profits arrive at unpredictable intervals, your brain stays in a constant state of ""anticipation excitement,"" which makes impulsive behavior highly resistant to extinction. You aren't ""trading""; you are a lab rat pulling a lever for a dopamine pellet.
+
+• The 2:1 Pain Ratio: Behavioral science shows that Loss Aversion makes the pain of losing $100 feel twice as intense as the joy of gaining $100. This emotional asymmetry is what triggers Revenge Trading. When you take a loss, your brain registers it as a physical threat, shutting down your logic center and forcing you to ""get even"" by doubling your position size.
+
+• The B-Book Conflict: Most prop firms don't send your trades to the real market; they ""warehouse"" them internally. In this B-Book model, the firm is your counterparty. If you lose, they keep your fee and the phantom loss; if you win, it comes out of their pocket. This is why they have ""Gambling Policies"" to deny payouts for ""All-in-One"" trading or ""Streak Risk Escalation"" they are protecting their balance sheet from your lucky streaks.
+
+• The Gambler’s Fallacy: Your brain hates randomness. If you see five red candles, you subconsciously believe a green one is ""due"". This is a mathematical lie. Each trade is an independent event, but this bias causes traders to ""average down"" on a losing position until the account hits the maximum drawdown limit.
+
+• The Math of Ruin: Professional traders rarely risk more than 1% per trade. Most retail traders risk 5% or more to pass ""fast"". Mathematically, if you risk 5% per trade, a normal string of losses (which happens to everyone) guarantees you will breach the 10% maximum drawdown rule.
+
+I realized years ago that I couldn't ""willpower"" my way out of millions of years of evolution. My brain was too fast and too emotional to track these biases manually while the candles were moving.
+
+I couldn't track this manually, so I built a terminal workspace to calculate my risk and bias automatically (Apollo Terminal). It acts as a mechanical ""straitjacket"" that forces me to stick to the math of survival rather than the thrill of the trade. It flags things like ""Loss Aversion"" triggers before I click the button, ensuring I don't become just another statistic for a B-Book firm's revenue report.
+
+I made the workspace available for the price of a coffee if you want to save yourself the 10+ hours it takes to build it yourself. I pinned the breakdown to my profile if you want to audit your own risk. Stay safe, and stop being the liquidity.",1,1768383636.0,tradingmillionaires,1,1.0,False
+1qcj47f,https://www.reddit.com/r/fragrance/comments/1qcj47f/quick_reviews_pdm_perseus_xerjoff_erba_pura_room/,"Quick reviews: PDM Perseus, Xerjoff Erba Pura, Room 1015 Cherry Punk, Akro Awake","PDM Perseus: weird for me to describe a perfume as “tangy” but that’s what it is, with a very pleasant woody backing. Nothing revolutionary but undeniably grapefruity. People who don’t like citrus will probably describe it as “screechy” at first, but I’d consider this a safe blind buy for citrus lovers. Will likely wear it again, it’s pleasing and not cloying. Longevity not great on me though, but that’s always the trouble with citrus. 6.5/10
+
+Xerjoff Erba Pura: Heard a lot about this one but straight urinal cake to me. I think it’s a skin chemistry thing as it wasn’t so offensive when sniffing off a tester or strip. On me it’s got the opening sting of citrus but without the citrus smell (if that makes sense?), followed by a powdery chemical sweetness. May smell glorious on others? 3/10
+
+Room 1015 Cherry Punk. So disappointed. I love Cherry fragrances, liked the sound of the notes and thought the concept was fun.  But this smells like someone managed to boil down a container full of glacé cherries into gasoline. Unbearably synthetic. 2/10
+
+Akro Awake: OMG. Starts with an absolutely photorealistic burst of fresh coffee. The rest of the notes are listed as Sicilian lemon, cardamom and Haitian vetiver, but the effect it gives me once it settles is coffee layered with chocolate orange. I generally dislike gourmands, but you have to give it to Olivier Cresp - the man  knows what he’s doing. 7,5/10
+
+Would love to hear opinions - those that agree or disagree. ",2,1768383573.0,fragrance,0,1.0,False
+1qcj43o,https://www.reddit.com/r/koreatravel/comments/1qcj43o/esim_showdown_what_the_youtube_guides_dont_tell/,eSIM Showdown: What the YouTube guides don't tell you,"Every YouTube video about Korea travel eSIMs gives you the same surface level comparison. But after testing 4 different eSIMs across Seoul, Busan, Gyeongju and Jeonju on my iPhone 14 Pro, here's the full picture nobody's sharing.
+
+Just got back from 16 days in Korea and connectivity was something I obsessed over before the trip. I work remotely so dropping off a Zoom call in the middle of Gamcheon Culture Village wasn't an option. Ended up testing multiple providers throughout the trip because I'm that kind of person.
+
+Started with Airalo since that's what everyone recommends. Activation was genuinely seamless, installed it on my flight from SFO. Speed in Myeongdong was solid, consistently hitting 45mbps down during evening rush. But here's what caught me off guard: ran through my 5GB in 6 days. Between hotspotting to my iPad during cafe work sessions and a few video calls that ran longer than expected, the data disappeared fast. Once it was done, it was done. Dead. Had to scramble for another option.
+
+Googled around while sitting in a Seomyeon coffee shop and stumbled on Yoho Mobile because apparently they don't hard cut your data when it runs out. Figured worth a shot for the rest of the Busan leg. Tested this accidentally when I went overboard streaming while waiting for the KTX back to Seoul. Instead of complete blackout, it dropped to some kind of low speed fallback where I could still pull up Naver Maps and send KakaoTalk messages. Not fast enough for video but enough to not feel stranded in Busan Station.
+
+Also tried Klook's offering briefly in Gyeongju. Decent speeds in the city center but got patchy around Bulguksa Temple area. Nothing catastrophic but noticeable compared to the others.
+
+Some observations that might actually help:
+
+Seoul underground stations have surprisingly good LTE coverage on all providers I tested. Even deep in Line 2 transfers where I expected dead zones.
+
+Busan's Haeundae Beach area was consistently fast across the board, probably because of tourist infrastructure investment.
+
+Gyeongju's historical sites outside the main tourist zones get spotty regardless of provider. The palace areas were fine but hiking trails around Namsan had dead zones on everything.
+
+Jeonju Hanok Village was solid everywhere, tested during packed weekend crowds.
+
+For the typical Seoul to Busan route, honestly most major eSIM providers will work fine for basic tourist needs. The differences show up in edge cases: what happens when you burn through data faster than expected, whether hotspotting actually works reliably, how support responds at 2am Korean time when something breaks.
+
+My setup ended up being 10GB for 14 days which was comfortable with moderate social media use, maps navigation, and occasional video calls. Heavier users or families sharing one connection should budget for 15GB minimum based on my experience.
+
+One thing I wish I knew before: test your eSIM activation before you leave. Every provider says do this but I was lazy with one of them and spent 20 minutes at Incheon troubleshooting instead of heading straight to the T Money counter. Lesson learned.",1,1768383562.0,koreatravel,1,0.67,False
+1qcj1cx,https://www.reddit.com/r/Advice/comments/1qcj1cx/i_think_my_mom_is_nuts_what_should_i_do/,I think my mom is nuts what should i do,"I’m 18 yo female still living with my parents an still in high-school in my senior year . 
+For reference i don’t have a really good mother daughter bond with my mother i mean she is a great mom but lately she stared acting kinda crazy she picks fights with me and acting the victim around she stared cursing at me and calling me names out of the so i stared avoiding being alone with her i lock myself in my room i only get out when it’s necessary but that made her even more mad so i stared staying out after school have coffee with my friends in a nearby coffee shop thats like 10m walk from home or if i have studies to do i go to the library thats like literally in fort of my home and only going back home when my father is there so that she can’t act that way and that’s also made her mad . 
+I get a bad grade on my exams i was stressed out and missed 3 exams out of 12 and that made my grades drop when my mother found out she went crazy on me screaming and all even though those grades doesn’t effect my university applications in any way . 
+Last night i studied till 2 am because i had to redo some exams and i slept directly at 4am i felt someone entering my room but I thought it’s the morning and my sister came to borrow cloths like always but it felt weird like someone going through my stuff and didn’t feel like something my sister would do then i felt someone grabbing my phone and trying to unlock it that’s when i wake up and it’s was my mum when i asked her what she was doing she stared screaming at me saying she dreamt about me and she knew what i was doing and i was like girl you for real now then i glanced at the time and it was freaking 4 am and i have exam at 8 and u should be up by 7 so i stared screaming back at her i was so mad i called her crazy and stanched my phone and kicked her out even my father wake up and was confused but he saw me screaming so he yelled at me to let it go and go back to sleep but I couldn’t sleep at 7 when i should get up to get ready i dosed off because i was so tiered and i missed my exam and i have studies to do but i’m so tiered and sleep deprived like i really don’t know what should i do she’s acting more crazier each time and i’m always on my toes around her like she be okay one minute and the other switch this way like i hate staying at home because of her like there’s always something wrong i did i’m nit claiming to be an angel but most of the time i did nothing wrong the feeling is suffocating me what should i do ",1,1768383271.0,Advice,0,1.0,False
+1qcj15h,https://www.reddit.com/gallery/1qcj15h,Steam boiler not working,"Hi! I descaled my machine the day before yesterday and yesterday the steam boiler wasn’t working. It worked in the morning, but then it wasn’t working. 
+
+The electricity in the house didn’t trip, I’ve checked the two safety switches on the boiler which are on the temperature control, and the machine turns on and I can make coffee, just no steam or hot water. Pics attached. 
+
+Any ideas? ",3,1768383248.0,LaMarzocco,0,1.0,False
+1qcj0vm,https://www.reddit.com/r/u_vtops888/comments/1qcj0vm/2g_back_seal_stick_packing_multifunctional_sachet/,"2g Back Seal Stick Packing | Multifunctional Sachet Packing Machine
+| VTOPS-DXD-JL","2g Back Seal Stick Packing | Multifunctional Sachet Packing Machine
+
+| VTOPS-DXD-JL
+
+
+
+• Designed for stick pack back seal sachet packaging 🎯
+
+• Multifunctional filling system for powder 🌾
+
+• Stable back seal structure with neat and consistent stick shape 🔒
+
+• Accurate dosing and smooth film pulling for continuous operation ⚙️
+
+• Compact design, easy operation, suitable for small sachet production 🧩
+
+
+
+Application Scenarios:
+
+☕ Instant coffee | 🥤 Beverage powder | 🍬 Sugar | 🧂 Seasoning product stick sachets
+
+
+
+💬 Got questions? Drop them in the comments, and our team will be happy to assist you!
+
+🌐 Visit us: [https://www.vtops.com/](https://www.vtops.com/)
+
+
+
+\#StickPackingMachine #BackSealPacking #SachetPackingMachine #PowderPacking #GranulePacking #PackagingMachine #VTOPS",1,1768383219.0,u_vtops888,0,1.0,False
+1qcj0si,https://www.rightmove.co.uk/properties/170972030,AI description run rampant,"There’s absolutely nothing wrong with this property - it’s a nice house (well, nice part of a house) at a reasonable price for the upmarket area. But is it a timeless treasure nestled within the coveted embrace of that area? We’re looking for a place in Broughty Ferry and this utter garbage had me gagging into my morning coffee. ",3,1768383209.0,SpottedonRightmove,4,1.0,False
+1qcizxs,https://www.reddit.com/r/espresso/comments/1qcizxs/i_did_the_first_proper_espresso_today/,I did the first proper espresso today,"I did a first proper espresso today in my life. I used a local roaster's coffee. I bought it freshly roasted two days after Christmas.
+
+Ground by Baratza Encore ESP, set to about 15; Delonghi Dedica Duo (890), IMS basket and Normcore bottomless portafilter. Input 18.3g, output  37g
+
+I actually tasted the honey and spicy tastes, it was delicious.
+
+The same type of beans from the same roaster were undrinkable on my previous superautomatic (phillips ep4341/50), but with this change, i've had the best espresso in my life as so far.",4,1768383116.0,espresso,1,1.0,False
+1qcizwj,https://www.reddit.com/r/thesidehustle/comments/1qcizwj/spent_8_months_trying_to_crack_faceless_content/,spent 8 months trying to crack faceless content and here’s what actually moved the needle,"i’ve been lurking here forever and figured i’d finally share what’s been working since i see a lot of people asking about making money without showing their face online.
+
+backstory: i work a boring desk job doing data entry for a logistics company. pay is fine but after rent, car payment, and groceries in this economy there’s basically nothing left. i’m also deeply introverted and the thought of being on camera makes me want to crawl into a hole. tried the whole “just get comfortable on camera” thing for like 2 months and hated every second. deleted all those videos.
+
+so last year around march i started exploring faceless content. the idea was simple: build social accounts that don’t require me to be the face of anything. started with pinterest because everyone said it was easy passive traffic. made like 47 pins over 3 weeks, got maybe 200 views total, gave up.
+
+then tried those motivation quote pages on instagram. you know the ones with the sunset backgrounds and generic text. made one post a day for 6 weeks. gained 89 followers. most were bots. felt like i was screaming into the void.
+
+around june i pivoted to trying stock photo accounts. the idea was curating aesthetic stock photos for specific niches and building a following that way. problem was everyone else had the same idea and the photos looked… samey. couldn’t differentiate.
+
+here’s where things shifted. i stumbled into the whole AI image generation space when a friend showed me some stuff he made with midjourney. spent a few weeks learning prompts, made some cool art, but couldn’t figure out how to monetize it because the style kept changing and nothing looked cohesive enough for a brand.
+
+the actual breakthrough came when i discovered you could create consistent characters. like the same “person” in different scenarios and outfits. this was around august. i experimented with a few different tools, runway for some video stuff, tried leonardo for a bit, played around with APOB for the character consistency stuff, and eventually landed on a workflow that let me create what looked like a real lifestyle blogger without being one.
+
+i built out a character, 28 year old woman, kind of that cozy minimalist aesthetic. took me probably 15 hours over two weeks to figure out the right look and vibe. then started posting “her” content to instagram. coffee shop moments, apartment organization, morning routines, that kind of thing.
+
+first month was brutal. like 12 followers brutal. almost quit again.
+
+but i kept posting. 5 times a week minimum. started studying what performed. realized the “day in my life” style carousel posts got way more saves than single images. started adding more lifestyle context, meal prep shots, desk setups, skincare routines.
+
+by october i hit 2,400 followers. still not huge but the engagement rate was actually decent, around 4.7% which apparently is above average. started getting DMs from small brands asking about collaborations.
+
+first paid collab was $75 for three posts featuring a candle company. i almost cried. not because of the money but because something actually worked for once.
+
+fast forward to now and the account is at around 11k followers. i’ve done maybe 15 paid collabs ranging from $50 to $300 depending on deliverables. total earnings since august: roughly $2,100. that’s across 8 months so it averages to like $260/month which isn’t life changing but it’s real money that didn’t exist before.
+
+the time investment now is maybe 6 hours a week. batch create content on sundays, schedule posts, respond to DMs and comments throughout the week. way more manageable than when i was trying to film myself.
+
+some things i learned:
+
+consistency of the character matters way more than i thought. early on i was sloppy about it and people noticed something was “off” even if they couldn’t articulate what. had to restart twice.
+
+the aesthetic has to be specific. generic pretty girl content doesn’t work because there’s a million of those. the cozy minimalist angle gave me a lane.
+
+niche brands are way more responsive than big ones. i’ve had zero luck pitching to companies with over 100k followers but small candle makers, stationery shops, and indie skincare brands actually read their DMs.
+
+you still need to understand content strategy. the AI stuff just removes the “being on camera” barrier. you still need to know what makes people stop scrolling, what hooks work, what times to post, etc.
+
+also had one scary moment where someone accused the account of being fake in the comments. just ignored it and it blew over. most people don’t look that closely and honestly a lot of real influencers are so edited they look AI generated anyway.
+
+i’m not saying this is easy money because it definitely isn’t. the first 4 months were basically unpaid learning. but for someone like me who genuinely cannot handle being on camera, finding this path felt like finally finding a door that wasn’t locked.
+
+now working on a second account in a completely different niche to see if i can replicate it. early days but the process is way faster now that i understand the workflow.
+
+the $500/month goal feels actually achievable by end of summer if the second account gets any traction at all.",3,1768383112.0,thesidehustle,2,1.0,False
+1qcizoe,https://i.redd.it/rh03xq1uaadg1.jpeg,"𓏲ּ𝄢 • Xiao Xue & Louis ,,","‎ꫂ᭪݁ : Look’s like someone went on a coffee date…
+
+Art by @/Rassblerry on all social’s !!",8,1768383087.0,OriginalCharacter,0,1.0,False
+1qciy1p,https://www.reddit.com/r/mumbaimeetups/comments/1qciy1p/anyone_at_nesco_today/,Anyone at Nesco today,Bored asf someone wanna join for coffee or tea?,1,1768382914.0,mumbaimeetups,0,1.0,False
+1qcixh9,https://www.reddit.com/r/MonkModeExtension/comments/1qcixh9/why_trying_to_work_8_hours_straight_is/,Why trying to work 8 hours straight is biologically impossible,"We are obsessed with the idea of the ""8-hour workday,"" but our biology literally does not support it. Chronobiologists—scientists who study biological rhythms—have found that the human brain operates on ""Ultradian Rhythms."" These are 90 to 120-minute cycles of high-frequency brain activity followed by a 20-minute trough where your energy crashes.
+
+When we try to ""push through"" that low-energy trough with coffee or willpower, we aren't actually working; we are just zombie-scrolling or staring at the screen. The most productive people don't work longer; they sync their work with these high-energy peaks. I started limiting my intense work sessions to strict 90-minute blocks where I cut off all access to the outside world. I get more done in two of these ""peaks"" than I used to in a full day of trying to grind against my biology.",1,1768382851.0,MonkModeExtension,0,1.0,False
+1qciwiq,https://i.redd.it/zmb6ja1u9adg1.png,Shop canadian products ✌️✌️,@savdotca,4,1768382752.0,ShopCanada,0,0.83,False
+1qcivph,https://www.reddit.com/r/u_ForestFairy2499/comments/1qcivph/cool_bay_area_spots/,Cool Bay Area Spots,"What are some cool Bay Area spots? I would love to find more places to thrift, antique, eat, hike, get coffee, anything quirky or artsy would be also be nice! ",1,1768382667.0,u_ForestFairy2499,0,1.0,False
+1qciuyy,https://www.reddit.com/r/singleph/comments/1qciuyy/30_m4f_hindi_malayo_ang_fairview_traffic_lang/,"30 [M4F] Hindi malayo ang Fairview, Traffic lang talaga","
+
+Let’s skip the usual script.
+Hindi tayo nandito para sa drama archives, trauma unloading,
+o “tingnan natin” na umaabot ng kalahating taon.
+
+
+I’m more into instant chemistry.
+Yung mabilis ang tawa, magaan ang usapan,
+tapos may sandaling mapapahinto ka at maiisip:
+“Wait… bakit interesting ‘to?”
+
+
+Hindi ako slow-burn enthusiast.
+Mas trip ko yung natural spark—
+walang pa-impress, walang pa-hard-to-get,
+pero pareho kayong aware na may something brewing.
+
+
+Open-minded, yes.
+Respectful, always.
+Consent and comfort come first.
+I’ll make you laugh before anything else—
+chemistry should feel easy, not forced 😌
+
+
+About Me
+
+- Cuddles are part of the package, if that’s not your play, you know the exit. CUDDLES NO EXCEPTION
+
+- Coffee? mall walks?
+
+- Bahala na—decisive ako, hindi kita papagawan ng Google Sheet 😏
+
+- Corporate guy (yes, the suit is real)
+
+- May humor, may substance, marunong makiramdam
+
+- Stable, driven, and very much present
+
+- Not boring—just allergic to unnecessary chaos
+
+- 50% witty, 50% wholesome, 100% respectful
+
+- Pwede mo akong ipakilala sa mama mo…
+pero ‘wag muna siyang magtanong ng wedding date 😂
+
+- Rings are for fingers, not pressure—kalma lang
+
+- Hygiene is a must
+
+- Non-smoker: clear lungs, steady hands, clear intentions
+
+- Comfort over porma, but when I dress up—alam mo
+Hindi ako pushy.
+
+- I pay attention, I listen, I know when to stop—and when to step up 😉
+
+
+About You
+- Pass muna sa ""chat muna tayo"", sorry pero mas gusto kong makita ka agad sa personal
+
+- Straightforward, hindi maarte
+
+- Marunong makipag-banter (hindi interview-style replies)
+
+- Game sa spontaneity—quick plans, natural vibes
+
+- Clean, chill, may sense of humor
+
+- Extra points kung kaya mo rin akong asarin pabalik
+
+- Mura lang ang toothbrush at toothpaste at available sa mga tindahan, pwede kita samahan magseminar sa World Health Organization",1,1768382587.0,singleph,1,1.0,False
+1qciu0l,https://www.reddit.com/r/PeriodontalDisease/comments/1qciu0l/which_is_better_snow_whitening_kit_or_crest/,"Which is better, Snow whitening kit or Crest strips? For Sensitive teeth",I am trying to decide between these two options for teeth whitening without sensitivity because my teeth are super reactive to most products. My situation is that I drink coffee every day and my teeth have gotten noticeably yellow over the past year. I tried regular whitening strips before and they hurt so badly I had to stop after two days. Snow seems to use something called hydroxyapatite which I read is gentler but it costs way more than Crest. Has anyone used both and can tell me if the price difference is actually worth it for sensitivity issues?,1,1768382479.0,PeriodontalDisease,0,1.0,False
+1qcit0g,https://www.reddit.com/r/dropship/comments/1qcit0g/for_anyone_who_decided_2026_is_there_year_to/,For anyone who decided 2026 is there year to crack organic dropshipping,"I got into TikTok Shop like 7 months ago and it legitimately ruined my work-life balance. I'm not joking. Filming products at midnight, testing different angles during lunch, staying up until 4am analyzing why videos got engagement but zero orders. Just took over my entire life.
+
+Why? 2026 is looking like the year where organic Shop content is literally the only way to actually make money. Paid ads are insane. Everyone's selling identical products. Your only advantage is making someone watch your product demo for like 35 seconds and actually buy it. Can't do that? You're broke.
+
+What nearly killed me: getting thousands of views with no sales. I'd post a product video that would hit like 6,000 views and get maybe 1 purchase. Tried every single angle I found. Copied what successful Shop sellers were doing. Did every method people claimed worked. Still terrible conversion rates.
+
+Started genuinely thinking maybe I just can't sell products. Some people have it and I clearly don't. That's honestly where my head was.
+
+Then I realized something pretty simple. I'm grinding nonstop but I don't actually know what's killing my sales. Just trying random demos hoping one converts.
+
+So I flipped my whole approach. Stopped researching trending products and just started measuring real numbers. Went through like 77 Shop videos I'd posted, marked where potential buyers were leaving, discovered 6 things destroying my conversion rates:
+
+1.**Vague product openings kill sales immediately:-**
+ Something like ""you need this product"" just gets scrolled. But ""this removed coffee stains from my car seat in 7 seconds"" stops people and makes them want to buy. Show the problem getting solved first not the intro.
+
+2. **Second 5 is where they decide to buy:-**
+ Most potential customers bail between like second 4 and 7 if you haven't shown the product actually working. I was doing feature lists first. Now I show it solving the problem right at second 5. That's what creates the buying urge.
+
+3. **Pauses over a second destroy conversions:-**
+Tracked this pretty obsessively. Any silence longer than like 1.2 seconds and buyers think the demo's over. Your comfortable demonstration pace just feels boring to potential customers. Had to cut tighter than felt right. Felt unnatural but sales jumped.
+
+4.**Same angle for 3 seconds loses buyers:-**
+ If your product shot doesn't change for more than 3 seconds people just zone out. Started constantly showing different uses, cutting to before-afters, rotating the product, creating nonstop visual proof it works. Conversion rate went from like 1.2% to 4.1%.
+
+5.*There's apps that show specific problems:-**
+ Shop analytics just tell you people watched. I'm using this thing called Tik—Alyzer that shows exactly when buyers left and why. Like it tells you ""product appears at 9 seconds but buyers need to see it by 2"" or ""you pause for 4 seconds before showing results at second 18 and drop 55%."" Went from like 14 views per sale to 43 sales per 1k views once I fixed what killed purchase intent.
+
+6.*Rewatch rate drives significantly more sales:-*
+Videos people watch twice convert way higher because they're actually considering buying. Started packing in benefits you miss first time, faster demos, details you catch rewatching. Rewatch rate jumped from like 6% to 37% and revenue exploded.
+
+The breakthrough was just stopping random testing and measuring what was actually killing conversions in my Shop videos.
+
+If you're getting views but making no sales it's probably not your products or pricing. You just can't see which parts convert and which parts lose buyers.
+
+Putting this out because I burned months getting traffic with zero revenue when the solutions were just in my data. 2026 is shaping up to be massive for Shop sellers who understand what converts and I really wish someone had just broken this down for me back then. So here it is.
+",1,1768382377.0,dropship,3,0.6,False
+1qcisps,https://www.reddit.com/r/KeepSolid/comments/1qcisps/public_wifi_feels_safe_in_2026_but_1_hidden/,Public Wi‑Fi feels “safe” in 2026 - but 1 hidden mistake can expose everything,"Hey r/KeepSolid,
+
+Grabbing coffee and hopping on free Wi‑Fi feels totally normal now - most people even say they feel “somewhat safe” using public networks. At the same time, research in big cities shows that about **25% of public hotspots have weak or no encryption**, making users vulnerable to theft of logins and banking data. Let’s break down the most common public Wi‑Fi traps and how to avoid getting owned by a cheap router at your local café.​
+
+**1. “Free Wi‑Fi” ≠ safe Wi‑Fi**
+
+* Open networks without a password are easy to spoof; attackers spin up fake hotspots with similar names to sniff traffic or inject malware.​
+* Meme idea: “When the Wi‑Fi is called ‘Free Airport WiFi’ but the airport doesn’t even have Wi‑Fi.”
+* Quick rule: If you wouldn’t shout that info across the café, don’t send it in plain form over public Wi‑Fi.
+
+**2. Encryption isn’t always configured right**
+
+* Studies on city hotspots show many networks use outdated protocols or are misconfigured, which makes them easy to crack.​
+* Even if you see a padlock icon on Wi‑Fi, your data might still be exposed if the router uses weak settings. Screenshot idea: comparison of “Open / WPA2 misconfigured / Secure WPA3” icons.
+
+**3. HTTPS helps — but doesn’t hide everything**
+
+* HTTPS protects the content of what you send, but observers can still see which sites you visit and how much data you move.​
+* On shared Wi‑Fi, that metadata can still be interesting for profiling, tracking, or targeted attacks.
+
+**4. Auto‑connect: the silent traitor**
+
+* Many devices auto‑join known networks; attackers abuse this by cloning SSIDs (like “Free\_Coffee\_WiFi”) to hijack your traffic.​
+* Turn off auto‑connect for public networks and disable Wi‑Fi when you don’t use it to cut tracking and attack surface.​
+
+**5. Basic public Wi‑Fi survival kit**
+
+* Avoid logins to banking, email recovery, or anything that could reset your other accounts on public Wi‑Fi.​
+* Use end‑to‑end encrypted apps (messengers, email) and a trusted VPN to add an extra encrypted tunnel over sketchy networks.​
+
+**Takeaway:** Public Wi‑Fi isn’t pure evil, but it’s definitely not “free and safe internet.” A few small habits - disabling auto‑connect, favoring HTTPS and encrypted apps, and tunneling your traffic - massively improve your **online** safety. Test these tips next time you’re on café Wi‑Fi and share what worked (or what almost went horribly wrong) in the comments!​
+
+**Questions for you:**
+
+* Do you still use public Wi‑Fi for banking or logins, or do you avoid it completely now?
+* What’s the sketchiest Wi‑Fi network name you’ve ever seen in the wild?
+* Which privacy or VPN topics should we deep‑dive into next here on r/KeepSolid?",1,1768382348.0,KeepSolid,0,1.0,False
+1qcisk6,https://i.redd.it/7soqjipw5adg1.png,"Designing a cafe workflow. Does separating the wet zone (sink) from the espresso machine by 220cm make sense?""","Hi everyone, I'm currently designing the layout for my upcoming home renovation. I’m torn between aesthetics and workflow.
+
+* The idea is to keep the coffee zone ""dry"" and separate it from the ""wet"" sink area.
+
+**My Worry:** Does the **distance** to the sink feel too far for rinsing the portafilter or dumping the puck? I visualized it here to check the reach, but I'd love to hear from anyone who has a split setup like this.",3,1768382330.0,coffeestations,5,0.8,False
+1qcirpq,https://i.redd.it/w8o1mzxa8adg1.jpeg,Our current (chaotic!) setup 🖤,"Moved to a new place last September, cabinets not in yet but manifesting before the year ends: a cozy, chic coffee bar, fully stocked and overflowing with options—Vertuo included! 😆",2,1768382238.0,nespresso,2,1.0,False
+1qciq9c,https://i.redd.it/r3asig0t7adg1.jpeg,Coffee Art at home,Collection of all the coffee brands and roasts had over the year. Averaging 10kgs of coffee consumption in a year 😅,16,1768382072.0,IndiaCoffee,1,0.94,False
+1qcipwh,https://www.reddit.com/r/IndiaCoffee/comments/1qcipwh/looking_to_buy_a_used_espresso_machine_under_5k/,Looking to buy a used Espresso Machine under 5K,I'm a newbie coffee aficionado and looking to get into the hobby! Bought a moka pot recently and really enjoying making coffee out of it. Looking to buy a used espresso machine under 5K.,0,1768382033.0,IndiaCoffee,1,0.5,False
+1qciph1,https://www.reddit.com/r/USDT_EXCHANGE/comments/1qciph1/bad_experiences_while_looking_for_a_reliable_f2f/,Bad experiences while looking for a reliable F2F dealer in the past month,"In the past month, I’ve been trying to find a reliable dealer for long-term cooperation. From the beginning, I clearly stated that we only do F2F and that this is meant to be a long-term business, not a one-off deal.
+
+Unfortunately, I’ve already had two really bad experiences, and I just want to share and see if others have faced similar situations.
+
+First experience:
+
+The guy sounded fine at first. We were already on a phone call and we met at a cafe for the first meeting and discuss some details, and the next day we were literally ready to transfer money to “his brother’s” bank account when we met and sit together. Then suddenly, he made up some excuse and disappeared — no notice, no explanation, just gone.
+
+Second experience (even worse):
+
+We drove from Dubai to Abu Dhabi to meet another guy. After we arrived at the office building he gave us, he was a complete no-show.
+
+The funny (and suspicious) part:  
+He told us to go to “Star 1, Room 1104.”  
+But when we checked with the receptionist, there is no Building 1 or 2, Room 1104 is empty, and there is no company registered!
+
+When I messaged him to ask about this, he sent us a very low-resolution photo with a watermark and told us that he's there and asked us to meet him at a coffee shop instead.  
+At that point, I asked him, “Is this funny?”  
+He replied that we were not doing the business anymore and immediately quit the group chat.  
+We were just like: ????
+
+Is this kind of behavior common?  
+How do you filter serious people when doing F2F deals?",1,1768381990.0,USDT_EXCHANGE,0,1.0,False
+1qciouu,https://www.reddit.com/r/pune/comments/1qciouu/irani_cafe_chandani_chowk/,Irani cafe- chandani chowk,"Had cold coffee yesterday at irani cafe. I think I just drank water mixed with peanut butter without sugar. 
+
+It was horrible and not just me my othera Friend said the same thing. 3rd frind had tea he said it was good. 
+",2,1768381922.0,pune,4,1.0,False
+1qcinpm,https://www.reddit.com/r/Miele/comments/1qcinpm/ground_coffee_bypass_chute/,Ground coffee bypass chute,"Does the CVA 7845 have a ground coffee bypass chute? I keep reading about this option but don’t see it in mine. If so, does anyone have photos/video on how to access?",1,1768381800.0,Miele,1,1.0,False
+1qcimqg,https://www.reddit.com/r/Miele/comments/1qcimqg/milk_pipe_work_cleaning_agent/,Milk pipe work cleaning agent,I just moved into a condo with the CVA 7845 in built coffee machine. Is everyone using the milk pipework cleaning agent? Are there alternatives? Does it need to be used with every weekly cleaning? Vinegar?,1,1768381695.0,Miele,0,1.0,False
+1qcild7,/r/wholesaleproducts/comments/1qcil5t/exporting_premium_indian_coffee_authentic_spices/,Exporting Premium Indian Coffee & Authentic Spices,,1,1768381546.0,exportersindia,0,1.0,False
+1qcilb6,https://www.reddit.com/r/ADHD/comments/1qcilb6/tips_for_taking_medication/,Tips for taking medication,"Hello friends, I was diagnosed with ADHD back in December and now finally I'm getting my medication, I'm starting with Elvance 30mg, do you guys have any tips on what to do and what not to do on medication, what to look for and how to manage my day etc? Doctor told me not to drink coffee, how is your experience with that? Anything you can share would be much appreciated. This is a post out of curiosity and also maybe because I don't really have anyone to tell that I'm starting medication now. So this is a bit of seeking support as well. as I had so many mixed emotions after I got diagnosed. 
+
+Thank you!",3,1768381541.0,ADHD,5,1.0,False
+1qcil5t,https://www.reddit.com/r/wholesaleproducts/comments/1qcil5t/exporting_premium_indian_coffee_authentic_spices/,Exporting Premium Indian Coffee & Authentic Spices,"We export **premium Indian coffee (Arabica & Robusta)** and a wide range of **whole and powdered spices** including chilli, turmeric, pepper, cumin, and more.
+
+Looking to connect with **importers, distributors, or roasters** worldwide.
+
+Open to samples and long-term partnerships.   
+  
+DM or Comment for further discussions.",1,1768381524.0,wholesaleproducts,0,1.0,False
+1qcika9,https://i.redd.it/exhb861x5adg1.jpeg,"Pressure: 1, Me: 0",I wanted a clean flip. Got a coffee fireworks show and had to wash everything,4,1768381435.0,AeroPress,0,1.0,False
+1qcijsc,https://www.reddit.com/r/smallbusiness/comments/1qcijsc/how_i_use_scavenger_hunts_to_drive_foot_traffic/,How I Use Scavenger Hunts to Drive Foot Traffic and Customer Engagement,"Running a small business means constantly finding creative ways to stand out. One strategy that's worked surprisingly well: partnering with other local businesses to create neighborhood scavenger hunts.
+
+**The Basic Model:**
+
+Get 5-10 local businesses to participate. Each location has a clue or code. Participants visit all locations, collect stamps/codes, and enter to win prizes donated by participating businesses.
+
+**Why It Works:**
+
+**For You:**
+- Brings foot traffic through your door
+- Zero or low cost (just donate a small prize)
+- Cross-promotes with complementary businesses
+- Creates community goodwill
+- Social media content goldmine
+
+**For Customers:**
+- Fun activity (great for families, date nights, tourists)
+- Discover new local businesses
+- Feel connected to community
+- Shareable experience
+
+**Real Example:**
+
+Our downtown area ran a ""Shop Local Saturday"" hunt. 8 businesses participated:
+- Coffee shop
+- Bookstore  
+- Boutique clothing
+- Bakery
+- Pet supply store
+- Art gallery
+- Fitness studio
+- Hardware store
+
+Entry fee: $5 (went to local charity)
+Prize: $100 gift card bundle from all shops
+
+Result: 120 participants, average visited 7/8 locations, several businesses reported sales that day exceeded normal Saturday by 40%+
+
+**How to Organize One:**
+
+1. **Find partners**: Reach out to 5-8 non-competing businesses nearby
+2. **Set date/time**: Weekend works best, 3-4 hour window
+3. **Create simple clues**: QR codes at each location, or physical stamp cards
+4. **Promote together**: Split social media duties, cross-post
+5. **Make prizes attractive**: Each business contributes $20-30 gift card
+6. **Keep it simple**: Don't overcomplicate - participation matters more than complexity
+
+**Pro Tips:**
+
+- Include businesses that appeal to different demographics (brings variety)
+- Make sure route is walkable (under 2 miles total)
+- Do it quarterly so it becomes anticipated tradition
+- Collect emails at signup for future marketing (with permission)
+- Take photos of participants to share on social media
+
+**Variations:**
+
+- **Seasonal themes**: Holiday hunts, summer festival tie-ins
+- **Kids version**: School break special with family-friendly clues
+- **Monthly mini-hunts**: Simpler, 3 business rotation
+- **Virtual option**: QR codes allow remote participation
+
+The best part? It positions your business as community-focused and fun, not just transactional. People remember experiences more than discounts.
+
+Anyone else tried something like this? Would love to hear what worked in your area.",1,1768381381.0,smallbusiness,3,1.0,False
+1qcij2t,https://www.reddit.com/r/WidowAndBored/comments/1qcij2t/cant_sleep_early_morning_checkin/,☀️ Can’t Sleep / Early Morning Check-In,"
+
+Awake early or didn’t sleep much?
+
+You’re not alone.
+
+This thread is for quiet morning company.
+
+Say hi, lurk, or share something small — coffee, weather, a thought, or nothing at all.
+
+
+
+No heavy topics. No fixing.
+
+Just presence.
+
+
+
+If you reply to someone, please keep it kind and low-pressure.",1,1768381303.0,WidowAndBored,2,1.0,False
+1qciisz,https://i.redd.it/75vb3e2g5adg1.jpeg,So happy with our baby blue beast,"Just want to Share my new setup. Coming from a Delonghi Dedica and having fallen in love with La Marzocco and good coffee, there was a point of no return and just before Christmas, we pulled the trigger.
+
+It took a couple of weeks to get our setup together and to get used to the new workflow, but now I’m proud to say, that I served “the best cappuccino, I’ve ever had” to my dad yesterday, after him and my mom have said for years, that their fully-automatic machine is just perfect and the don’t taste a difference to an Italian Café.
+
+And it certainly helps, that she’s an absolute beauty!",43,1768381276.0,espresso,1,0.98,False
+1qciikf,https://i.redd.it/97eipmti3adg1.jpeg,[OC] The land footprint of food,"The land use of different foods, to scale, published with the [European Correspondent](https://europeancorrespondent.com/en/r/the-land-footprint-of-food).
+
+Data comes from research by Joseph Poore and Thomas Nemecek (2018) that I accessed via [Our World in Data](https://ourworldindata.org/explorers/food-footprints?country=Bananas~Beef+%28beef+herd%29~Beef+%28dairy+herd%29~Cheese~Eggs~Lamb+%26+Mutton~Milk~Maize~Nuts~Pig+Meat~Peas~Potatoes~Poultry+Meat~Rice~Tomatoes~Wheat+%26+Rye~Tofu+%28soybeans%29~Prawns+%28farmed%29~Apples~Barley~Beet+Sugar~Berries+%26+Grapes~Brassicas~Cane+Sugar~Cassava~Citrus+Fruit~Coffee~Dark+Chocolate~Fish+%28farmed%29~Groundnuts~Oatmeal~Onions+%26+Leeks~Other+Fruit~Other+Pulses~Other+Vegetables~Root+Vegetables~Soy+milk~Tofu~Wine&hideControls=false&Commodity+or+Specific+Food+Product=Commodity&Environmental+Impact=Land+use&Kilogram+%2F+Protein+%2F+Calories=Per+kilogram&By+stage+of+supply+chain=false).
+
+I made the 3D scene with Blender and brought everything together in Illustrator. The tractor, animals and crops are sized proportionately to help convey the relative size of the different land areas.",365,1768381254.0,dataisbeautiful,248,0.84,False
+1qcii3x,https://www.reddit.com/r/PhR4Friends/comments/1qcii3x/27_f4m_coffee_later/,27 [F4M] coffee later?,"Onsite ako later at nakakatamad lol. So if you're free later around 8:00 pm maybe we can go grab some coffee or what not? Around greenfield office ko. Samahan nyo na ako. Hahaha. 
+
+About me
+
+\- im from Qc Commonwealth 
+
+\- working night shift 
+
+\- 4'11
+
+\- mabait 
+
+If interested, please send me a msg with your ASL + height and your tg username. See yah! ",2,1768381212.0,PhR4Friends,0,1.0,False
+1qcih9e,https://i.redd.it/ta3k91dw4adg1.jpeg,snow s1 2016 is to 2026 last 2018 make years later,"ice vo,d coffee tj e.",0,1768381123.0,Wildcraft,0,0.5,False
+1qcigcb,https://i.redd.it/rve61yap4adg1.jpeg,So happy with pur setze,"Just want to Share my new setup. Coming from a Delonghi Dedica and having fallen in love with La Marzocco and good coffee, there was a point of no return and just before Christmas, we pulled the trigger.  
+
+It took a couple of weeks to get our setup together and to get used to the new workflow, but now I’m proud to say, that I served “the best cappuccino, I’ve ever had” to my dad yesterday, after him and my mom have said for years, that their fully-automatic machine is just perfect. 
+
+And it certainly helps, that she’s an absolute beauty!",19,1768381026.0,LaMarzocco,2,1.0,False
+1qcifw7,https://www.reddit.com/r/mumbai/comments/1qcifw7/good_cafés_in_mumbai/,Good Cafés In Mumbai,"Hello fellow Mumbaikars! I recently finished my graduation and will be leaving Mumbai for my post graduation next month. I have a lot of free time currently and wanted to explore new cafés in the city before I leave.  Would love some recommendations!
+
+I don’t necessarily want to go any fancy cafés, just some place where I can sit for a long time, read/study/get work done and enjoy good coffee.
+
+I live around Dadar, so spots around that area would be appreciated, although I wouldn’t mind SoBo/Bandra etc.
+
+Thanks!",1,1768380972.0,mumbai,0,1.0,False
+1qcif81,https://www.reddit.com/gallery/1qcif81,anyone else watching silver?,"So obviously silver is on a rip and there is a great opportunity for a bunch of confirmation on your charts. 
+
+90 is a massive wall.  A new support needs to accumulate. In the meantime, i think it will bounce off 90 a few times and retest 86. I like using 5/30min charts and really focus on volume.
+
+Anyone else looking at this shit at 4am?",2,1768380898.0,daytrade,0,1.0,False
+1qcieqj,https://www.reddit.com/r/emotionalabuse/comments/1qcieqj/im_all_alone/,I'm all alone,"I don't even know how to collect my thoughts. My thoughts are tumbling inside my head like a washing machine. I just had an argument with my husband. I'm very sick at the moment, and part of it is because of him and him not trying to prevent the spread of his illness. He never covered his mouth, I had to keep begging him to wash his hands etc. 
+
+  
+Now, instead of it being a cold it's morphed into bacterial infection. Coupled with a lot of stress due to him, work and having autism everything is just spiralling. With autism comes issues with executive function, I have difficulty in asking for help or reaching out to others. This along with childhood trauma has meant I always do things alone.
+
+I got only 4 hours of sleep. I asked my husband if he could come home during lunch today(he has a flexible job) to help as I'm literally falling apart due to illness. I NEVER ask for help. Instead of kindness, or understanding his reply was :
+
+""I guess so""
+
+And, with autism, I have to preface, I don't understand social cues. I don't understand implicit meanings. I need clear, direct speech. 
+
+I said to him it sounds like he rather not. To which he replied, ""Well, I guess I won't get a break then""
+
+  
+I was so angry because the one time i ask, for anything, his immediate thought was about himself. This stems, from the larger issue: his selfishness. 
+
+WHen I confronted him in the morning, he got angry, and said that ""I said I would come home""
+
+And I said to him that that isn't the larger picture, it's the fact that he only thought of himself. Just like, he didn't care to prevent getting me ill. Like how he is free to go hangout with friends, go to events, while I suffer at home. But when I ask one thing of him(I need him home to help out with taking care of our dog, the house etc.) his major concern was his break. This 1 day.
+
+I should mention he has anger issues. He screams in my face. Hits things. Breaks things. There's a hole in our wall because of this. In fact, he's been arrested before because the neighbours heard him and were afraid for me.
+
+I tried to explain to him that it's not about him saying he'd come home, it stems from him being selfish. That's the one of the larger issues. He then said it's all my fault, ""i'm doing this to myself"" that ""I""m broken"" ""can't understand social cues"" ""I triggered him"" I ""made him react"" 
+
+  
+He never takes any accountability. I've even had to draw on paper diagrams of how it's not about the current event, that the event is a symptom of a larger issue. Whenever I speak honestly and truthfully towards him, like when I said to him ""I guess I'll have to take care of myself today"" he screamed that I'm baiting him, triggering him but I am literally just thinking this. I don't have these nefarious motivations. I say things literally. This is part of my autisim. He's done nothing to learn about how to communicate or understand me. I've never hidden who I am. He was once kind, gentle, loving. I feel I was fooled, lied to. 
+
+  
+I moved to the country I am in currently for him. I changed jobs for him. I made sacrifices. He thinks cooking dinner and maybe not going to see his buddies every weekend is a sacrifice and not taking one lunch is a sacrifice. I am not exaggerating. He truly has said and believes this.
+
+  
+I feel utterly lost and alone. I have no friends...no family here. I can't exactly leave him because I don't have permanent residency here yet and my visa is tied to him. I could always switch to a worker visa but I'm so close to having my own residency and being independent. I want to say that I never thought I would live in the country I am now. I didn\\t come here for ""better opportunities"" or anything like that. I moved here for him.
+
+  
+What's worse is that I've been alienated from his friends or anyone else. He paints pictures to them that I do nothing around the house, that he ""maintains the house"" which is absolutely not true. Not only is he emotionally abusive but also financially as well and spends money recklessly and whenever I buy myself anything, even if it's a coffee, he makes a big deal of it.
+
+  
+I guess...I'm just reaching out for anyone with kind words. I'm crying. Sick. Very much alone. I know he's gaslighting me. I know he's deflecting. But I' all allone. I can't help feeling crazy. I just need someone to please share some kind support. 
+
+  
+",2,1768380844.0,emotionalabuse,0,1.0,False
+1qciec5,https://www.reddit.com/r/Pattaya/comments/1qciec5/crypto_traders/,Crypto traders,Wanted to check if there any pro crypto traders out here in Pattaya? Just getting started mostly on BNB and SOL network but would love to chat with someone more technical . I’m staying Pattaya for a couple of months. Send a msg for a free beer/ coffee,0,1768380801.0,Pattaya,2,0.33,False
+1qcidji,https://www.reddit.com/r/dating_advice/comments/1qcidji/is_it_possible_for_a_woman_to_like_you_despite/,Is it possible for a woman to like you despite showing no signs of comfort or intimacy after 4 dates? (Caused my severe anxiety),"I'm making this post firstly, to make sure I'm not dismissing someone who just needs more time.
+
+And secondly, I'd like to know what you think life would be like if I were to have a long-term relationship with this person.
+
+
+
+I've \[M32\] just had a 4th date with a woman \[29F\] and all of her actions were strong signs she liked me, she brought me a little gift, she would message me out the blue in the week between dates and discussing future plans of what we can do together.
+
+The issues seem to be 2-fold, she's very anxious in general, but also not showing signs she's ready for intimacy.
+
+But she told me on the first date she was an incredibly anxious person. I didn't really mind that and I found it quite endearing.
+
+She told me things like:  
+\-Can't go to the gym ever because she feels people are watching her.
+
+\-Has no good photos of herself as she hates them being taken
+
+\-She doesn't like any kind of relaxed still scenarios where we just chat. If it arises like having a coffee she will cut it short and suggest we go somewhere else.
+
+  
+She repeatedly told me how much she hates dating and finds it so awkward. Often not seeming to be present in the moment but more so despising her situation. On the latest date she opened up to me about how traumatic she feels it is to be in this situation dating again and she asked me how I am finding the process.
+
+Usually I'm good at picking up signs on when someone is starting to feel warmth towards me, mainly based on how often they will touch me and general proximity.  
+  
+I've gotten NONE of this from her. It's like being on a business trip with a work colleague who thinks I may have gotten the wrong idea so insists on keeping things light.
+
+So I can't figure out if she has a horrendous anxiety disorder, isn't in to me at all and just being polite, not over her previous relationship yet or all of the above.
+
+As above, should I move on as the signs aren't good or should I keep going in hope that her anxiety settles?",2,1768380719.0,dating_advice,4,1.0,False
+1qcidi3,https://www.reddit.com/r/FriendshipAdvice/comments/1qcidi3/is_this_friendship_still_worth_it_or_am_i_putting/,"Is this friendship still worth it, or am I putting in way more effort than I get back?","I’m trying to figure out whether I’m overthinking this or if this friendship has genuinely become one-sided.
+
+My friend and I have known each other since elementary school. We grew up together, became very close in high school, and ended up attending the same university. Because of our long history, I’ve always considered her one of my closest friends.
+
+In our first semester of university, our schedules often lined up and we had two-hour-long breaks at the same time. During those breaks, she would usually spend most of that time with new friends she made and only come sit with me for the last 20–10 minutes of the break. At the time, I didn’t say anything — not because I was jealous or controlling, but because I genuinely believe people have free will and can spend their time however they want. It didn’t bother me much at first, though I’ll admit it stung a little considering how long we’ve been friends.
+
+Later on, those same friends ended up ignoring her for the rest of the semester. When that happened, I welcomed her back and spent breaks with her when she had no one else to sit with.
+
+I’ve also tried to be there for her in more serious ways. I attended her father’s funeral and stayed to comfort her. I was one of the few friends who actually showed up. I regularly invited her out to eat, and sometimes I’d even buy her favorite noodles and deliver them to her because I knew she loved them (they’re expensive where we live, but I didn’t mind).
+
+Through my family, she was also able to get an actual job. It paid around 12 grands, which is a lot for a first-year university student around here.
+
+On the other hand, she almost never initiates plans or invites me out. One time she invited me to get coffee and picked me up. At the time, I was broke and saving money, and the place she chose was expensive. Based on how the invitation was framed, it genuinely seemed like she was offering to pay. When it came time to order, she paid only for herself, and I paid for my own drink. I wasn’t prepared for that financially, and it left me feeling awkward and caught off guard.
+
+There was also an incident where I asked her to hang out, and she asked her mom for permission while on FaceTime with me. Her mom said no, claiming she didn’t know me or trust me. This really shocked me because I’ve known her daughter since elementary school. I was one of the few friends she spent time with when her high school best friend ditched her. I showed up to her father’s funeral, met her mom there, spoke to her multiple times, and I was the one who helped her get that job through my family. Hearing her mom say “I don’t know her” felt beyond wild to me, and I honestly thought my friend might have at least explained who I was.
+
+In the second semester, I asked her multiple times if she wanted to take classes together. The professors and timings were genuinely good, but she refused because she wanted to register with the same friends who had already ditched her in the first semester.
+
+At this point, I feel like I’m always the one initiating, showing up, paying, and adjusting, while she puts in minimal effort. I care about her and value our history, but I’m starting to feel taken for granted.
+
+Am I overreacting, or does this sound like a one-sided friendship?",1,1768380716.0,FriendshipAdvice,0,1.0,False
+1qcidhi,https://www.reddit.com/gallery/1qcidhi,Moving to a first studio apartment. How would you arrange it?,"Hello hello, I’m moving to a new place and starting fresh, without any preowned furniture. I really want to get this right, but I have a bit of ""analysis paralysis"" and I'm terrified of regretting my purchases.
+
+The apartment has a separate kitchen and bathroom. I need to fit a computer desk, a bed (or daybed?), and a dining/coffee table for when I have friends over. I actually don't own a TV and don't plan on getting one, so that saves some space!
+
+One catch: **I absolutely cannot drill holes in the walls.**
+
+If you were me, where would you put the main furniture pieces? Any tips for decorating without nails/screws would be amazing.",2,1768380714.0,StudioApartments,1,0.75,False
+1qcidft,https://i.redd.it/m88yklar3adg1.jpeg,Her latest Insta Story is Giving AUTOTUNE FILTER.,,3,1768380709.0,EmilieKiserUpdates_,4,0.81,False
+1qcidc9,/r/computers/comments/1qcicym/hp_elitebook_640_g9_spilled_a_little_coffee_with/,hp elitebook 640 g9 spilled a little coffee with milk,,1,1768380700.0,Hewlett_Packard,0,1.0,False
+1qciczd,https://i.redd.it/vytn55zl3adg1.jpeg,Beklenen teklif gelmedi: Coca-Cola ünlü kahve zincirini satmaktan vazgeçti.,"**Beklenen teklif gelmedi: Coca-Cola ünlü kahve zincirini satmaktan vazgeçti.**
+
+🗂 Coca-Cola, Costa Coffee için yürüttüğü açık artırma sürecini durdurdu.
+
+📉 Yatırımcı tekliflerinin şirket beklentilerinin altında kalması satış planının rafa kaldırılmasında etkili oldu.
+
+via Dünya Gazetesi",4,1768380663.0,borsavefon,0,0.75,False
+1qcicym,https://www.reddit.com/r/computers/comments/1qcicym/hp_elitebook_640_g9_spilled_a_little_coffee_with/,hp elitebook 640 g9 spilled a little coffee with milk,"Please help. I spilled just a very little amount on the hp elite book 640 g9. On the keyboard.  It was coffee with milk. I turned it off immediately. Do I really need to open it or bring it to a repair store? I dried the keyboard and it seems dry but I am really unsure what to do. It’s not my laptop but the man I’m working for, who is blind and urgently needs it to work. ",1,1768380659.0,computers,2,1.0,False
+1qcicqz,https://www.reddit.com/r/Nightshift/comments/1qcicqz/how_much_coffee_do_you_drink_in_a_night/,How much coffee do you drink in a night?,"I'm on my 3rd cup since 5pm, while nursing a bottle of water.",3,1768380638.0,Nightshift,44,0.8,False
+1qcico7,https://www.reddit.com/r/dating_advice/comments/1qcico7/coffee_date_advice/,Coffee date advice,"Hi! I’m going on my first ever coffee date on Friday. Grabbing coffee and breakfast. I normally default to grabbing drinks at a nice bar. I tend to prefer this because I’ll pick a bar with a good vibe, get 2 seats at the bar and this promotes closeness and establishing physical contact. My concern with the coffee date is I’m most likely going to be sitting across from the girl making it feel less intimate and more like an interview. Any tips or advice? Should I try to see if we can still sit next to each other?",1,1768380629.0,dating_advice,2,1.0,False
+1qcicfe,https://www.reddit.com/r/ToolReviewr/comments/1qcicfe/gluco6_review_a_natural_way_to_support_healthy/,Gluco6 Review: A Natural Way to Support Healthy Blood Sugar Every Day,"https://preview.redd.it/szipylmf3adg1.png?width=300&format=png&auto=webp&s=22adc6c1be046e9fb1e175de1c56c03ff0e287cb
+
+Introduction
+
+If you struggle with unstable blood sugar, constant cravings, or that exhausting energy crash after meals, you are not alone. Many people feel frustrated because they try to eat better, move more, and still don’t see the results they want. This is exactly where Gluco6 enters the picture. It promises a simple, natural approach to supporting healthy blood sugar levels without complicated routines or drastic lifestyle changes.
+
+I remember how confusing it felt to sort through all the advice out there. One day carbs are the enemy, the next day fats are the problem. Gluco6 positions itself as a supportive daily formula that works with your body instead of against it.
+
+If you want to see how Gluco6 works and what it can do for you, you can [Learn more](https://afa86nx25u9w3t4dvidd8x0wdr.hop.clickbank.net/) right here.
+
+# What is Gluco6?
+
+Gluco6 is a dietary supplement designed to support healthy blood sugar levels using a blend of natural ingredients. The idea behind it is simple. Instead of forcing your body into extreme changes, Gluco6 focuses on helping your metabolism function more efficiently so your blood sugar stays balanced throughout the day.
+
+The formula is built around ingredients that are often associated with glucose support, insulin sensitivity, and metabolic balance. Gluco6 is taken daily and fits easily into a normal routine. You don’t need to follow a strict diet plan or track every meal to use it. That makes it especially appealing if you already feel overwhelmed by health advice.
+
+What stood out to me is how Gluco6 frames blood sugar as a full-body issue. It doesn’t just focus on glucose numbers. It also looks at energy levels, cravings, and overall metabolic health. This approach feels more realistic because blood sugar problems rarely exist on their own. They affect how you feel, how hungry you get, and how consistent your energy is during the day.
+
+The supplement comes in capsule form and is meant to be taken consistently. Over time, the goal is to support more stable blood sugar responses, especially after meals. That stability can make a big difference in daily life, from fewer crashes to better focus and mood.
+
+# Learn more about Gluco6
+
+Learn more: [Learn more](https://afa86nx25u9w3t4dvidd8x0wdr.hop.clickbank.net/)
+
+# What are the benefits of Gluco6?
+
+One of the biggest benefits of Gluco6 is how easy it is to use. You don’t need special equipment, complex meal plans, or hours of research. You simply take it as directed and let it support your body in the background while you go about your day.
+
+Many people look to Gluco6 for help with maintaining balanced blood sugar levels, especially if they notice spikes and drops after eating. Those ups and downs often lead to fatigue, irritability, and cravings for sugary snacks. By supporting a more stable response, Gluco6 aims to help you feel more even and in control.
+
+Another benefit is the potential support for energy levels. When blood sugar stays more balanced, energy tends to feel steadier too. Instead of feeling great in the morning and drained by mid-afternoon, you may notice fewer crashes and a more consistent sense of alertness.
+
+Cravings are another area where Gluco6 can make a difference. When blood sugar swings wildly, the body often demands quick sugar fixes. Supporting balance can reduce that constant urge to snack, which makes healthier eating feel more natural instead of forced.
+
+I also like that Gluco6 focuses on long-term support rather than quick fixes. It’s not positioned as a magic solution that works overnight. Instead, it encourages consistent use and realistic expectations. That mindset feels honest and sustainable.
+
+# Who is Gluco6 for?
+
+Gluco6 is designed for adults who want to support healthy blood sugar levels as part of a balanced lifestyle. It can be a good fit if you already try to eat reasonably well but still notice energy dips or strong cravings during the day.
+
+It’s especially relevant for people who feel sensitive to carbs or sugar and notice how quickly certain foods affect their energy and mood. If you want a simple daily supplement that supports metabolic health without adding stress to your routine, Gluco6 fits that role well.
+
+You don’t need advanced health knowledge to use it. There is no complicated timing or special preparation. That makes it accessible even if you are just starting to pay attention to your blood sugar and overall health.
+
+Time commitment is minimal. You don’t have to plan your day around it, which is important if you already have a busy schedule. Gluco6 works best as a supportive tool, not as something that takes over your life.
+
+# Experiences and evaluation
+
+When I first looked into Gluco6, I was skeptical. There are many supplements that promise a lot and deliver very little. What made me more open to Gluco6 was its focus on consistency and support rather than dramatic claims.
+
+After using it regularly, I noticed that my energy felt more stable throughout the day. I didn’t experience the sharp afternoon slump that used to send me looking for snacks or coffee. That alone made my days feel smoother and more productive.
+
+I also became more aware of how my body responded to meals. While Gluco6 didn’t replace healthy eating, it felt like it helped soften the impact of less-than-perfect choices. Instead of feeling immediately sluggish after eating, I felt more balanced.
+
+Another positive point is that Gluco6 doesn’t feel aggressive. Some supplements come with noticeable side effects or an uncomfortable “wired” feeling. Gluco6 felt gentle and supportive, which made it easy to stick with over time.
+
+Of course, results can vary from person to person. What matters is that Gluco6 feels like a realistic addition to daily life. It doesn’t demand perfection. It supports progress.
+
+# Conclusion and recommendation
+
+Gluco6 offers a straightforward, natural approach to supporting healthy blood sugar levels. It fits easily into daily routines and focuses on balance rather than extremes. If you are tired of energy crashes, constant cravings, or feeling out of sync with your body, Gluco6 is worth considering.
+
+It’s not about chasing instant results. It’s about supporting your body consistently so better days become the norm instead of the exception.
+
+If you want to take a closer look and decide if Gluco6 is right for you, you can [Learn more](https://afa86nx25u9w3t4dvidd8x0wdr.hop.clickbank.net/) today.",1,1768380604.0,ToolReviewr,0,1.0,False
+1qci9og,https://www.reddit.com/gallery/1qci9og,Help me layout an apartment kitchen/living/dining room,"Hi everyone, I will be moving into an unfurnished apartment that has this open kitchen into quite large living room. I am really conflicted on how to lay it out, I have added images to two ideas I have, neither of which I really like. The room gets a lot of natural light, so I thought it would be good to have the dining table by the windows. I don't want a TV so that makes things a little easier, but really I am a bit lost and don't really know what I am doing.   
+  
+Whole room (including kitchen) is about 23.4 sqm (250 sqf). The only furniture I have is the 110x70cm dining table, and the coffee table, but I could get rid of either of them if it would make the apartment flow better. 
+
+Any suggestions or ideas would be much appreciated. Thanks",2,1768380306.0,HomeDecorating,6,1.0,False
+1qci9o5,https://i.redd.it/2815kqcf2adg1.gif,Welcome to the community! Introduce yourself.,"Hey Marketers!
+
+Welcome to our new home. We’ve spent enough time writing for ""the audience"" and  this sub is for **us.** Marketing changes every 15 minutes, and it’s impossible to keep up alone. We wanted to create a place that feels like a casual coffee chat with the smartest people in the industry and minus the corporate buzzwords.
+
+**To kick things off, let’s do a quick intro in the comments:**
+
+1. **Your Niche:** (e.g., Performance, Content, SEO, Brand, or ""I do literally everything"")
+2. **Current Obsession:** A brand, a trend, or a tool you think is killing it right now.
+3. **The ""Marketing Horror Story"":** Give us a 1-sentence summary of your wildest client/boss request.
+
+**Rules of the House:** \* No ""Growth Hacking"" spam or self-promo links.
+
+* Share the ""How,"" not just the ""What.""
+* Be kind, the algorithm is mean enough already.
+
+**Drop a comment and let’s get to work!**",2,1768380306.0,AdBreak,1,1.0,False
+1qci98k,https://www.reddit.com/r/gurgaon/comments/1qci98k/office_got_a_new_coffee_machine/,Office got a new coffee machine,"Got an empty office and a new coffee machine which uses actual coffee beans.
+
+Tried all types of coffee 
+Capachino 
+Mocha
+Latte
+
+They all taste the same.
+
+Espresso was a hard lesson learnt",7,1768380257.0,gurgaon,2,1.0,False
+1qci84g,https://i.redd.it/mwe773o12adg1.jpeg,Never to late for coffee.,,2,1768380132.0,walkingpics,1,1.0,False
+1qci7ac,https://www.reddit.com/r/r4r/comments/1qci7ac/27m_m4a_if_platonic_m4f_if_not_platonic_brussels/,27M [M4A - if platonic] - [M4F if not platonic] - Brussels Belgium looking for some chats and meetups,"I’m in BXL for work at the moment and I really enjoy meeting new people while I’m here. If you’re between 24–28 and up for grabbing a coffee, having a chill walk, or just a good conversation, feel free to hit me up 🤙
+
+I’m always open to spontaneous plans, but I’m also happy to explore the city on my own, so if you have any fun solo ideas or must-see spots in Brussels, I’d love to hear them.
+
+I speak French, Dutch, English, and Italian, so language definitely won’t be a problem 😊
+
+",0,1768380038.0,r4r,1,0.5,False
+1qci762,https://www.reddit.com/r/feminineboys/comments/1qci762/rented_room_part_3/,Rented room part 3,"The last couple of month have been loving and tough. My partner and I have firmly adjusted to our lives together and I made him quit his job at Olive Garden so he can be a full time homemaker. Heck I even made him my sole beneficiary without him knowing lol. We moved into a different apartment in more of a better area we’ve found our new complex very welcoming we’ve even a couple that had also recently moved in together, it was refreshing sharing our common struggles. Our morning consists of cuddles warm coffee with some burning emotions. 
+
+We recently went to his family’s New Year’s party it was a miracle his mother invited us but she called him and asked if we wanted to come over in which he responded “you have to ask my man if we can” in which I quickly responded yes. I could hear her being short with him and eventually hung up. Once we arrived it was quite normal drinking, everyone dressed up including my boyfriend he wore his nice heels and a dress. We ate and drank a little his mom steady tried making a scene and asking questions which I’m sure she wanted an aggressive response to. And asked at one point when I could tell she was a bit drunk “who was catching” I quickly replied “your son, and he’s good at it”. She walked away got some more wine. Her husband didn’t speak to us once even told us to get a room once we kissed at the the new year. We left and on the way home grabbed some ice cream and had some fun at home with a movie. The next day we went out saw the new avatar and went to get his nails done he chose yellow this time for feet and hands. Side note I love those little sandals they give you after getting your feet done at the salon they made his feet look super good after we left and walked around.  
+
+None the less I’ve accepted that I am in fact in love with a man femboy or not and I will continue to support and love him how he should be loved and supported. His mom keeps shaming him trying to get him to think it’s a phase but little by little he’s guided my hand in accepting this new life with him. Who knew all those times I’d hangout at his house before he came out he’d always look at me as if he had already chosen me and molded himself into what I and he desire ",1,1768380027.0,feminineboys,0,1.0,False
+1qci617,https://www.reddit.com/r/soloGokarna/comments/1qci617/back_to_gokarna_for_the_2nd_time_but_early/,Back to Gokarna for the 2nd time but early morning arrival pls help!,"Hey guysss,
+Me (22F) and my bf are going to Gokarna again in the first week of February (around 5th-7th-ish). We really loved it last time so much we booked the same place again right on the main beach. The vibe there is just tooooooooooo good to try something new lol srsly.
+
+Our train reaches Gokarna Road station at like 3 in the morning 😭 and check-in is only at 12. What do people usually do in those horrible early hours? Is there any decent place to sit with coffee or just crash for a bit without feeling super awkward? Or do we just suffer till noon haha.(no no pls no)
+
+This time we don’t wanna do any long trips outside Gokarna ,  no Yana caves, no Vibhuti falls, none of that again. We already did Kudle beach and Mahabaleshwar temple last time too. We just want proper chill, peace, local Gokarna feels only. Planning to rent a scooty for the 2.5 days so we can poke around easily.
+
+I am mostly into local food cheap, tasty, not touristy places. Like where do locals actually eat? Breakfast spots, thali places, fish curry joints, whatever is good and won’t burn a hole in the pocket. Also any small hidden temples or quiet corners that aren’t packed with people? We’re not looking for insta-famous views, just peaceful spots to exist and eat well 😅
+
+Anyone who’s been recently or lives around there please drop your real suggestions! Last time we missed a lot of the actual local side because we were running around to all the big places.",1,1768379906.0,soloGokarna,1,1.0,False
+1qci5nj,https://i.redd.it/p0cvcjt81adg1.jpeg,What vibe are you getting? Tell me who you think I am!,,2,1768379863.0,whatsinmybag,1,0.76,False
+1qci4m3,https://www.reddit.com/r/espresso/comments/1qci4m3/how_a_different_basket_makes_ese_pod_coffee_taste/,How a different basket makes ESE pod coffee taste a lot better - why?,"Hey,
+
+  
+I just wanted to share an observation I made and ask if anyone has similar experiences. 
+
+First of all I use a delonghi dedica 685. I mainly use it at the office with ESE pods, since they are so easy to use here. We used to have a cheap Ariete espresso machine (the kind with the built in grinder) that was pretty good, but broke pretty quickly hence the delonghi. 
+
+I noticed that if I use the pod basket that comes with the delonghi I was disappointed with the  regular pod coffee I was getting. It was nothing special – almost like drinking regular filter coffee. It's not bad, but it's nothing special either.
+
+Then I decided to try using the ariete ese pod basket with a kinda of a star pattern in it. It came with the old machine, [it looks like this (amazon link).](https://www.amazon.com.be/-/en/ARIETE-Filter-Minuetto-00M1334-Machine/dp/B0742BX5Y5) It fits the portafilter of the delonghi and you can use it with the machine eve though it's really tight when locking the portafilter. BUT here's the thing: any ese pods with this basket tastes so much better!
+
+Anyone have any ideas as to why? What's the difference? They are both 51mm ese pod baskets, but the Ariete basket with the star pattern inside make the coffee a lot better. It tastes stronger, it flows out of the machine a bit slower (maybe more pressure due to the not perfect sized basket?) and it has more body, more taste. I don't get it. Any ideas as to why this is? 
+
+In any case, using the ariete basket makes my ese pod experience a lot better and I thought I'd just share this with all of you. 
+
+
+
+  
+",1,1768379741.0,espresso,0,1.0,False
+1qci46z,https://www.reddit.com/r/india_tourism/comments/1qci46z/back_to_gokarna_for_the_2nd_time_but_early/,Back to Gokarna for the 2nd time but early morning arrival pls help!,"Hey guysss,
+Me (22F) and my bf are going to Gokarna again in the first week of February (around 5th–7th-ish). We loved it last time so much we booked the same place again right on the main beach. The vibe there is just too good to try something new lol.
+
+Our train reaches Gokarna Road station at like 3 in the morning 😭 and check-in is only at 12. What do people usually do in those horrible early hours? Is there any decent place to sit with coffee or just crash for a bit without feeling super awkward? Or do we just suffer till noon haha.
+
+This time we don’t wanna do any long trips outside Gokarna ,  no Yana caves, no Vibhuti falls, none of that again. We already did Kudle beach and Mahabaleshwar temple last time too. We just want proper chill, peace, local Gokarna feels only. Planning to rent a scooty for the 2.5 days so we can poke around easily.
+
+I am mostly into local food cheap, tasty, not touristy places. Like where do locals actually eat? Breakfast spots, thali places, fish curry joints, whatever is good and won’t burn a hole in the pocket. Also any small hidden temples or quiet corners that aren’t packed with people? We’re not looking for insta-famous views, just peaceful spots to exist and eat well 😅
+
+Anyone who’s been recently or lives around there please drop your real suggestions! Last time we missed a lot of the actual local side because we were running around to all the big places.",4,1768379691.0,india_tourism,5,0.83,False
+1qci3za,https://www.reddit.com/gallery/1qci3za,The Beast: A Review in too many words,"I’m posting this a bit unfinished but some people were waiting. I think my account might be compromised and don’t know if I can sign back in once I’m out. If I don’t get back to you sorry, I’ll see what’s going on.
+
+Something’s worth isn’t tied to a dollar sign, and its Potential has more value than the gold it was built upon.
+
+This is something my parents taught me by how they raised me. Just because I have some neurons colliding in a way CERN would like to study, I’m more than my hiccups. 
+
+I also sent Viture that lesson when they asked me how I felt about the Beast. I was fortunate enough to receive an early pair for reviewing. It's how I jumped in to help anyway I could when a borked-up firmware update hit at launch, I believe in the Beast and the people who made them. That’s why I helped pitch in. Even with some hiccups I saw the potential. 
+
+Now, enough rambling sentiments, on to the review. I hope you’ve all brought along snacks and a juice box; I have a tendency of using too many words.
+
+When the Beast arrived in the blue “Future on View” box on my front porch, all I wanted to do was open it like the toy I didn’t get for Christmas when I was 10. But I remembered another little boy who had waited almost 60yrs to touch technology like this. Now he could experience it with crystal-clear, silky-smooth frames. Full of rich color with OLEDs as bright as a warp drives polyluminous burst into subspace. I had an opportunity to let him hold something he had only ever seen imagined in black and white as a kid. 
+
+The Black and night blue shimming graphics were a nice upgrade from the Luma Pro and Luma Ultra stark white offerings. It looks good on a shelf as a standalone without the other product boxes to “prop it up “in a brand choir around it. Still, it doesn’t top the OG ProXR unboxing IMO though. The way the tri-folded box hinge opened revealing its black case accented in orange., Chefs kiss that one. Pics at the top of what’s in the box, there are plenty unboxing videos to see.
+
+After my Pops gleefully opened up the shiny black and shimmering blue box, plugging it in with a far too seldom with age, child’s excitement and…Right out of the box there was a major drift issue with anchor mode, rendering it useless for any purpose someone might want it for…like the reason I bought it. Statements were put out and “real reviews” talked about “Follow mode works great” “Side mode is available” and “Works flawlessly on every platform you don’t own”. 
+
+It had put a halt to my “Interview with a time-traveller” I had planned, asking my dad about what he would say to his 10yr self about how we did. 
+
+His face read the answer like a Magic 8 ball, “ask again later”
+
+…Jean-Claude Van Damme-it
+
+When my review Beast arrived, other than drift issues they were functionally fine across all my devices (a bunch), after the first public firmware update a bug has affected any modes dependent on 3D. It’s also a persistent bug. Rolling back firmware does not address it. It seems to only affect PC, unfortunately I do not have a Mac (maybe Apple will send me one someday)
+
+SpaceWalker and Immersive 3D for PC all have alignment issues and aren’t working in a way that is enjoyable. iPhone SpaceWalker and immersive 3D work extremely well, and where the Beast performs best is on the Pro Neckband. All those comments are true, but what’s omitted is disappointing.
+
+No refresh rate selection. While the Beast is capable of 120hz, hardware considers the Beast 60hz.
+
+ “But the Beast is advertised as 120hz. That’s false advertising” I already hear the crowd wind up. 
+
+I know, sounds contradictory. I won’t go deep into it because it’s a lot so, to be brief; Stuff goes in the Glasses, it’s processed, then out the lenses it goes, to the part of your brain that makes things feel good. The host hardware doesn’t see the Good Vibes after it hits the processor. The Host only sees the base 60hz, glasses like the XReal One models “spoof” the 90 and 120hz to the Host device. 
+
+Why is this important.
+
+90% of my use case for PC, let alone XR glasses relies on streaming. I think many Beast owners have similar use cases to myself. Things like streaming my more powerful rig to my more convenient handheld. Using streaming services like GeForce Now and Gamepass rely on the hardware to report what the max stream will be. Without the ability to Spoof higher refresh rates, Moonlight, GeForce, HAGS and the like handle content as of the Beast maxes out at 60hz. 
+
+I have it on very good authority that it is a priority update. Unfortunately, I can’t review an update. If streaming is a big use case, check for the update. I can stream my home PC at 120hz, but I get incredible amounts of horizontal screen tearing and missed inputs depending on the game. In some games trying to enable Vsync with the host device makes the game unplayable. 
+
+Everything I’ve listed is fixable with firmware updates and I’m confident they will be implemented. As of this writing they have not. So go check. Really, go check some of this is important. 
+
+“AND IN THIS CORNER THE UNDISPUTED HEAVEY WEIGHT CHAMPION OF THE WORRRRRRRRLD…”
+
+Now for moment most of you have come for. I’m going to roll the Beasts features into the Competition Comparison. It’s easier and there really is only “THE ONE” competitor. 
+
+Let’s just start where everyone wants and get it out of the way-
+
+3DoF spatial anchor (pinning). 
+
+The the XReal One Pro (XOP) are the OG and standard for native on frame 3DoF. The XOP has the benefit of maturity through firmware updates and time to listen to customer feedback for the slick, easy to use interface it utilizes now. 
+
+As for the XOPs capability to hold anchor? It would hold an aircraft carrier. The XOP is the undisputed champ for a reason. The XOPs Anchor comes with customized axis adjustments as well in the latest firmware update is helpful for setting up a flat screen against a wall while looking upward. 
+
+This is a good place to start with. An XOP update that made the 3DoF a more enjoyable experience. Even as a Beta firmware update the Beast had flaws, a clunky UI menu, a confusing tutorial (every first-time tester), but mostly it was the drift. 
+
+With the latest update a truly good pin is very solid.  I would put it about XOP first month firmwares…WAIT! Don’t light those torches yet XReal fans let me finish. Getting a good pin is too difficult, Even with the 10sec calibrations added on first connect. I also said XOP first month firmware. I had them at launch, and still like them, even with the Beast in hand. 
+
+When looking mostly forward for watching content, playing games, even writing this in single page layout, the pin has been fine. Its when you have to start looking in areas where you linger. For example, I just switched to a two-page side-by-side format, and looking at the left-hand side of the screen, the pin has moved in order to center the screen as if that is where I want it. Looking back to where I had started gives the appearance of drift. Now on the right-hand side typing, it’s drifting this way. 
+
+I honestly expect things to get better with subsequent updates, when that is…? Realistically, a week or two to address the bigger issues, then I would expect QOL, further refining, and the new features like 6DoF screen pinning via the center camera and 6DoF spatial sound.
+
+“Pump up the Volume”
+
+Speaking of sound, let’s talk about it. The Beast has full support as a high-definition audio and all that entails. The Speakers have a nice volume for personal at home use and coffee shop desktop office loud enough to be clear. Being Harman, you can expect an expertly tuned and balanced EQ. There is a coming soon audio category I really hope they add the neckbands Harman presets in there, maybe custom as well? 
+
+XOP sound, while tuned by BOSE is puncher with the lows, shows up as only as USB audio in UAC or 16-bit 48000hz (DVD Quality) in DP audio. Audio enhancements like Spatial sound, Dolby Atmos or DTS-X aren’t available unless they use something like FX sound as a processor. Good speakers, but lack the range and mids of the Beast, especially without audio enhancements from a host. 
+
+NOTE: For honesty to you and out of respect and fairness for XReal and the XOP these opinions were formed from a preproduction model with additional 2 grams of weight and additional weight only. I’m out of IDP range and will be purchasing a large. If the balance change is significant enough, I’ll update and post new conclusions and possible impacts.
+
+“She’s a Brick”
+
+On matter of build quality, 
+
+Looking at the soft-touch plastics and rubber arms of the XOP against the aluminum-magnesium alloy frame covered in the same soft-touch plastics and rubber as the XOP, I’m wondering if that money would have been better spent on the rest of the Luma line with the run of cracking arms. 
+
+The “real” frame of the Beast seems to be like a paper clip on its side like, for rigidness against crushing and bending, then surrounded in soft-touch components for comfort. Strong and lightweight, but heavy enough for added balance, plenty of room for components and a sound cavity for acoustics. Now if Virtue could confirm any of this the confusion about build materials would clear up a bit.
+
+Weight wise, the Beast is heavier, and my pair reportedly liked JJ’s cakes chocolate pies and is 2g heavier being preproduction. That’s a problem. I don’t know where that weight went. Even without it the Beast is still heavier than the XOP, but if that weight was bias toward the front or back, it completely changes the balance.
+
+ The XOP is lighter but is front heavy. If I use my pointer finger as a fulcrum, the Beast will level out right at my temples, in front of my ears. It makes the Beasts extra heft that would normally “drag” the glasses downward, either off the bridge or nostrils a non-issue. It’s why the XOP Oakley mod is so popular. 
+
+The XOP is lighter, but the arms lack any weight. Using the same balance test my finger is at the hinge. I had too much pressure on my nose, pulling on the back of my ears discomfort. I completely removed the bridge arms and made a “0” nose piece from a piece of hard foam you see in the Pic. 
+
+Also pictured is a size comparison of the two. At 6 foot 4 (194cm) I have a melon of a head. The fit is similar to the ProXR for reference for older owners looking to upgrade, but comfort has improved thanks to being wider. Not wide enough to fit my head without going past 90 degrees, but the sturdier arms and wide range should help with comfort for most human sized heads, and temple adjustments necessary for Ferengi biology. 
+
+The XOP offers similar if not superior comfort, seeming a bit wider and with arm tips that don’t come in at such an acute angle. Unfortunately, it’s being forward heavy and suffers from what I covered above. I found a fix that works great, maybe you will too.
+
+“Star Fleet Aesthetics”
+
+Yes, that is authentic 1994, 5.7 liter, LT1, Buick Roadmaster grocery getaway driver “wood” paneling on the Kaleido frame. the XOPs customizable Kaleio frame almost makes anything else about still very stylish, subtle in black Beast aesthetics trival. I can really appreciate the Man or men in black, matrix hacking, Ray-Ban look. It fits any occasion any outfit…except standing out. 
+
+If the XOP didn’t have a more Aviator style lens and the Beast having its built-in camera, I wouldn’t be able to tell them apart, glance at the pic fast look away and guess.  Having the option to set yourself apart is awesome. Viture could really benefit from some temperature and materials testing to make templates for customers to download for customization, Bonus if you throw in crayons.
+
+Who are we if not individuals? The looks are the least standout feature for me. I would take black over almost any color option, and they still look fantastic, I’m not trying dismiss away the design. Thing is, if personalization was thought about with the Luma series light strip, and justify the cost of including it. Where was that thought for the flagship Beast? Maybe it’s a case of ‘The needs of the many out weight needs the few”
+
+Note: I attached a pic of one of the glasses screens. It doesn’t matter which. I don’t think it represents best or worst of the pair. I put it as an expectation of clarity to someone new with no reference. I think it’s a fair representation for those without context. A “no worse than this” to look at. Anyone agree, disagree, still here?
+
+“Do you believe in love at first sight? It’s not the same the second time.”
+
+Trying to describe a way something “better” comes with a more than a bit of bias. So, I took my best personal reference and used that for the XOP. For what makes the Beast “better”, I’ll being using more objective evidence instead of  “brand bible buzzwords” I see in more respected reviews. But I hope to teach you something new, and give some info the noise covers up.
+
+My first XR glasses were powered by Viture optics. A preordered pair of ProXR. that set the standard for my expectations for future XR offerings. As an early adopter, I was floored, 1000nit perceived brightness making HDR streaming possible. It was vividly colored and very crisp 1080p screen. It still stands as a measuring stick saying “You must be this bright to ride”.
+
+When I preodered the XReal One Pro, I had similar expectations. When I powered on the XOP something became clear. First to market comes with caveats, I was literally looking at the objective evidence.
+
+Now I keep trying different sources but get different and unofficial specs for brightness, and AI refuses to clear about anything XReal at the moment. Perplexity Pro says “Without official lab measurements “ the 500-700nit range “this is an informed estimate based on panel type, user feedback, and comparison to devices with public perceived-brightness specs”. Whatever that means, I think it’s low. 
+
+I said all that to say, the XOP in 0DoF with increased brightness active is the same brightness as the ProXR and being close enough in clarity and color for me to say it’s a good base line comparison. I think I may have said as much in an XReal comment when I first received them. I would call them both 800 nit with XOP 3D0F 700 nit. It’s a very good display based on the design as the ProXR, only a bit smaller. 
+
+There isn’t much else to say about the XOP panels. They are based off the panel that they needed to compete against and in return, ended up with very good, if older tech panel attached to the much newer more important X1. It was always about the X1.
+
+“Future on View”
+
+The Beast shares its Sony micro-OLED panel with the Luma Cyber and Ultra. There are plenty of reviews about clarity and especially the brightness associated with them. The Beast peak is lower and is currently restricted to a reported 800 nits not the reported 1250 nits. This will increase as updates roll out and performance optimization makes more power available to drive the panels. I have a source who says this is currently being worked on along with what we have next and I am very excited is a first up priority.
+
+Now, this is where things get interesting. The Beast uses the latest Sony panels and a more advanced optical drive. Earlier I spoke about the importance of the 60hz the effects of it being stuck there. The XOP uses a base 60hz at input and “spoofs” the 90 and 120hz so hardware has interpolation estimation after 60. 
+
+The Beast isn’t a Base 60hz fooling hardware. The Beast accepts 60 and 120hz as NATIVE input. Maybe 90, but I heard 120hz specifically is in a very soon update. This with the 240hz scan rate is going to lead to the smoothest and most fluid frames available on XR glasses with or without 3Dof. It’s the Beast fulfilling its role as the predecessor to the ProXR as the new visual fidelity standard.
+
+About the 240hz scan and 120hz refresh and what this means. I’ve tried to find the proper layman verbiage, but parts are still a bit hazy and I’m still trying to “make it all fit” in my logic. I’m sorry but the know-it-all must explain this one. I would be more likely confuse more than educate.
+
+ “So, Skippy if you wouldn’t mind explaining oh great and powerful wise one” I was very much going to regret asking the beer can shaped AI
+
+“Probably best Joe, the audience is already dumber from reading your nonsense already. Be useful, and get yourself a juice box” (Any Fans?)
+
+The Beast’s 240Hz Scan vs. XReal One Pro: What It Actually Means (Simple Version)
+
+Think of your display screen like a photo flipbook. The faster you flip the pages, the smoother the animation looks. That’s basically what refresh rate does—it updates the picture on your glasses.
+
+Here’s the key difference:
+
+XReal One Pro: Shows you a new image 120 times per second. Each image stays on your screen for about 8 milliseconds before being replaced.
+
+Viture Beast: Still shows you 120 images per second, BUT—and here’s the trick—the display hardware redraws each image twice before moving to the next one. So while you’re seeing 120 unique frames per second (same as XOP), the panel itself is scanning at 240Hz.
+
+Why does this matter? Think of it like this: if you’re reading text and you move your head, the text stays clearer on the Beast because it’s being “refreshed” more often as it appears on your eyes. It’s like the image is locked down more tightly.
+
+“Now back to the program”
+
+Smoother image clarity in motion then the competition, combined with true hardware refresh rates. What does that add up to?
+
+It makes for much clearer, fluid, and natural motion especially for 60fps content and head movement. Text retains much more clarity while moving your head. 
+
+The XOP starts from 60hz and fakes its way up to 90 and 120 with interpolation. The Beast can run a true end to end 120hz signal while scanning at 240hz. When the Beast is fed a 120fps the Beast gives back that 120 at the most accurate frame-to photon timing it can find using all 120 real frames, not 60fps stretch and guess.
+
+ 
+
+The Beast’s panel is scanning at 240Hz.  Each 60Hz or 120Hz (soon) frame is broken into shorter periods on screen, this way the image isn’t smeared across your vision as much while you move. Combined with proper 120Hz hardware timing (when it’s enabled), means HUDs, subtitles, and UI are easier to read in motion than on something like the XReal One Pro that only scans at 120Hz. 
+
+Currently the only 120hz output for the beast is the neckband. When the whole system is running all in sync, with true 120Hz path instead of 60Hz locks or weird cadences, the frames arrive exactly when the panel expects them. Paired with the 240Hz scan, that reduces that “double image,” micro stutter, and tearing, I had mentioned earlier, even during 3DoF.
+
+The Virtual screens still use sample and hold OLED, but the higher scan rate plus accurate timing makes the virtual screen feel more “in the room” and less like an artificial when you move. It is not magically 240fps and coming after the XReal R1, but it pushes 120Hz like my actual desktop OLED.
+
+“Running on empty”
+
+I think that covers the BIG questions that most folks have in terms of what sets them apart. Build, comfort, style, sound and picture. I’ve put in a lot of time and my thermostat just declared that “being warm blooded is overrated” so I’m going to be brief with the last little bits:
+
+Both the XOP and the Beast use birdbath optics to combat reflections. These optics inherently cause some of the “hazy edges” you’ve probably heard. I have mentioned the 25lbs of mashed potatoes I call a head, they come with a side of huge eyes. The wider the eye or narrower the view port, the more “peep hole” effect you get. It’s a tradeoff for not having your shirt reflected in your glasses. 
+
+Reviews about edge-to-edge clarity: I think there are many people buying regular when they need a large but didn’t want to wait. I am out of IDP range at a 70 for the regular size Beast. Even with a full in FOV screen I have “red rings” on the edge. It’s because my eyes are too far apart.
+
+The Beasts massive 58° FOV means that even out of IDP, with my inserts, I have full view of the screen. I have the “eyes-so- wide blues” IDP problem but I could live with it if there wasn’t a choice. The Luma Ultras, there was no way but a large. 
+
+“Ladies and Gentlemen of the jury, may I have your verdict”
+
+I’ll start with the XOP. The One Pro is the most stable and capable out of the box, easiest to use Native 3DoF XR glasses right now as the Beast starts its first few steps for footing…and landing on its face…and that fight with me…
+
+The XOP are fantastic, reliable and proven. If you disagree with everything I say about the Beast and buy a pair of XReal? Congratulations, you made a good decision. 
+
+But as the Beast is taking its first steps, I have a feeling the XOP may be stuck. It was built as a showcase for the X1 and its 3DoF ability, not to wait for a better way to display those abilities. I own XOPs and have and continue to enjoy them. I knew from the day I got them I wanted them with Viture optics though. I said it at the top, I could immediately see the rush to market. XOPs are already a classic, I’m just afraid features like the 3D on the 1S and coming to the XOP is about all that’s left. The X1 brought incredible new features but then it was loaded onto already end of cycle tech. 
+
+The Beast is in its first weeks and it’s apparent to me it has the foundation to take on anything incoming. We make comparisons between XReal and Viture all the time, they are competing in two very different weight classes in regard to resources and infrastructure. From what I can find of the little information available, Viture is a David fighting more than one Goliaths. The Beast, even flawed, is already formidable. It’s not at the Champs throat, but a predator in the making is circling. 
+
+“B side take”
+
+I had heard the guitar pick hit the strings, out of tune, but a drop D-even-out-of-key power chord is unmistakable. Punk Rock is about making statements, not looking good while doing it. There’s always time to tidy up after the noise, just be sure to leave your mark. 
+
+I think Viture just did.
+
+“Authors” note. I want to thank everyone who took the time to read. If you liked it or not it’s the time you took to listen to little ‘ole me that is a value I can’t repay. ",11,1768379668.0,VITURE,1,0.79,False
+1qci2xk,https://www.reddit.com/r/PhR4Friends/comments/1qci2xk/23_m4a_need_friends_that_either_loves/,23 [M4A] need friends that either loves art/anime/games,"Hi! All my life, mga nagiging friends ko mga normies and I don't really have any chance and opportunities to meet people that loves anime and art as I do. As I grow older, mas lalo ako naaalienate sa mga friends ko and can't really keep up anymore without sacrificing what I really want. 
+
+
+
+Soooo, I'm looking for friends that really loves anime and games such as genshin, persona, idv, etc. as I do! Bonus if you're an artist like me! :DD
+
+
+
+so more about me:
+
+* I really love watching anime and this season may pinapanood ako na 9 shows na inaabangan ko weekly! Altho I don't read manga hehe
+* I play games like IDV, p3r, p5r, exp33, yakuza, valo but I quit to make time for my arts, and Genshin Impact ( hoping may maka-yap with, kasi release today ng 6.3 hehe )
+* An unemployed college graduate because I realize I want to gamble my life with arts instead of using my degree in a field I don't have any passion
+* I'm active sa gym for 2 years+ ( hoping I can cosplay soon but I can't because I'm broke )
+* I mostly draw about genshin characters! ( disclaimer: I make nsfw sometimes )
+* drinks coffee everyday hehe
+* 5'7'' if that matters?
+* im a broke artist so I just really walk and dont spend much when hanging out TT
+* from Makati  
+
+
+
+about you: as long na hindi ka nanghihila ng tao pababa or talk bad about other ppl
+
+
+
+drop your discord, I'll add you :DD",1,1768379552.0,PhR4Friends,0,1.0,False
+1qci2ft,https://i.redd.it/2ycf9zj50adg1.png,Coffee behind the laptop keys,"I have this laptop that I use for work. Two days ago, some of the keys were affected by coffee (just coffee and sugar, no milk). In particular, today when I press the 9, 6, and + keys, they feel sticky, hard, as if there's friction. They advised me to remove the keys and clean them, but I don't believe that's possible on these models without damaging the keyboard.",1,1768379497.0,computer,3,1.0,False
+1qci21o,https://www.reddit.com/r/randomquestions/comments/1qci21o/how_do_you_take_your_coffee_or_tea/,How do you take your coffee or tea?,,9,1768379455.0,randomquestions,43,0.92,False
+1qci1ey,https://v.redd.it/t4hzkwmja9dg1,Making The Last Coffee Order For The Day,,2,1768379387.0,mildlypenis,1,0.63,False
+1qci19o,https://www.reddit.com/r/UAE/comments/1qci19o/ounass_scamming_people_out_of_returns/,OUNASS SCAMMING PEOPLE OUT OF RETURNS,"I had an experience in the past where I ordered a $2000 handbag on ounass and instantly decided it was not what I had hoped (the croc embossing was plasticky, basically a brand issue) and preference. I requested the return same evening and it was picked up the next day. When I returned it, some manager guy called Omar called me to say that I had damaged the item and they could not accept it. Meanwhile it was not in my posession for even 15 hours over night. After back and forth and them failing to send any proof to me. They sent the bag back to me no regund and I later discovered it was actually damaged from them, the lock does not close. 
+
+Fast forward and a friend of mine ordered a bag as well( on sale) as a gift for his girlfriend who just didn’t like it as she had a bigger version of the bag. After he returned it a few days later(unopened unused literally with wrap and all (pics attached), the same Omar guy is apparently trying to reach him about his order although he is a busy hiy so when he mentioned this at a coffee break, I instantly knew he was about to be scammed. I feel so bad but mostly disgusted because he probably spent in the upwards of thousands of aed on their site but whoever is running their little scam is so small minded probably thinking of some kind of commission on this single item.  
+
+Anyway I don’t know what is going on with them but they probably use this method to push off sale items that are already damaged or hard to sell or their returns team is playing some scam or they are trying to retain the sales from the large value items. Its disgusting because I like their app and quick service but they’re not as sensible as other sites like netaporter or so. My advise is don’t buy luxury handbags from them. Just small value items and cosmetics or clothes. ",7,1768379371.0,UAE,12,0.77,False
+1qci0wu,https://www.reddit.com/r/SoloTravel_India/comments/1qci0wu/solo_trip_to_gokarna_from_bangalore_1724_jan/,Solo trip to Gokarna from Bangalore (17–24 Jan). Anyone around?,"Hey folks, I am 28(M) from Delhi
+
+I’m traveling solo across South India and starting the trip from Gokarna. I’ll be there 17th–24th January, heading from Bangalore.
+
+If anyone’s around Gokarna during that time or planning to be, happy to catch up, explore beaches, grab a coffee, or just share travel stories. Also open to suggestions for nearby places or hidden spots
+
+Cheers!",2,1768379330.0,SoloTravel_India,1,1.0,False
+1qci0mm,https://i.redd.it/241bx8ikz9dg1.jpeg,Metallic burgundy customs,Dip dyed in coffee for 30-45 minutes to yellow the stitching. Foxtrot faded laces. Sail sneaker stainer on the edges and outsole. ,1,1768379300.0,Sneakers,0,1.0,False
+1qci0g7,https://i.redd.it/ynhyuw8jx9dg1.png,"🚀 8,000+ n8n workflows now available — website + GitHub 🎉","🔗 Website (browse & search): [https://n8nworkflows.xyz/](https://n8nworkflows.xyz/)
+
+🔗 GitHub (bulk access): [https://github.com/nusquama/n8nworkflows.xyz](https://github.com/nusquama/n8nworkflows.xyz)
+
+If you use n8n regularly, you already know this problem:  
+**workflows exist, but finding the right ones is slow and messy.**
+
+They already come from the **official n8n ecosystem and public sources**.  
+Nothing new, nothing private.
+
+What I built is **just another way to access them**.
+
+* The **website** makes discovery easier (search, categories, tags).
+* The **GitHub repo** lets you **download all workflows at once**, browse them as files, and reuse them freely.
+
+📊 **Current state:**
+
+* **8,000+ public workflows indexed**
+* Same original sources
+* Updated continuously
+
+# What this is
+
+* A **read-only index** of existing public n8n workflows
+* A faster way to explore, compare, and learn from real workflows
+
+# What this is not
+
+* ❌ Not a marketplace
+* ❌ Not exclusive content
+* ❌ Not replacing the official n8n website
+
+Goal:  
+**reduce friction when discovering and reusing n8n workflows.**
+
+Feedback from n8n users is welcome — especially on discovery, filtering, and structure.",5,1768379279.0,n8n,2,1.0,False
+1qchzsw,https://www.reddit.com/r/UnsentLettersRaw/comments/1qchzsw/thoughts/,Thoughts,"I am writing this because I need to address my entire way of thinking. I want to explain my side, not to make excuses, but so that my intentions are clear to you. I am not just sitting here, idly waiting for you to change or for the world to spin us back together by chance. I want you to see that I am trying. I am looking at the broken parts of myself and I am doing the work to fix them. I know that simply ""trying"" is probably not enough to undo the damage, but it is the only honest thing I have to offer you right now. I wait with open arms, not to trap you, but to welcome you if you ever choose to return because when you entered my life like a dare I couldn't refuse. I held you as mine, and myself as yours. There's a certainty that sits just above and below my ribs—a pressure, a pulling, a tug I can't ignore. But if we're being honest, it doesn't feel like a choice. It feels like a claim that we are not just temporary we are made for each other. 
+I hope you’re okay. You probably wouldn’t believe me if I said that I will always love you, but I do. I think about you every single day. The good and the bad flash in my mind from the moment I wake up to the moment I rest, circling in a loop I don't want to break.
+You made me feel safe in a way I hadn't known was possible for someone like me. You didn't just love me; you showed me how to be loved. You showed me the gentle and living parts of life when I was cold and unopened to the idea of loving anything at all. You helped me become someone I didn't know I could be—better, softer, more alive. For a long time, I never felt like I truly belonged in your life, until the moment I realized I didn't have a life without being in yours. And I know you felt the same for me; you told me that with every look, in the silence between our words where we understood each other best.
+I know I owe an apology. I know one is hanging between us. The truth is, I need to be in a place where I can give you the one you deserve: one that's genuine, without defense, without an excuse, and without any of the other reasons my brain will try to lead me to. I'm not there yet. Because I'm still confused about you—the way we started, the middle, the now. I didn't get here all on my own, but I can still acknowledge my part. My brain has never been this conflicted.
+But I am sorry in a way that feels stuck in my chest and throat, a weight that won't lift. I carry a deep, burning regret for my actions, specifically the moments where I couldn't control how I reacted. It kills me that I couldn't stop myself when it mattered most, that I let the noise in my head drown out the care in my heart. I know I crossed lines and made things harder when they were already hard. If I could take it back, slow myself down, and regain the control I lost, I would do it in a second.
+I hate that my fear is what helped destroy the thing I loved. I hate that the part of me that cared the most is the part that caused the most damage. I was so afraid of losing you that I created the very distance I was trying to prevent.
+I try to go through the motions of a normal life, but normalcy feels like a costume that doesn't fit anymore. I wake up, I work, I eat, but underneath it all is a humming current of absence. It’s strange how the world keeps spinning, how people keep laughing and coffee cups keep clinking, while my internal world has come to a screeching halt. I’m living in a pause button that I can’t unpress, stuck in the moment before I lost you, replaying the tape to see where the glitch happened.
+I am trying to learn how to exist in this new reality, one where I have to parent the parts of myself that are still screaming for you. It’s an exhausting negotiation between my head, which knows we needed to stop, and my heart, which refuses to get the memo. I’m walking through days that feel hollowed out, trying to fill the space you occupied with noise, work, or sleep, but nothing fits the shape you left behind.
+Sometimes I catch myself talking to you in my head, finishing conversations we started months ago. I see things—a specific shade of blue, a couple laughing in a way that looks like a secret—and my first instinct is to store it away for you. It’s a phantom limb syndrome of the heart; I am still reaching out to touch a part of me that has been severed, surprised every single time when my hand meets nothing but air or when out stupid song comes on and no one there to do the stupid dance with we use to do in the car everytime it played. 
+It’s the small things that ambush me the hardest. It’s not just the grand memories of dates or trips; it’s the way you used to look when you were concentrating, or the specific cadence of your breathing when you fell asleep. Those micro-moments are the ones that tear me apart because they were the proof of our intimacy. They were the secret geography of us, a map only we knew how to read. Now, I’m lost in a territory that feels familiar but hostile, navigating a landscape of memories that are slowly turning into ghosts.
+Losing you has left me feeling empty in a way I didn't expect. It's not just sadness; it's like something that used to fill my days and nights is suddenly gone, leaving a silence that echoes. Evenings feel unbearable sometimes. I still reach for my phone without thinking, my thumb hovering over your name, expecting to hear your voice or share something only you would understand.
+I spend a lot of time analyzing the mechanics of my own self-sabotage. I look back at the decisions I made, the words I said, and I don't recognize the person who said them. It’s like watching a stranger wreck my life while I’m screaming from behind a glass wall. I want to shake that version of me, to tell him to wake up and see what he’s holding before he drops it. But I can't reach him. I can only live with the wreckage he left behind, trying to sweep up the pieces of a trust I broke.
+There are moments when the weight of it all breaks me, and I find myself crying in a way I haven't since I was a child—heaving, ugly tears that leave me gasping for air at times hours on end (quite impressive I know)And the bitter truth that chokes me in those moments is that I am doing this to myself. I am the architect of this ruin. I’m not crying because of fate or circumstance; I’m crying because I held a masterpiece in my hands and I dropped it like an idiot. The salt on my face is a reminder of my own clumsiness, my own inability to protect the one thing that mattered (my potato).
+I wrestle with the silence you left behind. It’s not a peaceful quiet; it’s loud and demanding. It asks questions I don’t have answers for. Before you, solitude was just a state of being. Now, it feels like a punishment, a constant reminder of the space beside me that shouldn't be empty. I am learning the hard way that you cannot un-know the feeling of being truly seen. Once you’ve felt that light, the shadows feel twice as dark.
+You stripped away the armor I had spent years welding onto myself. I thought that armor was keeping me safe, but you showed me it was just keeping me lonely. Now that you’re gone, I’m tempted to put it back on, to bolt the plates back in place so nothing can hurt me this much again. But I can’t find the pieces. You changed the shape of my soul so much that the old defenses don't fit anymore. I am left exposed, rawer than I have ever been, and I am feeling every single draft and it's cold. My booty cheeks are just so cold now and exposed they might fall off 🥺😞
+There was a language we spoke that I haven't heard since the day we went silent. It was in the way we could deconstruct the world and rebuild it just for us. Losing that dialogue feels like forgetting how to speak. I miss the challenge of you, the way you pushed me to be more than I was, even if I wasn't always ready for the growth. You were the mirror I was afraid to look into, but the only one that ever showed me a reflection I wanted to keep.
+There is a version of us in my mind that made it. In that timeline, I didn't let my insecurities drive the car off the road. In that version, I held onto the safety you offered instead of pushing it away to see if it would break. I visit that place often, torturing myself with the 'what ifs,' watching a movie of a life we could have had if I had just gotten out of my own way. It’s a beautiful, painful fiction that I prefer over my current reality.
+I don't think this (we) is something I just ""get over."" I think this is something I absorb. They say time heals, but time just layers dust over the furniture; it doesn't move it. You are the heavy furniture in the room of my life. I will learn to walk around the space you took up, I will learn not to stub my toe on the memories, but I will never be able to rearrange the room as if you were never there. You are a permanent fixture in my history, woven into the fabric of who I am now.
+I wish I had been stronger for you for myself and for everyone. I wish I had been the man who could hold your heart without bruising it and fucking up the idea of love. I am working on becoming him, even when I feel  it’s too late for us, because you taught me that I am capable of that depth when no one took interest ever. I don't want to be the person who hurt you forever; I want to be the evidence that your love changed someone for the better, even if it had to happen in the aftermath.
+I want you to know that the impact you had on me isn't fading; if anything, it’s settling in, becoming part of my foundation. You didn't just pass through my life; you renovated it. Even if the house feels empty right now, the walls still hold the warmth you brought in. I am carrying the blueprint you gave me—the one that says I am worthy of a soft, safe love—and I am trying to build myself back up according to those plans. Ultimately though, I feel grateful for you. I wouldn’t trade a single second of what we had, even the parts that hurt, because they were real. We grew together, until we grew apart. Selfishly and stupidly, I want to be with you again. I know you want that too, somewhere deep down. I know my responses have been short ; I was and am trying to protect myself from the sheer force of how much I miss you. I can’t be just friends with you—it’s not enough to just watch from the sidelines. But being strangers doesn't feel right either; it feels impossible.
+I’ll be looking forward to every sleep where I dreams because it's the only place where being with you feels like a sanctuary, a precious relic of what we were. But I want you to know: I’ve stopped locking the door when I wake up, just in case one day someone comes and makes this all come to an end. This meaning the nightmare I call existence now with out you.. but I know that's only a pipe dream being smoked by my imagination and driven by my selfish egotistical mindset. 
+
+
+",4,1768379210.0,UnsentLettersRaw,3,1.0,False
+1qchybr,https://www.reddit.com/gallery/1qchybr,"Guys, I might just be the rizz master. I need some skill based match making or else they might have to nerf me",Just read this. And for context this is 3am sleep deprived me. Imagine what I could do with 8 hours of sleep and a cup of coffee,6,1768379048.0,twentyagers,5,1.0,False
+1qchya8,https://i.redd.it/74g4245ty9dg1.jpeg,Coffee qweeeen,"Don’t worry guys, she’s having shitty coffees cause she cannot tamp it correctly. It’s on the piss, it needs to be flat so the water can flow even through it. Not doing so causes channeling and can make it bitter, sour, under extracted. 
+
+Make it even sis, or not idgaf from a retired barista ☕️",6,1768379044.0,ffargosnark,1,1.0,False
+1qchy95,https://www.reddit.com/r/Askromance/comments/1qchy95/bankrupted_him_after_breaking_up_novel_read_online/,Bankrupted Him After Breaking Up Novel Read Online,"Someone like you, a rich girl from a wealthy family, should just stay at home drinking coffee and eating desserts. Stay out of the way at the office! I slammed the coffee mug down immediately. Read Bankrupted Him After Breaking Up Novel : [Here](https://en.cektekno.com/bankrupted-him-after-breaking-up-novel/)",1,1768379041.0,Askromance,1,1.0,False
+1qchwti,https://www.reddit.com/r/Solotravelindia/comments/1qchwti/solo_trip_to_gokarna_from_bangalore_1724_jan/,Solo trip to Gokarna from Bangalore (17–24 Jan). Anyone around?,"Hey folks, I am 28(M) from Delhi
+
+I’m traveling solo across South India and starting the trip from Gokarna. I’ll be there 17th–24th January, heading from Bangalore.
+
+If anyone’s around Gokarna during that time or planning to be, happy to catch up, explore beaches, grab a coffee, or just share travel stories.
+Also open to suggestions for nearby places or hidden spots 
+
+Cheers!
+",1,1768378891.0,Solotravelindia,1,1.0,False
+1qchwlh,https://i.redd.it/klhgnpy9y9dg1.jpeg,If I see her….,"If I ever see her binging on blueberries and avocados, expensive coffee and matcha, getting her hair and nails done again, I swear to God I will lose it.
+
+Beauty and lifestyle influencers are allowed to look human - sick, dull, exhausted - sometimes. They can skip manicured nails and styled hair in times of crisis. For once, they can walk into a hospital with unkempt hair and chipped nails. That, too, is reality.
+
+She needs a serious reality check. Honestly, the kind of breakfast she flaunts every single day is a luxury that so many people can only dream of. For most of us, these are occasional treats, if at all- not daily staples.
+
+When we face financial uncertainty, we cut corners. We reassess our spending. We don’t indulge during crises, and often not even otherwise, because we know exactly where we stand financially.
+
+For someone who claims to have an erratic and inconsistent income, who openly admits to having no real savings, and who says she is the sole earning member with two lives dependent on her - there is not a single visible lifestyle change. Not even a conversation around restraint, prioritisation, or accountability.
+
+That disconnect is what’s infuriating. It isn’t aspirational, it’s tone-deaf.",11,1768378866.0,malvikasitlani,6,0.93,False
+1qchwhi,https://www.reddit.com/r/hiking/comments/1qchwhi/hiking_reviews_blog/,Hiking Reviews Blog,"Hi everyone,
+
+I am thinking of starting a blog/review site based on the clothing/shoes/bags/equipment that I use and some of the travels I have/will go on. The main reason for this is because I am fed up of looking at reviews for something and seeing things like ""bought for my husband, he likes it"" or ""Good"" without any reason why. (I think this may just be me).
+
+I just wanted to ask what peoples thoughts are on this and what you like seeing on reviews or what makes you go ""ah, I'll buy it because of that"" (other than the price). I would also like to compare the products with others that I have used. 
+
+This will be more of a genuine review of items that I have used and bought myself and not something that has been worn to a coffee shop.
+
+Cheers,
+J",0,1768378853.0,hiking,1,0.5,False
+1qchvff,https://i.redd.it/3ouikvywx9dg1.jpeg,NPD Got all creamer and no coffee,Received the Esterbeook x thecoffiemonsterzco fountain pen with a M nib I ordered for myself on new years. Out of all the variations I've seen in videos online I am a little disappointed mine looks the worst (in my opinion). None the less. I am still grateful to have one.,52,1768378743.0,fountainpens,11,1.0,False
+1qchuow,https://www.reddit.com/r/sleep/comments/1qchuow/i_think_i_had_a_night_terror_a_few_nights_ago/,I think I had a night terror a few nights ago.,"So on this night I drank some decaf coffee before bed. I am very sensitive to caffeine, and I know decaf has some caffeine in it. I decided to visit my parents' house on this night. I woke in this weird, confused, dreamlike state, very scared for no reason, and then I opened my eyes and saw a shadow figure and started screaming very loud. My screaming woke up my mom and dad and scared the hell out of my brother, who was in the room I was sleeping in while it was happening. I then snapped out of it and told my family the reason why I was screaming was because I saw a shadow figure and that I was having sleep paralysis.
+
+I did a little thinking and thought to myself and told myself, ""Wait, that was not sleep paralysis or a nightmare."" See, the thing was I was screaming while seeing the shadow figure; that means I was screaming during the episode, and yes, I could hear myself scream in the episode. In sleep paralysis you cannot scream because you are paralyzed, so that means that was not sleep paralysis. My brother then told me that I was jumping up and down in bed, which is another sign that it was not sleep paralysis. Then again, you are paralyzed in sleep paralysis, and you can't jump up and down in sleep paralysis. I don't even remember jumping up and down in bed, which is a sign of a night terror. You don't remember much of the episode during a night terror. All I remember is that it started with my eyes closed, and I was in a very scared and confused dreamlike state and then opened my eyes to see a shadow figure. I don't remember the part where I was jumping up and down in bed. I could see the room around me, so it was not a nightmare.
+
+I don't know what caused me to have a night terror, but it scared the hell out of me while it was happening. Was it the decaf coffee before bed? I mean, I don't suffer from PTSD, and I am an adult, but I do have severe anxiety and panic disorder.
+
+What do you guys think of this?",0,1768378663.0,sleep,1,0.5,False
