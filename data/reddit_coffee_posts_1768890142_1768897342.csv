@@ -1,0 +1,2918 @@
+id,url,title,text,score,created_utc,subreddit,num_comments,upvote_ratio,over_18
+1qhvej1,https://www.reddit.com/r/ShareKoLang/comments/1qhvej1/skl_alam_kong_bawal_to_pero_naawa_ako/,SKL alam kong bawal to pero naawa ako,"Alam kong bawal, pero naawa ako.
+
+Nag order ako kape kanina then Foodpanda delivery services ng coffee app na yun. Order ko, 2 large coffee. Frappe yung isa, yung isa naman Iced Coffee May voucher ako na 30% off kaya ina-vail ko. So yung bill na 284 naging 213 nalang. 
+
+Nag-message yung rider kung pwede raw sana magdagdag kahit konti pang-gas. Alam ko naman na technically bawal humingi ng extra ang riders, at dapat dumaan sa app lahat. Alam ko rin na matagal pumasok yung ganung promo or bayad sa kanila ng app pag may 30% discount lalo na't Cash on delivery pa MOP ko. Hesitant, pero nagtanong na rin ako kung magkano at sinabi ko na ₱50 lang kaya. Hindi kalakihan pero alam kong makakatulong sa kanya. 
+
+Nagagalit pa nga bf ko kasi bawal ngayon at tinotolerate yung bawal kaso naisip ko na hindi to mang hihingi kung hindi gipit.
+
+So binigyan ko na lang.
+
+Hindi ko to pinost para i-justify yung ginawa ko ha, kundi para ishare lang. Ang hirap din kasi minsan maging “by the book” kapag kaharap mo na yung taong halatang kapos at nagsusumikap kumita ng marangal.
+
+Siguro mali, siguro bawal. Pero tao rin tayo bago maging customer. You know, it's better to give than to receive. 
+
+Kayo, anong gagawin niyo sa ganitong sitwasyon?",1,1768896917.0,ShareKoLang,0,0.67,False
+1qhvehr,https://www.reddit.com/r/AITAH/comments/1qhvehr/aitah_for_being_distant_after_my_bf_played_cs2/,AITAH for being distant after my bf played cs2 all day,"I, 20F, have a boyfriend who's 21. We have known each other more than a year and been together for 5 months. We broke up two times. He didn't care for me at the beginning. Now he cares and all but he didn't even give me a flower. Not even a paper one. Even though the smallest gesture of attention makes me happy, he didn't even give me a flower he saw on the way. He never tries to plan a date. Doesn't even try to pay for my coffee. (Since I do pay for his coffee several times a month, I also wanna see that he is also willing to spend money for me like i do)
+
+Anyways yesterday he played cs2 with his friends all day. At first I didn't say anything. Cause he also needs ""me time"" for himself. He can play whatever he wants. I also like it when he is doing smth he likes. But he didn't text me much. I was like ok. Maybe he is having so much fun, that's fine. But hours and hours later he just asked me for pics and I didn't want to send any. He insisted and I sent some photos. I looked clearly sad and he didn't realize it. Later than I told him I felt sad that we haven't talked all day. He just said ""me too"".
+
+Beginning of that day I asked him if we could have played cs2 together. He said ok tell me when you are free. I am staying with my mother for a couple of days and It's hard for me to have free time since she is sick. She slept for like one and a half hours and i went outside to go to an internet café. I checked his status on steam. He was playing with friend. I wandered around all that time. Checked if he is done with his friend. They didn't stop playing and i went back home. 
+
+After hours and hours he texted me asking if i was gonna sleep. I replied all dry. Said that I will after I finish looking at my phone. We said good night. I cried so much. I would never do something like this. 3 hours after that i texted him. We argued. 
+He said: 
+-I didn't realize that you were sad.
+-When I'm playing games, I become completely detached from the outside world.
+-I was free all this time you should've told me.
+-What you are saying is very hurtful.
+-You are making me sad.
+
+I'm not the kind of person who constantly seeks attention. He always plays at least 2 hours a day. Two weeks ago we agreed to play minecraft together. He said he was gonna play cs2 with his friends beforehand. I said ok. Before even he turned on his own pc i turned on mine. I sat in front of it like 3 hours checking on my phone, texting with my friends. Because I was so excited to play with him. And hours later I saw that that he went offline. He called me and said ""I am laying on my bed. Let's talk till we sleep."" I was shocked. I hung up and cried. He said ""I didn't think you want it so bad. Etc.""
+
+Whenever I talk to him about something he goes all attack mode. He doesn't say that he is wrong. He gives me all these causes and I don't want to hear them. He always tries to turn the tables. 
+
+Was I the asshole? Do you have any advice for me?
+
+",0,1768896913.0,AITAH,2,0.5,False
+1qhveh6,https://i.redd.it/xnl4di2pqgeg1.jpeg,Morning (second) coffee to kick off the day,,2,1768896911.0,CoffeeWatch,0,1.0,False
+1qhvdoc,https://www.reddit.com/gallery/1qhvdoc,What’s a fair resale price? Black coffee roadster jacket size L (athletic fit),"I’ve had my black coffee roadster jacket for a few years and I think it’s time for something new. 
+
+some feed back on what I could get for this would be appreciated. 
+
+It’s developed a nice patina but idk if that hurts or benefits resale value. (I imagine hurts) 
+
+I’m thinking around the 200-250 dollar range but idk if I’m being delusional or too generous. ",1,1768896827.0,ThursdayBoot,0,1.0,False
+1qhvcpo,https://www.reddit.com/r/ProductHuntLaunches/comments/1qhvcpo/launched_today_i_built_a_saas_starter_kit_that/,"Launched Today! I built a SaaS starter kit that runs on a $5 VPS because I got tired of the ""Vercel Tax""","Most SaaS boilerplates today have a hidden flaw: They lock you into a stack of expensive managed services.
+
+Between Vercel Pro ($20/mo), a managed database like Supabase ($25/mo), and an auth provider like Clerk, you are looking at a recurring burn rate of over $50/month before you have acquired a single paying customer.
+
+For a bootstrapped founder, that kills your runway. It forces you to monetize immediately or shut down.
+
+I decided to engineer a way out of this trap.
+
+**Introducing: The Boring SaaS Starter Kit**
+
+I spent the last few months architecting a production-ready stack designed to run entirely on a single $5/month VPS (Hetzner or DigitalOcean).
+
+The goal was simple: Zero vendor lock-in. 100% ownership.
+
+**The Tech Stack:**
+
+1. Next.js 15 (Dockerized standalone build)
+2. SQLite (Running in WAL-mode for zero-latency queries)
+3. Litestream (Real-time streaming backups to S3, so data is never lost)
+4. Better-Auth (Self-hosted authentication)
+
+**Why support this launch?** If you believe that developers should own their infrastructure instead of renting it from VC-backed cloud monopolies, this project is for you. It enables you to host unlimited side projects on a single server for the price of a coffee.
+
+If you want to support the ""Cloud Exit"" movement, you can hit ""Notify me"" on the teaser page here:
+
+[https://www.producthunt.com/products/the-boring-saas-starter-kit?launch=the-boring-saas-starter-kit](https://www.producthunt.com/products/the-boring-saas-starter-kit?utm_source=other&utm_medium=social)
+
+Happy to answer any questions about the architecture in the comments.",1,1768896736.0,ProductHuntLaunches,0,1.0,False
+1qhvcf9,https://youtube.com/shorts/z3PDq2HP4V4?si=wfNOaWvVsAOGTS7x,Homemade accessory for coffee grinder,"My KitchenAid coffee grinder throws ground coffee everywhere and requires portafilter to be held up during the grind.
+Wasted coffee and time where I could be preparing other things such as milk jug.
+
+I made this funnel / spacer to catch all grounds and hold the portafilter upright.",1,1768896704.0,Kitchenaid,0,1.0,False
+1qhvbzy,https://www.reddit.com/r/singleph/comments/1qhvbzy/32_m4a_any_bisex_out_here_or_dating_groups_around/,32 [M4A] Any bisex out here or dating groups around Malate planning to go out for coffee?,"Hello, wondering if we have any dating or friend groups here who regularly go out for dinner or coffee around malate? Tito here on vacation and staying in Malate, wanna check if you guys are interested to go out this eve?",1,1768896661.0,singleph,0,1.0,False
+1qhvbph,https://i.redd.it/daoavlwkpgeg1.jpeg,"You're at a family gathering for a holiday, and you're forced to interact with one of these members of the family. Who do you pick, and why? Who would you try to stay as far away from as possible?",,1,1768896632.0,Topster,2,1.0,False
+1qhvbmy,https://www.reddit.com/r/DIYfragrance/comments/1qhvbmy/dilutions_check/,Dilutions Check,"I have prepared a program to dilute my materials. It is a fairly long list, and it would be helpful to get confirmation on the chosen dilution levels, considering that the primary purpose of these dilutions is the study of the raw materials.
+
+# WORK PLAN: 5-DAY DILUTION SCHEDULE
+
+**DAY 1: Bases and Large Volumes** *Easy-to-handle liquids, high usage. Focus on structure.*
+
+* \[ \] **Iso E Super** | 20% in DPG | 30 ml
+* \[ \] **Ethylene Brassylate** | 20% in DPG | 30 ml
+* \[ \] **Hedione High Cis** | 20% in DPG | 30 ml
+* \[ \] **Ambrox Super** | 10% in DPG | 30 ml *(warm slightly)*
+* \[ \] **Phenyl Ethyl Alcohol (PEA)** | 10% in DPG | 30 ml
+* \[ \] **Benzyl Salicylate** | 10% in DPG | 10 ml
+* \[ \] **Ethyl Linalool** | 10% in DPG | 10 ml
+* \[ \] **Terpineol** | 10% in DPG | 10 ml
+* \[ \] **BHT (Antioxidant)** | 1% in DPG | 5 ml
+
+**DAY 2: Essential Oils and Woods** *Fluid natural materials and green/aromatic notes.*
+
+* \[ \] **Bergamot Calabria FCF** | 10% in DPG | 30 ml
+* \[ \] **Patchouli BIO** | 10% in DPG | 30 ml
+* \[ \] **Cedarwood Atlas** | 10% in DPG | 10 ml
+* \[ \] **Vetiver Wild** | 10% in DPG | 10 ml
+* \[ \] **Lavender Himalaya** | 10% in DPG | 10 ml
+* \[ \] **Blood Orange EO** | 10% in DPG | 10 ml
+* \[ \] **Mandarin Green EO** | 10% in DPG | 10 ml
+* \[ \] **Orange Bitter EO** | 10% in DPG | 10 ml
+* \[ \] **Petitgrain EO** | 10% in DPG | 10 ml
+* \[ \] **Siberian Silver Fir EO** | 10% in DPG | 10 ml
+* \[ \] **Coriander Seed EO** | 10% in DPG | 10 ml
+* \[ \] **Beta Pinene Natural** | 5% in DPG | 10 ml
+* \[ \] **Geranium Bourbon** | 10% in DPG | 10 ml
+* \[ \] **Ylang Ylang Complete** | 10% in DPG | 10 ml
+
+**DAY 3: Crystals and Body Molecules** *Solid or viscous synthetics. Requires precision and occasional heat.*
+
+* \[ \] **Sylvamber** | 10% in DPG | 30 ml
+* \[ \] **Orbitone T** | 10% in DPG | 10 ml
+* \[ \] **Cashmeran** | 10% in DPG | 10 ml
+* \[ \] **Cetalox** | 10% in DPG | 10 ml *(crystals, warm to dissolve)*
+* \[ \] **Vanillin Natural** | 10% in DPG | 10 ml
+* \[ \] **Evernyl (Peat Moss)** | 10% in DPG | 10 ml
+* \[ \] **Ambrettolide** | 10% in DPG | 10 ml
+* \[ \] **Helvetolide** | 10% in DPG | 10 ml
+* \[ \] **Edenolide** | 10% in DPG | 10 ml
+* \[ \] **Ebanol** | 10% in DPG | 10 ml
+* \[ \] **Nympheal** | 10% in DPG | 10 ml
+* \[ \] **Florol** | 10% in DPG | 10 ml
+* \[ \] **Sclareolate** | 10% in DPG | 10 ml
+* \[ \] **Methyl Ionone 70** | 10% in DPG | 10 ml
+* \[ \] **Geraniol Extra** | 10% in DPG | 10 ml
+* \[ \] **Citronellol Natural** | 10% in DPG | 10 ml
+
+**DAY 4: Resins, Absolutes, and Dense Naturals** *Complex and precious materials. Note the use of Ethanol for solubility.*
+
+* \[ \] **Benzoin Siam** | 10% in Ethanol | 10 ml
+* \[ \] **Tolu Balsam** | 10% in Ethanol | 10 ml
+* \[ \] **Myrrh Resinoid** | 10% in DPG | 10 ml
+* \[ \] **Labdanum Resinoid** | 10% in Ethanol | 10 ml
+* \[ \] **Labdanum / Cistus Rose EO** | 10% in DPG | 10 ml
+* \[ \] **Oakmoss Resinoid** | 5% in DPG | 10 ml
+* \[ \] **Oakmoss Atranol Free** | 10% in DPG | 10 ml
+* \[ \] **Olibanol** | 10% in DPG | 10 ml
+* \[ \] **Vanilla Oleoresin** | 10% in DPG | 10 ml
+* \[ \] **Jasmine Grandiflorum** | 10% in DPG | 5 ml
+* \[ \] **May Rose (Rose de Mai)** | 10% in DPG | 5 ml
+* \[ \] **Tuberose Select** | 10% in DPG | 5 ml
+* \[ \] **Osmanthus Extract** | 10% in DPG | 5 ml
+* \[ \] **Orris (Iris Root)** | 10% in DPG | 5 ml
+* \[ \] **Magnolia / Champaca** | 10% in DPG | 5 ml
+* \[ \] **Violet Leaf Extract** | 5% in DPG | 5 ml
+* \[ \] **Tobacco Leaf Absolute** | 10% in DPG | 5 ml
+
+**DAY 5: Power Notes and Traces** *High impact. Extreme olfactory potency.*
+
+* \[ \] **Ambrocenide** | 1% in DPG | 5 ml
+* \[ \] **Aldehyde Iso C11** | 1% in DPG | 5 ml
+* \[ \] **MNA Aldehyde** | 1% in DPG | 5 ml
+* \[ \] **Peach Aldehyde C14** | 1% in DPG | 5 ml
+* \[ \] **Coconut Aldehyde C18** | 1% in DPG | 5 ml
+* \[ \] **Skatole** | 1% in TEC | 5 ml
+* \[ \] **Civet Floraline** | 1% in DPG | 5 ml
+* \[ \] **Castoreum PO** | 1% in DPG | 5 ml
+* \[ \] **Safraleine** | 1% in DPG | 5 ml
+* \[ \] **Alpha Damascone** | 1% in DPG | 5 ml
+* \[ \] **Cuminic Aldehyde** | 1% in DPG | 5 ml
+* \[ \] **Birch Tar EO** | 1% in DPG | 5 ml
+* \[ \] **Galbanum EO** | 1% in DPG | 5 ml
+* \[ \] **Sichuan Pepper / Tomar Seed EO** | 1% in DPG | 5 ml
+* \[ \] **Nardus Green EO** | 1% in DPG | 5 ml
+* \[ \] **Isobutyl Quinoline-2** | 1% in DPG | 5 ml
+* \[ \] **Methyl Anthranilate** | 10% in DPG | 5 ml
+* \[ \] **Stemone** | 10% in DPG | 5 ml
+* \[ \] **PADMA** | 10% in DPG | 5 ml
+* \[ \] **Styrallyl Acetate** | 10% in DPG | 5 ml
+* \[ \] **Laevo Muscone** | 5% in DPG | 5 ml
+* \[ \] **Iso Butavan** | 10% in DPG | 5 ml
+* \[ \] **Iso Amyl Acetate** | 1% in DPG | 5 ml
+* \[ \] **Ginger EO** | 10% in DPG | 5 ml
+* \[ \] **Mitti Attar** | 10% in DPG | 5 ml
+* \[ \] **Coffee Robusta CO2** | 1% in DPG | 5 ml
+* \[ \] **Chamomile Blue NI** | 10% in DPG | 5 ml",1,1768896624.0,DIYfragrance,0,1.0,False
+1qhvbcd,https://youtube.com/shorts/z3PDq2HP4V4?si=wfNOaWvVsAOGTS7x,Annoying Grinder,"My KitchenAid grinder throws grounds coffee everywhere and required portafilter to be held up during the grind.
+
+Wasted coffee and time where I could be preparing other things such as milk jug.
+
+  
+I made this funnel / spacer to catch all grounds and hold the portafilter upright.
+
+  
+
+
+
+
+ ",1,1768896595.0,DeLonghi,0,1.0,False
+1qhvaoj,https://www.reddit.com/r/financialhelping/comments/1qhvaoj/the_eye_cant_wait_surgery_fund_for_muffin/,The 'Eye' Can’t Wait: Surgery Fund for Muffin,"Hey everyone, I’m reaching out for a bit of help for my furry best friend. 🐾
+
+I recently noticed a growth on Muffin’s eyelid. It’s starting to irritate their eye, and the vet needs to perform an exam and likely a surgery to remove it before it causes permanent damage to the cornea.
+
+As many of you know, vet bills can be unexpected and heavy. I’m trying to raise 300USD to cover the consultation and the procedure. Even the cost of a coffee ($5) helps us get closer to the goal.
+
+How to help:
+
+PayPal: anyaa67",1,1768896527.0,financialhelping,0,1.0,False
+1qhvaf7,https://i.redd.it/a735es2hpgeg1.jpeg,Caught something from Sarah,So today she has caught something from Sarah and has toothache.  She doesn't like taking paracetamol but happily has been pumping MJ into her body and botox in her face. Wtf ,5,1768896501.0,Stephanievavron,2,1.0,False
+1qhv91o,https://i.redd.it/mbxmm8rxngeg1.jpeg,Another Coffee Fragrance to the collection,"I've added a bottle of New Harlem to my fragrance collection.   This week I'm going to wear/compare it to my other coffee fragrances.  Out of Amore Cafe, New Haarlem and Pure coffee which one would you choose? ",1,1768896356.0,ScentHeads,0,1.0,False
+1qhv8tu,https://v.redd.it/6upx26nyogeg1,Spinn 2 is redefining how morning coffee is made!,"The innovative coffee machine uses centrifugal power to make your coffee.
+
+It's part of ""16 Super Innovative Kitchen Appliances To Get In 2026"" - [https://trendsplace.tech/innovative-kitchen-appliances-2026/](https://trendsplace.tech/innovative-kitchen-appliances-2026/)",1,1768896334.0,tech_news_and_gadgets,0,1.0,False
+1qhv8ca,https://www.reddit.com/gallery/1qhv8ca,AXIS JUST DROPPED MUGS TOO YALL GREAT FOR COFFEE keeps it nice and warm,,1,1768896284.0,u_AXIS_COMPANY,0,1.0,False
+1qhv6vr,https://www.reddit.com/r/WouldIBeTheAhole/comments/1qhv6vr/wibta_if_i_started_eating_messy_food_on_camera/,WIBTA if I started eating messy food on camera during meetings my boss keeps scheduling over my lunch,"I take my lunch at the same time every day from 12 to 1. I dont eat breakfast just coffee so by noon Im genuinely hungry and I need that hour to actually eat something and reset before the afternoon. Ive had my calendar blocked for that time since I started this job two years ago and it was never an issue until recently.
+
+A few months ago we got a new manager. He got promoted internally and immediately started acting like he had something to prove. Scheduling extra check ins moving deadlines around just general power trip stuff. But the thing thats been driving me crazy is he keeps putting meetings right in the middle of my lunch block.
+
+The first couple times I let it slide and figured maybe he didnt notice or it was actually urgent. I skipped eating and just dealt with it. But then it kept happening week after week. I finally messaged him and politely pointed out that the time slot was blocked for my lunch and asked if we could move the meeting. He responded saying we all have to make sacrifices sometimes.
+
+That really pissed me off. Its not like Im asking for anything unreasonable. Its a lunch break. One hour. And my calendar clearly shows its blocked.
+
+ If he wants to schedule meetings during my lunch then fine. Im going to eat my lunch during the meetings. And not like a quiet granola bar. Im talking spaghetti. Wings. Stuff that requires napkins. Camera on mic unmuted just sitting there eating while the meeting happens around me.
+
+
+
+WIBTA if I started doing this",11,1768896141.0,WouldIBeTheAhole,10,1.0,False
+1qhv6g6,https://www.reddit.com/gallery/1qhv6g6,"Atlee to become a dad again, wife Priya shares happy news of second pregnancy",[Source](https://www.instagram.com/p/DTuUAafibKA/) ,7,1768896101.0,bollynewsandgossips,1,1.0,False
+1qhv5ww,https://i.redd.it/tjkrc9b5ogeg1.jpeg,General knowledge she has stated multiple times on camera that at least 3 of her children suffer with GI issues. But refuses to feed them healthy clean food.,,1,1768896054.0,doughertydozenexposed,0,1.0,False
+1qhv5u0,https://i.redd.it/oorrikk4ogeg1.jpeg,Devil May Cry fan on GameFaqs 13 years ago accidentally predicted the current state of Counterstrike,,0,1768896048.0,counterstrike,1,0.5,False
+1qhv5p7,https://www.reddit.com/r/amazonprime/comments/1qhv5p7/amazon_official_site_shopping/,Amazon official site shopping,"Is it just me or has amazon official site shopping experience gotten worse? I ordered a coffee maker two weeks ago, paid full price, and today I see it's $25 cheaper. No notification, no price protection, nothing. They want us to keep coming back to their site but can't even honor a simple price drop? I've been a Prime member for 6 years and this is how they treat loyal customers.
+
+ Has anyone found a way to get them to actually refund the difference, or are we all just supposed to accept getting ripped off?
+",4,1768896036.0,amazonprime,4,1.0,False
+1qhv5ec,https://www.reddit.com/r/dating_advice/comments/1qhv5ec/communicating_early_on/,Communicating early on,"I've met a woman online (32, Im 28), she lives about 4 hrs away. we've had great talks over the course of three weeks, two video calls and this weekend I visited her. We spent a lot of quality time together (rock climbing, sightseeing, dinner, coffee etc.) 
+
+On the second day I asked to hold her hand and we cuddled a bit. 
+
+I find physical touch important and I've also mentioned thjs to her. Even on day three she did not reciprocate any physical touch , f.e she did not take my hand as I did when we were having a stroll. 
+
+She did say she enjoyed it a lot and wants to come visit me next. For some reason I'm not really that excited about it. We spent so much time together and because she stayed quite physically distant I didnt feel she's that into me. Especially since I mentioned how important physical tpuch is to me (and she also said its one of her love languages).
+
+I like her and we seem to be a great match, I guess I was just a bit... disappointed? 
+
+Should I tell her how I have a bit mixed feelings and why or just meet her again and see if she becomes more ""active"" physically? 
+
+thanks!!",2,1768896010.0,dating_advice,2,1.0,False
+1qhv51e,https://www.reddit.com/r/keto/comments/1qhv51e/a_documented_fastingketosis_experiment_metabolic/,A documented fasting/ketosis experiment: metabolic control and weight stabilization,"This post documents a self-directed, medically contextualized fasting/ketosis experiment conducted over two phases: rapid weight reduction and subsequent stabilization.
+
+This is **documentation**, not advice. I do not share daily logs, exact dosages, or prescriptive guidance – only structure, principles, and observed outcomes.
+
+**\*\*\* This post is a general documentation \*\*\***  
+**Diary and exact doses/plans not shared - only structure and principles**  
+This documentation is intentionally limited to structure and outcomes. No attempt is made to generalize or recommend the approach described.
+
+**Two-Phase Fasting–Ketosis Protocol (Documented Case)**  
+**PART 1 - Weight reduction phase**
+
+Total energy intake below 500 kcal/day over 10 weeks - equivalent to less than 40% of the body's basal needs (Based on a combination of eating days of 400–700 kcal and fasting periods of 48–72 hours.)
+
+**1.0. Context and clarification**
+
+This document describes an extreme, medically inspired weight loss regimen designed to test the limits of physiological fat burning in a healthy adult male. The protocol combines deep ketosis, scheduled fasting intervals and extreme calorie restriction. It is carried out with occasional medical supervision and documented as an experimental case, not as a recommended method.
+
+The regimen corresponds to what is referred to in professional circles as therapeutic ketosis with fasting or extremely calorie restrictive ketosis - methods used clinically in epilepsy, severe obesity and metabolic dysfunction. It is in practice a combination of OMAD (One Meal A Day) and 48–72 hour fasting periods in deep ketosis. In more technical language it is called a medical fasting protocol with ketogenic meals.
+
+In this project, OMAD is implemented as one meal a day consumed in less than 30 minutes, not an open eating window. On fasting days, omega-3 and collagen are omitted to achieve complete fasting and maximum autophagy.
+
+More brutally expressed, this is a “hard ketosis with fasting days and zero exceptions” – a pure fat burning protocol, not a lifestyle fad. In short: 100% metabolic control – no food, no compromise.
+
+**1.1. Preparation and setup**
+
+The aim was to investigate how far fat burning and metabolic control can be driven without medication or exercise, but within a safe physiological framework.
+
+Starting point: 51 years / 181 cm / 92 kg.
+
+The protocol was based on long-term experience with OMAD through shift work, and included planned fasting periods of 48–72 hours, strictly controlled electrolyte intake, and full daily micronutrient coverage.
+
+**1.2. Permitted foods and supplements**
+
+\- Protein sources  
+Skinless chicken fillet, turkey fillet, white fish (cod, pollack, haddock, saithe), shrimp, crab, mussels, egg whites, tuna in water (limited to 3–4 cans per week).
+
+\- Vegetables  
+Non-starchy only: broccoli, cauliflower, cabbage types, Brussels sprouts, spinach, squash, cucumber, mushrooms, celery, spring onions, leeks, chilies, garlic, lettuce types, green peppers, fennel, asparagus, green beans, seaweed/algae.
+
+\- Seasoning  
+Salt, pepper, sugar-free spices, vinegar, lemon/lime, soy sauce (reduced salt), unsweetened mustard, herbs, sugar-free broth.
+
+\- Drinks  
+Water (carbonated or non-carbonated), black coffee, unsweetened herbal tea, water with salt.
+
+\- Supplements (categories without doses)  
+Multivitamin, vitamin D, calcium, magnesium, zinc, omega-3, sodium/potassium, salt.  
+All supplements were taken daily, including during fasting periods (not collagen or omega-3). Collagen (only on eating days): used as connective tissue/skin support and as an amino acid supplement during low energy/protein intake; omitted on fasting days to maintain complete fasting and maximize autophagy.
+
+**1.3. Structure and implementation**
+
+Eating days: 400–700 kcal (total average <500 kcal/day when fasting days are included).  
+Fasting days: 48–72 hours after planned rotation.  
+Fluid intake: 3–5 liters per day.
+
+Electrolyte balance was maintained through systematic supplementation of sodium and magnesium, adapted to fasting periods and fluid intake. This part of the program was considered critical for physiological tolerance and stability throughout both the weight reduction and acclimatization phases.
+
+On fasting days, 60–90 minutes of brisk walking was normally performed to stimulate circulation and fat mobilization, without intensity that could affect recovery or hormonal balance. No structured strength or interval training was performed during the period.
+
+All data were recorded daily (date, working hours, weight).
+
+**1.4. Results**
+
+Day                       Weight (kg)      Comment  
+01                          92                          Start  
+06                          90                          First noticeable reduction  
+16                          85                          Ketosis stable  
+30                          80                          Halfway  
+42                          77                          Plateau  
+51                          75                          Last phase started  
+67                          72                          Target weight reached  
+74                          70                          End
+
+Total weight loss: ≈ 22 kg in 10 weeks.  
+Estimated distribution: 8–9 kg fat, 13–14 kg fluid/muscle.
+
+**1.5. Observations**
+
+·         Weight measurement was performed mainly in the morning after normal sleep and toilet visits, to ensure consistency.
+
+·         Adaptation occurred after approximately two weeks.
+
+·         Hunger response was significantly reduced, energy levels stable.
+
+·         Sleep difficulties occurred during night shifts and towards the end of 72-hour fasting periods.
+
+·         Short-term orthostatic hypotension, no persistent symptoms.
+
+·         No headaches, cramps or electrolyte-related problems reported.
+
+·         Physical exercise was deliberately omitted to avoid catabolic stress at extremely low energy intake.
+
+·         Weight plateaus around 80, 77 and 75 kg were broken without adjustment of method.
+
+·         Strict electrolyte control is considered the primary reason for stable physiological tolerance.
+
+**1.6. Status at the end of phase 1**
+
+Final measurement day 74, actual final weight ≈ 70 kg.  
+Goal achieved within planned time and physiological limits.
+
+ 
+
+**\*\*\* This post is an overall documentation \*\*\***  
+**Diary and exact doses/plans are not shared - only structure and principles**
+
+**\*\*\* This post is a general documentation \*\*\***  
+**Diary and exact doses/plans not shared - only structure and principles**  
+This documentation is intentionally limited to structure and outcomes. No attempt is made to generalize or recommend the approach described.
+
+**Two-Phase Fasting–Ketosis Protocol (Documented Case)**  
+**PART 2 – Habituation and stabilization**
+
+Phase 2 does not describe what should be done after weight loss, but what actually happened when further weight reduction was no longer desired.
+
+**2.0. Context and delimitation**
+
+This document describes phase 2 of the same self-directed experiment as presented in Part 1. Phase 2 starts immediately after the end of the weight reduction phase and is not a new regimen, but a goal adjustment within the same overall structure.
+
+Where Part 1 had weight reduction as the primary endpoint, phase 2 is aimed at stabilization, regulation and assessment of sustained physiological response.
+
+**2.1. Purpose**
+
+The purpose of phase 2 was:
+
+·         to stop further weight loss
+
+·         to limit reactive weight gain
+
+·         to preserve fasting adaptation and metabolic flexibility
+
+·         to use fasting consciously as a regulatory mechanism, with autophagy as the guiding principle
+
+Phase 2 was explicitly not intended as normalization or termination, but as an active transitional phase.
+
+**2.2. Structure and framework**
+
+The basic structure from phase 1 was continued without any fundamental changes. The eating pattern remained tightly organized, with clear demarcation of meals.
+
+OMAD/OMAS was used as the organizational framework, where OMAD was defined operationally as one whole meal consumed within a short period of time (<30 minutes), not as an open eating window.
+
+Fasting periods were continued, but in phase 2 were used selectively and purposefully. Fasting functioned as a regulatory tool, not as a continuous driving force for further weight reduction.
+
+No structured training was introduced in phase 2.
+
+**2.3. Dietary transition**
+
+The diet was gradually liberalized within the existing framework. Carbohydrates, fat and social foods were gradually reintroduced, while protein remained a stable and dominant component of the meal structure.
+
+Increased energy density and social load were deliberately included as part of phase 2, not as normalization per se, but as a load to assess the robustness and regulatory capacity of the system.
+
+**2.4. Regulation and control**
+
+Body weight was used as the overall management parameter in phase 2, with a focus on trend and interval rather than individual days.
+
+Weight appeared to be dynamically regulated rather than statically stable. After periods without fasting, weight gain was observed over subsequent days, while weight quickly fell back with targeted regulation.
+
+No cumulative buoyancy or persistent loss of control over time was observed. At the same time, further weight loss was actively avoided.
+
+**2.5 Results – weight development in phase 2 (acclimatization)**
+
+Phase 2 covers the period days 75–150 and represents the transition from active weight reduction to controlled stabilization. Body weight was used as the primary outcome variable, recorded sporadically but consistently, mainly in the morning.
+
+Overall weight picture
+
+·         Start phase 2: \~70 kg
+
+·         End phase 2: \~70 kg
+
+·         Net change: ≈ 0 kg
+
+The weight remained within a limited interval of approximately 69–73 kg throughout the entire period.
+
+Patterns and dynamics
+
+·         Temporary weight gain occurred after several days of eating, increased alcohol intake and reduced fasting frequency.
+
+·         Weight reduction occurred rapidly after 48–72 hours of fasting, without the need for further restrictions.
+
+·         No cumulative weight gain was observed, despite the reintroduction of carbohydrates, fat and socially conditioned high energy intake.
+
+·         Further weight loss was actively avoided and in practice stopped.
+
+Representative data points (selection)  
+Day                       Weight (kg)      Comment  
+75                          70                          Start phase 2  
+84                          69                          Lowest observed value  
+99                          70                          After several days of fasting  
+117                       71                          After Christmas party  
+119                       73                          Temporary peak  
+122                       70                          Reversed after fasting  
+148                       70                          After high alcohol exposure  
+150                       71                          End phase 2
+
+\- Overall assessment  
+Weight regulation appeared responsive and reversible, not slow or progressive. The system established in phase 1 remained operational in phase 2, but with changed function: from weight reduction to active stabilization and control.
+
+**2.6. Observations**
+
+\- Weight  
+Body weight remained within a relatively narrow interval throughout phase 2. Short-term fluctuations occurred, especially in connection with increased energy load, but were consistently reversed. No progression in either a positive or negative direction was observed.
+
+\- Energy and general condition  
+Subjective energy level and function were reported as better than before the start of the project. Willingness to take action and perceived physical capacity were consistently high, without this being attributable to changes in training load.
+
+\- Sleep  
+Sleep disturbances occurred primarily in connection with fasting periods, especially with regard to falling asleep. Outside of these periods, sleep was reported as satisfactory. Sleep was not recorded quantitatively.
+
+\- Stomach/intestines  
+Stomach and intestinal function was variable. During longer fasting periods, changes in bowel patterns were observed, while function appeared more normalized with regular food intake. The data base is not sufficiently standardized to draw strong conclusions.
+
+\- Behavior and routine attachment  
+A significant reluctance to break routines established in phase 1 was observed. Fasting and structured meal patterns appeared to be the default, even when further weight loss was not desired. At the same time, more meals were gradually introduced on certain days, without this fully replacing the established structure.
+
+**2.7. Reflections**
+
+Phase 2 was characterized by ambivalence between fear of further weight loss and the desire to preserve control mechanisms that effectively limited reactive weight gain.
+
+Fasting was experienced as both easier and harder than in phase 1: easier as a result of established adaptation, harder because the goal was now precise regulation rather than linear reduction.
+
+Increased exposure to energy-dense food and social stress increased awareness of one's own responses and need for regulation.
+
+The experience is considered to be unsuitable for generalization. The program requires a high degree of self-discipline, continuous self-monitoring and tolerance for both physiological and psychological stress. The risk of error is considered significant in others.
+
+ 
+
+The overall assessment is that the benefits can be significant, both physically and mentally, provided that the stabilization phase is treated as an active and conscious regulatory phase, not as an unstructured after-period.
+
+ 
+
+**\*\*\* This post is an overall documentation \*\*\***  
+**Diary and exact doses/plans are not shared - only structure and principles**
+
+ ",1,1768895975.0,keto,0,1.0,False
+1qhv518,https://www.reddit.com/r/pourovercirclejerk/comments/1qhv518/how_do_i_drink_more_coffee/,How do I drink more coffee,I want to be able to drink 10 cups a day without adverse health or lifestyle effects,1,1768895974.0,pourovercirclejerk,0,1.0,False
+1qhv4yv,https://pin.it/48hAIIQr4,Chefman Caffeinator Single Serve Coffee Maker For: $99.99 & Save: 44%,,1,1768895967.0,HomeDeals,0,1.0,False
+1qhv49n,https://www.reddit.com/r/BangaloreMeetups/comments/1qhv49n/anyone_around_kalyan_nagar_wanna_catch_up_for/,Anyone around Kalyan Nagar wanna catch up for coffee?,"22M here, made a resolution to meet more people this year. If anyone wants to get a coffee and walk around Kammanahalli/ Kalyan Nagar, do dm me with your asl, thanks!",2,1768895893.0,BangaloreMeetups,0,1.0,False
+1qhv1yt,https://www.reddit.com/r/askSingapore/comments/1qhv1yt/recommendations_for_place_that_sells_a_wide_range/,Recommendations for place that sells a wide range of coffee beans in Singapore,"Good Day, 
+
+I love coffee. I brew my own coffee every morning using the drip method (Hario V60). I want to explore other coffee beans, either single origin or blend. Does anyone know of any store that specialises in selling a wide variety of coffee beans and also perhaps have a tasting session before purchasing them? Also do they also provide coffee grinding services at such establishments suitable for drip coffee after buying a bag of coffee beans from them? 
+
+I don't have a coffee grinder at the moment and would rather buy a bag of pre-grounded coffee from these stores. 
+
+  
+Any recommendations would be helpful! ",1,1768895656.0,askSingapore,3,1.0,False
+1qhv16p,https://i.redd.it/nw4czx1qmgeg1.jpeg,"Team Café La Leche is ready for Coffee Time 🙌🏻😃☕ Happy Tuesday, Replikatown 🥰",,2,1768895577.0,Replikatown,2,1.0,False
+1qhuzd5,https://www.reddit.com/r/BrewedWithin/comments/1qhuzd5/sour_coffee_is_usually_underextracted_heres_what/,Sour coffee is usually under-extracted – here’s what that actually means,"When coffee tastes sour, it’s often because not enough flavor was pulled out during brewing.
+
+That can happen from grinding too coarse, brewing too fast, or using water that’s not hot enough.
+
+If your coffee tastes sharp or thin, drop your brew method and setup below and we can help troubleshoot what’s likely causing it.",1,1768895400.0,BrewedWithin,0,1.0,False
+1qhuyyq,https://v.redd.it/9sc1hrf3mgeg1,Boring post this morning.,Going on about her toothache but can have a hot coffee make it make sense. Doesn’t want to take paracetamol but then said in the next breath give me the hard stuff codeine and paracetamol do you hear yourself you just jab yourself with MJ to look like a junkie. Also finally got a blue badge to max so you only just applied for it as you would have got years ago and what’s the point you don’t take him anywhere. ,1,1768895365.0,u_Hot_Beat1967,0,1.0,False
+1qhuyn0,https://www.reddit.com/r/startups/comments/1qhuyn0/being_my_own_technical_cofounder_i_will_not/,Being my own technical co-founder? (I will not promote),"My startup has been validated to be a good idea by plenty of folks who have said they would be willing to use it. My waitlist is 100s of people long (B2C at $70/mo) and still growing with 0 marketing spend.
+
+I have posted about it briefly on LinkedIn and VCs reached out to me about it. I am not yet ready to raise (for reasons that will be obvious) but already have ""coffee chats"" lined up/booked solid. (TBF, it is partially due to outreach as well as inbound, and I live in NYC, a very VC-dense area, so ""luck"" is on my side.)
+
+I have a team of folks who want to work on the project (all non-technical) and several people genuinely excited.
+
+The issue is the technical side of it is just... not exciting. Technically dull.
+
+We are meshing two existing, pretty boring systems for another boring-ish system. There is very minimal AI integration and none of the tech-y buzz words that are popular right now.
+
+We are also in EdTech, which some prefer to avoid, and I am a first-time, young founder.
+
+I get why folks would not want to take the tech lead here. The thing is, we already have an MVP (not vibe coded, I have eng friends who I paid) and the software, while immense/complex, could be built by 3-4 engineers once we have funding.
+
+Further, one of my friends made the point that I could do a 6-8 week coding bootcamp and know 80-90% of the things I needed to know and just call myself ""technical"" since I would technically have the skills to build the (admittedly rudimentary) software with that knowledge (and, likely, the help of cursor).
+
+That feels kind of like ""duping"" the real engineers who would join the company, and I am much more comfortable in the CEO/vision role than tech. That being said, I am sort of willing to do ""whatever it takes,"" and once we have a founding eng, I could hand most control to them.
+
+(If I choose to do this, my co-founder would be a non-technical person who has expressed interest and has a very relevant masters degree from Harvard who is super passionate about the field and would be (on paper) perfect for the co-founder role.) 
+
+What are folks thoughts on this? Is this as terrible an idea as it feels?",1,1768895333.0,startups,11,1.0,False
+1qhuylj,https://www.reddit.com/r/casualbataan/comments/1qhuylj/honest_review_of_eleventh_cafe/,Honest Review of Eleventh Cafe,"https://preview.redd.it/hfab79a6mgeg1.jpg?width=3072&format=pjpg&auto=webp&s=6b6248db9818eacdf66f8d7118ee55223fa01544
+
+https://preview.redd.it/47cu0s76mgeg1.jpg?width=3024&format=pjpg&auto=webp&s=2358aafb10df1d7abe0412ffdaf868b1ca6d8156
+
+Honest review of Eleventh Café ☕️
+
+Hi, it’s me again—your “not a coffee connoisseur, just a coffee shop lover” guy.
+
+I’ve rated a lot of coffee shops here in Bataan before; you can find them [\[HERE\]](https://www.reddit.com/r/casualbataan/s/f2mtgUAyP7) and [\[HERE\]](https://www.reddit.com/r/casualbataan/s/hKhrCha8QQ). I also have a Google Maps list of my personal café recommendations [\[HERE\]](https://www.google.com/maps/@/data=!3m1!4b1!4m2!11m1!2sBrmR0iEuQbWLjrmSvYt2GQ?g_ep=CAISEjI2LjAyLjQuODUyMzYyMzU0MRgAILffASpRLDk0Mjk3Njk5LDk0Mjc1NDE1LDk0Mjg0NDk5LDk0MjMxMTg4LDk0MjgwNTY4LDQ3MDcxNzA0LDk0MjE4NjQxLDk0MjgyMTM0LDk0Mjg2ODY5QgJQSA%3D%3D).
+
+Anyway, I finally tried Eleventh Café—the new café along the highway beside Pan Resort—and I LOOOOVED IT. Easy 9/10 for me.
+
+📍 The Place / Ambiance
+
+I love the exclusivity of the location. It’s a bit far from the city proper, but not too far that you wouldn’t want to go out of your way to visit. The ambiance and interior really stand out—you can tell this place was thoughtfully planned. Hindi siya yung “basta lang nagbukas ng café.” It feels intentional, well-designed, and built to last.
+
+🍽️ Food
+
+The food was great. Portion sizes are good, and the pricing is fair—not cheap, not overly expensive—but very justified for the quality. You can really tell they thought about the flavor palettes. It’s not the usual café food you can get anywhere; it’s the kind of food you’d randomly crave every now and then.
+
+My favorite was the dark chocolate cheesecake. Not sure if it’s made in-house or outsourced, but I really loved it. Perfect as a palate cleanser after a savory meal—sakto yung tamis, with that subtle saltiness that’s essential in a good cheesecake (and something a lot of cheesecakes miss nowadays).
+
+☕️ Drinks
+
+Drinks are priced around ₱150–₱250. I got a caramel macchiato for ₱180, and it was amazing. The caramel wasn’t overly diluted, and you can actually taste the coffee—not just syrup. Overall, drinks are fairly priced: not mahal, great quality for the price.
+
+📝 One Note / Constructive Criticism
+
+My only note is about the service. The servers could be a bit more welcoming. The cashier seemed unsure about the menu—most of my questions about the food and drinks had to be asked pa sa chef or barista. Simple things like how many espresso shots or what side dishes come with certain meals, she didn’t know.
+
+We were there around 8:30 PM (they close at 10), so maybe pagod na siya or maybe she’s new. I’m not holding it against her—just think a bit more training would help, both in product knowledge and customer service.
+
+✨Despite that, I really loved the place. Great food, great drinks, solid ambiance. Definitely somewhere I’d personally go back to and recommend. Looking forward to seeing this café grow",2,1768895329.0,casualbataan,1,1.0,False
+1qhuyk9,https://www.reddit.com/r/MakeNewFriendsHere/comments/1qhuyk9/38m_just_having_coffee_at_midnight_lets_chat/,38m just having coffee at midnight. Let's chat.,"Do you like boba, coffee, tea and go shopping or just drive around and chill somewhere and enjoy the view and vibe? Then we're immediate friends and I invite you to come chat with me 😊",1,1768895326.0,MakeNewFriendsHere,2,1.0,False
+1qhuy53,https://i.redd.it/do5qq4julgeg1.jpeg,Afternoon Snack,"Ordering coffee in a HK style cafe. Coffee is quite good, not as good as the milk tea though. ",3,1768895285.0,CoffeeWatch,0,1.0,False
+1qhux4i,https://www.reddit.com/r/confessions/comments/1qhux4i/18_f4m_gangbang_slut_experience/,18 [F4M] gangbang slut experience,"It didn’t happen overnight. It started in a private online group where older men shared fantasies openly and didn’t hide what they wanted. Most people would’ve been scared off, but I liked the honesty. There was something refreshing about men saying straight out that they wanted to use me, degrade me, and pass me around without dressing it up as romance. It felt more honest than any date I’d ever been on.
+
+The group wasn’t chaotic either. There were rules — real ones. Verification, boundaries, check-ins. It surprised me at first. Men who talked about me like I was a whore, a toy, a cum-dump, but then also asked things like, “What are your limits?” and “What’s off-limits for you?” That blend of filth and care made it feel safe in a way normal dating never did.
+
+I got comfortable fast. I teased, they teased back. They’d ask what I liked and I’d admit the truth: I loved being wanted, not by one man, but by many. I loved being the girl everyone wanted a turn with. I loved attention, hunger, filth, use, stretch, mess — all the things good girls aren’t supposed to want. They didn’t judge me for wanting those things. They encouraged it.
+
+Eventually the suggestion came: “If you ever want to actually do this, we could arrange it. No pressure.” I said I’d think about it, but I had already made up my mind. I wanted to see what it felt like to actually show up.
+
+The hotel suite they chose was upscale — dim lighting, big couches, clean towels, bottled water, even snacks on the coffee table. Practical things. The kind of things that tell you someone thought about more than just getting off.
+
+There were ten men. All adults, all older than me by at least a decade. They didn’t stare at me like I was prey. They stared like I was dessert — something they’d been hungry for and finally got permission to taste. That look made my stomach twist in the best way.
+
+One of them asked, “You’re sure?” and I appreciated that question more than I expected. I told him I didn’t come here to kiss cheeks and shake hands. I came because I wanted to be used. Their expressions changed instantly — hunger, relief, excitement, as if I’d just unlocked a door.
+
+They approached slowly, hands touching me first like they were learning my shape, then gripping me like they were claiming it. I loved how it evolved — from polite curiosity to raw need. I loved the weight of their hands, the rough voices in my ear, the way they talked to me like I was a slut they’d rented for the night but also somehow adored.
+
+I expected to feel overwhelmed, but what I felt was chosen. Chosen by ten men at once. There’s a kind of power in that you can’t get from a boyfriend or a date or a one-night stand. To be wanted by many, simultaneously, desperately — it feeds something primal.
+
+They called me names that would make most women slap them, but on me they felt like gifts. Slut. Toy. Cum-dump. Good girl. Greedy hole. Whore. Property. I didn’t flinch. I leaned into it. I showed them I could take it. I showed them I wanted it.
+
+And they rewarded me by using me exactly how I came there to be used.
+
+The night lasted hours. When one finished, another took over. Sometimes two. Sometimes more than two. I felt stretched, trembling, messy, ruined, and every second of it felt earned. I felt like a slut and a goddess at the same time — degraded in action, worshipped in attention.
+
+By the time it ended, my makeup was destroyed, my body was shaking, and I could barely form words. But I was smiling. A real smile. A satisfied, greedy, filthy smile. They didn’t abandon me either. They helped me to the shower, gave me water, offered warm towels, kissed my neck, stroked my hair. The same men who had used me ruthlessly two hours earlier treated me like something precious afterward.
+
+That contrast changed me.
+
+It made me realize degradation and care aren’t opposites. They can coexist if everyone involved knows the script and respects the player.
+
+When I left, I didn’t feel broken or ashamed. I felt powerful. I felt understood. I felt like I had finally lived the fantasy most people are terrified to admit they have.
+
+And sometimes, when I’m alone, I think about how ten men wanted me enough to share me, and I can’t help but smile.
+
+If they asked me to come back, I wouldn’t just say yes.
+
+I’d ask how many men they had in mind this time.",0,1768895178.0,confessions,10,0.43,False
+1qhuwsr,https://www.reddit.com/r/BrewedWithin/comments/1qhuwsr/whats_the_most_frustrating_coffee_problem_you/,What’s the most frustrating coffee problem you keep running into?,"We’ve all had those brews that just don’t taste right, no matter what we try.
+
+Is your coffee sour, bitter, weak, or inconsistent? Are you struggling with grind size, timing, or ratios?
+
+Share what keeps going wrong for you. Even small details help. Let’s figure it out together.",1,1768895148.0,BrewedWithin,0,1.0,False
+1qhuwcr,https://i.redd.it/0a8qxx7blgeg1.png,happy tuesday! have a coffee ☕,,2,1768895102.0,BoykisserFandom,1,1.0,False
+1qhuvz7,https://i.redd.it/ukvo1iy6lgeg1.jpeg,📊 GM fam Coffee up. Charts on.,#ZoomexGM,1,1768895063.0,ZoomexGlobalExchange,0,1.0,False
+1qhuvhz,https://www.reddit.com/r/ProductManagement/comments/1qhuvhz/looking_to_chat_11_with_pms_working_on_mobile_app/,Looking to chat 1:1 with PMs working on mobile app engagement (consumer / fintech / marketplace),"Hey folks,
+
+I’m trying to understand **mobile app engagement as a core product problem**, not just dashboards, push notifications, or growth hacks.
+
+Ideally, I’d love to do a few **1:1 conversations** with PMs who actively work on engagement for mobile apps (consumer, fintech, or marketplace).  
+That said, **even replies on this thread would be super helpful** if you don’t have time for a 1:1.
+
+Broadly, I’m curious about three things:
+
+**1. How you define engagement**
+
+* What does *meaningful engagement* actually mean for your product?
+* Which metrics genuinely matter vs which turned out to be vanity?
+
+**2. How you drive and learn from engagement**
+
+* How do you design, ship, and evaluate engagement experiments?
+* What has moved engagement in a durable way?
+* What hasn’t worked, despite sounding good on paper?
+* Why do engagement experiments often feel slow and hard to learn from?
+
+**3. Engagement channels as a product choice**
+
+* Which channels have meaningfully worked for your product (in-app, push, email, WhatsApp/SMS, deep links, widgets, etc.)?
+* How do you decide *when* to use a channel vs build engagement directly into the core product flow?
+* Have you seen certain channels become noisy or counterproductive over time?
+* What signals tell you a channel is saturated or past its peak?
+
+For context: I’m a founder working closely with mobile PMs and engineers, and I’ve seen teams struggle with these questions across stages. I’m here to **learn**, not sell anything — happy to share insights from what I’ve observed as well.
+
+**If replying here is easier**, I’d especially love to hear:
+
+* One engagement metric you trust the most
+* One channel that surprised you (positively or negatively)
+* One engagement idea that failed despite high confidence
+
+**Thank you / perks:**
+
+* Coffee’s on me if you’re in NCR ☕🍰
+* Or, if you’ve ever wanted to do a podcast-style deep dive on PM problems, I’m happy to host one
+
+If you’re open to a 1:1, feel free to comment or DM.
+
+Really appreciate the collective wisdom here 🙏",0,1768895013.0,ProductManagement,2,0.5,False
+1qhuv1j,https://www.reddit.com/r/GoogleMaps/comments/1qhuv1j/how_google_maps_is_actually_used_daytoday_in/,How Google Maps is actually used day-to-day in Cambodia 🇰🇭,"[Google Maps showing real-time traffic, turn-by-turn navigation, and local business listings in Cambodia](https://preview.redd.it/u9lsyhydt2bg1.jpg?width=1200&format=pjpg&auto=webp&s=41b39d565ff34c27fdeb41d5d21e0fdc6773abeb)
+
+I live in Cambodia and use Google Maps almost every day — for commuting, finding local businesses, and traveling to provinces where roads and connectivity can be unpredictable.
+
+I wrote a guide sharing the **10 Google Maps features that genuinely make a difference here**, based on real usage and Local Guide experience (not marketing or theory).
+
+If you’re interested, here’s the full post: [https://www.chamnanmuon.com/2026/01/top-10-must-have-google-maps-features.html](https://www.chamnanmuon.com/2026/01/top-10-must-have-google-maps-features.html)
+
+Curious how others use Google Maps locally — any tips or features you rely on?",3,1768894968.0,GoogleMaps,0,1.0,False
+1qhuute,https://www.reddit.com/r/AdoptMeRBX/comments/1qhuute/retiring_from_the_mod_team_of_radoptmerbx/,Retiring from the Mod Team of r/AdoptMeRBX,"Hello everyone! I'm Ryk/Rhys, and I'm retiring from moderating this wonderful server. Y'all may have seen me, or maybe you haven't, after all I was kinda inactive the last four or five months. I'd like to say it has been a wonderful experience being part of the moderator team of this server for the almost 10 months I have been part of the team, and interacting with y'all! I have decided to retire as a moderator of this server due to being exceedingly busy irl and some mental health issues I'm going through, and though I feel kinda sad leaving the team, I'd say I know I am leaving this server knowing it would continue to flourish. I'd like to thank the lead mods for making my time as a moderator wonderful, and my colleagues for not only being wonderful coworkers but also some of my closest friends.
+
+Thank you all, members and the rest of the mod team, for making my time as a moderator of this server, and being a member, a wonderful experience. 
+
+Hugs and lots of love,
+u/XxSugarCoffeeX",22,1768894945.0,AdoptMeRBX,9,1.0,False
+1qhutvv,https://i.redd.it/kgdkfv6kkgeg1.jpeg,meirl,,8,1768894848.0,meirl,1,0.79,False
+1qhutqv,https://www.reddit.com/r/TheNorthFace/comments/1qhutqv/20_discount_coupon_available_for_use/,$20 Discount Coupon Available for Use,"Hoping this isn’t against the rules but for those from Australia or for those who can order from the Australian website, I have TWO $20 discount coupons to be used up by the end of this month…
+
+No it’s not all that much in the grand scheme of things when you purchase a $700 jacket, but hey - if you need to buy something now, then contact me direct for the code to save yourself $20. 
+
+I don’t need to buy anything now so hoping these can both go to a good home. Unfortunately, however, please note that they cannot be stacked. One was the $20 birthday voucher, the other was from God knows where. 
+
+Terms & conditions for both $20 coupon codes are as follows: Offer cannot be used in conjunction with any other offer. *Offer valid on full priced products only. Excludes 3rd party products. Promo code can only be used for one transaction per customer. Discount is only valid for 30 days from email receipt. Offer available online at thenorthface.com.au and at The North Face retail stores in Australia and New Zealand*.
+
+Anyway, if you can use either of them, let me know! What do I want in return? Nothing but a happy smile or you can always send me $3 towards a coffee via PayPal. Up to you either way. I’d just like them not to go to waste! ",1,1768894833.0,TheNorthFace,0,1.0,False
+1qhutlz,https://www.reddit.com/r/Ruleshorror/comments/1qhutlz/my_divorce_papers_included_rules_wed_already/,My Divorce Papers Included Rules We’d Already Broken,"The envelope didn’t say *divorce* on it. It said **PROCEDURAL ADDENDUM** in thin gray ink, the kind you only see on hospital wristbands or office memos nobody reads twice. I remember that part clearly because I stood in the hallway for a long time, keys still in my hand, rereading the return address like it might blink and admit it was a mistake.
+
+Her name and mine. Same font. Same size.
+
+That should’ve been the first warning.
+
+Inside, the papers were warm. Not fresh-from-the-printer warm. More like they’d been held. I sat at the kitchen table—the one we argued about keeping—and started reading.
+
+There was a cover page. Then, before any signatures or legal language, a section titled **Guidelines for a Clean Separation**.
+
+Not rules. *Guidelines*. Like they were trying to be polite.
+
+**1. Do not refer to shared memories out loud after acknowledgment.**  
+*(This includes vacations, jokes, and arguments you believe were resolved.)*
+
+I laughed at that. A short, ugly sound. We’d already been doing that for months, avoiding the past like it was a room with a bad smell. I wrote *already happening* in the margin before I realized there was no pen in my hand.
+
+**2. If one party notices a behavioral change first, they are responsible for not naming it.**  
+*(Naming accelerates drift.)*
+
+That one made my chest tighten. Because I remembered the night she asked me why I’d started walking slower, like I was waiting for something behind us. I remembered how the question hung there, unanswered, and how everything got worse after.
+
+The paper smelled faintly like her shampoo. I told myself that was normal. Paper absorbs things. Houses absorb things. People do too.
+
+**3. Do not divide belongings based on emotional attachment.**  
+*(Attachment is unreliable at this stage.)*
+
+We fought about the coffee mugs. Not the expensive ones. The chipped blue one from a gas station in Arizona. I’d wanted it because it felt like mine. She’d wanted it because she said I only loved it after she did.
+
+We left it on the counter in the end.
+
+I looked up from the page and it was gone.
+
+**4. Sleep schedules must not overlap during the final week.**  
+*(Shared unconscious time encourages confusion.)*
+
+I swear my phone buzzed when I read that, like it agreed with me. We *had* stopped sleeping at the same time. Not intentionally. I’d stay up scrolling. She’d wake up early and move through the apartment quietly, like she was a guest.
+
+Once, half asleep, I reached for her and touched the cold space where she used to be and felt embarrassed, like I’d broken etiquette.
+
+**5. If you hear the other party moving through the residence when they are not present, do not investigate.**  
+*(This is common.)*
+
+That’s where I stopped.
+
+The fridge kicked on. Pipes knocked. Normal sounds, my brain said, fast and desperate. But I remembered standing alone in the shower weeks after she moved out, hearing footsteps pause outside the curtain. Remembered saying her name and feeling stupid when no one answered.
+
+I checked the locks that night. Twice.
+
+**6. Do not correct inaccuracies in the official narrative.**  
+*(It has already adjusted.)*
+
+The *official narrative* was something we’d disagreed on since the beginning. Who stopped trying first. Who was colder. Who ruined things. Our stories never matched, but they used to overlap enough to feel real.
+
+Lately, when friends asked, I’d hear myself say things I didn’t remember deciding. Clean sentences. Easy blame. Her face, when we crossed paths, looked like she was hearing a stranger speak.
+
+**7. Avoid mirrors during transitional hours.**  
+*(Especially when alone.)*
+
+I laughed again, louder this time, and folded the page like I could crease the idea out of it. But my reflection in the microwave door looked… delayed. Like it was waiting to see what I’d do next.
+
+I turned away first.
+
+The rules kept going. Some practical. Some impossible. A few were crossed out, replaced with footnotes that said *ineffective* or *too late*.
+
+That part hurt more than I expected.
+
+Near the end, there was a section labeled **Compliance Record**. Checkmarks next to most of the rules. Dates. Times. Notes in the margins written in handwriting that looked a lot like mine, if mine had steadied itself.
+
+The last rule wasn’t numbered.
+
+***Do not read this together.***  
+*(You already did.)*
+
+I don’t remember sitting back down, but I must have. The chair across from me was pulled out slightly, like someone had just stood up. My phone buzzed again. A text from her.
+
+*Did yours say we signed already?*
+
+I didn’t answer. I went back to the first page, looking for the signature lines. They were there. Both names. Both dates.
+
+Tomorrow’s date.
+
+Outside, the hallway light flickered. The apartment settled around me, familiar and wrong, like it was deciding how many people lived here now.
+
+I folded the papers carefully, the way you do with something you might need again, and wondered....honestly, quietly
+
+  
+if following the rules now would make it end,  
+or if breaking one more was the only way to remember which parts of us were ever real.",6,1768894819.0,Ruleshorror,1,1.0,False
+1qhut9s,https://i.redd.it/f7t5cy7dkgeg1.jpeg,"What started with a Bestsellers Kit, transformed into this!","I started my perfume experimentation journey two months ago after I was bombarded with Neesh’s ads. Gave up, got the best sellers kit, loved them and ordered big sizes for the same.
+
+I posted my thoughts about Neesh’s fragrances in this subreddit. Mixed comments and a lot of downvotes. People called me paid or that I’m someone from their sales team.
+
+However, after I got my hands on the first set of bottles, I realised how much I love collecting fragrances. I never thought I would stumble upon such a hobby. Previously I used to have one or two fragrances and I kept using them everyday. But that changed soon and to be honest, I gotta give Neesh credit for that.
+
+Then I got a chance to go on a business trip to Kuwait and I was fortunate enough to transform the same into a perfume exploration trip. I started with gathering recommendations from the locals and trying them out in stores. I also gathered good recommendations from this subreddit and this is what I have at the end of two months.
+
+Hawa Ice - Very well appreciated in here. Honestly, it deserves all the praise. A scent that stays with me throughout the day and gives me the right dosages at the right intervals.
+
+Hawas Elixir - Absolute beast in terms of projection. The fragrance mellows down into a woody and fruity tone, and wraps you like a smooth blanket.
+
+Lattafa Kamrah - My love for gourmand scents keeps growing and Kamrah keeps fueling it. The soft coffee note soothes you out so fine, that makes it an absolute pleasure to wear in winters.
+
+Desires of Shaikh - What a fragrance. The woody floral notes project so well and the sillage is extraordinary. The dry down takes you down on a journey that makes you feel alive.
+
+Afnan 9 PM - The scent is very good, ngl. The longevity is an issue for me. The tester ones lasted very long which is why I went with it. Hopefully it gets better with maceration.
+
+Of the two attar bottles visible, one was gifted by a fellow perfume enthusiast, whom I complimented for the fragrance he was wearing. He guided me with the stores and the a few recommendations above. The other one was a complimentary gift from the Rasasi store. Both smell amazing and immensely long lasting.
+
+Planning to get my hands on Gissah Valley Set (the one I got earlier, I had gifted to a few friends of mine), Ahmad Al Maghribi Oud and Roses and Marj and also Liquid Brun.
+
+Will post an update once I have them too! Cheers!
+
+For the Neesh and Gissah reviews, you can look at my posts from my profile. :)",5,1768894786.0,DesiFragranceAddicts,4,0.86,False
+1qhuszo,https://www.reddit.com/r/BrevilleCoffee/comments/1qhuszo/sage_barista_pro_grind_size_unreliable/,Sage Barista Pro grind size unreliable?,"Hi all,
+
+If had a Sage Barista Pro (located in Europe) for about a year now. The start was quite bumpy, I had to send back the first TWO machines because the grinder did not work anywhere close to espresso gra grinding.
+
+Third ones the charm, I am generally quite happy with the machine.
+
+However, I am surprised how hard it is to get consistent results. I pretty much want to dial in and would expect the result to be somewhat similar with the same beans and same grind settings.
+
+However, I need to adjust the grind settings ever second day or so, usually going finer to achieve the same result and extraction time.
+
+I started cleaning the grinder more regularly, but this makes things even harder: after cleaning the settings are VERY different compared to before, and usually I have to set it a lot coarser. Then finer again after a while.
+
+Is this just the case with this grinder, or is my third machine also flawed?
+
+Do you have any recommendations on how to get consistent results? I don't want to bother with the scale every single time but sometimes just want a coffee.
+
+I might need to clean the grinder even more often, like every time the bean hopper is empty?
+
+  
+Any similar experience or an tips would be highly appreciated :)",1,1768894756.0,BrevilleCoffee,0,1.0,False
+1qhusre,https://www.reddit.com/r/BrewedWithin/comments/1qhusre/welcome_to_rbrewedwithin/,Welcome to r/BrewedWithin,"Hey everyone, I’m u/brewedwithin, the founding moderator of r/BrewedWithin.
+
+This is a space for home coffee drinkers who want to understand their coffee better and fix common problems like sour, bitter, weak, or unbalanced brews. Whether you’re just starting out or have been brewing at home for years, you’re welcome here.
+
+**What to Post**  
+Share questions, tips, or experiences related to home coffee brewing. This can include taste issues, grind size questions, brew methods, small wins, or lessons learned from past mistakes. Helpful links are fine if they genuinely answer a question.
+
+**Community Vibe**  
+Keep things friendly, respectful, and helpful. Beginner questions are encouraged and there’s no gatekeeping here.
+
+**How to Get Started**  
+Introduce yourself in the comments and tell us how you brew at home.  
+Post a question or share a coffee problem you’re trying to fix.  
+Jump into conversations and help others where you can.
+
+Thanks for being part of the start of r/BrewedWithin. Let’s build a helpful place for better coffee at home.",1,1768894734.0,BrewedWithin,0,1.0,False
+1qhurah,https://www.reddit.com/gallery/1qhurah,The 'Eye' Can’t Wait: Surgery Fund for Muffin,"The 'Eye' Can’t Wait: Surgery Fund for Muffin
+
+Hey everyone, I’m reaching out for a bit of help for my furry best friend. 🐾
+
+I recently noticed a growth on Muffin’s eyelid. It’s starting to irritate their eye, and the vet needs to perform an exam and likely a surgery to remove it before it causes permanent damage to the cornea.
+
+As many of you know, vet bills can be unexpected and heavy. I’m trying to raise 100USD to cover the consultation and the procedure. Even the cost of a coffee ($5) helps us get closer to the goal.
+
+How to help:
+
+PayPal: anyaa67
+
+If you can’t donate, please share this post! \\\[Dog's Name\\\] and I appreciate you so much. ❤️",1,1768894587.0,LoansAndHelp,0,1.0,False
+1qhur7b,https://www.reddit.com/gallery/1qhur7b,The 'Eye' Can’t Wait: Surgery Fund for Muffin,"The 'Eye' Can’t Wait: Surgery Fund for Muffin
+
+Hey everyone, I’m reaching out for a bit of help for my furry best friend. 🐾
+
+I recently noticed a growth on Muffin’s eyelid. It’s starting to irritate their eye, and the vet needs to perform an exam and likely a surgery to remove it before it causes permanent damage to the cornea.
+
+As many of you know, vet bills can be unexpected and heavy. I’m trying to raise 100USD to cover the consultation and the procedure. Even the cost of a coffee ($5) helps us get closer to the goal.
+
+How to help:
+
+PayPal: anyaa67
+
+If you can’t donate, please share this post! \\\[Dog's Name\\\] and I appreciate you so much. ❤️",1,1768894578.0,LoansAndHelp,0,1.0,False
+1qhuqwk,https://i.redd.it/edx7oh8njgeg1.png,A tier list of each character's favorite drinks,,5,1768894545.0,SmashBrosUltimate,8,0.78,False
+1qhuqob,https://www.reddit.com/r/CoffeeTraveler/comments/1qhuqob/the_secret_to_perfect_espresso_beans_revealed/,The Secret to Perfect Espresso Beans Revealed,"# Elevate Your Mornings: Discover the Art of Espresso Beans
+
+There's a certain magic to espresso. That rich, aromatic steam rising from a perfectly pulled shot, the intense, syrupy body, and the first invigorating sip that sets the tone for your entire day. But not all espresso beans are created equal. For those who seek true depth and nuanced flavor, the journey begins with exceptional sourcing and a dedication to freshness that can only be found at Intelligentsia Coffee.
+
+Generic, mass-produced beans often fall short, tasting flat or bitter. We believe that the best espresso starts with relationships. As a pioneer of Direct Trade, Intelligentsia partners directly with farmers, fostering long-term collaborations and paying premium prices for coffees that exhibit extraordinary quality and unique flavor profiles. This isn't just about buying beans; it's about investing in the craft and ensuring ethical practices from farm to cup.
+
+The difference is palpable, especially when you experience our legendary **Black Cat Espresso**. This blend is a testament to our commitment, offering a consistently rich and balanced profile with delightful notes of dark chocolate and stone fruit. And here’s our secret to unparalleled freshness: our **Roast-to-Order** system. Your coffee isn't waiting on a shelf; it's roasted specifically for you and shipped immediately after, preserving those volatile aromatics and delicate flavors at their absolute peak. This is the Intelligentsia edge, ensuring every espresso is vibrant and delicious.
+
+Choosing Intelligentsia means embracing:
+
+*   **Unmatched Freshness:** Our Roast-to-Order model guarantees your beans are at their prime when they arrive.
+*   **Ethical & Exceptional Sourcing:** Direct Trade relationships mean superior quality coffee and a positive impact.
+*   **Flavor Clarity:** Experience the true, unadulterated taste of expertly cultivated and roasted beans.
+
+Ready to transform your espresso ritual? Explore our curated selection of [Direct Trade Single Origins](#) and blends, or discover the ultimate convenience with our [Intelligentsia Subscriptions](#), featuring Roaster’s Choice, Seasonal, and Espresso options with always-free shipping. Your perfect cup awaits.
+
+https://wanderlattes.com/?p=1249",1,1768894520.0,CoffeeTraveler,0,1.0,False
+1qhuqir,https://www.reddit.com/r/Pets/comments/1qhuqir/the_eye_cant_wait_surgery_fund_for_muffin/,The 'Eye' Can’t Wait: Surgery Fund for Muffin,"The 'Eye' Can’t Wait: Surgery Fund for Muffin
+
+Hey everyone, I’m reaching out for a bit of help for my furry best friend. 🐾
+
+I recently noticed a growth on Muffin’s eyelid. It’s starting to irritate their eye, and the vet needs to perform an exam and likely a surgery to remove it before it causes permanent damage to the cornea.
+
+As many of you know, vet bills can be unexpected and heavy. I’m trying to raise 100USD to cover the consultation and the procedure. Even the cost of a coffee ($5) helps us get closer to the goal.
+
+How to help:
+
+Dm I’ll share more info with documentation and request 
+
+If you can’t donate, please share this post! \\\[Dog's Name\\\] and I appreciate you so much. ❤️",2,1768894503.0,Pets,1,1.0,False
+1qhuqge,https://www.reddit.com/r/MomentumOne/comments/1qhuqge/the_dopamine_hack_that_makes_boring_tasks/,The DOPAMINE Hack That Makes Boring Tasks Addictive (Science-Based),"You know that feeling when you're sitting there, staring at a boring spreadsheet or a pile of dishes, and your brain is screaming at you to scroll TikTok instead? Yeah, that's not a willpower problem. That's a dopamine problem.
+
+I spent months digging through neuroscience research, podcasts with addiction experts, and books on behavioral psychology trying to crack this code. Why is it so damn easy to binge Netflix for 6 hours but impossible to sit through 30 minutes of studying? Turns out, your brain isn't broken. It's just been hijacked by things that give instant dopamine hits. But here's the kicker: you can reverse engineer that same mechanism to make boring tasks actually feel rewarding.
+
+This isn't some motivational fluff. This is about understanding how dopamine actually works and using it to your advantage.
+
+# Step 1: Understand Your Dopamine System Is Being Exploited
+
+Your brain releases dopamine when it anticipates a reward. Social media, junk food, porn, video games, they're all engineered to hijack this system by giving you instant, massive dopamine spikes. Do that enough times and suddenly real life tasks that require effort feel impossibly boring by comparison.
+
+Dr. Andrew Huberman explains this perfectly on his podcast. He's a Stanford neuroscientist who breaks down how modern tech has essentially rewired our reward systems. When you get used to massive dopamine hits from low effort activities, your baseline drops. That means even moderately interesting tasks now feel like torture.
+
+The problem isn't that boring tasks are boring. The problem is your dopamine baseline is in the gutter because you've been training your brain to expect slot machine style rewards for zero effort.
+
+# Step 2: Do a Dopamine Detox (But Not the Bullshit Kind)
+
+I'm not telling you to sit in a dark room for 24 hours. That's stupid. What you need is to cut out the highest dopamine activities for a set period so your baseline can reset.
+
+For one week, eliminate or drastically reduce:
+
+* Social media scrolling
+* Video games
+* Porn
+* Junk food binges
+* Mindless YouTube
+
+Replace them with lower stimulation activities like walking, reading actual books, or just sitting with your thoughts. Yeah, it'll feel uncomfortable as hell at first. That's the point. You're letting your dopamine receptors recover.
+
+After about 5-7 days, normal activities start feeling rewarding again. Suddenly that boring task doesn't seem as soul crushing because your brain isn't comparing it to the artificial high of Instagram.
+
+# Step 3: Stack Dopamine Triggers with Boring Tasks
+
+Here's where it gets interesting. You can literally condition your brain to release dopamine during boring tasks by pairing them with things you already enjoy.
+
+This is called temptation bundling and it's backed by research from [Dr. Katy Milkman](https://www.katymilkman.com/) at Wharton. The idea is simple: only allow yourself to do something you love while doing something you hate.
+
+Examples:
+
+* Only listen to your favorite podcast while doing dishes
+* Only drink your fancy coffee while answering emails
+* Only watch one episode of your show while on the treadmill
+
+Your brain starts associating the boring task with the dopamine hit from the thing you enjoy. Over time, the boring task itself starts triggering dopamine release because your brain has learned to anticipate the reward.
+
+# Step 4: Use the Power of Micro Rewards
+
+Your brain loves immediate feedback. That's why video games are so addictive, constant points, levels, achievements. You need to gamify your boring tasks the same way.
+
+Break tasks into tiny chunks and reward yourself after each one. Not with your phone. With something simple:
+
+* Check off a box
+* Move a token from one jar to another
+* Give yourself a literal gold star
+
+Sounds childish? Good. Your dopamine system doesn't care about being mature. It cares about patterns and rewards.
+
+The app Habitica does this perfectly. It turns your real life tasks into an RPG game where you level up a character by completing stuff. I'm not even a gamer but this thing made me actually excited to do laundry. Other good ones are Finch (you take care of a little bird by completing tasks) or even just a simple streak tracker.
+
+[BeFreed](https://www.befreed.ai/) is an AI personalized learning app that pulls from books, research papers, and expert talks to create custom audio podcasts and adaptive learning plans based on what you want to master. Built by Columbia grads and AI experts from Google, it lets you choose the length (10-minute summaries or 40-minute deep dives) and voice style, from deep and calm to energetic. The app also has a virtual coach called Freedia that answers questions mid-podcast and generates flashcards to help retain what matters. It's basically replaced mindless scrolling time with actual growth, perfect for fitting real learning into commutes or workouts without the brain fog.
+
+# Step 5: Manipulate Your Dopamine Release Timing
+
+This is advanced but incredibly powerful. Dopamine is released in anticipation of a reward, not just when you get it. If you can train your brain to anticipate success at the start of a boring task, you'll get a dopamine hit right when you need it most.
+
+Before starting a boring task, spend 30 seconds visualizing yourself completing it successfully and how good that'll feel. Be specific. Imagine closing the laptop after finishing the report, the relief, the satisfaction. Your brain starts releasing dopamine now based on that anticipated future reward.
+
+Dr. Huberman calls this ""self rewarding."" You're essentially tricking your dopamine system into thinking the reward is coming, which makes starting the task way easier.
+
+# Step 6: Create Artificial Deadlines and Stakes
+
+Dopamine also spikes when there's urgency or stakes involved. That's why you suddenly become productive the night before a deadline. You can manufacture this.
+
+Use apps like Stickk where you put real money on the line. Set a goal, attach a financial penalty if you don't complete it, and watch your motivation skyrocket. Or use Beeminder which tracks your goals and charges you if you go off track.
+
+The threat of loss is a powerful dopamine trigger. Your brain will work overtime to avoid that pain.
+
+# Step 7: Exercise Before Boring Tasks
+
+Physical exercise floods your brain with dopamine, endorphins, and other feel good chemicals. If you do even 10 minutes of intense movement before a boring task, you're essentially pre loading your brain with the neurochemicals it needs to focus and feel good.
+
+It doesn't have to be a full workout. Do 20 jumping jacks, sprint up some stairs, do pushups until you're breathing hard. Then immediately transition to your boring task while your brain is still high on exercise induced dopamine.
+
+# Step 8: The Aftermath Reward (Not What You Think)
+
+Most people reward themselves with the exact things that destroy their dopamine baseline. Finish studying? Time to scroll for an hour. That's counterproductive.
+
+Instead, reward yourself with dopamine sustaining activities:
+
+* A walk outside in sunlight
+* Calling a friend
+* Playing with a pet
+* Cooking a good meal
+
+These give you dopamine without the crash. They build your baseline up instead of draining it.
+
+Read ""Dopamine Nation"" by Dr. Anna Lembke if you want to go deep on this. She's a Stanford addiction psychiatrist who explains how our pursuit of pleasure is actually making us miserable. The book breaks down the pain pleasure balance in your brain and why chasing high dopamine hits makes everything else feel like shit. It completely changed how I think about rewards.
+
+The whole point is that boring tasks don't have to stay boring. Your brain is incredibly adaptable. If you understand the dopamine system and stop letting apps and algorithms control it, you can literally rewire yourself to find satisfaction in the things that actually matter.",0,1768894496.0,MomentumOne,0,0.5,False
+1qhupov,https://www.reddit.com/r/androiddev/comments/1qhupov/dev_i_hate_stressful_finance_apps_so_i_spent_a/,"[DEV] I hate stressful finance apps, so I spent a year building a ""Cozy"" tracker with interactive koi fish. Giving away 100 codes to celebrate launch!","https://preview.redd.it/57po1tlmjgeg1.jpg?width=2112&format=pjpg&auto=webp&s=4444736587a49ba3b1b044bc59ac50f54c128130
+
+https://preview.redd.it/ph4xecmmjgeg1.jpg?width=2544&format=pjpg&auto=webp&s=69ac5dc2d66e90724df62604c3a3c1d8a64d3a12
+
+https://preview.redd.it/gzvqfslmjgeg1.jpg?width=2112&format=pjpg&auto=webp&s=5fe1ed512d56bfdde6707563902dd4b96cb66c76
+
+https://preview.redd.it/9vjxk2pmjgeg1.jpg?width=2112&format=pjpg&auto=webp&s=9cd64259e3f9a3569b31e33cffd05c159f829715
+
+**Why I built a finance tracker that lives in a fish pond**
+
+I’ve tried dozens of expense trackers, and they all made me feel the same way: anxious. Opening a spreadsheet or a stark white app to log a coffee purchase felt like a chore, and the ""red numbers"" induced stress rather than mindfulness.
+
+I wanted to change the relationship I had with money logging. I wanted it to feel ""cozy.""
+
+**The Solution:**  
+I built **KoiLedger**. It’s a full-featured double-entry bookkeeping app, but visually, it's a calm interactive pond.
+
+* **The problem:** Transaction fatigue.
+* **The fix:** I added a FluidFishEngine (yes, that’s what I named the class) that renders interactive fish in the background. Logging an expense isn't just data entry; it's visiting your digital pet.
+* **Privacy First:** I learned early on that people (myself included) don't want their financial data in the cloud. I built this using **Dexie.js** so everything stays 100% local on your device. No servers, no tracking.
+
+**Lessons Learned:**  
+Building a ""calm"" app is surprisingly chaotic. Balancing a heavy React application with a Canvas-based physics engine on mobile devices was a nightmare. I learned that optimization isn't just about code speed; it's about battery life. I had to rewrite the rendering engine three times to ensure your battery doesn't drain while you're checking your budget.
+
+**How I built a localized Finance App using React, Capacitor & Canvas**
+
+I wanted to see if I could build a ""native-feeling"" finance app using web technologies without it feeling clunky. I built **KoiLedger** to solve my own need for a privacy-focused, offline-first budget tracker that wasn't boring.
+
+**Technical Challenges & Wins:**
+
+1. **State Management:** I used **Dexie.js** (IndexedDB wrapper) for the database. It allows for complex queries (like generating reports) entirely client-side.
+2. **The ""Fish"" Physics:** I wanted an interactive background. I implemented a custom verlet integration physics engine on an HTML5 Canvas. The challenge was making it performant (60fps) on mid-range Android devices while React was handling heavy DOM manipulation for the UI.
+3. **The Stack:** React, Tailwind, Recharts, and Capacitor to wrap it.
+
+It taught me that Hybrid apps have come a long way—you don't always need Kotlin/Swift to make something that feels smooth and professional.
+
+[https://play.google.com/store/apps/details?id=com.koiledger.app.pro&pcampaignid=web\_share](https://play.google.com/store/apps/details?id=com.koiledger.app.pro&pcampaignid=web_share)
+
+OR Scan
+
+https://preview.redd.it/den4qpbxigeg1.png?width=1000&format=png&auto=webp&s=20d25d8df1bbe37bb23176e59c41244f6cb79668
+
+\*DM for FREE PromoCode!",0,1768894421.0,androiddev,2,0.17,False
+1qhunlj,https://i.redd.it/u7mu0winigeg1.jpeg,"Hello,","
+New here... deleted old account and lost the password.  Now made a new account. Anyone interested to connect,  meet or even a coffee.. I m here..  ",1,1768894208.0,u_Pleasant_Extent224,0,1.0,True
+1qhunge,https://www.reddit.com/r/reviewmyshopify/comments/1qhunge/recently_updated_my_website/,Recently updated my website,"Hi,
+
+I own a coffee company focused on caffeine clarity and guidance.
+
+I've recently done a rather large update to my website including the home page, a caffeine quiz, guide, new blog post, etc. To be honest, I'm pretty proud of the site at the moment, but as such I know I'm too close to my creation to be objective about it.
+
+Can you give me some honest feedback on the state of the site? My goal is to go live with Meta and other paid advertising soon (I'm currently testing my first Google search ads), and want to make sure the site has a chance to convert when I get traffic to it.
+
+Anything that sticks out such as difficult journey, too much text / not enough, poor CTA, etc would be great feedback. 
+
+Thank you in advance
+
+[https://caffeinecontrol.coffee](https://caffeinecontrol.coffee)",1,1768894195.0,reviewmyshopify,2,1.0,False
+1qhumpb,https://i.redd.it/xpzgxsceigeg1.jpeg,"Looking to grab a drink, make real connections? 🩷","Looking for some like-minded friends here in the city!
+
+Love cute cocktail bars, classic restaurants (think Bar Sprezzatura or Original Joe's), and Thai food. I have a dog and I'm in a relationship, no kids. Vegetarian. 🌱 I'm ambitious and love being around people who are also working towards their goals or have reached them. I also tend to lean toward enjoying deeper conversations and connections.
+
+I'm into film photography, sewing, reading, and writing. 📖 Also: all things crafty (scrapbooking night anyone?) 
+
+If you vibe with any of this, please reach out! Would love to try new cocktail bars together or have a writing coffee shop date etc! ",4,1768894122.0,SFbitcheswithtaste,1,1.0,False
+1qhukmu,https://www.reddit.com/r/LoansAndHelp/comments/1qhukmu/the_eye_cant_wait_surgery_fund_for_muffin/,The 'Eye' Can’t Wait: Surgery Fund for Muffin,"Hey everyone, I’m reaching out for a bit of help for my furry best friend. 🐾
+
+I recently noticed a growth on Muffin’s eyelid. It’s starting to irritate their eye, and the vet needs to perform an exam and likely a surgery to remove it before it causes permanent damage to the cornea.
+
+As many of you know, vet bills can be unexpected and heavy. I’m trying to raise 100USD to cover the consultation and the procedure. Even the cost of a coffee ($5) helps us get closer to the goal.
+
+How to help:
+
+PayPal: anyaa67
+
+If you can’t donate, please share this post! \\\[Dog's Name\\\] and I appreciate you so much. ❤️",1,1768893917.0,LoansAndHelp,0,1.0,False
+1qhuk6q,https://www.reddit.com/r/UKroasters/comments/1qhuk6q/anyone_else_noticed_shrinkflation_now_in_the/,"Anyone else noticed shrinkflation now in the coffee world? Seen more and more UK roasters going from 250g to 200g and keeping prices same, or even a slight increase (mainly London). Yes I know the world is becoming increasingly more expensive, fair price etc. This is on top of increased postage.","I subscribe to gustatory, which I do think is reasonable value for the quality and that these are mainly not just UK roasters, however each month I also get a bag from a UK roaster ive not tried before. I was looking last night and so many now are over £20 for 200g. Sadly I don't have any local roasters where I can go an pick up a bag",9,1768893873.0,UKroasters,1,1.0,False
+1qhujtq,https://www.reddit.com/r/CoffeeTraveler/comments/1qhujtq/mastering_whole_bean_coffee_brew_better_every_day/,Mastering Whole Bean Coffee: Brew Better Every Day,"# Elevate Your Morning with Exceptional Whole Bean Coffee
+
+There's a certain magic in grinding whole coffee beans just before brewing. The air fills with an intoxicating aroma, a promise of the rich, nuanced cup to come. But not all whole beans are created equal. To truly experience coffee's potential, you need more than just a bag of beans; you need a story, a commitment to quality, and unparalleled freshness.
+
+At Intelligentsia Coffee, we've been pioneers in **Direct Trade** for over two decades. This means we cultivate deep, personal relationships with farmers, ensuring they receive premium prices for their meticulously grown crops. This isn't just about ethics; it's about accessing the most exceptional coffees on earth. And the journey doesn't end there. Our **Roast-to-Order** model guarantees your coffee is roasted precisely for you and shipped immediately. No sitting on shelves, just peak flavor delivered right to your door.
+
+Why choose Intelligentsia whole beans?
+
+*   **Unrivaled Freshness:** Our roast-to-order system means your coffee arrives at its flavor zenith, boasting a brighter acidity and more vibrant aromatics than anything pre-packaged.
+*   **Exceptional Quality & Ethics:** Through Direct Trade, we ensure sustainability at origin and secure beans that exhibit stunning clarity of flavor, from the bright citrus of an Ethiopian single origin to the syrupy dark chocolate notes of our legendary **Black Cat Espresso**.
+*   **A Superior Brewing Experience:** The inherent quality and freshness translate directly into a more satisfying, complex, and delicious cup, every single time.
+
+Ready to taste the difference? Explore our curated selection of **Direct Trade Single Origins** or let us surprise you with an **Intelligentsia Subscription**, featuring our Roaster's Choice, Seasonal, or Espresso options with always free shipping. Your perfect cup awaits.
+
+https://wanderlattes.com/?p=1247",1,1768893835.0,CoffeeTraveler,0,1.0,False
+1qhujbw,https://www.reddit.com/r/travel/comments/1qhujbw/dc_trip_food_mobility_and_specific_things_to_do/,"DC Trip - Food, Mobility, and Specific Things to Do Questions","Hello! Making a mid April trip to DC with my two 20-something kids who have both been previously but on school trips. I've never been. 
+
+  
+**1. Restaurants** \- We will be staying at the Intercontinental Willard so hoping for some really nice places to eat dinner around there (we can Uber if there's something special you recommend farther than a walk). Also would like some normal breakfast and lunch spots and coffee/pastry type recommendations. Not seafood people so anything else is good. 
+
+**2. Mobility** \- I'm working on getting back my mobility but I'm not sure how well I'll be doing by April. How hard is it to get a wheelchair at museums etc.? Is this something I need to take myself or rent while there? I don't bother with one at home because I can sit here whenever I need to. Dealing with a post knee surgery issue.
+
+**3. Specific Things to Do** \- We're obviously doing the major museums and tourist spots like Lincoln Memorial, etc., but I'm wondering what other things might be fun or interesting for them to do (they did kayaking there in middle school) but I mean other fun stops or interesting things. Son is very much into history and my daughter is into lighter things, beautiful spots, shopping, etc. I don't mind Ubering to somewhere within 30 minutes or so. I did get tickets to the Caps game, so we'll be doing that.
+
+Thank you!",1,1768893785.0,travel,0,1.0,False
+1qhuiy1,https://www.reddit.com/r/IndiaCoffee/comments/1qhuiy1/is_there_a_difference_between_v60_and_aeropress/,Is there a difference between v60 and aeropress filter?,"Recently I bought a pourover sample pack from blue tokai and I enjoyed it and now I'm thinking of ordering more coffee but I don't have any equipment and I don't want to spend any money on equipments.
+
+So I was thinking of making pour over coffee with filter paper and strainer. The issue is the shape of the filter. Aeropress filter would be the best choice instead of v60 for this setup as its flat. Idk anything about coffee or filter or its equipments, so do you guys think it will work?? Or any other ideas?",2,1768893747.0,IndiaCoffee,1,1.0,False
+1qhuisr,https://www.reddit.com/r/DaNang/comments/1qhuisr/here_for_a_month_and_looking_to_meet_up_with_some/,Here for a month and looking to meet up with some other gals to hang!,"I’m staying in Da Nang for the next month and I need some girl energy in my life, down for pretty much anything! Coworking, yoga, coffee, grabbing drinks on the beach, etc.. I’ve tried bumble BFF but it doesn’t seem to have a wide reach unfortunately. Would love to exchange instagrams or something so we both know we’re real people!! ",0,1768893732.0,DaNang,0,0.5,False
+1qhuija,https://www.reddit.com/r/IndianStreetBets/comments/1qhuija/looking_for_a_free_stock_scanner_i_will_teach_you/,Looking for a free stock scanner? I will teach you how to build one.,"I used to run generic scans too. Long lists, random charts, zero conviction. The issue wasn’t the tool. It was that I was just copying trending templates instead of defining my own logic.
+
+I recently created my setup on chartsmaze, you can use any other platform too, specifically for the Indian stock market, because it actually lets me build logic instead of just giving me a list of ""top gainers.""
+
+Here is what actually changed my hit rate.
+
+**1.⁠ ⁠Focusing on Relative Strength (RS)**, not just Price Most free tools just show percentage change. I set my ChartsMaze scanner to strictly filter for an **RS Rating range of 80–100.** If a stock isn't outperforming the general market, I don't want to see it. You can see in my layout that I am filtering for high RS leaders, not just random pumps. 
+
+
+
+https://preview.redd.it/dtjx8lg6ggeg1.jpg?width=3420&format=pjpg&auto=webp&s=9b0165b74588255b2e19090360e08f3024057a56
+
+ 
+
+
+
+https://preview.redd.it/bh7snecfggeg1.jpg?width=3420&format=pjpg&auto=webp&s=56263c8f18272e22b621a46f4bb424c975c670ab
+
+2.⁠ ⁠⁠**Mixing Technicals with Fundamentals** After using RS for filtering technically strong stocks, I layer it with QoQ EPS growth and EPS increasing for the past 2 quarters. Basically, if the chart looks good but the quarterly numbers are trash, the scanner hides it.
+
+https://preview.redd.it/ldzqwzxoggeg1.jpg?width=3420&format=pjpg&auto=webp&s=8c73cf25d563e0f4d1976eadf4adefcf8e48d415
+
+**3. Multi-Chart Layout** This one is underrated. Seeing dozens of stock charts together on a single screen changes how fast you can shortlist. Scanning 50 charts in 5 minutes is very different from opening them one by one. 
+
+ 
+
+https://preview.redd.it/4mrd2apqggeg1.jpg?width=1280&format=pjpg&auto=webp&s=041ec3f2fd8b6952aef4510373d88faa821906d0
+
+**The Reality Check** Any custom-created scanner won't give you ""stocks to buy."" It just forces you to be clear about *why* a stock is showing up.
+
+If you can’t explain your scan conditions, like why you need a specific P/E Range or FVG setup, no scanner is going to fix your entries.  
+",6,1768893705.0,IndianStreetBets,6,0.72,False
+1qhugp9,https://www.reddit.com/r/Advice/comments/1qhugp9/seeking_advice_from_women_about_a_work_crush/,Seeking advice from women about a work crush?,"There's this girl who's been working in my area last few months, and I have a crush on her. I have a gut feeling she has a crush on me too (comes with me just us for coffee runs when she doesn't drink coffee, more eye contact and body facing me compared to other male coworkers etc) but since we sit near each other and interact everyday I feel like it's too risky to actually ask her out, so my plan was to wait for one of us to change teams (our org is huge, teams are on different floors) or change company. I am looking to do either right now anyway (not because of her but for professional reasons), but will waiting like this cause the crush to fizzle out / die? ",1,1768893532.0,Advice,2,1.0,False
+1qhuglq,https://i.redd.it/hdzwc1ilggeg1.jpeg,How do you save money on a daily basis?,"I’ve been trying to get better at saving money, but it’s harder than I thought with rent, food, transport, and little daily expenses adding up fast. Even small things like coffee, snacks, or rides can eat up a lot over a month.
+
+Things like a cup of coffee can cost around 30,000–50,000 VND, lunch around 50,000–100,000 VND, and daily transport maybe 20,000–40,000 VND. It all adds up quickly, so I want to find ways to cut unnecessary spending without feeling deprived.
+
+Do you have tips for daily money-saving habits? Like meal prepping, cheaper transport options, budgeting apps, or even just small tricks to avoid overspending. I’d love to hear what works for you so I can actually put away some VND every month without feeling like I’m missing out.",1,1768893522.0,MoneyTalkVN,1,1.0,False
+1qhugfd,https://www.reddit.com/r/SwordAndSupperGame/comments/1qhugfd/booze_coffee_along_the_mountain_pass/,Booze & Coffee Along the Mountain Pass,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/SwordAndSupperGame/comments/1qhugfd),1,1768893506.0,SwordAndSupperGame,0,1.0,False
+1qhug71,https://www.reddit.com/r/dating_advice/comments/1qhug71/seeking_womens_advice_on_work_crush/,Seeking women's advice on work crush?,"There's this girl who's been working in my area last few months, and I have a crush on her. I have a gut feeling she has a crush on me too (comes with me just us for coffee runs when she doesn't drink coffee, more eye contact and body facing me compared to other male coworkers etc) but since we sit near each other and interact everyday I feel like it's too risky to actually ask her out, so my plan was to wait for one of us to change teams (our org is huge, teams are on different floors) or change company. I am looking to do either right now anyway (not because of her but for professional reasons), but will waiting like this cause the crush to fizzle out / die? ",1,1768893484.0,dating_advice,1,1.0,False
+1qhug1e,https://www.reddit.com/r/ProductHunters/comments/1qhug1e/upcoming_launch_i_built_a_saas_starter_kit_that/,"Upcoming Launch: I built a SaaS starter kit that runs on a $5 VPS because I got tired of the ""Vercel Tax""","Most SaaS boilerplates today have a hidden flaw: They lock you into a stack of expensive managed services.
+
+Between Vercel Pro ($20/mo), a managed database like Supabase ($25/mo), and an auth provider like Clerk, you are looking at a recurring burn rate of over $50/month before you have acquired a single paying customer.
+
+For a bootstrapped founder, that kills your runway. It forces you to monetize immediately or shut down.
+
+I decided to engineer a way out of this trap.
+
+https://preview.redd.it/5awiipkdggeg1.png?width=1920&format=png&auto=webp&s=e91ff8d23d3d9d2e8f0be0a9e6dc09a42b612330
+
+**Introducing: The Boring SaaS Starter Kit**
+
+I spent the last few months architecting a production-ready stack designed to run entirely on a single $5/month VPS (Hetzner or DigitalOcean).
+
+The goal was simple: Zero vendor lock-in. 100% ownership.
+
+**The Tech Stack:**
+
+1. Next.js 15 (Dockerized standalone build)
+2. SQLite (Running in WAL-mode for zero-latency queries)
+3. Litestream (Real-time streaming backups to S3, so data is never lost)
+4. Better-Auth (Self-hosted authentication)
+
+**Why support this launch?** If you believe that developers should own their infrastructure instead of renting it from VC-backed cloud monopolies, this project is for you. It enables you to host unlimited side projects on a single server for the price of a coffee.
+
+I am launching on Product Hunt this today.
+
+If you want to support the ""Cloud Exit"" movement, you can hit ""Notify me"" on the teaser page here:
+
+[The Boring SaaS](https://www.producthunt.com/products/the-boring-saas-starter-kit?utm_source=other&utm_medium=social)
+
+Happy to answer any questions about the architecture in the comments.",1,1768893469.0,ProductHunters,0,1.0,False
+1qhuf7z,https://www.reddit.com/r/PhR4Friends/comments/1qhuf7z/31_f4a_study_buddy/,31 [F4A] Study Buddy,"Hello 👋🏻 I’m a working student and since pagod din from work, hindi ako masyado nakaka aral sa bahay pag uwi kasi bigla akong aantukin 😭
+
+so here I am looking for someone na willing maging study buddy (we can look for coffee shops na late nagc-close kasi I only have time to study after work). Let’s struggle together hahaha
+
+preferably somewhere nearby like Makati or Taguig sana. Thank you!
+
+NOTE: Hopefully late 20s and above sana para more or less same phase of life and we can also talk about adulting kapag study break 😌 (no minors please) ",1,1768893392.0,PhR4Friends,0,0.67,False
+1qhuf55,https://i.redd.it/f35ux9j7ggeg1.png,"How is this area in Whittier, CA?",,0,1768893385.0,LARentals,1,0.5,False
+1qhueo3,https://www.reddit.com/gallery/1qhueo3,Bumble Profile Review,been trying to get back into the dating scene for a while since late last year. don’t have a lot of photos of myself smiling unfortunately.,0,1768893336.0,Bumble,1,0.5,False
+1qhue7j,https://www.reddit.com/r/u_MICHUPETUS/comments/1qhue7j/catnip_101_why_your_cat_loses_its_mind_and_then/,Catnip 101: Why Your Cat Loses Its Mind (and Then Pretends It Didn’t Happen),"https://preview.redd.it/ezzaesdtfgeg1.jpg?width=800&format=pjpg&auto=webp&s=d976c622001d263d647734ffc255dd70972647bf
+
+If you’ve ever seen a perfectly dignified cat suddenly roll on the floor like they’ve just discovered the meaning of life… congratulations, you’ve met **catnip**.
+
+Catnip (yes, it’s a real plant) is a member of the mint family. To humans, it smells mildly herbal and kind of fresh. To some cats? It’s apparently a full-blown spiritual experience.
+
+Most catnip products you’ll see are dried and crushed leaves, often stuffed into toys or sold loose. You can also buy catnip seeds and grow it yourself if you want to feel like a gardening overachiever. Fresh or dried, the effect is usually the same: chaos, joy, and zero dignity.
+
+# What Actually Happens When Cats Smell Catnip
+
+Here’s the funny part: **not all cats care**. About 50–70% of cats have a genetic sensitivity to catnip. If your cat sniffs it and walks away unimpressed, they’re not broken — they’re just immune.
+
+For cats who *are* sensitive, the reaction can include:
+
+* Face rubbing like they’ve found their soulmate
+* Rolling, flopping, and spinning on the floor
+* Zoomies, drooling, or intense staring into space
+* Then suddenly stopping and acting like nothing happened
+
+The whole thing usually lasts **5–15 minutes**, after which the cat becomes temporarily immune for a while. No addiction, no withdrawal, no hangover. Just vibes.
+
+And yes — big cats like lions and tigers also react to catnip. Imagine explaining that to a zoo vet.
+
+# Is Catnip Safe?
+
+Short answer: **yes**, when used properly.
+
+Catnip is non-addictive and generally harmless. It doesn’t sedate cats and doesn’t permanently change behavior. It’s basically the cat version of a strong cup of coffee mixed with pure joy.
+
+One important myth to clear up:  
+Catnip **does not “help cats vomit hairballs.”** That’s an old belief that isn’t supported by modern veterinary advice. Some cats may chew on fresh leaves, but hairball management is better handled with brushing and proper diet.
+
+# How to Use Catnip Without Overdoing It
+
+A little goes a long way. You don’t need much,a small pinch is plenty.
+
+Giving catnip too often can make it less exciting over time. Most people stick to **once or twice a week**, or save it for enrichment, playtime, or encouraging use of a new scratching post.
+
+If a cat eats too much catnip, they might get a mild stomach upset, so moderation is key. Think “sprinkle,” not “salad.”
+
+# Final Thoughts
+
+Catnip isn’t magic. It’s not necessary. But for the cats who love it, it’s pure entertainment — for them *and* for us.
+
+Few things in life are as funny as watching a cat completely lose control and then immediately pretend it never happened.
+
+Cats: no memory, no shame, no regrets.",1,1768893289.0,u_MICHUPETUS,0,1.0,False
+1qhud7a,https://www.reddit.com/r/PhR4Friends/comments/1qhud7a/30m4f_dinner_and_movie/,30[M4F] dinner and movie?,"I am once again sending a Herald out to everyone in the hopes of finding company for this evening! 
+
+I am planning to watch 28 years later bone temple (it's the last day to watch from what I've seen, unless tomorrow at 2:30 at sm Mega mall. yes very specific) and the choices are megamall at 5pm or rob mag at 8pm. 5 pm seems like a far shot so I'm down for rob mag. also dinner and coffee if we both got time to spare? 
+
+about me? I am a working professional who is currently raw dogging life and crashing out like the clans in tukkayid. I'm a geeky type who loves the galaxy far far away and the one who sits on the golden throne. 
+
+I play games like lots. and very talkative. 
+
+physical traits (if you look for that) is that I am lean, 5'8"" fair skinned (bit tanned due to work) wears glassess and has a few tats. 
+
+about you? hopefully geeky, please don't be younger than 25ish? and loves the 28 franchise! 
+
+that is all",1,1768893191.0,PhR4Friends,0,1.0,False
+1qhud4e,https://i.redd.it/fivk5s3lfgeg1.jpeg,Cafes vs libraries where do you actually get work done?,"I’ve been trying to figure out the best place to actually focus and get work done at uni. Libraries are quiet, but sometimes I get so bored that I just scroll on my phone instead of studying. Cafes have better vibes and coffee, but the noise, music, and people chatting can make it hard to concentrate.
+
+I’ve tried both, and honestly, it depends on the day and the subject. Some days a cozy cafe helps me power through assignments, and other days only the library’s silence keeps me productive.
+
+What about you guys? Do you actually get stuff done at cafes, or is it mostly just for the Instagram photos and snacks? Or is the library the only place you can survive study sessions?",3,1768893182.0,VietnamUni,0,1.0,False
+1qhucqu,https://www.reddit.com/r/u_Competitive-Set8316/comments/1qhucqu/what_foods_should_be_avoided_in_piles/,What Foods Should Be Avoided in Piles?,"https://preview.redd.it/2z8u8x7ffgeg1.jpg?width=1500&format=pjpg&auto=webp&s=7e2a7dd1915a0e5b1857af175f6d70caae6f1593
+
+Piles, also known as hemorrhoids, are swollen veins in the rectal or anal area that can cause pain, itching, burning, bleeding, and discomfort during bowel movements. While medication and lifestyle changes are important in managing piles, **diet plays a crucial role** in both relieving symptoms and preventing the condition from worsening.
+
+Many people unknowingly consume foods that aggravate piles by causing constipation, hard stools, irritation, or inflammation. Understanding **what foods to avoid in piles** can significantly reduce discomfort and speed up recovery. This blog explains in detail **which foods worsen piles and why avoiding them is essential**.
+
+# Why Diet Matters in Piles
+
+The primary cause of piles is excessive pressure on rectal veins, often due to constipation and straining during bowel movements. Certain foods make stools harder, slow digestion, or irritate the digestive tract. When this happens regularly, piles symptoms tend to worsen.
+
+A piles-friendly diet should:
+
+* Promote smooth bowel movements
+* Prevent constipation
+* Reduce irritation and inflammation
+* Support overall digestive health
+
+Avoiding the wrong foods is just as important as including the right ones.
+
+# Spicy and Hot Foods
+
+Spicy foods are one of the biggest triggers for piles discomfort. They irritate the digestive tract and can increase the burning sensation during bowel movements.
+
+**Foods to avoid include:**
+
+* Red chili and chili powder
+* Hot sauces
+* Spicy curries and gravies
+* Pepper-heavy dishes
+
+Spicy foods may not cause piles directly, but they can significantly worsen pain, itching, and inflammation, especially if piles are already present.
+
+# Fried and Oily Foods
+
+Deep-fried and oily foods are difficult to digest and often lead to constipation. They slow down digestion and reduce stool softness, increasing strain during bowel movements.
+
+**Avoid foods such as:**
+
+* Samosas, pakoras, puri
+* French fries and fried snacks
+* Oily fast food
+
+These foods also increase body heat, which can worsen piles symptoms.
+
+# Refined and Low-Fiber Foods
+
+Fiber is essential for soft stools and easy bowel movements. Foods made from refined flour lack fiber and contribute to constipation.
+
+**Avoid:**
+
+* White bread
+* White rice (excessive consumption)
+* Maida-based foods like cakes, biscuits, pastries, and noodles
+
+A diet low in fiber is one of the most common dietary reasons piles become chronic.
+
+# Processed and Junk Foods
+
+Processed foods are low in nutrients and fiber while being high in salt, unhealthy fats, and preservatives. They disturb digestion and slow bowel movements.
+
+**Foods to avoid include:**
+
+* Burgers, pizza, and instant foods
+* Packaged snacks and chips
+* Ready-to-eat meals
+
+Regular consumption of processed foods increases the risk of constipation and worsens piles symptoms.
+
+# Excess Dairy Products
+
+While dairy can be nutritious, excess consumption may cause constipation in some people, especially those who are lactose-sensitive.
+
+**Limit or avoid:**
+
+* Cheese
+* Ice cream
+* Full-fat milk and cream
+
+If you notice constipation after consuming dairy, it’s best to reduce intake during piles recovery.
+
+# Red Meat
+
+Red meat is heavy, low in fiber, and takes longer to digest. It can slow bowel movements and lead to harder stools.
+
+**Avoid or limit:**
+
+* Mutton
+* Beef
+* Pork
+
+Replacing red meat with lighter protein sources can help ease digestion and reduce strain.
+
+# Alcohol
+
+Alcohol dehydrates the body, which leads to harder stools and increased constipation. It also dilates blood vessels, potentially worsening swelling in piles.
+
+**Avoid:**
+
+* Beer
+* Wine
+* Whisky, rum, and other spirits
+
+Alcohol can interfere with healing and increase inflammation.
+
+# Excess Caffeinated Drinks
+
+Caffeine acts as a diuretic, increasing fluid loss from the body. When consumed in excess, it can contribute to dehydration and constipation.
+
+**Limit:**
+
+* Tea
+* Coffee
+* Energy drinks
+
+Moderate consumption may be acceptable, but excessive intake should be avoided during piles treatment.
+
+# Pickles and Fermented Spicy Foods
+
+Pickles and spicy fermented foods increase acidity and can irritate the anal region.
+
+**Avoid:**
+
+* Spicy pickles (achar)
+* Strong chutneys
+* Highly fermented spicy foods
+
+These foods can intensify burning and discomfort during bowel movements.
+
+# Sugary Foods and Sweets
+
+Excess sugar can disturb digestion and contribute to inflammation.
+
+**Limit:**
+
+* Sweets and desserts
+* Chocolates
+* Sugary beverages
+
+A high-sugar diet may also contribute to weight gain, increasing pressure on the rectal veins.
+
+# Why Avoiding These Foods Helps in Piles
+
+Avoiding trigger foods helps by:
+
+* Preventing constipation and hard stools
+* Reducing straining during bowel movements
+* Lowering irritation and inflammation
+* Supporting faster healing
+* Preventing recurrence of piles  
+
+Dietary control alone cannot cure piles, but it plays a powerful supportive role in treatment and recovery.
+
+# What to Do Along with Avoiding These Foods
+
+For better results, dietary restrictions should be combined with healthy habits such as:
+
+* Drinking plenty of water
+* Eating fiber-rich fruits and vegetables
+* Including whole grains
+* Avoiding long sitting hours
+* Maintaining physical activity
+
+These steps improve digestion and reduce pressure on rectal veins.
+
+# Final Thoughts
+
+Piles can be painful and disruptive, but simple dietary changes can make a significant difference. Knowing **what foods should be avoided in piles** helps reduce symptoms, prevent complications, and support long-term recovery. Avoiding spicy, fried, processed, and low-fiber foods while adopting a digestion-friendly diet allows the body to heal naturally.
+
+Consistency is key. When the right food choices are followed regularly, piles symptoms often reduce noticeably, and the risk of recurrence becomes much lower.
+
+",1,1768893147.0,u_Competitive-Set8316,0,1.0,False
+1qhuc2a,https://www.reddit.com/r/vitalsvault/comments/1qhuc2a/first_time_doing_labs_can_someone_sanitycheck_my/,First time doing labs. Can someone sanity-check my prep plan?,"Appointment tomorrow morning.
+
+Plan: no food after 8pm, water only, no coffee.
+
+Questions:
+
+Can I take my multivitamin?
+
+Can I work out tonight or should I skip?
+
+Is black coffee truly a no-go?
+
+I really don’t want to skew results and have to redo it.",1,1768893075.0,vitalsvault,1,1.0,False
+1qhuagn,https://i.redd.it/x8patptsegeg1.jpeg,Best dog-friendly cafes in Malaysia?,"I’ve been wanting to take my dog out more often, and a dog-friendly cafe day sounds like the perfect weekend plan! But I’m not sure where the best spots are that actually welcome pups and have good vibes for humans too.
+
+So far I’ve heard about a few places in KL, Penang, and Johor where dogs are welcome, but I’m sure there are more hidden gems out there. I’m especially curious about cafes with outdoor seating, treats for dogs, water bowls, or even mini play areas anything that makes the experience enjoyable for both dogs and owners.
+
+Where have you taken your fur babies for a chill coffee or snack? Which dog-friendly spots in Malaysia would you actually recommend good atmosphere, friendly staff, and safe for pets? Photos and little reviews would be awesome too!
+
+Looking forward to building a list and maybe planning a pup cafe crawl sometime!",1,1768892917.0,DogsofMY,0,1.0,False
+1qhuaf7,https://i.redd.it/pnaxp13tegeg1.jpeg,Bored as fuck!,Any writers feel free to DM and entertain my brain over this cup of coffee!,8,1768892913.0,HandsomeHomies,4,1.0,False
+1qhu8qk,https://i.redd.it/vosmrrqaegeg1.jpeg,(My first Coffee painting) how can I improve the coloring?,,1,1768892745.0,AnimeSketch,1,1.0,False
+1qhu6w3,https://www.reddit.com/r/pourover/comments/1qhu6w3/why_do_coffee_grinders_get_terrible_online_reviews/,Why do coffee grinders get terrible online reviews?,"I’m looking to buy a Baratza Encore grinder for my pourover and french press brews, and while I see it frequently recommended on reddit and in review articles, it gets terrible reviews on Amazon and other websites, with many complaining of it jamming, breaking down constantly, and being finicky overall. 
+
+Is there a reason for this? Should I trust these reviews and think twice about getting one?",1,1768892561.0,pourover,5,1.0,False
+1qhu6vh,https://www.reddit.com/r/amiwrong/comments/1qhu6vh/aiw_for_quitting_my_nanny_job_on_the_spot_after_i/,AIW for quitting my nanny job on the spot after I found a hidden camera where I breastfeed my baby,"
+Im a young mom 21f to my 8 month old daughter and I recently started nannying again because I needed the income. I found a family in my neighborhood through a childcare site and even though there were some red flags from the start I took the job because it was close and I needed the money.
+
+The mom was weird from the beginning. She refused to do a phone interview and insisted on meeting in person at a school instead of a coffee shop. She showed up late dressed like she just rolled out of bed and gave off a very controlling vibe. She wanted to pay me under the table and refused to sign any kind of contract because she didnt want paper trails. I shouldve walked away right then but I didnt.
+
+During our interview I specifically asked about cameras because I bring my daughter with me and I breastfeed her throughout the day. She told me she only had two cameras both in the kids rooms and nowhere else. I was fine with that.
+
+But almost immediately things felt off. She would make comments about stuff she shouldnt have known. Like shed mention that I forgot to wash fruit I served the kids or shed bring up a snack I packed for my daughter that I never left at her house. She knew I use voice to text because of my dyslexia even though I never told her. It became obvious she was watching me somehow but I didnt have proof.
+
+On top of that she kept piling on extra chores that werent part of the job. I was supposed to be watching three kids but she expected me to deep clean the house while doing it. Her oldest would say weird stuff too like repeating things her mom clearly said about me being forgetful or not doing things right.
+
+Yesterday everything came to a head. I was feeding my daughter before leaving and I noticed the alexa in the room kept flashing green every time I talked. I looked it up and apparently that means someone is listening in. So I started looking around the room and I found a camera hidden inside an open purse on a shelf. Pointed directly at the chair where I sit to breastfeed.
+
+I felt sick. I grabbed my baby packed our stuff and left immediately. I didnt finish the chores I was in the middle of and I didnt wait for her to get home. I just left and texted her later that I was done and wouldnt be coming back.
+
+She. Said I was unprofessional and abandoned her kids and that she was going to have to miss work because of me. She said I owed her two weeks notice at minimum and that quitting without warning was selfish and childish. 
+
+I told her I found the camera and that she lied to me and violated my privacy and shes lucky Im not doing more than just quitting. She said it was just a nanny cam and that its her right to have cameras in her own home and I was being dramatic.
+
+
+AIW for walking out with no warning?",33,1768892559.0,amiwrong,16,0.7,False
+1qhu6g2,https://www.reddit.com/r/exmormon/comments/1qhu6g2/no_longer_mormon_at_heart_but_still_attending/,No longer Mormon at heart but still attending BYUI online,"I feel a bit silly posting here as I feel like I’m just another story that is likely very similar to many others in this subreddit. But I need to get this off my chest as I feel like it’s a rock I’m carrying underwater. 
+
+To summarize my life in the church, I (26M) was born and raised in it with active parents. My mom was baptized when she was 18 but she pretty much lived her life before that like she was a member anyways so both my parents basically grew up in the church. I did all the usual things like Boy Scouts, young mens activities, baptized a friend at 16 (who left the church not even 2 years later), the whole deal. My group of friends were not members but they were very respectful (if not annoyed) at my requests to keep swearing at a minimum and to generally stay positive (I was kind of annoying in that way looking back on it). I ended up serving a mission after a semester of college and had several moments where I thought to myself “do I even believe in God?” But of course I told no one about that because “a missionary should be faithful.” I served the full 2 years, came home right before COVID shut the world down and was still somehow married by August 2020. 
+
+Now onto my story of losing my faith and my current predicament:
+
+When my wife and I were able to move out of her parents place and into our own in January 2021 I quickly found that I had no motivation to go to church. My wife wouldn’t go often just due to sleeping in but I would be up, sometimes even dressed and ready to walk out the door to church but I couldn’t bring myself to do it. I think I went about 5 times in the 18 months we lived in that apartment. I never really knew why beyond just recognizing the anxiety I felt about it. It was in that time I also loosened up on typical Mormon no-no’s like working and shopping on Sundays. I felt a bit guilty, sure, but ultimately didn’t care. 
+
+To cut ahead a bit, we moved into my parent’s house to save money and have been there for 4 years now. I started going back to school at some point but decided to take it slow as I was also working full time. Well, BYUI started slimming their online offerings as I made this move so my timeline to finish my degree was moved a lot closer, forcing me to start taking classes full time while also working full time. At some point in 2024 my wife made certain moves to get a temple recommend and after fighting her ass off, was successful. I was with her during temple prep lessons with the missionaries, stake leaders, my parents and others as we got ready for her to go to the temple for her endowments and for us to be sealed the following week. 
+
+She went through the temple and hated it. She thought it was so strange and found that the garments caused a lot of chaffing and other issues for her and didn’t want to wear them anymore but now felt like she would be a sinner and damned if she didn’t. She rhetorically asked me, “how the hell is it right that a group of old men decide what underwear I and other women have to wear when they dont even consult not listen to the advice of women in the matter?” In that moment I felt stupid and ashamed how I had never even considered that before. I immediately agreed it wasn’t right but somehow we still found ourselves getting sealed the next week. All things considered, the day of our sealing was actually very nice and was pretty much the only time we felt okay leading up to it, as well as afterward. 
+
+See, her question and my realization of oversight made me determined to ask discover and ask questions I hadn’t allowed myself to ask before. Eventually I found myself back to the question I hadn’t let myself really figure out on my mission: “Do I even believe in God?”
+
+I’ve come to find that the short answer is that I probably don’t, and that of course also translates to me not believing any truth claim the church makes. 
+
+So I stand in my predicament which is that I’m currently attending BYUI, most of the way through my degree and realizing that most of what I have may not transfer to another school. At this point I don’t feel any amount of guilt attending BYUI while also not paying tithing, but I know I’ll need at least one more ecclesiastical endorsement before the time I graduate and **I don’t know if my soul can take faking faith anymore.** 
+
+My hope is that when we move into our own place in May that I can sort of go under the radar of the new ward, but honestly I just want to be done pretending I’m one of them. So, how delusional am I in potentially riding this degree at BYUI out? Should I more seriously pursue transferring?
+
+—————
+
+—-Extra info for those interested:
+
+\* As silly as it feels talking about, I tested the waters on coffee at one point and honestly it’s not my thing. Maybe I just need something better than Starbucks
+
+\*  On our 5 year anniversary trip last year the AirBnB host left us a bottle of cheap Chardonnay. We both decided to try it. Truly horrid, but I expected that from a $5 bottle of wine (I did look up and confirm the price out of curiosity). 
+
+\* The other day at a game night with some work friends, the host offered us a drink at some point. I hesitated but ultimately said no. My wife nonchalantly texted me, affirming that if I did want one she wouldn’t judge me. We talked on the way home and officially made the decision we would walk away from the church as soon as we are living on our own even though we don’t have faith in it anymore. ",3,1768892518.0,exmormon,3,1.0,False
+1qhu6fv,https://www.reddit.com/r/HRUnfilteredd/comments/1qhu6fv/the_ac_broke_so_they_called_hr/,The AC Broke So They Called HR,"The AC stopped working on our floor. Guess who everyone called?
+
+Not facilities. Not admin. HR.
+
+Can you raise a ticket? Can you follow up? Can you speak to someone?
+
+Meanwhile, I was Handling a sensitive exit, mediating a conflict, closing payroll queries, somewhere along the way, HR became the default problem sink.
+
+Printer not working? HR.  
+Coffee machine broken? HR.  
+Bad mood? Definitely HR.   
+It’s funny until it isn’t.
+
+HR isn’t “low level.” HR is low visibility & high responsibility.
+
+Would love to hear in your workplace, what’s the most non-HR thing HR is expected to handle?
+
+Cause I can see somewhere along the way, the people role starts slipping into admin by default.",1,1768892517.0,HRUnfilteredd,0,1.0,False
+1qhu4kz,https://www.reddit.com/r/LemonadeStandPodcast/comments/1qhu4kz/aimen_is_a_bit_gay/,Aimen is a bit gay,"I got 🍃 while listening to Lemonade Tycoon, so here’s an LS-ified version of Ice Cube’s, “It Was A Good Day.”
+
+Just wakin' up in the mornin' gotta thank Doug
+
+I don't know but these (Coffee) Cows have a lil chub
+
+No barkin' from the stream, some Liquid D,
+
+And Aimen got to finally become a Swede!
+
+(Damn)
+
+I got my cam on, but didn't stream shout,
+
+Finally got a chat from a chud I wanna kick out
+
+(Whassup?)
+
+Hooked it up for later as I hit the do'
+
+Thinkin' will I stream another twenty-fo'
+
+   I gotta go 'cause I got me a snow-blast
+
+And if I hit the switch, I can make the pod-cast
+
+Had to stop, at a red light
+
+Lookin' in my mirror, not a Yardman in sight
+
+And everything is alright
+
+I got a girl for Aimen, ‘her complexion’s all white
+
+   Called up the homies and I'm askin' y'all
+
+Which Yard, are y'all playin' some Nick Ball?
+
+Get me on the cam and I'm trouble
+
+Last week fucked around and popped the A.I. Bubble
+
+Cookin' lol-cows everyway like B.K.
+
+I can't believe, Aimen is a bit gay.",0,1768892345.0,LemonadeStandPodcast,0,0.5,False
+1qhu3xl,https://www.reddit.com/r/TwoXPreppers/comments/1qhu3xl/winter_weather_checklist_for_ice_storm_in/,Winter Weather Checklist for Ice Storm in Southeast,"Quick checklist/suggestions:
+
+**WATER-** 1 Gallon per Day per Person and/or pets for at least 5-7 days
+
+Need extra water for flushing toilets if water goes out. Or get  
+a **5 Gallon Bucket with kitty litter f**or emergency toilet
+
+**Non perishable food-**
+
+**Fruits -** Apple, orange, banana, mandarins, grapes
+
+**Crackers -** Peanut butter and cheese, peanut butter on ritz, plain crackers etc
+
+**Bread/tortillas**
+
+**Canned - Hams, chicken, tuna, chef boyardee, ramen, soup**
+
+\*\*instant coffee-\*\*mix with a small amount of cold water first keeps it from being bitter
+
+Hot chocolate/Yohoos/Capri Sun/Koolaid
+
+**Powerade/Gatorade/liquid iv**
+
+**10 day supply of medication**
+
+**a way to prepare food - Blackstone, camp stove,**
+
+**Gloves, toboggan**
+
+**Emergency foil blankets**
+
+**HotHands Hand warmers/Thermacare wraps**
+
+**First Aid supplies especially for bleeding**
+
+**—- Ladies please get your female items you may need before this weekend one box to many is better than none.**   
+
+
+**Batteries for everything**
+
+**power banks for phones**
+
+**Gas for Generator if you have one**
+
+**battery operated lanterns/oil lamps**
+
+**Tarps and plastic**
+
+**Get Chainsaws ready if you have them, axes too**
+
+**Hope this helps**",7,1768892283.0,TwoXPreppers,8,1.0,False
+1qhu38n,https://www.reddit.com/r/Advice/comments/1qhu38n/about_my_date/,About my date,"I (21M) need advice on my coworker (21F) who works with me on vacations on texting.
+
+I (21)M asked a girl (21)F out,but she wont be in town for three months due to college..We have talked few times personally and on the last day i asked her out if she wanna go out for coffee next time when she is in town..She said okay and i asked for her instagram And i got her instagram..I texted her saying we will discuss about the coffee when she is back in town and she replied to that one positively and  i ended  the convo perfectly.It was a short chat but respectful.Should i text her during this time..Coz we dont know each other that much i talked with her few times and all those times she seems intrested,like when i stand somewhere she will come stand next me, glanzes at me,smiles.But after asking her out she seemed shy and we didnt talked like we talked before that.She seems positive and responded in a positive  way for my coffee..The problem is i dont know if i should text her again and be in touch.The only connection we have is from by seeing each other and working together a few times.And we only talked couple times.I am confused about talking,What if she wanted me to text her,or if i do will that be awkard.
+
+TL;DR
+
+I like my coworker who works on vacations and now she is in college before leaving for college i asked her out for a coffee,for the next time she is back in town..She said okay.l and responded well.Should i text her.She gave me her insagram when i asked her out.",3,1768892214.0,Advice,7,1.0,False
+1qhu1d4,https://www.reddit.com/r/CastleTV/comments/1qhu1d4/season_5_ep_7_swan_song/,Season 5 EP 7 Swan Song,"I forgot how funny this episode was. This is when there's a documentary film crew following a band. When there's a killing within the band, they are able to get permission to continue filming. Beckett is beyond annoyed but everyone else starts playing to the camera. 
+
+My favorite part is Ryan noticing that Espo has changed into a tighter sweater (as he showing off his arm muscles for the camera) and Espo has to play it off as a spilled coffee accident. ",6,1768892037.0,CastleTV,4,1.0,False
+1qhu180,https://www.reddit.com/gallery/1qhu180,Makuta Teridax V Mata Nui.,"Recently completed an old project of mine, to create a moc of Makuta Teridax but I didn't have the Krakahn so I subbed it for the silver and black Makuta from the Phatoka/Mistika wave. I also modified my older Moc of Mata Nui slightly, changed his weapons and how his elbows attached to his biceps. I have my Self Moc Rohan for scale (though he is the shortest out of my Toa). For the giggles I threw on Vezon's head onto Makuta since I had it. Looks pretty cool, though that's probably bc I used some of his parts for the shins and feet. Also had a mishap when carrying them over to my coffee table, good thing they're made of Legos over a traditional action figure!
+
+(ps, if anyone knows the in-lore reason I made Makuta Teridax slightly taller than Mata Nui, well done",1,1768892024.0,bioniclelego,0,0.99,False
+1qhu0vb,https://www.reddit.com/r/Market76/comments/1qhu0vb/w_canned_coffee_h_leaders_ll8s_or_mods/,"W: Canned Coffee H: Leaders, LL8’s or mods",,1,1768891989.0,Market76,1,1.0,False
+1qhu0v9,https://www.reddit.com/gallery/1qhu0v9,A very unique coffee-colored CHANEL Classic 11.12 Handbag.,"Coffee brown. 
+
+Size: 15.5 x 25.5 x 6.5cm/6.1 x 10 x 2.6in. 
+
+Lambskin & Light gold-Tone Metal",1,1768891989.0,YutuluReps,0,1.0,False
+1qhu02t,https://v.redd.it/7qvi2ei2bgeg1,Unboxing BlueTokai Nano X Kalledevarapura Estate,"Box khulte hi mehsoos hua kuch khaas,
+
+Nano X Kalledevarapura Estate —
+
+fermentation edit, ek naya coffee ehsaas.",3,1768891918.0,IndiaCoffee,1,0.72,False
+1qhtzvy,https://www.reddit.com/r/u_sanjaypancholi/comments/1qhtzvy/dandruff_control_without_medicines_part_2/,Dandruff Control Without Medicines - PART 2,"# Food and Drink Habits That Affect Dandruff
+
+Hello everyone.  
+In the first part, we discussed lifestyle tips that help control dandruff. We talked about daily habits and small mistakes that can increase dandruff without us realizing it.
+
+In this second part of dandruff control, we will focus on **food and drinks**. We will clearly discuss:
+
+* Which foods can increase dandruff
+* Which foods should be avoided
+* Which foods can help reduce dandruff naturally
+
+This entire section is about how your daily eating habits directly affect scalp health and dandruff.
+
+# Foods That Increase Dandruff
+
+# 1. Processed and Packaged Foods
+
+The first and most important category is **processed foods**.
+
+These are foods that come in packets and contain preservatives, chemicals, and artificial ingredients. Regular consumption of such foods increases dandruff production and raises the risk of seborrheic dermatitis.
+
+Many people notice that after holidays, parties, or frequent outside food consumption, dandruff suddenly increases in the following days or weeks. This is not a coincidence. Several scientific studies have shown a strong connection between processed foods and scalp inflammation.
+
+To control dandruff, processed foods should be avoided as much as possible.
+
+# 2. Excess Sugar Intake
+
+Sugar has a direct impact on scalp health.
+
+High sugar intake increases:
+
+* Sebum production
+* Body weight
+* Fungal growth on the scalp
+
+The fungus responsible for dandruff grows faster when excess sugar is present in the body. This leads to more flakes, itching, and irritation.
+
+Reducing sugar intake is one of the most effective dietary changes for dandruff control.
+
+# 3. Excess Carbohydrates
+
+Carbohydrates are a regular part of our diet, but excess intake can worsen dandruff.
+
+High consumption of foods like wheat and rice increases blood sugar levels. Increased sugar leads to increased sebum production, which again supports fungal growth on the scalp.
+
+What helps:
+
+* Reduce portion size of carbohydrates
+* Avoid overeating wheat and rice
+* Increase protein intake
+* Eat more green vegetables
+
+Balancing carbohydrates instead of eliminating them completely is the key.
+
+# 4. Other Foods That Can Worsen Dandruff
+
+Some commonly consumed foods can increase dandruff when taken in excess, such as:
+
+* Potatoes
+* Fried foods
+* Foods cooked in excess oil or ghee
+* Dairy products like paneer and butter
+* Chocolates, sweets, cakes, and desserts
+
+Frequent and excessive consumption of these foods increases scalp oiliness and dandruff production.
+
+# Strict No Foods for Dandruff Control
+
+# 1. Alcohol
+
+Alcohol should be strictly avoided if you are trying to control dandruff.
+
+Alcohol causes fat deposition in the body and scalp. This increases oiliness, which directly supports dandruff-producing fungus.
+
+Alcohol also affects sleep quality and immunity, both of which play a role in scalp health.
+
+# 2. Smoking
+
+Smoking is a big no for dandruff control.
+
+Smoking:
+
+* Disturbs immunity
+* Affects digestion
+* Disrupts sleep
+* Increases sebum production
+
+All these factors together worsen dandruff and scalp inflammation.
+
+# 3. Excess Caffeine and Energy Drinks
+
+Excess consumption of coffee, tea, energy drinks, or caffeine-based beverages can disturb sleep and increase glucose levels in the body.
+
+Poor sleep and high glucose levels again increase sebum production, leading to more dandruff.
+
+Moderation is essential.
+
+# Foods That Help Reduce Dandruff
+
+Now let us talk about what you **should eat** to help control dandruff naturally.
+
+# 1. Green Vegetables
+
+Green vegetables should be a regular part of your diet.
+
+One of the most beneficial vegetables is **broccoli**. Broccoli helps reduce glucose levels in the body. Lower glucose leads to reduced sebum production, which helps control dandruff.
+
+# 2. Seeds Like Flaxseed and Chia Seeds
+
+Flaxseeds and chia seeds are small in size but play a big role in scalp health.
+
+They have anti-inflammatory properties and help stabilize immunity. In many cases, dandruff increases due to immune imbalance.
+
+Regular consumption of these seeds, either daily or weekly, can help control dandruff and dermatitis.
+
+# 3. Increase Protein Intake
+
+Adequate protein intake is important for scalp and hair health.
+
+Include protein-rich foods regularly in your meals to support scalp repair and reduce inflammation.
+
+# 4. Peanuts, Cinnamon, and Black Pepper
+
+Peanuts contain anti-inflammatory properties that support immune balance.
+
+Cinnamon helps reduce inflammation and improves immunity.
+
+Black pepper contains minerals like selenium that help control fungal growth on the scalp.
+
+Including these in small quantities can support dandruff control.
+
+# Final Message
+
+In this part, we discussed:
+
+* Food habits that increase dandruff
+* Foods that should be avoided
+* Foods that help reduce dandruff naturally
+
+All these methods focus only on **lifestyle and dietary changes**, without any medicines.
+
+Dandruff often increases during winter, and many people want to control it without medication. This approach is for those who want long-term control through daily habits.
+
+If you feel something important was missed, you can share it in the comments. Topics related to medications will be discussed separately in the next section or video.
+
+Thank you for reading.
+
+FOLLOW us on social media for more guidance
+
+YOUTUBE -
+
+[https://www.youtube.com/@reehairskin](https://www.youtube.com/@reehairskin)
+
+INSTAGRAM -
+
+Reehairskin - [https://www.instagram.com/reehairskin?igsh=cGhyY3NldTg4OWh5](https://www.instagram.com/reehairskin?igsh=cGhyY3NldTg4OWh5)
+
+Sanjaypancholi - [https://www.instagram.com/sanjaypancholi\_rhs?igsh=MTZ2cG81dGlqdjN2bQ==](https://www.instagram.com/sanjaypancholi_rhs?igsh=MTZ2cG81dGlqdjN2bQ==)",1,1768891900.0,u_sanjaypancholi,0,1.0,False
+1qhtzrn,https://www.reddit.com/gallery/1qhtzrn,Gunners own community admits he was sent into Austin Howds live.,"Maybe before sending a community member to reddit, you send one with a little more sense. This is Bernies 1st time here so he has no idea all the posts that have already been posted and deleted over the months. A little late to the game.  Anyhow it confirms what we've been saying. ",2,1768891888.0,TikTokdrama,4,1.0,False
+1qhtzf5,https://www.reddit.com/gallery/1qhtzf5,"Скажите пожалуйста, насколько я конченый человек",,14,1768891854.0,TheRevolutionSub,42,0.73,False
+1qhtz0d,https://www.reddit.com/r/exmormon/comments/1qhtz0d/my_experience_with_the_mormons_and_please_give_me/,My experience with the Mormons and please give me advice on how to get these people to leave me alone if you can,"Hi, I'm actually really afraid right now.
+
+I was at Target sitting in my car, and these girls pulled up next to me and signaled for me to roll down my window, so I did. They asked me questions about church, and I told them I went to a Slavic Pentecostal church. They asked if I wanted to visit their church, and like a dummy, I said, ""Which church?,"" and they said Mormon. I should've known right there that they were being deceptive since they didn't come right out and say they were Mormons. Anyway, they tell me where it is and ask for my number to send me directions. So, like an idiot I gave them my number, and they sent me the address.  
+
+The next day, I go to the Mormon church. The parking lot is almost empty, and there is the stereotypical missionary you see standing outside with an unnaturally large smile. I say, ""Whatever, I'm Christian they're Christian, and just because I'm visiting doesn't mean I plan to convert."" So, I sit there, and it's the worst service ever. It's dry, and one of the guys sitting up on the stage looks like he's going to fall asleep. After an hour of this crap it ends, and they ask me if I want to go to the classrooms for the next hour. I say, ""sure"". I might as well see the whole thing. So, I get back there, and it's me, the missionaries, and four young adults who say they're around 18. We go through Genesis, and during this, it strikes me halfway through that everyone there is either a missionary, and me and the other young people are not Mormons. The young girl who did most of the talking said they went to the Slavic Pentecostal Church as well, and they're all Ukrainian. I speak up, and I say, ""I go there too, and I am also Ukrainian. So all five of us were of the same nationality and went to the same church. I asked them why they came to the Mormon church, and they said they were approached by the two girls at Target (just like me) and were invited to go. I told the group that the same thing happened to me. 
+
+What scared me the most was that they separated us, and they asked me what I do for work, where I live, and about my ethnic background and the Pentecostal church. Then they asked me if I ""felt the Holy Spirit."" I was so scared that I just said ""yes"" even though I didn't. I don't know why I lied, but I've just never felt so uncomfortable in all my life. 
+
+They had lunch afterward, and the food was gross and cold. The drink was just water. Me and this girl from my church asked them a few questions about what they do, believe in, and I asked why they told me they can drink Red Bull but not coffee. They gave me some dumb answe about how Red Bull didn't exist at the time of Joseph Smith, so it was never made impermissible or something like that. The very talkitive girl from my church was also surprised about that, too. 
+
+Anyway, I leave. They chased after me and asked if I felt the spirit again. And I stupidly just said ""yes"" because I just wanted to leave. 
+
+Anyway, I went to my own church that evening  and loved it like always. And I go to bed just being thankful I'm not Mormon lol
+
+The next day, I see a text asking if they can talk to me during the week more. I told them that I really love my church and that I appreciate their invite, but I'm not interested in becoming Mormon.  I told them they could go to our church if they liked, but that I didn't want to continue. 
+
+Then they say, (paraphrased) ""maybe we'll check it out, but we KNOW you felt the spirit, and we want to talk to you more."" Honestly, the text was so long that I'm not going to post it all.
+
+Then I got angry, and I told them that they are a cult. That Joseph Smith is a false prophet. That all they do is manipulate vulnerable people and that I could see that no one in that church were actual members. They were either missionaries or people who were invited (I noticed this because a few of the other people I saw in the pews were being asked about what they thought about the service. Only two families looked like they were members). I also told them that this isn't a real church. That the only thing I felt was being creeped out. I told them that it would be best for them to leave this false belief and that the book of Mormon is a lie. And I have no clue what they said next because I blocked them. 
+
+I'm scared because they didn't get the hint when I told them I loved my church and that I wasn't interested. What if they message me with another number? What if they find out my full name? My full name is associated with my phone account, and its pretty unique, especially in the United States. I'm worried they'll find out where I live or harass me at work (I told them the company name because I'm stupid, it is not open to the public, but I'm worried that like what if there's a Mormon there are something who will track me down and continue this stalking). 
+
+I have a very high paying job, and of course being a dummy, I told them that. I was wearing a very expensive watch and I drive a nice car. Which is why I think they were more interested in me than the younger ones who were just out if high school. This makes me even more afraid because I know they want me for my money.
+
+I'm actually tall and well built. Nothing and no one really makes me feel afraid. I really like to think that I'm strong and always I'm very confident. However, these people have me almost throwing up because of anxiety. I just want to forget it happened and move on but I'm afraid it won't happen. I feel like this isn't over and they'll keep harassing me. Possibly even stalk me. 
+
+More importantly, I'm afraid for those young people that go to my church. If they're harassing an absolute unit like myself and trying to manipulate me. What could they be possibly doing to those kids? I knew one boy couldn't speak English at all. The young girl who did most of the talking wanted to really be their friend. And I'm scared they'll be manipulated into becoming Mormons. I felt nothing but pure evil and manipulation from these Mormons. I don't want to see those young kids get tricked into becoming Mormons. The church I go to is huge, and they said they go at different times than I go anyway. It's not like I could find them very easily. 
+
+I don't know what to do, that and the fact they're specifically targeting young Ukrainians makes me sick. I have a flag on my rear view mirror, so I know how they knew what I was. But the fact they had four other Ukrainians there freaks me out. They even asked ""do you think it's just a coincidence that this happened"". Really, I don't believe it is a coincidence, I believe they did that on purpose.  I really want to just cry, break something, or just throw up. I tore up the book of Mormon those missionary girls gave to me at that Target. I put all the pieces in a bag, and I'm throwing it out tomorrow.  Not in my trash, I'm throwing it out at some gas station. I tore it so much that no one could ever read it. 
+
+I don't know how long I will keep this post up. But I thought it would be harmless to go to their church, I never knew this could happen. I believe there was a reason that I was there, but it wasn't to become a Mormon. I really feel I need to warn those kids about what they are getting themselves into. I know at that age I was easily manipulated. I would've been naive enough to think these people just want to be my friend at their age. 
+
+To any of those missionaries who might see this. Lose my number, and if I ever see you in public tricking someone into visiting your church, I will let everyone know what manipulative psychopaths you really are. ",13,1768891816.0,exmormon,8,0.89,False
+1qhtyyl,https://i.redd.it/t3ep22xibgeg1.png,Back to Normalcy Chapter 10,"
+Chapter 10: The Watchers Move
+
+The first sign was not dramatic.
+
+No alarms. No explosions.
+
+Just a report that should not have existed.
+
+
+---
+
+Three kilometers above the city, an automated weather satellite registered a distortion—localized, momentary, and impossible. For 0.43 seconds, atmospheric data contradicted itself. Pressure rose without cause. Electromagnetic noise spiked, then vanished.
+
+The system flagged it.
+
+Then deleted it.
+
+But not before a human saw it.
+
+
+---
+
+“Run that again,” Dr. Kuroda said.
+
+The technician frowned. “It’s gone. Must’ve been a glitch.”
+
+Dr. Kuroda stared at the empty screen.
+
+Glitches didn’t leave holes.
+
+“Pull the raw feed,” she said.
+
+“There is no raw feed.”
+
+That made her smile.
+
+
+---
+
+Elsewhere, in a room without windows, three figures studied a different kind of anomaly.
+
+A chalkboard covered in equations that refused to balance.
+
+“She stabilized it,” one of them said. “Barely.”
+
+“On instinct,” another replied. “Not deliberate.”
+
+The third leaned back. “That’s worse.”
+
+Silence.
+
+“…Confirm the location.”
+
+“Confirmed.”
+
+“Japan?”
+
+“Yes.”
+
+“…Of course it is.”
+
+
+---
+
+That same night, Lynn felt it.
+
+She woke abruptly at 3:17 a.m., heart pounding, eyes wide open.
+
+They noticed.
+
+She sat up, listening—not with her ears, but with something deeper.
+
+Threads she had kept quiet, buried, dormant… trembled.
+
+Observation.
+
+Interest.
+
+Calculation.
+
+Lynn pressed her palm to the floor.
+
+“Too soon,” she whispered.
+
+Outside, the city slept.
+
+Unaware that it had been indexed.
+
+
+---
+
+The next day, men in suits appeared.
+
+Not at the school.
+
+Not yet.
+
+They blended into crowds. Rode trains. Ordered coffee. Asked harmless questions.
+
+“Unusual weather lately, hasn’t it?”
+
+“Did you hear about that piano incident?”
+
+“Ever notice things… feeling strange sometimes?”
+
+Most people laughed.
+
+Some didn’t.
+
+Those were noted.
+
+
+---
+
+Arai noticed the woman on the platform.
+
+She wasn’t doing anything wrong.
+
+She just… watched.
+
+Not the train.
+
+Not her phone.
+
+Him.
+
+Arai shifted uncomfortably.
+
+When he looked back—
+
+She was gone.
+
+“…Lynn,” he muttered.
+
+
+---
+
+That afternoon, the sky stuttered.
+
+Not visibly.
+
+But birds stopped mid-flight.
+
+A digital billboard flickered, displaying static for exactly one second before returning to normal.
+
+Lynn froze in her seat.
+
+Active scan, she realized.
+
+She stood abruptly.
+
+“Suzuki-san?” the teacher called.
+
+“I feel ill,” Lynn said, voice steady. “I must leave.”
+
+Permission was granted without argument.
+
+
+---
+
+On the rooftop, Lynn exhaled slowly.
+
+“Do not look for me,” she whispered—not to anyone present.
+
+The air listened.
+
+Something far away adjusted.
+
+A thread snapped.
+
+Miles away, a monitoring station lost power for no reason.
+
+Dr. Kuroda stared at dead screens.
+
+“…Interesting,” she murmured.
+
+
+---
+
+That evening, Lynn met Arai at the river.
+
+“You’re being watched,” he said immediately.
+
+“Yes.”
+
+“By who?”
+
+“By things that measure threats.”
+
+“…Are you a threat?”
+
+Lynn didn’t answer.
+
+She stared at the water, reflecting city lights like broken stars.
+
+“I had hoped,” she said softly, “to live quietly.”
+
+Arai clenched his fists.
+
+“And now?”
+
+She turned to him.
+
+“Now I must decide,” Lynn said, “whether this world is worth revealing myself for.”
+
+Arai’s heart sank.
+
+“…And if you decide it isn’t?”
+
+Lynn looked past him, eyes distant.
+
+“Then I will leave,” she said.
+
+“Before they force me to stay.”
+
+
+---
+
+Far above the city, something adjusted its parameters.
+
+SUBJECT: LYNN SUZUKI
+STATUS: CONFIRMED
+OBSERVATION PHASE: ESCALATING
+
+And for the first time since she returned—
+
+The universe leaned in.
+
+
+---",1,1768891812.0,AmateurFanFiction,0,1.0,False
+1qhtys5,https://v.redd.it/upsxub58bgeg1,Now she’s worried about licking,Manana you are a digusting pig. We’ve all seen you lick coffee of your countertop (I posted that video a while ago) and milk from your laptop and table (please see the second video here for reference). All of a sudden it’s a problem that your boyfriend licked some ice cream off the ice cream cup.,6,1768891795.0,Mananamariee,3,1.0,False
+1qhtypm,https://www.reddit.com/r/IndiaCoffee/comments/1qhtypm/what_are_some_budget_aged_or_fermented_coffee/,What are some budget aged or fermented coffee beans? Aroumd 700 per 250g?,"Im seein a lot of whiskey aged rum aged coffee beans. Are they worth it and is there a good brand... 
+Im clueless since jve been off this subreddit for a while.
+",2,1768891790.0,IndiaCoffee,2,1.0,False
+1qhtwwo,https://www.reddit.com/r/IndiaCoffee/comments/1qhtwwo/honest_reviews_for_tulum_coffee_baarbara_estate/,Honest reviews for Tulum Coffee (Baarbara Estate | Hazelnutty | Medium Dark Roast) please.,I am new to this and I am using it for French Press Coffee. Just want to know if I am drinking good coffee or not. I am liking it but want to have an idea about the benchmark. Also suggest any better alternatives which i can try after Tulum,1,1768891618.0,IndiaCoffee,0,1.0,False
+1qhtvt9,https://www.reddit.com/r/movies/comments/1qhtvt9/watching_once_upon_a_time_in_the_west_in_2026/,"Watching ""Once Upon a Time in the West"" in 2026","I would love to hear what you all think regarding the themes I picked up on!
+
+First is the building of the train trail as a symbol for ""the end of the far west as it once was"". We see this transformation in Frank as well. If I recall it well, he looks like a cowboy/bandit at first, but after sitting at the desk in the train he seems to take on more of  ""business man"" look, with his black suit, rather than a ""man who means business"" !
+
+Also, I know it's been brought up before but although Claudia Cardinale's character is badass and modern (for the times) in many ways, I find it disapointing that this female character's strenght is ruined by the men around her objectifying her in different ways. It's almost like Leoni was a director who was creative in many ways but somehow couldn't write a female character without objectifying her like most directors did with female leads at the time.  I love that she has a lot of scenes revolving around her and a lot of lines, and becomes a widowed land owner and exudes a considerable independance! I hate that she gets her dress ripped by Harmonica, her ass slapped by Cheyan (who tells her to make like its nothing) and worst of all lies in a bed in her own home being fondled by Fonda as he tells her his own narative of how she feels as if his observations were her truth. He tells her that she likes feeling the hands of the man who killed her husband all over her body and that she is a whore. I get that this is her ACTUAL backstory, but her reaction to it is bothersome because she is acting in what I guess is survival mode by pretending to enjoy him but the whole moment is really cringey because we don't get her point of view...we never get a window into her true feelings at the moment and what she is experiencing is pretty violent in my eyes but it's presented as a ""tender"" almost sweet moment to the audience even though she is actively being threatened with death by a murderer who is trying to be intimate with her. To top it all off, she begins as  a put together woman but transforms into a ""water carrier' and submits to bringing Chayene and Harmonica either coffee or water...and later on, when she brings out water to all the workers with her low cut dress it just seems very much like a victory for them and like she is fulfilling Chayene's fantasy and embodying the male gaze he sees her in, rather than doing something that emancipates HER and sets her up as a pilar in what will be the station/town that she soon arguably will own. 
+
+Questions: 
+
+\-What is that hideout spot where mr.Morton goes to see Frank near the end in what seems to be a cliff /cave opening? Seemed like native workers/mexican workers were working on constructing something there and Frank was sort of possibly living out there? 
+
+\- What's the deal with mr.Morton? Although the small luxurious wagon office is a great cinematic phenomenon: Does this extremely crippled railway owner just spend his existence going up and down the several stations of his developping railway? (How does Frank always seem to know at what part of the rail he will be? I guess the rail is still considerably short so he's easy to find?) Also, if I understand right, Morton was ""crippled"" by a gunfight of sort or accident? I wish we knew a bit more about how this powerful man came to be so vulnerable. I also don't buy that he has no family or butler/body guard/doctor/servant/personel to help him out and that he seems to employ solely Frank for his security. (???) 
+
+",6,1768891511.0,movies,1,0.8,False
+1qhtv74,https://i.redd.it/a9pqik7cageg1.jpeg,Helm togiak + coffee just before start work today 👀☕️,,3,1768891452.0,MicrobrandWatches,0,1.0,False
+1qhtv3g,https://i.redd.it/a9pqik7cageg1.jpeg,Helm togiak + coffee just before start work today 👀☕️,,2,1768891443.0,Affordablewatches,2,1.0,False
+1qhtv00,https://i.redd.it/a9pqik7cageg1.jpeg,Helm togiak + coffee just before start work today 👀☕️,,1,1768891433.0,InterestingWatches,0,1.0,False
+1qhtus0,https://i.redd.it/a9pqik7cageg1.jpeg,Helm togiak + coffee just before start work today 👀☕️,,3,1768891411.0,CoffeeWatch,2,0.81,False
+1qhttiu,https://www.reddit.com/r/vagabond/comments/1qhttiu/great_depression_recipes_poor_mans_sandwich_tin/,"Great Depression Recipes: Poor Man’s Sandwich, Tin Can Coffee & Mulligan Stew – By a 50‑Year Hobo!",[https://m.youtube.com/watch?v=\_ApE3WWtHqM&pp=ygU8R3JlYXQgZGVwcmVzc2lvbiByZWNpcGVzIHBvb3IgbWFuJ3Mgc2FuZHdpY2ggdGluIGNhbiBjb2ZmZWUg](https://m.youtube.com/watch?v=_ApE3WWtHqM&pp=ygU8R3JlYXQgZGVwcmVzc2lvbiByZWNpcGVzIHBvb3IgbWFuJ3Mgc2FuZHdpY2ggdGluIGNhbiBjb2ZmZWUg),3,1768891288.0,vagabond,1,1.0,False
+1qhttby,https://www.reddit.com/r/Semaglutide/comments/1qhttby/i_forgot_to_take_rybelsus_this_morning/,I forgot to take Rybelsus this morning,"For the first time since starting the medication last September, I forgot to take my dose this morning (14mg). 
+What happens? I just had coffee and a smoothie so it is too late to take it now. 🫠",1,1768891273.0,Semaglutide,2,1.0,False
+1qhtrxl,https://www.reddit.com/r/pourover/comments/1qhtrxl/what_are_the_best_roasters_in_nairobi_kenya/,"What are the best roasters in Nairobi, Kenya?","I'm in Nairobi Kenya doing work for my PhD and took the trouble to bring a pour over setup. 
+
+I want to buy the \*best\* Kenyan coffee beans that are available in the city. A variety of roasts, from a couple different roasters, to bring back for myself and as gifts. I lean towards light, fruity, and tea-like, but I am very very open to new things, and a few darker roasts for gifts.
+
+  
+I have beans from a local guy at 800 shillings / 500g, and the few roasters I have been to seem to be closer to 1500 shillings / 500g. I will pay whatever price for the best representation of Kenyan coffee this city has to offer, but hopefully not more than 2000 shillings / 500g. 250g, 500g, or 1kg bags are fine.
+
+  
+Does anyone have insider recommendations?",4,1768891139.0,pourover,0,1.0,False
+1qhtrog,https://i.redd.it/8wgtdx0c9geg1.jpeg,"Today’s porridge: coffee oats with pear, yoghurt and hazelnut butter",,7,1768891113.0,Oatmeal,0,0.9,False
+1qhtqg4,https://www.reddit.com/r/Delonghidedica/comments/1qhtqg4/bottomless_portafilter_for_dedica_ec890_in_india/,Bottomless Portafilter for Dedica EC890 in India,"Howdy all. I recently got a bottomless portafilter to use on the Dedica EC890. Unfortunately it doesn’t fit as snugly as the one that came with the machine. Coffee begins to spray from the shower head on and to the machine and creates a mess!  Totally unesable. 
+
+Am seeking suggestions on which one to go for. Brand names will help but any links to purchase in India would be the most helpful. 
+
+TIA",1,1768890994.0,Delonghidedica,0,1.0,False
+1qhtprd,/r/barista/comments/1qhtosc/whats_one_piece_of_coffee_advice_that_sounds/,What’s one piece of coffee advice that sounds correct but doesn’t actually help beginners?,,1,1768890928.0,Coffee_Shop,0,1.0,False
+1qhtp5e,https://www.reddit.com/r/ACL/comments/1qhtp5e/may_have_torn_acl_for_the_first_time_need_advise/,"May have torn ACL for the first time , need advise.","I’m a 19-year-old computer science student with an internship starting in May. I’m anxious because if surgery is needed, I’m not sure how I’ll manage my ongoing semester—I can’t miss more than four lab sessions.
+
+The incident happened on the 18th when my motor-bike slipped and fell lightly on me. I picked it up immediately, rode about 20–25 km to my college dorm, and later walked a few more kilometers to get coffee. I had moderate but manageable pain that day.
+
+The next morning, I went to the hospital for an X-ray and MRI. The MRI report comes today, but I already have the images. After uploading them to GPT/Gemini, they suggested a possible ACL tear. I’m currently wearing a knee brace.
+
+I can still walk and bear weight, but I’m very confused and anxious. I’ll definitely follow my doctor’s advice, but I’m posting here because I’m nervous and would appreciate some guidance on what might have happened and what to expect.",2,1768890869.0,ACL,3,1.0,False
+1qhtosc,https://www.reddit.com/r/barista/comments/1qhtosc/whats_one_piece_of_coffee_advice_that_sounds/,What’s one piece of coffee advice that sounds correct but doesn’t actually help beginners?,"I hear a lot of well-meaning coffee advice given to beginners, but some of it feels more confusing than helpful once you’re actually behind the bar or brewing at home.
+
+Curious what advice you’ve heard that *sounds* right, but didn’t really help until you learned more or ignored it altogether.",1,1768890836.0,barista,2,1.0,False
+1qhtomb,https://www.reddit.com/r/sleep/comments/1qhtomb/for_anyone_that_quit_coffee_has_it_improved_sleep/,"For anyone that quit coffee, has it improved sleep?",I have been drinking one cup of coffee everyday for 3 months straight. I would still get 8 hours of sleep and feel fine but the past three days I wake up at 4 am then can't seem to fall asleep after. Have no idea if its the caffeine ,2,1768890820.0,sleep,0,1.0,False
+1qhtom0,https://www.reddit.com/r/Crushes/comments/1qhtom0/anyone_knows/,Anyone knows?,"I (21M) need advice on my coworker (21F) who works with me on vacations on texting.
+
+I (21)M asked a girl (21)F out,but she wont be in town for three months due to college..We have talked few times personally and on the last day i asked her out if she wanna go out for coffee next time when she is in town..She said okay and i asked for her instagram And i got her instagram..I texted her saying we will discuss about the coffee when she is back in town and she replied to that one positively and  i ended  the convo perfectly.It was a short chat but respectful.Should i text her during this time..Coz we dont know each other that much i talked with her few times and all those times she seems intrested,like when i stand somewhere she will come stand next me, glanzes at me,smiles.But after asking her out she seemed shy and we didnt talked like we talked before that.She seems positive and responded in a positive  way for my coffee..The problem is i dont know if i should text her again and be in touch.The only connection we have is from by seeing each other and working together a few times.And we only talked couple times.I am confused about talking,What if she wanted me to text her,or if i do will that be awkard.
+
+TL;DR
+
+I like my coworker who works on vacations and now she is in college before leaving for college i asked her out for a coffee,for the next time she is back in town..She said okay.l and responded well.Should i text her.She gave me her insagram when i asked her out.",1,1768890819.0,Crushes,1,1.0,False
+1qhto9a,https://www.reddit.com/r/chennaicity/comments/1qhto9a/tea_juice_snacks_shop_business_tips/,"Tea, Juice & Snacks shop business tips","I have started a cafe where we sell tea, coffee, fresh juice, sandwich and burger. the thing is the profit we make in tea and coffee is getting cancelled out in masters salary (900 + 900 morning and evening shift) + constant burning of gas. we stopped juice for now as we could not afford juice master salary.
+
+1. should we switch to machine tea and coffee to avoid tea master salary + gas cylinder cost + constant dependent on master presence 
+
+2. Is machine tea or coffee good ? Do people like it ? 
+
+4. How to find to masters to hire ? it was hard for us to find master 
+
+3. Any tips to save money and increase profit 
+
+We are located near Poonamallee Avadi",1,1768890788.0,chennaicity,1,1.0,False
+1qhto7p,https://www.reddit.com/r/tinnitus/comments/1qhto7p/dr_pepper_zero_sugar_can_gave_me_a_spike_is_this/,Dr pepper zero sugar can gave me a spike is this permanent?,"Hello,
+
+I drank Dr zero zero sugar one can I didn't think it had caffeine I searched it up after it has 41mg. I woke with a tinnitus Spike last week. Is this permanent?
+
+I drank diet drinks before and ice coffees with no spike but that was before I gained 24kg and ate a lot of junk food which made carb and sugary foods spike my tinnitus frequently.
+
+Now I think I'm more sensitive to spikes. Is this spike from this Dr pepper gonna be permanent? My tinnitus did spike from other foods but went down but it hasn't went down to baseline before I drank that Dr pepper zero sugar 😢 😢😢",2,1768890784.0,tinnitus,1,1.0,False
+1qhtnwg,https://www.reddit.com/r/mav_travels/comments/1qhtnwg/3day_shimla_escape_we_planned_for_a_young_couple/,3-Day Shimla Escape We Planned for a Young Couple,"A few days ago, a **young married couple** reached out to us.  
+Both working corporate jobs, packed schedules, constant deadlines — and only **3 days in hand**.
+
+Their simple request:
+
+>
+
+So we designed a **relaxed Shimla itinerary**, and honestly — their experience might fit you too if time is limited.
+
+🚌 **Day 1: Leaving the Chaos Behind (Delhi → Shimla)**
+
+After office hours, they boarded an **overnight Volvo bus from Delhi**.  
+No airport stress, no driving fatigue — just a comfortable overnight journey while the city lights slowly disappeared.
+
+By morning, they were in Shimla, already feeling lighter 🌄
+
+  
+🌤️ **Day 2: Action, Calm & Evening City Vibes**
+
+After reaching Shimla, they checked into their hotel, freshened up, and **took proper rest**.  
+Instead of rushing out immediately, they chose to start their day slow — something they rarely get to do back home.
+
+Their first outing was to **Annandale Army Museum**.
+
+Here, they didn’t just walk around — they experienced something unique.  
+Under the supervision of army personnel, they tried a **guided shooting activity with a real rifle** 🎯.  
+They learned **how to aim**, how to hold the weapon, and took turns shooting at targets.  
+The experience felt thrilling yet safe — like a real-life action game — and became one of their most talked-about memories.
+
+After the **adrenaline rush**, they wanted peace.
+
+**So** next, they headed to **Advance Study (IIAS)**.  
+They walked around the heritage building, sat on the green lawns, talked, laughed, and simply enjoyed the open space 🌿.  
+No phones, no rush — just quiet time together.
+
+By evening, they moved towards **Mall Road and The Ridge**.  
+They strolled **hand in hand**, explored cafés, had coffee, did a bit of shopping, and watched the sunset paint the sky at The Ridge 🌅.  
+The cold breeze and soft lights made the evening feel perfect.
+
+They returned to the hotel relaxed and happy.
+
+  
+❄️ **Day 3: Snowy Roads, Valleys & a Peaceful Farewell**
+
+The next morning, they headed towards **Kufri**.  
+Here, they enjoyed light adventure activities, took pony rides, and soaked in mountain views 🐎.  
+It was playful, fun, and not exhausting — just right for a short trip.
+
+On the way back, they stopped at **Green Valley and Fagu Valley**.  
+They slowed down, clicked pictures 📸 and enjoyed the silence that only mountain roads offer.  
+This part, they later said, felt the most calming.
+
+As evening approached, they visited **Jakhu Peak**.  
+They spent time at the temple, watched the sun slowly disappear behind the hills, and felt a deep sense of peace 🙏.  
+It was the perfect way to close their mountain escape.
+
+That night, they boarded an **overnight luxury bus back to Delhi** — refreshed, recharged, and already missing the hills.
+
+  
+🌟 If you’re also planning a **short Shimla trip** and don’t want it to feel hectic, this itinerary can work beautifully for you too.
+
+And if you ever need **help with hotels, cabs, Volvo tickets, or a registered local guide in Himachal**, you can always reach out — happy to share genuine, on-ground help 😊🏔️
+
+Safe travels and mountain peace to you ❄️✨",1,1768890753.0,mav_travels,0,1.0,False
+1qhtn0h,https://i.redd.it/himgj3c58geg1.jpeg,She Took on McDonald’s and Won.,,963,1768890674.0,BeAmazed,117,0.95,False
+1qhtmx3,https://www.reddit.com/r/Herpes/comments/1qhtmx3/a_guide_on_how_i_eradicated_nerve_pain_and_sores/,A guide on how I eradicated nerve pain and sores for good.,"I used to get sores on my lips every 2 weeks and tailbone tingling every single day since I was infected.
+
+This lasted about 1 year and then I had a complete health downward spiral. I worried non stop about my condition and spreading it. This made my pain and condition even worse. Don’t underestimate the power of the mind and stress in creating new symptoms. Antivirals I found did not help me.
+
+What got rid of it:
+
+\- Getting on Lexapro. My anxiety and nervous system was a wreck. Once I started taking lexapro it’s like my entire body calmed down and all my nerves stopped firing. I felt normal again.
+
+\- Avoiding triggers. Caffeine (coffee especially), nicotine (vapes especially), and certain alcoholic beverages (learn what your body is okay with)
+
+\- Stay hydrated and don’t mess with your skin. The more you pick and touch your skin, the more I’ve found it triggers outbreaks. Wear a good moisturizer every day.
+
+\- Sleep well. I have insomnia. Losing sleep triggers outbreaks. Once you control your anxiety, your sleep will get better. Everything is connected.
+
+\- Take zinc. But a specific kind. The zicam strawberry citrus gummies. 3 every other day have  boosted my immune system incredibly.
+
+\- simplify your routine. A lot of supplements can trigger outbreaks. Focus on a couple things. Anti anxiety and immunity. SSRI + zinc worked for me. I stopped worrying about taking 3 medications and multiple supplements. Add things in carefully.
+
+This has effectively taken me from 10 outbreaks a year to zero. I feel normal again :)
+
+Hope this works for you.",5,1768890666.0,Herpes,2,0.86,False
+1qhtm35,https://www.reddit.com/r/ApplyingToCollege/comments/1qhtm35/genuinely_what_r_yalls_schedules_with_5_hr_sleep/,genuinely what r yalls schedules with 5 hr sleep max,"like with the coffee breakdowns and everything
+
+i have my schedule here but i needa optimize it more
+
+6 am wake up, coffee
+
+7-3pm school
+
+3:15 get home, coffee
+
+4-6 schoolwork
+
+6-7 dinner
+
+7-12 ec/ schoolwork if i have a test the next day
+
+12-1 sleep w/ melatonin gummy",8,1768890586.0,ApplyingToCollege,5,0.9,False
+1qhtlsy,https://www.reddit.com/r/rolex/comments/1qhtlsy/my_rolex_warranty_service_experience/,My Rolex warranty service experience,"My 126710 started losing time outside COSC range during year 3. Like 4 seconds slow per day or more. Rolex Service Center in LA is now permanently closed or possibly just closed to the public, not sure. I took it to Gearys Rodeo who has a guy who will fix your Rolex or is authorized to do so (by whom I have no idea) or is the actual former Service Center now taking up residence in the second floor, not exactly sure and I’m not sure anyone knows or will tell you the gd truth anyway-I’ve heard it all. For all I know they send it down the street, maybe they fix em, again I don’t know. 
+
+Told them it was running slow and that it’s probably magnetized as it was reactive to a compass. They quoted me 10 weeks, got it back in 4. I asked them not to polish it and they obliged. They surely added a few of their own scratches, the bastards. When I picked it up I asked what the diagnoses and treatment were but they swore they’ll never tell. Hand to god. When I got it back it still moved a compass needle and seemed to still be just as slow as before the service. After a week of being depressed and on a whim I decided to store it dial down at night and it’s actually been keeping excellent time. Better than COSC. I had been storing it dial up at night since new up until just after the service. Oh also, I did not get another two year warranty but I had the remaining balance on my original warranty. They did give me a flimsy cheap green felt Rolex service pouch, not a leather one. Their second floor is nice and I enjoyed a really good cup of coffee as well as some delectable whores-deovaries. 
+
+Would love to know your thoughts on my experience, west coast service center insights, 3285 watch repair anecdotes, resting dial positions, service pouches or any funny shit you got! ",2,1768890560.0,rolex,1,1.0,False
+1qhtlmc,https://www.reddit.com/r/Adulting/comments/1qhtlmc/for_anyone_that_quit_coffee_has_your_sleep/,"For anyone that quit coffee, has your sleep improved?",,1,1768890544.0,Adulting,4,1.0,False
+1qhtl5i,https://i.redd.it/di18y8gi7geg1.png,"Mom Left Her Heart in a Bloody Doll—Daddy, Find Her!","Chapter 1  
+  
+  
+They said I was a disgrace to journalism—that I'd thrown away my career to star in adult films and chase the next high.  
+  
+  
+My ex-husband, Nolan Sterling, the county's chief medical examiner, believed every word.  
+  
+  
+He threw me out himself, said I was poison he couldn't stand to look at.  
+  
+  
+So I disappeared, just like he wanted.  
+  
+  
+For five years, I was dead to him.  
+  
+  
+Then the precinct called.  
+  
+  
+They had a little girl nobody wanted.  
+  
+  
+When Nolan walked in, she was sitting on a bench, filthy and small, clutching a stuffed rabbit.  
+  
+  
+She looked up at him with my eyes.  
+  
+  
+""Mister, can you help me find my mama?"" Her voice was barely a whisper. ""She's sleeping in a red suitcase. A bad man took her.""  
+  
+  
+The officers nearby laughed.  
+  
+  
+Another junkie mom, high and gone, leaving her kid behind.  
+  
+  
+Nolan's jaw clenched  
+  
+  
+""Where the hell is Eleanor Parker? She send you here to beg for drug money?""  
+  
+  
+My daughter just held up the rabbit. Dark stains covered the fur.  
+  
+  
+""Mama said to give this to the hero, she said there's bad people's secrets inside.""  
+  
+  
+At the same time, I floated above them, watching.  
+  
+  
+...  
+  
+  
+I floated above the precinct, watching my daughter on that bench—filthy, small, holding that blood-stained rabbit against her chest.  
+  
+  
+Her face was caked in dirt. Her hair hung in matted clumps.  
+  
+  
+A cop nearby made the call, his lip curled in disgust.  
+  
+  
+""Dr. Sterling? Yeah, it's your ex again. Dumped her kid at the station.""  
+  
+  
+""Junkies, man. When they're high, they don't care about anyone—""  
+  
+  
+I'd heard worse, their words didn't land anymore.  
+  
+  
+But I didn't want my girl to hear them. I reached for her ears, tried to cover them.  
+  
+  
+My hands passed straight through.  
+  
+  
+On the line, Nolan's voice came through flat and cold.  
+  
+  
+""I'm coming.""  
+  
+  
+Thirty minutes later, he walked in.  
+  
+  
+Still wearing his lab coat, reeking of disinfectant and formaldehyde. Jaw locked, eyes hard.  
+  
+  
+He didn't look at her. Turned straight to the officer.  
+  
+  
+""Where's Eleanor?""  
+  
+  
+The cop shrugged. ""Can't reach her. Phone's dead, apartment's empty.""  
+  
+  
+Nolan let out a short, bitter laugh. ""Probably OD'd in a ditch somewhere. Well. One less mess to clean up.""  
+  
+  
+My daughter's head snapped up.  
+  
+  
+""Mister?"" Her voice was barely there. ""Are you my daddy? Mama said my daddy's a hero.""  
+  
+  
+He stepped back fast, like she'd swung at him.  
+  
+  
+""I'm NOT your father. I don't have a kid with a junkie.""  
+  
+  
+Tears welled in her eyes immediately.  
+  
+  
+She held up the rabbit, shaking. ""Mama said if I bring this to the hero man, I can eat.""  
+  
+  
+He slapped it out of her hands.  
+  
+  
+""Don't wave that disease-ridden thing in my face!""  
+  
+  
+Lily hit the ground hard. She crawled after the rabbit, hands trembling, trying to make it clean again.  
+  
+  
+Nolan crouched down, voice sharp as a blade.  
+  
+  
+""Where is she?""  
+  
+  
+""A bad man put Mama in a box."" She was barely holding it together.  
+  
+  
+""There was so much red. She told me to run. To bring the hero man the rabbit—""  
+  
+  
+Someone snorted. Then the whole room started laughing.  
+  
+  
+""A red box? Kid's nuts, just like her mom.""  
+  
+  
+""Eleanor probably got high and started hallucinating. Kid's repeating whatever crazy story she heard.""  
+  
+  
+""Or she made up the whole red box story to keep the kid quiet while she ran off.""  
+  
+  
+Nolan's face went tight. He grabbed Lily by the arm and pulled her toward the exit.  
+  
+  
+""Let's go. Maybe your junkie mom will actually show her face this time.""  
+  
+  
+At the car, the headlights swept across Lily as he opened the door.  
+  
+  
+That's when he saw them.  
+  
+  
+Bruises all up her arms. Needle marks, dark and raised.  
+  
+  
+He froze. Then his face flushed with rage.  
+  
+  
+""Jesus Christ. She's using on a CHILD?!""  
+  
+  
+I floated there, tried to scream, to make him hear me.  
+  
+  
+No—she was sick! They had to draw blood, that's all it was—  
+  
+  
+But my voice didn't exist anymore.  
+  
+  
+He thought I'd poisoned my own daughter.  
+  
+  
+Lily didn't understand why he was so angry.  
+  
+  
+She pressed a hand to her stomach. ""Mister? I'm really hungry. Do you have the white stuff?""  
+  
+  
+Nolan's face went red.  
+  
+  
+""Are you seriously asking me for a HIT right now? You're FIVE!""  
+  
+  
+Her eyes went wide with panic. ""No, no! I mean the powder! The white powder Mama puts in my bottle!""  
+  
+  
+""Don't lie to me!""  
+  
+  
+He grabbed her arm and threw her into the backseat. The door slammed.  
+  
+  
+""Eleanor, if you're not dead already, I hope to God you are soon!""  
+  
+  
+Inside, Lily pressed the rabbit to her face and whispered,  
+  
+  
+""Mama… are you coming back?""  
+  
+  
+Nolan heard her. His voice came out cold as stone.  
+  
+  
+""She better not.""  
+  
+  
+I pressed my palms against the glass, watching my little girl fold in on herself.  
+  
+  
+Watching the man I'd loved once turn his back on everything we'd made.  
+  
+  
+My tears fell.  
+  
+  
+Chapter 2  
+  
+  
+Nolan brought Lily back to his house.  
+  
+  
+I followed them inside. The furniture we'd picked out together was still there, arranged exactly the same way. Clean. Untouched. But nothing of mine was left.  
+  
+  
+Lily stood in the doorway staring at the polished floors. She looked down at her dirty shoes, then slipped them off and stepped inside barefoot.  
+  
+  
+""Nolan, you're back.""  
+  
+  
+A woman came out of the master bedroom wearing a beige cardigan.  
+  
+  
+Vivian Wade. The girl my mother took in after I left. The one she chose over me.  
+  
+  
+Vivian stopped when she saw Lily.  
+  
+  
+""Who's this?""  
+  
+  
+""Eleanor's kid."" Nolan yanked his tie loose. ""She ran off again.""  
+  
+  
+Vivian crouched down. ""Hi, sweetie. What's your name?""  
+  
+  
+Lily backed up, clutching the rabbit. ""Lily.""  
+  
+  
+""That's pretty."" Vivian reached for her hair.  
+  
+  
+My girl jerked away.  
+  
+  
+Vivian's smile flickered. Then it was back, soft and warm.  
+  
+  
+""She's filthy. Let me give her a bath.""  
+  
+  
+Nolan nodded.  
+  
+  
+Vivian took Lily's hand and led her down the hall.  
+  
+  
+I followed, something cold settling in my chest.  
+  
+  
+The bathroom door closed.  
+  
+  
+And Vivian's face immediately changed.  
+  
+  
+She turned the water on scalding hot. Lily screamed when it touched her skin.  
+  
+  
+Vivian didn't stop. She scrubbed hard at the bruises on her arms, deliberate and rough.  
+  
+  
+""Shut up. Junkie's daughter doesn't get to cry!""  
+  
+  
+I threw myself at her, tried to rip her away from Lily.  
+  
+  
+Nothing. My hands hit nothing.  
+  
+  
+I had to stand there and watch my daughter scream.  
+  
+  
+When they came back out, Vivian's expression had shifted back to sweetness.  
+  
+  
+She sighed and shook her head at Nolan.  
+  
+  
+""Poor thing has so many bruises. God knows what kind of life Eleanor's been dragging her through.""  
+  
+  
+Nolan's jaw tightened. ""What else would a junkie do?""  
+  
+  
+""Nothing good,"" Vivian said softly. ""But you tried to save her. That's more than she deserved.""  
+  
+  
+Lily's eyes landed on the bread sitting on the counter.  
+  
+  
+She stared at it but didn't move.  
+  
+  
+Nolan grabbed a piece and tossed it at her feet.  
+  
+  
+Lily dropped down and tore into it, choking it down so fast she almost gagged.  
+  
+  
+Then she stopped. Wrapped up what was left and tucked it into her pocket.  
+  
+  
+Nolan frowned. ""What are you doing? Eat it.""  
+  
+  
+Lily shook her head, voice barely audible.  
+  
+  
+""For Mama. She's in the box. She doesn't have food.""  
+  
+  
+Nolan let out a harsh laugh. ""She's out selling herself for drugs. Trust me, she's not starving.""  
+  
+  
+Lily pulled something from her pocket—a crumpled ten-dollar bill.  
+  
+  
+She held it up to him with shaking hands.  
+  
+  
+""Mama said I can't take things for free. This is all the money I have.""  
+  
+  
+It was the last cash I'd gotten from selling plasma to pay for her medicine.  
+  
+  
+My blood was still on it.  
+  
+  
+Nolan slapped it out of her hand. ""Save it for your mom's coffin!""  
+  
+  
+The bill floated to the floor.  
+  
+  
+Lily crawled after it, picked it up, folded it carefully, and put it back in her pocket.  
+  
+  
+""Mama said if I'm good, she'll come back.""  
+  
+  
+Nolan struck a match, lit his cigarette.  
+  
+  
+""Your mama's not coming back, kid.""  
+  
+  
+""Yes she is!"" Lily's eyes filled with tears. ""She's in the red box! I saw him put her there!""  
+  
+  
+""There was blood everywhere. So much blood. The rabbit—"" She held it up, shaking. ""Mama said there's secrets—""  
+  
+  
+""ENOUGH!"" Nolan shot to his feet.  
+  
+  
+""Did she teach you to lie already? There's no red box. No bad man. Just more of HER BULLSHIT!""  
+  
+  
+Lily jerked back like she'd been hit. Her knees buckled. She collapsed, shaking and crying.  
+  
+  
+I reached for her. My arms passed through her small body.  
+  
+  
+I'M SORRY, BABY. I'M SO SORRY.  
+  
+  
+Vivian moved in, her hand sliding gently onto his arm.  
+  
+  
+""She didn't know any better. We can teach her.""  
+  
+  
+Then she turned to Lily, her voice soft as honey.  
+  
+  
+""Baby, your mama made some mistakes. But that's over now. You're going to be such a good girl for us, aren't you?""  
+  
+  
+I watched her performance, rage clawing through me.  
+  
+  
+If I still had a body, I would've dragged her away from my daughter!  
+  
+  
+Chapter 3  
+  
+  
+The front door crashed open before Vivian could finish her sentence.  
+  
+  
+My mother burst in like a storm.  
+  
+  
+Lily was still on the floor, the rabbit clutched to her chest, her sobs tearing through the room.  
+  
+  
+My mother froze when she saw her. Her face went white, then red.  
+  
+  
+""That's Eleanor's bastard?!""  
+  
+  
+Lily flinched, pressing herself smaller.""Grandma?""  
+  
+  
+The word came out barely a whisper.  
+  
+  
+""Don't call me that!""  
+  
+  
+My mother crossed the room in three strides and shoved her.  
+  
+  
+Lily's head slammed into the coffee table edge!  
+  
+  
+Blood everywhere!  
+  
+  
+NO! SHE'S YOUR GRANDDAUGHTER!  
+  
+  
+I dove between them, but my hands found nothing. I didn't exist.  
+  
+  
+""Mom, stop—"" Nolan started toward Lily.  
+  
+  
+""Lay one finger on her and I'll disown you."" My mother's eyes were wild. ""Why would you bring this thing into my house? Eleanor could've fucked anyone! This isn't even your child!""  
+  
+  
+Blood pooled under my daughter's hair.  
+  
+  
+I wanted to scoop her up. Press something against the wound.  
+  
+  
+I had nothing. I was nothing.  
+  
+  
+""Mama..."" Lily pushed herself up on trembling arms. Blood ran into her eyes. ""Hurts...""  
+  
+  
+""I hope it does!""  
+  
+  
+My mother's voice was venom.  
+  
+  
+""Your mother's a junkie whore who spread her legs for a camera. You're probably just like her!""  
+  
+  
+""She's NOT!""  
+  
+  
+The scream ripped out of Lily's throat.  
+  
+  
+""My mama's a HERO!""  
+  
+  
+My mother laughed. Cold, jagged. ""A hero? Eleanor's so strung out she doesn't know her own name. That's your hero?""  
+  
+  
+She turned on Nolan, her chest heaving.  
+  
+  
+""Two options. Foster care, or I have a heart attack right here on your floor. Choose.""  
+  
+  
+Vivian rushed to steady her. ""Mom, your blood pressure—please—""  
+  
+  
+""How can I be calm when that woman destroyed everything?""  
+  
+  
+My mother's hand clutched her chest.  
+  
+  
+""The Parker name is trash because of Eleanor! And now we're supposed to raise her bastard child? I'd rather die!""  
+  
+  
+Nolan stood there, every muscle locked.  
+  
+  
+He looked at Lily bleeding on his floor. Then at my mother, shaking with rage.  
+  
+  
+""I'll call foster services."" His voice came out hollow. ""After this case closes, she's gone.""  
+  
+  
+""Please—"" Lily dragged herself toward his feet. ""I'll be so good. I won't ask for anything. Just help me find Mama—""  
+  
+  
+""She abandoned you!""  
+  
+  
+Nolan's foot came up, knocked her hand away. ""Stop lying!""  
+  
+  
+Just then, his phone buzzed.  
+  
+  
+""Dr. Sterling—the river case. We found a red suitcase. Intact. Get here now.""  
+  
+  
+He hung up. Stared down at Lily.  
+  
+  
+""You're coming.""  
+  
+  
+""Maybe she should stay?"" Vivian's tone was careful, concerned.  
+  
+  
+""You stay with Mom."" Nolan didn't even glance at her.  
+  
+  
+My mother made a disgusted noise.  
+  
+  
+""Take her to that crime scene. Maybe she'll wander off and get hit by a car.""  
+  
+  
+Vivian eased my mother into a chair, all sympathy and softness.  
+  
+  
+""Let me get you water.""  
+  
+  
+As she turned toward the kitchen, her mouth curved.  
+  
+  
+Just a flicker. A tiny smile.  
+  
+  
+She'd called my mother. Timed it perfectly.  
+  
+  
+And I couldn't warn anyone.  
+  
+  
+I could only watch Nolan grab Lily like she was a bag of garbage and drag her to the car.  
+  
+  
+...  
+  
+  
+The city blurred past the windows.  
+  
+  
+Lily folded herself into the backseat corner, blood dried dark on her temple.  
+  
+  
+She held the rabbit against her mouth and whispered.  
+  
+  
+""Mama, I found him. He won't listen...""  
+  
+  
+""Mama, I'm scared...""  
+  
+  
+""Mama, are you cold in that box? Can you please come back?""  
+  
+  
+I pressed myself against the glass beside her, wishing she could feel me there.  
+  
+  
+I'M SO SORRY.  
+  
+  
+I DIDN'T PROTECT YOU.  
+  
+",2,1768890496.0,Hot_Romance_Stories,1,1.0,False
+1qhtj61,https://www.reddit.com/r/u_sandyified/comments/1qhtj61/i_need_help/,I need help,"I (21M) need advice on my coworker (21F) who works with me on vacations on texting.
+
+I (21)M asked a girl (21)F out,but she wont be in town for three months due to college..We have talked few times personally and on the last day i asked her out if she wanna go out for coffee next time when she is in town..She said okay and i asked for her instagram And i got her instagram..I texted her saying we will discuss about the coffee when she is back in town and she replied to that one positively and  i ended  the convo perfectly.It was a short chat but respectful.Should i text her during this time..Coz we dont know each other that much i talked with her few times and all those times she seems intrested,like when i stand somewhere she will come stand next me, glanzes at me,smiles.But after asking her out she seemed shy and we didnt talked like we talked before that.She seems positive and responded in a positive  way for my coffee..The problem is i dont know if i should text her again and be in touch.The only connection we have is from by seeing each other and working together a few times.And we only talked couple times.I am confused about talking,What if she wanted me to text her,or if i do will that be awkard.
+
+TL;DR
+
+I like my coworker who works on vacations and now she is in college before leaving for college i asked her out for a coffee,for the next time she is back in town..She said okay.l and responded well.Should i text her.She gave me her insagram when i asked her out.",1,1768890310.0,u_sandyified,0,1.0,False
+1qhtio0,https://www.reddit.com/r/Startups_EU/comments/1qhtio0/anyone_else_doing_everything_themselves/,Anyone else doing everything themselves,"Bootstrapped EU startup, 6 months in, still solo. Yesterday I handled customer support in morning, fixed payment bug at lunch, wrote product copy in afternoon, did SEO at night, then started on next sprint. SEO Twitter acts like it's your only job. For us it's maybe 10% of what needs doing.​
+
+The reality of early-stage solo founder:
+
+Monday I'm developer fixing bugs. Tuesday I'm doing sales calls. Wednesday I'm customer support. Thursday I'm marketing trying to get visibility. Friday I'm back to product. SEO is critical but it competes with literally everything else that keeps business alive.​
+
+When ""SEO experts"" say ""publish 3 posts weekly, do daily keyword research, build 50 backlinks monthly, optimize every page"" I laugh. That's 20+ hours weekly. I have maybe 3-4 hours monthly for SEO before other critical things break.​
+
+What I've automated or outsourced:
+
+Directory submissions were eating weekends. Found [GetMoreBacklinks service](http://getmorebacklinks.org/) that batch-submitted startup to 150+ EU business and startup directories. Cost €40, saved me 12+ hours, moved DA from 0 to 13 so landing pages could actually rank. No-brainer trade.​
+
+Review collection runs automatically. Post-signup email sequence asks for G2/Capterra review 14 days after onboarding. If no review, one gentle follow-up. Reviews went from 2 to 24 without me manually chasing anyone. Those reviews feed into SEO and sales credibility.​
+
+Technical monitoring alerts me to problems. Site down, broken pages, speed drops - I get Slack notification immediately. Before this I'd discover SEO-killing issues weeks later after rankings tanked. Now I fix during coffee break.​
+
+What I still do manually (barely):
+
+Landing page optimization happens quarterly not weekly. I rewrite value prop, update copy based on customer language, add case studies when I get them. Takes 2 hours every 3 months. ""Good enough"" beats perfect pages I never get to.​
+
+One blog post monthly about actual customer problems. Not ""SEO content"" - genuine helpful articles answering questions prospects ask on sales calls. Takes 90 minutes, ranks better than AI-generated daily posts ever would.​
+
+The honest trade-offs:
+
+My SEO isn't ""optimized."" Pages could be better. Content could be more frequent. Internal linking could be strategic. But product needs building, customers need supporting, sales need closing. I do minimum viable SEO that keeps us visible without consuming time better spent on revenue-generating work.​
+
+Monthly SEO time: \~4 hours. Results: slow steady growth, not explosive. But business is alive, pages rank for core terms, organic brings 15-20 qualified leads monthly. That's the win when you're doing everything yourself.​
+
+If you're solo founder feeling guilty about ""not doing enough SEO"" - you're not lazy, you're realistic. Automate what you can, focus manual effort on highest-impact work, accept that adequate SEO done consistently beats perfect SEO that never happens because you're building product.",21,1768890265.0,Startups_EU,5,0.85,False
+1qhtifh,https://www.cbc.ca/news/canada/manitoba/winnipeg-homeless-outreach-extreme-cold-weather-9.7052324?cmp=rss,"Winnipeg homeless outreach organizations working to keep people warm during extreme cold weather | Temperatures dipped below –25°C Monday, putting community members at risk of frostbite, hypothermia","As many Winnipeggers opt to stay indoors amid extreme cold weather this week, several homeless outreach organizations are working to keep community members on the streets safe and warm. 
+
+Temperatures dipped below –25 C on Monday, with much of the province under a yellow-level cold warning. It's forecast to get even colder throughout the week, with lows of about –35 C and the wind chill making it feel even colder, according to an Environment Canada forecast.
+
+The extreme cold puts people at an increased risk of frostbite and hypothermia, especially if they don't have access to proper winter gear or a warm place to stay.  
+
+Grace Bashir, the housing and shelter services lead with local non-profit 1JustCity, said about 30 community members sleep at their emergency warming centre in Osborne Village every night between Nov. 1 and March 31. 
+
+The Just a Warm Sleep program typically runs from 8 p.m. until 8 a.m. the next day, but Bashir said they open their doors at 5 p.m. during periods of extreme cold weather.
+
+Once inside, people can take a shower, do laundry, get essential supplies such as hygiene products and warm clothing — the shelter needs donations of thermal wear, thick socks, gloves, hats, scarves and hand warmers, Bashir noted — and have dinner and breakfast.
+
+But the limited capacity means ""it fills up very quickly,"" Bashir said Monday.
+
+""When we do fill up, however, we do rely on our partners, like say DCSP \[Downtown Community Safety Partnership\] or Main Street Project outreach, to be able to support our community members to get them into another safe space, another shelter,"" Bashir said, adding that bus tickets are available when alternative outreach is not.
+
+Helen Robinson-Settee, who is on the board of End Homelessness Winnipeg, said local outreach agencies are able to access emergency funding to help people experiencing homelessness during extreme weather alerts.  
+
+""That support really allows them to act quickly for some short-term accommodations when needed and also to arrange transportation or other essential services during this critical period,"" she said. 
+
+End Homelessness Winnipeg recently released its new Winter Resource Guide, information about the city's shelters, overnight warming spaces, drop-in programs, mobile outreach vans, and other community support services.
+
+When people aren't able to find a warm place to stay, Matt Halchakar, director of operations with the Downtown Community Safety Partnership (DCSP), said his organization's teams will be patrolling the streets to help those in need. 
+
+During the extreme weather this week, Halchakar said DCSP staff will be keeping an eye out for folks who aren't appropriately dressed for the cold or are in need of support. 
+
+Halchakar said Winnipeggers who notice a community member who might be struggling with the conditions should call DCSP at 204-947-3277, ext. 2 — even if they're unsure. 
+
+""I'd always say it's better safe than sorry,"" he said.  
+
+He said their response ""varies"" depending on how people are affected by the cold. For some, that means calling 911 if frostbite or hypothermia is a factor. For others, that involves helping someone get a cup of coffee and a warm place to sleep. 
+
+""It never hurts to call us and we'll do that check-in to make sure that they are OK and if there's anything we can do to support them,"" Halchakar said.
+
+""We're out and about 24/7 and we'll always take that call."" ",6,1768890242.0,Winnipeg,0,1.0,False
+1qhti96,https://v.redd.it/enaq7mns6geg1,☕️🌽Corn Latte🌽☕️,"☕️🌽my version of oksusu latte🌽☕️
+
+.
+
+🌽a creamy Korean style corn latte made with sweet corn, smooth milk, and coffee. ",1,1768890225.0,CoffeePH,0,0.56,False
+1qhti5h,https://www.reddit.com/r/LiveFromNewYork/comments/1qhti5h/35_years_ago_last_night_sting_the_following/,"35 years ago last night (Sting), the following sketches premiered...","* Deep Thoughts by Jack Handey
+
+* Copy Machine (Rob Schneider)
+
+* Coffee Talk with Paul Baldwin (Mike Myers)
+
+Of course Paul Baldwin would soon be replaced by Linda Richman, the name of Myers' IRL then-mother-in-law",9,1768890215.0,LiveFromNewYork,0,1.0,False
+1qhthh2,https://i.redd.it/oeq5p8fl6geg1.jpeg,kopiko? NOPE!!,,29,1768890153.0,filipuns,2,0.98,False
