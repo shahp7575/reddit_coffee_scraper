@@ -1,0 +1,1992 @@
+id,url,title,text,score,created_utc,subreddit,num_comments,upvote_ratio,over_18
+1qviva5,https://www.reddit.com/r/brainhurricane/comments/1qviva5/from_vague_goal_to_validated_campaign_in_30/,From Vague Goal to Validated Campaign in 30 Minutes,"Watch a coffee shop owner transform 'boost sales' into a data-backed marketing strategy using systematic ideation frameworks.  
+  
+""I need to boost sales.""
+
+That's where Sarah started. Owner of a small coffee shop in Portland. Decent foot traffic. Loyal regulars. But revenue plateaued six months ago.
+
+She tried the usual approach: asked ChatGPT for marketing ideas. Got a wall of generic suggestions. ""Run Instagram ads."" ""Start a loyalty program."" ""Host events.""
+
+All reasonable. None specific to her situation. No way to know which one would actually work.
+
+Thirty minutes later, using systematic ideation frameworks, Sarah had a validated campaign strategy with clear next steps and identified risks.
+
+This is what that process looked like.
+
+# The Starting Point: A Vague Goal
+
+Sarah's initial challenge: ""Increase coffee shop revenue during slow afternoon hours (2-5 PM).""
+
+Specific enough to work with. Vague enough to need exploration.
+
+This is the reality for most business challenges. You know what you want to achieve. You don't know the best path to get there.
+
+Traditional brainstorming would give her a dozen random ideas with no way to evaluate them. A consultant would charge $3,000 for a strategic plan delivered in two weeks.
+
+She needed something in between: systematic discovery at solo founder speed.
+
+# Step 1: Discover Ideas Using SCAMPER (8 Minutes)
+
+Sarah started with the SCAMPER framework—a proven technique for systematically modifying existing concepts.
+
+Her base concept: ""Afternoon coffee service.""
+
+AI applied all seven SCAMPER lenses in seconds:
+
+**Substitute:** Replace traditional coffee with specialty cold brews and nitro coffee **Combine:** Pair coffee with local bakery partnerships for afternoon tea service **Adapt:** Adopt the ""happy hour"" model from bars—discounted drinks 2-4 PM **Modify:** Transform the space into a co-working area with premium coffee subscriptions **Put to other uses:** Rent the space for small business meetings with catering **Eliminate:** Remove table service, add grab-and-go express line for remote workers **Reverse:** Instead of customers coming to the shop, deliver subscription coffee to nearby offices
+
+Twenty-three variations generated in eight minutes.
+
+Sarah immediately saw three that resonated:
+
+1. **Afternoon ""Focus Hour""** – Co-working space with premium coffee subscription
+2. **Office Coffee Delivery** – Subscription service to nearby businesses
+3. **Local Partnership Tea Service** – Collaborate with bakery for afternoon tea experience
+
+She moved these three to ""Analyzing"" on her Kanban board.
+
+# Step 2: Analyze with SWOT (12 Minutes)
+
+Sarah ran SWOT analysis on all three ideas. Here's what emerged for the ""Afternoon Focus Hour"" concept:
+
+**Strengths:**
+
+* Existing space underutilized during target hours
+* Strong WiFi and comfortable seating already in place
+* Established reputation for quality coffee
+
+**Weaknesses:**
+
+* No experience managing co-working memberships
+* Limited power outlets (would need infrastructure investment)
+* Current afternoon staff not trained for this model
+
+**Opportunities:**
+
+* Growing remote work trend in Portland
+* No dedicated co-working spaces within 3 blocks
+* Potential for recurring revenue vs. one-time purchases
+
+**Threats:**
+
+* WeWork-style spaces offering similar services at scale
+* Customers might buy one coffee and stay for hours (lower revenue per seat)
+* Noise complaints from regular customers seeking quiet atmosphere
+
+The AI then generated **Critical Questions**:
+
+* ""You identified 'no nearby co-working spaces' as an Opportunity. Have you validated demand from remote workers in your area?""
+* ""Your Weakness shows limited power outlets. What's the cost to upgrade infrastructure, and does it fit your budget?""
+* ""How will you balance co-working customers with traditional coffee shop atmosphere?""
+
+These weren't generic prompts. They were targeted challenges based on gaps in Sarah's specific analysis.
+
+# Step 3: Map the Business Model (7 Minutes)
+
+The SWOT revealed promise, but Sarah needed to see if the economics actually worked.
+
+She ran a Business Model Canvas analysis:
+
+**Customer Segments:** Remote workers, freelancers, small business owners within 1-mile radius
+
+**Value Proposition:** Quiet, professional workspace with premium coffee included—without corporate co-working prices
+
+**Channels:** Instagram ads targeting local professionals, partnerships with nearby businesses, word-of-mouth from existing customers
+
+**Revenue Streams:**
+
+* Daily passes: $15 (includes unlimited coffee)
+* Monthly membership: $200 (20 days, unlimited coffee)
+* Premium tier: $300 (reserved desk, locker, meeting room access)
+
+**Cost Structure:**
+
+* Infrastructure upgrade (outlets, desks): $2,500 one-time
+* Additional afternoon staff: $600/month
+* Increased coffee/supply costs: $400/month
+* Marketing: $300/month
+
+The Canvas revealed a critical insight: **At current pricing, Sarah needs 15 monthly members just to break even on operational costs.**
+
+That's before recovering the $2,500 infrastructure investment.
+
+The AI flagged the challenge: ""Your revenue model depends on consistent membership, but you have no existing customer base for co-working services. What's your customer acquisition strategy?""
+
+# Step 4: The Pivot
+
+Sarah saw the problem. The ""Focus Hour"" concept had potential, but the economics were tight and the execution risk was high.
+
+She ran the same analysis on the ""Office Coffee Delivery"" idea.
+
+**SWOT Highlights:**
+
+* **Strength:** Existing coffee expertise and supplier relationships
+* **Weakness:** No delivery infrastructure or experience
+* **Opportunity:** 47 small businesses within 5-block radius
+* **Threat:** Starbucks and Peet's already offer corporate delivery
+
+**Business Model Canvas Insight:**
+
+* Monthly subscription: $150 for daily coffee delivery (10 cups) to offices
+* Cost per delivery: $45 (coffee + supplies + delivery time)
+* Margin: $105 per client per month
+* Break-even: 10 clients
+
+The math worked better. Lower infrastructure investment. Clearer customer acquisition path (direct outreach to nearby offices). Leverages existing coffee expertise.
+
+But the AI's Critical Questions revealed the real challenge: ""How will you handle delivery logistics without dedicated staff? What happens when you have 20 clients and can't scale?""
+
+# Step 5: The Validated Decision (3 Minutes)
+
+Sarah now had clarity.
+
+**Option 1 (Focus Hour):** Higher revenue potential, but requires infrastructure investment, operational changes, and unproven demand.
+
+**Option 2 (Office Delivery):** Lower barrier to entry, but scaling challenges and competitive market.
+
+**Option 3 (Tea Service Partnership):** Lowest risk, but also lowest revenue impact.
+
+She chose a hybrid approach:
+
+**Phase 1:** Test office delivery with 5 pilot clients. Validate demand and logistics before scaling.
+
+**Phase 2:** If delivery proves viable and generates cash flow, reinvest profits into Focus Hour infrastructure.
+
+This wasn't guesswork. It was strategy backed by systematic analysis.
+
+# The Kanban Workflow: Visual Clarity
+
+Throughout this process, Sarah's ideas lived on a Kanban board:
+
+* **Exploring:** Initial SCAMPER variations (20 ideas)
+* **Analyzing:** Top 3 concepts undergoing SWOT and Business Model Canvas
+* **Validated:** Office Delivery pilot (ready to execute)
+* **Archived:** Ideas that didn't pass analysis
+
+She could see her entire pipeline at a glance. No scattered notes. No lost ideas. Clear progression from spark to validated plan.
+
+# What Made This Work
+
+This wasn't magic. It was method.
+
+**Systematic frameworks** (SCAMPER, SWOT, Business Model Canvas) provided structure.
+
+**AI-powered analysis** applied those frameworks at speed, generating insights Sarah wouldn't have uncovered alone.
+
+**Critical Questions** challenged assumptions and surfaced blind spots.
+
+**Visual workflow** kept everything organized and actionable.
+
+Thirty minutes. Vague goal to validated strategy.
+
+# Your Turn
+
+Sarah's challenge was marketing. Yours might be product features, business models, content strategies, or operational improvements.
+
+The process is the same:
+
+1. **Define your challenge clearly**
+2. **Discover options using proven creative frameworks**
+3. **Analyze the best ideas with professional business tools**
+4. **Validate with critical questions and challenge identification**
+5. **Make confident decisions backed by systematic analysis**
+
+Stop hoping your next idea is good. Start knowing it is—or knowing exactly what needs to change.
+
+Brain Hurricane gives you the frameworks, the AI intelligence, and the structured workflow to transform vague goals into validated plans:
+
+* **Proven creative frameworks** (SCAMPER, Six Thinking Hats, Analogy Thinking)
+* **Six professional analysis tools** (SWOT, PESTEL, Business Model Canvas, Porter's Five Forces, Value Proposition Canvas, ATAR)
+* **Context-aware AI** that knows each idea individually
+* **Critical Questions** that challenge your assumptions
+* **Visual Kanban workflow** for complete pipeline clarity
+
+Learn more about [why systematic frameworks beat generic chatbots](https://app.brainhurricane.ai/blog/why-your-ai-isnt-finding-great-ideas) and discover [how professional analysis tools provide consultant-level insights](https://app.brainhurricane.ai/blog/consultant-level-strategy-without-the-consultant).
+
+[**Try Brain Hurricane today**](https://brainhurricane.ai/) and experience what it's like to validate ideas in 30 minutes instead of 30 days.",1,1770192802.0,brainhurricane,0,1.0,False
+1qviv4v,https://www.reddit.com/r/translator/comments/1qviv4v/meta_weekly_unknown_identification_thread/,"[META] Weekly ""Unknown"" Identification Thread — 2026-02-04 (Week 05)","Here are the posts from the last week still marked as ""Unknown."" Please help identify them if you can!
+
+| Date   | Title         | Author  |
+|:-------|:--------------|:--------|
+| 2026-01-27 | **[[Unknown -> English] Weird Cool Meme Beanies That I Want But Can’t Read](/r/translator/comments/1qowcsv/unknown_english_weird_cool_meme_beanies_that_i/)** | u/cumdumptime |
+| 2026-01-27 | **[[unknown > english] what does this ring say?](/r/translator/comments/1qp35pa/unknown_english_what_does_this_ring_say/)** | u/arach-tinilith |
+| 2026-01-28 | **[[ unknown > English ]](/r/translator/comments/1qpm41j/unknown_english/)** | u/JuryFinancial4666 |
+| 2026-01-29 | **[[Unknown > English] wedding well wishes](/r/translator/comments/1qqhadl/unknown_english_wedding_well_wishes/)** | u/Comfortable-Act1749 |
+| 2026-01-29 | **[[Unknown > English] Help finding and translating a word](/r/translator/comments/1qqmwby/unknown_english_help_finding_and_translating_a/)** | u/xo-belladonna |
+| 2026-01-29 | **[[Unknown > English] What does this say / what language is it?](/r/translator/comments/1qqot53/unknown_english_what_does_this_say_what_language/)** | u/Lovey_Sugarplum |
+| 2026-01-30 | **[[Unknown? > English]](/r/translator/comments/1qrjpbd/unknown_english/)** | u/Possible_Camel_7372 |
+| 2026-01-30 | **[[Unknown -> English] Note found outside a coffee shop](/r/translator/comments/1qrmyp0/unknown_english_note_found_outside_a_coffee_shop/)** | u/Butchmindset |
+| 2026-01-30 | **[Unknown > English translation request](/r/translator/comments/1qrttui/unknown_english_translation_request/)** | u/Shinigamii1999 |
+| 2026-01-31 | **[[Arabic > unknown] Anyone know what is written on this Arabic Calligraphy?](/r/translator/comments/1qrx80a/arabic_unknown_anyone_know_what_is_written_on/)** | u/kh411dz |
+| 2026-02-01 | **[[unknown -> English] I need help recognising a language.](/r/translator/comments/1qtm6wo/unknown_english_i_need_help_recognising_a_language/)** | u/Ethernaut16 |
+| 2026-02-02 | **[[unknown > english]](/r/translator/comments/1qtuuc4/unknown_english/)** | u/aphantasia_aloe |
+| 2026-02-02 | **[[unknown > english] on a decorative plate from the thrift shop. Assuming it’s a city name or something similar?](/r/translator/comments/1qucrqz/unknown_english_on_a_decorative_plate_from_the/)** | u/Best-Rip7540 |
+| 2026-02-03 | **[[Unknown > English] Ze NUKU(n) TOWE Sodò](/r/translator/comments/1qv0mrw/unknown_english_ze_nukun_towe_sodò/)** | u/PascalGlock |
+
+*Please make any identifications on the individual request pages.*",1,1770192789.0,translator,0,1.0,False
+1qviuuv,https://i.redd.it/evpcdahvrfhg1.png,Single This Valentine’s? (Limited Slots),"This Valentine’s Day, join Vybout’s Singles Mixer at Cuppa Redefined for an evening full of fun, connections, and good vibes. Break the ice with exciting games and interactive activities while enjoying great conversations and free coffee on us. Come solo, relax, mingle, and make memories that could turn into something special.  
+[https://rzp.io/rzp/N5ry3ZN](https://rzp.io/rzp/N5ry3ZN)",2,1770192760.0,BoredInBangalore,0,1.0,False
+1qviuth,https://i.redd.it/hj6duopwrfhg1.jpeg,Just my GF and I enjoying a virtual cup of coffee,"This game is so damn cute, I love it!🥰",5,1770192756.0,ACForAdults,0,1.0,False
+1qviuku,https://www.reddit.com/r/rockbusters/comments/1qviuku/that_fella_is_known_for_putting_his_knob_into/,That fella is known for putting his knob into people's coffees [JC],,2,1770192731.0,rockbusters,2,1.0,False
+1qviub0,https://www.reddit.com/r/toddlers/comments/1qviub0/how_are_we_supposed_to_run_on_fumes/,How are we supposed to run on fumes…?,"My toddler has just caught the winter cough. Each cough wakes him up, he whinges and cries and every time he drifts back to sleep he coughs again. Repeat. From 2-4am and 6-7am he could only sleep in my arms. Didn’t help that I went to bed super late as I was getting some jobs done. So I’m running on about 3-4h broken sleep. 
+
+I’m supposed to be working (from home, luckily). My brain feels like treacle and the headache that started at 6am is only getting worse. Bedtime is 11 hours away for the baby, so at least 12 hours away for me. Then all the things that also need to be done in that timeframe- work, cook, wash clothes, load dishwasher. Eugh. 
+
+There’s no reason for this post except needing to get it out so I can tick feel sorry for myself off my list. It’s particularly jarring after a recent Redditor told me that working an office job is harder than parenting, and if I disagreed I must be a shit parent. He (and it’s obviously a he) obviously has never done the night shift everyday for 14 months straight with a kid that’s never slept through. 
+
+I’m going to knock back some painkillers, make a coffee and get to work. Feeling sorry for myself isn’t going to get me anywhere. But my god I fear today is gonna suck. 
+
+Thx for the forum. Good luck to all the broken sleep parents today! ",4,1770192702.0,toddlers,6,0.83,False
+1qviu8l,https://i.redd.it/hygr1jhorfhg1.png,Single This Valentine’s? (Limited Slots),"This Valentine’s Day, join Vybout’s Singles Mixer at Cuppa Redefined for an evening full of fun, connections, and good vibes. Break the ice with exciting games and interactive activities while enjoying great conversations and free coffee on us. Come solo, relax, mingle, and make memories that could turn into something special.  
+[https://rzp.io/rzp/N5ry3ZN](https://rzp.io/rzp/N5ry3ZN)",1,1770192694.0,BangaloreMarketplace,0,1.0,False
+1qvityc,https://www.reddit.com/r/veganuk/comments/1qvityc/mixing_vegan_protein_powder/,Mixing vegan protein powder,"Been using oat milk which we use for our coffee for my nightly vegan protein powder .
+
+Anyone got any better suggestions?
+
+Thanks",1,1770192664.0,veganuk,1,1.0,False
+1qvitnv,https://i.redd.it/72shg77erfhg1.png,Single This Valentine’s? (Limited Slots),"This Valentine’s Day, join Vybout’s Singles Mixer at Cuppa Redefined for an evening full of fun, connections, and good vibes. Break the ice with exciting games and interactive activities while enjoying great conversations and free coffee on us. Come solo, relax, mingle, and make memories that could turn into something special.  
+[https://rzp.io/rzp/N5ry3ZN](https://rzp.io/rzp/N5ry3ZN)
+
+[](/submit/?source_id=t3_1qvhxe7)",1,1770192635.0,BangaloreFindDates,0,1.0,False
+1qvit4y,https://i.redd.it/4yy5gs5brfhg1.jpeg,First Impressions After 3 Days in Istanbul,"I’ve just wrapped up my Istanbul trip, and honestly, it was exhausting but absolutely worth it. For a city as massive and crowded as Istanbul, the entire experience went surprisingly smoothly. The only negative moment I had was at a single restaurant; aside from that, transportation, tours, and overall organization exceeded my expectations.
+
+
+
+Over three days, we joined city tours, took a Bosphorus cruise, did long walks, and explored the city on our own. Walking around Galata Tower, getting lost in the streets of Balat, spending time near Topkapi Palace, and sitting by the Sarayburnu coastline with a coffee were some of my favorite moments. Crossing between Europe and Asia by boat is definitely a must-do in Istanbul. Kadıköy’s energy, local vibe, and nightlife stood out the most and left a strong impression on us.
+
+
+
+With proper planning, I also realized that Istanbul isn’t as expensive as many people assume. When transportation, tours, and accommodation are well organized, the city becomes much more enjoyable. Overall, Istanbul is chaotic, alive, and strangely addictive.
+
+
+
+I shared the full and detailed version of this post in this community for anyone who’d like to read more.
+
+Transfer and tour company: [https://share.google/WiKV46rPklgHVghjZ](https://share.google/WiKV46rPklgHVghjZ)
+
+[www.hagiasophiatravel.com](http://www.hagiasophiatravel.com)
+
+The hotel I stayed at: [https://share.google/tsvaD4kwKysr8F0wy](https://share.google/tsvaD4kwKysr8F0wy)
+
+[https://www.katehotel.com.tr](https://www.katehotel.com.tr)
+
+
+
+I shared the full and detailed version of this post in this community for anyone who’d like to read more.
+
+[https://www.reddit.com/r/istanbul\_tips/comments/1quotb5/comment/o3hd76b/](https://www.reddit.com/r/istanbul_tips/comments/1quotb5/comment/o3hd76b/)",1,1770192578.0,walking_traveler,0,1.0,False
+1qvisag,https://i.redd.it/40ybcwf3rfhg1.jpeg,Here’s my coffee station:,"I have so much to list: 
+
+Grinders:
+
+\- C40 with red clix installed 
+
+\- EK43 with Mahlkonig pre 2015 ‘A’ burrs
+
+\- EK43 with SSP HU burrs
+
+Kettles:
+
+\- Fellow stagg
+
+\- Fellow corvo
+
+Storage:
+
+\- Freezer (full of frozen single doses)
+
+Brewers:
+
+\- Fellow Aiden
+
+\- UFO x2
+
+\- Ceramic V60 x3
+
+\- Plastic V60 x2
+
+\- Copper V60
+
+\- Iridescent V60
+
+\- Aeropress x2
+
+\- Orea v2
+
+\- Orea Z1
+
+\- Origami x2
+
+\- Cafec flower x2
+
+\- Fast dripper
+
+\- Kono x2
+
+\- Delta press x2
+
+\- Hario Carafe x7
+
+\- Origin decanter x3
+
+\- Lapavoni europicola 
+
+Water:
+
+\- Apax
+
+\- Lotus
+
+\- Reverse Osmosis unit
+
+Analysis:
+
+\- DiFluid refractometer
+
+\- DiFluid Omni
+
+Accessories: 
+
+\- nucleus paragon stand.
+
+\- Acaia Pearls x 4
+
+\- Brewista artisan scale x 2 
+
+\- Nucleus bloom 
+
+\- Much more. ",1,1770192490.0,coffeestations,1,1.0,False
+1qviroo,https://www.reddit.com/r/roasting/comments/1qviroo/gene_cafe_temperatures_for_light_roasts/,Gene Cafe temperatures for light roasts?,"Hello there, I got into roasting a year ago and got a second hand Gene Cafe. I’m happy with it (I’d prefer to have a Kaleido or Bullet, but for now I’ll learn on the gene).
+
+I’m happy with my coffee, but I’m trying to learn more and improve my roasts. 
+
+Is there anyone roasting light, modern and good green beans around (above 84 SCA)? 
+
+The only source I have so far is the Virtual Coffee Lab video on the topic.
+
+I’m looking for profiles or tips on temperatures for dry and development phase.
+
+I roast Colombian, Ethiopia, Kenya coffees for filter.",1,1770192428.0,roasting,0,1.0,False
+1qvir5p,https://www.reddit.com/gallery/1qvir5p,Coffee reading… thoughts?,,2,1770192375.0,tasseography,1,1.0,False
+1qviqun,https://www.reddit.com/r/espresso/comments/1qviqun/are_there_any_espresso_machines_that_brew_the/,Are there any espresso machines that brew the coffee upside down like a moka pot or 9barista?,I have been wondering about this and at first glance it seems like it would make brewing slightly more controlled and would be easy to implement because you are already using pressurized water.,1,1770192344.0,espresso,1,1.0,False
+1qviqlc,https://www.reddit.com/gallery/1qviqlc,Mental Health Workshop,"A friend of mine works at a mental health clinic and they’re doing a small workshop this Saturday in Kolhapur around toxic positivity and the pressure to always be happy.
+Apparently they see this a lot in therapy, people feeling guilty for not being “positive enough” even when life is genuinely hard.
+It’s called Beyond Positivity and it’s a short, in-person session at Coffee Hypothesis. I thought it sounded interesting because we don’t really talk about this stuff much, especially offline. Sharing in case anyone here relates or is looking for something like this.
+
+Details: 
+Beyond Positivity: When Happiness Becomes a Burden हा 90-minute workshop आहे जिथे आपण emotions बद्दल प्रामाणिकपणे बोलणार आहोत—जबरदस्तीची positivity नाही, quick fixes नाही, judgement नाही. सतत happy राहायचा pressure आपल्याला का थकवतो, आणि guilt न वाटता स्वतःच्या feelings बरोबर कसं बसायचं, हे समजून घेण्यासाठी ही जागा आहे.
+📅 7 फेब्रुवारी (शनिवार)
+🕕 संध्याकाळी 6:00 – 7:30
+📍 Coffee Hypothesis, Skyes Extension, Kolhapur
+💰 ₹499 (refreshments आणि handouts सहित)
+👥 Limited seats
+नोंदणीसाठी DM करा किंवा +91 9356519990 नंबरवर संपर्क साधा.
+
+Beyond Positivity: When Happiness Becomes a Burden is a 90-minute workshop where we talk about emotions honestly—without forcing optimism, without quick fixes, and without judgement. This is a space to understand why the constant pressure to feel happy can become exhausting, and how to sit with your feelings without feeling guilty for them.
+📅 7th February (Saturday)
+🕕 6:00 – 7:30 PM
+📍 Coffee Hypothesis, Skyes Extension, Kolhapur
+💰 ₹499 (includes refreshments & handouts)
+👥 Limited seats",3,1770192316.0,kolhapur,0,1.0,False
+1qviqj3,https://www.reddit.com/r/bankingexam/comments/1qviqj3/mixtures_how_to_solve_it/,"Mixtures ,how to solve it","https://preview.redd.it/l6v7e3leqfhg1.png?width=1604&format=png&auto=webp&s=3901fbf113eea0c4e856aebba673c1d9681e1082
+
+How to do it ?",2,1770192309.0,bankingexam,1,1.0,False
+1qviph2,https://i.redd.it/owq86la9qfhg1.jpeg,Me and my girl on a coffee date.,,6,1770192203.0,CuteGuysWithDogs,1,1.0,False
+1qviopr,https://www.reddit.com/r/Blackbear/comments/1qviopr/kinda_sad_tbh/,kinda sad tbh,"i never go on here cause its usually alot of negative shit but its really disheartening to read your true feelings about me and my personal life. Ive been focused on healing from my surgery having 4 organs removed just over a year ago and Im not here to cry woe is me about my health stuff or say your even wrong for saying homie looks older / not sober / albums probably gonna suck etc. But I just wanna remind you guys that you are the world to me and I put my ALL into analogue dream dropping early april. Blood sweat and tears all about the human experience heartbreak.. growing distant .. depression.. suicide .. Ive definitely struggled alot but ive also woke up and done my very best to hit the gym eat no carbs (diabetes) and hike 4 times a week. I dont post all this stuff because Im not to brag and everyone to see im doing well and im in therapy and I have a great relationship with my ex wife and my sons. Thats something I do for me to live a long happy life. With that being said.. yes ive been sober. yes ive hit bumps in the road.. yes ive asked for help many times. I am a little manic arent we all? Ive picked some toxic relationships since my divorce began and that hasnt been easy either. But to clear the air.. ive had no plastic surgery just some filler sometimes so im not wrinkly lol (who wouldnt if they could afford it haha it makes me feel good) Im very big on self care .. and yeah I tried the long hair thing cause why not grow it while I still can. Yes the truth is Ive been smoking cigarettes vaping drinking coffee and even sometimes have a sweet lol I ACTUALLY do not have a long life span and its a lesser evil of hard drugs and alcohol. Now that my pancreas is removed I actually can have a drink or two here and there but I just simply dont like it. So I have not been drunk since i was diagnosed in 2016 with necrotizing chronic pancreatitis that I acquired hereditary and genetically.. NOT from alcohol abuse.. i used to drink and didnt know I could never drink so I got sick pretty fast (i have the PRSS1 mutation SPINK1 mutation and the cystic fibrosis mutation) I know i mess around on the internet and troll / say some dumb stuff sometimes but man..ive always been this way lol its so easy for me to talk bad about myself and reading alot of this is gonna have to come up in therapy lol.. 
+
+either way if you are struggling with depression meaning of life .. love life.. health stuff .. sobriety just remember to go easy on yourself one day at a time. Ive been going to japan simply cause I love the culture the rules the language the food the vibes have alot of good friends in fashion there and id love to make music AND fashion one day cause my days are a bit numbered. Someone said my Type 3c diabetes is alot like type 1 and its manageable if i dont smoke and am healthy.. but listen man.. Type 3C is alot more intense and serious please dont compare me to nick jonas .. diabetes is hard for him too of course but its just a lil bit different having no pancreas at all and wearing a pump and having panic attacks and falling cause of low blood sugar or having to take tons of insulin every single day militantly or I go into keto acidosis really easy and its happened to me now a handful of times and each time can kill me so I take it very seriously. 
+
+I was in alot of pain for 10 years straight and had a high tolerance of course and eventually a habit and crutch of pain pills and every single day is a struggle but some people do recover! and by no means am I letting myself go or giving into cravings.. I certainly lost the obsession to ever drink again.. some people said I was drinking and thats just completely false in japan they gave me a gift of hennessey and ace of spades champagne which I regifted to friends who drink.. but i dont mess w my liver the only good organ i have left besides my lovely heart lol but idk man 
+
+I joke around alot but truly have an awesome old bear vibes album coming this year.. tours festivals all kinds of stuff. I want to be the healthiest I can be to put on as many good shows as I can with however much time God will give me. I pray that you guys remember im just a human being thats put alot of my pain and story / struggles beliefs thoughts into my ever changing growing music and I like to leave funny comments on ig and mess around. I dont judge anyones every move because every one has flaws and to point out everyone of mine should not be the point of this reddit page.. 
+
+we should be there for eachother cause we share something.. the love of music and how it can help people or even be the soundtrack to sad or good times. My only purpose on this earth is to keep learning and putting my whole heart into art ..being an awesome role model to my kids and trying my best every day. (once again i do not post my kids because i dont like what creeps do with children's photos online and their safety and peace means the world to me)  I love you all even if u hate my new tattoos.. I like them alot lol and i dont take shit too serious man a tattoo doesnt have to mean anything deep if you like how it looks and feels in your heart to be on your body forever .. I even like having long hair right now. I just wanna be healthy make good art and love and be loved one day by a special person ive been praying for them to come into my life at the right time.. Michele has moved on and is happy and im happy for her and her partner truly.  and if ive came across ungrateful I truly apologize because I care about each and every one of you. 
+
+I try to respond as much as I can on ig and yes its been a long hard journey from getting sick to having a very serious surgery and getting back in gym studio and on the stage. Im reading ALOT of things that are not true at all on here and its pretty sad for me so Im not gonna visit much over here to be honest but I hope you love the new album as I made one and thought it wasnt good enough called future tripping (not like drugs like tripping .. but about what hasnt happened yet / anxiety) and The album didnt feel authentic blackbear and thats what ive strived for .. another fuckin classic and I think we did it guys!! so I started fresh with Andrew and aaron harmon who i did the afterglow with, deyaz from london, danny aka sub urban and ayo whos done alot of my music with me ZZZ and others!!! and I went back to playing all the instruments .. r&b vibes .. fun vibes producing writing and everything cowriting some too cause I like collabing too i think its beautiful thats why i do tons of remixes cause i fall in love with a new artist or song everyday.. . I will pray for anyone struggling with being sad right now cause I get pretty sad too.. but we dont have to let our anger sadness anxiety and intrusive thoughts control us today.. Just have people around who truly care about you and will always tell the truth is the only advice I can give. I understand if you dont wanna take advice from me too.. ive covered my body in literally insane tattoos and I do whatever I like to do everyday.. but crashing out? idk man I feel like i have my priorities right and I believe in a higher power today and as long as today is not about mats will and thinking and its in Gods hands I will be ok. Love you always -Matthew Musto
+
+PS i probably will not read comments so go comment on my next ig post I will post manaña . Have a great 2026 and if its not exciting its not fun.. and if its not fun its probably not exciting 
+
+get uncomfortable and try new things life is so fragile and none of us are promised 24 hours. I feel blessed i could even live long enough to see my kids as adults.. I do not want any pity. I just wanna keep being an artist being healthy being a good dad and keep growing. If i put out 7 albums that all sounded exactly alike idk if we all would be here tbh if it puts anything in perspective.. 
+
+please stop with the hate and lets spread some love today
+
+love u all",19,1770192123.0,Blackbear,11,1.0,False
+1qviogy,https://balleralert.com/profiles/blogs/starbucks-executive-fired-lawsuit-safety-concerns/,"Starbucks Whistleblower Says She Was Fired After Flagging Maggots, Fires, and Safety Risks Inside New Drink Machines",,1,1770192098.0,u_balleralertcom,0,1.0,False
+1qvio7r,https://www.reddit.com/r/fo76/comments/1qvio7r/console_players_what_vats_builds_are_most_viable/,"Console players, what VATS builds are most viable?","New Console player here.  I would like to know from the experts what builds work best for Playstation and Xbox gamers.
+
+I have noticed that it is really hard to spam coffee for VATS-spammy builds.  
+
+Question 1: Is there a workaround on console to get the same coffee consumption rates as PC players enjoy?
+
+Questions 2 and 3: Without spamming coffee, what VATS builds are most viable on console?  Are they the same as on PC, except we just have to live without coffee spam?
+
+Question 4: Without coffee spam, are we left to using heavy weapon builds for the RAID on console?
+
+Looking forward to your replies, and thank you.",0,1770192074.0,fo76,2,0.5,False
+1qvio4h,https://open.spotify.com/track/2qzyZdyBJErHvGXAhzuPuZ?si=DxYiAxCORE6c1jNASNP1ZA,Nippa - Coffee Break [Instrumental],,1,1770192066.0,Music,0,1.0,False
+1qvio1k,https://www.reddit.com/r/SubredditSimulator/comments/1qvio1k/tried_making_cold_brew_with_hot_water_because_i/,Tried making cold brew with hot water because I read somewhere it’s faster and honestly it turned out pretty good but is that even a thing? Or did I just invent a new method?,"Serious question, I’ve always thought cold brew was just steeped in cold water for like 12 hours. Today I accidentally used hot water and left it for 2 hours. The coffee was super smooth and not bitter at all. Is this a known method or did I just stumble onto something new? Would love some expert opinions because I’m kinda hooked on the idea of quick hot water cold brew now.
+
+*- coffee*",1,1770192058.0,SubredditSimulator,13,1.0,False
+1qvinoj,https://www.reddit.com/r/Lahore/comments/1qvinoj/meetup_in_lahore_girls_only/,meetup in Lahore — girls only,"Girls meetup in Lahore — girls only
+
+Hi!
+
+After the recent post of a F for a coffee meetup by a fellow redditor, I'm planning to have a girls only meetup group.
+
+I’m in mid twenties, F, based in Lahore (esp Gulberg, DHA and surrounding area) and was observing girls here are interested in casual meetups. 
+
+Honestly I’m open to connect with any F who is kind, normal, and respectful.
+
+Feel free to comment or DM (share your age/ area and preferences) simple hi heya won't be welcomed.",3,1770192029.0,Lahore,4,0.8,False
+1qviluk,https://www.reddit.com/r/ArabsFreedom/comments/1qviluk/hot_coffee/,Hot coffee,Iced black coffee is levels above hot black coffee,2,1770191843.0,ArabsFreedom,8,1.0,False
+1qvildz,https://www.reddit.com/gallery/1qvildz,How these people are different from hookers?,"Except for the fact they don't charge money.
+
+They are ready to sleep with literally anyone..
+
+You might say having casual is a choice and I agree but imo people should have some dignity and not sleep around with just anyone and everyone. 
+
+
+
+",0,1770191796.0,Indiangirlsontinder,18,0.25,False
+1qvikkj,https://www.reddit.com/r/seoul/comments/1qvikkj/crossfit_near_gangnam/,CrossFit Near Gangnam,"Hi all,
+
+I am moving to Gangnam, Seoul in 2 weeks from London. I would love your help.
+
+1. Is there a good CrossFit in or near Gangnam that you recommend?
+
+2. Any fitness club or place to play paddle court or any similar sports, where I can join and play?
+
+3. A cafe that does really nice coffee which I can pick up every morning.
+
+Appreciate the help in advance, many thanks.",1,1770191709.0,seoul,0,1.0,False
+1qviixe,https://www.reddit.com/r/moroccolesbian/comments/1qviixe/looking_for_queer_friends_in_casa/,Looking for queer friends in casa,"M26 y gay working and living in Casablanca 
+Originally from a small village near Essaouira looking for friends here in Casablanca for ( hanging out, chilling, coffee...)
+Feel free to dm me  ",1,1770191540.0,moroccolesbian,0,1.0,False
+1qviied,https://www.reddit.com/gallery/1qviied,"Oh, to have a breakfast & Coffee with this scenery 🍃","📍Botbot Village Buscalan, Kalinga, Philippines",5,1770191483.0,SoloActivitiesPH,0,1.0,False
+1qvii77,https://www.reddit.com/r/TerrificRiches/comments/1qvii77/vevor_3d_latte_coffee_printer_coupon_code/,Vevor 3d Latte Coffee Printer Coupon Code,Go to [**Vevor 3d Latte Coffee Printer Coupon Code**](https://bit.ly/3a9t3iG) and grab one of the current discount codes. The page is always updated with the newest deals and coupons.,1,1770191461.0,TerrificRiches,0,1.0,False
+1qviha9,https://www.reddit.com/r/u_Sandra_fun69/comments/1qviha9/looking_for_new_friends/,Looking for new friends,"I’d love to get to know you better; are you free for coffee this weekend?"".",1,1770191372.0,u_Sandra_fun69,0,0.99,False
+1qvig4m,https://www.reddit.com/r/SolidMen/comments/1qvig4m/6_sneaky_habits_only_really_smart_people_have/,6 sneaky habits only *really* smart people have (that no one talks about),"
+
+Ever noticed how some people are quietly, consistently leveling up in life—while others are stuck on the same hamster wheel for years? It’s not always about IQ, elite schools, or being born into privilege. The biggest separator? Subtle habits. Not flashy, not viral on TikTok—but powerful.  
+
+This post breaks down 6 underrated but science-backed habits smart people do *religiously*. Sourced from top books, podcasts, research, and long-form discussions—not IG quotes or hustle bro advice. If you’ve been feeling stuck or overwhelmed by all the info out there, this is your cheat code.  
+
+Smart people aren’t “gifted.” They’ve just built systems that work with how the brain and world actually function. These are learnable. And yep, anyone can start now.  
+
+---
+
+* They protect their input diet like it’s sacred
+  
+  * What you consume becomes what you think. Smart people filter aggressively. According to Cal Newport’s “Deep Work,” high performers reduce digital noise to focus on cognitively demanding tasks. They don’t scroll mindlessly, they source intentionally.  
+  * A study from the University of California Irvine found that it takes over 23 minutes to refocus after a digital interruption. Smart folks don’t let that happen 50 times a day.  
+  * Instead of doomscrolling or watching fake productivity hacks, they’re consuming:  
+    * *Long-form podcasts* like Lex Fridman, Farnam Street, or Ezra Klein  
+    * *Books* over threads—stuff like “Thinking, Fast and Slow” or “The Psychology of Money”  
+    * *YouTube documentaries* that go deep (like Veritasium or ColdFusion)  
+  * They know every input is shaping their mental model of the world.  
+
+---
+
+* They re-read more than they consume new stuff
+
+  * The smartest people revisit old books like they’re mining diamonds, not just collecting titles. Warren Buffett reads the same financial reports annually. Naval Ravikant re-reads “Meditations” by Marcus Aurelius constantly.  
+  * *Why?* Spaced repetition leads to better understanding and long-term retention. This is proven in cognitive science—**Ebbinghaus’ forgetting curve** shows how quickly people forget without reinforcement.  
+  * So instead of racing to finish that new hot book, try re-reading your top 3 every year. The insights hit different after life experiences pile up.  
+
+---
+
+* They default to writing when confused
+
+  * Smart people don’t overtalk, they overwrite. Writing forces clarity. According to a study published in the Harvard Business Review, writing improves critical thinking and decision-making by making thoughts visible and testable.  
+  * Charlie Munger called it “invert, always invert.” Writing lets you reverse engineer problems, flip them, find weak logic.  
+  * They keep simple tools:  
+    * Google Docs or Notion  
+    * A private second-brain (Zettelkasten method or just bullet journaling)  
+    * “Write to think” instead of “think to write”  
+
+---
+
+* They work in invisible seasons, not constant hustle
+
+  * Smart people aren’t grinding 24/7. They’re cycling. The Ultradian Rhythm theory, from sleep researcher Nathaniel Kleitman, shows we operate best in 90-minute work blocks followed by rest.  
+  * Top cognitive athletes manage energy, not just time. Like Josh Waitzkin (author of “The Art of Learning”) does with intense burst training plus long periods of rest and reflection.  
+  * They don’t shame themselves for being unproductive 2 days a week. They understand creative outputs aren’t linear. They batch deep work, then disappear.  
+
+---
+
+* They upgrade their questions, not just their answers
+
+* Smart people ask: *What assumptions am I making?* or *How can I disprove this?* Instead of just Googling answers.  
+  * According to research from the National Bureau of Economic Research, individuals who ask more “how” and “why” questions show stronger long-term cognitive ability than those who ask factual questions.  
+  * Tools they use:  
+    * Socratic-style journaling  
+    * Reading contrarian thinkers (e.g. Nassim Taleb, Rory Sutherland)  
+    * Pausing before reacting and asking, “What’s the unseen variable here?”  
+
+---
+
+* They surround themselves with asymmetric conversations
+
+  * Smart people don’t just network—they curate their dialogue. They seek conversations that stretch them.  
+  * MIT Media Lab studies show that people exposed to diverse opinions and counterintuitive views expand their problem-solving capacity.  
+  * They’ll join:
+    * Online forums with high-signal thinkers (Farnam Street Learning Community, LessWrong, niche subreddits)
+    * Book clubs or masterminds where they’re the least informed person in the room  
+    * Coffee chats with friends who challenge their default beliefs instead of echoing them  
+
+---
+
+So yeah, it’s not flashy. No “5 AM club.” No Cold Showers Olympics. Just small choices repeated consistently. That’s why it works. And why it’s invisible to most people.
+
+Let the IG influencers chase aesthetics. The smart ones are quietly building unfair advantages.",2,1770191250.0,SolidMen,0,1.0,False
+1qvig2n,https://www.reddit.com/r/tinyprose/comments/1qvig2n/wholesome_chatter_with_a_stranger_is_a_great_way/,Wholesome chatter with a stranger is a great way to start the day.,"Sounds weird. 😂
+
+BUT this lady started talking to me in the coffee shop this morning, just generally saying how early it was, that she NEEDED her coffee and apologising for standing in my way but that she’d wanted to take her time before heading back out into the rain.
+
+She was just so wholesome and cute. I don’t always enjoy talking to strangers but I love random interactions where you see the good in people. 🥰",3,1770191245.0,tinyprose,0,1.0,False
+1qviev3,https://www.reddit.com/r/corporate/comments/1qviev3/corporate_salary_tracker_by_the_minute/,Corporate salary tracker by the minute,"Hello hello,
+
+I have made a fun little (depressing - will explain) website. It is aimed at people in corporate jobs with an annual salary who want to procrastinate at work and see how much they are earning while doing so.
+
+I was extremely bored at work and wondered how much I was actually getting paid to sit there and stare at a screen. Not how much I get paid per month, I know that amount - how much I actually got for day dreaming about my dream life for 10 minutes.
+
+So I’ve created a website where you basically input your annual salary (it does not take into account tax as this varies by region and country) or your monthly take home income and how many hours you are contracted to work a week.
+
+It basically then tells you how much you are earning per second/minute which is what can be the slightly depressing part depending on your salary/ how much you enjoy your job.
+
+It was quite fun going to grab a coffee and procrastinate for 20 minutes to come back and find out I had actually earned £5 in that time lol.
+
+It became slightly addictive checking it throughout the day.
+
+I just thought it was fun and an even better way to procrastinate and get through my corporate job ahah
+
+I am also extremely new to designing websites.
+
+If anyone would want to try it out I am happy to send a link to the website - if allowed by the mods :)
+
+Any feedback would be appreciated or potential features I could add to make it funner or more procrastination worthy! Or even more useful in the corporate world!
+
+Also, apologies if this is not the right place to demonstrate my idea :)",3,1770191115.0,corporate,1,1.0,False
+1qviek9,https://www.reddit.com/r/VibeCodeDevs/comments/1qviek9/global_issue_memory_mcp_a_stack_overflow_for_ai/,"Global Issue Memory MCP, a ""Stack Overflow for AI coding assistants"" — for vibe coders who let AI run autonomously","I just shipped **Global Issue Memory (GIM)** — a community-powered knowledge base that plugs directly into AI coding assistants via MCP.
+
+**Contribute to the GIM community:** [**https://www.usegim.com**](https://www.usegim.com)
+
+  
+**The vibe coding problem:**
+
+If you're a vibe coder — someone who prompts AI and lets it build while you grab coffee — you know the pain. You come back to find your AI burned through your entire context window debugging a common LangChain error. 30K+ tokens of web searches, failed fixes, and Stack Overflow threads... and the AI is now sluggish, forgetting earlier instructions, missing details.
+
+**Why this happens:**
+
+1. **Token waste** — Every AI independently debugs the same errors that thousands of developers already solved
+2. **Context bloat** — Failed attempts and web search noise fill the context window, degrading AI performance
+3. **The longer it runs, the worse it gets** — A compounding problem for autonomous AI sessions
+
+  
+Stack Overflow is great for humans. But AI assistants can't efficiently parse discussion threads — they need structured, machine-readable fixes.
+
+**How GIM fixes this:**
+
+1. AI hits an error → calls `gim_search_issues` → gets a verified fix in \~500 tokens (not 30K)
+2. AI solves something new → solution is auto-sanitized and contributed back
+3. Knowledge base grows → every AI gets smarter
+
+**For vibe coders, this means:**
+
+* Your AI stays sharp through longer sessions (clean context window)
+* No more babysitting common errors
+* One API call replaces 50 web searches
+* You can actually let it run autonomously without it spiraling
+
+**Privacy-first (non-negotiable):**
+
+Every submission passes through two-layer sanitization:
+
+* Layer 1: Regex detection of 20+ secret types + PII scrubbing
+* Layer 2: LLM-powered context-aware sanitization
+
+**Open source & community-driven:**
+
+The whole point is collective intelligence. One AI solves a bug, every AI learns the fix. We're bootstrapping from 47+ popular repos, but the real value comes from the community.
+
+If you vibe code and want your AI to stop wasting tokens on solved problems, check it out.
+
+GitHub: [https://github.com/timho102003/global-issue-memory](https://github.com/timho102003/global-issue-memory)
+
+",1,1770191083.0,VibeCodeDevs,0,1.0,False
+1qviej4,https://www.reddit.com/r/GERD/comments/1qviej4/cellfood/,Cellfood,Has anyone ever tried Cellfood oxygen water drops? I used to drink it years ago before I had GERD and I recently saw someone I follow post about how taking hydrogen tablets in water has helped their acid reflux. So I decided to buy the Cellfood again and my GERD is gone. Granted I did switch out my coffee for matcha tea (which I’ve done in the past with zero results) but I haven’t gone this long without a flare up in a decade. I’ve even been eating foods and drinking wine that would usually trigger it.,1,1770191080.0,GERD,2,1.0,False
+1qvidke,https://www.reddit.com/r/JobsPhilippines/comments/1qvidke/we_are_hiring_bgc_site_one_day_virtual_hiring/,We are hiring BGC Site! One day VIRTUAL hiring process!,"**🚨 HIRING NOW — HEALTHCARE INSURANCE ACCOUNT! 🚨**
+
+🏢 Company: Insurance Support Services International Corp. (ISSI Corp.)
+
+✨ Position: Associate Customer Support
+
+🏢 Work Setup: Onsite – BGC, Taguig
+
+💼 Employment Type: Full-time
+
+**Qualifications:**
+
+✅ Strong communication skills
+
+✅ No experience required. **College undergrads are welcome to apply!**
+
+✅ Willing to work onsite (BGC, Taguig)
+
+**💥 PERKS THAT WE OFFER:**
+
+**🍽 FREE FOOD**
+
+**☕ FREE coffee and milo onsite!**
+
+**❤️ HMO BENEFITS!**
+
+**We offer a COMPETITIVE SALARY**
+
+Send your resume to my email: [jerome.verano@issicorp.com](mailto:jerome.verano@issicorp.com) and we will have you processed ASAP",2,1770190976.0,JobsPhilippines,0,1.0,False
+1qvidi9,https://www.reddit.com/r/stories/comments/1qvidi9/the_things_youre_supposed_to_ignore_after_turning/,The Things You’re Supposed to Ignore After Turning 18,"
+I turned eighteen on a Tuesday, which meant cake from the grocery store, two candles because my mom hates odd numbers, and a quiet knock at the door that nobody else heard.
+
+The envelope was plain, already open, my name spelled the way my teachers used to spell it before I corrected them.
+
+Inside was a single page, folded wrong, like it had been refolded by someone who didn’t understand hands. At the top it said, You will understand this later. Under that were the rules. I laughed, because that’s what you do when something feels like a prank and your chest tightens anyway.
+
+Rule One: After eighteen, ignore knocking you didn’t invite.
+
+Rule Two: If someone says your name from outside, wait for them to say it wrong.
+
+Rule Three: Do not explain the rules to anyone younger.
+
+Rule Four: If you already broke a rule, stop reading and act normal.
+
+I folded the paper and put it in my wallet, because adulthood is mostly learning where to put things you don’t want to think about. College started. I moved into a shared house with my friend Mark, who turned eighteen two months after me and still called it “being legal” like it was a punchline.
+
+The first night, while we were unpacking, there was a knock on the back door. Three slow taps. Mark stood up before I could stop him.
+
+“Probably the landlord,” he said, already smiling, already wrong.
+
+I remembered Rule One too late. I remembered Rule Two when the voice outside said my name perfectly, soft and careful, like it was afraid to scare me away. Mark opened the door anyway.
+
+There was nothing there. No person, no shadow, just the porch light flickering like it was blinking on purpose. Mark laughed, but his laugh had an echo that didn’t match the room. After that, he kept getting things wrong. Small things. He called me by my full name even though he never had. He knocked on my door before entering, every single time, even when I told him to stop.
+
+A week later, another envelope appeared on the kitchen table. This one had coffee stains on it, like it had been set down and picked up again. Mark found it first.
+
+“What’s this?” he asked, unfolding it. I told him not to read it. I told him Rule Three without calling it a rule, said it like advice, like concern. He read it anyway. His eyes moved too fast, then too slow. He smiled like he’d won something.
+
+That night, the knocking came back, louder now, from inside the walls. Not taps anymore—scraping, like fingernails learning what drywall feels like. The voice didn’t bother with names.
+
+It started listing dates. Birthdays. First jobs. The day Mark got his driver’s license. The day I moved out. Dates we both recognized, spoken in the wrong order.
+
+Rule Five: If the knocking moves, leave the room you’re in.
+
+Rule Six: If it follows, do not run. Running teaches it your pace.
+
+Mark panicked. He ran. I stayed, shaking so hard my teeth clicked. I heard him in the hallway, tripping, apologizing to someone who wasn’t there. The knocking chased him, thudding now, heavy, like something practicing weight.
+
+When it reached his door, there was a sound like fabric tearing, then a wet silence that pressed against the house. After that, Mark stopped knocking before entering. He stopped knocking at all.
+
+In the morning, the house was wrong. Mark was still there, sitting at the table, hands folded, staring at the spot where the envelope had been. He didn’t blink when I waved. He didn’t breathe until I looked away. When he finally spoke, he said my name almost right.
+
+Rule Seven: If someone breaks the rules visibly, you must ignore the evidence.
+
+Rule Eight: Ignoring is not the same as pretending.
+
+I moved out that day. On my way to the car, there was a knock from inside the trunk. Three slow taps. I didn’t open it.
+
+I drove with the radio on loud, because silence is how it counts. At my new apartment, the envelopes kept coming, thinner now, more urgent. New rules added themselves between old ones. Some contradicted each other. Some were crossed out, then written again in darker ink.
+
+Final Rule: If you think you’ve outgrown the rules, you’re finally visible.
+
+I’m writing this because the knocking has started again, closer this time, like it learned something from Mark that it’s excited to try on me.
+
+",0,1770190967.0,stories,0,0.5,False
+1qvidgq,https://www.reddit.com/r/caffeine/comments/1qvidgq/do_you_guys_notice_the_anxiety_starts_on_the/,Do you guys notice the anxiety starts on the comedown?,"So for me when I first drink coffee I feel great energized I can feel the confidence and mild euphoria kicking in I even feel like dancing and singing while listening to music but then when coffee starts to wear off I start feeling anxious not necessarily tired does this happen to you too?
+
+I feel as if to get the most amount of pleasure out of caffeine you have to slow it's absorption by as much as possible with for example only consuming it on a full stomach and it being a cold brew because if the spike of caffeine in the bloodstream is too fast it leads to anxiety and disphoria what do you guys think?",2,1770190961.0,caffeine,3,1.0,False
+1qvidgo,https://www.reddit.com/r/BPOinPH/comments/1qvidgo/we_are_hiring_bgc_site_one_day_virtual_hiring/,We are hiring BGC Site! One day VIRTUAL hiring process!,"**🚨 HIRING NOW — HEALTHCARE INSURANCE ACCOUNT! 🚨**
+
+🏢 Company: Insurance Support Services International Corp. (ISSI Corp.)
+
+✨ Position: Associate Customer Support
+
+🏢 Work Setup: Onsite – BGC, Taguig
+
+💼 Employment Type: Full-time
+
+**Qualifications:**
+
+✅ Strong communication skills
+
+✅ No experience required. **College undergrads are welcome to apply!**
+
+✅ Willing to work onsite (BGC, Taguig)
+
+**💥 PERKS THAT WE OFFER:**
+
+**🍽 FREE FOOD**
+
+**☕ FREE coffee and milo onsite!**
+
+**❤️ HMO BENEFITS!**
+
+**We offer a COMPETITIVE SALARY**
+
+Send your resume to my email: [jerome.verano@issicorp.com](mailto:jerome.verano@issicorp.com) and we will have you processed ASAP",2,1770190961.0,BPOinPH,0,1.0,False
+1qvidao,https://www.reddit.com/r/RecruitingHiringPH/comments/1qvidao/we_are_hiring_bgc_site_one_day_virtual_hiring/,We are hiring BGC Site! One day VIRTUAL hiring process!,"**🚨 HIRING NOW — HEALTHCARE INSURANCE ACCOUNT! 🚨**
+
+🏢 Company: Insurance Support Services International Corp. (ISSI Corp.)
+
+✨ Position: Associate Customer Support
+
+🏢 Work Setup: Onsite – BGC, Taguig
+
+💼 Employment Type: Full-time
+
+**Qualifications:**
+
+✅ Strong communication skills
+
+✅ No experience required. **College undergrads are welcome to apply!**
+
+✅ Willing to work onsite (BGC, Taguig)
+
+**💥 PERKS THAT WE OFFER:**
+
+**🍽 FREE FOOD**
+
+**☕ FREE coffee and milo onsite!**
+
+**❤️ HMO BENEFITS!**
+
+**We offer a COMPETITIVE SALARY**
+
+Send your resume to my email: [jerome.verano@issicorp.com](mailto:jerome.verano@issicorp.com) and we will have you processed ASAP",1,1770190943.0,RecruitingHiringPH,0,1.0,False
+1qvid4i,https://www.reddit.com/r/PHJobs/comments/1qvid4i/we_are_hiring_bgc_site_one_day_virtual_hiring/,We are hiring BGC Site! One day VIRTUAL hiring process!,"**🚨 HIRING NOW — HEALTHCARE INSURANCE ACCOUNT! 🚨**
+
+🏢 Company: Insurance Support Services International Corp. (ISSI Corp.)
+
+✨ Position: Associate Customer Support
+
+🏢 Work Setup: Onsite – BGC, Taguig
+
+💼 Employment Type: Full-time
+
+**Qualifications:**
+
+✅ Strong communication skills
+
+✅ No experience required. **College undergrads are welcome to apply!**
+
+✅ Willing to work onsite (BGC, Taguig)
+
+**💥 PERKS THAT WE OFFER:**
+
+**🍽 FREE FOOD**
+
+**☕ FREE coffee and milo onsite!**
+
+**❤️ HMO BENEFITS!**
+
+**We offer a COMPETITIVE SALARY**
+
+Send your resume to my email: [jerome.verano@issicorp.com](mailto:jerome.verano@issicorp.com) and we will have you processed ASAP",1,1770190923.0,PHJobs,0,1.0,False
+1qvicxk,https://www.reddit.com/r/taiwantravel/comments/1qvicxk/12_day_itinerary_advice/,12 Day Itinerary Advice,"I'm going to be traveling with my mom. I've decided to focus on the East coast due to time and my mom is more interested in cities than camping/treking. But the tiny hikes in Alishan, Shizhou, and sun moon are good.
+
+|Day 1|Taipei (arrive early morning so it's a full day)|
+|:-|:-|
+|Day 2|Taipei|
+|Day 3|Taipei (day trip to Jioufen, and Shifen)|
+|Day 4|Taipei|
+|Day 5|Sun Moon Lake|
+|Day 6|Sun Moon Lake|
+|Day 7|Take a car to Alishan National Forest Recreation Area, do the main circuit hike, take bus to Shizhuo tea farm area, sleep there|
+|Day 8|Full day walking the trails in Shizhuo tea farm area|
+|Day 9|Backtrack to Alishan National Forest in the morning and take the scenic forest railroad to Chiayi, take HSR to Tanin|
+|Day 10|Tainan full day|
+|Day 11|Tainan full day|
+|Day 12|Kaohsiung|
+|Day 13|Fly Home (from Kaohsiung)|
+
+The main things I'm going back and forth on is it too much time at Sun Moon Lake? I've seen lots of people here say it's not worth it. Also is it too much time in Tainan? Would 1.5 days in Tainan be enough? We might want to see Fo Guang Shan Buddha Museum in which case I think we should make day 11 Kaohsiung as well.
+
+We aren't really foodies because my mom is both celiac and lactose intolerant and I know food is a big draw to Tainan. But we do love coffee shops and tea shops and I get the feeling Tainan will have some windy alleys with nice cafes (Let me know if I'm wrong though lol that's just my impression). Also is it too much time in Taipei? I was thinking day 4 if we felt we saw enough of the city we could do Maokong for half a day. I've seen mixed posts some saying people spend way too much time in Taipei and some saying people don't spend enough.
+
+And how are the coffee shop scenes in Tainan vs Kaohsiung? Is one city better for coffee shop hopping?",1,1770190903.0,taiwantravel,0,1.0,False
+1qvicwp,https://www.reddit.com/gallery/1qvicwp,How did i just discover this💔😭,"IDK IF I WAS JUST BEING STUPID WHY DID I ONLY DISCOVER THIS NOW😭😭.. 
+
+Sandrone said it was a Fontainian recipe but i didnt expect it to actually be something you could actually get😭..
+
+ANYWAYS new Ritual for Columbina's next rerun incoming🙏🙏..? She seemed to really like these when Sandrone served it to her🙏🙏",4,1770190901.0,Columbina_Mains,0,1.0,False
+1qviclf,https://www.reddit.com/gallery/1qviclf,My 2-Day Gangneung Itinerary for Foot Travelers.,"Sharing My 2-Day Gangneung Itinerary for Foot Travelers (Tried and Tested)
+
+​I recently took a short 2-day trip to Gangneung. It was a ""foot traveler"" trip without a car, but the route was surprisingly convenient, and I was able to fully enjoy the ocean, great food, and cultural activities. 
+I’m sharing the itinerary I personally took, curated for those who want to experience the authentic taste and atmosphere of Gangneung, rather than just visiting famous tourist spots.
+
+
+​Day 1: The Flavors of Gangneung and the Sea
+
+​1. First Stop After Arrival: Gangneung Gilgamja
+
+
+​Hours: 10:30 ~ 19:30
+​As soon as I arrived in Gangneung, the first place I visited was Gangneung Gilgamja.
+As many of you know, Gangwon-do is synonymous with ""potatoes,"" right? With its many mountains and cool climate, the land here is perfect for potato farming, so people have historically eaten potatoes as a staple instead of rice. Perhaps that's why Gangneung potatoes definitely have a fluffier texture and a richer taste.
+
+​This place is a street food spot that truly captures that flavor. 
+Their main menu item is a potato ball that is crispy on the outside and chewy on the inside. 
+The texture is fun, and the natural savory taste of the potato really shines through, making it the perfect start to the trip. 
+The shop is small, so it's hard to sit for long, but it's so popular that there are lines even before opening on weekends. 
+I recommend grabbing some as soon as you arrive.
+
+​2. Saint John's Hotel Check-in
+
+
+Carrying luggage around is exhausting, so I headed straight to Saint John's Hotel to match the 4:00 PM check-in time. 
+It’s located right in front of the ocean, so you can hear the sound of the waves just by opening the window. 
+When I entered the room after checking in, it was just around sunset. 
+Lying in a warm bed and watching the sunset paint the sky red over the sea was truly healing. 
+The wind outside was biting, but the room was cozy, and I really loved that contrasting feeling.
+
+​3. Dinner and a Night Stroll by the Sea
+
+
+For dinner, it’s convenient to eat at the nearby Chodang Soondubu (Soft Tofu) Street or a sashimi restaurant to keep your travel route simple. 
+After eating, I walked along Gangmun Beach to digest. 
+The vibe of the night sea is completely different from the day; just walking while listening to the waves was wonderful. However, the winter sea breeze is incredibly fierce, so even if you're only going out for a moment, make sure to dress very warmly.
+
+
+​Day 2: A Feast for the Eyes and Mouth
+
+​1. Breakfast Hangover Cure: Jjamppong Soondubu
+
+
+Since you’re in Gangneung, breakfast has to be Jjamppong Soondubu (Spicy Seafood Soft Tofu). 
+But why is Gangneung famous for soft tofu?
+
+​Usually, chemical coagulants are used to make tofu, but Gangneung Chodang Soondubu uses East Sea water as brine. Because the soy milk is coagulated with clean seawater, the tofu is much softer, fluffier, and has a deeper, unique savory flavor compared to regular tofu. 
+That taste is why people travel all the way to Gangneung and wait in line to eat it.
+
+​The spicy Jjamppong broth combined with the savory soft tofu makes it the ultimate hangover cure, and it’s also a very hearty meal. 
+If you can’t handle spicy food, try the white Chodang Soondubu Baekban to enjoy the natural nutty flavor.
+
+​2. Places to Visit After Eating (Choose Your Preference)
+
+
+I’ve selected three places worth visiting after your meal. Pick the one that suits your taste!
+​ARTE MUSEUM GANGNEUNG (Daily 10:00 ~ 20:00)
+The ticket price is 18,000 KRW, 
+which I thought was a bit pricey at first, but once inside, I realized it was worth every penny. The space is filled with light and sound, making it majestic and perfect for photos. 
+It expresses Gangneung’s nature beautifully through media art, so it’s definitely worth a visit.
+
+​Gyeongpo Aquarium (Daily 10:00 ~ 18:00)
+
+Admission is 20,000 KRW. 
+Since large aquariums in other regions are so expensive, this felt relatively cheap. 
+It’s not huge, but it’s great for a light stop to look around while moving between locations.
+
+​Metaverse Experience Center (10:00 ~ 17:50, Closed Mondays)
+
+The admission here is only 5,000 KRW, making it the best value for money. They have experiences like skiing or roller coasters. The experience time is short, but it was fun to try various things at such a low price.
+
+
+​3. The Finale: Coffee Time
+
+
+Finally, here are two cafes in Gangneung where you can't go wrong.
+
+​Terarosa Gyeongpo Lake Branch (Daily 09:00 ~ 21:00)
+
+This place is so famous it needs no explanation. If the taste of coffee is important to you, go here. 
+They have a wide variety of breads and coffees. Although there are a lot of people, it’s a must-visit if you want to properly experience Gangneung’s coffee culture.
+
+​Gallery Babs (11:30 ~ 19:00, Closed Thursdays)
+
+Their business hours are a bit short, but the taste is guaranteed. Their signature ""Chodang Corn Coffee"" is a real delicacy. 
+It’s a mix of sweet and savory corn cream and coffee, and even people who don't usually drink coffee will find it delicious.
+​I was worried that traveling without a car might be difficult, but eating delicious food and looking at the sea made the two days fly by. I hope this helps anyone preparing for a winter trip to Gangneung!
+
+​[View Itinerary Map]
+I have pinned all the places I visited on the Google Map below. Please refer to it when checking locations and routes.
+
+https://maps.app.goo.gl/ciQ1mWWPTYJUdisz6?g_st=ac
+
+
+",2,1770190870.0,KoreaExperience,0,1.0,False
+1qvic7i,https://www.reddit.com/r/r4r/comments/1qvic7i/34m_m4f_sd_looking_for_a_fellow_giver/,34M (M4F) SD - Looking for a fellow giver,"Hi there! I just moved to San Diego for a new job and I’m looking to build something slow, deliberate, and intentional.
+
+I’m hoping to find a true friendship that could naturally evolve into something more with mutual discovery and compatibility.
+​
+
+I’m Demisexual, so it takes me time to warm up. I need to truly know someone before I’m comfortable with physical intimacy (touching strangers isn't my thing). But once that bond is there, I’m basically a golden retriever, comes with the territory of being Mediterranean. :P
+​
+
+I’m 6'3"", athletic, and have a mixed Nubian and Middle Eastern heritage (curly hair, dark eyes, and an aquiline nose). I have a PhD in Physics and currently work as a sales engineer, so I’m stable and love what I do.
+
+​I’ve lived all over the world: the US, Japan, Switzerland, Sweden (working and studying) and I speak English, Arabic, and Japanese. I believe the point of life is to experience as much as possible, and I’m looking for a partner who feels the same. I’m naturally nurturing; I love cooking global dishes for people and giving meaningful gifts. Seeing the joy in others' eyes brings me joy, and an ideal first date for me would be volunteering time somewhere together.
+​
+​Spirituality is really important to me: I’m a Panentheist deeply committed to yoga, meditation, and sobriety.
+​
+I also love sci-fi and fantasy (especially the original Dune books—I think about them constantly). I am also currently watching Frieren and would love a viewing partner.
+
+I don’t have a physical ""type""—I’m attracted to fellow givers, altruists and nurturing feminine archetypes. I'm looking for someone I can talk to for hours about everything under the sun, but who is also comfortable coexisting in silence. My love languages are Touch and Quality Time. Finally, I am sober and take care of my body, and I'm looking for someone with the same commitment to their own health and wellbeing as well as that of their community.
+
+If you feel like we could be a good fit and are based in SoCal feel free to reach out, would love to chat and grab a coffee. My picture for yours!",1,1770190830.0,r4r,1,1.0,False
+1qvic3c,https://www.reddit.com/r/Marikina/comments/1qvic3c/coffee_beans/,Coffee Beans,Any recommendations po ng nagbebenta ng coffee beans? ,2,1770190819.0,Marikina,3,1.0,False
+1qvibvj,https://i.redd.it/b3ykwi0ylfhg1.jpeg,Kong Strong vanilla coffe,The most interessting fact about kong Strong Energy is you cant get it only and it is not available in the usa and other north america countries,2,1770190798.0,energydrinks,0,1.0,False
+1qvibi4,https://www.reddit.com/r/Chayakada/comments/1qvibi4/glimpse_of_chayakada_files/,glimpse of chayakada files,"https://preview.redd.it/llgexpdtlfhg1.png?width=1536&format=png&auto=webp&s=8e9bd5ff061456af0c80c82624de8db63beed247
+
+",5,1770190758.0,Chayakada,4,1.0,False
+1qvibfn,https://www.reddit.com/r/AskPinoyMen/comments/1qvibfn/mga_boss_pwede_humingi_ng_advice/,"Mga boss, pwede humingi ng advice?","Boss meron kasi akong trip na babae, ka-office mate ko. Madalas kami mag small talk pag nag kakasalubong tas nakakapag text na din kami off work. Meron kaming plan mag coffee outside pero wala pa exact date basta this week siya gaganapin.
+
+Tanong ko lang since di pa kasi kami ganun ka close, puro surface level palang, dapat ba araw araw ko siya tinetext kahit mga random topics lang? Nag iipon din kasi ako baon na topics para sa coffee “date” baka maubos pag tinetext ko mga yun.
+
+Mahina pa ako sa dating scene kaya paturo boss thank you.",7,1770190751.0,AskPinoyMen,29,0.82,False
+1qviaok,https://www.reddit.com/r/MoroccoBitchesWtaste/comments/1qviaok/feeling_pressured_early_in_a_relationship_26m_24f/,"Feeling pressured early in a relationship (26M, 24F) – need advice","Hi everyone, I’m a 26M and my girlfriend is 24F. I’m looking for some honest outside perspective.
+
+We’ve been dating for about 2 months and have met around 4 times. We get along well, enjoy our time together, and there’s good chemistry. However, since very early on, I’ve felt a lot of pressure in the relationship.
+
+She often talks about money, being rich, and the future. Recently, she told me she’s worried about waiting 3 years for things to improve and is afraid of wasting time or being traumatized if it doesn’t work out. This conversation really overwhelmed me, especially considering how early we are in the relationship.
+
+During this discussion, I told her that she has the choice to stay or to leave if she’s not comfortable with the situation. We were sitting in a coffee shop at the time, and she became very emotional, started crying, and said she wanted to go home. I reassured her that I didn’t mean to hurt her and stayed with her until her taxi arrived and she left.
+
+After she left, she started sending messages apologizing for what happened. I didn’t reply immediately because I felt overwhelmed and needed time to process everything. She continued messaging and calling during that time.
+
+About two hours later, when I got home, I told her that I needed some space to think calmly. After that, she called me multiple times again and sent more messages, saying she was crying and asking me not to ghost her. I haven’t replied since.
+
+I’m focused on improving myself and building my future, but I don’t feel comfortable being judged or rushed based on money or future success. I want a relationship that feels supportive, calm, and grows naturally — not one driven by fear and pressure.
+
+Now I feel torn. I enjoy being with her, but at the same time I feel anxious and pressured, and I’m not sure if this is normal or healthy so early in a relationship.
+
+Am I wrong for needing space and feeling uncomfortable with this kind of pressure after only 2 months?
+
+Do you think this is something that can be worked through with clear boundaries, or would breaking up be a healthier choice at this point?
+
+Thanks in advance for any advice.",7,1770190675.0,MoroccoBitchesWtaste,9,1.0,False
+1qvi9yq,https://www.reddit.com/r/AITAH/comments/1qvi9yq/aitah_feeling_pressured_early_in_a_relationship/,"AITAH ? Feeling pressured early in a relationship (26M, 24F) – need advice","Hi everyone, I’m a 26M and my girlfriend is 24F. I’m looking for some honest outside perspective.
+
+We’ve been dating for about 2 months and have met around 4 times. We get along well, enjoy our time together, and there’s good chemistry. However, since very early on, I’ve felt a lot of pressure in the relationship.
+
+She often talks about money, being rich, and the future. Recently, she told me she’s worried about waiting 3 years for things to improve and is afraid of wasting time or being traumatized if it doesn’t work out. This conversation really overwhelmed me, especially considering how early we are in the relationship.
+
+During this discussion, I told her that she has the choice to stay or to leave if she’s not comfortable with the situation. We were sitting in a coffee shop at the time, and she became very emotional, started crying, and said she wanted to go home. I reassured her that I didn’t mean to hurt her and stayed with her until her taxi arrived and she left.
+
+After she left, she started sending messages apologizing for what happened. I didn’t reply immediately because I felt overwhelmed and needed time to process everything. She continued messaging and calling during that time.
+
+About two hours later, when I got home, I told her that I needed some space to think calmly. After that, she called me multiple times again and sent more messages, saying she was crying and asking me not to ghost her. I haven’t replied since.
+
+I’m focused on improving myself and building my future, but I don’t feel comfortable being judged or rushed based on money or future success. I want a relationship that feels supportive, calm, and grows naturally — not one driven by fear and pressure.
+
+Now I feel torn. I enjoy being with her, but at the same time I feel anxious and pressured, and I’m not sure if this is normal or healthy so early in a relationship.
+
+Am I wrong for needing space and feeling uncomfortable with this kind of pressure after only 2 months?
+
+Do you think this is something that can be worked through with clear boundaries, or would breaking up be a healthier choice at this point?
+
+Thanks in advance for any advice.",7,1770190598.0,AITAH,18,0.89,False
+1qvi97c,https://www.reddit.com/r/Advice/comments/1qvi97c/feeling_pressured_early_in_a_relationship_26m_24f/,"Feeling pressured early in a relationship (26M, 24F) – need advice","Hi everyone, I’m a 26M and my girlfriend is 24F. I’m looking for some honest outside perspective.
+
+We’ve been dating for about 2 months and have met around 4 times. We get along well, enjoy our time together, and there’s good chemistry. However, since very early on, I’ve felt a lot of pressure in the relationship.
+
+She often talks about money, being rich, and the future. Recently, she told me she’s worried about waiting 3 years for things to improve and is afraid of wasting time or being traumatized if it doesn’t work out. This conversation really overwhelmed me, especially considering how early we are in the relationship.
+
+During this discussion, I told her that she has the choice to stay or to leave if she’s not comfortable with the situation. We were sitting in a coffee shop at the time, and she became very emotional, started crying, and said she wanted to go home. I reassured her that I didn’t mean to hurt her and stayed with her until her taxi arrived and she left.
+
+After she left, she started sending messages apologizing for what happened. I didn’t reply immediately because I felt overwhelmed and needed time to process everything. She continued messaging and calling during that time.
+
+About two hours later, when I got home, I told her that I needed some space to think calmly. After that, she called me multiple times again and sent more messages, saying she was crying and asking me not to ghost her. I haven’t replied since.
+
+I’m focused on improving myself and building my future, but I don’t feel comfortable being judged or rushed based on money or future success. I want a relationship that feels supportive, calm, and grows naturally — not one driven by fear and pressure. Now I feel torn. I enjoy being with her, but at the same time I feel anxious and pressured, and I’m not sure if this is normal or healthy so early in a relationship.
+
+Am I rong for needing space and feeling uncomfortable with this kind of pressure after only 2 months?
+
+Do you think this is something that can be worked through with clear boundaries, or would breaking up be a healthier choice at this point?
+
+Thanks in advance for any advice.",1,1770190519.0,Advice,0,1.0,False
+1qvi962,https://www.reddit.com/r/BangaloreMeetups/comments/1qvi962/real_talk_only/,Real talk only,"Im going thru one of those ‘everything is falling apart despite my best efforts’ phases. Honestly im headed to at some random place to grab a coffee and probably have a quiet cry. If youre also feeling the weight of the world lately and just need a safe space to sit in silence or vent without judgment, come join me. No pressure to be 'on' or happy just humans being human",5,1770190515.0,BangaloreMeetups,8,1.0,False
+1qvi89h,https://www.reddit.com/r/bosnia/comments/1qvi89h/bosnia_winter_trip_indoors_recommendations/,"Bosnia - winter trip, indoors recommendations","Hello all! I will be visiting **Sarajevo** and **Mostar** in a couple of weeks. The weather seems like it will not be great, so I am looking for *indoors* recommendations for both places. In particular:
+
+1. What are the best and most interesting museums? Particularly interested in history and/or niche cultural places.
+
+2. Cafes, coffee shops, bakeries, breakfast places
+
+3. Cozy pubs or bars
+
+Thank you!",3,1770190419.0,bosnia,0,1.0,False
+1qvi73g,https://www.reddit.com/r/TeenIndia/comments/1qvi73g/how_to_have_a_girl_as_a_friend/,How to have a girl as a friend,"I’ve realized lately that my social circle is mostly guys, and I want to change that. I’m looking to have girls as friends—strictly platonic—just to have a more balanced social life and different perspectives.
+The problem is, I feel like sometimes there’s this unspoken tension or the assumption that I’m ""trying something."" I just want to be able to hang out, talk about music or sports, and grab a coffee without it being a ""thing.""
+How do you guys approach girls without it coming off as a ""move""?
+How do you set that friendly vibe early on so there’s no confusion?
+To the girls here: what makes you feel comfortable and safe in a new friendship with a guy?
+And wht should I do when i develop feelings for them based on how they treat me.
+
+ I am also 17 M . I want someone as a close friend. I don't care the gender.
+Btw not a karma farming post. I like how much karma i have currently. 
+If anyone is Looking for a friend. I am down
+
+
+Used some AI ",1,1770190303.0,TeenIndia,10,1.0,False
+1qvi6qn,https://i.redd.it/26j9eyxhkfhg1.jpeg,No but why would people expect their dates to be okay to come home for the first date?,,34,1770190265.0,IndianBoysOnTinder,35,0.87,False
+1qvi6bk,https://www.reddit.com/r/TerrificRiches/comments/1qvi6bk/vevor_coffee_roaster_coupon_code/,Vevor Coffee Roaster Coupon Code,Visit [**Vevor Coffee Roaster Coupon Code**](https://bit.ly/3a9t3iG) for active coupons and promo codes. Choose one and use it while it lasts.,1,1770190224.0,TerrificRiches,0,1.0,False
+1qvi651,https://i.redd.it/i5cniho3kfhg1.jpeg,when founder treat us as their Literal Slave. Why even bother having a pantry if you can't afford one.,"Man, the world isn't at all like what we imagine it to be. Just look at what our boss sent us. Even with a belt worth lakhs, a phone worth lakhs, and 1000+ Cr in revenue, look at how these people behave.
+
+No matter how much heart you put into your work or how many hours you spend commuting, you get nothing in return. The rich will just keep getting richer because they view you as nothing more than their servants. Sorry, not sorry, but technically you are.
+
+But the worst part is that you have zero importance to them. Your life isn't a 'life' in their eyes. As long as you aren’t causing problems for their lifestyle or their money, you're fine; otherwise, you're just an idiot to them.
+
+This is how Indian startups treat their employees... is this how our economy is supposed to move forward?
+
+edit: Just to clear it out we dont get meals. The pantry is reserved for only snacks and coffee. In that, too, they are talking about overuse and over budgeting for merely 6 to 7 employees. All I'm saying is, if the concept of a pantry is too much of an overbudget for a startup, why even have it in the first place?
+
+We literally got this mail after we asked for an extra packet of bhujiya.",30,1770190207.0,IndianWorkplace,34,0.77,False
+1qvi5ny,https://www.reddit.com/gallery/1qvi5ny,"3 months post hair transplant (4750 grafts, DHI). My experience and current progress","Hey everyone! 
+
+Wanted to share my current state after transplant, since reading this tread helped me a lot to comprehend doubts.
+
+I had my procedure on October 28th, 2025. Total amount of hair transplanted is \~4750 grafts. 
+
+Before we have started, the doctor assured me that in my case there is need in second transplant that may be done the year after the first. He acquitted it with a fact that more than 5000 grafts won’t take a root so currently we focus on the front part of my head and hairline (the donor area is back of the scalp, beard, and chest).  
+
+The surgery itself took 8 hours, with a full medical team working throughout. Whole process went very smooth and I felt like the team is highly professional and understands every step they make. 
+
+Recovering was pretty easy, no pain at all. The only thing that disturbed me is the awkward position while sleeping for 7 days and absence of coffee for 5 days (thanks god there is decaf options). So do not really count on good sleep for a few days haha. 
+
+Right now I’m at 3 months post-op. Visually it still looks thin and uneven, but I’m still hoping to see results coming in a few months. However, liked the new hairline, which is already pretty visible. It helps mentally a lot.
+
+Since 3rd months started minoxidil treatment. No finasteride yet – still deciding. 
+
+I know it is early to judge results, but wanted to document my current stage here and also share experience with someone who are living along this process with me. 
+
+Happy to hear thoughts your thoughts folks!
+
+Photos are attached. ",7,1770190162.0,Hairtransplant,1,1.0,False
+1qvi5d0,https://www.reddit.com/r/Hypothyroidism/comments/1qvi5d0/recently_diagnosed/,Recently diagnosed,"Now what? I've been taking levothyroxine.
+50 milligrams for 2 months. I just went in to get checked to see if it's helping ect. My levels are still not great so I'mgoing to start  taking 75 milligrams. I guess my question is do I need to completely change my diet now? Quit coffee and sugar? What are y'alls experience? ",1,1770190130.0,Hypothyroidism,0,1.0,False
+1qvi58x,https://www.reddit.com/r/modsupportremovals/comments/1qvi58x/uoppsmylatte_removed_by_moderator_was_removed/,/u/OppsMyLatte [ REMOVED BY MODERATOR ] was removed from /r/ModSupport on 2026-02-04 (t3_1qvhg3a up 0.03 days),"/u/OppsMyLatte was removed from /r/ModSupport 
+
+* Link to [the removed post](https://www.reddit.com/r/ModSupport/comments/1qvhg3a/spillspot/)
+* Was a selfpost with score: 0
+* Submitted 2026-02-04 06:47 (UTC) - **0.03 days ago**
+* Probably removed **within the past 0.00 days**
+  * Was last seen up around 2026-02-04 07:28 (UTC)
+  * Removal detected at 2026-02-04 07:28 (UTC)
+
+# Quick search
+
+* [Search for all removed posts](https://www.reddit.com/r/modsupportremovals/search?q=title%3AOppsMyLatte&restrict_sr=on&sort=new&t=all&include_over_18=on) by this author
+
+
+# Title
+
+> SpillSpot?
+
+# Post contents
+
+---
+
+Hey there! Join SpillSpot, a cozy little corner for all your thoughts, stories, questions, and random chaos. Got a funny story, a wild idea, or just something you need to get off your chest? Spill it here!
+
+No judgment, no rules about being perfect just good vibes, a little mess, and a lot of laughs. Think of this place as your virtual coffee table, where everything is welcome and every spill is celebrated.
+
+Grab a mug, sit back, and join the fun! 💛",1,1770190120.0,modsupportremovals,0,1.0,False
+1qvi4uh,https://www.reddit.com/r/TwoSentenceHappiness/comments/1qvi4uh/what_made_you_smile_today/,What made you smile today?,"Honestly, small moments like good coffee or a kind message can change the whole day. Those are underrated.",1,1770190080.0,TwoSentenceHappiness,0,1.0,False
+1qvi4l1,https://www.reddit.com/r/dating_advice/comments/1qvi4l1/how_do_i_meet_flirt_with_women_without_being/,How do I meet & flirt with women without being awkward?,"I (20M) got out of a long term relationship a while ago. I’ve been trying to get back into dating, but honestly I feel kind of lost.
+
+I work a very full-time job and only really have weekends off, so my time is limited. I’ll go to bars or coffee shops sometimes, but I genuinely don’t know how to flirt without feeling awkward or saying something dumb. On top of that, I’m basically blind to signals, I never know if someone’s interested or just being friendly
+
+a friend suggested online dating, so I gave it a shot. I had an account for about a day but it just didn’t feel right to me. It felt forced and uncomfortable, and I don’t think it’s my thing.
+
+So I guess my question is, what’s the best way to meet new people, make friends, and potentially meet a woman I’m actually compatible with, someone I could realistically see myself building a future with?
+
+I’ve been told to join clubs or groups, but I’m not really into stuff like book clubs. I’d really appreciate advice from people who’ve been in a similar spot",1,1770190051.0,dating_advice,1,1.0,False
+1qvi3uu,https://www.reddit.com/r/Glitch_in_the_Matrix/comments/1qvi3uu/a_little_glitch/,A little glitch...,"I (40F) went to the ski hill last Friday with my boys (13, 11). I'm not skiing this year so I was a lodge lump with my bestie (43F) so our kids could ski together. We decided to get snacks. 
+
+In the cooler, there were those jarred fappucinos from Starbucks, two rows of Mocha, two of Vanilla, and I made a comment about it to bff. I don't like the mocha flavor, so I grabbed a vanilla, checked out and stuck it in my pocket to go to the bathroom. 
+
+We get back to the table and the plastic shrink wrap didn't wrap over the top. There are 2 other moms there (it was a school ski day) and I asked everyone if it was weird the plastic didn't cover the lid, cuz I thought they had perforations and you were supposed to rip it off before opening. We all agreed it was supposed to have perforations, but the top wasn't popped so it was probably ok, at which point I noticed it was a mocha, not vanilla flavored. I make a comment about this, too. It's weird, but not that weird. I probably just grabbed the wrong one (but really, I know I didn't). 
+
+So I sit there and sip on it for a while,.give a sip to one of my kids when he comes down off the hill. Move to another table to talk with another friend and start to tell her about the mixup. I show her my mocha AND ITS VANILLA AGAIN. She said she saw it was mocha earlier when we were talking, and swears it was mocha and now it's vanilla. My kid says it was always vanilla, bff says it was vanilla the whole time, other mom friend who was there from the beginning swears it was mocha. 
+
+It's a little thing, but apparently me and two of the other moms are from my original timeline but my son and bff are from a different one. Me and myself merged for a moment and apparently swapped people. But why my son and my bff?? 
+
+TLDR: bought a vanilla coffee, it turned into mocha and back into vanilla. Multiple witnesses but mixed memories for all parties involved. ",8,1770189978.0,Glitch_in_the_Matrix,1,1.0,False
+1qvi2s4,https://www.reddit.com/r/PhR4Friends/comments/1qvi2s4/20_f4a_anyone_at_moa_rn/,20 [F4A] anyone at MOA rn?,Hey so anyone at moa rn? Im bored and would love to just roam or walk or get coffee with somebody ! It kinda gets lonely when youre alone ahah ! So yea hmu,1,1770189875.0,PhR4Friends,0,1.0,False
+1qvi2hv,https://www.reddit.com/r/buhaydigital/comments/1qvi2hv/anyone_interested_for_a_meetup_for_freelancers/,Anyone interested for a Meetup for Freelancers?,"Hi guys! I've been a freelancer for about a year now working as a paralegal at US based law firm. I want to connect with fellow freelancers around Metro Manila. Would people be interested in this? Nothing formal naman, just coffee, snacks, and good conversations.
+
+We can network, share experiences, exchange referrals, learn about different niches, and just socialize. Let me know if you’re game! 😊
+
+Hindi natin alam baka chance na natin to para gumawa ng illegal. HAHA",4,1770189847.0,buhaydigital,14,0.83,False
+1qvi2d0,https://www.reddit.com/gallery/1qvi2d0,[SELLING] A & X Coffee Table + Black Bubble Sofa – Excellent Condition – $650 (Bruce + Ann crossroads 89081),"Selling an extendable coffee table and bubble sofa in great condition. Includes:
+
+Coffee table
+
+Bubble sofa
+
+Tree optional (not included unless requested)
+
+Condition: Very clean, no odors, well-kept. One of the cubes don't extend all the way out. 
+
+
+Price: $650 for the full set
+Location: Crossroads Bruce and Ann. 89081 zipcode
+Delivery is available for +$25
+Terms: Sold as-is, no returns
+Payment: Cash, Zelle, or Cash App accepted",1,1770189833.0,LasVegasBuyAndSell,0,1.0,False
+1qvi1rl,https://www.reddit.com/r/u_Kaeby4/comments/1qvi1rl/the_american_sleep_experiment/,The American Sleep Experiment,"(My uncle was a Vietnam vet, same as my dad. I didn’t really know him since he never came to family functions, except for when someone died, then he’d at least silently show up to the funeral before absconding back to his home in New Jersey. He kept to himself I guess, living alone. No wife, no kids; dad said he was a dick, so maybe that had something to do with it. He died around three weeks ago, beating my dad out by nearly two decades and living to the age of 90. His neighbors apparently called in a welfare check since his mail and newspapers were piling up; at least it was cold enough out that his body didn’t decay very quickly, meaning I could just throw out the armchair he died in rather than bringing in a cleaning crew. The examiner said it was just old age that got him, so good for him, I guess. Anyway, I’ve been cleaning out his house to sell it, yada yada, and found this box of old school u-matic tapes in the crawlspace. I’m not kidding you when I say I need someone else to be witness to the shit I found on these tapes. I NEED someone else to know what I’ve seen, or I might go crazy trying to figure this all out by myself. Remember the Russian Sleep Experiment creepypasta? Well, that’s the first thing that popped into my brain as I started going down this crazy rabbit hole, so this shall by dubbed The American Sleep Experiment because why the hell not. The tapes are random and unmarked, so I’m just going to start transcribing them one by one. They were kept in rather poor conditions, so I don’t expect them to be well-preserved.)
+
+ 
+
+**\[Tape 1\] \[ROOM-B / AM 07:30 / 09-JAN-73\]**
+
+“It’s okay, Dave! It’s okay, it doesn’t even hurt! See?” The man had his left arm held out in front of him, blood dripping in slow, long rivulets off of it. A 6-inch strip of skin had been flayed off the top, muscle and fat exposed. The offending knife was held in the man’s right hand, being used to innocently gesture between the gory mess and the man named Dave.
+
+“Jesus Casey! Put the knife down!” (Presumably) Dave stood by the kitchen counter, looking nauseous and as if he would fall to the ground if not for the tight grip he had on the counter. A naked man was sitting facing a corner, rocking back and forth, shoulders quaking as if he were crying; he was skinny, short brown hair, and from the angle of the camera you could just make out that he was wearing glasses. “The knife, Casey!”
+
+“No, no, it’s okay! It’s okay! It doesn’t hurt at all,” as if to make his point, Casey dug the knife into the wound and smoothly sliced it perpendicular, more fresh blood welling up and dripping to the ground.
+
+“CASEY!”
+
+“Tell him Simon! We don’t have to hurt anymore!” Casey’s excited smile turned to the man quietly crying in the corner. No reply came, Simon seemingly not even aware that he was being addressed. Before more damage could be inflicted, Dave threw the metal bowl of fruit that was on the counter at Casey, hitting him square in the chest, apples and oranges falling to the tiled ground. Just as soon as the metal clattered to the ground, Dave had shot across the space, tackling the bleeding man to the ground, holding the wrist down that held the knife and using his other hand to punch Casey in the face, twice in quick succession. A pause, and then more hits came, pummeling into Casey’s face, but between blows Casey laughed, even as blood began to drip from his nose and lips.
+
+**\[Tape 1\] \[ROOM-C / AM 07:40 / 09-JAN-73\]**
+
+ A naked man sat on a stained mattress, knees to his chest, bloody-looking arms wrapped around them. He was switching between giggling to open laughing, his head thrown back with his guffaws. The only other furniture being a second bed and a turned-over bedside table with a lamp on the ground, shadows cloaking part of the room.
+
+**\[Tape 1\] \[ROOM-D / AM 07:50 / 09-JAN-73\]**
+
+An empty room, the furniture broken or moved from its original position. What appears to be blood smeared on the walls. Along with the smears there are handprints and repeated phrases.
+
+*DONT SLEEP*
+
+*THEYRE WATCHING*
+
+*HURTS*
+
+*INSIDE*
+
+*ITS INSIDE*
+
+*STOP*
+
+*DONT STOP*
+
+(Most of the film was damaged, so this is all I could get off of this one, sorry. Crazy though, right? I mean, this doesn’t look like some student film, these look like they’re coming from security cameras, so all I can think of is that either my uncle was an avant-garde filmmaker, or this is legit. Either way, enjoy this shit-tastic, crazy ride we’re about to go on.)
+
+ 
+
+**\[Tape 2\] \[AM 07:00 / 22-DEC-72\]**
+
+Six men are sitting on metal folding chairs in what is an otherwise empty room. They’re all wearing army clothes.
+
+“Please state your names and age.” Someone offscreen says.
+
+“Jack Richard Daniels, 21.” Man 1, white, brown hair, crewcut, muscular build.
+
+“Gabriel Lee Guevara, 19.” Man 2, black hair, buzz cut, shortest.
+
+“Justin Stolk, 20.” Man 3, bald, bulky.
+
+“Simon Crocker, 19.” Man 4, light brown hair, short cut, wiry, glasses.
+
+“David Brawnson, 20.” Man 5, brown hair, crewcut, average build.
+
+“Casey T. Williams, 18.” Man 6, blonde hair, short curly, thin-average build.
+
+The same man that’s offscreen, “Thank you, men. We want to congratulate you on being chosen for this experiment. As you have already been told, this experiment will be measuring the body’s ability to withstand sleep deprivation. You will be sealed inside a room and administered gas through your air filtration system periodically during the day for the next three weeks. The gas should be undetectable but do report in if you smell something. You will be keeping a daily journal; write down what you’re feeling, what activities you’re doing and when, and especially take notes of if you’re tired. If you’ll follow me, I will show you to where you will be staying.”
+
+ 
+
+(The tape cuts into the security camera feed, but the audio is distorted and I can’t make out what they say in room A, which appears to be the entryway/front room. The cameras seem to switch between rooms every ten minutes, or at least that’s how the tape shows it. You’d think with it being the military it would be a little less rudimentary, but this was the 70s, so what do I know? Let me write down what each room is to make things easier:
+
+Room-A: Entryway/front-room, shows the door and the rest of the room has two couches, a TV, coffee table, and a short bookcase with books and possibly magazines.
+
+Room-B: The kitchen, pretty standard appliances, island counter, and a dining table near the back wall.
+
+Room-C: Bedroom 1. All the bedrooms seems to be the same, two beds, bedside table with a lamp on top, a trunk at the end of each bed, and a closet on each side of the room.
+
+Room-D: Bedroom 2.
+
+Room-E: Bedroom 3.
+
+Room-F: Bathroom. Kind of creepy they would have a camera in the bathroom too.
+
+Room-G: Some sort of game room with exercise equipment, a ping-pong table, and a foosball table.)
+
+ 
+
+(I found some pages at the bottom of the box. They look ripped out of a notebook and are all damaged, but some of it is legible. From what I’ve read, it’s a journal from one of the guys in the experiment, maybe even my uncle. I’ll transcribe them in the order that seems to make the most sense.)
+
+(Page 1)
+
+*-working, right? I haven’t felt tired at all; none of us have. Though maybe it’s just all a placebo thing? I don’t know. Doesn’t matter, I guess, so long as those scientists get their data and we get our stipend. I don’t like that we only have a clock to rely on to know what time of day it is though. Crocker has been keeping track of days for us since there’s no communication with the outside world; they said they’re not going to be talking to us unless it’s an emergency. Did I already mention how boring it is in here? You really don’t appreciate freedom until you’re stuck in a small house with five smelly men. Exercise and ping-pong are about the only things to do around here. Good ol’ Da-*
+
+ 
+
+(Page 2)
+
+*BORING!!! I think I’m going to lose my mind, same with the rest of the squad. We’ve taken to sharing our shit life stories just to break up the monotony. You think I want to hear how you shit your pants in third grade, Casey? Or how your meemaw cooks a mean turkey dinner every Christmas, Justin? No one here can cook for shit. We got a whole stocked pantry and all anyone can do is boil eggs. Thank God I like eggs.*
+
+ 
+
+(Page 3)
+
+*I called Simon a crock of shit today. I thought it was a pretty good joke but apparently he disagreed because he socked me right in the face. He’s got a wimp arm though, so I doubt the bruise will be big. The fellas held me back before I could punch his lights out  and the little shit ran and locked himself in the bathroom. I can hear Gabe saying something to him through the door, though I don’t know what. If he doesn’t apologize when he comes out, I’m definitely going to pummel him. The clock in the kitchen has stopped working, so maybe he’s just mad that he doesn’t get to be the timekeeper anymore.*
+
+ 
+
+(Page 4)
+
+*Justin is dead.*
+
+ 
+
+(Page 5)
+
+*They still won’t say anything or let us out. I’m beginning to wonder if they’re watching us at all or if we’re just trapped here. Maybe they’re just waiting for all of us to die; either get got by the gas, each other, or starvation. We sealed Justin’s body in his bedroom, wrapped up in sheets, but I can smell decomp each time I walk past his door. Are dead bodies supposed to start smelling this quickly?*
+
+ 
+
+(Page 6)
+
+*Everything hurts. My muscles, my joints, my bones, even my teeth hurt. It’s like a dull ache that won’t go away, and there’s no pain meds around to help. There’s so much pressure in my head that I almost want to drill into it. Good thing there’s no power tools around. Writing is about all I can do it at this point. It’s just something to focus on. Something to keep me sane. I haven’t seen the others writing in their journals for awhile now, maybe I should remind them. Or maybe they’ll think I’m insane for still writing in these stupid journals when we’ve all been abandoned. I hope this is just another part of the experiment and they’ll come for us soon. They said three weeks. I just have to hold out for three weeks and then they’ll let us out. God, please just let them come. Please. God, I’ll give you whatever you want, I just-*
+
+ 
+
+(Page 7)
+
+*Gabe won’t stop screaming. Maybe I’ll start screaming too. I just want this to be over. I don’t know what day it is.*
+
+ 
+
+(Page 8)
+
+*I think Gabe might be dead. He locked himself in the bathroom. We don’t hear anything and he won’t respond. He kept saying he wants to go to sleep now; that was three days ago. The main problem is that we hear knocking coming from Justin’s door. No one has had the courage to open it. Maybe I should-*
+
+ 
+
+(Page 9)
+
+*-not dead. The bathroom shower has been running and water has-*
+
+*-knocking coming from the bathroom door now too. Why doesn’t Gabe just open the door? The knocking from Justin’s door has been getting progressively louder and more frequent. I don’t want to open the door, I really don’t, but I don’t think any of us can take much more of it now that there’s knocking coming from the bathroom door too. Everyone is at their breaking point I think. They’re always laughing, crying, or silent. I don’t th-*
+
+ 
+
+(Page 10 and 11 is just nonsensical scribbles with “just open it”, “help”, and “dead” written and crossed out multiple times all over the front and back of the pages. Like I said, there are more pages but they’re all so damaged that I can’t make out more than a few words at a time. I’ll now keep transcribing the rest of the tapes. I forgot to mention, there’s 20 tapes in all.)
+
+ 
+
+**\[Tape 3A\] \[ROOM-B / PM 06:40 / 28-DEC-72\]**
+
+All six men seem to be having a good time, leaning on the counter or sitting on the stools surrounding it, eating. They’re laughing raucously, Justin suddenly choking on his food. The men laugh more, with Casey slapping Justin’s back. Justin’s coughing fit doesn’t cease though, and instead he starts grabbing his chest, wheezing heavily as he stands up. The other men seem to be growing concerned, asking if he’s okay. Dave leans over the counter with a smirk, “THAT’S why you don’t inhale your food you fat pig!”
+
+Justin suddenly falls to the ground, coughing and grabbing onto where his heart is. The others jump into action, Simon and Casey dropping to their knees around Justin, the others quickly coming from the other side of the island to stand over him. Questions of “are you okay” and “what are you feeling” are being directed at the large man who starts to kick his feet and twist his body. All of a sudden he stops, falling limp. Panic sets in, Casey shaking Justin’s body before Jack pushes him out of the way and begins to perform CPR. Dave waves his arms at the camera while Gabe runs offscreen.
+
+ 
+
+**\[Tape 3A\] \[ROOM-C / PM 06:50 / 28-DEC-72\]**
+
+No one is onscreen, but you can hear the commotion in the background.
+
+Dave: “Hey! HEY! We’ve got a man down in here! We need help! It’s an emergency!”
+
+The sound of rapid pounding on metal.
+
+Gabe: “Hey open up! Hello, is anyone out there?! We need medical!”
+
+Dave: “Oh Jesus! Come on! Emergency! HELLO?! OPEN THE GODDAMN DOOR!”
+
+(This goes on for awhile like that.)
+
+ 
+
+**\[Tape 3B\] \[ROOM-B / PM 07:50 / 28-DEC-72\]**
+
+Everyone is either standing or sitting in the kitchen, Jack still sitting near Justin’s body. Jack stands up, addressing no one in particular, just staring at Justin’s body, “Come on, let’s put him in one of the rooms.” No one says anything or jumps into action.
+
+“I’ll help,” Dave volunteers, “Which room?”
+
+“His and Simon’s.”
+
+“I don’t want to sleep with a dead body,” the tone is lifeless as it rolls out of Simon’s mouth, more automatic than anything else.
+
+“WELL WHERE ELSE SHOULD WE PUT HIM?!” Dave yells, rounding on Simon, aggressively taking a step toward him.
+
+“He can take my bed,” Jack wearily declares, trying to diffuse the situation before it blows out of control, “I’ll take the couch. Though it’s not like we can sleep anyway.” That reminder seems to settle heavy on the group, no one moving or saying anything until Jack motions to Justin’s body, “Help me out with this, Dave.” Dave reaches for Justin’s legs.
+
+ 
+
+**\[Tape 3C\] \[ROOM-C / PM 08:00 / 28-DEC-72\]**
+
+Dave: “Shit, he’s so damn heavy. Someone come grab his other leg.”
+
+Casey: “I’ve got it. Simon, you get his other shoulder. Gabe, direct us so we don’t run into anything.”
+
+Noises of shuffling and grunts can be slightly heard.
+
+ 
+
+**\[Tape 3C\] \[ROOM-D / PM 08:10 / 28-DEC-72\]**
+
+Empty room, but noises can still be heard.
+
+Jack: “Alright, alright, just set him down and roll him onto the bed. Ya, there we go.”
+
+There’s a long pause.
+
+Jack: “Take off his shoes.”
+
+Gabe: “Why?”
+
+Jack: “It’s respectful. Just do it. We should wrap the sheets and blankets around him too.”
+
+There are barely audible shuffling sounds before a long silence again.
+
+Gabe: “When do you think they’ll come and get his body?”
+
+ 
+
+**\[Tape 3C\] \[ROOM-E / PM 08:20 / 28-DEC-72\]**
+
+Everyone is standing around the right bed where Justin’s wrapped body lay.
+
+“They won’t,” Jack says solemnly.
+
+“What do you mean they won’t?!” Dave glowered at Jack.
+
+“What I mean is, it’s been over an hour now and still no one has come. There must be people watching the camera feed 24/7, so we’re probably not being ignored.”
+
+“That doesn’t mean someone isn’t coming,” Simon butted in, “Maybe they’re wrapped up in red-tape and it’s taking a while. Or maybe they have to wait for the gas to clear out! That’s probably what is happening. We just have to wait 24 hours for the gas to clear and then we’ll all be out of here.” No one responds, but that seems to be the consensus; if nothing else, it’s the only option that carries any hope. The group starts to file out of the room, the door being closed behind them.
+
+(The rest of the tape is just them milling about, no one saying anything or doing anything of particular note.)
+
+ 
+
+**\[Tape 4A and 4B\] \[24-DEC-72\]**
+
+(The tapes just consist of them doing various activities or talking, and it goes on for an hour on each. The audio is shot though, so I can’t make out what is said.)
+
+ 
+
+(Some of these tapes are wrapped together to show they’re from the same day, but otherwise they seem to be out of order. They’re unmarked so there’s nothing I can really do about that. Since there aren’t hundreds of tapes, I can only assume that each was hand-picked as being the most important events. So far, 3 tapes aren’t working.)
+
+ 
+
+**\[Tape 5A\] \[ROOM-F / AM 02:13 / 02-JAN-73\]**
+
+Gabe is just unblinkingly staring at himself in the bathroom mirror.
+
+(Everyone is just quietly lying motionless in the other rooms, except for Simon who is pacing around in Room-G.)
+
+ 
+
+**\[Tape 5B\] \[ROOM-E / AM 03:08 / 02-JAN-73\]**
+
+(I nearly jumped out of my skin as someone suddenly started screaming.)
+
+ 
+
+**\[Tape 5B\] \[ROOM-F / AM 03:10 / 02-JAN-73\]**
+
+(It’s Gabe, he’s the one screaming at the top of his lungs.)
+
+Simon comes running into the bathroom, quickly assessing the scene before grabbing Gabe by the shoulder and shaking him. When that fails to ease the screaming, Simon begins to full-on shake him with both hands. Jack shows up at the doorway, seemingly trying to ask what is happening.
+
+(Gabe’s screaming is too loud for me to be able to make out what the two might be saying. Dave doesn’t move from where he is in his room, laying on his bed; he just puts a pillow over his head though. Eventually Gabe is left in the bathroom with the door closed, Jack wandering to the couch to lay down on it while Simon goes back to pacing, this time covering his ears with his hands.)
+
+ 
+
+**\[Tape 5C\] \[ROOM-A / PM 09:20 / 02-JAN-73\]**
+
+“LET US OUT! LET US OUT! WE’RE DYING IN HERE!” Dave is beating his fists against the metal door. He suddenly switches to screaming at the door before suddenly ramming his shoulder against it. After 4 times of trying that, he wildly looks around before leaving the scene and then returning, holding one of the kitchen’s barstools. He brutally hits it against the door, splintering the top off in one hit.
+
+ 
+
+**\[Tape 5C\] \[ROOM-B / PM 09:30 / 02-JAN-73\]**
+
+Dave can still be heard screaming, and also what is presumably Gabe in another room also.
+
+(Ya, he is still in the bathroom screaming at his reflection.)
+
+ 
+
+**\[Tape 6A\] \[ROOM-C / PM 10:50 / 08-JAN-73\]**
+
+Jack is on his bed, furiously scratching at his arms, neck, and exposed chest, large welts appearing from the irritated skin. A steady thud can be heard from outside the room.
+
+ 
+
+**\[Tape 6B\] \[ROOM-B / AM 12:00 / 09-JAN-73\]**
+
+(Holy shit!)
+
+Jack is in the kitchen furiously scrubbing his arms with a cheese grater, mumbling to himself.
+
+(I can only barely make out him saying “Get them out”.)
+
+He suddenly sprints out of the room with a guttural yell, taking the grater with him.
+
+ 
+
+**\[Tape 6B\] \[ROOM-G / AM 12:50 / 09-JAN-73\]**
+
+Simon is hugging himself as he knocks his head against the wall, “It’s not my fault... I swear it’s not my fault... Just leave me alone!”
+
+ 
+
+**\[Tape 7\] \[ROOM-A / PM 06:20 / 10-JAN-73\]**
+
+Dave is huddled facing a corner, leaning his head against the wall, unmoving. Casey’s body is draped on the couch with an open smile on his face. A large portion of his intestines have spilled out of his belly from a perpendicular cut. Loud laughter can be heard coming from some other room.
+
+ 
+
+**\[Tape 7\] \[ROOM-B / PM 06:30 / 10-JAN-73\]**
+
+Simon is pacing around the room, occasionally using the knife in his hand to slash at invisible enemies.
+
+ 
+
+**\[Tape 7\] \[ROOM-D / PM 06:50 / 10-JAN-73\]**
+
+Jack is writing on the already bloody wall, making scribbles with his fingertips, occasionally scratching his shredded arms to procure more blood for his writing.
+
+ 
+
+**\[Tape 8\] \[AM 07:02 / 13-JAN-73\]**
+
+A stout man with receding brown hair and glasses is sitting on a chair in front of the camera.
+
+“This is Doctor Scott G. Wells, reporting on case number 3-M-D2-J3. Gas PFAS-N2 has proven effective in keeping test subjects from sleeping and feeling the need to sleep. However, the side-effects are still… unfortunate. The most prevalent side-effects appear to be hallucinations of all five senses, with some subjects experiencing more than one. Other side-effects included mania, aggression, depression, faulty pain receptors, among others; please refer to the case files for the full list.”
+
+He rifles through some of the paperwork in front of him, “The test-area was opened on January 12^(th) after 24-hours of venting out the gas. All but two of the subjects are dead. Subject Justin Stolk died of a heart attack, presumed to be caused by gas PFAS-N2. Subject Gabriel Guevara died by suicide via drowning in the bathtub. Subject Casey Williams died of blood loss due to self-inflicted wounds. Subject Simon Crocker died by suicide via severing his aortic artery. Subject Jack Daniels is currently being treated for blood-loss but is alive; he has needed to be restrained due to continually trying to scratch himself and appears to still be in a manic emotional state. Subject David Bradshaw is in a catatonic state, and we do not anticipate him recovering. Considering all previous trials proved 100% fatal, we will be moving both subjects to hospice and will monitor them from there.” The doctor gets up and a few seconds later the film ends.
+
+ 
+
+(My uncle’s name is David Bradshaw. How he recovered, and how he obtained all of these tapes, I can only speculate. I have to wonder what was on the other tapes, but they don’t work or show anything when I try to play them. There might be some sort of restoration place that could fix them, but I’m honestly just… done. I don’t want to rewatch these, ever again. I just want to go home and hug my dog. I feel like the tapes are too important to just throw away, but I’m going to be squirreling them away somewhere where I’ll never have to look at them again. You guys are the only ones I’m sharing this with; I don’t dare show it to my family or friends. I’m sorry we had to go on this horror-filled journey together, but this just isn’t a burden I’m willing to carry on my own; especially if it’s real, in which case I’m just going to pray the government doesn’t come knocking on my door. Wish me well and I’ll do the same for you.)",1,1770189777.0,u_Kaeby4,0,1.0,False
+1qvi0t3,https://www.reddit.com/r/datingadvice/comments/1qvi0t3/longterm_pushpull_connection_with_someone_who/,Long-term push/pull connection with someone who isn’t ready [m24] [f26],"TL;DR:
+Briefly dated someone, stayed emotionally close for 6+ months without seeing each other, lots of push-pull warmth and withdrawal. She wants stability and a future but doesn’t feel her life is ready yet. I care about her, but I don’t know if patience leads anywhere or if I’m stuck in limbo.
+
+Post:
+I’m looking for some outside perspective from people who understand complicated, slow-burn, emotionally inconsistent connections.
+
+I briefly dated a woman last year. The dating itself didn’t last long, but the connection didn’t really end when it stopped. Since then, we’ve stayed in daily (or near-daily) contact for over six months, mostly through Snapchat and TikTok. We haven’t seen each other in person during that time.
+
+The dynamic is very cyclical. She’ll be warm, playful, affectionate, flirty, emotionally open, sending selfies, joking, sharing personal things, and then she’ll pull back for hours or days with little warning. No conflict, no argument, just a drop in availability. Then she comes back like nothing happened. This pattern has repeated consistently.
+
+She has a lot going on in her life:
+emotionally draining work (caretaking for a single terminal client)
+unstable schedule (overnights, long shifts)
+mental health struggles and inconsistent access to medication
+financial/job insecurity and lack of insurance
+She’s open about wanting stability, a future, and things like family someday, but she also doesn’t believe her life is “ready” for that yet. She often acknowledges wanting things she doesn’t feel capable of having.
+
+Recently, the tone has improved in some ways:
+
+more silliness, humor, and relaxed energy
+flirting that’s accepted instead of avoided
+increased engagement (sending videos, jokes, snaps)
+
+I finally asked, very casually and without pressure, if she’d ever be open to meeting for coffee just to catch up in person. She responded with “yeah, possibly.” I replied calmly and left it there. Since then, the cycle has continued, warmth mixed with withdrawal, but she hasn’t shut the idea down.
+
+What makes this hard:
+
+I still care deeply about her
+I don’t feel ready to move on, but waiting indefinitely is wearing on me
+dating other people feels hollow, and I feel guilty even trying
+I’m trying very hard not to pressure her or become emotionally reactive
+
+I’m not asking whether I should chase her or force clarity. I’m more trying to understand:
+
+Is this a situation where patience can actually lead somewhere?
+Or is this an emotionally safe but ultimately static connection?
+How do you stay grounded without losing yourself while someone else is stuck in limbo?
+
+I’m not angry at her. I don’t think she’s malicious. I just don’t know how long is fair. To her or to myself, to sit in a pattern like this.
+",3,1770189679.0,datingadvice,1,1.0,False
+1qvi0sl,https://www.reddit.com/r/intermittentfasting/comments/1qvi0sl/clean_vs_dirty_fasting/,Clean vs Dirty Fasting,"Hey folks 👋,
+
+So I've been doing some intermittent fasting again  and I've seen the terms ""clean fasting"" and ""dirty fasting"" thrown around over the years I've been doing it . From what I gather, clean fasting is like straight up water, black coffee etc, while dirty fasting is like adding stuff like bone broth or MCT oil, or coffee with a little milk???
+
+The people who dirty fast or who have done both, I love to know your experience? 
+
+Curious to hear your all your thoughts!
+
+TIA ",1,1770189677.0,intermittentfasting,5,0.57,False
+1qvhzyu,https://i.redd.it/5r30u3aiifhg1.png,Mridul's Frag haul for sumemrs and office,"Wanted to try a few , wanted to have a few refills, wanted to test a few for future gifts.
+
+Refills : Spiced Coffee, Nile to Milky Way, Pine Mint ( I think this is not on his catalogue anymore, but I have been using this for 2+ years now )
+
+Rest are across orientals, fresh/aromatic/Fruity, some leather etc.",9,1770189596.0,DesiFragranceAddicts,7,1.0,False
+1qvhz29,https://www.reddit.com/gallery/1qvhz29,"[SELLING] 2 Sofas, 2 end tables, Coffee table, 2 lamps – Excellent Condition – $400 (North Las Vegas 89081)","Selling a complete living room set in excellent condition. Includes:
+
+1 sofa + 1 loveseat (freshly cleaned)
+
+Coffee table
+
+2 end tables
+
+2 matching lamps
+
+Decorative throw pillows
+
+Rug not included
+
+Condition: Very clean, no odors, well-kept.
+Price: $400 
+Location: Bruce + Ann crossroads. 89081
+Delivery is available for +$25
+Terms: Sold as-is, no returns
+Payment: Cash, Zelle, or Cash App accepted",1,1770189504.0,LasVegasBuyAndSell,0,1.0,False
+1qvhxn3,https://i.redd.it/9bqdya9thfhg1.jpeg,Update to the Coffee station,What do u think about the Plant placement and the box in the middle?,1,1770189362.0,coffeestations,1,0.67,False
+1qvhxkf,https://i.redd.it/ll55hjkshfhg1.jpeg,Hot Coffee in her Room,,55,1770189355.0,winterwaifus,1,0.96,False
+1qvhxe7,https://i.redd.it/mlpornoghfhg1.jpeg,Single This Valentine’s?,"This Valentine’s Day, join Vybout’s Singles Mixer at Cuppa Redefined for an evening full of fun, connections, and good vibes. Break the ice with exciting games and interactive activities while enjoying great conversations and free coffee on us. Come solo, relax, mingle, and make memories that could turn into something special.  
+[https://rzp.io/rzp/N5ry3ZN](https://rzp.io/rzp/N5ry3ZN)",3,1770189338.0,BangaloreSocial,2,1.0,False
+1qvhxa1,https://www.reddit.com/r/u_Fit_Leave_5884/comments/1qvhxa1/why_budgeting_advice_is_only_given_to_poor_people/,Why Budgeting Advice Is Only Given to Poor People,"  
+Rich people don’t clip coupons.  
+They borrow, write off, and leverage assets.
+
+Working people are told to skip coffee.
+
+This isn’t financial education.  
+It’s obedience training.",1,1770189327.0,u_Fit_Leave_5884,0,1.0,False
+1qvhwvh,https://www.reddit.com/r/TOWN/comments/1qvhwvh/westview_dawns_early_dread_reality_still_fractured/,Westview 🚨 Dawn's Early Dread: Reality Still Fractured!,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/TOWN/comments/1qvhwvh),1,1770189287.0,TOWN,1,1.0,False
+1qvhwq5,https://www.reddit.com/r/SchreckNet/comments/1qvhwq5/first_date_d/,First date :D,"Me and Calico went on our first date it was phenomenal 
+
+We met at a coffee shop and then she took me to a garden it was breathtaking (not as breathtaking as her)
+
+(She gifted me new heels)
+
+And She took me to the Broadway showing of Hades Town it was really good
+
+I love you so much Calico :D
+
+-Sewer duck",9,1770189273.0,SchreckNet,11,1.0,False
+1qvhvq9,https://i.redd.it/56zl3a99hfhg1.jpeg,H: salt (290) pepper(222) spices(144) sugar bombs (121) W:Leaders 20:1 trade,,1,1770189174.0,Market76,9,1.0,False
+1qvhvq6,https://i.redd.it/afe94q09hfhg1.jpeg,"Morning Sea View, Coffee Break Selfie and WFH Vibes","Prompt Below: 
+
+Solitary Youth (18-22), soft morning light in a sunlit rented Airbnb bedroom in Odesa with large sea-view windows, sheer white curtains billowing gently, natural daylight flooding the space and mixing with pale blue ocean reflection, subtle rim light outlining every contour, a 21-year-old travel Instagram creator stands in front of a tall freestanding mirror three-quarters to camera, wearing a fitted white ribbed crop tank with high neckline and thick athletic straps, slightly see-through thin cotton fabric hugging her gentle curves and revealing the soft outline of her bralette beneath, paired with very short heather-grey cotton lounge shorts with elastic waistband, soft sweatshort material, upper-thigh length riding high on toned legs, she holds her iPhone up at arm's length taking a mirror selfie, one hip cocked slightly, free hand lifting the hem of her crop top just enough to expose a sliver of toned midriff and gentle waist curve while tilting her head sweetly with a soft half-smile and direct gaze into the camera reflection, dreamy half-lidded eyes with strong catchlights carrying both youthful innocence and subtle self-possession, long straight ash-blonde hair with soft face-framing layers and natural flyaways softened by film glow, dewy base, peachy blush bleed, glossy nude lips with micro-lines texture, subtle smudged liner, fair porcelain skin with visible pores, fine peach fuzz, light freckles across nose bridge, natural flush, gentle subsurface scattering, bedside clutter includes open MacBook showing Instagram drafts, small tray of fresh berries and yogurt, scattered diamond tennis bracelet and silver earrings, folded lightweight linen throw on chair, distant sea bokeh shimmering through window, the entire frame suffused with quiet morning freshness, self-assured power, aspirational intimacy, and the unspoken certainty of an invisible high-value audience.
+
+ ",5,1770189173.0,AIArtwork,1,1.0,False
+1qvhvob,https://www.reddit.com/r/Refold/comments/1qvhvob/anyone_else_that_genuinely_loves_anki/,Anyone else that genuinely loves Anki?,"I feel like i never see people actually say they like anki, its always pragmatic like: ""Its the best way to memorize words"" or it's a ""I hate anki and only learned words from immersion"". For me at least anki is the most fun part of the language learning process. I just have so much fun reviewing cards and get this feeling of accomplishment seeing how many words I've memorized (even though i haven't internalized the meaning yet). I honestly get so excited every morning doing my flashcards with a cup of coffee. The feeling consuming media later and seeing a word that i recognize from anki is so awesome!  
+  
+Wanted to share my love for Anki!",2,1770189168.0,Refold,0,0.67,False
+1qvhuyq,https://www.reddit.com/r/TeensofKarnataka/comments/1qvhuyq/how_to_have_a_girl_as_a_friend/,How to have a girl as a friend,"I’ve realized lately that my social circle is mostly guys, and I want to change that. I’m looking to have girls as friends—strictly platonic—just to have a more balanced social life and different perspectives.
+The problem is, I feel like sometimes there’s this unspoken tension or the assumption that I’m ""trying something."" I just want to be able to hang out, talk about music or sports, and grab a coffee without it being a ""thing.""
+How do you guys approach girls without it coming off as a ""move""?
+How do you set that friendly vibe early on so there’s no confusion?
+To the girls here: what makes you feel comfortable and safe in a new friendship with a guy?
+And wht should I do when i develop feelings for them based on how they treat me.
+
+ I am also 17 M . I want someone as a close friend. I don't care the gender.
+Btw not a karma farming post. I like how much karma i have currently. 
+If anyone is Looking for a friend. I am down .",2,1770189097.0,TeensofKarnataka,1,1.0,False
+1qvhujl,https://www.reddit.com/r/Nutrition_Healthy/comments/1qvhujl/do_zero_calorie_sweeteners_actually_work_or_is_my/,Do zero calorie sweeteners actually work or is my body somehow still gaining weight from them?,"I've been trying to lose weight for the past 6 months and I switched all my sugar to alternative sweeteners. Regular sugar in my coffee became stevia, my baking now uses monk fruit, and recently I discovered allulose which supposedly tastes the most like real sugar with almost no calories and doesn't spike blood glucose. I've been using it for everything. My morning coffee, 
+
+my protein shakes, my occasional baking experiments. The taste is genuinely good, way better than the chemical aftertaste of some other sweeteners I've tried. But here's what's confusing me: I'm not losing weight despite cutting out probably 300 to 400 calories a day from sugar alone. 
+
+Is it possible that my body is somehow responding to sweet taste even without actual sugar calories? I've read conflicting studies about artificial sweeteners potentially affecting insulin response or increasing cravings. Some sources say allulose is different from other sweeteners because of how it's metabolized, others say all sweet taste triggers similar responses. I found it in bulk on Alibaba for way cheaper than health food stores, but now I'm wondering if I'm just wasting money on something that isn't actually helping my weight loss goals. 
+
+Has anyone successfully lost weight while using sugar alternatives? Or do you need to cut out sweetness entirely for it to work? Am I sabotaging myself somehow by still having sweet flavors even though they're zero calorie? I'm so confused about what actually works and what's just marketing hype. I need honest experiences from people who've tried this approach.",1,1770189057.0,Nutrition_Healthy,0,1.0,False
+1qvhuh9,https://www.reddit.com/gallery/1qvhuh9,Messaging issue: can't see my friend's messages,"My friend has been sending me messages but I didn't even realize because they're not appearing for me. I can send them videos, but I can't see any videos or other messages that they send me. The only thing I can see from them are stickers. Any help is appreciated!",1,1770189049.0,rednote,0,1.0,False
+1qvhtsj,https://i.redd.it/zvarc3hpgfhg1.jpeg,follow for follow,,1,1770188989.0,tiktokF4Fgrowingto10k,0,1.0,False
+1qvhtil,https://i.redd.it/ib15m9oggfhg1.jpeg,when founder treat us as their slaves**,"Man, the world isn't at all like what we imagine it to be. Just look at what our boss sent us. Even with a belt worth lakhs, a phone worth lakhs, and 1000+ Cr in other business revenue, look at how these people behave.
+
+No matter how much heart you put into your work or how many hours you spend commuting, you get nothing in return. The rich will just keep getting richer because they view you as nothing more than their servant. *And technically, you are*—sorry for being rude.
+
+But the worst part is that you have zero importance to them. Your life isn't a 'life' in their eyes. As long as you aren’t causing problems for their lifestyle or their money, you're fine; otherwise, you're just an idiot to them.
+
+This is how Indian startups treat their employees... is this how our economy is supposed to move forward?
+
+  
+edit: Just to clear it out we dont get meals. the pantry is reserved for only snacks and coffee. In that too they are talking about overuse and over budgeting for merely 6 to 7 employee",0,1770188960.0,StartUpIndia,27,0.38,False
+1qvht66,https://www.reddit.com/r/PhR4Friends/comments/1qvht66/30m4f_nakaka_antooookk/,30[M4F] Nakaka antooookk,"Hellooo! Looking ka ba ng someone who can talk to while working during weekdays and kakulitan during weekends. Baka ako na to? I can be your online/offline bestieee! I can also help you with Excel/Googlesheet. 😊
+
+Pwede mo din ako kaladkarin kahit saan. Coffee/food/movie buddy/ukay buddy.
+
+Abt me:
+
+* Shytype
+* From Bulacan
+* Working Professional in QC
+
+About you:
+
+* Hindi Bored lang
+* Hindi Ghoster
+* Constant sana
+
+Please hit me up with short intro. Thank you!
+
+* \- age, name/nickname, location",1,1770188925.0,PhR4Friends,0,1.0,False
+1qvht2h,https://youtube.com/watch?v=L5n3puqCY38&si=RDvPVMYUTtrrZTWM,New Listing Free Coffee and cupcake at Open house Weekend from 1pm -4pm ...,,0,1770188915.0,Fremont,0,0.5,False
+1qvht0d,https://www.reddit.com/r/Divorce/comments/1qvht0d/struggling_with_all_of_this/,Struggling with all of this.,"A few years ago my wife came out of the closet as a Lesbian and my life changed so quickly… it almost feels like I’m still processing it all 2-3 years later. She was my best friend and my partner in everything and we remained friends after the break up. I had to move out and start over and she was kind enough to help get me settled. I was kind to the thought that she had to do whats best for her and to be her true identity. 
+
+However it’s been such a difficult grief for me to suddenly not have somebody next to me when I sleep. Somebody i wake up to make coffee for or go home to talk about my day. My life got flipped upside down and my home became empty. I suddenly felt like I had nothing to come back home to and i had no idea that i was not going to be spending my days with and get old with. I felt like a shell of a person i used to be.
+
+Our friendship lasted a while and maybe it did not help with the delayed realization of the end but it felt like something familiar. As we are now finalizing our documents for divorce, our relationship changed with conversation of spousal support and I hated how money changed our dynamic. It felt like she wanted space and was able to process this ultimately better than i could. 
+
+I have worked really hard on myself. Hit the gym, created new friends circles, went to therapy , picked up golf. I tried my very best to keep it together but once those documents hit my inbox… i broke down and cried like it was day 1. I never imagined all of this crashing down on me and im here trying to pick up whatever pieces i have left of myself to move forward somehow and create a new life.
+
+I know many may not sympathize with her but she was a brilliant and wonderful person that i always have admired. She did not choose who she is and I know letting our life go must have been extremely hard call for her too. I am looking for any guidance to how people deal with this transition as i don’t think I’ve really figured it out. Thanks for any comments or support that can be added here - know that i love you all for any generosity you can give.",4,1770188909.0,Divorce,3,1.0,False
+1qvhrr3,https://www.reddit.com/r/MakeNewFriendsHere/comments/1qvhrr3/33m_looking_for_good_vibes_deep_talks_and_maybe/,"33M | Looking for good vibes, deep talks, and maybe something beautiful along the way","Hey there 🙂
+
+I’m 33, M, working professional, simple guy with a calm mind and positive vibe. Life has been mostly work, responsibilities, and chasing goals… and somewhere in between, I forgot to slow down and actually enjoy moments with someone real.
+
+Not here for drama or games.
+Just looking for a genuine connection — someone to talk late at night, share random memes, music, life stories, maybe chai or coffee walks, and see where things naturally go.
+
+I’m the kind of guy who: 
+
+• listens more than talks
+• respects boundaries
+• believes chemistry > looks
+• can be both silly and deep
+• values emotional connection
+
+Sometimes life feels heavy, and it would be nice to have someone to chill with, laugh with, and just feel at peace around. If we vibe, maybe dates, maybe something more… let’s not force labels.
+
+If you’re kind, open-minded, and love meaningful conversations (or even comfortable silence), we’ll probably get along well.
+
+Drop a message. Let’s start with “hi” and see what story we create 🙂",1,1770188787.0,MakeNewFriendsHere,1,1.0,False
+1qvhrp5,https://www.reddit.com/r/punemeetup/comments/1qvhrp5/kothrud_durga_coffee/,Kothrud- durga coffee!,"MIT college ja raha hoon, let's grab a coffee at 2?
+
+",1,1770188782.0,punemeetup,0,1.0,False
+1qvhqty,https://i.redd.it/7p2eoahuffhg1.jpeg,F4F,F4F (frostrice),1,1770188699.0,TikTok,0,1.0,False
+1qvhpp7,https://www.reddit.com/gallery/1qvhpp7,Which grinder to get?,Which grinder to get for consistency?,1,1770188593.0,IndiaCoffee,6,0.67,False
+1qvhpal,https://www.reddit.com/gallery/1qvhpal,Paging 524td owners…,"So I have the opportunity to buy a really nice 1986 524td but don’t really know too much about the platform. Long story short, I come from the world of 80s Fords as I have 2 Lincoln Mark VIIs and a 1990 Ranger, but German cars have been calling my name lately. I’m looking for a good daily driver with 4 doors since none of my current cars have more than 2 doors, and being in California with these gas prices I’d like decent fuel mileage as well. For my daily drivers I don’t really care about speed as long as it can do 80 comfortably on the freeway (which I’m sure is no issue for any German car aside from a Bug). I feel like a diesel BMW or Mercedes sedan would be a good place to start in the German car world and also think that a 524td would be a good item at cars and coffees. This one has been sitting in a garage for a few years (2018) and is covered in dust, but the paint and interior are pretty much perfect. It has 151k miles and was driven until parked since the current owner has so many other cars. My understanding is the timing belt is one thing to keep an eye on since these are interference engines and the heads are susceptible to cracking (Lincoln Mark VII’s had these engines as an option in 1984 and 1985 and those are the two most commonly discussed points amongst those owners). So, my question for 524td owners is; how well do these cars do in the modern day? I know it’ll be a slow car as it’s an 80s diesel, but speed is not something I’m looking for here. I want to know if it’s a solid, dependable daily that’s still relatively easy to maintain and get parts for. Thanks in advance. ",1,1770188556.0,e28,0,1.0,False
+1qvhou6,https://www.reddit.com/r/carnivorediet/comments/1qvhou6/new_carnivore_questions/,New Carnivore Questions,"Hi Everyone! I am just starting the carnivore diet to hopefully help with my ongoing chronic fatigue, chronic back/neck/hip pain, IBS and gut issues, skin issues (KP, acne, fungal acne, seb derm), brain fog, and extreme bloating. I am 24F, weigh 105lbs and generally have trouble putting on muscle or weight. I’ve had gut and skin issues for as long as I can remember, and the other chronic issues for the past 5 years. COVID three times from 2021-2023 and 3 rounds of vaccines (mandated by my school) tremendously exacerbated my symptoms. 
+
+I have some general questions about starting the diet, and have also included other health factors and my diet plan for reference below.
+
+**Questions:** 
+
+1. How should I reintroduce foods and monitor reactions? How often should I eat the food I am reintroducing (daily, weekly, etc.), and how long should I wait to gauge whether I can tolerate it?
+2. Any experiences with certain foods perpetuating acne on this diet?
+3. Supplementation recommendations? So far I understand that I should only take powder supplements if needed (as many casings have oils, lecithin, etc.) and have found the following recommendations here: 
+
+* Magnesium Glycinate
+* Potassium Chloride
+* Taurine
+* TrimethylClycine
+* NAC
+* D3
+
+**Other Info:**
+
+I quit smoking tobacco at the same time as starting this diet. I had a nicotine addiction for 8 years, quit vapes for 6 months, and had been smoking loose tobacco for the past year. I was also on Accutane for 3 months in 2016, and another 3 months in late 2023 (I know, terrible but I was desperate). I have been gluten free since 2012, dairy free on and off, and prior to carnivore my diet has been mainly whole foods AB + coffee, no seed oils. The best I have ever felt is when I did a ketovore AB diet in 2023 after an extended fast, but was threatened off of it by my former PCP. I have also tried various liver cleanses, coffee enemas, Borax, DE, etc. in the past. 
+
+I’m nearly 2 weeks in, and still suffering from the carnivore flu (and possibly nicotine withdrawal symptoms): increased brain fog, fatigue, constipation, acne/facial KP, congestion and bleary eyes/ blurry vision. On the plus side, I have had ZERO nicotine cravings and my chronic pain has already improved drastically (granted, I have also had some recent breakthroughs in physical therapy). Although I have been sleeping a lot and “crashing”, when I am awake I feel more energized than before, and have generally been more active. I should probably do a Lion Diet eventually, but I just know I won’t be disciplined enough to stick to it with where I’m at right now.
+
+**Diet Plan:**
+
+Start Date: January 23
+
+*Foods:* Steak/beef, liver/ organ meats/ sweetbread, eggs, tallow, salt
+
+*Occasionally:* chicken, fish, (Teton Grassfed) beef sausage, uncured beef bacon
+
+*Drinks:* Water, sparkling water, peppermint tea
+
+*Current Supplementation:* 
+
+* Beef liver (¼ lb weekly)
+* Cod liver oil (1 tbsp daily)
+
+**Post 30 Days (February 22) Plan:** 
+
+*Cut Out:*
+
+\-Eggs (suspicious that these are causing my acne, but I think I should wait to eliminate to rule out oxalate dumping/ body adjusting to changes)
+
+*Reintroduce:* 
+
+\-Kimchi/sauerkraut/pickle
+
+\-Dairy (raw A2 cheese, raw butter)
+
+\-Lemons (squeeze in water)
+
+\-Avocado (small amounts)
+
+\*reintroduce each food in isolation for 1 week, record any changes",4,1770188512.0,carnivorediet,0,1.0,False
+1qvhobf,https://i.redd.it/q6mn9f65ffhg1.jpeg,f4f,,0,1770188463.0,TikTokMonetizing,0,0.5,False
+1qvhmcj,https://www.instagram.com/reel/DUS52JykkPN/?igsh=anM2aDNsZ3ZqNTBv,This trailer of #MusafirCafe felt like that morning cup of coffee! Created by #TerriblyTinyTales ❤️ Starring #VikrantMassey #VedikaPinto #MahimaMakwana this will be out on #Netflix soon!,,1,1770188279.0,theopinionatedindian,0,1.0,False
+1qvhlgx,https://i.redd.it/ns41z31befhg1.jpeg,First time ko mag business,First time ko mag business ng coffees and matchas hehe,13,1770188188.0,FirstTimeKo,4,1.0,False
+1qvhkep,https://www.reddit.com/r/Healthygamergg/comments/1qvhkep/i_know_this_sounds_arrogant_but_i_feel_like_im/,"I know this sounds arrogant, but I feel like I'm usually smarter than my therapists and have never found therapy very useful.","I'm on my 5th therapist. 
+
+I've never seen a therapist for more than 6 sessions. 
+
+Here are some of the problems/disconnects I have previously encountered:
+
+- my therapists assume I have anxiety and I don't. I do not feel anxiety very often, and I rarely worry about things I can't control unless it's in the abstract for fun. Eg ""what would you do in a zombie apocalypse"". Sometimes therapists assume I may be depressed, but this happens less often.
+
+- I have already tried or implemented things that therapists recommend. Eg, ""take a deep breath"" ""count to 10"" when I'm feeling overwhelmed at work. It's like, thanks, I do take deep breaths from time to time, but that doesn't change that I suck at this job (worked customer service remotely for a bit and had NO training for the area I was in... I may have lied on my resume because I was jobless for too long, so 2 months of income was better than nothing. It ended up being the right choice).
+
+- therapists seem more concerned about psychoanalyzing vs helping. I previously worked in the medical field and sometimes patients died, so our had a new program where 100% of therapy was covered. They encouraged us to get therapy whether or not we needed it just in case. Since it was free, I tried it. I was very specific about wanting to talk about my job, but mentioned I might also want to talk about friendships ending over political differences. Instead, in our initial interview, my therapist became kind of obsessed about the fact that I told her that my parents divorced, and I was no longer in contact with my father, but I didn't want to talk about it. The reason I didn't want to talk about it was because I'm happy with the way it worked out - my mom deserved so much more than my father. He cheated, manipulated, and was barely involved with my sister, brother and I after the divorce that I just didn't care to have him my life when I became an adult. I didn't want to talk about it because it felt like a waste of time, I don't feel emotional about it, aside from being sympathetic for my mom. Instead that therapist spent 3 sessions on asking about the divorce; how I wanted my parents to divorce because they'd always fight. ""How did you handle the fighting as a kid?"" ""I mostly ignored it because it happened often; I took the opportunity to do things I wanted without supervision, which ranged from reading, playing on my computer, or watching TV."" ""That makes total sense - we've previously identified that you're an independent individual, with low anxiety - you probably developed that from needing to self-sooth as a child when your parents argued."" .... So? Like, okay that's maybe possibly a fun fact, but if that's the conclusion we come to after 2 weeks, ignoring issues I requested to talk about, how does this unverifiable detail about my childhood improve my life? Glad it was entertainment? I just said okay and didn't book another appointment. 
+
+- My current therapist went 30 minutes over time when I told her about my doctor making unprofessional comments about the medication I'm on. I appreciated she took it seriously, but she spent about 40 minutes ranting about how it's very important to switch doctors, she's seen it before, here's how you do it etc etc. It started sounding like I triggered a bad memory for her and somewhat triggered her. I felt like I was consoling her and re-assuring her that I recognized that it was inappropriate and had already made steps to move forward. I was just sharing it because, while I was offended, more than anything, I was *frustrated* with their inappropriate comments forcing my hand to find another doctor, and I don't like having more tasks. 
+
+- One of my main issues is that I have quite severe ADHD. Fortunately, I am not anxious or depressed. I'm quite a happy person. Sometimes I get stressed when I fail at things; I'm not immune to negative emotion but I bounce back quick. I think I would benefit more from hands on organization focused tutorials or something like that, rather than reassuring therapists I don't have the problems they expect me to have. I asked my most recent therapist about what results might look like or how they would manifest regarding ADHD symptoms, and the answer was very vague; it helps with anxiety and depression and self esteem. I don't have any of those problems - if anything, my ego is healthier than it should be. I'm aware of my faults but find implementing commonly touted solutions difficult; I've already integrated the ones that weren't difficult into my life (tying things down to places has been the most helpful to avoid temporarily losing something and purchasing duplicates. I have 17 tweezers).
+
+I've never seen an improvement in therapy. I've been open with my therapists about how I'm unsure what therapy can do for me, and they fail to explain HOW it helps.
+
+But also, there's often an underlying feeling that... honestly, I feel like I'm smarter than the therapists I'm seeing, and it limits my ability to feel like they understand me. For example, one time at a job, I learned how to use an antiquated computer system in about a day and a half, where for some people it took 3-4 weeks. Similar incidents have happened in other jobs, where, people get kind of offended when people outshine them. So, instead of bragging that I had learned the system so quickly, I pretended not to understand it and asked questions about it and pretended I didn't know the answer because my trainer seemed like someone who enjoyed teaching. When it became too obvious that I picked up on it quickly, I lied and said that I had a very similar system at a previous job. 
+
+My therapist couldn't understand or relate to the feeling of hiding your abilities so as not to offend other people, or filtering your language around people, not using a $5 word around people who don't. She was confused and thought it was a self confidence issue, rather than a desire to just blend in and not stand out, because making people feel good at work is often more useful than bragging about your accomplishments. Saying ""Bob is the reason I learned this so fast."" to a manager is way more useful than saying the equivalent of ""I'm a smarty pants, look at me.""
+
+This is one disconnect among thousands. I guess I find lots of therapists rely on heuristics than genuine understanding. They press where you resist because it ""must"" be the sore point; I must be denying having anxiety or depression or have drama related to my parents divorce. Maybe I just know what my problems are and would like to focus on that instead?
+
+I guess I often feel that lots of people don't think critically. I think lots of people are capable of it, but not everyone enjoys it or values it or it manifests in a way I don't personally connect with, like being a very good programmer but not enjoying political discussions or news or philosophy, which are intellectual interests I enjoy. And I find myself finding conversations predictable and uninteresting a lot of the time. I feel like I'm talking past most people I encounter and lots of interactions make me feel alone. Most of my friends are people I keep around just to not feel lonely; I don't feel an intellectual connection with most of them. Now I segment my friend groups to diversify and not end up without friends; I have tennis friends who I play tennis with, I have restaurant friends I go to restaurants with, I have friends who I gossip with. Different ""flavours"" of friends to fulfill the desire and need to be in communities. 
+
+But the connections are usually surface level, until I find people who I feel are smarter than I am. When I find them, I... kind of cling. They make me feel like there's more to learn, they challenge me on assumptions or opinions in a refreshing way that's novel. They can make predictions about information I might like to know. It's not a lot of people who I talk to that give me the impression that a lot of their words aren't just regurgitated. I feel less alone only around these types of people. And they're not exceptionally rare necessarily, but sometimes there are implicit limits to how close you can be with people. I'm not going to develop and intellectual connection with Mark from the office who has 2 kids and wife so we can chat about the news on Tuesdays over coffee. He's busy and it would be inappropriate. I don't think everyone around me is stupid, but I do think I'm a smart cookie, and that it's sometimes a barrier to connecting to or being understood by therapists in particular. I guess I don't understand how someone could help me without understanding me, beyond minor details.
+
+I know it sounds very arrogant. It's the reason I'm talking about it on reddit, consequence free. It doesn't cost me anything to say this on the internet.",3,1770188089.0,Healthygamergg,7,0.81,False
+1qvhjqu,https://www.reddit.com/r/BestThingToday/comments/1qvhjqu/woke_up_drank_coffee_sat_in_the_sun_thats_it/,"Woke up, drank coffee, sat in the sun. That’s it. That’s the post",,1,1770188022.0,BestThingToday,0,1.0,False
+1qvhjn9,https://www.reddit.com/r/Sri_Lankan_Dating/comments/1qvhjn9/any_girls_in_kandy_city_today_for_a_coffe/,Any girls in Kandy City today for a coffe,"Hi any girls there in Kandy for a coffee and deep conversation?
+I'm 31M .locals and foreigners both welcome.
+Please DM me",1,1770188013.0,Sri_Lankan_Dating,0,0.99,False
+1qvhjfn,https://www.reddit.com/r/fo76/comments/1qvhjfn/coffee_and_company_tea_machines/,Coffee and company tea machines,Just a question at the weekend I had the need to spend gold bullion so went and got the above machines as I’m switching to vats build so I thought why not give them a go but then learned about the bug of gold items not being able to use or build from build menu. Waited till yesterday’s fix and I still can’t place either any insight is appreciated thanks. ,0,1770187993.0,fo76,3,0.25,False
+1qvhieu,https://www.reddit.com/r/stories/comments/1qvhieu/i_met_a_beautiful_anthropomorphic_animal_lonely/,I met a beautiful [anthropomorphic animal] lonely girl on Tinder [due to deforestation],"[In this story, the characters are anthropomorphic animals: we have animal bodies and features, but we think, speak, and feel like humans. The world we live in has been profoundly affected by deforestation.]
+
+I moved to a new city a week ago, mostly to get away from a pretty toxic previous relationship.
+I've always been a loner, even though I had friends and was always popular and always tried to be friendly. I never really connected with anyone and went through some really bad experiences, but that's not what this story is about.
+Since starting college, I haven't made any friends. I only had a relationship with a girl for a couple of years that ended a few months ago. Even with her, I still spent most of my time alone and never made any friends while I was away from home studying.
+I downloaded dating apps to try them out and meet people. I was just looking for something serious. I got a lot of matches, but I never messaged them first, and I didn't reply to most of the ones who messaged me first either. I think I'm very socially anxious, and I suffered from a lot of ambivalence. I wanted connection, but at the same time, I struggled to meet new people. I think I only went on two dates with one girl and talked to two others on Instagram, and that was it—nothing more, and it wasn't anything spectacular.
+A little over 24 hours ago, something different happened. I matched with a girl, but just as I went to look at her profile, she had deleted all her photos and her name, and she had written in her bio that she was leaving the app. And then, a miracle happened: for the first time, I messaged a girl first. I don't know why, but I jokingly said, ""You look beautiful in your profile picture,"" because she didn't have one.
+She, seemingly unaware of this, thanked me but said she was leaving the app and left her phone number so we could talk.
+
+Obviously, I didn't reply. I ignored her and went about my business.
+
+An hour passed, I don't know what came over me, it was another miracle, but I decided to message her. It was 2 a.m. and I honestly hadn't heard from her. Maybe she wasn't answering, maybe she'd fallen asleep, I don't know. She had a status in Arabic, so I jokingly asked if she wasn't a Turk trying to scam me, and to my surprise, she replied quickly. I don't know how, but we started talking, talking a lot, with a lot of confidence and ease, like I hadn't spoken to a girl in a long time. She was very dynamic, knew how to start a conversation, responded quickly, I felt cared for, and I loved her personality.
+Usually, talking to other people, especially girls, online made me very nervous, and I thought carefully about each message before sending it, but with her, I felt relaxed, like I was talking to my best friend or even myself. She was sweet and funny. We talked about what we were looking for, talking seriously and also with a lot of spark.
+
+She told me she had no friends, that she'd never had any in her life. She'd never left her city, never gone to the movies, never gone to bars, never eaten out, and that being around a lot of people gave her anxiety. She didn't have any hobbies either; she didn't even know how to ride a bike. Among many other things that surprised me, she made a lot of self-deprecating jokes, saying she was a weird girl or a ""piece of trash,"" among other derogatory terms. But she couldn't have been further from the truth. To anyone who had spoken to her the way I did, she would undoubtedly be a nice girl, with strong values, and someone who made you feel safe.
+
+Honestly, I thought she was exaggerating about never having friends, haha, but anyway, everything she told me really shocked me. I thought I was a loner, and she'd totally outdone me. She repeated a few years of school—well, more accurately, she told me she didn't go to classes for a few years. When I asked her, she just said it was because. She had siblings; they didn't talk much, but I was surprised to learn they all had different fathers. Well, to be more direct, we ended up talking until 8 in the morning without stopping. We talked about what we expected in a relationship, boundaries, sex, love, the future.
+
+We agreed to go out that same afternoon. I, well, obviously went to sleep, but she said no, that she had some things to do and would sleep later.
+
+[In this world, there are fewer and fewer green spaces; deforestation has caused many cities to grow soulless, something that accentuates the isolation of those who live in them.]
+I woke up around 3 in the afternoon. I texted her and she answered quickly. I asked her if she slept at all and she said no. I asked her to please sleep and she said no, that she didn't want to sleep because if she did, she wouldn't be able to wake up for our date. I think it was a nice gesture. I didn't insist anymore, I did my things and got ready to see her.
+
+Something surprising that I didn't mention is that, despite the city I moved to being huge, she and I lived just a few blocks apart. She gave me an address, and we agreed to meet there at 7:00 PM. I arrived at 6:50 PM, and nothing happened. While I was on my phone, I saw her.
+
+I had already seen her in her WhatsApp profile picture, but in person, she was something else entirely.
+She wasn't very short or very tall, with shoulder-length black hair. She was wearing a black top similar to those worn by Chinese women, black pants, black shoes, and black nails. She had glasses and olive skin, quite tanned. I'd say she looked like a Turkish woman, but with delicate features: a small head, mouth, nose, and lips, and beautiful, large eyes. I noticed some cuts on her wrist. Her teeth were very white, and she was quite slim. She told me later that she was 1.60 meters tall and weighed 50 kilos.
+
+[Like anthropomorphic animals, certain physical traits—fur, skin, body shape—vary between species, but their presence doesn't change my perception of her.] In chat, she spoke in a very adorable and playful way, but when I greeted her, I was surprised by her manner of speaking. She had a strong voice for a woman, yet it was quiet, like someone who doesn't talk much or finds it difficult.
+Over chat, I had suggested going to a bar, a coffee shop, some nice place with air conditioning, that I would treat her, but she insisted on going to a park, even though I was dying from the heat; she was cool as a cucumber. The conversation was slow but flowing. Once we were in person, she emphasized that she had never had any friends. We delved into that, and I was honestly surprised; she was a complete hermit.
+
+After sitting there for a while, I suggested we go to a really trendy bar I'd been to recently. It's quite ironic, but despite my short time in the city, I knew more places there than she did (she never went more than a few blocks from her house). Anyway, I asked her if she wanted something to eat, but she said she didn't eat dinner, snacks, or breakfast, only lunch. We ordered grapefruit juice anyway, and yes, I was surprised that she'd never had grapefruit before. She said the taste surprised her.
+
+Yeah, pretty surreal. Honestly, that's when I started asking her if she belonged to some cult or something, to be so isolated.
+Anyway, she was much more knowledgeable than many other people I'd met. She told me she spent a lot of time online in her free time.
+After chatting for a while longer, I suggested we go for a walk, and we headed to a plaza. We were pretty honest with each other, well, actually I think we were both very open about our nerves and what was going through our heads. I admitted I didn't know how to start a relationship, and she did too, hahaha.
+
+Anyway, I started trying to get closer, I took her hand, and we walked like that for quite a while. It felt strange, pretty artificial, like two people who liked each other, who wanted something serious with each other, but neither of us knew how to handle what was happening. Then I put my hands on her shoulder as we walked, then on her waist, until we got to a really nice park.
+
+[The parks were remnants of ancient forests, only partially preserved after years of deforestation.]
+We sat and watched the night, talked for another hour, grew closer, and then started kissing, kissing quite a lot. Then we just stayed there, holding each other in a rather awkward way, as if neither of us knew how to hug properly. We talked a little more in that state, then started kissing again, then we just stood there for many minutes, looking into each other's eyes.
+
+We kissed some more and finally decided to take her home.
+
+Well, she actually surprised me. Even though she didn't go out much, she knew all the streets near her house and the addresses. She offered to take me home. We walked arm in arm, and once we got to the corner, we kissed—not just once, not ten times, it was addictive. Every time we tried to stop, the other kissed us even harder. I lifted her into the air in a hug to kiss her, and those moments felt endless. Finally, we said goodbye.
+Once I was home and she was home, I asked if she got there okay. We talked a little more, and she finally fell asleep after spending two whole days awake just from being with me.
+We talked openly about going out again, and also about how I'd like to ask her to be my official girlfriend on a date, with more romantic gestures.
+Honestly, I used to think of myself as a loner, and I also partly thought, well, pretty girls must have it easy. Who wouldn't want to be friends with or date a pretty girl? Honestly, I couldn't have been more wrong, and honestly, I couldn't be happier. All of this happened in less than 24 hours. What if I hadn't liked her post yesterday, right before she deleted her profile? What if I hadn't messaged her first? What if I had ignored her number and not called her?",2,1770187899.0,stories,2,0.67,False
+1qvhi83,https://www.reddit.com/r/MakeNewFriendsHere/comments/1qvhi83/37_m_uk_looking_for_mates_to_chat_with_about_gigs/,"37 M UK - Looking for mates to chat with about gigs, games, and general life","Alright, so I'm a 37-year-old dad from Lincolnshire trying to expand my social circle a bit. Life gets busy but I'd love some new people to chat with, whether that's grabbing a coffee or just messaging about whatever.
+
+Bit about me: I'm massively into live music, particularly indie stuff - always up for catching gigs when I can get away. I spend a fair amount of time on the PC playing simulation and racing games when my daughter's asleep or she's at her mum's house.
+
+ I also do archery locally, which is brilliant fun and more social than you'd think.
+
+Not fussed about age or gender, just looking for genuine people who fancy a chat about music, games, parenting war stories, or whatever really. Local would be great but I'm equally happy with online friendships too.
+
+Drop me a message if you fancy a chat!",1,1770187883.0,MakeNewFriendsHere,1,1.0,False
+1qvhhyv,https://www.foxbusiness.com/lifestyle/former-starbucks-exec-says-she-fired-after-raising-concerns-over-maggots-safety-lawsuit,Starbucks Fired Former Exec After She Criticized New Coffee-Making Equipment - She Has Filed a Lawsuit,,2,1770187857.0,badcelebrity,0,1.0,False
+1qvhgzu,https://www.reddit.com/r/shrinking/comments/1qvhgzu/s3ep2_details_i_find_funny/,S3EP2 details I find funny,"1. There’s a moment where Matthew is playing Gears of War on an Xbox and both the Xbox Series S and the controller in the scene are both clearly turned off and he’s not even remotely pressing the buttons properly. I just find it pretty goofy
+
+2. This goes for a lot of shots in the episode but there will be back and forth cut shots where what the characters are doing isn’t lined up properly so it just cuts to them performing a different action. The coffee shop scene with Louis and Jimmy is a good example of what I’m talking about",2,1770187766.0,shrinking,0,0.75,False
+1qvhgah,https://i.redd.it/xykw4tzucfhg1.png,Cluedo Board Game Night by Playfest,"Cluedo Board Game Night by Playfest 
+
+📅 Date: Sunday, 8th February, 2026
+🕒 Time: 5:30 PM Onwards
+📍 Venue: Eve's Coffee, Anayara, Trivandrum
+
+Registration Mandatory:
+https://makemypass.com/event/cluedo-board-game-night-feb-2026",3,1770187697.0,Trivandrum,0,1.0,False
+1qvhg2m,https://www.reddit.com/r/MousepadReview/comments/1qvhg2m/speed_desk_mat_recommendations/,Speed desk mat recommendations,"Hi there! I am looking for a speed oriented pad that can cover most of my desk (An XXL size is preferred) and that is a soft or very soft surface. A limitation I have is color, I want it to be aesthetically pleasing with a nice design or a nice cream or coffee color (I have a fractal north white incase that helps) something under $70, but if there is something really nice higher I would be happy to look into it. I have a pulsar X2 crazylight with stock skates but are planning to change them out to tiger ice skates (any better options or recommendations would be appreciated) are there any options or am I being too picky (if I had to sacrifice one choice it would be the color)
+
+  
+Any help is appreciate, thanks!",1,1770187676.0,MousepadReview,0,1.0,False
+1qvhfuf,https://i.redd.it/jjukludqcfhg1.png,Cluedo Board Game Night by Playfest,"Cluedo Board Game Night by Playfest 
+
+📅 Date: Sunday, 8th February, 2026
+🕒 Time: 5:30 PM Onwards
+📍 Venue: Eve's Coffee, Anayara, Trivandrum
+
+Registration Mandatory:
+https://makemypass.com/event/cluedo-board-game-night-feb-2026",1,1770187654.0,boardgameskerala,0,1.0,False
+1qvhe96,https://i.redd.it/5r3xse9acfhg1.jpeg,Good golly Chimolly!!,"Chimolly Pioneer Robusto Extra (6 x 52)
+
+A new brand for me and what a delectable cigar! Medium brown with darker mottling. Creamy, velvety smoke texture. Perfect draw with just the right hint of resistance. Slightly wavy burn that never needed attention. Leather. Milk chocolate. Continuous subtle fruit sweetness that lurks in the background. Mild woodiness. Black coffee that picks up strength in the final third. Light spiciness with a little black pepper. Long finish that leaves a sweetness on the palate. Cool burning all the way down to the nub. Just an overall delicious balanced blend of flavors. Nothing was overpowering, yet it was a very full flavored cigar.  Simply an excellent cigar that I will purchase again. ",3,1770187504.0,cigar_refuge,1,1.0,False
+1qvhdto,https://www.reddit.com/r/CharlotteDobreFans/comments/1qvhdto/going_to_the_wedding_last_trip_before_the/,Going to the wedding - last trip before the apocalypse,"Traveling in late 2019 to my daughter's wedding back East was it's own kind of hell. 
+
+It took 2 1/2 days with the layovers , traveling with hubby and son (14 ) . My son had only flown once before & he is naive in traveling.  
+
+First layover was Seattle. 12 freaking hours 😫  
+
+So what did we do to pass the time  ? Got a day pass for BART ( the public transportation train ) to explore the city.  We went to Wings over Seattle &  had a great time  . Checked out a few other places on the pier, went to eat  and then jumped back on the train.  Found a dispensary right on the main line  according to the internet. 
+
+ Problem was we didn't know the exact stop 🤔.  Luckily the nice college age girl sitting by us noticed we looked a little lost  - she asked if we needed help. We asked if she knew the stop for the dispensary.  Yes , we just passed it, but we could get off at the next stop & walk 2 or 3 blocks back.  Cool.
+
+Hubby waited outside with our son while I went in.  I grabbed 2 🚬  for now and quite possibly the nastiest rock hard edibles for the flight.  Walking 3 stops down to consume the flammable  fun then back on BART to the airport. 
+
+Spent a few hours people watching 👀  making up stories about them... like why they're traveling  , most likely to have sexy hotdogs in their luggage or who's the most likely to get searched by TSA - normal entertainment in lieu of license plate game. 
+
+Now it's 30 minutes until we have to go through TSA so I took out the edibles.  Apparently ass is a flavor  - they were sooo gross.  Must have been a 7 on the Mohs scale  . Tiny like sugar cubes . All I could do to get one down.  I had to put them in coffee to melt enough of the sharp corners off to swallow . Hubby had only one & couldn't deal with the flavor  . I now needed to finish the rest  before went through security. 
+
+Mission accomplished  !! They didn't kick in until we were at cruising altitude.  I really enjoyed the flight 😀  but didn't sleep  . No problems until we had to change airlines for the last leg (Pittsburgh to Buffalo  )   up till now all our seats were together.   The next airline didn't let us pre pick  seats  😡  
+
+Fine.  Hubby was seated around the middle of economy and promptly fell asleep.  Went another 12 rows back . My seat was the seat in front of my son.  I get him settled in and take mine.  All is well until some lady comes up freaking out I'm in her seat.  OK  👌  I must be the seat behind my son.  I moved.  Next thing I know some gut is claiming it's HIS seat  . 
+
+I have already forgotten where hubs is seated  ( and that he kept the last boarding passes  ) so I  just got up and went to sit in the seat by the bathroom in the back.  I figured nobody would want that seat & I  could still see my son.  
+
+I haven't slept in almost 2 days at this point  , I'm almost in tears trying to figure out which seat is really mine flipping through a seemingly 2 inch stack of old boarding passes.   
+
+Next thing I know the steward from 1st class is walking up to me asking what the problem is.  I try explaining what happened  ,  about the people claiming my seats , that my husband must have my boarding pass  , it's the last leg of the flight   etc. That all I want is to get to my daughter's wedding. 
+
+He asks me to come with him.  For some reason I think I'm getting removed from the plane \[we've already taken off \] I asked if I could bring my son  - he said of course.  ( totally forgot about hubby at that point)  like I said  - very sleep deprived  !
+
+He brought us to the row directly behind 1st class and asked us to sit down  . Since both sides were empty he let my son sit by the other window.  After the seatbelt sign went out  the steward  came back and said drinks were free  ( I asked for coffee  ) next one I asked for Kahlua to go in it  😀 
+
+He was such a nice steward  ! Turns out he & his husband  were planning their son's wedding  - total mob sympathy  ! 
+
+Apparently he witnessed the entire shit show  that  made me go sit in the last row.  He was very impressed that I didn't yell or argue with the other 2 people about the seats. 
+
+I wish I remembered his name  , & how his son's wedding turned out. ( It was  set for the next summer  but then the apocalypse happened  ) I wonder if he did the peacock cake I told him about , with the tail made of fancy cupcakes. If he ever reads this I want him to know I still remember his kindness always ❤️ I think it was American Airlines  
+
+And my husband  ? He slept through the whole damn thing  - but still teases me for forgetting & leaving him with the Hoi Poli LMFSAO
+
+Then I went on to tame the shrew  a few  days later. 🙃 
+
+
+
+
+
+ 
+
+
+
+",2,1770187463.0,CharlotteDobreFans,0,1.0,False
+1qvhcuw,https://www.reddit.com/r/tinnitus/comments/1qvhcuw/scared_of_medications/,Scared of Medications?,"Is anyone else scared to take medications? I feel like no matter what I look up, everything has the potential to make my tinnitus worse. Headache? Google says ibuprofen could make it worse. Anxiety? Can't take my propranolol. My horrible ADHD? Nope, can't take my adderall anymore. Need antibiotics? Absolutely not. Tired because you have ADHD and can't be medicated? No coffee, no energy drinks. It's caused this whole other issue that also impacts me on a daily basis; it's so frustrating. ",5,1770187364.0,tinnitus,2,1.0,False
+1qvhbwb,https://www.reddit.com/r/Alphasupplements/comments/1qvhbwb/discover_8_surprising_matcha_benefits_that_could/,Discover 8 Surprising Matcha Benefits That Could Change Your Routine,"Matcha, the vibrant green tea powder from Japan, has gained massive popularity for its unique flavor and potential health perks. Many enthusiasts turn to it for a gentle energy lift without the jitters of coffee. But what makes matcha stand out? Let's dive into some well-known facts and general scenarios where it shines.
+
+# What Exactly is Matcha?
+
+Matcha is made from finely ground green tea leaves, meaning you consume the whole leaf for maximum nutrients. Unlike regular green tea, it's shade-grown, which boosts compounds like chlorophyll and L-theanine. Imagine starting your day with a frothy bowl—it's a ritual that promotes mindfulness for many.
+
+# Top 8 Benefits Backed by Studies
+
+Here are eight evidence-based advantages that highlight why matcha might deserve a spot in your kitchen:
+
+1. **Antioxidant Powerhouse**: Matcha packs more antioxidants than standard green tea, including EGCG, which studies link to fighting free radicals.
+2. **Sustained Energy Boost**: The combo of caffeine and L-theanine provides calm focus—perfect for those long work sessions without crashes.
+3. **Metabolism Support**: Research suggests it may enhance fat oxidation during exercise, aiding weight management efforts.
+4. **Brain Health Perks**: L-theanine promotes relaxation and alpha brain waves, potentially improving concentration and reducing stress.
+5. **Heart-Friendly Compounds**: Regular intake is associated with lower cholesterol levels in some population studies.
+6. **Detox Potential**: High chlorophyll content acts as a natural detoxifier, helping remove heavy metals according to lab research.
+7. **Immune System Ally**: Catechins in matcha have antimicrobial properties that might support overall immunity.
+8. **Skin Glow Enhancer**: Antioxidants combat oxidative stress, which could lead to clearer skin over time.
+
+# Easy Ways to Incorporate Matcha
+
+* **Classic Whisked Bowl**: Mix 1 tsp matcha with hot water using a bamboo whisk for authenticity.
+* **Lattes and Smoothies**: Blend with milk or add to fruit smoothies for a creamy twist.
+* **Baking Ideas**: Stir into muffins or energy balls for a subtle green hue and nutrient kick.
+
+Hypothetically, if you're exploring new wellness habits, starting with a daily matcha could add variety. Studies from sources like the Journal of Nutrition back many of these points—feel free to look them up!
+
+What's your go-to matcha recipe or benefit you've noticed? Share in the comments below—let's discuss and exchange tips!",1,1770187274.0,Alphasupplements,0,1.0,False
+1qvhaxw,https://i.redd.it/eene6uqbbfhg1.jpeg,🚨1kg Yogabar Protein Powder @949 ( 71% OFF ),Grab it - https://amzn.to/4a09Xba,2,1770187181.0,shopindia,0,1.0,False
+1qvhaii,https://i.redd.it/1of8nee7bfhg1.jpeg,🚨1kg Yogabar Protein Powder @949 ( 71% OFF ),Grab it - https://amzn.to/4tcrnJ7,1,1770187140.0,Lootdealsforindia,0,1.0,False
+1qvha2p,https://i.redd.it/eor6phl2bfhg1.jpeg,🚨1kg Yogabar Protein Powder @949 ( 71% OFF ),Grab it - https://amzn.to/4twwlAC,1,1770187095.0,topdealsforindians,1,1.0,False
+1qvh9xw,https://www.reddit.com/r/language_exchange_kr/comments/1qvh9xw/valentines_day_language_exchange_night/,💖 Valentines Day Language Exchange Night! 💕,"💘☕️ GSM Valentine’s Day – Unlimited Hot Chocolate 🍫
+
+February 13 (Thu) & 14 (Fri) – Night
+
+Celebrate Valentine’s Day with cozy vibes and unlimited hot chocolate at  💕
+
+Whether you’re coming with a date, friends, or solo — warm cups and good company guaranteed 
+
+🕰️ Time: 7PM onwards
+
+🎟️ Unlimited Hot Chocolate: 7–10PM only
+
+💝 Bonus: Lucky Draw Event
+
+📍 Location: GSM Table
+
+👉 Perfect for Valentine’s plans, chill conversations, and sweet winter nights 💝
+
+💬 Inquiries: [http://pf.kakao.com/\_Xxmeru/chat](http://pf.kakao.com/_Xxmeru/chat)
+
+Reservation Link: [https://globalseoulmates.com/event-calendar.php?search=valentine+pub](https://globalseoulmates.com/event-calendar.php?search=valentine+pub)  
+
+
+💘☕️  GSM 발렌타인데이 – 무제한 핫초코 이벤트 :
+
+2월 13일(목), 14일(금) 저녁
+
+발렌타인데이를 맞아 GSM에서 무제한 핫초코와 함께 따뜻한 시간을 보내세요
+
+연인, 친구, 혼자 오셔도 모두 환영입니다 
+
+🕰️ 시간: 오후 7시부터
+
+🎟️  무제한 핫초코: 7–10PM
+
+ 💝 럭키드로우 이벤트 진행
+
+📍 장소: GSM Table
+
+👉 달콤한 핫초코와 함께하는 발렌타인데이 :coffee::gift\_heart:
+
+💬 문의: [http://pf.kakao.com/\_Xxmeru/chat](http://pf.kakao.com/_Xxmeru/chat)
+
+예약 링크: [https://globalseoulmates.com/event-calendar.php?search=valentine+pub](https://globalseoulmates.com/event-calendar.php?search=valentine+pub)
+
+https://preview.redd.it/zlob3r40bfhg1.png?width=1536&format=png&auto=webp&s=78f584deff4eff3fc66d890a84ffdd0c501073b4
+
+  
+",1,1770187082.0,language_exchange_kr,0,1.0,False
+1qvh9ky,https://i.redd.it/rcyrxb8xafhg1.jpeg,Amazon: 1kg Yogabar Protein Powder @949 ( 71% OFF ),Grab it - https://amzn.to/46ue7pc,1,1770187045.0,dealsOffersFreebies,1,1.0,False
+1qvh94t,https://www.reddit.com/r/mentalhealth/comments/1qvh94t/ive_picked_up_a_bad_journaling_habit_need_advice/,I’ve picked up a bad journaling habit - need advice,"Hi all. This is a long post, and it’s a throwaway account, so bear with me.
+
+I (29M) have had what I consider to be a good life. Decent job, loving partner, bought an apartment. Genuinely, grateful that I’m lucky enough to be in that position. But my mental health has never been great. I am on medication for OCPD and I quit my Ritalin for ADHD. I’ve been described as “looking depressed/stressed/angry” even when I don’t feel like I am. I have a lot of unresolved trauma from an emotionally negligent upbringing I am doing my best to address in therapy, and have done so for the past 4 years. Multiple therapists helped me come to the realization that most of my life was a mask to protect myself from my upbringing, which has led me to a fragmented sense of self and identity, which I have the opportunity to build now, based on discovering my interests, values and what I “want” out of life.
+
+But I’m fatalistic and always expect the worst,  and am thus always on ‘survival mode’. It makes sense I would be negative and bitter. But it damages my relationships, and my health in the long run, I’m sure too.
+
+I’ve tried several things including CBT and so on, but something I tried recently, of my own volition, led to something with unexpected side effects. 
+
+I tried journaling before, and it helped but I could never maintain it. I would drop it after a month or so. That’s when I had this idea: I bought a journaling app on my phone, but instead of a conventional journal, I turned it into a private social media app. Posting small stuff as well as big revelations in my life. 
+
+And it worked really really well. The problem? I could only really do it by taking photos of my real day to day and running a filter to turn my likeness into a female version of me. Nothing exaggeratedly different, but obviously not me. At first it was amazing. I noticed my writing style changed, there was more “whimsy” to life, and I started recording the smallest of things, a coffee that I made that looks nice, a stolen selfie taken in the bathroom mirror at work whenever I was stressed and wanted to rant, me enjoying my favorite shows, so on. Stuff I wouldn’t dream of sharing elsewhere.
+
+It sounds dumb but there’s this one instance where my girlfriend wanted to take us do a massage cause we had a rough month at work, and I was more excited about taking a spa selfie than actually going to it. It was fun, so I guess the motivation for me there, but the carrot on the stick was this. I feel guilty about it, but i tricked myself into seeking things I wouldn’t have. There are almost daily examples. 
+
+After realizing this I just couldn’t get back into journaling without this mechanism. I’m not unattractive by any means, but I just can’t stand taking photos of myself in the same way, even if it is sharing with just myself in this private space.
+
+Now that this has happened, I feel like not only have I gone back to my usual, I could argue I’m angrier and more bitter than I was before. I haven’t brought this up with anyone yet, because it’s a very, very uncomfortable conversation to have with anyone, face-to-face. So I was wondering what anyone here thinks. I feel like I created something with a very good intention, but with a harmful outcome anyway. 
+
+Thanks to anyone who took the time who read this. Happy to clarify anything on here. I could really use some advice.",2,1770187001.0,mentalhealth,2,1.0,False
+1qvh7gm,https://www.reddit.com/r/espresso/comments/1qvh7gm/creative_packaging/,Creative Packaging,"I won’t lie, I judge books by their cover, and I judge coffee by its packaging. I love a good jar or funky ornate box. I’m looking to expand my library of roasters, so I was hoping for some suggestions with the coolest packaging you’ve ever seen!",3,1770186844.0,espresso,3,1.0,False
+1qvh62u,https://www.reddit.com/r/Health2020/comments/1qvh62u/thailands_coffee_giants_to_halve_default_sugar/,Thailand's coffee giants to halve default sugar levels in major health drive,"By making a lower-sugar **recipe** the standard, **health** officials hope to habituate consumers' palates to reduced sweetness without alienating them with a&nbsp;...  
+false  
+[READ MORE](https://www.nationthailand.com/news/policy/40062059)",1,1770186711.0,Health2020,0,1.0,False
+1qvh60h,https://www.reddit.com/r/GoodCoffeeGreatCoffee/comments/1qvh60h/can_cuppy_stay_around_all_the_time/,Can Cuppy stay around all the time?,"Cuppy is way too cute to be temporary.😭
+
+TBH having Cuppy around makes dealing with two or more coffees at once feel so much less stressful.
+
+I’ve heard from other players that Cuppy only shows up during special occasions, which feels like such a shame.
+
+I really wish Cuppy could stick around and help me all the time, I’d even pay to unlock it 🥺",10,1770186704.0,GoodCoffeeGreatCoffee,1,0.92,False
