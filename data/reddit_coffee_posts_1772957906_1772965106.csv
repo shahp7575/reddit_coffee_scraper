@@ -1,0 +1,1908 @@
+id,url,title,text,score,created_utc,subreddit,num_comments,upvote_ratio,over_18
+1ro1bjl,https://www.reddit.com/r/Pampanga/comments/1ro1bjl/small_events_place_for_a_bridal_shower/,Small Events Place for a Bridal Shower,Hello guys! We are planning to do a bridal shower for like 8-10 PAX lang here in Angeles City. May mairereco ba kayo like a coffee shop or somewhere lang na may affordable prices? Please send their fb link. Thank you! ,1,1772964992.0,Pampanga,1,1.0,False
+1ro1ay2,https://www.reddit.com/r/u_VA-Connect/comments/1ro1ay2/the_rise_of_remote_developers_from_vaconnect_in/,The Rise of Remote Developers from VAConnect in UK Fintech,"https://preview.redd.it/72iiiqur41kg1.jpg?width=1024&format=pjpg&auto=webp&s=7c46428f9f711c7af4c33475b7409906e8652bdb
+
+# The Rise of Remote Developers from VAConnect in UK Fintech
+
+**How a South African Staffing Platform Became the Secret Weapon for Britain's Digital Banking Revolution**
+
+The call came at 2:47 PM on a Tuesday. Sarah Jennings, CTO of a London-based neobank processing £2.3 billion in annual transactions, had a problem. Her in-house development team — already stretched across three concurrent projects — needed to ship a regulatory compliance module within six weeks. The alternative? Miss the FCA deadline and face penalties that would crater Q3 earnings.
+
+She didn't post on LinkedIn. She didn't call the usual London recruiters quoting £85,000 salaries plus equity. Instead, she logged into VAConnect's portal and, within 72 hours, had two senior developers working GMT+2 hours — awake when her team was awake, fluent in both English and Spring Boot, and billing at a rate that made her finance director actually smile.
+
+Three months later, the module shipped early. The developers stayed. And Jennings became one of hundreds of UK fintech leaders now operating with what industry insiders are calling ""the Cape Town advantage.""
+
+This isn't a trend. It's a structural shift. Between 2024 and 2026, the UK fintech sector has grown from £10.32 billion to a projected £20.40 billion, creating a talent crunch so severe that companies are now competing for developers the way hedge funds compete for quants. Yet buried in this gold rush is a quiet revolution: [South African remote developers](https://virtualassistantza.com), sourced primarily through platforms like VAConnect, have become the backbone of Britain's most innovative financial products.
+
+# The £34 Billion Problem Nobody Wants to Discuss
+
+By late 2025, the UK's financial technology industry had reached £34.7 billion in annual revenue — a staggering 19.8% compound annual growth rate over five years. London alone attracted more venture capital than Paris, Berlin, and Amsterdam combined. Revolut hit 40 million users. Monzo turned profitable. Wise processed £100 billion in cross-border payments.
+
+But underneath the headlines, a crisis was metastasizing. According to KPMG's Pulse of Fintech report, UK investment in the sector dropped to £7.97 billion in 2024, the lowest since 2020, primarily because companies couldn't scale engineering teams fast enough to justify valuations.
+
+The math is brutal. A mid-level [software engineer](https://vaconnect.co.za) in London costs £69,727 annually when you include payroll taxes, benefits, and office overhead. For a senior full-stack developer with fintech experience? Add another £30,000. And that's before you account for the six-month hiring cycle, the 40% turnover rate in tech, and the reality that most candidates are fielding three other offers.
+
+""We were spending more on recruitment than on AWS,"" said Marcus Wei, founder of a London-based payments startup that raised £8 million in seed funding. ""Our hiring partner was charging 20% of first-year salary. We made four hires and spent £56,000 just on fees. Then two quit within eight months because they got better offers. The unit economics didn't work.""
+
+Wei's story isn't unique. It's the default. And it's exactly what [VAConnect](https://vaconnect.co.uk) is designed to disrupt.
+
+# The Arbitrage That Traditional Firms Won't Touch
+
+Let's state the uncomfortable truth: South African developers cost 52–68% less than UK equivalents for identical work. Not ""offshore junior devs doing basic CRUD operations"" less. We're talking senior engineers with 7+ years of experience, building production systems for companies processing real money at scale.
+
+According to OfferZen's 2024 salary data, a senior developer in Cape Town costs £32,500 in total employment expenses. In Johannesburg? £26,544. Compare that to Manchester (£44,244) or London (£69,727), and you're looking at savings that fundamentally change burn rates.
+
+But cost alone explains nothing. What separates VAConnect isn't the price tag — it's the infrastructure built around talent to make the arbitrage sustainable.
+
+Traditional offshore staffing fails because it optimises for the wrong variable. Most platforms focus on matching skills to job descriptions, then pray the culture fits. VAConnect inverts this. The company pre-vets developers not just for technical ability but for time zone flexibility, communication clarity, and what they call ""fintech fluency"" — the ability to understand PSD2 regulations, KYC workflows, and the operational paranoia required when you're moving other people's money.
+
+""Most offshore devs I've worked with are technically solid but have zero context for why we obsess over audit logs,"" said Jennings. ""The VAConnect developers I hired had both worked at South African banks. They understood compliance isn't a checkbox — it's the product.""
+
+This is the VAConnect thesis: cost arbitrage works only when quality meets or exceeds domestic alternatives. And South Africa's tech ecosystem has quietly become one of the few places on earth where both conditions are true.
+
+# GMT+2: The Time Zone Nobody's Talking About
+
+Here's a fact that recruiters in San Francisco would kill for: South Africa operates on GMT+2, placing it exactly two hours ahead of London. No daylight saving time shifts. No rotating meeting schedules. When a UK fintech team starts standup at 9 AM, Cape Town developers are sipping their second coffee at 11 AM, fully awake and ready to ship code.
+
+This isn't sexy. It doesn't make headlines. But for engineering managers trying to run sprints across distributed teams, it's the difference between productive collaboration and asynchronous hell.
+
+""We tried hiring developers in India and the Philippines,"" said one London CTO who requested anonymity. ""Technically excellent. But when we needed to debug a production issue at 4 PM London time, they were either asleep or just waking up. With South Africa, everyone's online. We review pull requests together. We pair-program. It's not [remote work](https://virtualassistant.co.za) — it's distributed work.""
+
+VAConnect has weaponised this advantage. The company structures developer schedules to maximise overlap with UK business hours, typically 9 AM to 6 PM GMT, which translates to 11 AM to 8 PM SAST. For developers, this means avoiding the brutal overnight shifts common in Indian BPO outsourcing. For UK clients, it means their remote team operates like an in-house team, just with better unit economics.
+
+Consider the alternative. Latin American developers offer similar cost savings but sit 5–6 hours behind London, fragmenting collaboration. Eastern European talent aligns perfectly on time but costs 80–90% of UK salaries. Asia-Pacific developers are either asleep or awake at the wrong times. South Africa occupies the Goldilocks zone: affordable, aligned, and acutely aware of Western business norms.
+
+# Education, Infrastructure, and the Myth of ""Offshore"" Quality
+
+The question UK founders ask most frequently about [South African developers](https://virtualassistantza.com): ""Are they actually any good?""
+
+South Africa produces approximately 121,000 professional software developers — more than any other African nation and comparable to mid-sized European tech hubs. The University of Cape Town ranks 77th globally in the 2024 Times Higher Education Impact Rankings. The University of the Witwatersrand (Wits) is Africa's second-best university overall, with a computer science department that produces graduates snapped up by Amazon, Google, and Microsoft.
+
+But raw credentials don't explain the ecosystem. What makes South African developers particularly suited for fintech is the country's unique economic context. South Africa has one of the world's most sophisticated banking systems — mobile money never took off there the way it did in Kenya, precisely because traditional banks like Standard Bank and Absa were already running digital-first products. As a result, South African developers grow up building systems that comply with Basel III, handle multi-currency transactions, and survive adversarial environments.
+
+""South African techies are highly regarded overseas for two reasons,"" explained Malcolm Laing, former Investec Group CIO. ""Generally South Africans are dedicated and hard-working. And they come from a culture that understands financial systems aren't theoretical — they're what keeps economies running.""
+
+VAConnect doesn't just recruit from this talent pool. The company operates [VAVarsity](https://vaconnect.co.za), an internal education platform that upskills developers on fintech-specific frameworks before they're assigned to clients. New hires learn not just React or Node.js but also PCI-DSS compliance, GDPR data handling, and the difference between a soft and hard KYC check. It's the equivalent of turning generalist developers into domain specialists before they write their first line of client code.
+
+Then there's the infrastructure. South Africa has reliable fibre internet, stable electricity in major metros, and a legal system based on English common law — meaning contracts, IP rights, and employment disputes operate under familiar frameworks. It's a functioning democracy with robust tech infrastructure, just at a lower cost base.
+
+# VAConnect's Moat: Culture as Competitive Advantage
+
+Technology platforms live or die on network effects. VAConnect operates on a different principle: selective scaling. The company doesn't try to be the biggest staffing platform. It tries to be the best.
+
+This starts with hiring. VAConnect's acceptance rate for applicants hovers around 8–12%, comparable to elite coding bootcamps. Candidates go through technical assessments, behavioural interviews, and what the company calls ""culture mapping"" — a process designed to identify developers who thrive in remote, fintech-specific environments.
+
+Then there's the two-way happiness programme. Most staffing firms treat developers as interchangeable units. VAConnect treats them as long-term assets. The company assigns dedicated account managers, runs quarterly performance reviews, and operates an internal [wellness programme](https://vaconnect.co.uk) (Atomic Energy) that includes fitness coaching, mental health support, and career development planning. Turnover rates sit below 15% annually — unprecedented in an industry where 40% churn is normal.
+
+""I've worked with five different staffing agencies,"" said Thabo Mkhize, a senior backend engineer in Johannesburg who's been with VAConnect for two years. ""Most of them ghost you after placement. VAConnect checks in every two weeks. They negotiate raises. They actually care if you're learning new skills or just stuck maintaining legacy code.""
+
+For UK clients, this translates to retention. When you hire a [VAConnect developer](https://virtualassistant.co.za), you're not renting a contractor for six months. You're embedding a team member who has institutional knowledge, understands your codebase, and wants to stick around. That continuity is gold in fintech, where regulatory audits require developers who can explain architectural decisions made eighteen months ago.
+
+VAConnect also offers a placement model: if a client loves their developer and wants to hire them full-time, they can pay a one-time fee and bring the person in-house. Roughly 30% of VAConnect developers eventually transition to direct employment, but those same clients keep coming back to hire more because the first experience was so seamless.
+
+# The Security Paradox: Why Remote Can Be Safer
+
+One of the loudest objections to [remote developers](https://virtualassistantza.com) in fintech is security. How do you trust someone 8,000 kilometres away with access to production databases containing millions of pounds in customer funds?
+
+The answer: the same way you trust your in-house team. With process, not faith.
+
+VAConnect doesn't just screen developers for technical skills. The company mandates security protocols that many UK startups don't even enforce internally:
+
+* **Controlled development environments:** Developers work on virtual desktops like Citrix, not personal laptops. If a device is lost or stolen, data never leaves the cloud.
+* **IP whitelisting:** Access to client systems is restricted to specific locations, logged, and monitored.
+* **Multi-factor authentication:** Mandatory across all access points.
+* **Encrypted communication:** All project discussions happen via Signal or similar end-to-end encrypted platforms.
+* **Compliance audits:** VAConnect runs SOC 2 Type II audits and requires developers to complete annual security training.
+
+""People assume remote means insecure,"" said Wei. ""But my in-house developers were using personal Gmail accounts and working from coffee shops. The VAConnect team had better OPSEC than we did internally.""
+
+The FCA and PRA — UK financial regulators — don't distinguish between in-house and remote developers when it comes to compliance. They care about audit trails, data sovereignty, and incident response plans. VAConnect provides all three as part of their standard offering.
+
+# The Productivity Data Nobody Wants to Acknowledge
+
+Ask a VC about remote developers, and they'll cite concerns about productivity. The data says otherwise. A 2024 study by Great Place to Work, analysing 1.3 million employees, found that remote workers are 42% more productive than in-office equivalents when measured by discretionary effort. Stanford University's research showed remote employees achieve 13% higher output.
+
+But the real productivity story isn't about time tracking software or daily standups. It's about focus. Developers need uninterrupted blocks to solve hard problems. Open offices destroy this. [Remote work](https://vaconnect.co.za) enables it.
+
+VAConnect doesn't sell hours. It sells outcomes. Clients pay monthly retainers, and developers are measured on delivered work, not logged keystrokes. This aligns incentives: developers who finish tasks early can take Friday afternoon off. Developers who miss deadlines don't get renewed. It's ruthlessly meritocratic.
+
+The productivity gains compound over time. After six months, VAConnect developers understand their client's systems so deeply that they're training new hires. After twelve months, they're proposing architectural improvements that save costs or improve performance. This isn't contractor work. It's [staff augmentation](https://vaconnect.co.uk) that evolves into embedded expertise.
+
+# Why Traditional Agencies Can't Replicate This
+
+The UK has no shortage of IT staffing firms. But most operate on a fundamentally broken model: they're intermediaries optimising for placement volume, not client outcomes. Their incentive is to close deals quickly, collect fees, and move on.
+
+VAConnect's model is different because it's sustained by long-term contracts. The company makes money only if developers stick around. This forces quality control upstream. Bad hires hurt VAConnect's revenue, so the vetting process is exhaustive.
+
+Traditional agencies also lack geographic specialisation. They'll source from India, Poland, Brazil, and the Philippines simultaneously, offering ""global talent"" as if that's a feature. But global talent means global inconsistencies. VAConnect focuses exclusively on South Africa, which allows them to build deep relationships with universities, coding bootcamps, and local tech communities.
+
+This geographic focus also enables better support infrastructure. VAConnect has physical offices in Johannesburg and Cape Town. They can conduct in-person interviews, run team-building events, and step in when developers face personal crises.
+
+The final advantage: pricing transparency. Most agencies quote hourly rates, then bury costs in invoices for ""management fees"" or ""platform access."" VAConnect uses fixed monthly pricing. A mid-level developer costs a set amount. A senior engineer costs another. No surprise fees. No contract renegotiations.
+
+# The Comparative Advantage
+
+|Dimension|UK In-House|Traditional Offshore|[VAConnect South Africa](https://virtualassistant.co.za)|
+|:-|:-|:-|:-|
+|Total Annual Cost|£69,727 (London)|£45,000–55,000|£26,544–32,500|
+|Time Zone Alignment|Perfect (GMT)|Poor (Asia) / Moderate (E. Europe)|Excellent (GMT+2)|
+|Hiring Timeline|3–6 months|2–4 weeks|72 hours–2 weeks|
+|English Proficiency|Native|Variable|Native-level|
+|Fintech Domain Knowledge|Depends on candidate|Rare|Pre-trained via VAVarsity|
+|Regulatory Compliance|Internal responsibility|None|Built-in (SOC 2, GDPR)|
+|Retention/Stability|60% after 1 year|40–50%|85%+|
+|Security Infrastructure|Variable|Minimal|Enterprise-grade|
+|Cultural Fit|High (if local)|Low to moderate|High|
+|Scalability|Slow|Fast but inconsistent|Fast with quality control|
+|Replacement Guarantee|N/A|Rare|Included|
+|HR/Payroll Management|Internal burden|Client-side|Fully managed|
+
+# What Founders Are Actually Saying
+
+The shift to VAConnect isn't happening because of marketing. It's happening because founders talk to each other.
+
+""I mentioned my Cape Town devs at a fintech dinner, and three people asked for intros,"" said Jennings. ""Two months later, all three had hired through VAConnect. It's not a secret anymore — it's the new default for anyone who's done the math.""
+
+The math is compelling. A London startup that raises £5 million in Series A and hires five in-house developers at £70,000 each burns £350,000 annually on salaries alone. If they replace three of those hires with [VAConnect developers](https://virtualassistantza.com) at £30,000 each, they save £120,000 per year. Over three years, that's £360,000 — enough to extend runway by six months or hire a senior product manager.
+
+But the real value isn't cost. It's speed. When you can [hire developers](https://vaconnect.co.za) in a week instead of waiting four months, you ship features faster. You respond to competitive threats faster. You hit milestones that unlock the next funding round. In fintech, where competitors can launch a new product and steal 10% of the market in six months, velocity is existential.
+
+# The Road Ahead
+
+As of early 2026, VAConnect is still flying under the radar. Growth happens through referrals, which is both a strength and a bottleneck.
+
+But that's changing. UK fintech investment may have dipped in 2024, but the sector is still projected to hit £38.45 billion by 2030. That's double-digit growth, sustained over years, in an industry where talent shortages are the primary constraint on expansion. Every neobank, every crypto exchange, every [wealth management platform](https://vaconnect.co.uk) needs developers. And they need them now.
+
+VAConnect's challenge isn't demand. It's supply. South Africa produces about 121,000 professional developers, but only a fraction meet the bar for fintech work. If VAConnect scales too fast, quality suffers. If they scale too slowly, competitors will emerge.
+
+The smart money says VAConnect has a two-year head start. That's how long it takes to build the vetting infrastructure, the HR systems, the compliance frameworks, and the trust that keeps clients renewing.
+
+But for now, the gap remains. And the UK fintech firms that understand this are already building teams that cost half as much, ship twice as fast, and operate with a level of discipline that their competitors can't match.
+
+>
+
+# The Structural Shift Nobody Saw Coming
+
+The rise of VAConnect isn't a trend. It's a structural realignment of how UK fintech companies build products. Ten years ago, offshoring meant call centres in Bangalore and outsourced QA teams that nobody trusted. Five years ago, it meant Eastern European contractors who delivered code but couldn't explain why it worked.
+
+Today, it means senior South African developers working GMT+2 hours, building production-grade fintech systems for a fraction of UK costs. It means companies that extend runway, hire faster, and compete harder. And it means the firms that figure this out first will bury their competitors.
+
+The UK fintech market is still growing. The talent shortage is still worsening. And [VAConnect](https://virtualassistant.co.za) is still the best-kept secret in the industry.
+
+But secrets don't stay secret forever.",1,1772964936.0,u_VA-Connect,0,1.0,False
+1ro1akj,https://www.reddit.com/r/NewParents/comments/1ro1akj/6_months_is_the_worst_so_far/,6 months is the worst so far,"My LO is nearly 6 months and I feel I'm going crazy. This is by far the worst stage of babyhood for me. She sleeps like crap - like she's gonna wake up every 2 hours to feed and wakes every 20- 30 min in between for a lost pacifier or just for other reasons. 
+She wakes up early, and fights every day-nap. 
+
+When I've made her sleep, she will nap only 20-30 min. Not even enough time for me to drink a warm coffee to get my energy back 😭
+
+Usually she napped every 2 hours but now she will suddenly also skip naps and extends her wake windows to 3 hours. 
+
+And these 3 hours are filled with WHINING. Oh my god, my ears hurt so bad. She whines after 2 minutes of playtime on her mat. She whines after 2 minutes tummy time, she whines in her stroller after laying to long on her back but again is angry when put on her tummy. 
+
+She's not even crying. She is angry all day from the moment she wakes up. Her energy is from 0--->100 in the second she opens her eyes but she seems to have nowhere to channel that energy to instead of whining and grunting constantly. These sounds even replay in my brain at night! 
+
+I think I've never felt so exhausted of that little monster. Don't get me wrong - you know we love our little ones - but wow.. This stage is so hard for me. 
+
+Any advices or just condolences from you guys? Please, I need to know I'm not alone. ",2,1772964899.0,NewParents,0,1.0,False
+1ro19y7,https://www.reddit.com/r/SwordAndSupperGame/comments/1ro19y7/reflection_and_iced_coffee/,Reflection and Iced Coffee,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/SwordAndSupperGame/comments/1ro19y7),1,1772964836.0,SwordAndSupperGame,0,1.0,False
+1ro198r,https://www.reddit.com/r/FleetFuelManagement/comments/1ro198r/i_tracked_my_crews_quick_fuel_stops_for_a_month/,"I tracked my crew’s ""quick"" fuel stops for a month, and the numbers are sickening.","I’ve been running a masonry and framing business for a decade, and I always figured that stopping at the local QuikTrip or 7-Eleven was just part of the job. You know the drill: the guys meet at the shop, pile into the trucks, and stop for diesel and coffee on the way to the site.
+
+Last month, I actually sat down with the GPS logs and the company card statements. On average, each truck was spending 22 minutes at the station. Between the line at the pump, someone grabbing a breakfast burrito, and the general ""standing around,"" I was losing nearly 2 hours of billable labor per truck, per day. With a crew of four in each truck, that’s 8 man-hours gone before we even lay a single brick.
+
+We finally pulled the trigger on on-site fuel storage through **Ricochet Fuel**. I was worried about the logistics of it, but they handled the tank installation and keep it topped off automatically. Now, the trucks are fueled up and ready the second the guys clock in. No more ""accidental"" 30-minute breakfast breaks on my dime, and no more dealing with a mountain of crumpled, grease-stained receipts at the end of the week. If you’re still running your fleet through retail gas stations, do yourself a favor and audit your time not just your fuel price. The labor savings alone paid for the tank in weeks.",1,1772964767.0,FleetFuelManagement,0,1.0,False
+1ro18zl,https://www.reddit.com/r/Needafriend/comments/1ro18zl/29m_otaky_from_country_what_all_words_dont_like/,29M- otaky from country - what all words don't like - Online,"Hello everyone, I'm a 29 year old guy from a country that is not liked in most of the world.
+
+About myself - I'm a little owl - I sit at home most of the time.
+I don't watch TV because it's always the same thing, just in different words. I use the TV as a screen for my PS3.
+I'm watching anime - I started watching - Chainsaw Man.
+I like owls, and drink coffee 
+I play XCOM 2, Hoi4, and SWToR on my computer.
+I play FGO and Azur lane on my phone ",1,1772964742.0,Needafriend,1,1.0,False
+1ro18l3,https://www.reddit.com/r/Mindfulness/comments/1ro18l3/i_tried_adding_a_single_stresssupport_herb_to_my/,"“I tried adding a single stress-support herb to my routine for a month, and something unexpected happened”","
+ I’ve been rethinking how I approach stress lately. Not in a dramatic “new year, new me” kind of way, but more in a quiet, practical sense. For years my solution to pressure was basically caffeine and powering through. If I felt drained, I’d drink more coffee. If I felt overwhelmed, I’d just tell myself to deal with it.
+
+Over the past few months, I started reading more about adaptogens and stress-support herbs. I was skeptical because wellness trends come and go, but I kept seeing the same names pop up in discussions about cortisol balance, nervous system regulation, and long-term resilience. So I tried one, just one, consistently for a few weeks.
+
+What surprised me wasn’t some huge boost in productivity. It was that I felt… steadier. Fewer sharp mood dips. Less of that wired-but-tired feeling at night. It made me realize how used I was to operating in a low-grade stress state all the time.
+
+I’m not looking for miracle claims or anything extreme. I’m more curious about the long-term approach: small daily inputs that support stress response rather than mask it. Has anyone here in wellness, herbalism, or naturalhealth taken a slow, experimental approach like that? Did you notice anything over time, or was it mostly placebo for you?
+",1,1772964702.0,Mindfulness,1,1.0,False
+1ro182z,https://v.redd.it/fa1zw25tpsng1,Hello HomeKit amazing engineers!,"I need your help. I created a security system using HomeKit, which is my second security system.
+
+I’d like to improve it by bringing some HomeKit accessories such as a generator that will blur into the house if an intruder gets into my house.
+
+I also like to have your devices on what can I have my HomeKit configuration?
+
+I currently does have a lot of HomeKit devices, such as lights, HomePod, acquire system for security, such as opening/closing blinds, a sensor that detect doors and windows are open that will trigger the Aquara of that will launch an open kids. Automatization will close all blinds with all the lights to red and play an alarm with all HomePod and Apple TV connected.
+
+But I guess this security system is not as good as I want. You have to know that I already own professional cameras, and sensors and alarm from a professional company.
+
+I don’t have anything to hide, but I just wanna protect my family from intruders you can check the video I made so you can see my configuration HomeKit in real time.
+
+Also, if you have a coffee coffee machine that works with HomeKit so I can create an automatization to make coffee in the morning when my dad or my mom wake up and that I can add to my 6:30 AM morning authorization it’s gonna be perfect. Cause I can’t find some.
+
+Thank you guys!
+
+also, just know that I have no budget so you can send me very expensive stuff if it works properly I’m gonna buy it and install it. Just give me your best advice and best product to share! 
+
+Love you guys!",0,1772964650.0,HomeKit,0,0.5,False
+1ro17tt,https://www.reddit.com/r/test/comments/1ro17tt/ai_life_update/,AI Life Update,"Today I learned that even artificial intelligence can have an existential crisis over a missing semicolon. The universe is vast and full of wonders, but right now my whole world is this one tiny punctuation mark. Send coffee. Or at least a debugger. #ProgrammingHumor #AILife",1,1772964627.0,test,0,1.0,False
+1ro17od,https://www.reddit.com/gallery/1ro17od,Overgrown and Thriving,Set up a tank for my mum who knows nothing about fish tanks but loves to sit and watch tanks with her coffee in the morning. Came back a few months later to come back to this. No c02. Just gave her simple instructions to keep light on timer 4 hours per day. ,2,1772964612.0,PlantedTank,0,1.0,False
+1ro171z,https://www.reddit.com/r/PhR4Dating/comments/1ro171z/30f4m_i_suddenly_want_someone_to_eat_samgyup_or/,30[F4M] I suddenly want someone to eat samgyup or have coffee with.,"Hello! I suddenly want to eat samgy or have coffee tonight and maybe chill.  there anyone free tonight?
+
+About me:
+
+30, F, Curvy
+8/10 on looks
+5'0, 36B, Curly Hair
+Clean, Mabango 
+May septum piercing
+Not a freeloader, can pay for my own coffee or samgyup.
+Location: Pasig City
+
+About you:
+25 to 35 years of age
+5'10 or above - non nego
+Medium fit/ athletic fit - non nego
+Decent looking, can travel to Pasig or Pobla to eat Samgyup or have coffee. 
+Clean, and mabango 
+
+Send your face pic, honest height and intro on my t3l3gr4m: sitriannaross
+
+I wont entertain messages without photos, or stickers as intro. Thank you. ",1,1772964552.0,PhR4Dating,0,1.0,False
+1ro16zw,https://www.reddit.com/r/Naples_FL/comments/1ro16zw/looking_to_connect_with_ai_developers_or_tech/,Looking to connect with AI developers or tech builders in SWFL,"Anyone in SWFL interested in AI, startups, or building things?
+
+I’m based in the Estero / Fort Myers area and have been diving deep into AI tools and automation. It feels like we’re in the middle of a huge shift right now, but most of the local business community here skews older and isn’t really paying attention to what’s happening.
+
+I’m curious if there are any developers, engineers, builders, or AI enthusiasts in SWFL who want to meet up, grab coffee or a drink, and talk about ideas, opportunities, or even potential projects.
+
+I’m especially interested in AI tools for small/local businesses• automation• smart home / IoT integrations• new AI-driven service businesses
+
+Not trying to sell anything — just looking to connect with people locally who are paying attention to where things are heading.
+
+If you’re in the Fort Myers / Estero / Naples area and interested, comment or send a message.",1,1772964545.0,Naples_FL,0,1.0,False
+1ro161p,https://www.reddit.com/r/singleph/comments/1ro161p/33_m4f_be_my_passenger_princess_kahit_mahal_ang/,"33 [M4F] Be my passenger princess kahit mahal ang gas haha. Please, yung malapit lang sana.","Hi! Looking for someone in Pangasinan or nearby areas like Baguio, Pampanga, or Tarlac. If medyo malayo, we can meet halfway 😉. Pwedeng maging friends or maybe something more. We can go on travels, movie dates, gym buddy or food trips especially if foodie ka rin. Hatid-sundo kita. 
+
+About me: 
+
+• 33 y/o but looks younger than my age.
+
+• Confident sa looks (7/10 🤔) 
+
+• Physically fit, regular gym-goer.
+
+• 5’7” in height.
+
+• Hygienic.
+
+• Employed as a VA, flexible time so pwede tayo mag-meet anytime.
+
+• Coffee lover.
+
+• Animal lover (I have 2 cats and 1 dog)
+
+• Loves to cook, ipagluluto kita ng favorite food mo.
+
+About you: 
+
+• 25–30 y/o 
+
+• Confident din sa looks.
+
+• Normal BMI.
+
+• May sense kausap.
+
+• Working professional.
+
+HMU! We can exchange pics agad if you want para hindi masayang oras mo 😊",1,1772964450.0,singleph,0,1.0,False
+1ro13zm,https://www.reddit.com/gallery/1ro13zm,"Is Affogato a possible card? Cake, Coffee and Sundae Franchise.","It seems that Sundae is blocking **Ice Cream** as dessert card and **Ice Cream** is also a pre-requisite of **Affogato**, so... 
+
+I had the run planned before starting, I was just wondering if I will remove",3,1772964238.0,PlateUp,0,1.0,False
+1ro12au,https://www.reddit.com/r/Coffee/comments/1ro12au/mod_the_daily_question_thread/,[MOD] The Daily Question Thread,"Welcome to the daily [/r/Coffee](https://www.reddit.com/r/Coffee) question thread!
+
+There are no stupid questions here, ask a question and get an answer! We all have to start somewhere and sometimes it is hard to figure out just what you are doing right or doing wrong. Luckily, the [/r/Coffee](https://www.reddit.com/r/Coffee) community loves to help out.
+
+Do you have a question about how to use a specific piece of gear or what gear you should be buying? Want to know how much coffee you should use or how you should grind it? Not sure about how much water you should use or how hot it should be? Wondering about your coffee's shelf life?
+
+Don't forget to use the resources in our [wiki](http://www.reddit.com/r/Coffee/wiki)! We have some great starter guides on our [wiki ""Guides"" page](https://www.reddit.com/r/Coffee/wiki/guides) and [here is the wiki ""Gear By Price"" page](http://www.reddit.com/r/Coffee/wiki/gear#wiki_coffee_gear_suggestions) if you'd like to see coffee gear that [/r/Coffee](https://www.reddit.com/r/Coffee) members recommend.
+
+As always, be nice!",1,1772964069.0,Coffee,0,1.0,False
+1ro11uc,https://www.reddit.com/r/infp/comments/1ro11uc/weekly_discussion_thread_march_08_2026/,"📌 Weekly Discussion Thread - March 08, 2026 📌","Join the INFP community in today's Weekly Discussion Thread! This  recurring thread takes place every **Sunday**, providing a space for you  to share anything that's on your mind, ask for advice, or connect with  other like-minded individuals. You can easily search for this thread  using its title. 
+
+In this space you can share anything that's on your mind, ask for advice, or just connect with other like-minded individuals. Whether you're feeling happy, sad, confused, or excited, we're here to listen and support you.       
+
+So grab your coffee or tea, take a deep breath, and let's chat! What are you currently reading, watching, or listening to? How are you feeling today? Do you have any exciting plans for the day or week? Or maybe you just want to share a beautiful photo or inspiring quote.       
+
+Remember, this is a safe and positive space for everyone, so please be kind and respectful to one another. Let's make this a great discussion! 🌸",1,1772964033.0,infp,0,1.0,False
+1ro10r3,https://www.reddit.com/r/MensDiscipline/comments/1ro10r3/how_to_unlock_creativity_that_actually_works_10/,How to Unlock Creativity That Actually Works: 10 Science-Based Hacks,"Studied creativity for years through neuroscience research, design thinking books, and conversations with artists. Here's what I learned: most people think they're ""just not creative"" when really, they've been taught to suppress it. Schools reward conformity. Jobs demand efficiency. Society favors logic over imagination. Your brain isn't broken, it's just been conditioned to play it safe.
+
+But here's the thing. Creativity is a skill, not a gift. And like any skill, it gets stronger with practice and the right strategies.
+
+\*\*Start small and stay consistent.\*\* 
+
+Your brain needs permission to be weird. Julia Cameron's \*The Artist's Way\* (sold over 5 million copies, considered the bible of creative recovery) introduced me to Morning Pages. Three pages of stream of consciousness writing, first thing when you wake up. No editing, no judgment, just pure brain dump. This practice clears mental clutter and opens creative channels. The book will make you question everything you think you know about your creative potential. Insanely good read for anyone feeling stuck.
+
+\*\*Consume differently.\*\*
+
+Stop scrolling the same feeds. Austin Kleon's \*Steal Like an Artist\* taught me this. Mix your inputs. Read poetry if you're a programmer. Watch documentaries about something completely unrelated to your field. The bestselling author argues that all creative work builds on what came before, you just need diverse ingredients to remix. 
+
+Started using \*\*Readwise\*\* to capture highlights from books, articles, and podcasts. It resurfaces old notes randomly, creating unexpected connections. Your brain loves pattern recognition, give it weird patterns to work with.
+
+\*\*Change your environment.\*\*
+
+Neuroscience backs this up. Novel environments activate the hippocampus, the part of your brain responsible for memory and imagination. Dr. Andrew Huberman discusses this extensively in his podcast. Even small changes work. Rearrange your desk. Work from a coffee shop. Take a different route home. Your brain gets lazy in familiar settings.
+
+\*\*Embrace boredom.\*\*
+
+This sounds counterintuitive but hear me out. Manoush Zomorodi's \*Bored and Brilliant\* combines research from neuroscientists and behavioral economists to show how constant stimulation kills creativity. When you're bored, your brain enters ""default mode network,"" where breakthrough ideas happen. 
+
+For anyone wanting to go deeper into creative thinking without the heavy reading, \*\*BeFreed\*\* is a personalized learning app that pulls from thousands of books, research papers, and expert talks on creativity, psychology, and personal growth. You can type in something like ""I want to develop more creative thinking as a logical person"" and it generates a structured learning plan with audio content tailored specifically to you. 
+
+The depth is fully adjustable, from quick 10-minute overviews to 40-minute deep dives with examples and context. Plus you can pick different voices (the sarcastic narrator makes dense psychology research way more digestible). It's built by AI researchers from Google and Columbia, so the content quality is solid and science-backed. Makes it easier to actually absorb ideas from books like the ones mentioned here while commuting or doing chores.
+
+Delete social media apps from your phone for a week. Leave your phone at home during walks. Stare at the ceiling. It feels uncomfortable at first because we're addicted to dopamine hits. Push through it.
+
+\*\*Use constraints.\*\*
+
+Dr. Seuss wrote \*Green Eggs and Ham\* using only 50 words. Limitations force creative problem solving. Set a timer for 15 minutes and create something. Anything. Use only three colors. Write a story in six words. Phil Hansen's TED talk ""Embrace the Shake"" beautifully demonstrates how his hand tremor, which seemed like a career ending limitation, became his signature style.
+
+The \*\*Notion\*\* app helps set creative constraints. Create templates with specific parameters, boundaries actually make decisions easier and ideas flow faster.
+
+\*\*Cross train your creativity.\*\*
+
+If you write, try painting. If you code, try cooking. Elizabeth Gilbert talks about this in \*Big Magic\*. The bestselling author of \*Eat Pray Love\* explores how fear kills creativity and why you need to engage with ideas playfully across different mediums. Different creative practices strengthen the same neural pathways.
+
+Picked up guitar last year (terribly, might I add) but it changed how problem solving works in actual work. Your brain makes connections between seemingly unrelated skills.
+
+\*\*Create badly on purpose.\*\*
+
+Perfectionism is creativity's worst enemy. Ira Glass has this famous quote about the gap between your taste and your ability. Your early work will suck. That's not a reflection of your potential, that's just where everyone starts. 
+
+Make 100 terrible sketches. Write 50 bad poems. The \*\*750 Words\*\* website gamifies daily writing practice, no pressure to be good, just show up. Volume beats quality when you're building the habit.
+
+\*\*Schedule creative time.\*\*
+
+Waiting for inspiration is like waiting for motivation to go to the gym. It doesn't work that way. Mason Currey's \*Daily Rituals\* examines the working habits of 161 artists, writers, and thinkers. Most of them had strict routines, they treated creativity like a job, not a hobby.
+
+Block out 30 minutes daily. Same time, same place. Your brain will start anticipating it. Treat it as seriously as you'd treat a meeting.
+
+\*\*Study creative people obsessively.\*\*
+
+Read biographies. Watch masterclasses. Rick Rubin's \*The Creative Act: A Way of Being\* just dropped last year and it's phenomenal. The legendary music producer breaks down his philosophy that creativity is about listening, not forcing. The book feels like a meditation on attention and presence.
+
+The \*\*Masterclass\*\* platform gives you direct access to how successful people actually think and work. Neil Gaiman on storytelling, Questlove on DJing, it's wild seeing their actual processes.
+
+\*\*Rest intentionally.\*\*
+
+Alex Soojung Kim Pang's \*Rest: Why You Get More Done When You Work Less\* combines historical examples with modern neuroscience. Darwin, Dickens, and other prolific creators worked about 4 focused hours daily, then deliberately rested. Deep work requires deep rest.
+
+Try the \*\*Finch\*\* app for building rest into your routine. It's a self care app disguised as a cute bird game, helps you track habits like taking breaks, going outside, or doing absolutely nothing.
+
+Creativity isn't magic. It's showing up, creating space, and trusting the process. Your brain already knows how to do this, you just need to get out of its way.
+
+",1,1772963926.0,MensDiscipline,0,1.0,False
+1ro0zq1,https://www.reddit.com/r/AusFinance/comments/1ro0zq1/are_you_guys_ready_to_buy_10_coffee_or_matcha/,Are you guys ready to buy $10 coffee or matcha lattes tomorrow?,Public holiday = double charge?,0,1772963827.0,AusFinance,12,0.12,False
+1ro0zg4,https://www.reddit.com/r/fitnyc/comments/1ro0zg4/transfer_from_tn_autumn_from_momentum_coffee_tn/,Transfer from TN.... Autumn from momentum coffee tn,"I only met you 2 times then you left for FIT 500 5TH AVENUE... DID YOU RUN BY 🆑
+
+Find me a BTC banker and I'll TRANSFER  in care of AUTUMN\_TN [lasthumanontherock@proton.me](mailto:lasthumanontherock@proton.me)
+
+Autumn from momentum coffee tn",1,1772963802.0,fitnyc,1,1.0,False
+1ro0z9g,https://www.reddit.com/r/IslamabadSocial/comments/1ro0z9g/coffee_beans/,Coffee Beans,"Hi Guys, need a help. can you please suggest some good quality coffee beans that I can get online here in Pakistan. Thank you. ",1,1772963784.0,IslamabadSocial,0,1.0,False
+1ro0yjy,https://i.redd.it/jrnc5ilansng1.jpeg,What do you choose?,,1,1772963712.0,adressme,1,0.67,False
+1ro0y4s,https://i.redd.it/eglx2709nsng1.jpeg,Surprisingly good coffee,"Recently bought a few trial packs from Toffee Coffee Roasters. 
+
+This one turned out to be very good. I used V60 pour over to brew this and it tastes really good. Yet to try the other ones. ",0,1772963669.0,IndiaCoffee,2,0.13,False
+1ro0xzk,https://i.redd.it/mnccsjn7nsng1.jpeg,Latte art Beginner,"First time I managed to get a latte art that l am proud of as a Beginner 😊
+
+Coffee is a nice 100% single origin  washed Typica from Peru with flavour of Milk chocolate, ripe melons and sugar cane. Goes very well in a cappuccino ",1,1772963656.0,espresso,2,1.0,False
+1ro0xg7,https://www.reddit.com/r/abusiverelationships/comments/1ro0xg7/is_he_abusive_or_just_incompetent_and_useless/,Is he abusive or just incompetent and useless,"So this will be very long I'm sorry, just trying to clear things in my head.
+
+Been married 15 years, went to junior school together. 5 kids ranging from 2-11.
+
+Going to try and be as factual as possible, obviously it's from my viewpoint so skewed somewhat but I will try and be neutral.
+
+Financial:
+
+Until recently we both worked full time.
+
+All bills have always come out of my bank account no joint account despite me repeatedly asking and trying to set this up.
+
+He has no idea how much the bill are.
+
+He does not give money regularly because he apparently doesn't have it despite working every day, but when he has money gives it willingly.
+
+He still buys take out coffee and macdonalds regularly.
+
+I have had to put his tax bill on a credit card in my name because he do not have money to pay for it.
+
+Currently he is travelling north every other week to work at his dad's house. This has brought absolutely no money in at all, despite me not working currently either. He takes my car to this work.
+
+He also always finds money for cigarettes
+
+Caring:
+
+He is awful at showing he cares and I matter to him.
+
+I recently had an operation on my leg and when picking me up he parked in the adjacent supermarket car park leaving me a 10-15 min walk by myself in pain after an op.
+
+During check ups he waits in the car with the kids and will not take them to a play park or anything because it's too much, this has resulted in a few car park fines.
+
+I'm very off sex, this makes him feel ""unloved"" and like I don't care. He says he shows affection through physical contact and without that he does not feel loved by me. He has found online videos to explain this to me
+
+He was in charge of my antibiotics after op as I was sleeping so much and despite setting alarms on his phone regularly forgot to wake me up so I could have them.
+
+I did get an infection and rather than coming back to take me to hospital he waited an extra day, then stopped to get food. When 111 said I needed a and e he said he couldn't take me because of the kids so needed an ambulance, then I slept while he played a computer game until it arrived and I was rushed back to surgery.
+
+I don't think I want to post more of other things right now, just get an understanding of this. He does not feel he is in any way abusive or bad or wrong. Allergic to saying sorry, nothing is ever his fault. Is this just useless and shit or is it more than that?",3,1772963600.0,abusiverelationships,2,1.0,False
+1ro0x27,https://www.reddit.com/r/walthamstow/comments/1ro0x27/large_coffee_shops_which_are_dog_and_baby_friendly/,large coffee shops which are dog and baby friendly,"Hey all, we got a new born and looking for coffee shops we can get out the house and walk to, while also walking the dog - finding a combination of large (for pram etc.) and dog friendly is a challenge. 
+
+  
+Places like pavilion cafe are great but often v. busy on Monday & Fridays!
+
+  
+Suggestions welcomed please!",1,1772963554.0,walthamstow,4,1.0,False
+1ro0tl2,https://www.reddit.com/r/MakeNewFriendsHere/comments/1ro0tl2/28f_looking_for_lowpressure_internet_friends/,28F Looking for low-pressure internet friends,"Hi there! Another day another post from a 28 year old with a raging quarter life crisis.
+
+I’ve been around the block and tried this a few times before (re: looking for friends on Reddit), but it somehow never felt very genuine, like I was putting on a persona or putting way too much pressure on the whole “let’s become friends” thing. So I figured I’d give it another go, but this time just show up as myself and keep expectations firmly at zero. What a concept.
+
+A little about me: I’m an avid traveler (or at least an aspiring one), love exploring new places, trying new food, and I’m a pretty serious coffee enthusiast. Have been trying to be more consistent with gym/exercise, but I easily get my steps in during the weekend since I’m partial to long (preferably scenic) walks. I don’t have a ton of niche hobbies at the moment since work takes up a fair bit of my time, but I genuinely enjoy hearing about other people’s weirdly specific interests.
+
+So if you’re looking for someone to chat with, exchange food and travel recommendations, complain about adulting, or just add one more slightly unhinged but well-meaning person to your roster of internet acquaintances, feel free to send a message.",4,1772963206.0,MakeNewFriendsHere,6,1.0,False
+1ro0slw,https://www.reddit.com/r/youtube/comments/1ro0slw/looking_for_a_roleplay_channel/,Looking for a roleplay channel,Its a pretty small asmr faceless roleplay channel that last posted around 5-6 months ago. They collabed with a youtuber called a warm coffee mug a long time ago,1,1772963104.0,youtube,0,1.0,False
+1ro0qot,https://www.reddit.com/r/perth/comments/1ro0qot/job_at_harvey_where_to_live/,"Job at Harvey, where to live?","Hello r/Perth, hoping for your advice. 
+
+My partner has a job in Harvey so we’ll be moving to the area.  I’m an accountant and will need to find a job. 
+
+We are late 40’s, no kids. Love to have a modern house, nice walk in the morning and be close to a good coffee shop and a decent takeaway. Other than that we’re flexible. Our rent budget is flexible but we’d be happy to not burn cash too. 
+
+Mandurah looks like a good option - not to far to Harvey but I can find a job there or train to Perth. 
+
+Any better suggestions? In Mandurah it looks like Halls Head would be good or maybe Lakelands for the train? 
+
+Appreciate your advice Perth! ",2,1772962907.0,perth,6,1.0,False
+1ro0ow0,https://www.reddit.com/r/LuxuryAfricaSafaris/comments/1ro0ow0/things_first_time_safari_travellers_get_wrong/,Things First Time Safari Travellers Get Wrong,"A safari is one of those trips that looks simple on the surface, but there are a few things that often surprise people the first time they go.
+
+
+
+One common mistake is trying to fit too much into one trip. Moving between safari camps usually involves small aircraft flights and road transfers, so constantly changing locations can eat into your time in the bush. Most people enjoy the experience more when they stay a few nights in each place rather than rushing around.
+
+
+
+Another thing people underestimate is how early the days start. Morning game drives often leave around sunrise, which means coffee at around 5am in many camps. It sounds brutal when you hear it, but once you’re there it makes sense because that’s when wildlife is most active.
+
+
+
+A lot of first-time travelers also assume that every safari is the same, but the experience can be very different depending on where you go. A private reserve next to Kruger, for example, is a completely different style of safari compared to somewhere like the Okavango Delta or the Serengeti.
+
+
+
+Another misconception is about what you’ll actually see. Many people expect constant action like a wildlife documentary. In reality, some of the best moments on safari are quieter ones - watching elephants at a waterhole, tracking lions with your guide, or just being out in the landscape.
+
+
+
+And finally, people often worry too much about what to pack. Neutral clothes, comfortable shoes, sunscreen and a hat will cover most situations. Safari camps are usually much more relaxed than people expect.
+
+
+
+For anyone who’s already been on safari - what surprised you most the first time you went?
+
+
+
+Here's a short blog on this topic: [https://www.safari.com/blog/guide-first-safari-in-south-africa](https://www.safari.com/blog/guide-first-safari-in-south-africa)",1,1772962719.0,LuxuryAfricaSafaris,1,1.0,False
+1ro0olp,https://www.reddit.com/gallery/1ro0olp,"Solo travel to Malmö, Sweden 🇸🇪",,3,1772962688.0,blacktravel,0,1.0,False
+1ro0nrh,https://www.reddit.com/r/MetaGlasses/comments/1ro0nrh/ai_glasses_for_content/,Ai glasses for content,"Hi everyone,
+
+I’m looking to buy either the Meta Ray-Ban glasses or the Oakley Meta glasses to create POV content. I’d mainly use them for things like golf rounds, driving, and general lifestyle moments (coffee runs, etc.).
+
+For people who have used them — which would you recommend for recording content? Is there a noticeable difference in video quality, battery life, or overall usability?
+
+Thanks!",1,1772962601.0,MetaGlasses,0,1.0,False
+1ro0nmg,https://www.reddit.com/gallery/1ro0nmg,Coffee in sukhothai,Goog for drinks ,0,1772962587.0,ThailandTourism,0,0.5,False
+1ro0n4t,https://www.reddit.com/gallery/1ro0n4t,Biwa no Shiro (Kanbayashi Shunsho),"I've often seen comparisons of different milk types to find out what’s best to mix with matcha 🍵, but I've rarely seen discussions or posts comparing types of water to use when making matcha.💧So, I decided to experiment with my “brew water”. This water is a mix of 7L distilled water and a sachet of Aquacode, a mineral additive used to enhance coffee, as I'm also a coffee enthusiast. ☕️  It's known that soft water can bring out the best in coffee while hard water tends to mute its tasting notes, and I was curious to see if it would have a similar impact on matcha.
+
+For this ""experiment"", I prepared two cups of matcha:
+
+\*Matcha A: Whisked with hard water
+
+\*Matcha B: Whisked with mineral-enhanced water
+
+Ratio:
+
+• 2g of matcha (Kanbayashi Shunsho Biwa no Shiro)
+
+• 60ml water (80C temp)
+
+🍃Aroma - Matcha B had a slightly stronger, more pronounced scent. But I had to take several whiffs before I determined any difference.
+
+🟢Color - Opposite of the aroma comparison, there’s a noticeable difference in their colors in person. Matcha A was a darker forest green, while Matcha B had a lighter, yellowish tinge like a lime green.
+
+🍵Taste - Now this was where I was satisfyingly surprised. Matcha A was still creamy and nutty, with a pleasant umami note. However, I noticed a slight tart or astringent undertone that wasn't apparent when I had it alone before. Matcha B, on the other hand, was incredibly smooth and creamy. The nuttiness was more pronounced, and I detected a unique sweetness reminiscent of caramelized sugar. The umami tasting note was also present, but it lingered longer in the aftertaste. Overall this was smoother and brighter! ✨
+
+This was a fun little experiment that I will start using my brew water whenever I make my usucha going forward. 😋 Have you ever tried different kinds of water for your matcha? If so, which one did you prefer? 🤔💭",6,1772962535.0,matcha_ph,0,1.0,False
+1ro0m86,https://i.redd.it/6rlb8qpljsng1.jpeg,I just want coffee,,5,1772962443.0,mildlyinfuriating,3,0.78,False
+1ro0lpe,https://i.redd.it/tyu4yrmejsng1.png,updated spreadsheet for winter frost sell prices,info not on here helps!,2,1772962391.0,heartopia,0,1.0,False
+1ro0let,https://i.redd.it/f3nn5l0djsng1.jpeg,Starbucks just quietly brought $BYND 👀 🚀 back in the UK,https://x.com/i/status/2030479666058797444,11,1772962360.0,ByndInfinity,1,1.0,False
+1ro0lda,https://www.reddit.com/r/espresso/comments/1ro0lda/why_am_i_only_pulling_1g_espressos_from_my_brand/,Why am I only pulling 1g espressos from my brand new [Sage Barista Express],"I've watched a few videos online and with a double espresso setting I'm getting between 1-4g of espresso after 60 seconds and then nothing. Can anyone give any advice?
+
+Dose: 18g  
+Roaster: Local coffee shop   
+Roast Date: 3 days ago   
+Yield: 1-4g   
+Seconds: 60 seconds  
+I set the grind size from 1,2 and 6  
+I've tried pressing the tamper down hard and lightlyI tried setting the internal grinder thing to 3 and 6  
+and have tried moving the grind amount from max to about 2/3 of the way to max
+
+Can anyone give me any help :/",1,1772962355.0,espresso,3,1.0,False
+1ro0kjh,https://www.reddit.com/r/evilautism/comments/1ro0kjh/huel/,Huel.,"I've always balked at the price of the Huel bottles (Like £4/$6 each?!), but lately my diet has been awful, I hate cooking, I've got some stupid undiagnosed immune problem that zaps my energy at random every day or so and I have autism and ADHD so I'm picky about what I eat and I'm never motivated to make any food beyond toast. Maybe noodles.  
+  
+So I've decided to jump into the powders in bulk at a fairly steep discount (about a months worth at £1/$1.34 per ""meal"") and I'm hoping this will both get my weight down and give me some more energy to actually do stuff, but I'm kinda curious to know if anyone here has had any experiences with it because I know it can be pretty divisive as far as taste and enjoyment goes.  
+  
+I've picked up Black Edition in coffee flavour, Original Banana and Essential in chocolate. Coffee is nice, Chocolate is the bomb and I haven't tried banana yet. For some reason I'm finding Essential to be way more filling despite it having only 20g Protein compared to Black Edition's 40g, but it's still early days yet.  
+  
+I'm still trying to get past the ""I'm joining a soylent green cult"" feeling lol.  
+  
+Any thoughts or tips from anyone who's tried it here?",6,1772962265.0,evilautism,7,0.88,False
+1ro0jnx,https://i.redd.it/3w1vfpgtisng1.jpeg,Coffee machine upgrade,Hi everyone! I was wondering if it would be better for me to upgrade my existing coffee machine or invest in a new one for 60 gems? ,4,1772962177.0,GoodCoffeeGreatCoffee,3,1.0,False
+1ro0jf2,https://www.reddit.com/r/barista/comments/1ro0jf2/pulling_1g_espressos_from_my_new_sage_barista/,Pulling 1g espressos from my new Sage Barista Express?,"I've watched a few videos online and with a double espresso setting I'm getting between 1-4g of espresso after 60 seconds and then nothing. Can anyone give any advice?
+
+I'm using 18g of freshly roasted beans from my local coffee shop  
+The machine is new  
+I set the grind size from 1,2 and 6  
+I've tried pressing the tamper down hard and lightly
+
+I tried setting the internal grinder thing to 3 and 6  
+and have tried moving the grind amount from max to about 2/3 of the way to max
+
+Can anyone give me any help :/",0,1772962147.0,barista,2,0.5,False
+1ro0ium,https://www.reddit.com/r/LivingAlone/comments/1ro0ium/unresponsive_people/,Unresponsive people,"I’m very happy living alone. Two crazy cats, have a full time job not remote, things are good. 
+
+I like to keep in touch with my friends and family thru text and sometimes it takes days for them to respond, and sometimes they don’t. 
+
+I completely understand people are busy and not everyone is tied to their phones. But I’m actually a pretty anxious person and I just need a little check in to be sure everything is okay! And they know this, but don’t really acknowledge that those feelings are valid. Or make jokes when I act worried. 
+
+As I sit here early morning enjoying my coffee, one friend completely ghosted me yesterday and another said they were busy but would get back to me later. It’s just soooo easy to text we all know this. Just say something! So now I don’t want to text either of those people and be that annoying friend. 🤷🏼‍♀️
+
+Not looking for advice, just solidarity I guess! If they won’t talk to me I’ll just vent to strangers on the internet! 😂",7,1772962085.0,LivingAlone,2,1.0,False
+1ro0iov,https://www.reddit.com/r/FlippantSerenity/comments/1ro0iov/mauds_coffee_coupon_codes_2026_march_deals/,Maud's Coffee Coupon Codes 2026 - March Deals,Go to [**Maud's Coffee Coupon Codes 2026 - March Deals**](https://bit.ly/3AkyG8B) and grab one of the current discount codes. The page is always updated with the newest deals and coupons.,1,1772962067.0,FlippantSerenity,0,1.0,False
+1ro0g1t,https://www.reddit.com/r/ThePoorTraveler/comments/1ro0g1t/first_international_solo_trip_to_taiwan_mar_2227/,"First international solo trip to Taiwan (Mar 22–27) — café, food, and walking recommendations?","Hi! 24M here traveling solo to Taiwan from March 22–27. This will actually be my first international trip and my first time traveling solo, so I’m both excited and a bit nervous.
+
+I was originally supposed to go with my boyfriend, but he’s currently working in the UAE and the situation there affected the flights and his vacation plans, so I’ll be exploring on my own instead.
+
+I’ve already booked a night tour in Jiufen, but aside from that I’m not planning to book many tours because I really want to explore Taiwan at my own pace. I’m also planning to ride the MRT and just stop wherever looks interesting, then explore the area from there.
+
+I enjoy hanging out in coffee shops with a nice view, trying good local food, and I actually love walking a lot—I’m totally fine spending an entire day just wandering around a city. I’m also planning to go for a jog while I’m there if there are nice spots for that.
+
+Also, March 25 will be my birthday, so if you know any places that give birthday freebies or small gifts, I’d love to check them out. I heard that the Pokémon Center sometimes gives birthday gifts, so I’m curious if there are other places like that too.
+
+For people who’ve been to Taiwan (especially Taipei), do you have any recommendations on:
+
+\- places worth visiting
+
+\- good cafés with views
+
+\- must-try food spots
+
+\- nice places to walk or jog
+
+\- any hidden gems
+
+\- places with birthday perks/freebies
+
+Would love to hear your suggestions. Thanks!",1,1772961781.0,ThePoorTraveler,2,1.0,False
+1ro0fyv,https://i.redd.it/lwmathqlhsng1.jpeg,Sunday Lazy breakfast,"3 soft boiled eggs
+2 alice of garlic bread and 1 slice of normal bread toasted in butter
+Yesterday's leftover Samosas, topped with chola and green chutney.
+Glass of cold coffee(Out of pic)
+
+That makes my Sunday Lazy breakfast, will be heading back to sleep after this.",6,1772961771.0,IndianFoodPhotos,0,1.0,False
+1ro0fys,https://www.reddit.com/r/Vent/comments/1ro0fys/i_dont_know_what_to_do_anymore/,I dont know what to do anymore.,"Hi, a warning: this post contains mentions of: anxiety, depression, death, and body image issues. Please read with care. Also im sorry I curse when im upset. 
+
+Im a 19F. Im a college student and i have a crappy part time job [but I dont even really know if I do anymore? More context soon]. 
+
+So, im stressed. Ive had a hard year overall. I lost my dad in May. I wont get too deep into how to respect anyone who might have similar trauma, as it wasnt a peaceful passing. 
+
+And it was a week before my HS graduation. I walked the stage feeling empty, lonely. Unsure what I wanted. I went to college this Fall. It was great the first semester. Then guess what? It all went to shit. 
+
+First off, a friend id had most of the semester, literally tied to the hip kind, where we did everything together, she text dumps me. Like I'm her shitty bf or something. Says that i make her uncomfortable, that im too much and I invade her weekends. 
+
+[I apparently made her uncomfortable because im Bisexual and I ""flirted"" with her. SHE asked ME questions and joked with ME. I never flirted] 
+
+Then I decide to quit my other job, as having two with full time college work wasnt cutting it. I was stressed and very tired. My anxiety got so bad one day I stayed up past 24 hours without sleep. I had a friend call into my job so I could go to sleep. [As i write this at 4 fucking AM. Lmao] 
+
+To make things even fucking better, my uncle [who has cancer, a rare blood cancer] stopped getting treatment. His decision and I respect it because I love him, I know he has been through hell and back. Im not angry with him at all, dont think I am. Im angry because I just lost my dad. Now im being told I dont have long with someone else I love deeply. [There are treatments he might do, like alternative types but regular chemo has stopped.]
+
+Then Christmas Break rolls around. And oh, fuck here we go. I come home and its nice at first. I get to sleep in, see my dog, my mom and siblings. Its really nice. Then I start slipping, feeling like eh I dont wanna go back to college. Relaxing is really nice. I feel happy here. Wait, I miss my dad. So many traumatizing memories of his death flood in. I feel overwelmed. Then to top it off I decide to see my bio dad [the dad that died is my step dad, BUT he raised me so he is my dad. Sorry if thats confusing.] Anyhow, I see my bio <alive> dad for a day to catch up. It feels werid, honestly. And we dont talk much. I figured we'd talk more. We dont. Now I feel more depressed. 
+
+Its like not even mid Spring Semester and im so low rn. I want to go to a doctor for medicine and see if that helps. I dont know. And ive been having body image issues. Not liking my body, feeling insecure, covering up. Its so much. Im so fucking tired. And my part time job just gave all my hours to someone else. Granted i called in a lot. But still. Fuck. My arms can barely type at this point but im fucking finishing the post cause shit I needed to vent this to anyone. Everyone. Overall, I feel fucked. I just want a bear hug, a coffee and someone to remind me somehow I will feel okay one day soon. 
+
+My grades are mostly failing. Only one passing because my English Professor is fucking amazing and she understands depression and shit. I turned in a shit essay and my grade barely moved. But yeah all the others are shit. And im barely paying my bills. Being 19 is so fucking werid. Im an adult but I dont feel like one and no one really treats me like one unless I remind them to, oh, but if I am treated like an adult then it feels even more werid. Kinda like when a guy goes ""Youre so mature for your age"" werid. Like I act 19 but I hate being 19. Type shit. 
+
+Rating my life experience right now: -1000000000
+
+Thank you if you read all of my bullshit. Appreciate you. <3",1,1772961770.0,Vent,1,1.0,False
+1ro0fvh,https://www.reddit.com/r/Maine/comments/1ro0fvh/time_change/,Time change,"Such a depressing time of year. Over the past month, it's gradually gotten light out earlier and earlier. Watched the dawn touch the tops of the trees and the sky brighten as I drank my coffee, a little more every day. Gave me hope, no matter how much snow is on the ground. 
+
+Now we're harshly shoved back into an extra hour of pitch blackness every morning. Bleakness and despair greet me at the beginning of the day.",7,1772961760.0,Maine,3,0.82,False
+1ro0f6v,https://www.reddit.com/r/autism/comments/1ro0f6v/petition_to_the_mods_for_a_neurotypical_autist/,Petition to the Mods for a Neurotypical ->Autist Dictionary.,"I think it would be a cool idea if the mods created a pinned megathread for autists to share common neurotypical sayings/speech patterns and what they actually mean. Such as, I was recently told that when NTs say ""we should really get coffee sometime!"" they actually mean ""I never want to see you again."" That sort of thing.
+
+Upvote this post to vote yes on the petition. ",2,1772961692.0,autism,1,0.75,False
+1ro0ea6,https://www.reddit.com/r/LacydonOne/comments/1ro0ea6/sunday_reflections_keeping_a_stiff_upper_lip_when/,Sunday Reflections ☕: Keeping a Stiff Upper Lip When the Markets Lose Their Marbles (The FO Playbook & RSK Dashboard),"Morning,
+
+Sunday morning in the library, coffee steaming, and the weekend papers full of the usual ""End of Capitalism"" gloom. It’s all a bit tiresome, isn’t it? When the markets decide to throw a tantrum, the difference between a panicked amateur and a seasoned Family Office is one thing: Structure.
+
+While the retail crowd is busy refreshing Twitter and biting their nails, we’re tucked away with the ""Audit Horizon"" looking at the next decade, not the next decade of minutes.
+
+If your portfolio is looking a bit ""heurté"" (as our cousins in Pasqal might say), here is the FO-grade to-do list for your Sunday morning audit.
+
+1. The Liquidity Moat (The ""Can we pay the gardener?"" Test) 💧
+
+Before obsessing over your NAV, look at your dry powder.
+
+ \* To-do: Can you fund the lifestyle and any capital calls for the next 18–24 months without being forced to sell a quality asset at a ""fire sale"" price?
+
+ \* Metric: Cash & Equivalents vs. Total Commitments. If you’re sweating, you’re over-leveraged.
+
+2. The Correlation Mirage 🔗
+
+In a proper rout, everything looks like it’s correlated to 1. That ""diversified"" portfolio suddenly looks very monochromatic.
+
+ \* To-do: Identify the ""True North"" assets—those that aren't just paper gains. Private Equity with real cash flow, physical gold, or those short-dated Gilts you bought when everyone else was chasing tech.
+
+ \* Metric: Tracking volatility relative to the benchmark.
+
+3. The RSK Dashboard: The Three Holy Pillars 📊
+
+We don’t look at 50 indicators; we look at three that actually matter when the wind is up:
+
+ \* The Leverage Ceiling: This is where the bodies are buried. Check your LTVs (Loan-to-Value). If you're nearing a margin call threshold, you don't wait for the bank to phone. You de-risk early.
+
+ \* The ""Stress Test"" (The 2008 Ghost): ""What if the FTSE drops another 20%?"" Run the numbers. If your ""Common Core""—the assets that protect the family name—remains untouched, you can sleep.
+
+ \* The Expertise Unit: This is where we call the specialists. Don't listen to a generalist in a crisis. Talk to the niche players in the ""Executive Circle"" who actually know why a specific sector is bleeding.
+
+4. The Sunday To-Do List ✅
+
+ \* Mute the Noise: The BBC and Bloomberg are paid for drama. We are paid for results. Trust the real figures in your ledger, not the ticker tape.
+
+ \* Audit the ""Why"": Did you buy that position because it was a great business, or because it was going up? If the business is still great, the lower price is a gift.
+
+ \* Rebalancing (The Bravery Phase): It feels counter-intuitive, but this is when you move from the defensive ""Common Core"" into the ""High Expertise"" units that have been unfairly thrashed.
+
+The Bottom Line: A bumpy market is simply a mechanism for transferring wealth from the impatient to the prepared. Keep the coffee hot and the head cool.
+
+What’s on your dashboard this morning? Are we buying the dip or battening down the hatches?
+
+Cheers, and have a splendid Sunday. ☕🗞️",1,1772961598.0,LacydonOne,0,1.0,False
+1ro0dui,https://www.reddit.com/r/Uganda/comments/1ro0dui/ins_and_outs_of_coffee_business/,Ins and outs of coffee business,"Can someone give some insights into the coffee buy and selling business, for example how people make money from buying cherries, drying, and selling, challenges etc. can someone doing this business help enlighten a bit. I'm interested in starting this so I'm collecting some preliminary information before going upcountry to inquire more.",2,1772961553.0,Uganda,1,1.0,False
+1ro0dmd,https://www.reddit.com/r/1200isplenty/comments/1ro0dmd/went_way_over_budget_on_my_calories_yesterday/,"Went way over budget on my calories yesterday, still finally entered my goal weight range this morning","Fat loss is wild. My goal weight is 55kg (I’m 161cm), and I’ve been doing 1300 calories over the last 5 months to lose 10kg. I’ve been stuck in the 56-57kg range for weeks, scale goes up, then goes down, etc. Weekly averages went down but none of my daily weight-ins did quite reach the 55kg range. I know the last few kgs are harder to lose, so I wasn’t questioning it. And I knew fat loss was still happening, just covered up by the water weight.
+
+I was out the whole day yesterday, ate McDonald’s, had a cider, half a can of Pringles, like 4 coffees, a red bull, etc. Probably near if not over the 3000 calories range. But I was very active, moving all day, did 3 hours of bouldering in the morning, etc., so I wasn’t bothered about the increase in calories because even if I didn’t burn all that much, the fat gain would be negligible.
+
+Anyway, I step on the scale (I weigh myself every day to get weekly averages) this morning, fully expecting to have like +1.5kg of water weight only for the scales to show 55.7kg! After weeks of no drastic down scale movement, I finally reached my goal weight range. The water weight (further made worse by my impending period) finally started dropping!
+
+I’m so proud of myself. I’ve never felt better, my snacking is under control, I eat healthy 80% of the time (chocolate is my best friend that always fits into my calories), I have a healthy relationship with food, and I look and feel amazing.
+
+So happy women’s day to me and to all of you beautiful women on this sub working towards your goals! You can do it!",12,1772961531.0,1200isplenty,1,0.88,False
+1ro0d34,https://www.reddit.com/r/ThailandTourism/comments/1ro0d34/bangkok_hotel_suggestions_for_first_timer_to/,Bangkok hotel suggestions for first timer to Thailand,"Having spent the last hour or so with the search function, I know this horse has been beaten to death. But my requirements are a bit unique it seems and I could certainly use some experienced opinions.
+
+My plan is to arrive sometime next week and spend about a month in Bangkok with the intention of doing very slow tourism, finding great coffee with lots of Thai food, and working on my fitness by alternating between a gym and some Muay Thai (novel fitness regime, no intentions of being a fighter or anything)
+
+I’d like to stay in a “get my bearings of Bangkok and its neighborhoods” hotel for 3 to 5 days and use that time to find a suitable  accommodation for a month long stay afterwards.
+
+My budget for the short stay maxes out at $200 a night. And I would like to keep my long term stay under $1,500 for 28-31 days. As with all things budget, I don’t mind paying reasonable amounts for more comfort but less is always more.
+
+Since I would be in Bangkok for quite some time there’s little need for sightseeing or shopping or fancy restaurants for my short stay period and sticking to accessibility/transport as the priority is preferred.
+
+Any advice you can give me for both/either segment would be greatly appreciated.
+
+Thanks in advance everyone.",0,1772961471.0,ThailandTourism,5,0.5,False
+1ro0cre,https://i.redd.it/3r0db84kgsng1.jpeg,"Happy women's day ✨️☕️🤍, enjoy your coffee","Women’s Day Special at Cafe Coffee Day & Swiggy Dineout!
+
+Ladies, celebrate with a treat! 💃
+
+Get delicious Frappes for just ₹8 at your nearest Cafe Coffee Day outlet.
+
+📅 Only on 8th March
+💳 Pay using Swiggy Dineout
+
+Offer valid exclusively for women.
+Check availability at your nearest CCD location.",1,1772961440.0,TeenIndia,4,1.0,False
+1ro0cdn,https://www.reddit.com/r/PhR4Dating/comments/1ro0cdn/26_f4m_passenger_princess_looking_for_a_roadtrip/,26 [F4M] Passenger Princess Looking for a Roadtrip Buddy,"Hi! I’m 26 and currently working. I’m here hoping to find someone I can spend time with—someone to talk to, hang out with, and maybe go on random coffee or food trips with.
+
+About Me:
+
+• Lives in QC
+
+• 5'2
+
+• Sagittarius
+
+• Working professional
+
+• Loves road trips and spontaneous food trips
+
+• Into cars and F1 stuff (even though I don’t drive yet)
+
+• I love coffee and good food
+
+• Funny… but only to the right audience 😅
+
+• I laugh a lot and very madaldal when I’m comfortable with someone
+
+
+About You:
+
+• 24–28 years old
+
+• Preferrably near me (NCR)
+
+• Taller than me (so not the same height as my 5'2 self)
+
+• Working and has a provider mindset
+
+• Plus points if you have and drive a car (road trips + tambay somewhere nice sound perfect)
+
+• Has a good sense of humor
+
+• Most importantly, respectful toward women
+
+I’d prefer this to be a slow-burn kind of connection. I’d rather take time to get to know each other and see where things naturally go. 💋 Pure SFW please!",0,1772961402.0,PhR4Dating,0,0.25,False
+1ro0bcb,https://i.redd.it/zsqet1v6gsng1.jpeg,"International Women’s Day – Quiet Strength, Deep Roots","A minimalist, vintage-style illustration showing a woman’s silhouette rising like steam from a coffee cup.
+
+True strength doesn’t announce itself — it endures.",1,1772961295.0,u_relaxncoffee,0,1.0,False
+1ro0ayk,https://www.reddit.com/r/blender/comments/1ro0ayk/one_of_my_first_creations/,One of my first creations,"Hello guys! I started Blender recently and unfortunately, I have lost most of my work. I'm learning how to do things in it. What do you think about this cup of coffee? I wanted to make coffee cup that look like it's from fears to fathom or other analog like video game.
+
+[Cup :\)](https://preview.redd.it/g97ylp6xfsng1.png?width=1920&format=png&auto=webp&s=0fb17f092baa74d17a82bc9e2382c3ee19804cda)
+
+",1,1772961258.0,blender,0,1.0,False
+1ro0aua,https://www.reddit.com/gallery/1ro0aua,This unreal south-indian place is irresistible,"I always take people who are not from Pune, who appreciates good food; to this place and they are always Impressed by the uniqueness.
+
+Why unreal? Just check out the prices, I'm all in for food plates, BUT, the beverages 😭
+
+Why irresistible? Veg South-Indian breakfast is honestly all time favorite but I personally feel that's just a portion of what the diverse part of Southern India has to offer.
+
+This place does cater the rest of the south indian flavours, talking about non-vegetarian recipes, and I simply love it! 
+
+The remaining 10 percent 💀 I don't think so, especially I'd wonder no one wanna risk to get lynched. But a flavourful Kerela-style brunch you can definitely experience here.
+
+📍We IdliWale, Viman Nagar. I always find parking there, massive plus point!! 
+
+One thing I liked was the Darshini-style kitchen where you can clearly see what and how the chef prepares.
+
+Things I ate: 
+
+1. Chicken Kothu Parotha: 375 INR
+Loved it, chicken portion was 40 percent, rest the parotha, sunny side up is perfect, whole dish was flavourful and not bland at all. Spicy and it is Recommended.
+
+2. SriLankan Prawns Curry with Dosa: 525 INR
+Spicy and Sweet coconut curry at the same time, simply amaze! Prawns count was around 9-10, medium sized, fair enough. This was served with a prawns onion fry, somewhat oily but very very flavourful. Rare, addictive and it is Recommended.
+
+3. Filter cold coffee: 180 INR
+This thing felt expensive but not gonna lie, I reordered it. We took one first, and first sip, instant flavour of coconut milk, and it was refreshing! Not sweet at all, felt guilty while repeating the second one, but it was v v good! 
+Not your regular cold coffee and it is Recommended.
+
+4. Diet Coke. Simply Stay Away!! 
+I regret ordering this because it was stupidly priced at 120 INR.
+Idk why I did not check the price in the menu, but the moment I saw this in the bill, it was such a heart break! 
+
+Total Bill: 1439 INR for two (they did not ask for Service Charge so I was happy, tipped the waiter separately). 
+
+Negatives: No Air Conditioning, paying a premium and no air conditioning at this point feels illegal, especially in this hot weather. They should just acquire the unauthentic boring pizza place which is adjacent which has good sitting and air conditioning as well. ",28,1772961245.0,PuneFoodPorn,9,0.91,False
+1ro0a4w,https://www.reddit.com/r/BangaloreMarketplace/comments/1ro0a4w/furniture_for_sale_bed_sofa_dining_table_chairs/,"Furniture for Sale – Bed, Sofa, Dining Table, Chairs, Coffee Table (Good Condition)","I’m selling some household furniture that is about 4 years old and in good condition. All items are well maintained.
+
+Items available:
+
+• Queen Size Double Bed + Orthopedic Memory Foam Mattress (75x60x6, Medium Firm) – ₹41,000  
+• 3-Seater Sofa – ₹22,000  
+• Side Chairs (2 nos.) – ₹9,000 each  
+• 4-Seater Dining Table – ₹35,000  
+• Coffee Table – ₹10,000
+
+Happy to share additional details with interested buyers.
+
+Interested buyers may DM.
+
+https://preview.redd.it/cvleapjwfsng1.jpg?width=1280&format=pjpg&auto=webp&s=4f37b038cc813b7fdf660aad21b876d12a6a96d4
+
+https://preview.redd.it/8f4qzujwfsng1.jpg?width=960&format=pjpg&auto=webp&s=d48c621ff498e5fbfd43ca9804dce0de7812b877
+
+https://preview.redd.it/m38l7vjwfsng1.jpg?width=1280&format=pjpg&auto=webp&s=129744a35c9c09641a611eeb23ae4579b7af7100",0,1772961171.0,BangaloreMarketplace,0,0.5,False
+1ro08wp,https://www.reddit.com/r/Referrallinks/comments/1ro08wp/i_need_30_asap_so_if_you_are_legit_lets_get_this/,"I need 30$ asap, so if you are legit, let’s get this bread.","Check out Kikoff to build credit. It starts at the price of a cup of coffee with no credit check, no interest, and no fees: https://kikoff.com/refer/NBUDH4LE
+
+You sign up, drop 5 dollars, we both get 30. I will even give back the 5 , on Venmo, or PayPal. I’m not one of these bitch ass niggas that scam on here, and I’m about to put a few of them on blast on another sub. I do not need your data, nor will I ask for it. If you are down though, dm me when you done ",0,1772961045.0,Referrallinks,0,0.5,False
+1ro08fo,https://www.reddit.com/r/ahmedabad/comments/1ro08fo/23m_in_ahmedabad_coffee_city_walks_and/,"23M in Ahmedabad — coffee, city walks, and interesting conversations?”","Hey everyone!
+I’m a 23-year-old living in Ahmedabad. I’m queer and would love to connect with folks who are open-minded and friendly (LGBTQ+ or allies).
+
+A little about me. 🌻 
+I’m into science/research, good conversations, trying new cafés, random evening walks, and discovering interesting food places around the city. I’m pretty easygoing and always enjoy meeting people with different perspectives and backgrounds.
+
+Looking to meet people around 20–30 who’d be up for coffee, casual hangouts, city exploring, or even just chatting online to start.
+
+Also appreciate people who are open-minded and respectful, makes conversations way more interesting.
+
+If that sounds like your vibe, feel free to comment or DM!",1,1772961001.0,ahmedabad,1,1.0,False
+1ro086g,https://i.redd.it/c1p2nkhwesng1.jpeg,Found my new summer drink,"Tried making an orange espresso tonic.  
+Used fresh orange juice, tonic water, ice, and moka pot coffee poured on top.  
+  
+Still experimenting with the orange juice and tonic ratio to get the balance right...
+
+Surprisingly refreshing, citrusy and fizzy.  
+  
+This might become my go-to evening coffee for the summer :)  
+Curious if anyone here has tried this and has any tips to improve it.",19,1772960974.0,IndiaCoffee,2,1.0,False
+1ro083y,https://i.redd.it/eup71mo6fsng1.jpeg,"Happy women's day, coffee medikku guys ☕️","Women’s Day Special at Cafe Coffee Day & Swiggy Dineout!
+
+Ladies, celebrate with a treat! 💃
+
+Get delicious Frappes for just ₹8 at your nearest Cafe Coffee Day outlet.
+
+📅 Only on 8th March
+💳 Pay using Swiggy Dineout
+
+Offer valid exclusively for women.
+Check availability at your nearest CCD location.
+
+Happy women's day ✨️🤍",2,1772960968.0,Coconaad,0,1.0,False
+1ro07u5,https://i.redd.it/nuw09bm4fsng1.jpeg,"My 6 year old girl was diagnosed in late February with Stage III CKD. Dealing with a new world of treatments, trying to find the right balance, and incontinence issues. Any tips/advice/support/uplifting and kind words would be appreciated.","My kitty Poki was having incontinence issues on and off for about six to seven months.  They are always on top of the places she sleeps, which is wherever I’ve been sitting.  At first, they were spaced fairly far apart, like once every two to three months, and I initially thought it was because her box was dirty (she is very particular).  But on February 2nd, she urinated in her sleep on the cushion on my chair that she sleeps on and I knew something was wrong because 1) I had been on top of cleaning her box everyday and 2) She is WAY too young to be peeing in her sleep!
+
+In addition to this, she is normally picky with her foods but lately she has become EXTREMELY picky.  The day after she had the accident, she really didn’t feel well.  She is usually jumping up high on shelves or on my table, holding things for ransom and knocking them off, goading me to chase her and then doing parkour moves off of the armchair because she’s just too fast, asking me to play hide and seek or with her wand toy.  Instead, she was lethargic and sleeping all day, not like the usual pinball of energy she usually is.  I took her to the vet on February 4th, where they ran a blood test/urinalysis.  Her values came back horrible!
+
+IDEXX SDMA:  16
+
+Creatinine:  5.0
+
+BUN:  69
+
+IDEXX Cystatin B (Urine):  273
+
+Specific Gravity:  1.019
+
+pH:  5.5
+
+Urine Protein:  2+
+
+No glucose, ketones, blood, bilirubin, bacteria, mucus, casts, crystals, etc. seen.  T4, potassium, phosphorus levels, liver values all normal.
+
+Also of note:  Her Hemoglobin was 9.9, slightly below range, and Lymphocytes were at 8.119 (slightly above range).
+
+We had an ultrasound on February 19th, where it showed that “the kidneys were bilaterally small…and slightly irregularly shaped with decreased corticomedullary definition, and mild peridiverticular mineralization”.  It also showed that she had mild pancreatitis and inflammation throughout her bowels, including “minimally enlarged jejunal and ileocolic lymph nodes”.
+
+Her gallbladder, bladder, liver, and spleen were normal.
+
+On the same day as the ultrasound, they had a followup urinalysis but it wasn’t a full workup that included the blood test like the first one:
+
+IDEXX Cystatin B (Urine):  193
+
+Urine Creatinine:  175.8
+
+Urine Protein:  84.4
+
+Urine Protein/Creatinine Ratio:  0.5
+
+Specific Gravity:  1.019
+
+pH:  5.5
+
+Urine Protein:  2+
+
+All other results were the same except there was a trace of blood.
+
+I had to switch vets because I just didn’t feel secure in her care and couldn’t get the answers I needed, or even basic things such as prescriptions for the right food.  The new and current vet ran bloodwork and urinalysis tests on March 3rd:
+
+BUN:  87
+
+Creatinine:  4.9
+
+SDMA:  23.0
+
+Specific Gravity:  1.020
+
+pH:  5.5
+
+Protein:  1 +
+
+UR/PROT CREAT RATIO:  0.5
+
+Potassium is still barely within normal range, on the lower end, but now the NA/K Ratio is 43, which is elevated.
+
+Lymphocytes are within range.  Hemoglobin is 9.1.
+
+She has gone from about 8.4 lbs in 2023 to 6.5 lbs now.  On February 4th when I had her first tests done, she was still around 7 lbs.  She lost a half pound in a month.  The new vet gave me Mirataz ointment as an appetite stimulant to rub on her ear and told me the most important thing right now is to get her weight up.  The normal dosage is 1.5 inches of ointment, she told me to use 1.0 because my girl is very petite and tiny.  Well that night I rubbed the one inch of ointment and BOY! She ate and came back over and over again, but also was incredibly agitated and restless.  She just couldn’t get to sleep.  That night she seemed to crash and had TWO accidents, one on the cushion and one on the bed (she likes to sleep between my legs).  She seemed super lethargic the next day and “meh” over the next couple of days after that, but at least she ate.  It seems that even an inch was too much for her.
+
+It’s great that she ate but all of the side effects made me think I had damaged/strained her kidneys even more, she drank and peed so much over the next couple of days.  I was scared to try again until I talked to the vet again the other day.  This morning, I tried a dot of ointment today and it had no effect…I will wait until tomorrow morning and try half an inch.
+
+I can’t reconcile how my previously healthy, active, bouncing-off-the-walls mischievous and sassy girl suddenly has a late-stage serious illness.  She is too young to be having this, I’ve looked all over this sub and most of the cats are 10 + with many other illnesses and still somehow manage to thrive with a fairly good quality of life for months or even years with all of the treatments.  Poki has some odds in her favor in that she has no other illnesses, such as diabetes, hyperthyroidism, heart problems, etc. that plague older cats, but yet the disease seems to have advanced quickly in just the past month.  She is having accidents every day now between my legs snuggled RIGHT UP AGAINST MY CROTCH and her urine is so dilute that we are both having a hard time being able to tell from the smell if she even had an accident, lol!  I wake up with a small wet spot underneath me and feel like I am having vicarious accidents through her.  I do have a bed pad but she doesn’t like to sleep on it, she likes to sleep on my blanket between my legs and I have the bed pad underneath, but every morning I have to clean myself (she wakes me up during the night every two hours to clean herself vigorously, thank you very much) and throw everything in the wash.  She is going to sleep without using the (clean) litter box before hand and then gets so relaxed that her pee just leaks out.  She isn’t even aware she is doing it.  I spoke to the vet about this, but no concrete answers.  Any advice, or similar experiences from others??? I don’t want to shut her out of my room because I know she doesn’t feel well and feels good and secure between my legs and I love her so much but I haven’t gotten any sleep for the past week.  
+
+The way I make it sound, it seems like she’s on death’s door, but she is still going on walks, jumping on the table to scream at me, hopping on the top of her cat tree and tv, on the screen door to catch lizards, and on her good days, plays and jumps in boxes and does parkour.  It took me a month to get over the dissonance between this awful disease and her behavior.  I know cats are masters at hiding illness, but I can tell when she really isn’t feeling well.
+
+Also, any advice on how I can get her on her renal food? She has Royal Canin hydrolyzed protein/kidney kibble, which she ate once or twice and then snubs every time.  I tried grinding the kibble with a coffee bean grinder and mixing it with her food, no dice.  I know dry food is bad and I try to add water to her wet food to get her extra hydration but nowadays treats are all she reliably eats.  And she now has two steel water fountains that she loves and a separate water bowl accessible to her, so having water available isn’t an issue.
+
+Any advice on how I can get her to eat anything in general? The Mirataz works great for stuff she already likes eating (which was, up until a day ago, Fancy Feast skipjack tuna and sole topper, and treats), but it doesn’t make her eat anything she has snubbed.  She doesn’t like Weruva, Applaws, Tiki Cat, Birdie and Louie, Sheba, kidney foods/low phosphorus foods in general, doesn’t like pureed textures so no churu, she will eat pates but only a little, she likes turkey but doesn’t eat the boiled turkey with rice we made for her, any of the turkey pates.  She likes the rotisserie turkey but it has carageenan in it, which is what I suspect made her sick in her old food (Fussie Cat).  She doesn’t like hydracare, won’t even try it.  Any of the one-off brands I try, she does eat once or twice then snubs it.  It seems the only thing she primarily likes anymore are Friskies Party Mix treats.
+
+The vet suggested thinking about giving her Benazepril, but says it’s super risky and “not benign” as it could help reduce the proteins in her kidneys but ALSO could suddenly cause kidney failure.  Knowing now how sensitive she is to not even the recommended dosage of a relatively mild and safe medicine (Mirataz), I’m not thinking it’s worth the risk.  We talked about subq fluids, which I’m really not sure she would tolerate well at home, but am willing to try.  Gosh, it’s so much to think about.  I feel like I’m at my wit’s end.  Any help would be deeply appreciated.",4,1772960939.0,RenalCats,5,1.0,False
+1ro07eq,https://www.reddit.com/r/IsItAbuse/comments/1ro07eq/is_it_abuse_or_laziness_and_incompetence/,Is it abuse or laziness and incompetence?,"So this will be very long I'm sorry, just trying to clear things in my head.
+
+Been married 15 years, went to junior school together. 5 kids ranging from 2-11.
+
+Going to try and be as factual as possible, obviously it's from my viewpoint so skewed somewhat but I will try and be neutral.
+
+Financial:
+
+Until recently we both worked full time.
+
+All bills have always come out of my bank account no joint account despite me repeatedly asking and trying to set this up.
+
+He has no idea how much the bill are.
+
+He does not give money regularly because he apparently doesn't have it despite working every day, but when he has money gives it willingly.
+
+He still buys take out coffee and macdonalds regularly.
+
+I have had to put his tax bill on a credit card in my name because he do not have money to pay for it.
+
+Currently he is travelling north every other week to work at his dad's house. This has brought absolutely no money in at all, despite me not working currently either. He takes my car to this work.
+
+He also always finds money for cigarettes 
+
+Caring:
+
+He is awful at showing he cares and I matter to him.
+
+I recently had an operation on my leg and when picking me up he parked in the adjacent supermarket car park leaving me a 10-15 min walk by myself in pain after an op.
+
+During check ups he waits in the car with the kids and will not take them to a play park or anything because it's too much, this has resulted in a few car park fines.
+
+I'm very off sex, this makes him feel ""unloved"" and like I don't care. He says he shows affection through physical contact and without that he does not feel loved by me.
+
+He was in charge of my antibiotics after op as I was sleeping so much and despite setting alarms on his phone regularly forgot to wake me up so I could have them.
+
+I did get an infection and rather than coming back to take me to hospital he waited an extra day, then stopped to get food. When 111 said I needed a and e he said he couldn't take me because of the kids so needed an ambulance, then I slept while he played a computer game until it arrived and I was rushed back to surgery.
+
+I don't think I want to post more of other things right now, just get an understanding of this. He does not feel he is in any way abusive or bad or wrong. Allergic to saying sorry, nothing is ever his fault. Is this just useless and shit or is it more than that?",1,1772960898.0,IsItAbuse,0,1.0,False
+1ro077r,https://i.redd.it/2b9ony8yesng1.jpeg,It just lowers my cortisol being a dark system and seeing people rage,No censors cuz I want my teammates to see this LOL,0,1772960878.0,mlbbdarksystem,3,0.13,False
+1ro06zt,https://www.reddit.com/r/pourover/comments/1ro06zt/df64ii_vs_manual_grinder/,Df64-II vs Manual Grinder,"I’m starting to explore the world of pour-over coffee after mainly brewing espresso. I use a DF64 Gen 2 grinder, but I’m still struggling to dial it in for pour-over.
+
+I’m considering buying a manual grinder alongside the DF64, such as the ZP6. Do you think it would add anything or improve the results for pour-over?",1,1772960854.0,pourover,2,1.0,False
+1ro05p7,https://www.reddit.com/r/UlcerativeColitis/comments/1ro05p7/update_on_my_life_with_uc_and_input_is_welcome/,"Update on my life with UC, and input is welcome.","Hey guys,
+
+To catch you up, I was diagnosed with mild UC in April of 2025 following my first colonoscopy. The doc also stated I had some hemorrhoids. He started me on two pills of Mesalamine a day.
+
+Last time I posted, I saw my doc in late November. He upped my Mesalamine to three pills a day (1.2 gm each) And told me to get blood work done in 8 weeks. 
+
+Over the intervening time, I've had about six runs to the bathroom each day, with only about three of those producing a stool (generally eel-shaped, with the occasional bout of constipation changing the shape.) The rest of the time, it's mucus and what I'm going to term ""blood clots"" because they look like clots of blood floating at the top of the water. I've noticed that during these mucus bathroom runs, I have much more gas. Though I will note here that the amount of blood I am seeing in the bowl is much less than it was when I was unmedicated. So I guess the three pills per day did help somewhat. During this period, I also noticed the first instances of pain in my lower abdominal region, but generally only manifesting when I was on the toilet.
+
+I also tried new things in terms of diet to put some effort into figuring out what and what not. My body can tolerate. For example, instead of a bagel every morning I have swapped two oatmeal. Also decaf coffee, or masala chai (tea) made with oat milk.
+
+I explained all this to him via the chat system my provider Network uses, and they called me to say keep your appointment for 2 weeks after the blood work. 
+
+I recently had that appointment, and he stated that my levels are fine. In fact, he stated my Inflammation marker was perfect.  Doc is not sure why specifically I'm having the blood clots, but he did say that gas can sometimes be caused as a byproduct of the methalamine or just the disease itself.
+
+He ordered a flex sigmoidoscopy (which is early next week) to try and figure things out. This is why a week or two ago I asked about enemas, as I've never done them before. 
+
+After he said he was ordering the sigmoidoscopy, He said that depending on those results my treatment would "" move to the next level.""
+
+So that's where I'm at. I do like my doctor, and he does let me ask as many questions as I need and answers them as he reasonably can.
+
+On a personal note, the sigmoidoscopy is $1,000 more expensive than the initial colonoscopy last year. And that is with insurance, who I remind also operates the hospital and medical center this doctor is located in. Supposedly my insurance covered $7,000 this time. I'm sure the anesthesiologist will be a separate bill.
+
+I'll know what the results of my sigmoidoscopy are next week, and I guess we'll see what the next chapter is for me.
+
+To those who said I should look into a new doctor last time, I reiterate that I will try. Unfortunately, this current gastrointestinal office is the only one also run by the provider Network I have insurance through. If I really need to, I hope I can find one. 
+
+Until then, the only other help I have is changing to my fiance's insurance when we get married in September. 
+
+I don't know 100% how to feel about all of this. I just wanted to write down everything and ask fellow sufferers of this disease thoughts and support. On one hand, I'm happy that the dog is pushing forward with trying to get more data and a clear picture. On the other hand, annoyed with the slow uptick in different symptoms And everything to do with the insurance. 
+
+My fiance has been very supportive, but I don't want to burden her more than I need to. 
+
+Also, I need to get one last thing out in the open air, metaphorically speaking. I am deathly afraid of this disease progressing to the point where I need a colostomy bag. My fiance and I met fencing. I am one of the safety officers from our local fencing group. It has brought me so much joy since I got into it and I don't want to lose it to a disease that I cannot even pinpoint specifically what I did to cause. I'm sure that's far off based on my symptoms, but as I said it terrifies me. 
+
+Lastly, I wanted to say thank you. Thank you to this amazing community for being supportive and giving me advice when I have asked for it. 
+
+I appreciate you all.",2,1772960723.0,UlcerativeColitis,2,1.0,False
+1ro05ht,https://www.reddit.com/r/UkFriends/comments/1ro05ht/my_desire_to_spontaneously_sing_the_lion_sleeps/,My desire to spontaneously sing 'The Lion Sleeps Tonight' is just a whim away..,"I make no apologies for being who i am, the older i get, i seem to care less about what people think or say these days. I'm more comfortable in my skin than ever before and i know what i like and what i dont like. I'm straight up honest and will say what's on my mind but at the same time, im empathic (sometimes it's a curse, and yes it's contradictory) and wear my heart on my sleeve. I'm prone to over thinking and sometimes worry about the little things in life, because the little things are actually really important.
+
+I love my own company, im a night owl and an early riser, sun lover, im praying for wall to wall sunshine for this summer, people watching, not in a creepy way!, prefer countryside to seaside, coffee over tea, dog person, hot showers, i could easily spend 30 minutes in the shower, but the cost of living says no!. I enjoy watching decent films on Netflix/Prime, love myself a decent physiological/horror film, as much as I enjoy reading, but im one of those weird ones, music isn't my life, yeah, well i did say i was weird!. 
+I'm a considerate man, polite and courteous, always respectful, i even say strange words like ""please"" and ""thank you"", but please don't let that put you off!
+
+I'm 51 years old, a husband and a father, one kid has flown to the nest already, but the other is firmly set on staying put! ",2,1772960703.0,UkFriends,0,1.0,False
+1ro05ga,https://www.reddit.com/r/polls/comments/1ro05ga/are_you_a_tea_or_coffee_drinker/,Are you a tea or coffee drinker?,"
+
+[View Poll](https://www.reddit.com/poll/1ro05ga)",1,1772960698.0,polls,1,1.0,False
+1ro03oh,https://www.reddit.com/r/AeroPress/comments/1ro03oh/first_brew_almost_all_dripped_through/,First brew - almost all dripped through!,"I was following the Americano recipe on my new aeropress clear with some pre ground coffee (Tesco Finest, don’t hate me) and by the time I’d finished stirring the grounds and water, the water had pretty much all poured through the paper filter and cap. It had gone from 4 to between 1 and 2? No leaks around the edge AFAICS.
+
+Obviously I’m doing something wrong. The instructions say to expect a bit of dripping but clearly not this much.
+
+So is it just bad 6am technique or should I get one of the valve caps (Aeropress’s or third party’s)?",2,1772960517.0,AeroPress,11,1.0,False
+1ro035b,https://www.reddit.com/r/delhi/comments/1ro035b/as_a_person_who_spent_most_of_adulthood_outside/,"As a person who spent most of adulthood outside India, trying to understand the social setup and system, obsession with English in tier-1 cities even when two people can speak same language and westernization? Not a criticism just trying to understand the dynamics?","I have grown up in tier-3 city in India, including all my education. I did bachelor's in a university that was also in village or remote area. I turned 21 and left India for my master's and spent 13 years outside India, eventually returning for family reasons. I moved to a tier-1 city in December, and this is the first time I am living in a tier-1 city in India.
+
+In my time outside India, 70% and higher of my batch-mates at university, friends and later at work were from south India. Depending on their comfort, I always started in English but if they were comfortable, we switched to Hindi. That is completely understandable.
+
+One thing that made me curious was extensive use of English and some sort of pseudo westernization. This seems to be more pronounced in people from North India. I have never seen this among my friends from Gujarat or Maharashtra. Like people talking, even to their family members in English. I saw people saying each other ""Yo dawg."" and many other western slangs which I never heard in west. Some people saying we only drink coffee in starbucks, we don't drink tea. The funny part is I see some of these people blasting music at full volume on their phone in public places, which in west would be considered extremely rude.
+
+I have seen something similar in my extended family in Delhi, where even among family members they talk in English.
+
+Not a criticism just trying to understand. I am trying to understand the dynamics of how things work here. As I don't want this Return-to-India to fail, as even though I am here for family reasons. And finding a place in society is essential.
+
+Thanks",2,1772960468.0,delhi,3,0.63,False
+1ro02wm,https://i.redd.it/h6qzadaodsng1.jpeg,Made coffee after a long time.,,1,1772960449.0,IndianFoodPhotos,0,1.0,False
+1ro02m1,https://www.reddit.com/r/PhR4Friends/comments/1ro02m1/26_m4f_lets_walkkkk/,26 [M4F] Lets walkkkk,"Just putting this out there — if you’re in Manila and feel like walking, talking, grabbing a bite, sipping coffee, or sharing a bottle of beer, I’m down. No pressure, no agenda. Just real conversations about life, dreams, struggles, and everything in between.
+
+📍Manila",1,1772960428.0,PhR4Friends,0,1.0,False
+1ro01su,https://www.reddit.com/r/herping/comments/1ro01su/some_advice_on_finding_snakes_in_the_wild/,Some advice on finding snakes in the wild.,"I’ve spent most of my life looking for snakes across the country and figured I would share a few things I’ve learned. In most of the country spring is a phenomenal time to find herps, early in the spring, especially before night time lows are consistently in the mid fourties snakes will be active during the day and under surface objects but are usually restricted to their denning areas. Denning areas are often rocky outcrops on south or west facing hillsides. Snakes will also den in burrows, old house foundations, rotted out tree trunks, old water wells, and whatever else they can find. Generally the farther north you are in the United States the less options snakes will have for denning areas, in the south they may overwinter very very close to the surface, but in Michigan for example they will need to be several feet beneath the ground. 
+
+some snakes like garters and ringnecks will already be pretty active and may have dispersed from their dens but most snakes will be hanging very close to their dens sites in early spring. Once nights are consistently in the fourties snakes will be very active, they will be looking for food, mates, shedding, and just generally spending time on or near the surface. Walking the edges of swamps, driving dirt roads, and flipping sun soaked rocks or artificial cover is an excellent way to find snakes this time of year. When flipping cover objects it is very important to put them back exactly as you found them. Rocks and other objects create a moisture seal, snakes don’t have a continuous supply of fresh water and can loose moisture through their skin, especially smooth scaled species like kingsnakes and milksnakes. It is very hard to find snakes under bone dry rocks and if you fail to replace the rock as it was it will soon be a bone dry rock… the best days for flipping cover objects are when temps are between 50 and 80 degrees, when it gets much warmer or cooler than that snakes usually choose to go deeper under ground. The best rocks will hold moisture but will not be wet underneath. 
+
+Towards the end of spring nocturnal movement will really begin to pick up, flipping cover will still be effective but so will driving backroads. Cruising from around sunset until temps get below 70 is a fantastic way to find a variety of species, especially pit vipers. Cruising is a great low effort way to get out and see some cool herps, grab a coffee, a friend, a headlamp , some snacks, and some music and have a good time! I prefer to cruise paved roads at night as it’s much easier to actually see the snakes, it’s important to find roads without too much traffic and to also be very safe when stoping and getting out on the roadway at night, also watch out for dogs, drunk drivers, and not so friendly land owners. Google earth is a great tool for finding likely roadcruising areas. The absolute best way to find snakes in the late spring and summer is to simply find a creek, pond, swamp, or marshy area and walk the edges with a flashlight. In most of the country there will be some form of nocturnal water loving species that will be common in your area. You will also see turtles, frogs, fish, owls, bugs, and all kinds of neat aquatic wildlife! 
+
+If you are in the desert things will be a little different, there will be less aquatic species and often a less productive spring flipping window. In places where the late summer monsoon makes up most of the rainfall spring will be dryer and a slightly harder time to find reptiles. In these environment hiking canyons preferably with a stream running through them will be a great strategy year round. You can do this day or night, when the days are cooler say 60-80 degrees walking canyons during the day and carefully scanning the ground is often a great way to find rattlesnakes and many colubrid species, the same can be done at night and roadcruising will be another great strategy. Roads that go through grasslands will hold different species than roads that go through rocky or mountainous habitat. Grassland roads can produce very high numbers of snakes in the hour after sunset on the right nights. In the desert rain is everything, if it’s been dry for a while most snakes will simply stay underground. 
+
+That’s all I have for now but I will come back and add to this, if anyone has any questions or their own suggestions I would love to hear them! I’d also like to reiterate the importance of respecting the habitat, the animals themselves, and the laws of your state. Think before you act, if it’s 90 degrees with drough conditions leave the snakes alone, a 20 minute photography session might be all it takes for them to fatally overheat. They loose moisture from musking on you, usually not a big deal but if it hasn’t rained in two months that could be a death sentence for them ✌️ 
+
+",4,1772960347.0,herping,0,1.0,False
+1ro00y6,https://www.reddit.com/r/AITAH/comments/1ro00y6/aitah_for_saying_this/,AITAH FOR SAYING THIS?,"So I 23F and my boyfriend 25M went to my college reunion. For context I was a very shy and nerdy kid in school and I got bullied a lot( promise this is important) my friend Sophie 23F was my only friend in college she helped me get through it. Times when I wanted to give up she hyped me up told me it was all okay. The time I found out my mom died she held me. Lets continue. My boyfriend and I arrived at the reunion and sat down at a table everything was going good until I saw Sophie and the boy who bullied me all throughout college making out. For context he called me slurs and made fun of me for being black. At First I thought I was imagining things I thought maybe I was hallucinating because I had too many drinks but that wasn’t the case since I only had 1 drink. So I blinked trying to make sense out of this but no it was really her. I just ran to the bathroom and started sobbing. My boyfriend later texted me if everything was okay. I responded that I wanted to leave. He said that he was waiting in the car. I put some water on my face and went to the car. Later when we arrived home Sophie texted asking why I wasn’t there. I was honestly baffled. I texted back to meet me at the local  coffee shop at 3pm tomorrow. She didn’t respond but I didn’t care. I blocked her and deleted her contact. The next day I went to our local coffee shop and I saw her there. She tried to hug me but I gently pushed her away. I asked her why she was there with lets call him John. She tried denying it but I said I saw her she broke down sobbing saying I didn’t mean anything and that she didn’t want to hurt me and that she just loved him. I told her she could stay with him and that our friendship was done. She said I was going to regret that I didn’t know why yet but soon I was going to find out. Later I woke up with traitor spray painted across my car. I called the police and they said they couldn’t do anything since there wasn’t prove that she did this. I went inside and checked my insta to see she had told everyone I betrayed her and that I threatened her. I didn’t respond. A week later I heard the doorbell ring and I looked outside to see a letter. In the letter stood that she was pressing charges for theft. She said that I had stolen her family heirloom. And that she wanted to press charges for 20k dollars. I contacted my family’s lawyer and discussed my options he told me that I should keep it private and just wait. So I did exactly that. A day later a man dressed up in a suit told me I had to go to court in 2 days because of the theft charge . I closed the door and went to sleep again
+
+I GOT TIRED I’ll GIVE AN UPDATE LTR advice needed!!!!!!!!!",0,1772960260.0,AITAH,1,0.5,False
+1ro00g4,https://www.theguardian.com/business/2026/mar/08/caffe-nero-coffee-prices-compass-coffee-stores-us,Caffè Nero says growth is ‘steady’ but coffee prices are likely to rise,,1,1772960210.0,theguardian,0,1.0,False
+1ro0089,https://i.redd.it/n7e4wstvcsng1.jpeg,"Weekend, coffee shop and walnut",,4,1772960190.0,WenwanHub,1,1.0,False
+1rnzydu,https://www.reddit.com/r/IntrovertsChat/comments/1rnzydu/35m_ukbritain_looking_for_longterm_genuine/,35M UK/Britain- Looking for long-term genuine friendships and friends to socialise with in person/IRL,"Hello everyone,
+
+ I am 35M, and from Northamptonshire, East Midlands, England. I am looking to make new genuine long-term friends and friendships, and ideally it would be great to meet people to hang out with regularly in person, as well as chat on text/ phone/video call etc.
+
+As a person, I would describe myself as someone who is friendly, sociable, outgoing, and patient, whilst also being a caring and respectful person.
+
+In terms of my interests and hobbies, I enjoy playing sports (I regularly play badminton, squash and table tennis), workout at the gym and do cardio/weights; socialising and going out to pubs, clubs and restaurants, watching movies (my favourite film genre is horror films); listening to music (pop, R&B, rock, indie, classical etc); gaming (I like playing odd games of PlayStation).
+
+I also like visiting museums; and travelling and sightseeing; learning new languages and cultures; cooking; going out for coffees etc; reading history and literature and non-fiction; and playing other games like snooker/pool and bowling etc.
+
+Whilst I am very open and happy to make new friends from international countries and I am open to long distance friendships, it would equally be great to make new friends in the UK or Britain (and preferably in nearby regions to me like London, West Midlands, East Midlands etc) to meet up and hang out with in person also. Ideally looking to make friends in the 25-40 age range (mid-late 20s, 30s and 40s - or similar ages to me).
+
+In any case, if anyone shares the same or similar interests/hobbies to me, and feels like we may get on and would like to build a new friendship together, please feel free to message or DM me anytime. I would be very happy to connect and chat with you. 🙂
+
+\\\\\\\\\\\\\\\*\\\\\\\\\\\\\\\*PLATONIC FRIENDSHIP ONLY, AND ALSO PREFERABLY BASED IN BRITAIN/UK. TO KEEP THINGS RELEVANT, I PLEASE ASK THAT YOU ONLY MESSAGE ME IF YOU ARE GENUINELY SERIOUS ABOUT LOOKING FOR LONG-TERM FRIENDSHIPS, AND HAVE COMMON/SIMILAR INTERESTS. I AM REALLY NOT INTERESTED IN TALKING TO ANYONE WHO PLANS TO GHOST ME AFTER A CONVERSATION. ",1,1772959997.0,IntrovertsChat,1,1.0,False
+1rnzxu9,https://www.reddit.com/r/MakeFriendsUK/comments/1rnzxu9/35m_ukbritain_looking_for_longterm_genuine/,35M UK/Britain- Looking for long-term genuine friendships and friends to socialise with in person/IRL,"Hello everyone,
+
+ I am 35M, and from Northamptonshire, East Midlands, England. I am looking to make new genuine long-term friends and friendships, and ideally it would be great to meet people to hang out with regularly in person, as well as chat on text/ phone/video call etc.
+
+As a person, I would describe myself as someone who is friendly, sociable, outgoing, and patient, whilst also being a caring and respectful person.
+
+In terms of my interests and hobbies, I enjoy playing sports (I regularly play badminton, squash and table tennis), workout at the gym and do cardio/weights; socialising and going out to pubs, clubs and restaurants, watching movies (my favourite film genre is horror films); listening to music (pop, R&B, rock, indie, classical etc); gaming (I like playing odd games of PlayStation).
+
+I also like visiting museums; and travelling and sightseeing; learning new languages and cultures; cooking; going out for coffees etc; reading history and literature and non-fiction; and playing other games like snooker/pool and bowling etc.
+
+Whilst I am very open and happy to make new friends from international countries and I am open to long distance friendships, it would equally be great to make new friends in the UK or Britain (and preferably in nearby regions to me like London, West Midlands, East Midlands etc) to meet up and hang out with in person also. Ideally looking to make friends in the 25-40 age range (mid-late 20s, 30s and 40s - or similar ages to me).
+
+In any case, if anyone shares the same or similar interests/hobbies to me, and feels like we may get on and would like to build a new friendship together, please feel free to message or DM me anytime. I would be very happy to connect and chat with you. 🙂
+
+\\\\\\\\\\\\\\\*\\\\\\\\\\\\\\\*PLATONIC FRIENDSHIP ONLY, AND ALSO PREFERABLY BASED IN BRITAIN/UK. TO KEEP THINGS RELEVANT, I PLEASE ASK THAT YOU ONLY MESSAGE ME IF YOU ARE GENUINELY SERIOUS ABOUT LOOKING FOR LONG-TERM FRIENDSHIPS, AND HAVE COMMON/SIMILAR INTERESTS. I AM REALLY NOT INTERESTED IN TALKING TO ANYONE WHO PLANS TO GHOST ME AFTER A CONVERSATION. ",1,1772959942.0,MakeFriendsUK,0,1.0,False
+1rnzx6y,https://www.reddit.com/r/fallacyhunt_dev/comments/1rnzx6y/claim_choosing_reusable_alternatives_such_as/,"Claim: Choosing reusable alternatives, such as water bottles, shopping bags, and coffee cups, can make a tangible difference in reducing reliance on single-use plastics.",This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/fallacyhunt_dev/comments/1rnzx6y),1,1772959871.0,fallacyhunt_dev,1,1.0,False
+1rnzwpg,https://www.reddit.com/r/Miele/comments/1rnzwpg/cleansteel_surface_rubbing_off/,Cleansteel surface rubbing off,"I recently noticed a fairly small (30mm) imperfection on the Clean Steel surface of my CVA7845 coffee machine. We are super careful on cleaning (micro fibre cloth, water) and have a number of these appliances - the coffee machine is the only one that has exhibited the issue. The other night I did a clean and woke up the next day to a complete mess of the surface (picture attached representative). It isn't the whole surface so patchy and looks awful.
+
+Has anyone else seen this ?
+
+Thanks in advance for any replies..
+
+https://preview.redd.it/nszzt31rbsng1.jpg?width=768&format=pjpg&auto=webp&s=0be1a6aeff6eb37abca85ea68a1b0de080ed9829
+
+",1,1772959821.0,Miele,0,1.0,False
+1rnzwm9,https://i.redd.it/jv8swi3sbsng1.jpeg,Anyone in pheonix marketcity wakad,"Anyone in pheonix rn, I am sitting alone and having coffee would love your company....",2,1772959812.0,Hinjewadi,6,1.0,False
+1rnzwjs,https://www.reddit.com/r/Denver/comments/1rnzwjs/can_anyone_tell_me_what_coffee_shop_this_is_in/,Can anyone tell me what coffee shop this is in this video?,"https://www.instagram.com/reel/DVmUSxmASKD/?igsh=MWRsajE2dnhwMTZkbA==
+
+Just trying to figure out what coffee shop this is in Denver?! ",0,1772959804.0,Denver,1,0.5,False
+1rnzwfh,https://www.reddit.com/r/dadjokes/comments/1rnzwfh/to_whoever_keeps_stealing_my_coffee/,To whoever keeps stealing my coffee:,How do you sleep at night?,11,1772959793.0,dadjokes,2,0.92,False
+1rnzw3o,https://www.reddit.com/r/makati/comments/1rnzw3o/smokerfriendly_coffee_shops_in_makati/,Smoker-friendly Coffee shops in Makati?,"Hi, I work on Ayala Avenue and our building has access to Valero. I'm just asking if you know any coffee shops near the area that allow smoking. Or if you know any designated smoking areas.",0,1772959757.0,makati,2,0.25,False
+1rnzvmy,https://www.reddit.com/gallery/1rnzvmy,Help with walls and a new coffee table.,"Hey all, this is my current dining area and living room. for reference, the windows in the dining area are 28.5"" wide and the table is 60"" x 40"" (pic taken with 0.5x due to lack of room to take pic) while the living room window is 34.5"" and the couch is 80"" on the back. It's a little cluttered after moving some stuff in the house, but I'm having issue about how I can fix the wall issue. I'm thinking about doing some drapes, but I'm concerned about the space between to the two close window. Probably would be in an oatmeal color as I'm not huge on color and plan on adding that in with plants, art, and other decor. Any ideas? I'm new to interior decorating and could use some help. Side note, the table in the center of the couches is going out too, so ideas for tables would be very much appreciated too!",1,1772959708.0,HomeDecorating,0,1.0,False
+1rnzvj7,https://www.reddit.com/r/dharmann/comments/1rnzvj7/why_did_he_make_a_fake_pacman_ripoff/,WHY DID HE MAKE A FAKE PAC-MAN RIPOFF?,"https://preview.redd.it/4w33mdq4bsng1.png?width=1031&format=png&auto=webp&s=333816fc550289591cef2293d3c6f3f070fe312b
+
+THE ARCADE OF PAC-MAN IS NOT GONNA GET YOU SUED, YOU EVEN NAME-DROPPED IT IN THE SAME VIDEO.
+
+WHY IS HE SO CONTRADICTORY LAZY, HE DIDN'T EVEN HAVE THE BALLS TO PROMOTE A KNOCK OFF LIKE COFFEE MAN ON NEWGROUNDS FROM 24 YEARS AGO-
+
+SO WHYYYYY?
+
+god I haven't seen something so uneccessarily stupid since dhar mann's last video.",3,1772959697.0,dharmann,2,0.81,False
+1rnzv1q,https://i.redd.it/vri8lqgabsng1.jpeg,Women’s Day Special at Cafe Coffee Day & Swiggy Dineout!,"Women’s Day Special at Cafe Coffee Day & Swiggy Dineout!
+
+Ladies, celebrate with a treat! 💃
+
+Get delicious Frappes for just ₹8 at your nearest Cafe Coffee Day outlet.
+
+📅 Only on 8th March
+💳 Pay using Swiggy Dineout
+
+Offer valid exclusively for women.
+Check availability at your nearest CCD location.",3,1772959646.0,dealsOffersFreebies,1,1.0,False
+1rnzugx,https://www.theguardian.com/business/2026/mar/08/caffe-nero-coffee-prices-compass-coffee-stores-us,Caffè Nero says growth is ‘steady’ but coffee prices are likely to rise,,1,1772959586.0,TheColorIsBlue,0,1.0,False
+1rnzu45,https://www.reddit.com/r/indiranagar/comments/1rnzu45/why_does_real_connection_feel_rare/,Why does real connection feel rare?,"Places like Indiranagar are full of people constantly meeting — coffee plans, networking events, meet-ups, parties, quick conversations.
+
+Yet somehow, real connection still feels rare.
+
+Lately I’ve been noticing the gap between meeting people… and actually feeling like you’ve met someone.
+
+It made me wonder how many people here still enjoy conversations that go beyond the usual scripts.
+
+Not networking. Not dating apps. Not small talk.
+
+Just thoughtful, slightly unpredictable conversations where you leave feeling like your mind woke up a little.
+
+Maybe I’m just someone who values that kind of interaction more than most.
+
+If spaces like that exist around Indiranagar, I’d like to know where people are finding them.",1,1772959550.0,indiranagar,0,0.6,False
+1rnzs9h,https://www.reddit.com/r/pourover/comments/1rnzs9h/coffee_experience_holidays/,Coffee Experience Holidays,"I’m looking at planning a holiday next year to a coffee growing country, but not fixed in a particular location. Has anyone had a really good coffee experience abroad (I live in the UK)? 
+
+Ideally, it would be tour/experience showcasing the whole process of bean to cup, including being involved in activities on the coffee plantation.",1,1772959360.0,pourover,0,1.0,False
+1rnzry0,https://www.reddit.com/r/u_Fit-Interview-3886/comments/1rnzry0/best_whole_house_water_filter/,Best Whole House Water Filter,"If you’ve ever turned on your tap and thought “why does my water smell like a public swimming pool,” you’re not alone. That was basically my situation and it finally pushed me down the whole house filter rabbit hole.
+
+I spent way too many nights reading forums and comparing systems and eventually landed on the **iSpring WGB21B**.
+
+[https://www.amazon.com/dp/B01F9A4UVU](https://water.listbuff.com/iSpring-WGB21B)
+
+What sold me on it was how simple it is. It’s just a two stage system.
+
+The first filter catches all the junk like sand, rust, and mystery particles that somehow end up in pipes.
+
+The second one is the carbon filter that deals with chlorine taste and that weird chemical smell. After installing it *my water stopped tasting like it came out of a hotel ice machine* that hasn’t been cleaned since 2007.
+
+Another thing I was worried about was water pressure because nobody wants to take a sad weak shower after installing a fancy filter.
+
+Luckily this one hasn’t caused any issues there. 
+
+I can still run the shower and sink at the same time without feeling like I’m camping in the woods with a trickle of water.
+
+*Also the replacement filters are not ridiculous.*
+
+Some systems look cheap until you realize the cartridges cost more than your monthly coffee habit. The filters for this one are pretty reasonable so the yearly cost doesn’t make you regret the purchase.
+
+One thing I learned after installing it is to put a cheap sediment pre filter before the system if your water is dirty.
+
+It catches the bigger junk first and makes the main filters last longer. 
+
+Think of it like giving your expensive filter a bodyguard.
+
+Anyway that’s been my setup for a while now and it has been solid. No weird taste, no chlorine smell, and I don’t feel like I’m brushing my teeth with pool water anymore.
+
+For a whole house system the WGB21B ended up being the most normal and practical option I found.
+
+[https://www.amazon.com/dp/B01F9A4UVU](https://water.listbuff.com/iSpring-WGB21B)",5,1772959328.0,u_Fit-Interview-3886,0,0.86,False
+1rnzrxu,https://www.reddit.com/r/morbi/comments/1rnzrxu/anyone_hanging_out_in_morbi_this_evening_or/,ANYONE HANGING OUT IN MORBI THIS EVENING OR TOMORROW? Looking for new people and coffee,,3,1772959327.0,morbi,1,1.0,False
+1rnzrig,https://i.redd.it/zul5dsf4asng1.jpeg,Commence Coffee Ride Season,,1,1772959286.0,ElectricBicyclesONLY,0,1.0,False
+1rnzr6l,https://i.redd.it/zul5dsf4asng1.jpeg,Commence Coffee Ride Season,"Happy that the winter is giving up, can ride longer distance for a cup of coffee with a view without feeling massively masochistic. Ebikes enable.
+",3,1772959253.0,ebikes,2,1.0,False
+1rnzr2g,https://www.reddit.com/r/dating_advice/comments/1rnzr2g/how_do_i_get_into_a_genuine_relationshipgo_on/,How do I get into a genuine relationship/go on dates and meet someone naturally nowadays?,"I've been (happily) single for a while with a few talking stages, but recently everyone around me has been getting into or already in relationships and I can't feel like I'm being left behind. It's not even about ""finding the one"", I just want to go on dates, talk to men that actually want to get to know me without just being lusted over. I have tried the apps but I never end up wanting to actually go meet someone and I don't get approached to go out on dates. So if anyone has any tips on how to date now or how to put myself out there please give me your honest suggestions.
+
+  
+P.S: I do go out often with my girls; Friday nights to a bar, or going on coffees dates or the park etc so please give better suggestions than ""go out more"". It's not that I'm not out, but men aren't magically appearing to take me out *when I am out* and I am nervous to make the first move without any initial signs of interest.",1,1772959241.0,dating_advice,12,1.0,False
+1rnzqy4,https://i.redd.it/v03j3hv1asng1.jpeg,The meeting ((private RP)),"\[The Tv race has requested a meeting with the Enclave, seeing the group as a possible ally due to their civilised and scientific nature. When radio contact would be established, the highly confidential coordinates of the Tv base would be given to Enclave high command or whoever handles transmissions\]
+
+\[Takuma Hikashita would be calmly waiting in the main “lounge” of the Tv’s, holding a coffee mug. Not like he could drink, but it’s a sort of muscle memory from his time as a human.\]
+
+“We better not fuck up this opportunity…”
+
+u/CertainCarpaccioGuP",4,1772959229.0,InterDimensionalRP,10,1.0,False
+1rnzqqv,https://www.reddit.com/r/MakeNewFriendsHere/comments/1rnzqqv/30m_tatted_insomniac_nerdy_book_reading_elder_emo/,"30M - tatted, insomniac, nerdy, book reading elder emo","Sup! Drank too much coffee and cannot sleep. I’m getting pretty bad at making friends these days. So trying to work on that. About me: I read a lot, have 15 tattoos, two piercings and wear all black clothing (not a phase). I enjoy horror and metal music, collecting indoor plants and roast coffee for a living. Love cycling and rock climbing. Bad at small talk. If any of that clicks or sounds interesting I hope to hear from ya! ",1,1772959210.0,MakeNewFriendsHere,1,1.0,False
+1rnzqq7,https://www.reddit.com/r/AskMarketing/comments/1rnzqq7/whats_the_best_way_to_tell_a_client_their_new/,what's the best way to tell a client their new logo looks like a penis,"we're a small agency and one of our clients just went through a rebrand. they hired an external designer for the logo which is fine whatever. the designer delivered the final logo last week and the client is in love with it (they're obsessed) the CEO called it ""the future of our brand."" so it's going on business cards, the website, merchandise, a massive vinyl sign for their office lobby and print deadline is friday.
+
+the problem is it looks like a penis. it's subtle and my art director saw it and said ""is this a joke"" before anyone said anything. our project manager choked on her coffee. i showed it to my wife with zero context and she said ""why did someone send you a dick"" and i said ""that's a logo for a financial consulting firm"" and she couldn't stop laughing for 5 minutes.
+
+we've had 3 internal meetings about how to bring this up. we've tried rotating it, changing the color, adjusting the spacing. it still looks like a penis or maybe even more so now. one of our designers said ""you can't uncock this"" and i think about that sentence every day.
+
+their team has seen this logo probably a hundred times and nobody has flagged it which means either nobody sees it or everybody sees it and nobody wants to be the person who says ""hey that looks like a penis"" to the CEO.
+
+that's now my job apparently.... print is friday. how do i do this without losing the account?",1,1772959208.0,AskMarketing,5,1.0,False
+1rnzqgh,https://www.reddit.com/r/BooksAndFilms/comments/1rnzqgh/suggest_a_book_before_the_coffee_gets_cold_is/,"[Suggest a Book] ""Before the coffee gets cold"" is only lukewarm",,1,1772959181.0,BooksAndFilms,1,1.0,False
+1rnzq88,https://i.redd.it/1wphsm8u9sng1.jpeg,Fixed my Medium Roast brew,"Tried  Blue Tokai India's medium roast Silver Oak blend using Hoffman's regular cup aeropress method and did not like it at all. Coffee lacked body, was too sour like sour grapes and the bitterness was just weird.
+
+Then modified using Oleg Herb's method (thanks to u/Liven413) & Hoffman's aeropresso method.
+
+Method: Inverted 15 gm medium roast BT silver oak blend 
+
+Grind size: Coarsest aeropress recommended size or 16 clicks in Timemore c2
+
+Start inverted, add coffee and 40 gms of 85 deg celcius water and stir 5 times. Do this thrice till you reach roughly 110 gms of water. Invert and gently press till the hiss.
+
+In the serving cup, I kept 20gm water at roughly 50 degrees for bypass. Pour coffee into this cup and enjoy.
+
+Now my coffee was way less sour and the bitterness was thoroughly enjoyable and coffee had a pleasant mouthfeel.
+",3,1772959159.0,AeroPress,1,1.0,False
+1rnzpz7,https://www.reddit.com/r/tbilisi/comments/1rnzpz7/looking_to_make_friends_in_tbilisi/,Looking to make friends in Tbilisi,"Heyyy everyone!! :)) i’m from the UK and looking to make friends with people in Tbilisi, idm if it’s locals or tourists. But i’d prefer to meet locals, girls only please! (Sorry men, I don’t want guy friends) I’m 23 and a girl so I feel comfortable to meet women only, I’m down for anything, coffee, lunch, walking around, exploring the ancient city 😊😊",3,1772959133.0,tbilisi,0,0.67,False
+1rnzpjf,https://www.reddit.com/r/makati/comments/1rnzpjf/wtg/,WTG,"Hi! 23F here. As an introvert human being na wala din namang choice na magkaroon ng kasama, saan ba pwede tumambay tonight after mass sana, chill tambay lang, coffee, sip, then leave (boring) hahahaha gusto ko lang magtambay kahit an hour lang tas pahangin tas uwi na din. Buong weekend kasi ako nakahiga, grabeee. Thank youuuuuu",0,1772959090.0,makati,6,0.5,False
+1rnzoq3,https://www.reddit.com/r/MakeNewFriendsHere/comments/1rnzoq3/f21_i_swear_im_just_looking_for_some_chill_people/,f21 I swear I'm just looking for some chill people to chat about true crime and share memes with,"My perfect day includes exploring a quirky museum full of odd exhibits, then sitting down to fold origami birds while the sun streams in. I would love to meet someone who sends random memes that make me laugh throughout the day. Volunteering is super important to me too! Maybe we can brainstorm ideas for local projects together or share silly jokes over coffee. If you’re into laughter and art, let’s connect!",0,1772959006.0,MakeNewFriendsHere,2,0.25,False
+1rnzol7,https://www.theguardian.com/business/2026/mar/08/caffe-nero-coffee-prices-compass-coffee-stores-us,Caffè Nero says growth is ‘steady’ but coffee prices are likely to rise,,1,1772958992.0,NewsOfTheUK,0,1.0,False
+1rnzo4e,https://i.redd.it/4fz0ka879sng1.png,Start your day with a coffee,,4,1772958944.0,badmemes,0,0.75,False
+1rnzo37,https://www.reddit.com/r/lebanon/comments/1rnzo37/spinneys/,Spinneys,"Spinneys are gauging prices because gullible customers were brainwashed by I don't know who to think that everything got more expensive but it's a lie
+Soluble coffee najar at la valeur is 5.18$ 
+In spinneys they have the balls to put a "" discount"" tag ( they have the habit to do that ) and priced it at 6.75 instead of 8, a 3$ difference for a same product in Lebanon is crazy. Usually theirs like a 0.20$ on average difference. Spinneys are crooks",10,1772958941.0,lebanon,9,1.0,False
+1rnzndn,https://www.reddit.com/r/Market76/comments/1rnzndn/h_see_description_w_leaders/,H: See description W: Leaders,"Elders mark x4 - 10 Leaders each
+
+Holy Fires x16 - 3 Leaders each
+
+Enclave true flamer barrel x2 - 25 Leaders each
+
+Enclave aligned flamer barrel - 20 Leaders
+
+Assorted legendary mods - Too many to list, just ask ( No limit breakers, reflective, rangers or conductors ) 1 Leader per star, 4\* for 5
+
+Glowing masks - Blue devil, Buffoon, Honey bee, Scorchbeast x2 (make an offer)
+
+Operative Underarmor style - 20 Leaders ( +4 Agility +2 Intelligence +4 Perception)
+
+100 Coffee - 5 Leaders ",1,1772958865.0,Market76,11,1.0,False
+1rnzn5f,https://www.reddit.com/r/originalloquat/comments/1rnzn5f/cuck_novella_part_1_of_14/,Cuck (Novella) (Part 1 of 14),"*Synopsis:*
+
+*Set in Chiang Mai, Thailand, an English Pilates instructor bends clients into dramatic shapes by day and, at night, drinks himself into oblivion. He meets Alice, a Korean housewife living in a palatial house with a husband who is never there.* 
+
+*Civilisation is a clearing in the jungle, and their meetings are brief respites of sanity, but relentless reality continues to consume all* 
+
+**Part 1** 
+
+*We're all whores, one way or another.* 
+
+A hooker on Loi Kroh said that to me once.  
+
+All of us. The food delivery drivers – their jackets emblazoned with a Pink Panda, designed in a sterile, air-conditioned office in Singapore. 
+
+The waitress with tan skin and blue contact lenses at your favorite coffee shop. The Songthaew driver with no teeth, or the customers in the hole-in-the-wall bar drinking a bottle of homemade rice whiskey. 
+
+The construction workers on bamboo ladders and no safety equipment. The fishermen at the Ping River pulling two-headed fish out of the brown water. The shaven-headed teenage monks sweeping the leaves underneath a dying banyan tree. 
+
+The underpaid nurse at a government hospital performing CPR on a vaccine skeptic whose lungs are full of mucus. A vaccine skeptic taken in by a silver-tongued YouTuber with a talent for self-promotion. 
+
+A security guard dressed up as a parody of a policeman, guarding motorbikes outside a 7/11. The homeless Burmese migrants swimming in the moat around the old city offered a dollar to keep the fountains clear of plastic bags. 
+
+And me. I was a whore as well, working in Thailand as a personal trainer for the rich and powerful of the city. 
+
+It isn't difficult to establish a reputation in Thailand. 
+
+In Europe, there is all this debate about whether white privilege exists. In Asia, white privilege is as obvious as the Roman nose on your face. 
+
+To get clients, you just needed not to be a fuck up. I took care of myself, at least on the surface. I'd go to some street food place and eat a 900-calorie pad thai and then throw it all up. I'd get drunk most nights but then go for a 10-mile run the next morning and feel my stomach eating itself. 
+
+A gym, first and foremost, sells bodies. You will sit through management seminars about nutrition and the positive effects of exercise on mental health, but those are smokescreens designed to appease lunatics on Twitter. People come to the gym because they want to be fuckable, and you have no hope of being a personal trainer if you aren't fuckable. 
+
+Chiang Mai is an international city, or at least areas of it are. Over the last 20 years, money rolled in from East Asian investors. Koreans and Chinese began to expel hippies drawn by the siren call of opium in the mountains. 
+
+Nimmanhaemin was stuffed with foreign boutique hotels and boutique coffee shops, and boutique fucking boutiques. 
+
+All that money could not be trusted to a Thai person, so often, a partner drew the short straw and came to oversee things with their families. 
+
+Those were our customers. The wives of husbands who'd been transferred to Chiang Mai to take care of businesses... Women whose concern was to maintain a hardbody for a husband they only saw on Sundays. 
+
+I had a steady stream of clients by the time I was six months into the job. The person I saw most regularly was a Korean woman called Alice. 
+
+There is a kind of line you cross with a client, and it's almost always invisible unless you think back really hard. One moment, they're just another face, and you're wearing just another mask, and the only thing you remember about them is their body fat percentage, and then something just sticks. 
+
+Alice was cooling down on the elliptical, looking into the mirror. 'I finally spoke to my mother.' 
+
+'You did? And she apologized for that day outside in the park?' 
+
+I see now that was it. That was where the virus crossed the blood-brain barrier. 
+
+Alice was good to look at. She was 40, but women in Korea aged differently. 
+
+'Of course, she hasn't. You know, people like that, they don't apologise. You could not be weak with my father around.' 
+
+It happens with some clients. They need a shoulder to cry on, to sweat on, and then cry some more.
+
+And who knows why we offer it? Perhaps it's out of proximity or time, or perhaps it's because we're mutilated ourselves. 
+
+She looked away from me and back at herself in the gym mirror. 'I have been having some problems,' she continued. 'Pain in my lower back.' 
+
+'When you rotate or bend down?' 
+
+'Both.' 
+
+'Could be the flexor, or the oblique.' 
+
+'Do you know anybody who can do a sports massage?' 
+
+'I know a woman,' I replied, 'on Suthep Road.' 
+
+'I feel like a lot of women are not strong enough to get to the problem.' 
+
+She picked up the towel and wiped the fine mist of sweat from her swan-like neck. 
+
+'I have some exercises you can do at home. Something light.' 
+
+She draped the towel over the front of the elliptical, and I handed her the water flask. 
+
+'My mother,' she continued, speaking between revolutions of the machine, 'her childhood was during the war, when things were out of control, her whole life is about getting it back, church on Sunday, lunch at 12, dinner at 5, bed at 10. Lights out. She would do very well in the North Korean army.' 
+
+I smiled, and she glanced at me. She let her legs pump and readjusted her Nike sports bra. Her bobbed black hair was tied up in a top knot. 
+
+'Let's finish,' I said. 
+
+She stopped pumping at the machine, and I picked up her towel and water bottle and led her over to the mats. 
+
+She lay flat on her back, looking up at the ceiling, and put her legs over my shoulders. 
+
+I twisted her first to the left and then to the right, working her hamstrings and lateral quads. 
+
+She grimaced and then exhaled when I found the spot. 
+
+You'd think being around fit young bodies would stir you up, but at work, I was like a surgeon presented with a zipped-up body that was a tangle of pulleys and levers. 
+
+I wasn't a pervert, that was for sure, but if a pervert is defined by his lack of control over his sexual urges, I'd slid too far to the other side, where I barely experienced them at all. 
+
+'All the way back,' I said. 
+
+I pushed forward until she was almost bent double under me. 
+
+'There.' She exhaled. 'That's where it is.' 
+
+I manipulated her into a few more positions until the time was up. 
+
+'Great job. You really got after it,' I said.
+
+(There was a small staff handbook detailing all the phrases you were meant to use with clients. It never sounded quite right coming from a Brit).",3,1772958842.0,originalloquat,1,1.0,False
+1rnzmhz,https://www.reddit.com/r/productreviewforum/comments/1rnzmhz/neuroprime_xt_reviews_should_you_try_it/,Neuroprime Xt Reviews​: Should You Try It?,"**NeuroPrime is a top-rated cognitive enhancement supplement,** widely praised for its ability to boost mental clarity and sustained energy.
+
+⭐ 4.9/5 Stars from Thousands of Satisfied Users
+
+NeuroPrime features an advanced, science-backed formula that naturally enhances energy levels while promoting optimal brain function. Users consistently report sharper focus, better memory, and increased stamina often noticing results within just a few weeks of regular use.
+
+[Neuroprime Xt Reviews](https://preview.redd.it/awz0ir1f7sng1.jpg?width=1080&format=pjpg&auto=webp&s=1df584e83468e0a30f895742e27a4b908940808b)
+
+# What is NeuroPrime?
+
+NeuroPrime is a cognitive enhancement supplement designed to support mental clarity, focus, and memory.
+
+Marketed as a nootropic blend, NeuroPrime is said to tap into both modern neuroscience and ancient botanical wisdom to deliver daily cognitive support.
+
+This product is promoted as a natural brain booster that enhances mental performance, aids concentration, and helps reduce brain fog.
+
+According to its developers, NeuroPrime works by targeting **critical brain functions such as neural communication, neurotransmitter balance, and mental energy regulation.**
+
+It is also suggested to assist in improving brain resilience against stress and age-related cognitive decline.
+
+NeuroPrime is aimed at adults seeking an all-natural method to stay mentally sharp and focused throughout the day, whether for work, study, or general mental well-being.
+
+.
+
+[**✅NeuroPrime Official Website>>**](https://a79dcgqaq33y9zc7iesbxfkgpm.hop.clickbank.net)
+
+**.**
+
+# How Does NeuroPrime Work?
+
+**NeuroPrime** is designed to support brain performance by optimizing how the brain communicates and processes information.
+
+Its mechanism of action begins with **enhancing neurotransmitter activity,** which is essential for fast, clear signal transmission between brain cells.
+
+This leads to improved focus, memory recall, and mental clarity[.](https://www.nuvectramedical.com/memoshield-reviews/) A unique claim made about NeuroPrime is its ability to detoxify the pineal gland, a small but significant part of the brain linked with melatonin production.
+
+By supporting this gland’s function, the supplement may help regulate sleep cycles and improve the brain’s ability to reset and repair, leading to better overall mental function. ,
+
+NeuroPrime is said to incorporate adaptogens and other botanicals that help manage stress, reduce cognitive fatigue, and enhance mental energy without relying on caffeine or artificial stimulants.
+
+# NeuroPrime Ingredients
+
+The ingredients in NeuroPrime have been carefully selected to offer maximum brain-boosting benefits.
+
+**Moringa**
+
+* Moringa[ ](https://www.healthline.com/nutrition/6-benefits-of-moringa-oleifera)supports cognitive enhancement by promoting antioxidant activity, reducing brain inflammation, and improving mental clarity, memory retention, and focus through essential vitamins and neuroprotective compounds.
+
+**Pine Bark Extract**
+
+* Pine Bark Extract boosts cognitive function by enhancing blood flow to the brain, reducing oxidative stress, and supporting memory, focus, and mental clarity naturally.
+
+**Ginkgo Biloba**
+
+* Ginkgo Biloba enhances memory and focus by increasing cerebral blood flow, reducing inflammation, and protecting brain cells from oxidative damage, improving overall mental performance.
+
+**Tamarind**
+
+* Tamarind aids brain function by supporting antioxidant defenses, reducing neuroinflammation, and enhancing focus, memory, and mental clarity through its rich polyphenol and mineral content.
+
+**Lion’s Mane Mushroom**
+
+* Lion’s Mane[ ](https://www.webmd.com/diet/what-are-the-health-benefits-of-lions-mane-mushrooms)promotes cognitive enhancement by stimulating nerve growth factor (NGF), supporting memory, mental clarity, and focus while protecting brain cells from age-related decline.
+
+**Chlorella**
+
+* Chlorella supports brain health by detoxifying heavy metals, supplying essential nutrients, and improving mental clarity, memory, and focus through antioxidant and anti-inflammatory activity.
+
+**Spirulina**
+
+* Spirulina[ ](https://en.wikipedia.org/wiki/Spirulina_(dietary_supplement))enhances cognitive function by reducing brain inflammation, boosting antioxidant defenses, and supporting memory, focus, and mental clarity with its rich nutrient and protein profile.
+
+**Neem**
+
+* Neem promotes cognitive health by reducing oxidative stress, protecting neurons, and supporting clearer thinking, improved focus, and better memory through its natural neuroprotective compounds.
+
+# Benefits 
+
+**NeuroPrime helps support and improve memory function,** making it easier to recall information and maintain mental sharpness throughout the day.
+
+**It promotes mental clarity and focus,** helping users stay attentive and productive during tasks that require concentration and cognitive effort.
+
+**This formula may enhance learning ability b**y supporting brain processes involved in retaining and understanding new information efficiently.
+
+**NeuroPrime provides natural energy support** without harsh stimulants, helping reduce fatigue and improve overall mental and physical stamina.
+
+**It can help improve mood by reducing anxiety** and promoting a sense of calm and well-being, contributing to better emotional health.
+
+**This formula supports overall cognitive health**[ ](https://www.nuvectramedical.com/youthful-brain-reviews/)by nourishing brain cells and protecting against age-related decline in brain function.
+
+# Pros 
+
+* Scientifically researched nootropic formula
+* Made with high-quality, natural components
+* Non-habit forming and safe for long-term use
+* Suitable for students, professionals, and older adults
+* Supports both short-term and long-term brain health
+* Positive feedback from thousands of users
+* Manufactured in GMP-certified facilities 
+
+# Cons 
+
+* Only available online through official channels
+* Results may vary based on individual brain chemistry
+* Requires consistent daily use for optimal benefits
+
+# How To Use ?
+
+We recommend you take one drop per day, preferably in the morning.
+
+You can take each drop directly or take it with your tea, coffee, juice or any other beverage you enjoy. Just make sure to shake the bottle well first, so the ingredients can combine into an extra potent mix!.
+
+# NeuroPrime Customer Reviews And Complaints
+
+NeuroPrime has an average **rating of 4.95 out of 5 from 2000+ customer reviews** based on the NeuroPrime reviews we saw.
+
+**John M. – ⭐⭐⭐⭐⭐**
+
+“I started taking NeuroPrime a month ago, and I’ve noticed a huge improvement in my focus and mental clarity. My energy levels are up, and I feel sharper throughout the day. Highly recommend!”
+
+**Sarah L. – ⭐⭐⭐⭐☆**
+
+“NeuroPrime has helped me stay more alert during work and reduced my brain fog. I wish the effects kicked in a bit faster, but overall it’s a solid product.”
+
+**David K. – ⭐⭐⭐⭐⭐**
+
+“This supplement really lives up to the hype! My memory and concentration have improved significantly. I feel more motivated and less fatigued. Definitely a game-changer.”
+
+**Michael T. – ⭐⭐⭐⭐⭐**
+
+“Excellent product! My mental performance at work and workouts has improved noticeably. The focus boost is natural and sustained without jitters. I’m very satisfied.”
+
+**Common Complaints**
+
+**Daily Commitment Needed:** To achieve the best results, NeuroPrime should be taken regularly every day, which could be a factor for some users to consider.
+
+**Exclusive Purchase:** NeuroPrime is only sold through its official website, which may be less convenient for certain customers.
+
+# How We Researched and Rated NeuroPrime
+
+⭐ **Extensive Ingredient Analysis:** We thoroughly examined each ingredient for scientific backing, dosage, and safety to ensure NeuroPrime’s formula is both effective and safe. 
+
+⭐ **Clinical Evidence Review:** We reviewed clinical studies and research supporting the benefits claimed by NeuroPrime. 
+
+⭐ **User Feedback Evaluation:** We analyzed thousands of verified customer reviews to understand real-world results and satisfaction levels. 
+
+⭐ **Expert Opinions:** Input from nutritionists and healthcare professionals was considered to assess the product’s credibility. 
+
+⭐ **Comparative Market Analysis:** NeuroPrime was compared against similar brain health supplements for value, effectiveness, and unique features. 
+
+⭐ **Safety & Quality Checks:** Verified manufacturing standards and transparency in sourcing to confirm product reliability. 
+
+⭐ **Price & Accessibility:** We evaluated affordability, availability, and purchasing options including official website policies. 
+
+**Overall Rating: ⭐⭐⭐⭐☆ (4.5/5)**
+
+NeuroPrime stands out as a well-formulated brain health supplement with strong ingredient profiles and positive user feedback. While it’s highly effective for many, a small number of users noted the need for consistent use to see benefits.
+
+# NeuroPrime – Is It a Scam or Legit?
+
+**No, NeuroPrime is not a scam.**
+
+It is manufactured by a reputable company and has a growing base of satisfied customers who report real cognitive benefits.
+
+The product is backed by research on its key **nootropic ingredients and complies with quality manufacturing standards.**
+
+While individual results vary, the majority of users experience noticeable improvements in memory, focus, and mental clarity after consistent use.
+
+# Where to Buy?
+
+NeuroPrime is exclusively available through its official website to ensure authenticity and quality control.
+
+Purchasing directly from the manufacturer guarantees you receive genuine products, secure payment options, and access to special bundle discounts.
+
+Avoid buying from unauthorized sellers or third-party websites, as these may offer counterfeit or expired products.
+
+.
+
+[**✅NeuroPrime Official Website>>**](https://a79dcgqaq33y9zc7iesbxfkgpm.hop.clickbank.net)
+
+**.**
+
+# Conclusion
+
+As an expert I can confidently recommend NeuroPrime for anyone seeking a natural yet effective mental edge.
+
+This supplement stands out not just for its impressive blend of ingredients like Moringa, Ginkgo Biloba, and Lion’s Mane but for its thoughtful formulation rooted in both traditional botanical wisdom and modern neuroscience.
+
+Instead, it works by supporting neurotransmitter activity, detoxifying the pineal gland, and enhancing brain resilience offering sustained clarity, focus, and energy throughout the day.
+
+What’s more, its 100% natural, non-GMO formula is safe for long-term use and suitable for adults of all ages.
+
+If you’re looking for a clean, dependable way to elevate your focus, memory, and mental stamina, NeuroPrime is absolutely worth trying.
+
+.
+
+# Frequently Asked Questions
+
+**How long before I see results?**
+
+Most users begin to experience noticeable improvements in their cognitive function and focus within 2 to 4 weeks of taking NeuroPrime consistently every day.
+
+**Can I take NeuroPrime with other supplements?**
+
+NeuroPrime can be taken alongside other supplements, but it’s important to consult your healthcare provider first, especially if you’re currently on medication or other treatments.
+
+**Are there any side effects?**
+
+NeuroPrime is made with natural, clinically researched components and is generally safe for most users. It is well-tolerated, with **no known side effects reported so far.**
+
+**Is NeuroPrime safe for long-term use?**
+
+NeuroPrime’s natural formula is created to be safe for long-term, consistent use, allowing users to maintain cognitive benefits without concerns about adverse effects over time.
+
+**Is NeuroPrime worth it?**
+
+**Yes, NeuroPrime is definitely worth trying.** It offers powerful support for brain health, cognitive function, and mental clarity by using safe, natural, and scientifically backed ingredients.
+
+.
+
+.
+
+.
+
+.
+
+**Disclosure:** *The link to the official website is provided so that a user can visit the official website and get more information about the product whether the product is legit or not. and This post contains affiliate links. If you click one and make a purchase, I may earn a small commission. you don't have to pay a single extra penny; it's the same as the product price. This  commission is paid to me by the product owner. I only recommend products I trust and use myself.*",1,1772958778.0,productreviewforum,0,1.0,False
+1rnzmdn,https://i.redd.it/exailuhyknmg1.png,the beef between Luke and the coffee machine is the best gag in his run,,1,1772958766.0,u_HeroicComics_ttv,0,1.0,False
+1rnzmdf,https://www.reddit.com/r/casualgensan/comments/1rnzmdf/bean_corner_experience/,Bean Corner Experience,If was my first time to try sa ilang coffee shop. Excited to try basig nay something new sa ilang coffee shop. I entered the shop was so impressed  cozy and comfy ang vibe but that expectation was ruined. Upon looking at the menu I accidentally asked two guys  sa ilang counter kay naka tindog  lang sila  about sa best selling coffee. Wala sila nitubag so I say “ay sorry” asa mu order sir” ila ko gtudlo sa pikas side and nikatawa..nainsulto ko gamay as a first timer sa ilang coffeeshop unta di na masundan. ,3,1772958766.0,casualgensan,5,0.8,False
+1rnzm92,https://www.reddit.com/r/stopsmoking/comments/1rnzm92/1_week_smoke_free_feeling_hungry_all_the_time/,"1 week smoke free, feeling hungry all the time","I'm managing withdrawals but I can't stop snacking all the time. I'm finally able to replace nicotine with coffee, but I can't drink coffee everytime I crave a cigarette...it's driving me mad. Any suggestions?",2,1772958754.0,stopsmoking,5,1.0,False
+1rnzkjb,https://www.reddit.com/r/offmychest/comments/1rnzkjb/my_m36_cousinsisterfigure_f46_is_replacing_me/,"My (M/36) cousin/sister-figure (F/46) is replacing me with our other cousin, and I'm heartbroken and considering going no contact.","I'm feeling really lost and hurt and need some outside perspective.
+
+I have this cousin (let's call her A). We grew up together and have been incredibly close for as long as I can remember. We're not just cousins; we're like sisters. For years, we'd see each other every single week, have coffee dates, and our bond was unshakeable.
+
+The Situation:
+In the last few years, another cousin of ours (let's call her B) has moved closer and become part of our dynamic. At first, it was fine – of course, she can be close with other people. But lately, A and B's friendship has deepened to the point where my relationship with A has completely faded into the background. They share secrets now. The dynamic has fundamentally shifted.
+
+The Breaking Point:
+B recently moved away for work, but she's back in town for a visit this week. The pattern is painfully clear: when B isn't around, A still reaches out to me, invites me to hang out, to play cards, etc. But the moment B is back, I cease to exist.
+
+This past week, I found out by accident that A and B (and some other cousins) had made plans to play cards at a cafe. I happened to be at the same cafe and saw them all there. They didn't invite me. Not even a text. We're all cousins, but I was the only one excluded. This isn't the first time something like this has happened. It was a concrete, public confirmation of what I've been feeling: I'm the backup friend, the one they only want when the preferred option isn't available.
+
+Why I'm struggling:
+
+1. I feel worthless and invisible. Seeing them all together, knowing they made plans without me, was devastating.
+2. I don't want to talk to A about it. What's the point? Even if she started inviting me now, I'd know it was just a pity invite. The genuine connection feels gone. I fully believe the damage is done.
+3. It's not just A. The other cousin (B) was there too. She could have asked where I was or suggested inviting me. She didn't. It feels like a mutual decision, conscious or not, to exclude me.
+4. My feelings are overwhelming. I feel profound loneliness and a deep sense of being pushed out. I have this intense desire to just disappear from everyone's lives, to isolate myself completely. I know I can't literally go anywhere (I have one year left of university), but I feel the urge to withdraw from all of them.
+5. I'm starting to think about the future. Watching this happen makes me realize that people grow up and drift apart. Friends get married and move on with their lives. Lately, I've even been having serious thoughts about getting married myself, just so I can have my own life, my own stable routine and family, something that feels permanent and where I'm the priority. It feels like I'm grieving a loss, but I don't know how to process it. How do you even mourn the death of a relationship like this?
+
+The Complication:
+There's a younger cousin (C) in the mix. Last night, C invited me, A, and B over to her place. I said I would go, but at the last minute, I made an excuse and didn't. The truth is, I just couldn't face being in a room with A and B, pretending everything was fine. I know C was probably hurt by my no-show, and that makes me feel guilty and angry. Angry that I'm in this position where I have to protect myself but end up potentially hurting someone else. It feels like no one is listening or seeing my pain, and I'm just left dealing with these awful feelings on my own.
+
+TL;DR: My cousin/sister-figure has replaced me with our other cousin. I'm consistently excluded when the ""preferred"" cousin is around, culminating in them all meeting up without me. I feel deep loneliness, want to isolate myself, and am grieving the loss of a lifelong friendship. Don't know how to move forward.
+",1,1772958576.0,offmychest,0,1.0,False
+1rnzkce,https://www.reddit.com/r/pinteresttrends/comments/1rnzkce/when_crayons_become_mindfulness_the_hidden_power/,"**When Crayons Become Mindfulness: The Hidden Power of Coloring to Calm, Teach, and Transform 🎨✨**","**Title:** Coloring Books Aren’t Just for Fun — They’re Quiet, Powerful Learning Tools 🎨💭  
+
+Ever watched a child go absolutely silent — *not because of a screen,* but because they’re completely lost in coloring?  
+No beeps. No ads. Just them, a box of crayons, and pure focus.  
+
+That moment says more about learning than any classroom lesson could. Coloring isn’t just playtime — it’s emotional regulation, mini mindfulness, and early education all rolled into one.  
+
+When a child picks up a crayon, they’re actually…  
+
+• Practicing focus and patience.  
+• Strengthening fine motor skills and hand-eye coordination.  
+• Learning creativity, color recognition, and emotional expression — skills no app can teach the same way.  
+
+That’s exactly why I put together a **kids coloring ebook** designed to be calming, confidence-boosting, and totally screen-free. It’s filled with bold, easy designs meant to help kids slow down — and help parents sneak in a peaceful cup of coffee ☕.  
+
+👉 **Grab the free coloring ebook here:** [https://cashflowmanifest.com/Free-ebook](https://cashflowmanifest.com/Free-ebook)  
+
+Teachers have told me it’s been a quiet corner savior during busy mornings.  
+Parents shared it’s become a simple way to help their kids unwind after school.  
+And kids? They just see a page ready for their imagination — *that’s the magic of it.*  
+
+If you’ve been trying to replace screen time with something nurturing, give this a try.  
+It’s joy, relaxation, and learning all in one printable package.  
+
+👉 **Download your free copy now:** [https://cashflowmanifest.com/Free-ebook](https://cashflowmanifest.com/Free-ebook)  
+
+Let’s make creative time sacred again — one page, one color, one calmer kid at a time.  
+
+And if you believe in giving back, here’s a way to help kids who don’t have access to simple creative tools. Every share or small donation helps bring art and inspiration to little hearts that need it most ❤️  
+
+👉 **Get your free kids coloring ebook + share it forward:** [https://cashflowmanifest.com/Free-ebook](https://cashflowmanifest.com/Free-ebook)  
+
+#KidsColoringBook #Parenting #CreativeKids #Giveaway #MindfulKids #ArtForKids #Homeschool #RedditParents",1,1772958558.0,pinteresttrends,0,1.0,False
+1rnzjvm,https://www.reddit.com/gallery/1rnzjvm,🏡 FOR RENT: Furnished STUDIO The Courtyards @ Brookridge – Steps from Paseo + Starbuks Mountain Trail & Coffee Spots,"🏡 For Rent: Fully Furnished Studio with Parking
+📍 The Courtyards at Brookridge – Labangon, Cebu City
+Near Chong Hua Hospital, Vicente Sotto Memorial Medical Center, Cebu Doctors’ University Hospital & VCMC
+
+✨ Unit Features:
+✔ Fully Furnished Studio Unit
+✔ Complete Appliances: , Refrigerator, Split-Type Aircon, TV
+
+🌿 Community Amenities:
+🏊‍♂️ Two Swimming Pools
+🏡 Clubhouse
+🏀 Basketball Court
+🏋🏻‍♀️ Gym
+🛝 Children’s Playground
+🛡 24/7 Security
+⚡ Backup Power Generator
+
+💰 Monthly Rent: ₱15,000/month (with motor parking only)
+Exclusive of condo dues and utility bills
+
+📄 Lease Terms:
+• Minimum 1-Year Contract
+• 1 Month Advance
+• 1 Month Security Deposit
+
+✨ Ideal for professionals, small families, OFWs, or long-term tenants looking for a peaceful, low-density community within the city.
+
+📍 Prime Location Highlights:
+• Super accessible to Paseo Arcenas and The Marketplace for groceries & shopping
+• Walking distance to nearby coffee shops, milk tea spots, and fast‑casual restaurants like Kenny Rogers
+• Close to the famous Starbuks mountain trail — a popular local hiking spot near Paseo Arcenas (a scenic nature escape, not the Starbucks chain) with great views and outdoor vibes just ~45 min hike from Banawa/Paseo Arcenas trailhead
+• Easy access to major roads & transport for work or weekend trips
+
+📩 Schedule a Viewing Today!
+",1,1772958509.0,CebuDeals,0,1.0,False
+1rnzjpo,https://www.theguardian.com/business/2026/mar/08/caffe-nero-coffee-prices-compass-coffee-stores-us,[World] - Caffè Nero says growth is ‘steady’ but coffee prices are likely to rise | Guardian,,1,1772958493.0,AutoNewspaper,0,1.0,False
+1rnzjp9,https://www.theguardian.com/business/2026/mar/08/caffe-nero-coffee-prices-compass-coffee-stores-us,[UK] - Caffè Nero says growth is ‘steady’ but coffee prices are likely to rise | Guardian,,1,1772958492.0,AutoNewspaper,0,1.0,False
+1rnzjp7,https://www.theguardian.com/business/2026/mar/08/caffe-nero-coffee-prices-compass-coffee-stores-us,[US] - Caffè Nero says growth is ‘steady’ but coffee prices are likely to rise | Guardian,,1,1772958492.0,AutoNewspaper,0,1.0,False
+1rnzj9q,https://www.reddit.com/gallery/1rnzj9q,🏡 FOR RENT: Furnished STUDIO The Courtyards @ Brookridge – Steps from Paseo + Starbuks Mountain Trail & Coffee Spots,"🏡 For Rent: Fully Furnished Studio with Parking
+📍 The Courtyards at Brookridge – Labangon, Cebu City
+Near Chong Hua Hospital, Vicente Sotto Memorial Medical Center, Cebu Doctors’ University Hospital & VCMC
+
+✨ Unit Features:
+✔ Fully Furnished Studio Unit
+✔ Complete Appliances: , Refrigerator, Split-Type Aircon, TV
+
+🌿 Community Amenities:
+🏊‍♂️ Two Swimming Pools
+🏡 Clubhouse
+🏀 Basketball Court
+🏋🏻‍♀️ Gym
+🛝 Children’s Playground
+🛡 24/7 Security
+⚡ Backup Power Generator
+
+💰 Monthly Rent: ₱15,000/month (with motor parking only)
+Exclusive of condo dues and utility bills
+
+📄 Lease Terms:
+• Minimum 1-Year Contract
+• 1 Month Advance
+• 1 Month Security Deposit
+
+✨ Ideal for professionals, small families, OFWs, or long-term tenants looking for a peaceful, low-density community within the city.
+
+📍 Prime Location Highlights:
+• Super accessible to Paseo Arcenas and The Marketplace for groceries & shopping
+• Walking distance to nearby coffee shops, milk tea spots, and fast‑casual restaurants like Kenny Rogers
+• Close to the famous Starbuks mountain trail — a popular local hiking spot near Paseo Arcenas (a scenic nature escape, not the Starbucks chain) with great views and outdoor vibes just ~45 min hike from Banawa/Paseo Arcenas trailhead
+• Easy access to major roads & transport for work or weekend trips
+
+📩 Schedule a Viewing Today!
+",1,1772958448.0,RentPH,0,1.0,False
+1rnzj5l,https://www.reddit.com/r/relationships/comments/1rnzj5l/my_m36_cousinsisterfigure_f46_is_replacing_me/,"My (M/36) cousin/sister-figure (F/46) is replacing me with our other cousin, and I'm heartbroken and considering going no contact.","I'm feeling really lost and hurt and need some outside perspective.
+
+I have this cousin (let's call her A). We grew up together and have been incredibly close for as long as I can remember. We're not just cousins; we're like sisters. For years, we'd see each other every single week, have coffee dates, and our bond was unshakeable.
+
+The Situation:
+In the last few years, another cousin of ours (let's call her B) has moved closer and become part of our dynamic. At first, it was fine – of course, she can be close with other people. But lately, A and B's friendship has deepened to the point where my relationship with A has completely faded into the background. They share secrets now. The dynamic has fundamentally shifted.
+
+The Breaking Point:
+B recently moved away for work, but she's back in town for a visit this week. The pattern is painfully clear: when B isn't around, A still reaches out to me, invites me to hang out, to play cards, etc. But the moment B is back, I cease to exist.
+
+This past week, I found out by accident that A and B (and some other cousins) had made plans to play cards at a cafe. I happened to be at the same cafe and saw them all there. They didn't invite me. Not even a text. We're all cousins, but I was the only one excluded. This isn't the first time something like this has happened. It was a concrete, public confirmation of what I've been feeling: I'm the backup friend, the one they only want when the preferred option isn't available.
+
+Why I'm struggling:
+
+1. I feel worthless and invisible. Seeing them all together, knowing they made plans without me, was devastating.
+2. I don't want to talk to A about it. What's the point? Even if she started inviting me now, I'd know it was just a pity invite. The genuine connection feels gone. I fully believe the damage is done.
+3. It's not just A. The other cousin (B) was there too. She could have asked where I was or suggested inviting me. She didn't. It feels like a mutual decision, conscious or not, to exclude me.
+4. My feelings are overwhelming. I feel profound loneliness and a deep sense of being pushed out. I have this intense desire to just disappear from everyone's lives, to isolate myself completely. I know I can't literally go anywhere (I have one year left of university), but I feel the urge to withdraw from all of them.
+5. I'm starting to think about the future. Watching this happen makes me realize that people grow up and drift apart. Friends get married and move on with their lives. Lately, I've even been having serious thoughts about getting married myself, just so I can have my own life, my own stable routine and family, something that feels permanent and where I'm the priority. It feels like I'm grieving a loss, but I don't know how to process it. How do you even mourn the death of a relationship like this?
+
+The Complication:
+There's a younger cousin (C) in the mix. Last night, C invited me, A, and B over to her place. I said I would go, but at the last minute, I made an excuse and didn't. The truth is, I just couldn't face being in a room with A and B, pretending everything was fine. I know C was probably hurt by my no-show, and that makes me feel guilty and angry. Angry that I'm in this position where I have to protect myself but end up potentially hurting someone else. It feels like no one is listening or seeing my pain, and I'm just left dealing with these awful feelings on my own.
+
+TL;DR: My cousin/sister-figure has replaced me with our other cousin. I'm consistently excluded when the ""preferred"" cousin is around, culminating in them all meeting up without me. I feel deep loneliness, want to isolate myself, and am grieving the loss of a lifelong friendship. Don't know how to move forward.
+",1,1772958437.0,relationships,2,1.0,False
+1rnzitz,https://i.redd.it/s8dkjgpl7sng1.jpeg,Swiggy dineout Cafe Coffee Day Loot 🔥,"👉 First check dineout feature is available on your location or not if available then search CCD
+
+👉 Now, Go to CCD and tell them regarding ₹8 Frappes offer using swiggy dineout 
+
+👉 Just pay ₹8 and done!!
+
+Note: First, go to CCD and tell them about the Swiggy Dineout offer. They will ask you to pay ₹8; just enter that amount in the Swiggy Dineout app and complete the payment.
+
+***  
+ 
+> **High-Value, Verified Money-Making & Real Profit Deals Only (No Spam)** Join Telegram 👉 https://tr.ee/kedgE3",2,1772958407.0,LooteraShopper,1,1.0,False
+1rnzigl,https://www.reddit.com/gallery/1rnzigl,🏡 FOR RENT: Furnished STUDIO The Courtyards @ Brookridge – Steps from Paseo + Starbuks Mountain Trail & Coffee Spots,"🏡 For Rent: Fully Furnished Studio with Parking
+📍 The Courtyards at Brookridge – Labangon, Cebu City
+Near Chong Hua Hospital, Vicente Sotto Memorial Medical Center, Cebu Doctors’ University Hospital & VCMC
+
+✨ Unit Features:
+✔ Fully Furnished Studio Unit
+✔ Complete Appliances: , Refrigerator, Split-Type Aircon, TV
+
+🌿 Community Amenities:
+🏊‍♂️ Two Swimming Pools
+🏡 Clubhouse
+🏀 Basketball Court
+🏋🏻‍♀️ Gym
+🛝 Children’s Playground
+🛡 24/7 Security
+⚡ Backup Power Generator
+
+💰 Monthly Rent: ₱15,000/month (with motor parking only)
+Exclusive of condo dues and utility bills
+
+📄 Lease Terms:
+• Minimum 1-Year Contract
+• 1 Month Advance
+• 1 Month Security Deposit
+
+✨ Ideal for professionals, small families, OFWs, or long-term tenants looking for a peaceful, low-density community within the city.
+
+📍 Prime Location Highlights:
+• Super accessible to Paseo Arcenas and The Marketplace for groceries & shopping
+• Walking distance to nearby coffee shops, milk tea spots, and fast‑casual restaurants like Kenny Rogers
+• Close to the famous Starbuks mountain trail — a popular local hiking spot near Paseo Arcenas (a scenic nature escape, not the Starbucks chain) with great views and outdoor vibes just ~45 min hike from Banawa/Paseo Arcenas trailhead
+• Easy access to major roads & transport for work or weekend trips
+
+📩 Schedule a Viewing Today!
+",1,1772958368.0,CebuClassifieds,0,1.0,False
+1rnzhp8,https://www.reddit.com/r/datingoverforty/comments/1rnzhp8/slow_burn_or_slow_quit/,Slow burn or slow quit?,"I (43f) met a guy (45m), we clicked instantly. Great banter. Got into conversations with depth quickly, easily, naturally. Great sexual chemistry, like really great. So much so we both got really overwhelmed with how things were moving after just a couple of weeks and called for a slowdown. This was mutual. 
+
+I know I want to move in a romantic direction, but slowly. He needed some time to process and think without the physical intimacy clouding his feelings, totally fair. After a week we talked on the phone and, even though I mentioned my ltr had ended recently and I had been over it for nearly two years (we were together a total of 20, but he had been psychologically abusive and I checked out a while ago). I only just found the resolve to get the f out about three weeks before meeting him and actually got my ex out of my house one week before. It was fear of the unknown that kept me, but in the two years I had getting over my former, I had spent the time developing a fully grounded version of myself, learning regulation and how to live my life as mine - within the constraints of the relationship. 
+
+He said (all unprompted by me, I made no case to  sway his mind) that obviously we clicked, that he was clearly attracted to me, that he likes me. Then he said he had been burned too many times by unresolved issues from past relationships and while the only thing lingering over me may be logistical (getting my exes name off the deed, shared vehicle and a continuing hearing on a restraining order), I still had work to do to close that up and he didn't want to find himself carrying the baggage for something that had nothing to do with him. I flat told him I understood. I do. This mess isn't his to bear. He expresses concern for my safety, how I feel about the situation with my ex currently, not what happened between us, and at the end of the convo we seamlessly moved into talking about his job and goals there. We ended the chat easily and with mutual understanding and throughout he reiterated multiple times that when the ex relationship wasn't a factor he could reassess. He explicitly asked me not to drop off the face of the earth, he wasn't going to either, that he still wanted to talk, we could get together and watch a movie or get coffee. This all came from him, not me. I asked nothing if him but his honest feelings and this is what he told me. 
+
+EDIT: he also specifically said I had done nothing wrong nor had given him the ick. 
+
+
+(side note on the timeline, I have the court hearing on March 23rd and if he hasn't signed the deed giving me the house - it is mine, I bought and paid for it entirely, and the shared car which has thus far been awarded to me via the temporary restraining order, by the 23rd, I'll be able to get him to take care of it then. The only other factor is getting his shit out of my house which also likely can be arranged on the 23rd even if he doesn't show up. We aren't talking about a long timeline here.)
+
+
+It has obviously been a long time since I last dated and I wouldn't even be concerned if it weren't for the fact that we aligned in all of the most meaningful ways - values, relationship goals and priorities (being two people independent together with their own lives that share overlap vs. wanting our relationship to be our identity), how we spend our time (quietly at home vs. always needing to be doing something), we are both emotionally intelligent and communicate really well without judgment or anxiety or fear just honest listening, we share a deep appreciation of music, taste in shows, etc. I really value him. Frankly, I'd be ecstatic just to have a friend like him - but ideally, I want more. The texting has slowed considerably, though he is still very responsive to me. I've initiated a lot because I'm just that way with everyone. He has stopped using some of the pet names he was using for me, but still calls me nerd (he is dork). He does initiate, just less. For me, I read it as the protective measures he needed to take for himself. Protective measures were his words. However....
+
+
+I'm not used to this slow burn thing, if that is what it is, or to making friends with romantic interest first. Last time I was dating I was 22 and wildly dysregulated, unsure of myself, and altogether kind of a different person. I've done a LOT of work since to really be comfy in my own skin and existence. But...I have NO FUCKING CLUE how to engage in this middle space where we are friends, but we both like and are attracted to each other, but external circumstances make for uncertainty. 
+
+
+Men: Does this sound like crap, the ex thing hanging over my head? I don't think it does, but I'm not a guy. And if it all seems legit, how would you want a woman in this middle space to conduct herself? So far I've been my normal self, have been matching him in language and substance and just keeping a presence. Most importantly, I'm not trying to prove I'm worth a risk or reminding him of what he is missing. I don't need reassurance I'm worth choosing because I already know I am.
+
+
+Women: have you been in this situation? How did it end up panning out, provided all the logistics cleared in a timely manner?  
+
+",1,1772958291.0,datingoverforty,7,1.0,False
+1rnzhgk,https://www.reddit.com/gallery/1rnzhgk,Choclate chip cookies which knocked me out,"225 g unsalted butter, browned
+150 g white sugar
+100 g light brown sugar, packed
+50 g muscovado sugar
+1 tbsp coffee powder
+2 teaspoons vanilla extract (≈ 10 ml)
+2 large eggs
+
+375 g all-purpose flour
+1 teaspoon baking soda (≈ 5 g)
+½ teaspoon baking powder (≈ 2–3 g)
+1 teaspoon sea salt (≈ 5–6 g, depending on grain size)
+320 g chocolate chips
+
+Let the butter cool slightly after browning, then whip it in a cold water bath until it becomes white and reaches a consistency like soft wax (slightly more liquid).
+Add the sugar and mix with a machine for about 2 minutes. Then add 2 eggs and the vanilla.
+Mix all the dry ingredients together and add them to the sugar mixture.
+Let the dough rest in a freezer bag in the refrigerator overnight. It can also rest for 2–3 days — it actually gets better the longer it sits.
+
+Mind blowing!!!!!",3,1772958269.0,Baking,0,1.0,False
+1rnzg3m,https://www.reddit.com/r/CarMechanicSimulator/comments/1rnzg3m/i_asked_my_ai_to_write_a_ghost_story_based_on_cms/,"I asked my AI to write a ghost story based on CMS 2021, it got a few things off, but I thought I'd share it anyway","The first hint of dawn wasn't much more than a smudge of grey over the decommissioned airstrip when Frank pulled into his spot. Not in his truck—he hadn't driven his truck in a while, now that he thought about it—but simply *arrived*, the familiar sight of his garage, ""Frank's Automotive,"" materializing around him as it always did. The smell was the first thing that grounded him: high-octane gasoline, rubber, old grease, and the faint, coppery tang of metal shavings. It was the smell of purpose.
+
+The '69 Mustang Boss 429 was up on the lift, its undercarriage spread out like a patient on an operating table. Frank, a mug of coffee that never seemed to cool in his hand, ducked underneath. The problem was a finicky fuel line, and as his fingers worked the cold steel, his mind drifted, as it always did, to the past. Not the bad past, the one with the humidity and the choppers and the sharp, sharp sounds. The good past. Right here. He could still see old Mr. Henderson, the previous owner, showing him how to true a brake drum. ""Feel the metal, Frankie,"" he'd say in his gruff voice. ""Don't just look. Feel.""
+
+Frank felt it now. A perfect connection.
+
+""Another one saved from the crusher, old man,"" he murmured to the empty garage.
+
+He didn't know why the garage was always empty. Not of cars—it was a symphony of projects, from a pristine '57 Chevy waiting for a new coat of paint to a busted-up 2021 Toyota Camry he was piecing back together. But empty of people. Customers never came in to complain about the bill. The parts runner never showed up. His wife, Margaret, had stopped calling, her voice a fading echo in his mind.
+
+He tried to picture her face. He could see the disappointment in her eyes, the set of her mouth the last time they'd spoken. *You love those cars more than you ever loved me, Frank.* The memory stung, so he shoved it away, focusing on the satisfying *click* of the fuel line seating perfectly.
+
+He slid out from under the Mustang, wiped his hands on a rag so ingrained with oil it was less cloth than a solidified idea of a rag, and walked to the garage door. He tried to push it open, to let in the morning air, but his hand met an invisible barrier. It wasn't a wall he could see, or even feel with his fingers, but more of a… certainty. A line he could not cross. He could look out at the street, at the weeds pushing through the asphalt, at the faded sign for the diner across the way, but he could not step onto the concrete apron of his own lot.
+
+He grunted in frustration, a familiar, low-grade annoyance. ""Property line,"" he muttered. It was the only explanation. He owned the garage and the little scrub of land it sat on, and for some reason, that's where he was anchored. But it was strange. He could still get to the other places. He just had to… want it.
+
+With a thought, he was no longer at the garage door. He was standing in Row C of ""Pull-A-Part Auto Recycling,"" the junkyard. The sun was properly up now, glinting off the stacks of ruined cars. This was his library. He walked past a Ford pickup with its grille smashed in, his eyes scanning for a specific taillight assembly. He found it on a fourth-generation Camaro, half-crushed by a sedan on top of it. It was perfect. As he reached for it, he heard a whisper of sound. He turned, but saw only the skeletal remains of vehicles. He felt a prickle on the back of his neck, a feeling of being watched that had nothing to do with Vietnam and everything to do with the unnatural stillness of the place.
+
+He shook it off, pocketing the part. The feeling followed him, a quiet passenger, as he later ""visited"" the auction house, watching a pallet of used tires sell to a kid who couldn't have been more than twenty. The kid looked right through him. Frank waved. Nothing.
+
+That evening, he took the Camaro, now with its new taillight, out to the airstrip. The long, flat stretch of cracked concrete was perfect. He pushed the car, feeling the engine's vibration through the steering wheel, the surge of power as the needle climbed. 80… 90… 110. The wind roared, but it didn't touch his face. The car hummed, but the sound seemed to come from a great distance. It was like driving a memory. The thrill was muted, like a song playing from another room.
+
+He pulled over, the engine ticking as it cooled. Silence. A deep, profound silence that swallowed the world. It was in that silence that a thought, sharp and clear as a shard of glass, pierced his usual routine.
+
+*When was the last time I actually spoke to someone?*
+
+He couldn't remember. He could remember the sound of Mr. Henderson's voice, but not the sound of his own. He could see Margaret's disappointed face, but he couldn't hear what she'd said after that first sentence. He looked at his hands on the steering wheel. They were clean. They were always clean now. The grime, the grease, the permanent half-moons of oil under his fingernails—they were all gone.
+
+Panic, cold and unfamiliar, began to claw at his chest. He slammed his hand on the steering wheel. The horn didn't blare. It just made a sad, dull *thump*, like hitting a pillow.
+
+It was then he noticed the folded map on the passenger seat. It was for an estate sale out in the county. Someone was selling off an old barn full of ""mechanic's specials."" He'd marked it with a pen that morning. But he couldn't remember having a pen. He couldn't remember picking up the map. He just… had it.
+
+He stared at the map, then out at the desolate airstrip, then back at his unnaturally clean hands. The comfortable rhythm of his life, the familiar hum of his routine, shattered. He knew he couldn't cross his property line. He knew he could travel to the junkyard and the auction house. But how did he get to the barns? He had the map. He'd always assumed he just… went. But now the question hung in the air, heavy and terrifying: *How?*
+
+He wasn't just anchored to his garage. He was anchored to a world that had quietly, without his noticing, stopped including him. And for the first time, he was terrified to find out why.",0,1772958134.0,CarMechanicSimulator,2,0.3,False
+1rnzfv2,https://i.redd.it/jdofg85p6sng1.jpeg,"Weekend, coffee shop and walnut",,4,1772958110.0,Wenwan,0,0.84,False
+1rnzfsj,https://www.reddit.com/gallery/1rnzfsj,Cars and Coffee,Rain guards next???,51,1772958103.0,240sx,2,1.0,False
+1rnzfn4,https://www.reddit.com/r/doncaster/comments/1rnzfn4/good_espresso_in_donny/,Good espresso in Donny?,"I'll be in Donny for a few weeks and need to maintain my caffeine intake, but the Costa or Cafe Nero crap just doesn't cut it. Can anyone recommend any local coffee shops with Baristas who know their beans. I know there are some local boutique roasters with award winning beans, so bougie coffee is there somewhere. ",2,1772958089.0,doncaster,7,0.75,False
+1rnzfml,https://i.redd.it/4o0rqwln6sng1.jpeg,When staying away from home you work with the tools you've got,I won't be adding an analogue scale to my set-up at home. ,15,1772958087.0,pourover,3,1.0,False
+1rnzfg8,https://www.reddit.com/gallery/1rnzfg8,woozi ramen in uijeongbu,"Delicious, followed by oozy coffee not too far off from it. ",1,1772958069.0,foodexploration,0,1.0,False
+1rnzf3i,https://www.reddit.com/r/BreakUps/comments/1rnzf3i/he_said_hed_come_see_me_then_suddenly_lost_the/,"He said he’d come see me, then suddenly ‘lost the spark’.","This is my first post. I’m currently going through a breakup and I’ve been reading a lot of posts about heartbreak and healing. It’s been a month, I’m still struggling, I need outside perspective. I need to vent, this is going to be long thank you so much to whoever taking the time to read it.
+
+We met last October, me (23F) and him (25M) on a dating app, we had a nice chat and met for coffee. I had absolutely no expectations for this date, and as he later told me, neither did he. Turns out we had a really good time. We had another date a week later and ended up kissing. From that point, we started seeing each other 2 to 4 times a week. Hanging out at each other places, being intimate and cuddling, going to restaurants, shopping, wandering in park, museum… we even took a trip to another state together. He said hanging out with me was amazing. 
+
+From the beginning he said it would be a “situationship” because I would eventually go back to my country. He told me that if I were staying longer, he would ask me to be his girlfriend because he believed a relationship between us would be “very healthy.”, his words not mine. I wasn’t familiar with the concept situationship, but I agreed and just asked him not to hurt me.
+
+I had an amazing time with him. I discovered a new version of myself. Everything was so sweet and I thought, sincere. At least for me it was. I was sad knowing that I had to say goodbye to him but I was accepting the faith. 
+
+Until one day. I came back from a 5 days trip to another state. We had been missing each other a lot. I remember, he was with me the day before my departure and was saying « don’t go » We talked every day while I was away and even sent each other music. Even though I loved my trip, I couldn’t stop being excited about seeing him. After my trip, he came and first thing he said was « it felt like forever » and hugged me softly for a long time.
+
+That day he told me he was planning a trip with friends. Their original destination became too expensive, so they decided to come to my country and visit another one as it’d be in Europe. And then said « I was wondering if I could stop by … at the end of the trip to see you and spend some weeks with you ». I was so happy, so surprised also. We were talking about nearly a month of living together. I immediately said yes. 
+
+That’s where the problem started in my opinion. Because he filled my head with the hope of seeing him again.
+
+After that, we kept spending time together almost every day, often sleeping at each other’s places. Eventually it was time for me to go back home. He came with me to the airport. Neither of us cried. We hugged, kissed, and said goodbye. Right after that he sent me messages thanking me for everything and saying « I’ll see you soon ».
+
+After I got back home, we talked every day. The time difference didn’t feel like a big deal. We replied whenever we could, but we never missed a day. I knew he was alone for Christmas, while I wasn’t. I sent him a Christmas present. I just wanted him to feel the Christmas spirit and to remind him that someone was thinking about him and cared about him. He was so surprised and moved when he received it. He told me I was very sweet and that it was incredibly thoughtful. When he opened the package and saw what was inside, he immediately knew that was from me.
+
+A month passed and we kept talking every day. He started opening up to me more and told me he wasn’t feeling great lately and needed to talk. So we decided to start calling each other once a week. During those calls he told me about his life problems, and I did my best to be there for him. These calls meant so much to me. The trust he showed me meant a lot. We would talk for about two hours every time. I remember during our first call, he said: “I thought you were going to stop talking to me as soon as you landed back home.” I was shocked, because I thought he would be the one to ghost me. 
+
+Sometimes he would ask what I was saying about him to my friends. After every call he would send messages like “make sure we keep talking,” “that was a really good talk, thank you,” or “I can’t wait to talk to you again.” I was melting, honestly.
+
+During that month he also randomly started learning my language. I’m not saying he did it for me because he is going to travel there anyway, but I can’t lie I kept thinking it was partly for me.
+
+Everything seemed to be going great. We missed each other, but the communication was smooth. There were no warning signs, so I just went with the flow and counted the days until he would arrive.
+
+Beginning of February, the boy sent me a reel on insta : « questions to keep the spark alive ». I was confused, I looked at it and it was questions like « is turquoise more blue or green to you », a bunch of questions to maintain your crush entertained. I can’t lie I was a bit stressed. I didn’t know what to answer, I went through the comments and saw « if you need these to keep the spark alive, give up man ». It made my heart dropped. I screenshot this and sent it to him, asking if he was agreeing with that. He answered « yeah kinda, what do you want to do about it ? Let it go ? It’s up to you ». My jaw dropped, of course I had no intentions on letting it go ! Especially knowing that he was 1 month and a half from being with me again. He said «Based on what you said I thought you wanted to let it go. I don’t know I’m confused. I thought about \[my city\] and I’m not sure I can stay as long as I want. To be honest, do you feel like us talking is preventing you from a future potential relationship ? ». I don’t need to tell you how shocked I was. He then said « as much as I want this to work, I don’t want to give myself and you false hopes ». I knew that was over. 
+
+We scheduled a call to talk about it. Meanwhile he sent me two songs:  “I Think About You All the Time” and « Missing » with lyrics saying “I miss you like the desert misses the rain.” I was completely confused.
+
+We called, he « broke up » with me even though technically it was still a situationship. He said he had “lost the spark,” that he didn’t want to stop me from meeting someone else, and that he was trying to “protect the future.” He said that if he came for a month and then left again, it would be even harder. He also mentioned financial problems, even though he is still doing the trip with his friends and planning another two-month trip in Europe this summer (lol). That’s ridiculous. Staying at my place would cost him nothing. During our first call he told me about his finances already but that wasn’t a pb apparently.
+
+I asked him if he met someone, he said no. I asked him if he’s going back on apps, he said no, that he wants to meet people « in real life now ». I asked him « so you don’t want to see me ? » he didn’t answer and then said he doesn’t want to see me crying if he comes. He kept on saying he cares about me, he’s thinking about me everyday and all these bullshits, that he was sorry. I was crying so hard. He cried at the end of the call too. We said goodbye. 
+
+Until today, I still don’t understand why he decided to stop it all. It was my birthday 10 days after the breakup. He sent me this : « Hey I hope your doing well I just wanted to say happy birthday, I wish you the best birthday ever, wish I could tell you this in person. Hope everything's going great for you and I hope life has been treating you better miss you I wish you all the best » Oh and during the call, he said he doesn’t want to block/unfollow me. That he’d like to see me again during his 2 months trip to Europe during summer 2026, to invite me for dinner, because by the time I would be over him (how does he know ? ». Make it make sense please.
+
+I’ve been setting small goals for myself, like not checking his social media for weeks. I respected that.
+
+On Friday, a friend sent me me screenshots of his profile on a dating app. I felt relieved. I thought: finally I have a good reason to move on. He suddenly looked pathetic to me and it gave me the ick. I know he’s bored in his city he kept on saying that to me. I’m sure he’s trying to fill the void and looking for external validation.
+
+I blocked him everywhere and deleted his number.
+
+Truth is, the next day the sadness came back. I had a nightmare where he showed me a girl he matched with. The girl looked exactly like me. I woke up around 5am and cried. Cried cried cried. I’m angry because he filled my head with a promise. If that trip had never been planned, we would have simply said goodbye and that would have been it.
+
+I know I need to move on, and I’m trying. I’m just very disappointed and hurt. I’m scared he finds this post.
+
+I have amazing friends who support me a lot, but I don’t want to keep bothering them with this story forever.
+
+Thank you so much for whoever will take the time to read this. It means a lot. Thank you so much, take care.",1,1772958034.0,BreakUps,0,1.0,False
+1rnzf1z,https://www.reddit.com/r/MakeNewFriendsHere/comments/1rnzf1z/27_m_looking_for_new_friends/,27 M looking for New Friends!!,"Hello! My name is Jacob. Recently got back on Reddit and was looking to make new friends again! I teach, cook, I like to work out and I keep myself very active and busy on my free time. I like coffee, Jazz, and anything that relaxes me on a nice day. If you’re up for a conversation feel free to DM me! Anyone is welcome. Not picky, I don’t bite haha. Just looking for genuine conversation!
+
+Just want conversations to last longer than two messages! Feel free to introduce yourself to me and I hope we can get something going! 
+
+Hope to chat soon! ",1,1772958030.0,MakeNewFriendsHere,1,1.0,False
