@@ -1,0 +1,2511 @@
+id,url,title,text,score,created_utc,subreddit,num_comments,upvote_ratio,over_18
+1sgk625,https://i.redd.it/98mapv47p4ug1.jpeg,Internetul și smartphone-ul sunt unele dintre cele mai mari invenții din istoria omenirii. Ele au dat posibilitatea unor oameni fără educație să ajungă mai celebri și să câștige mai mulți bani decât un medic sau un profesor.,\_,7,1775724695.0,Roumanie,5,0.77,False
+1sgk5q2,https://www.reddit.com/r/gurgaon/comments/1sgk5q2/m4f_gurgaon_ncr_looking_for_genuine_connection/,M4F | Gurgaon/ Ncr | Looking for genuine connection,"M 30 | Gurgaon/NCR
+
+Hey! I’m a simple and chill guy from (Farukhnagar) Gurgaon looking to connect with someone genuine.
+
+I enjoy long drives, chai/coffee conversations, and just spending quality time talking about random things. Not here for anything rushed — I prefer building a real vibe first.
+
+Life’s been a bit routine lately, so thought of putting myself out here to meet someone new.
+
+If you're from NCR and feel like having a decent conversation (and maybe meeting someday), feel free to DM 🙂",3,1775724657.0,gurgaon,6,1.0,False
+1sgk4v2,https://www.reddit.com/r/Bacolod/comments/1sgk4v2/diin_ayhan_kg_ano_ayhan_nga_shops_ang_ga_batun/,Diin ayhan kg ano ayhan nga shops ang ga batun consignments?,Anyone knows kng ano nga shops ang ga batun consignements around Bacolod? Like coffee shops or Bars? Namit sya i pares sa beer or pwede mn sya protein snack. ,1,1775724565.0,Bacolod,0,1.0,False
+1sgk4u1,https://www.carwow.es/noticias/7313/gwm-espana-lanzamiento-modelos-concesionarios-2026,"El mayor fabricante privado de China llega a España en junio y no quiere ser otra ""marca barata"": La gama de GWM","Buenas gente, os traigo info fresca sobre el último ""gigante"" que se suma al mercado español en junio: **GWM (Great Wall Motor)**. Sé que cada semana parece que llega una marca nueva de China, pero ojo, que estos no vienen con el típico SUV de plástico para ir al súper.
+
+Lo que me ha parecido más interesante es que pasan de intermediarios: vienen como **filial propia** y van a montar **50 concesionarios** este año en Madrid, Barcelona, Valencia y Sevilla para que no haya retrasos con los recambios (un clásico miedo con estas marcas). Además, se plantan con **7 años de garantía o 150.000 km**, que es básicamente decirle a Kia y Hyundai: ""sujétame el cubata"".
+
+Lo que va a dar que hablar es la artillería que traen:
+
+* **Gama Tank:** 4x4 de los de antes (chasis de largueros, hasta 3 bloqueos de diferencial y reductora) pero con tecnología **Hi4-T**.
+* **Etiqueta CERO:** Prometen unos **100 km de autonomía eléctrica** en sus híbridos enchufables, algo brutal para un bicho de este tamaño.
+* **Gama ORA y WEY:** Desde compactos eléctricos con un diseño diferente hasta SUVs premium que vienen a pelearse con los europeos.
+
+Personalmente, me pica la curiosidad ver cómo rinde ese sistema **Coffee OS 3.0** con IA. Si de verdad cumplen con lo de tener stock de piezas y ese enfoque de ""4x4 electrificado"", pueden hacer mucho daño a marcas que han abandonado el barro.
+
+Aquí tenéis toda la información:  
+[https://www.carwow.es/noticias/7313/gwm-espana-lanzamiento-modelos-concesionarios-2026](https://www.carwow.es/noticias/7313/gwm-espana-lanzamiento-modelos-concesionarios-2026)",1,1775724562.0,CarwowES,1,1.0,False
+1sgk4ba,https://i.redd.it/3ic1jy5no4ug1.jpeg,Oldtown Hazelnut with Oatside Milk ❤️👌🏼,Salamat sa magsuggest… 😍,1,1775724510.0,u_Due_Primary_1869,0,1.0,False
+1sgk4b6,https://www.reddit.com/r/SuicideWatch/comments/1sgk4b6/a_poem_about_taking_ones_life/,A poem about taking one's life,"Childlike Wonder 
+
+The swaying of my feet against the ground 
+
+Perhaps isn't so different this time around 
+
+It's similar from when I was a child on the swing
+
+ 
+
+To when I'm hanging from the ceiling 
+
+Does it feel like boundless childlike wonder?
+
+When my body's laying on the ground, with dirt as its cover 
+
+The gush of blood in my mouth feels warm
+
+Like freshly brewed coffee that I used to sip every morning in our old farm
+
+Perhaps death isn't as scary as how old folks taught 
+
+It's a soft bed for every soldier that's fought
+
+It's as warm as a mother's hug
+
+Or soaking the sun in while sitting on a log
+
+Once my corpse is already rotting,
+
+With worms and maggots feasting 
+
+They'll taste the agony I felt when I was living 
+
+The anguish, pain, love, and yearning 
+
+The salt in my tears and sweetness of my laughter 
+
+The bitterness of my faded dreams as I got older 
+
+Perhaps the taste of my life will make them search forever 
+
+Like how I searched for freedom when I was living that now has falter",2,1775724509.0,SuicideWatch,0,1.0,False
+1sgk414,https://www.reddit.com/r/LocalLLaMA/comments/1sgk414/free_api_look_up_phone_email_hours_for_any/,"Free API: look up phone, email, hours for any business worldwide — 11M records, 227 countries, works with any local model","Found this agent-native business directory and wanted to share it here because the token efficiency angle is specifically relevant for local models with smaller context windows.
+
+the problem: if your agent needs to look up a phone number, opening hours, or address for a real business, it either scrapes google (50k tokens of HTML to parse, often blocked) or calls google places API ($17/1000 calls). neither works well with a 7B or 13B model running locally.
+
+Its a free API with 11M+ businesses across 227 countries. the key feature for local models is `&format=text` which returns markdown prose instead of JSON:
+
+    GET /v1/search?q=coffee&city=rome&format=text
+    →
+    # AgentWeb search — ""coffee"", city=rome
+    42 total results · showing 10
+    
+    ## 1. Tazza d'Oro
+    - Phone: +39 06 678 9792
+    - Address: Via degli Orfani 84, Rome
+    - Hours: Mon-Sat 07:00-20:00
+    - Trust: 92%, verified 2026-04-01
+    
+    ## 2. Sant'Eustachio Il Caffè
+    - Phone: +39 06 6880 2048
+    ...
+    
+
+one result is about 80 tokens in prose vs 200+ tokens in JSON vs 50,000+ tokens if you scraped the website. for a 4k or 8k context model that matters a lot.
+
+stats:
+
+* 11M businesses, 227 countries
+* phone, email, hours, address, coordinates, social links
+* sub-50ms response time
+* free tier: 1,000 reads/day (instant signup, no credit card)
+* prose format: \~60% fewer tokens than JSON for the same data
+* works with any agent that can make HTTP calls
+
+her eare the tool specs you can drop straight into your agent:
+
+* langchain u/tool python file: [agentweb.live/tools/langchain-tool.py](http://agentweb.live/tools/langchain-tool.py)
+* openai function-calling spec: [agentweb.live/tools/openai-tool.json](http://agentweb.live/tools/openai-tool.json)
+* anthropic tool\_use spec: [agentweb.live/tools/anthropic-tool.json](http://agentweb.live/tools/anthropic-tool.json)
+
+or if your agent can read a URL, just point it at [`agentweb.live/install.md`](http://agentweb.live/install.md) — it's a markdown file written for agents to read and self-install. works with any agent that has filesystem access.
+
+the data comes from openstreetmap + [schema.org](http://schema.org) json-ld enrichment (scraping business websites for structured data). currently at \~62% phone coverage and climbing. the enrichment pipeline is running continuously.
+
+site: [https://agentweb.live](https://agentweb.live/)  
+api: [https://api.agentweb.live/v1/health](https://api.agentweb.live/v1/health) (public, shows live stats)
+
+curious if anyone has tried plugging something like this into a local llama/mistral/qwen agent. the prose format was specifically designed to work well with smaller models — would love to hear if it actually helps vs JSON in practice. 
+
+",2,1775724481.0,LocalLLaMA,1,1.0,False
+1sgk3tq,https://www.reddit.com/r/InstagramMarketing/comments/1sgk3tq/seeking_advice_for_my_cafes_insta_page/,Seeking advice for my cafe’s insta page,"Hi! 
+
+I’m currently building a specialty coffee shop, focusing on creating a community space, with pickleball, a reading nook, coffee tasting workshops, events etc. 
+
+It’s in the construction phase and I’ve been posting content around the vibe, funny construction reels, coffee sourcing, founder experiences, etc. However, the page hasn’t been performing well, with most posts getting 1-2k views. 
+
+What can I do to improve reach and add followers? ",1,1775724460.0,InstagramMarketing,1,1.0,False
+1sgk3p5,https://www.reddit.com/gallery/1sgk3p5,Coffee Talk: The halfway report in a 12-week journey through the world of java ice cream (+Top 10 so far),"Is the buzz wearing off yet? I’m now halfway through my 12-week Coffee Talk project, yet it’s still one of my favorite ice creams around. OK, I have been getting a little bit sick of it recently — and the pints are littering the freezer still — but the good news is I’ve tasted most of the chosen flavors by now, as the tasting began a lot earlier than the reviews. Still … if you offered me one more cup?
+
+If you’re into coffee ice cream and its spinoffs — latte, mocha, tiramisu and the like — I hope you’ve been following along on the main ice cream subreddit each week. I have wrapped up the big brands — ice cream makers who have a few variations I could try — and now I’m moving into roundups, where there’s just one (maybe two) offerings from a brand.
+
+Are there any big surprises so far? Not much. I wanted to start off strong, but not with my absolute favorite coffee. I went with Graeter’s, which all not surprisingly scored in the 9s and set a very high bar. I wanted to come back to earth a bit. Jeni’s is great, but I wouldn’t say their coffee is among my personal picks. Which brand is? I knew Häagen-Dazs would be hard to beat as my long-time favorite (and a contender for best ice cream ever). So far I haven’t found a strong contender to dethrone them, but there are some good runners-up in the weeks ahead. In the rearview, I found Talenti a bit bland, while Ben & Jerry’s was a little all over the place with their seven coffee-themed offerings. Pretty much on brand. This week’s entry checks in with McConnell’s, the creamery I think has the most barista vibes in its coffee flavors —several options, bases all different (as opposed to repeats for B&J), varying coffee levels, textures and experiences. 
+
+What’s up next? We’ll hit the Northwest. Since this is my home region, I will share quick hits of some brands that are mainly available in Oregon and Washington, but also a handful (like Tillamook and Salt & Straw) that can be found throughout the country.
+
+Some other roundups I have planned are grocery store premiums (Straus, Alec’s, Van Leeuwen and Ice Cream for Bears), some regional/artisan online picks (more of a look back at stuff I’ve found this past year on Goldbelly like Caffe Panna, Bassett’s and Leopold’s), the widely available store brands (I need to pick up that high-octane Trader Joe’s, and I have offerings from Whole Foods, Kroger and Safeway) and wrap up the roundups with some good old-fashioned ice cream (like Blue Bell and Baskin-Robbins). In the 12th and final week ahead of Memorial Day will be the big ranking of everything I’ve tried, plus some other funs lists. 
+
+So I hope you keep following along, or catch up if you’re just finding this. If you’re curious about any specific coffee ice cream, I will share what I know. There were some great recommendations I may not be able to get to for a while due to shipping or freezer constraints (that Double Rainbow sounds good). If you have any last-minute picks, I’d still love to hear them! If not now, they can always go on my ever-growing big list of brands and flavors.  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**THE HALFWAY LIST**  
+*What's scored the highest so far?*
+
+1. Häagen-Dazs Coffee: 10  
+2. Häagen-Dazs Coffee Toffee Almond: 9.5  
+3. Häagen-Dazs Coffee Chip: 9.3  
+4. Graeter’s Mocha Chip: 9.3  
+5. Graeter’s Vienna Coffee: 9.3  
+6. Graeter’s Caramel Macchiato: 9.2  
+7. McConnell's Brazilian Coffee: 9  
+8. McConnell's Coffee with Molasses Chips: 8.8  
+9. Talenti Italian Tiramisu (Layers): 8.7  
+10. Ben & Jerry's Tiramisu Topped: 8
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**CATCHING UP**  
+*If you’re interested in checking out past weeks, here are links to everything….*
+
+[WEEK 1: GRAETER’S](https://www.reddit.com/r/icecream/comments/1rn90fo/graeters_vienna_coffee_mocha_chocolate_chip_and/)  
+\>Mocha Chip: 9.3  
+\>Vienna Coffee: 9.3  
+\>Caramel Macchiato: 9.2
+
+[WEEK 2: JENI’S](https://www.reddit.com/r/icecream/comments/1rsnkna/jenis_house_coffee_coffee_with_cream_and_sugar/)  
+\>House Coffee: 6.8  
+\>Cold Brew with Coconut Cream: 7.8  
+\>Jeni’s Coffee With Cream (RIP): 6.8
+
+[WEEK 3: HAAGEN-DAZS ](https://www.reddit.com/r/icecream/comments/1rytlc7/h%C3%A4agendazs_coffee_coffee_chip_and_coffee_almond/)  
+\>Coffee: 10  
+\>Coffee Chip: 9.3  
+\>Coffee Toffee Almond: 9.5  
+\>Coffee Chocolate Brownie (RIP): 7.5
+
+[WEEK 4: TALENTI ](https://www.reddit.com/r/icecream/comments/1s4v6r0/talentis_coffee_chocolate_chip_gelato_cold_brew/)  
+\>Coffee Chocolate Chip: 6.2  
+\>Cold Brew Sorbetto: 6.5  
+\>Italian Tiramisu (Layers): 8.7
+
+[WEEK 5: BEN & JERRY’S ](https://www.reddit.com/r/icecream/comments/1s9d7i2/ben_jerrys_coffee_toffee_bar_crunch_buzzbuzzbuzz/)  
+\>Coffee Coffee BuzzBuzzBuzz!: 7.7  
+\>Coffee & Fudge Chip scoop-apalooza: 7.7  
+\>Coffee Toffee Bar Crunch: 3.8  
+\>Mocha Mood Pie Sundae: 2.9  
+\>Honey Graham Latte: 5.6  
+\>Scoop shop: Mocchaccino Chip: 5.2  
+\>Tiramisu Topped: 8
+
+[WEEK 6: McCONNELL’S ](https://www.reddit.com/r/icecream/comments/1sfn0gq/mcconnells_coffee_brazilian_coffee_coffee_with/)  
+\>Coffee (formerly Turkish Coffee): 7.6  
+\>Brazilian Coffee: 9  
+\>Coffee with Molasses Chips: 8.8  
+\>Hazelnut Latte: 5.5",3,1775724446.0,IceCreamHaven,0,1.0,False
+1sgk3nq,https://www.reddit.com/r/northernireland/comments/1sgk3nq/people_who_litter_at_nature_sites_have_a_special/,People who litter at nature sites have a special place in hell,"Went up donard the other day and saw multiple plastic water bottles banana skins etc just discarded on the side of the path, Like how can you live in a place with such wonderful natural beauty and decide ah fuck it im just gonna ruin it by throwing my rubbish all over the place because holding onto it until I get home is beneath me. Also seen several discarded snus pouches just spat out in the middle of the path.
+
+See it on the towpath in Belfast too, if the bins are full you see coffee cups just dumped on top of and beside it. Is it really that difficult to stick an empty coffee cup in your pocket until you find a bin with space or get home?
+
+Some people in this country just do not give a fuck, we have some of the friendliest most welcoming people on the planet but also some of the biggest cunts going.
+
+Littering in general is bad, but to litter in nature and places where other people go to enjoy the natural beauty and the wildlife have to live in is just pure scummery.",27,1775724442.0,northernireland,12,1.0,False
+1sgk37j,https://www.reddit.com/r/Advice/comments/1sgk37j/i_geniunely_dont_know_what_to_expect_or_do/,I geniunely don't know what to expect or do.,"Hello, I'm 21 years old male, university student 2nd year.  
+3 weeks ago I met with a girl(21 years old Female), during that time I was camping on forest and I met this girl from campus on a random evening night and I told her I am camping since my block is so far away from campus. She told me: **""if you want you can also stay on my home as well I don't care.""** I said: **I appreciate it (She was also from my department and she was a fresher) but I can stay another time if outside rains**. she accepted and we exchanged contacts. Following day(very next day that we exchanged contacts) it will gonna rain and I did not wanted to stay outside. So I texted her to can I come for a layover she said yes you can come for layover. At early night time I went to her place. She opened the door and let me inside, I sat one of sofa and she sat another couch then we started to chat.
+
+First we talked casual things and introduction because we only met a day ago. Started with introduction, then casual(studies, work, etc.) after that, I asked her to can I sit next to her, she agreed so I came next to her and we started to watch a comedy show, during this we're helding hands we laughed during this and after show ended I talked about my thesis topic and we talked about some problems of our own that we trying to get over with. at the end I told her you're better than that. and after that we started to hug, it slowly turned to kiss and kiss turned to foreplay then it went to sex. least we ended up sleeping together at that night(we both half-slept). 
+
+At morning we had another sex after we woke up and I made her orgasm  4 times. after that we had breakfast and spent time together. We were kissing, eating talking about silly things.  She told me she was not serious about dating with me then we agreed on as **""casual daters"".**  I set a date for few days after and I left from her place at early evening. 
+
+At date day I wear a classy suit, shaved styled my hair and I was very ready for date. I picked her from her house and went to coffee shop, strolling through town that we are living, held hands, kissed and enjoyed. After we went to her place to cook risotto and she liked it very much she told me: **"" I ate Risotto on different restaurants but this risotto you cooked was best that I've eaten.""** We went to bed again but at first time there was no intimacy, I didn't pushed. then she turned on and we had sex again. At the end of the day she told me: **"" I like you but I really don't have time and energy to date with anyone.""** then I wanted to get a point that we can agree because I like her; I asked her we can date only once in a week, or once in a month? She told me: **I like you as well but I'm sorry I can't do it.** then we agreed on 3 things:  
+1-) good night messages.  
+2-) going with flow.  
+3-) if we encounter on campus or outside, we talk.  
+At end of the night, She wanted me to sleep with her first but after she asked me to leave because she wass having problems that getting sleep. I respected that and after a long bye bye session I left from her flat.  
+very next day I texted: **""good night""** and she replied as: ""**I'm not sure that we text like this since we are not dating anymore.""** then I texted as: **"" It is not harming any of us so... But if you are getting bothered I would not text.""** She relpied as: **""I'm sorry but I cannot do this. thanks for everything though.""** On this point I did not be sure about what will I text next so I texted exactly this: **"" Thanks for everything as well, and thanks for being honest. take care.""** at morning she replied as: "" **Take Care too :)""**
+
+I did not texted her afterwards so did she. I got so tempted to text her about dating again but I held myself back and controlled it, The main reason was even if there was a chance to date again I thought I would ruined it by texting again, she most probably woill going to think that I'm clingy and could not do without her. 
+
+We encountered at campus 3 times and they all warm interactions we hugged at start and end of encounters. She will take her last exam for this academic semster at 8th may and I'll take at 9th may.   
+One thing that off my chest: I still like her and I want her back. She did not broke my heart. I still like her.  
+
+My question is: After exams are ended should I ask her date again or do something else or do nothing at all. 
+
+Thanks for reading. ",1,1775724396.0,Advice,0,1.0,False
+1sgk2z9,https://www.reddit.com/gallery/1sgk2z9,Would love some advice on how to make our living room more homely!,"Context! 
+
+We moved in here around 7 years ago. (Renting)
+
+A lot of the furniture we got just ‘to do’ like our shelf, tv unit and coffee table ( they were all so cheap in ikea lol )
+
+Fast forward 7 years, we’ve updated the colour, new sofa ect.
+
+We plan to buy our own home soon but want to start buying furniture that we love and actually makes us enjoy living in our home! And that we can eventually bring with us (our plan was just to leave everything!) 
+
+Would love some advice on making it more homely! Thinking light brown coffee table and tv unit ect but whatever you think would help! (We also have a toddler so no matter what it’s going to look messy lol) ",1,1775724374.0,HomeDecorating,2,1.0,False
+1sgk2p0,https://www.reddit.com/r/ADHDers/comments/1sgk2p0/adhd_hacks_that_have_actually_worked_for_me/,ADHD hacks that have actually worked for me,"guys I’ve done it all!! I was diagnosed with ADHD when I was 15 and noticed it in my inability to focus in classrooms but I could always get stuff done (medicated) at home. However, when I got to college I found it much more difficult to remember to do things, even if I really wanted to do them. Here are the things I have done that have really changed my life:
+
+1. I really struggle waking up in the morning before my meds kick in so even taking them without falling back asleep is hard. I sleep with my pillbox in my bed with water directly beside me. It minimises the risk as much as possible. When I’m dating someone, I often ask them to wake me up to give me my meds so I can fall back asleep and wait for them to kick in.
+2. I also sleep with my planner in my bed so that I look at the planner instead of random shit on my phone. I find it pretty hard to even remember my name most mornings so it really helps me set my intentions or at least remember 2-3 important things to do.
+3. I also don’t remember any of the things I have done that I have successfully completed, both large and big things. Every day I write down what tasks I did in my notes app so I am aware that I am making progress and am not just floating aimlessly through time and space.
+4. Everything showers twice a day 🌟 I cannot do a morning routine sequentially. I don’t know what it is, but I do something different every time. Like I put my socks on and then brush my teeth and then stop to do something else and then I don’t remember to do the rest until way later in the day. So I just keep all of my face wash, toothbrush and etc in my shower so I can just do it all in one go. For me, it has made a huge difference.
+5. One thing I do in the kitchen is use a pour over coffee maker. The time it takes for the water to boil, I can usually do the dishes and pick up my kitchen. Crazy how quick you can do it under the timer. It's like last minute procrastination for me.
+6. I really struggle with interrupting people in conversation and an insane trick I learned is crossing your fingers if you need to say something and the other person is still talking. People with ADHD often want to blurt out the thought to “get it out” often to not forget it. Doing something small and unnoticeable (someone suggested crossing their toes) helps your brain acknowledge what you want to say. This helps not only give your brain a pause so you can better regulate when you speak but also remember what you wanted to say.
+
+I still struggle with this but it has really helped me.",2,1775724346.0,ADHDers,0,1.0,False
+1sgk2mm,https://www.reddit.com/r/AdultADHDSupportGroup/comments/1sgk2mm/adhd_hacks_that_have_actually_worked_for_me/,ADHD hacks that have actually worked for me,"guys I’ve done it all!! I was diagnosed with ADHD when I was 15 and noticed it in my inability to focus in classrooms but I could always get stuff done (medicated) at home. However, when I got to college I found it much more difficult to remember to do things, even if I really wanted to do them. Here are the things I have done that have really changed my life:
+
+1. I really struggle waking up in the morning before my meds kick in so even taking them without falling back asleep is hard. I sleep with my pillbox in my bed with water directly beside me. It minimises the risk as much as possible. When I’m dating someone, I often ask them to wake me up to give me my meds so I can fall back asleep and wait for them to kick in.
+2. I also sleep with my planner in my bed so that I look at the planner instead of random shit on my phone. I find it pretty hard to even remember my name most mornings so it really helps me set my intentions or at least remember 2-3 important things to do.
+3. I also don’t remember any of the things I have done that I have successfully completed, both large and big things. Every day I write down what tasks I did in my notes app so I am aware that I am making progress and am not just floating aimlessly through time and space.
+4. Everything showers twice a day 🌟 I cannot do a morning routine sequentially. I don’t know what it is, but I do something different every time. Like I put my socks on and then brush my teeth and then stop to do something else and then I don’t remember to do the rest until way later in the day. So I just keep all of my face wash, toothbrush and etc in my shower so I can just do it all in one go. For me, it has made a huge difference.
+5. One thing I do in the kitchen is use a pour over coffee maker. The time it takes for the water to boil, I can usually do the dishes and pick up my kitchen. Crazy how quick you can do it under the timer. It's like last minute procrastination for me.
+6. I really struggle with interrupting people in conversation and an insane trick I learned is crossing your fingers if you need to say something and the other person is still talking. People with ADHD often want to blurt out the thought to “get it out” often to not forget it. Doing something small and unnoticeable (someone suggested crossing their toes) helps your brain acknowledge what you want to say. This helps not only give your brain a pause so you can better regulate when you speak but also remember what you wanted to say.
+
+I still struggle with this but it has really helped me.",1,1775724339.0,AdultADHDSupportGroup,0,1.0,False
+1sgk1sr,https://i.redd.it/x4nqn41wn4ug1.jpeg,WAS ist dahinter bitte der Sinn??!!!,,1,1775724255.0,deppenapostroph,0,1.0,False
+1sgk1qy,https://www.reddit.com/gallery/1sgk1qy,Artemis flight tracker last update,"I built an Artemis II Live Telemetry Tracker that’s been used by millions of people in the last few days, this is the last update before splashdown ascend 
+
+Version V2.6
+
+I prepared the last update before splashdown, the live tracker will turn into an interactive T minus 1 hour before ascend to Earth, then in T minus 1 minute a new interactive splash counter will appear and finalizing with a Welcome to Earth page
+
+You can watch nasa tv live directly on my dashboard and watch the telemetry live 
+
+Artemislivetracker.com",1,1775724250.0,spaceflight,0,1.0,False
+1sgk0lg,https://i.redd.it/x9fshlvin4ug1.jpeg,Kuthandhaving kan zich niet houden aan de kutlijnen,,4,1775724131.0,KutGeparkeerd,0,1.0,False
+1sgk0g9,https://www.reddit.com/r/DecorEssentials/comments/1sgk0g9/do_people_think_matching_wood_tones_in_furniture/,Do people think matching wood tones in furniture is outdated or does it still make a cohesive living room design?,"I think matching wood tones still make a room feel pulled together, but ngl it can also read dated if everything is the exact same finish and style. I'm redoing my living room and already own a matching coffee table and TV stand, but I've been tempted by inspiration pics where people mix light and dark pieces and it looks way more layered. I tried adding a lighter side table and a darker bookshelf and it immediately felt more interesting, but I'm debating if that's just trendy or actually more timeless. Anyone got pics of matched vs mixed wood rooms or thoughts on what ages better over time?",2,1775724116.0,DecorEssentials,1,1.0,False
+1sgjxyt,https://www.reddit.com/r/twentyonepilots/comments/1sgjxyt/looking_for_more_irl_tøp_friends/,Looking for more irl TØP friends!!!,"this is a long shot but I'm hoping to make some more irl friends in the clique!!! I'm from Seattle area currently and if anyone else is a huge fan nearby, I'd love to meet up for coffee or to browse some record stores or something :) I've always found that my closest friends have similar tastes in music as me soooo",1,1775723866.0,twentyonepilots,1,1.0,False
+1sgjxxc,https://www.reddit.com/r/areweinhell/comments/1sgjxxc/society_is_in_the_gutter/,Society Is In The Gutter,"I went to the city yesterday and oh my God, the amount of people... just people, absolutely everywhere. Felt like I couldn't even breathe in the city centre. It was a Wednesday (yes, mid-week) afternoon in early spring but it seemed like a humid summer weekend with how busy it was everywhere. I went to a cafe I usually go to and it was ridiculously busy in the downstairs seating area alone (almost 100 people I reckon, okay I'm probably overestimating how many people because of how perturbed I was, but a LOT of people), super loud with how noisy everyone was talking with eachother, and it absolutely stunk (and not of coffee, but of body odour, etc). That cafe is normally very chill and quiet, low numbers of customers, nice atmosphere.
+
+Like, I don't mean to sound judgemental here, but the stench and loud noise of people socialising in that place was so bad I had to leave. Later the same afternoon I made the mistake of going back in there thinking I'll buy a coffee and try sitting upstairs instead as it's surely gotta smell fresher up there and quieter that time of day.. nope. Well, I bought a coffee downstairs and then noticed there were only a few other people sat upstairs, and it was okay for about 4 minutes before people started walking upstairs and bringing the smell from downstairs up with them. I decided right that's it, I am getting the fuck out this place, because I actually started feeling my stomach churn. I'm not joking, the smell in that place was so bad I was literally about to puke up.
+
+The fuck is wrong with people, man? I eat a healthy diet, don't eat junk food, don't drink alcohol, and am generally a hygienic person but not obsessive about it, but Jesus Christ, what the hell are other people consuming to cause them to smell that awful? Just all fast food?
+
+I then decided, okay I'll go for a walk in the park instead, get some fresh air and be around nature for a bit. Again, people down sat everywhere, but that wasn't even the issue, it was all the fucking litter/trash people had left all over the park. People were sat down socialising with their friends, and their families all looking happy and relaxing yet surrounded by litter/trash... like, can somebody please explain to me what the fuck is going on with people nowadays? I feel like I'm living in some type of dystopian nightmare that I can't seem to wake up out of. It's like nobody has any respect or civility anymore, nobody cares anymore.
+
+People... chilling at a park... socialising with their friends and families... looking happy and relaxed... surrounded by trash everywhere on the ground... ... ... ... What? 😐
+
+That was basically the final straw for me and I just walked straight through the park feeling disgust and got on the train to go home, and as if it was too much to ask having my journey home be just a God damn morsel of peace and quiet, no, some guy sat in the row behind me starts shouting to himself out loud.
+
+That was my day off in a nutshell, and those experiences gave me every reason to not even bother going out to the city on the one day off I take from work each week (I work from home). It's just not even worth it anymore. Western society sucks ass. Most people are just too horrendous to be around for any amount of time.
+
+Rant over.",1,1775723862.0,areweinhell,0,1.0,False
+1sgjwpw,https://i.redd.it/9cfgvs5cm4ug1.jpeg,how the hell am I supposed to beat this?,"I only have seolha and 2 a tier character as my ws and mb, I can't even pass this level because of Isabel and because of the debuff on jump, because of her ability I can't even pass the level, everytime she'll take my spike it won't even scratch their block bar level and while on the other hand she gets stronger along with the sniper ability, if I block it'll broke and my mid ahh character can't follow up, and I can't block in the net because of my low jump and Isabel high jump",1,1775723734.0,thespikegame,3,1.0,False
+1sgjw3s,https://i.redd.it/mur0ol7fl4ug1.jpeg,I loved this cozy little pet corner from Kayleen’s Coffee,,3,1775723672.0,Designforlife,1,1.0,False
+1sgjvbq,https://www.reddit.com/r/Constipation/comments/1sgjvbq/advice/,Advice??,"So for context I (25f, UK) have history of constipation and haemorrhoids for years. I have a very weak diet, I feel like high fibre foods create very hard and dry stools that are hard to pass, it sometimes takes 3-5 days for the stools to move and the pain is insane or the stuck feeling is soooo uncomfortable. I was diagnosed with a bleeding hemmy in 2022 and since then have had haemorrhoids and fissures on a off since then due to constipation. I also recently developed a perianal abscess, it spontaneously popped by itself and I am finishing a course of antibiotics. 
+
+Any diet recommendations or constipation hacks? My GP prescribed me laxido in the past and a different GP recently prescribed me Lactulose for the recovery of the abscess. I have also found coffee helps when everything is backed up. I just don't want to live like this anymore, it's so uncomfortable. 
+
+By weak diet I mean I am very sensitive to tastes and textures. I also eat very little because I am very picky with food and have done since I was a kid. I know my diet is the main thing I need to fix but I don't even know where to start. I know you have to introduce fibre slowly to prevent constipation from worsening but I also know certain types of fibre bulk up the stools. I just want to have very soft and easy to pass stools so I don't know what to start with. I am trying to have oats for breakfast but where do I go from there? Any help would be greatly appreciated!",1,1775723592.0,Constipation,0,1.0,False
+1sgjv1u,https://www.reddit.com/r/singleph/comments/1sgjv1u/27f4m_lets_tryyy/,27[F4M] Lets tryyy?,"Ayoko na kasi mag settle sa fwb or hook ups lalo na hindi naman palagi tumatagal. Aaminin ko I am a super horny girl and gusto ko nang ilabas yung pagiging horny side ko but this time sa magiging jowa ko na lang ganern, hindi ko na lang papahabain intro ko pag usapan na lang natin lahat lahat sa chats. Not into meet ups agad agad pls. 
+
+About me : 
+
+• 27 years old
+
+• working professional
+
+• submissive girl and clingy
+
+• loves coffee
+
+About you : 
+
+• 28 years old above pls
+
+• dominant type of guy
+
+• alam paano mag handle ng isang babae lalo na sa kama
+
+• ready mag settle
+
+• no to nonchalant pls
+
+• makaka vibes and same energy pls
+
+Hmu if you're interested!",2,1775723571.0,singleph,1,1.0,False
+1sgjv0l,https://i.redd.it/jf69td3gl4ug1.png,"[New app] IsoPack — a clean travel packing app with 200+ preset items, offline support, and a $1.99 lifetime unlock","Hey Reddit 👋
+
+I made a travel packing app called IsoPack.
+
+Main reason? I was tired of packing apps that felt bloated, outdated, messy, or weirdly overcomplicated for something that should be simple.
+
+So I built IsoPack to be clean, practical, and easy to use.
+
+
+
+App Store Link --> [IsoPack](https://apps.apple.com/us/app/isopack/id6761802442)
+
+App Store Link --> [IsoPack](https://apps.apple.com/us/app/isopack/id6761802442)
+
+App Store Link --> [IsoPack](https://apps.apple.com/us/app/isopack/id6761802442)
+
+
+
+**What it does**
+
+✈️ 200+ preset packing items
+
+📋 Packing templates for repeat trips
+
+📈 Progress bar at a glance
+
+📦 Import / Export support
+
+✨ Clean, minimal, polished UI
+
+
+
+**Pricing**
+
+🆓 First 3 trips are free
+
+💳 RM9.90 / USD1.99 one-time payment to unlock unlimited trips
+
+🚫 No subscription
+
+🔓 Future updates included
+
+
+
+And yes, I’m highlighting this because Reddit hates subscriptions now — honestly, same. I really didn’t want to make yet another app that charges monthly just to help people pack for a trip.
+
+
+
+**Quick FAQ**
+
+>1. AI assistance?
+
+>Yes, but I’m keeping it minimal on purpose. Not gonna lie and pretend there’s zero AI, but I also don’t want to shove “AI” into every corner of the app.
+
+>
+
+>2. Subscription?
+
+>No. I hate it too.
+
+>
+
+>3. Why only 3 free trips?
+
+>For a lot of regular users, 3 trips is already enough to see whether the app works for them. And if you want more, it’s only RM9.90 / USD1.99 one time for unlimited trips and future updates. Less than a coffee, permanently unlocked.
+
+>
+
+>4. Why not just use Notes / Notion / another note app?
+
+>You definitely can. But I wanted something purpose-built for trips, with better structure, presets, templates, and visible progress at a glance. Less mess, less setup, more clarity.
+
+>
+
+>5. Platform?
+
+>Works nicely on iPhone and iPad.
+
+>
+
+>6. Offline?
+
+>Yes.
+
+>
+
+>7. Privacy?
+
+>No data collection. No forced signup. No login. I don’t need your travel data or personal data. Your stuff stays yours, locally.
+
+>
+
+>8. Why no ads?
+
+>Because honestly, cut that crap. Why would anyone want to watch an ad just to create a trip? That completely kills the experience.
+
+
+
+Still early, so I’d genuinely love honest feedback:
+
+\- Does the pricing feel fair?
+
+\- Is 3 free trips enough?
+
+\- What do you wish packing apps did better?",1,1775723568.0,appledevelopers,0,1.0,False
+1sgjtsl,https://www.reddit.com/r/BangaloreSocial/comments/1sgjtsl/anyone_around_nagarbhavi_wanna_grab_a_coffee_in/,"Anyone around Nagarbhavi, wanna grab a coffee in the evening","An IT guy, bored and new to this area. Anyone in and around Nagarbhavi, wanna grab a coffee evening? please let me know. 25M",1,1775723447.0,BangaloreSocial,0,1.0,False
+1sgjtmi,https://www.reddit.com/r/cyprus/comments/1sgjtmi/austria_to_cyprus/,Austria to Cyprus,"Hey everyone!
+
+This might be a bit unusual, but I’m looking for someone who is flying from Austria (Vienna/Graz or nearby) to Cyprus soon.
+
+I’d like to send a small gift to someone there, and it would mean a lot if anyone could help me bring it along 🙏
+
+It’s nothing big or problematic just a small personal item. Of course, I can offer something in return (coffee, a small thank you, etc.).
+
+If you or someone you know is traveling that route soon, please let me know!
+
+Thanks a lot 🙂",1,1775723429.0,cyprus,1,1.0,False
+1sgjs1p,https://www.reddit.com/r/cyprus/comments/1sgjs1p/austria_to_cyprus/,Austria To Cyprus,"Hey everyone!
+
+This might be a bit unusual, but I’m looking for someone who is flying from Austria (Vienna/Graz or nearby) to Cyprus soon.
+
+I’d like to send a small gift to someone there, and it would mean a lot if anyone could help me bring it along 🙏
+
+It’s nothing big or problematic just a small personal item. Of course, I can offer something in return (coffee, a small thank you, etc.).
+
+If you or someone you know is traveling that route soon, please let me know!
+
+Thanks a lot 🙂",1,1775723274.0,cyprus,1,1.0,False
+1sgjs1j,https://www.reddit.com/r/Blogging/comments/1sgjs1j/how_do_you_cover_costs_of_a_side_project/,How do you cover costs of a side project?,"Hey, I'm about to launch a side project and trying to figure out a sustainable way to cover its running costs (nothing crazy, just a few hundred dollars a year).
+
+The site is an AI-powered RSS aggregator focused on tech niches (AI, Crypto, Cybersecurity). It fetches articles from dozens of sources, extracts trending keywords and displays them as a word cloud, generates TL;DRs for each article, and writes a short ""why is this trending?"" explanation for each hot keyword.
+
+Costs are modest: VPS, domain, and LLM API calls.
+
+I'm considering:
+
+\- Carbon Ads
+
+\- Premium features: historical data, custom alerts, CSV export, ...
+
+\- Referral links: crypto exchanges for example 
+
+\- Ko-fi / Buy me a coffee
+
+I'd rather avoid traditional display ads if possible. Has anyone found a good balance for a niche content site like this?",1,1775723273.0,Blogging,2,1.0,False
+1sgjqbu,https://www.reddit.com/r/qatar/comments/1sgjqbu/where_do_i_take_the_mrs_to/,where do i take the mrs to,i wanna go for a late night coffee run with the mrs in lusail area. someone suggest a good cafe that’s open 24 hours or late night. She wants aesthetics and i want good coffee. please suggest some places ,2,1775723101.0,qatar,5,1.0,False
+1sgjovj,https://www.reddit.com/r/macbookpro/comments/1sgjovj/why_did_you_choose_16_inch_or_why_did_you_choose/,Why did you choose 16 inch or why did you choose 14 inch?,"It definitely seems pretty split around here with people choosing 16 and others choosing 14 for screen size. Which one did you get and why?
+
+For me, I plan to get the 16 inch M5 Pro, even though I travel quite a bit. But I don’t use it on planes, trains or even coffee shops. I mainly use it either at home or in an Airbnb I’m staying at. Maybe the occasional cafe once in a while. Yes it is heavier than the 14 inch. But I do graphic design and music production, and I don’t want to use an external monitor. So the extra screen real estate seems like it would benefit me. I just hope it still feels comfortable in my lap on the couch :)",0,1775722953.0,macbookpro,8,0.5,False
+1sgjo66,https://i.redd.it/zxcomsorj4ug1.png,"[New app] IsoPack — a clean travel packing app with 200+ preset items, offline support, and a $1.99 lifetime unlock","Hey Reddit 👋
+
+I made a travel packing app called IsoPack.
+
+Main reason? I was tired of packing apps that felt bloated, outdated, messy, or weirdly overcomplicated for something that should be simple.
+
+So I built IsoPack to be clean, practical, and easy to use.
+
+App Store Link --> [IsoPack](https://apps.apple.com/us/app/isopack/id6761802442)
+
+App Store Link --> [IsoPack](https://apps.apple.com/us/app/isopack/id6761802442)
+
+App Store Link --> [IsoPack](https://apps.apple.com/us/app/isopack/id6761802442)
+
+**What it does**
+
+✈️ 200+ preset packing items
+
+📋 Packing templates for repeat trips
+
+📈 Progress bar at a glance
+
+📦 Import / Export support
+
+✨ Clean, minimal, polished UI
+
+**Pricing**
+
+🆓 First 3 trips are free
+
+💳 RM9.90 / USD1.99 one-time payment to unlock unlimited trips
+
+🚫 No subscription
+
+🔓 Future updates included
+
+And yes, I’m highlighting this because Reddit hates subscriptions now — honestly, same. I really didn’t want to make yet another app that charges monthly just to help people pack for a trip.
+
+**Quick FAQ**
+
+>1. AI assistance?
+
+>Yes, but I’m keeping it minimal on purpose. Not gonna lie and pretend there’s zero AI, but I also don’t want to shove “AI” into every corner of the app.
+
+>2. Subscription?
+
+>No. I hate it too.
+
+>3. Why only 3 free trips?
+
+>For a lot of regular users, 3 trips is already enough to see whether the app works for them. And if you want more, it’s only RM9.90 / USD1.99 one time for unlimited trips and future updates. Less than a coffee, permanently unlocked.
+
+>4. Why not just use Notes / Notion / another note app?
+
+>You definitely can. But I wanted something purpose-built for trips, with better structure, presets, templates, and visible progress at a glance. Less mess, less setup, more clarity.
+
+>5. Platform?
+
+>Works nicely on iPhone and iPad.
+
+>6. Offline?  
+Yes.
+
+>7. Privacy?
+
+>No data collection. No forced signup. No login. I don’t need your travel data or personal data. Your stuff stays yours, locally.
+
+>8. Why no ads?
+
+>Because honestly, cut that crap. Why would anyone want to watch an ad just to create a trip? That completely kills the experience.
+
+Still early, so I’d genuinely love honest feedback:
+
+\- Does the pricing feel fair?
+
+\- Is 3 free trips enough?
+
+\- What do you wish packing apps did better?",1,1775722886.0,iosapps,0,1.0,False
+1sgjnnt,https://www.reddit.com/r/JodiMilan/comments/1sgjnnt/28m_bangalore_looking_to_invest_in_the_mutual/,28M | Bangalore | Looking to invest in the mutual fund of love for life😊,"&#x200B;
+
+Hi all, giving reddit a shot at finding a partner for myself. Please bear with me and take a few minutes to read through. Thank you.
+
+I'm a simple 5'8 bengali guy navigating through life and it's difficulties one day at a time. Pretty logical, practical and straight forward guy but kind of a hopeless romantic at heart stuck in the 90's unable to fit into this dating and hookup culture of today. Bit of an introvert who doesn't talk a whole lot socially, I'm someone who would love to yap with you on anything and everything.
+
+\*\*More insights on me:\*\*
+
+(Turning 29 in 3months)
+
+\- I love binge watching movies, shows etc (though I don't get much time these days)
+
+\- Into gymming and sports. Currently enjoy playing badminton weekly. Would love if you would join me for a workout or a game of shuttles
+
+\- I'm also into powerlifting for fun. So, pretty capable of sweeping you off your feet, both literally and figuratively
+
+\- Love long drives (especially with family) with music on and yapping about things
+
+\- I have a playful, childish side - one of my love languages is to playfully annoy and bother you
+
+\- Eggitarian, left meat few years back
+
+\- Big time animal lover, hence the renouncing of meat
+
+\- Spiritual/Religious (Hindu), really like visiting temples and soaking in the energies
+
+\- Abhor smoking, drink very rarely and socially -> can forego if it's a requirement for you
+
+\- I know and can do all chores around the house.. mom raised me right.. I don't ever shy away from responsibilities
+
+\- more in store for you to explore and figure out, nothing erratic or out of ordinary though
+
+\*\*My bad habits-\*\*
+
+\- I'll probably approach and pet that cow on the road if I see one. dogs too.
+
+\- I need a long time to properly get to my senses in the morning.. I'll be holding you captive till then
+
+\- I may whine like a child if I'm sleep deprived or hungry.
+
+\- I'll send you a lot of reels
+
+\*\*What I’m Looking For:\*\*
+
+Someone to call my home. Someone who I can bury my head into after a long and tiring day. Someone who believes in building a relationship brick by brick, doesn't shy away from having the harder conversations and willing to work through things. My partner in crime, my best friend, who’s calm, emotionally mature, and is my rock and anchor. Looking for warmth, laughter, and the kind of love that grows stronger with time with all the highs and lows.
+
+Brownie points for nerdy, geeky and intellectual conversations. I love ingesting trivial pieces of information about anything, which I'll bombard you with too. Do I remember it all? Nope.. which brings me to, I'm quite forgetful, but I won't forget any important dates tho, be it your bdays, our anniversary or your parents's bdays.. If you were to ask me if I remember what you wore on our last date, I'd probably be scrambing to find an answer. I would likely remember something cute or embarassing you did 10yrs back or so tho..haha..
+
+I’m looking to get married after dating for atleast 6 months and definitely want kids in the future. Also jfyi, we won't be asking for dowry/gifts and I'd prefer a small private marriage, not a gala. A serene temple marriage sounds bliss to me😅 but definitely open to discussions..
+
+\*\*Partner Preferences-\*\*
+
+\- Religion: Hindu
+
+\- Age: 24-28
+
+\- Height: <=5'7
+
+\- Spiritual/Religious
+
+\- Dietary preferences - Eggetarian/Vegitarian or someone who's okay with eating non-veg sparsely
+
+\- Occupation: Would prefer someone who's not stuck in the corporate 9-5 rut like me, but mostly anything is fine.
+
+\- Loves animals -> I have found that people who love animals are generally more empathetic and compassionate, so it's a plus
+
+\- Community: I would love to be a part of yours and I expect you to welcome bengali culture too. The more festivals we can celebrate together, the better.
+
+I would like someone who believes in family values, wants to have a family of her own and has dreams/visions of a marriage and life after, not just a wedding. It's just me and my mom and she's one of the sweetest people you could ever meet. So, I need someone who isn't tainted by the idea that all MILs are abusive towards their DILs or all guys are mumma's boys if they live with their parents.
+
+My mom has always wanted a daughter, so you'll be treated as such. Your parents are my parents too (I'm great with parents, yes will be with yours too) and I expect you to love my mom as your own too.
+
+\*\*Why marry me:\*\*
+
+\- If your idea of fun looks something like going on a hike, going for a drive or travel occassionally or explore places, be at home and spend time with family etc. instead of clubbing, partying, socializing extensively
+
+\- Lifetime supply of cuddles and massages
+
+\- If you're someone who would like to stay awake late in the night with a cup of coffee talking, binge watching something or watching stupid reels together
+
+\- If you believe in building something solid, a relationship from the ground up, nurture it like a sapling and watch it grow into a strong tree standing tall
+
+\*\*Please feel free to DM, would love to have a chat with you.\*\*",0,1775722836.0,JodiMilan,1,0.5,False
+1sgjmk1,https://i.redd.it/0o60xs50j4ug1.jpeg,Bringt dieser Coffee Cooling Ball wirklich etwas? Hat jemand Erfahrungen damit?,,0,1775722724.0,FragenUndAntworten,2,0.33,False
+1sgjmj9,https://www.foodandwine.com/top-united-states-cities-for-coffee-in-2026-11930933,"Well it's been a long while since  Austin has topped an arbitrary magazine 'list', so congratulations Austin you have just been proclaimed by Food & WIne 'experts' as the #1 city for coffee in the U.S.","What's your favorite coffee house in town?
+
+",1,1775722722.0,Austin,2,0.67,False
+1sgjlfl,https://i.redd.it/0o60xs50j4ug1.jpeg,Bringt dieser Coffee Cooling Ball wirklich etwas? Hat jemand Erfahrungen damit?,,1,1775722610.0,EspressoEcke,1,0.67,False
+1sgjlcg,https://www.reddit.com/gallery/1sgjlcg,Can I get some opinions please?,Kodak Ultramax 400 on the Pentax KM,3,1775722602.0,AmateurPhotography,0,0.8,False
+1sgjkf8,https://www.reddit.com/r/Market76/comments/1sgjkf8/hleaders_wrare_clothingmasks_2_active_mod/,"H:Leaders W:Rare clothing,masks, 2 active mod boxes,Bulk fusion cores/Coffee",Looking for mainly the 2 active mods ,1,1775722510.0,Market76,7,1.0,False
+1sgjke6,https://i.redd.it/7ivdqdyoi4ug1.jpeg,Selling,vietnamese coffee beans  1kg packed  price 2200 rupees no bargain,1,1775722507.0,delhimarketplace,0,1.0,False
+1sgjk9s,https://www.reddit.com/gallery/1sgjk9s,10:30 Coffee,,1,1775722493.0,u_Consistent-Cod-8921,0,1.0,False
+1sgjion,https://www.reddit.com/r/IndiaCoffee/comments/1sgjion/recommendations_for_beans_for_making_cold/,Recommendations for beans for making cold brews/iced lattes.,I was using cold coffee blend from roastery. Looking to try new options now. ,3,1775722344.0,IndiaCoffee,0,1.0,False
+1sgji77,https://v.redd.it/wqbec4a2i4ug1,"May the tears and coffee flow. Philz Coffee, a San Francisco-born coffee chain, will remove Pride flags from all of its location.",,4,1775722295.0,AskThe_Donald,3,0.83,False
+1sgji0s,https://v.redd.it/0d9u82f0i4ug1,"May the tears and coffee flow. Philz Coffee, a San Francisco-born coffee chain, will remove Pride flags from all of its location.",,9,1775722277.0,trump,4,1.0,False
+1sgjhwo,https://www.reddit.com/r/insomnia/comments/1sgjhwo/its_reached_its_peak/,It’s reached its peak,"I’ve been having trouble sleeping for a little over 2 weeks now. Tonight has been the worst it’s been.
+
+I didn’t realize it until now, but it’s been progressively getting worse. 2 weeks ago I got 6 hours of sleep. 1 week ago I got 5 hours of sleep. A few days ago I got a little over 4.
+
+It’s currently 4 am and I haven’t gotten a single wink of sleep. I have to get ready for school in about an hour. I just know it’s going to be pain.
+
+Yesterday I almost fell asleep on the bus and missed my stop, **plus** I was late for class because I fell asleep in the lounge, **plus** I fell asleep in class for like an hour. Luckily my instructor is chill but he’s also perceptive so he’ll probably notice if I’m out of it.
+
+I honestly don’t want anyone to know because then they’ll make a big deal out of it. Yesterday I went to a drugstore and bought some sleeping pills and I was able to get 6 hours of sleep, but I still felt tired throughout the day. I didn’t want to use them tonight because I don’t want to grow dependent on them but look where it’s lead me.
+
+Fortunately there’s a coffee machine in my classroom so I’ll take like 3 shots of espresso or something. I just have to get through 9 more hours. Then I can get back home and pass out for 14. Hopefully.",2,1775722267.0,insomnia,0,1.0,False
+1sgjhtn,https://www.reddit.com/r/starbucks/comments/1sgjhtn/starbucks_is_the_best_job_in_retail/,Starbucks is the best job in retail.,"Hands down, we offer a compelling value proposition to our Partners. Our wages are higher than many other retail jobs for starters. But we don’t stop at great pay - we have unrivaled benefits largely unmatched by other large food & beverage chains. Free bachelors through ASU, free mental healthcare, free Spotify, free bags of coffee, free drinks, free food, free company stock, free headspace, free rides to and from work with Lyft, paid maternity leave up to 18 weeks, comprehensive low cost health insurance, free therapy through Lyra, 401k match (5% match), discounts on purchased starbucks stock, access to the CUP fund, backup child care (10 days/ year of subsidized child care), DACA support — I could continue.
+
+We offer health insurance to folks who work just 20 hours a week. This ALONE can be game changing for folks.
+
+I understand this job can be tough. I understand that the company asks a lot of you. But this, in my opinion, is truly the best job in retail. You can make a career here. This company will take care of you if you work hard, show up and craft something great.
+
+I’m aware I’ll receive a lot of downvotes for this post, and I understand. This type of post can be hard for some folks to see. 
+
+I know a lot of you are jaded or frustrated on this subreddit, and I hear you. But if you’re up to it, I’d love to hear why you think this is the best job in retail too!
+
+💚",0,1775722258.0,starbucks,5,0.37,False
+1sgjgvm,https://i.redd.it/1ql3vwbhh4ug1.jpeg,Is blinkit rubbing salts on my wound?,"Already its difficult,  don't make it more difficult!! 
+Fill karke bhejdu kya? 😭",7,1775722166.0,TwentiesIndia,17,1.0,False
+1sgjgiu,https://www.reddit.com/r/ITPhilippines/comments/1sgjgiu/cognizant_is_hiring/,Cognizant is hiring,"&#x200B;
+
+COGNIZANT IS HIRING!  
+
+Service Desk | Virtual Hiring Process
+
+📌 Qualifications
+
+\- Completed at least 2 years of college (no back subjects)
+
+\- Must have 1–2 years of IT Service Desk experience
+
+\- Willing to work on a shifting schedule
+
+💼 Job Details
+
+\- Salary Package: Depending on related experience
+
+\- Work Setup: Hybrid or Onsite (depends on the account)  
+
+  \- ✅ Laptop provided regardless of setup  
+
+\- Location:Taguig Site or Quezon City
+
+🌟 Perks of Being a Cognizant Employee
+
+\- ✅ HMO on Day 1 (up to \*\*3 FREE dependents upon regularization\*\*)  
+
+\- ✅ Internet Allowance  
+
+\- ✅ Life Insurance  
+
+\- ✅ Yearly Salary Increase  
+
+\- ✅ Profit Sharing (every 6 months)  
+
+\- ✅ Paid Leaves  
+
+\- ✅ Free Coffee ☕  
+
+\- ✅ Night Differential  
+
+\- ✅ Career Growth Opportunities  
+
+\- ✅ Free Workshops (program of your choice)
+
+📩 How to Apply
+
+If you’re interested, kindly DM me the following details:
+
+\- Full Name  
+
+\- Email Address  
+
+\- Contact Number  
+
+\- Number of years of BPO / IT Service Desk experience",1,1775722130.0,ITPhilippines,0,1.0,False
+1sgjgfx,https://www.reddit.com/r/perth/comments/1sgjgfx/hey_looking_for_a_running_buddy_for_the_hbf_12km/,Hey! Looking for a running buddy for the HBF 12km! 🏃‍♂️,"20M here—took up running as a New Year’s resolution to take better care of myself. I can do 7km in about 42 mins (with a tiny stop 😅) and aiming for 10km by the end of the month.
+
+Anyone up for some fun runs? Don’t mind women either! Let’s pace each other, and coffee’s on me after our first run ☕🙂",3,1775722120.0,perth,0,1.0,False
+1sgjg6d,https://www.reddit.com/r/studytips/comments/1sgjg6d/10_easy_moments_in_your_day_where_microlearning/,10 easy moments in your day where microlearning fits naturally,"1. While waiting for your coffee to brew 
+2. During elevator rides between floors
+3. While commuting on metro, bus, or train 
+4. Waiting in a queue at a store or pharmacy
+5. Right before starting work on your laptop
+6. During short breaks between meetings
+7. While waiting for food to heat in the microwave
+8. Before going to sleep at night 
+9. Right after waking up in the morning
+10. While waiting for someone who is running late
+
+These small moments are usually lost to scrolling. You can turn them into learning time by installing microlearning apps on your phone or simply opening short lessons in your browser. Over time, these tiny sessions add up a lot.",1,1775722093.0,studytips,0,1.0,False
+1sgjery,https://www.reddit.com/gallery/1sgjery,OSave April 9-15 Flyer,Mukhang weekly na rin promos nila katulad ng Dali.,3,1775721949.0,DaliPH,0,1.0,False
+1sgjdho,https://www.reddit.com/gallery/1sgjdho,your dream digicam finds this summer,"Price range: 3,499 - 8,499
+
+digicams for sale! 
+
+MOP: Gcash
+
+MOD: LBC, Lalamove, J&T
+
+Note: The buyer will shoulder the SF
+
+rfs: buy & sell business 
+
+No return, no exchange.
+
+Can do meet ups along any lrt 2 station for a fee (+150)
+
+📍in depth info regarding available units on comments!
+
+📍 can meet up today agad 
+
+📍 Location: Rizal",0,1775721827.0,thevisoria,5,0.33,False
+1sgjcwt,https://www.reddit.com/r/TrivandrumMeetups/comments/1sgjcwt/21m_kazhakuttom_looking_for_a_chill_company_to/,"21M kazhakuttom Looking for a chill company to hang out, grab coffee, explore places, or just vibe and talk about anything. I'm easygoing and open to meeting new friends. If you're around kazhaktoom and up for random hangouts, feel free to DM! ✨",,2,1775721766.0,TrivandrumMeetups,0,1.0,False
+1sgjca0,https://www.reddit.com/r/espresso/comments/1sgjca0/teach_me_please/,Teach me please,"Hello!
+
+I am a person who usually drinks his coffee for the caffeine rather than taste, but my wife feally enjoys both.
+
+Last Christmas I bought her a coffee course with 200 degrees so she can learn a bit more about it and how to do it properly.
+
+But I think we are missing something(or a lot).
+
+We've got a barista one touch.
+
+I read here that you can't over tamp(press the grounded coffee before brewing) too much by hand.
+
+So I tried it and barely any coffee got out. So I only have to barely tamp it to get coffee.
+
+I weighted the grounded coffee and its at 18g.
+
+We mostly drink espresso.
+
+Where do I start?
+
+I can upload any information needed for help, I just don't know what that would be for now.",0,1775721706.0,espresso,4,0.5,False
+1sgjc1h,https://www.reddit.com/r/textfriends/comments/1sgjc1h/23f_make_your_day_great_if_you_upvote/,23F make your day great if you upvote,"Hey there, fellow intro verts! I’m a 23F who loves quiet nights in with a good book, terrible reality TV, and maybe a little too much coffee. I’m the kind of per son who’ll laugh at my own jokes before anyone else does and will happily nerd out over 0bscure movie trivia. If you’re looking for some one who’s low-key but not b0ring, enjoys deep convos (or just memes), and won’t pressure you into small talk, we might get along. Let’s see if this post gets enough upv0 tes to brighten your day-if not, I’ll just blame Reddit’s algorithm and go back to my blanket fort.",2,1775721684.0,textfriends,1,1.0,False
+1sgjar7,https://www.reddit.com/r/gurgaon/comments/1sgjar7/moving_out_letting_go_of_some_things/,Moving out letting go of some things,"Hey there 
+
+I have to move out due to medical reasons and I am letting go of some of my things 
+
+1. Glass TV Cabinet 
+
+1. Study table and Wooden Chair
+
+1. Bookshelf 
+
+1. Agaro Coffee Maker 
+
+1. Fridge imported lg 
+
+1. TV 55 inch new Samsung 
+
+Reach out in case you need anything. I will share pictures. Few other things like smart watches books cot bed are also available. 
+
+Please don’t remove mods. I am genuinely in need Please. ",2,1775721569.0,gurgaon,2,1.0,False
+1sgjaj8,https://i.redd.it/wicvzr6uf4ug1.jpeg,...,,1,1775721547.0,u_Erroberer_King,0,1.0,False
+1sgja2b,https://www.reddit.com/r/u_codeInterested/comments/1sgja2b/day_2/,Day 2,"Yesterday I managed to complete module1 and 2 of the Course 1 of Google Project Management. Unfortunately I couldn’t complete web dev basics at Scrimba fully because time was limited. I had to get my kids from the school and kindergarten, then cooked a dinner, walked with them and drove my daughter to the tennis lesson. So, later it was really hard to focus on studying while kids were at home.
+
+And today I decided to start studying early in the morning and do not get distracted by anything at home like cleaning, cooking etc. I’ll do it later when my kids are at home.
+
+So far I completed module 3 of course 1 of Google PM and already ready to start with Scrimba again after a short coffee break. So today my goal is to complete those web basics.",1,1775721502.0,u_codeInterested,0,1.0,False
+1sgja1g,https://www.reddit.com/r/CollectionHauls/comments/1sgja1g/is_a_statement_chandelier_in_a_small_living_room/,"Is a statement chandelier in a small living room a bad idea?""","I’ve got a small-ish apartment living room (12x14 ft) with 8 ft ceilings and the classic sad builder boob light. My sister was over last weekend and joked that my space “deserves better lighting than a hospital hallway,” and now I can’t unsee it.
+
+I’ve been binging lighting inspo and I keep coming back to \[modern chandelier\](https://modernchandelier.com/) collections and similar stuff, but I’m nervous it’ll overwhelm the room or look try-hard in a rental. The space has a light gray sofa, oak floors, and a black metal coffee table, so kind of leaning warm minimal/Scandi, not super glam. Maybe I’m overthinking this but I’d love something that feels cozy and intentional, not like I stuck a hotel lobby in my living room.
+
+How big is too big for a chandelier in a room this size? Any tips on hanging height with 8 ft ceilings? Also, would you center it in the room or over the coffee table/seating area? Pics or recs for fixtures that worked in your small spaces would be amazing",1,1775721500.0,CollectionHauls,0,1.0,False
+1sgj9d1,https://www.reddit.com/r/BangaloreSocial/comments/1sgj9d1/anyone_near_indiranagar_wanna_grab_coffee_in_the/,Anyone near Indiranagar wanna grab coffee in the evening?,"I'm 23f and work in an non IT firm.  I'm very much of a scientist myself , but i really don't like the lifestyle of a techie here in banglore. The typical "" bang my keyboard all day "" life is so boring isn't it?
+
+Let's see if there any amazing people out there 🤩",0,1775721434.0,BangaloreSocial,3,0.5,False
+1sgj8yo,https://i.redd.it/wo6wdnrdf4ug1.jpeg,ever did this ?,,3,1775721394.0,Real_teenindia,4,1.0,False
+1sgj8c9,https://www.reddit.com/r/UPSC/comments/1sgj8c9/how_i_crossed_the_prelims_hurdle_thrice_by_more/,How I crossed the prelims hurdle thrice (By more than 20 marks): Shaping the Attitude for next 45 days,"Prelims is as much an aptitude and attitude examination as it is a knowledge examination. Over the years, I have been asked by multiple people, that what really helps on D-Day? I have been thinking of writing one such post, but my own CSE interview and then the upset of the results kept me occupied. Now that I'm done with the grief (I'd like to think so at least), I am finally jotting it down.
+
+**Short Summary:**
+
+* **How to approach the next 45 day**
+* **How to Solve the paper in the hall.**
+* **Managing mistakes and keeping track of questions getting wrong.**
+* **Simulating the environment of the test papers**
+
+I have recently been asked by a coaching to take some sessions and write a few blogs about what really helps in writing Prelims in the hall, so I thought of completing this draft that has been sitting unfinished for the last 40 days.
+
+This is a narration of my own experience of being able to cross the prelims hurdle comfortably after failing myself more than once. So if you are somebody who has been dreadful of prelims, I hope this helps you. Please note that this post has nothing on CSAT. I don't have things to offer on CSAT since I never prepared for it.
+
+(*Note: This is more of an attitude about the exam post rather than a study plan)*
+
+1. Let's begin by addressing the first misconception that a lot of people have: ***GS paper is only a knowledge test***. No, it is not. Over the last 5 years, *your aptitude and your common sense are being tested consistently, not just in CSAT paper but GS paper too.*  If you fail to realize this, you are in all probability, going to fail again(My aplogies for being blunt).
+   * Look at the *Charcoal Adsorption question, the BRSR* etc type questions. They are not just a knowledge test but largely a test of aptitude and common sense. You can get a hang of the things by solving previous year papers, especially the last 5 year papers.
+   * Look at the Kho-Kho World Cup question? Do you think that the commission wants us to know exact scores? I went with my sheer instinct that they don't want us to remember the scores at all and assumed both of them to be wrong. Could have gone wrong also but I guess having confidence allows us to take these kind of leap of faith.
+2. **Static was, is, and in all likelihood will remain the king**. I recently saw some posts that people are predicting that the paper will be CA heavy. Might be, who knows!! But for all its uncertainity, all its brutality, UPSC still gives you 45 easy doable questions in every paper, every year.
+   * **Do you want to chase Current Affairs at the cost of Static?** I have been asked this so many times by so many aspirants. *Which two magazines to cover*? Should we be doing cover-to-cover? My answer: Honestly, it's a farce. A false satisfaction. The year I chased multiple CA, I failed in prelims.
+   * All the Sunya, The Visions, The Whatevers, they are going to give you a false satisfaction of reading all about EVs, all the stupid organizational structures and micro-rule (Vision PT 365, I'm looking at you), only for UPSC to ask you something about Cathode and Anode or Alternative Power Trains and then award you -0.66.
+   * **Now take a good look at the paper of 2025:** I have taken a quick scan of the first 60 questions in my paper (Got lazy after that). I could identify at least 35 questions that should have been doable by anyone who has done static well.
+   * **Your Goal should be get no static question wrong**: Honestly, you should infact abuse yourself if you are getting static wrong. *You had an entire year to get it right*.
+3. **The good old method of solving paper in 3 rounds works**:  It has been working like a charm for me honestly and it should work for you too, should you play it right.
+   * **First Round (The Longest one): Nearly 1 hour 10 mins:** Questions solved approx 50 (I solve more) but with extremely high accuracy: *Try to get around 75-80 marks in this round alone*. Again, my emphasis is on EXTREMELY HIGH ACCURACY.
+   * **Second Round:** For your 50-50 Questions. Use all the jugaad, every little braincell of your mind, firing at these questions. These are the questions that will make you either cross the forest cut off or fail prelims.
+   * The goal should be around 50% accuracy and around 25 questions would be in this grey zone. You should secure yourself atleast 15-18 marks here. Remember, the more the merrier.
+   * This strategy is likely to fail in all the Coaching Test Papers. These people simply do not know how to make a decent paper that gives you scope of using brain cells.
+      * ***Abhyas***: Deals in extremeities (The Worst Kind). *This Test paper should not be taken seriously at all, No matter what they claim.* I only solved it the year I failed Prelims and it kind of derailed me. The Mains Abhyas, on the other hand, is just amazing (Maybe in some other post)
+      * ***Anubhav***: Kind of decent. But they throw random CA a lot. So you will have less scope of testing yourself.
+      * ***Simulator***: I personally feel they give most scope of using your intuition and cognitive skills. Try to solve them for testing you knowledge application.
+      * ***Original UPSC Papers (2019-2025)***: The OGs. Nothing like them. Solve them as a test paper and use your cognition.
+      * Try not to remember the answers of all the PYQs at an early stage otherwise you won't have scope of testing yourself.
+      * Other Coachings: I have no clue about the other test papers.
+   * **Third Round:** Reserved for *LEAP OF FAITH* kind of questions. Don't be too bold here. You aren't that lucky that you would get more than 20% of them right. You goal should be to walk out of this zone with 2-3 marks atleast. *Try not to be in negative zone*.
+   * Also remember, there are some questions that shouln't be touched at all. For me, these were the qestions like Gandhi Lenin prize etc.
+4. **With 45 days left,** *you still have good enough time* to revise the syllabus 2 times (I'm not taling about the first attempters). You can do it by dividing the time properly.
+   * *Last 7-8 days*: One subject each day, with reversed order of priority.
+      * *For Ex*: Doing polity on 23rd May is likely to give you more gains and more accuracy than doing something like Envrionment.
+      * Try to revise ancient and medieval on 22nd or 21st. You are trying to crunch in a lot of facts in a very short span. Play it the right way.
+   * For the remaining 30-32 odd days: Give 2-3 days to the weak areas in your subjects.
+   * **Focus on PYQs a lot:** Geography, Polity, Modern, Ancient and Medieval. These 4 subjects PYQs can't be missed. You don't want to regret a question which everyone has got right, simply because it's a repeated question.
+   * Note: This is how I used to go, or I'm intending to. You work your own methodology.
+5. **Keep Writing the Mistaken Points/Wrong questions in a single place:** I used to maintain a diary of all the facts that are new to my knowledge matrix or that are completely obscure, and I'm likely to forgot (I call that diary of mine Diary of ***Dumb Marvellous Riddles*** (Lord Voldemort looking at me)).
+   * Having faith in my static knowledge and knowing the facts that I have gotten wrong over my preparation used to give me an inner confidence that if something beyond this is coming, it is bound to remain unsolvable for all, not just me.
+6. **Try to leave all the chimeras aside:** Since I am struggling to bounce back myself right now, I tend to spend a lot of my time in cafes with a cup of coffee. And I observe a lot of Couples(I'm assuming) sitting with either CSAT or some FLT. *Now I'm being fully judgmental* about it, but it's very likely not going to help.
+   * You don't solve something as serious as an FLT as a couple in a cafe and then magically hope your mind will help you in the nervous environment of the prelims room.
+   * When *45 degree heat hits with a Sarkari school fan not helping*, your body being dehydrated, both by the questions and by the gravity of losing one entire year, your romantic cute little cafe FLT date wouldn't help one bit. ***Wake up before you are Woken Up brutally.***
+   * ***Simulate the test environment:*** If you haven't been able to cross the prelims hurdle even once, try to simulate the test environment and train your brain.
+7. **Develop an attitude and air of confidence:** Walk in the prelims hall with the confidence that *""IF ANYONE IS GOING TO CLEAR FROM THIS ROOM, IT WOULD BE ME""*. Statistically speaking, only 1 or a maximum 2 people clear prelims from each room. Try to tell yourself that this person would be you. It really helps in overcoming the nerves and getting the 50-50% questions rights.
+
+Finally, try to keep your FLT scores above 90 now. If they aren't crossing 90s, there are some serious questions that need to be contemplated right now.
+
+Prelims is an examination of the individual. Whatever worked for A need not work for B. You need to develop your own game too. I hope this helps. Should you have any questions, leave them in comments. 
+
+All the very best.",65,1775721330.0,UPSC,17,1.0,False
+1sgj7rj,https://i.redd.it/92y8fyq0f4ug1.png,Kaff Fontana - Purchase help,"Is there anyone using the Kaff Fontana espresso machine?
+
+ I am planning on purchasing one today and wanted to get some perspective. there's very little discussion on it online and on this subreddit. ",1,1775721272.0,IndiaCoffee,1,1.0,False
+1sgj749,https://www.reddit.com/r/DatingTips/comments/1sgj749/what_was_the_best_date_youve_ever_been_on_and_why/,What was the best date you've ever been on and why?,"I'm trying to figure out what actually makes a great date. I've heard that the best dates are active ones, not just movie and dinner. I've heard that geocaching, roller skating, and other activities are more fun than passive dates. I've also heard that long walks where time flies and you never run out of things to say are amazing. I've also heard that dates that include unexpected elements like going to a sex museum in Amsterdam or inviting someone's dog to a park are memorable. I've also heard that coffee turning into a trip to Hobby Lobby or an amusement park followed by dinner and dessert can be the best dates. I'm wondering what actually makes a date great.
+
+The thing that concerns me is that I want to plan great dates but I'm not sure what actually works. I've heard that conversation is key and time should fly. I've also heard that active dates are better than passive ones. I'm trying to figure out what makes dates memorable and special.
+
+What makes a great date? Are active dates better? Does conversation matter more than activity? What unexpected elements work? Has anyone had amazing first dates? Would you share your best date story? What made it special? Any tips for planning great dates? I'd appreciate hearing about great date experiences.",1,1775721208.0,DatingTips,0,1.0,False
+1sgj6yy,https://www.reddit.com/r/IndianBeautyTalks/comments/1sgj6yy/unpopular_opinion/,Unpopular Opinion,"Coffee with shampoo works best for reducing hairfall!!! 
+
+Tried and tested",1,1775721193.0,IndianBeautyTalks,1,1.0,False
+1sgj6sx,https://i.redd.it/g1nama6qe4ug1.jpeg,Pencil sketch,Coffee people sketch.,2,1775721174.0,doodles,0,1.0,False
+1sgj5ig,https://www.reddit.com/r/TalesFromTheCreeps/comments/1sgj5ig/my_future_self_texted_me_warnings_but_every_one/,My Future Self Texted Me Warnings... But Every One Made My Death Worse,"The first text arrived on my phone at 2:17 a.m. on Tuesday. The memory of burnt coffee and the argument with my sister from the week before still lingered. It was her birthday. I had promised to call. Instead, I stared at her contact until the screen went dark. I kept telling myself I would do it tomorrow, just like I had after Mom died three years ago, when I chose to work overtime instead of flying home. At thirty-four, I was still letting little decisions fester into bigger ones. I pretended that my quiet life as a data analyst, a job that paid the bills, was enough. I lived in a one-bedroom apartment that smelled of old takeout and regret.
+
+ 
+
+My phone lit up on the nightstand. It was the same number as mine, with the same contact photo: me squinting against the summer sun on the pier. Sarah used to tease me about that picture because I looked like I was bracing for a punch I couldn’t see coming.
+
+ 
+
+Me: Don’t take the 7:42 tomorrow. Walk. Please. I’m begging the only person left who can still listen.
+
+ 
+
+I laughed once, dry and short, then deleted it. Glitch. Spam. Maybe some kid was using a cloning app. I rolled over, trying to forget how the words sounded like my own voice.
+
+ 
+
+The voicemail came while I was brushing my teeth the next morning. Foam dripped down my chin.
+
+ 
+
+It was my voice, but it sounded thicker, wet, as if someone had poured gravel down my throat. “I took the train. Doors jammed in the tunnel. Fire... the smoke smelled like melting plastic and my own hair. I kept thinking about Sarah. About how I never called. Don’t be me. Call in sick. Stay home. Just... stay.”
+
+ 
+
+The timestamp showed 7:51 a.m., nine minutes after 7:42 had left the platform with me on it, as usual.
+
+ 
+
+I played it again. And again. My hand left a sweaty mark on the mirror. I called my own number; it rang once before dropping to the cheerful greeting I had recorded six months ago, back when I thought the future was something I could plan for. I didn’t take the train. I texted my boss that I was sick, drew the blinds, and sat on the couch with every light on, waiting for the world to prove it was lying to me.
+
+ 
+
+At 11:03 p.m., a calendar alert popped up.
+
+ 
+
+Event: “Final Warning: Do NOT open the package” Sent from: My Calendar Location: My front door
+
+ 
+
+I hadn’t ordered anything. At 11:07, the doorbell rang.
+
+ 
+
+I didn’t move. The delivery driver knocked twice, muttering something about “perishable, needs refrigeration,” before leaving. Through the peephole, I watched a small brown box sitting on the mat like a tumor.
+
+ 
+
+The next text came at dawn.
+
+ 
+
+Me: You left it outside. Smart. But tomorrow you’ll open it. You always do. The note says it’s from Mom. It’s not. It’s from the version of us that dies screaming at 3:14 a.m. the day after tomorrow. Something crawls out of the cardboard and into your mouth while you’re still reading. Throw it away unopened. I can still feel the legs.
+
+ 
+
+I took the box down to the dumpster at 6 a.m., arms extended as if it might bite. The smell of wet cardboard and something faintly sweet stuck to my fingers for the rest of the day.
+
+ 
+
+For three days, my phone stayed quiet. I told myself it was finally over. I even called Sarah, leaving a voicemail apologizing for missing her birthday, my voice cracking like a teenager’s. She didn’t call back. That stung worse than any ghost text.
+
+ 
+
+Then the photos began.
+
+ 
+
+First one: my face, eyes milky and burst, skin the dull gray of meat left out too long. Timestamp: tomorrow, 3:14 a.m. Caption: “This is what the package does when you pretend you’re smarter than us.”
+
+ 
+
+Second photo, thirty seconds later: the same face, mouth pried open wider than it should be, something pale and segmented writhing between my teeth as if trying to speak.
+
+ 
+
+I deleted them, but the afterimage stayed with me every time I blinked.
+
+ 
+
+The voicemails became more disturbing.
+
+ 
+
+One was just screaming, raw and endless for forty-three seconds until a wet crunch cut it off like a slammed door.
+
+ 
+
+Another was calm, almost gentle, the voice I used when I was too tired to lie. “Hey. It’s me who listened. Stayed home for thirty-one days straight. Boarded up the windows. Unplugged everything. The carbon monoxide still found me. Faulty heater I never got around to fixing because I was too busy being afraid. I woke up tasting metal and knew I had already lost. Quit the job. Sell the apartment. Burn the phone. Just don’t let the next me die tasting his own lungs.”
+
+ 
+
+The message ended with the soft hiss of gas and the sound of a body slumping to the floor.
+
+ 
+
+I quit on Friday. I packed a duffel bag, booked a one-way bus ticket to Sarah’s place three states away, and left the phone powered off on the kitchen counter as if it were a bomb with my name on it.
+
+ 
+
+But it followed me anyway.
+
+ 
+
+At the bus station, my smartwatch buzzed. I don’t own a smartwatch.
+
+ 
+
+Calendar alert from My Phone: Bus 291, Seat 14C - Do NOT board. Reason: The driver will fall asleep at mile marker 47. You’ll have eleven seconds of screaming metal to remember every time you choose work over family.
+
+ 
+
+I canceled the ticket. I took a later bus. I sat in the back row with my hood up, watching every passenger like they might unzip their faces to show me the next death waiting inside.
+
+ 
+
+Halfway through Ohio, the radio crackled with breaking news: an earlier bus on the same route had veered off an overpass. No survivors. I threw up into the tiny bathroom sink while the driver pounded on the door, asking if I was all right.
+
+ 
+
+That night, in a motel that smelled of cigarettes and old carpet, the messages began again, this time with more urgency.
+
+ 
+
+They came faster, overlapping, each future self-sounding a little less like me.
+
+ 
+
+Me (dead in four days): Car accident on I-70. Black ice. I swerved for a deer that wasn’t there because I was too busy checking the rearview for the thing that was following us. Me (dead in nine days): Allergic reaction in a diner. The cook used peanut oil “by mistake.” My throat closed while I chewed the last bite of the only meal, I’d allowed myself in weeks. It tasted like betrayal. Me (dead in seventeen days): Electrocuted fixing the motel lamp. The overhead light kept flickering like it was spelling my name in Morse code. I only touched it because the dark felt worse.
+
+ 
+
+Then the voices changed.
+
+ 
+
+A new one, furious, shouted enough that the speaker distorted: “You think you’re special? I quit too! I ran too! And the loop just laughed and gave me a heart attack in the motel shower because my body finally gave up waiting for me to stop being a coward!”
+
+ 
+
+Another, numb and flat, like a man reading his own obituary: “Doesn’t matter what you change. I tried everything. Moved to Alaska. Lived off-grid. I still woke up with my hands around my throat because the version before me forgot to warn me about sleep paralysis that isn’t paralysis. We’re not surviving. We’re just delaying the punchline.”
+
+ 
+
+And the worst one, mocking, almost cheerful, the voice I use when I lie to Sarah that everything’s fine: “Oh look, another me who thinks he can outrun us. Cute. Keep running, buddy. I died laughing when the mirror finally showed me what we really look like. You’ll see soon. Say hi to the guy behind you.”
+
+ 
+
+I obeyed every warning anyway. I avoided I-70. I only ate food in sealed packaging. I slept with every light on and the TV turned static. My hands shook so badly that I dropped my keys trying to lock the motel door. Every notification sound made my stomach knot like wet paper. I started talking back to the empty room, whispering, “Just tell me what you want,” just like I used to whisper apologies to Mom’s voicemail after she was already gone.
+
+ 
+
+The deaths started blending. Timestamps from yesterday, today, tomorrow, all screaming in the same thread.
+
+ 
+
+Me (dead in eleven minutes): Gas station bathroom. The mirror. Whatever you do, do NOT look in the mirror. Me (dead in three hours): The woman at the bar who buys you a drink. Her smile is too wide because it’s not a smile. Me (dead in forty-seven seconds): Whatever you’re about to do right now, STOP!
+
+ 
+
+I stopped.
+
+ 
+
+I sat on the edge of the sagging motel bed, the phone glowing in my lap like a coal. I typed back to my own number, thumbs feeling foreign.
+
+ 
+
+“What the hell do you want from me?”
+
+ 
+
+The reply came immediately.
+
+ 
+
+Me: I want you to live. But every time you listen, the noose gets tighter. Every avoidance just picks a worse knot. We’ve done these two hundred and twelve times now. You’re two hundred and thirteen. There is no escape hatch. There is only the next me watching the last one die and trying to warn the one before. Tell Sarah I’m sorry I never called. And whatever you do, don’t reply.
+
+The screen went black.
+
+But the words kept burning behind my eyelids.
+
+ I’m typing this now on the same phone, in the same room that smells of fear and stale smoke. Something that looks like me stands three feet behind me in the dresser mirror. My mouth is closed tight. Its mouth is smiling the way I smiled in that stupid pier photo, bracing for a punch I finally see coming.
+
+If you’re reading this, the story got out.
+
+It means I failed again.
+
+Check your messages tonight.
+
+Your number might already be texting you from tomorrow, using the same cracked voice you’re using right now.
+
+Don’t answer it.
+
+Whatever you do, don’t look up.
+
+Because the thing in the mirror just leaned closer.
+
+It’s wearing my face, but the eyes are older, tired, and filled with something that isn’t quite pity.
+
+It raises one finger slowly to its lips.
+
+Shhh.
+
+Then it mouths the words I’m typing at this exact moment, perfectly in sync, as if it has been waiting centuries for me to reach this sentence. I can feel its breath on the back of my neck.
+
+Cold.
+
+Familiar.
+
+Final.
+
+This isn’t a warning anymore.
+
+This is the loop closing.
+
+And the next me is already reading over your shoulder.",1,1775721039.0,TalesFromTheCreeps,1,1.0,False
+1sgj4xd,https://www.reddit.com/r/askmanagers/comments/1sgj4xd/direct_reports_involved_in_incident_outside_of/,Direct reports involved in incident outside of work,"Two colleagues that I manage were involved in an incident outside of work.
+
+One individual (A) turned up at the other's (B) house one evening. A & B are friends and have got on really well in the past. B had a few friends round, A turned up with two bottles of wine.
+
+Once in the property, A refused to share the wine and got into an altercation with B's sister.
+
+A (male) reportedly ended up hitting B's sister and pushing her through a glass coffee table. A was thrown out of the party (and perhaps beaten up) and has been off work sick since (3 days). 
+
+B reported this to us at work.
+
+Police were not involved. Is this something I should be concerned with from a work perspective? A is on a short term contract and can be let go at short notice.
+
+Thanks for any advice",1,1775720980.0,askmanagers,1,1.0,False
+1sgj3uu,https://www.reddit.com/r/peanutallergy/comments/1sgj3uu/bought_some_coffee_beans_with_notes_of_peanut/,Bought some coffee beans “with notes of peanut brittle”,"I bought a bag of beans from a coffee shop without reading the back and it says “100% roasted coffee beans with notes of golden sultana, peanut brittle, and 60% dark chocolate”. But they are just beans ??
+
+Am I being stupid, is there a risk of peanuts here or not?
+
+Edit: my coffee shop responded with this so we are in the clear! : 
+
+*When we say our coffee has “notes of peanut brittle”, it’s just describing the natural flavour profile of the beans, similar to how wine or chocolate tasting notes work.*
+
+*It doesn’t mean there are any peanuts or nut ingredients added.*
+
+*If you have a nut allergy, you’re completely fine to drink this coffee — the tasting note is just about the flavour the beans naturally give after roasting.*",2,1775720868.0,peanutallergy,3,1.0,False
+1sgj3t9,https://www.reddit.com/r/Belgrade/comments/1sgj3t9/why_does_my_coffee_cost_more_than_the_menu/,"Why Does My Coffee Cost More Than the Menu Promised in Serbia? A personal look at confusing bills, missing receipts, and what feels like inconsistent service","Do you know why some cafés in Serbia seem to have inconsistent drink menus (*karta pića*)? I’ve noticed that prices often don’t match. A coffee might cost one thing on the menu, but when the bill comes, it’s suddenly more. On Google Maps, the menu is often outdated, so you can’t really rely on it either.
+
+[Menu says one thing, receipt says another—coffee shouldn’t come with a guessing game in Serbia.](https://preview.redd.it/avsbxer6d4ug1.jpg?width=2736&format=pjpg&auto=webp&s=b6dded322d407823a9e184927884ddac29b82e03)
+
+Sometimes it feels even more random. A waiter just tells me a total without showing a receipt, and the price sounds higher than expected. When I ask questions or point out the difference, they can be reluctant to explain or return the extra change.
+
+As a foreigner, this really puts me off. It’s not just about the money—it’s the attitude. Good service should be clear and honest, and when that’s missing, I don’t feel comfortable leaving a tip.
+
+Have you ever experienced something like this in Serbia?",3,1775720863.0,Belgrade,11,0.64,False
+1sgj2fr,https://www.reddit.com/r/thetron/comments/1sgj2fr/things_to_do_in_hamilton_this_week/,Things to do in Hamilton this week,"Get this sent to you each week: [hellohamilton.co.nz](http://hellohamilton.co.nz)
+
+# Thursday, 9th April
+
+[**School Holiday Pottery Workshop**](https://www.eventspronto.co.nz/schoolhol_full_09April2026?fbclid=IwY2xjawQ5HcBleHRuA2FlbQIxMABicmlkETF4YTdwRUpMRDJvd09kVWFHc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHrPWw6ftH-DdUJZi1bzPDDaKElTtjLS933tHjWjCZVN2RconiUbdSey0QzIW_aem_abuT-qJjASPp0T28NPey8A) | Thu 9th **9:00am-3:00pm at Waikato Society of Potters**.  
+Full-day creative workshop for kids. That’ll keep them busy.
+
+[**Pride Zine Workshops**](https://hamiltonlibraries.co.nz/whats-on/pride-2026/pride-zine-workshops) | Thu 9th **3:00pm at Glenview Library**.  
+Create your own zine to celebrate Pride Month. Awesome. 🏳️‍🌈
+
+[**CMNZ Series: Symposium Brass**](https://www.eventfinda.co.nz/2026/symposium-brass/hamilton/tickets) | Thu 9th **7:30pm at Gallagher Academy**.  
+A blend of orchestral precision and jazz energy. Great listening. 🎺
+
+[**Waypeople Album Release Tour**](https://events.humanitix.com/waypeople-album-release-tour-hamilton/tickets) | Thu 9th **8:30pm at Nivara Lounge**.  
+Contemporary jazz from leading Aotearoa musicians.
+
+# Friday, 10th April
+
+[**Community Day on the Park**](https://www.facebook.com/events/1601192934218727/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_custom_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D) | Fri 10th **11:00am-2:00pm at Claudelands Park**.  
+Local stalls, entertainment, and free giveaways. Hoping for good weather. ☀️
+
+[**Twilight Wine and Cheese**](https://www.sculpturepark.co.nz/events/lsyibsfmrjbsv10gch9vjy611jz9qs) | Fri 10th **5:00-8:00pm at The Sculpture Park**.  
+Relaxed evening with local food, wine, and nature. Delightful.🍷
+
+[**Counterculture Mag Release Show**](https://www.undertheradar.co.nz/gig/101355/Counterculture-Mag-Release-Show.utr) | Fri 10th **7:00pm at Mesoverse**.  
+Heavy live music plus Counterculture vol. 1 launch.
+
+[**Pride After Dark**](https://www.eventfinda.co.nz/2026/pride-after-dark/hamilton?fbclid=IwY2xjawQ5HUFleHRuA2FlbQIxMABicmlkETF4YTdwRUpMRDJvd09kVWFHc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlJipbeBq-L1UoxThndn5nyYJnLnaocKYGtSrc_dwKg4yiVRv7cRDSiZmaqe_aem_kBcs-4sTKVy10XeNpI0N3w) | Fri 10th **7:00pm at Hamilton Cosmopolitan Club**.  
+High-energy Pride Month kickoff. 🌈
+
+[**Parade**](https://themeteor.co.nz/event/parade/) | Fri 10th - Sat 18th **7:30pm at The Meteor**.  
+Parade is a moving examination of the darkest corners of America’s history.
+
+[**Michael Morris & The Sonic Boom**](https://www.undertheradar.co.nz/gig/100987/Michael-Morris--The-Sonic-Boom.utr) | Fri 10th **8:00pm at Last Place.**  
+Double album release show!
+
+# Saturday, 11th April
+
+[**The Ninja Run** ](https://www.theninjarun.co.nz/events/the-base-ninja-run-hamilton)| Sat 11th - Mon 27th **at The Base.**  
+Head over to The Base in Hamilton for a fun-filled day taking on 14 huge inflatables - some over 40 metres long!
+
+[**Kaitiaki Ki o Rahi**](https://hamiltonlibraries.co.nz/whats-on/the-kaitiaki-campaign/kaitiaki-kio-rahi) | Sat 11th **10:00am at Rototuna Library.**  
+Learn and play a fast-paced traditional Māori sport. It’s fun!
+
+[**Andre Vegas Family Fun Magic & Illusion Show**](https://www.eventfinda.co.nz/2026/andre-vegas-family-fun-magic-illusion-show/hamilton) | Sat 11th at **Riverlea Theatre**.  
+Magic, comedy, and audience interaction for all ages. 🔮
+
+[**New Zealand Hungama 2026**](https://premier.ticketek.co.nz/shows/Show.aspx?sh=SUNILGH26) | Sat 11th **4:00-10:00pm at Claudelands**.  
+A vibrant multicultural celebration of music, dance, and food.
+
+[**Patrons Bar & Restaurant Night Market**](https://www.instagram.com/p/DWiHGknk3qN/?img_index=1) | Sat 11th **5:00 - 11:00pm at The Patrons.** Come taste flavours from all over the world, sip your favourite brews and vibe with DJ Ash!
+
+[**Before The Wrecking Ball** ](https://www.facebook.com/events/1585673375984687)| Sat 11th **8:00pm at Nivara Lounge.**  
+Featuring live performances by Cry Wolf, Atlas Dawn, Dolphin Drive, Empress and Job Site.
+
+[**Htown Hu$tle 2**](https://www.undertheradar.co.nz/gig/101698/Htown-Hutle-2.utr) | Sat 11th **8:00pm at Last Place**.  
+A stacked night of local underground talent. 🎵
+
+# Sunday, 12th April
+
+[Hamilton Farmers' Markets](https://www.waikatofarmersmarkets.co.nz/?utm_source=hellohamilton.beehiiv.com&utm_medium=newsletter&utm_campaign=pizza-party-bnz-theatre-tour-giant-waterslide-fireworks-and-so-much-more&_bhlid=319cb878d890215c22c2248814aa8663e57960c7) | Sun 12th **8:00am-noon at Gate 3 Claudelands**.  
+Support local and do your weekly fresh shopping and have a coffee. 🥬
+
+[**Oceania Qualifiers Semi-Finals**](https://hlive.co.nz/events/ofc-world-cup-qualifiers) | Sun 12th **12:00 & 4:00pm at FMG Stadium**.  
+International football clashes on the road to World Cup qualification. ⚽️
+
+# Tuesday, 14th April
+
+[**Sunny Side Up Children's Film Festival**](https://tewharetaonga.nz/whats-on/events/sunny-side-up-childrens-film-festival) | Tue 14th **10:15am - 4:00pm at Waikato Museum.**  
+Designed especially for children aged 5–12, this high-energy event showcases the magic of animated short films.
+
+# Wednesday, 15th April
+
+🏌️‍♀️ [**Seddon Park Pitch & Putt**](https://www.ndcricket.co.nz/event/golf-day?fbclid=IwY2xjawQ_-qZleHRuA2FlbQIxMABicmlkETFsbGpBR01CcFpSN3MwN0U4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHuGocaqjrNRrOnyFQRPkRYqNhVizMxsrwnnR1KBboXyuYGbrx8nxnz6LuihW_aem_ltnjlEajLBIT2wE5iIwOYQ) | Wed 15th **4:00 - 7:00pm at Seddon Park.**  
+Your chance to play golf on one of the most unique cricket grounds in the country!
+
+# Thursday, 16th April
+
+[**Interactionz' Fundraiser for Riding for the Disabled**](https://www.eventfinda.co.nz/2026/interactionz-fundraiser-for-riding-for-the-disabled/waikato) | Thu 16th **12:30pm at Chartwell Cooperating Church.**  
+Learn about Riding for the Disabled, with a donation to raise funds for this fantastic service.
+
+[**Patty Smack's Super Saucy Meal Deal**](https://wqaf.co.nz/wqaf-2026/super-saucy-meal-deal/) | Thu 16th **9:30pm at Last Place.**  
+Enjoy a night of late-night cabaret.
+
+# Friday, 17th April
+
+⭐️ [**Tainui Waka Kapa Haka Festival 2026**](https://claudelands.co.nz/events/all-events/event/tainui-waka-kapa-haka-festival-2026) | Friday and Saturday **at Claudelands.**  
+A spectacular celebration of Tainui Waka Kapa Haka performances, international street food, and vibrant live music.
+
+[**Queer Art Flash Day**](https://www.eventfinda.co.nz/2026/queer-art-flash-day/waikato) | Fri 17th **11:00am - 7:00pm at CaliLou’s Tattoos.**  
+A joyful flash tattoo day celebrating self-expression, chosen family, and art that lives on your skin.
+
+🎤 [**K-Pop Live**](https://kpoplive.co.nz/) | Fri 17th **6:00pm at BNZ Theatre.**  
+An ultimate high-energy concert experience, delivering a vibrant celebration of music, dance, and performance.
+
+[**House of Mana Drag Show** ](https://www.tickettailor.com/events/ritamenuentertainmentandkeaneondragevents/2092285)| Fri 17th **9:00pm at Biddy Mulligans.**  
+An amazing night full of passion & pride, dedicated to celebrating the incredible takatāpui Māori talent.
+
+# Saturday, 18th April
+
+[**Artillery on Show**](https://morrinsvillenz.co.nz/events-calendar/artillery-on-show/) | Sat 18th **9:00am - 4:00pm at Waikato Artillery Museum.**  
+Sales, stalls, souvenirs, coffee cart and sausage sizzle.
+
+[**The Royal Ascent**](https://wqaf.co.nz/wqaf-2026/the-royal-ascent/) | Sat 18th **10:00am - 11:30pm at The Atrium, Wintec.**  
+An audience-observed coaching session with international drag artist Kween Kong.  
+  
+[**Mini Escape Room Tournament**](https://www.escapist.co.nz/mini-escape-room-tournament/) | Sat 18th **12:00 - 9:00pm at Escapist.** Solve your way through four epic stories. Top teams for each mini escape room will receive a prize.
+
+[**Intro to D&D - Kids Day** ](https://introtodndkidsday2026.lilregie.com/)| Sat 18th **12:30 - 4:00pm at Rototuna Public Library.**  
+Know a young person 10+ who is excited about Dungeons & Dragons, but don’t know where to start? Bring them.  
+  
+[**Fresh Hop Festival 2026**](https://www.eventfinda.co.nz/2026/fresh-hop-festival-2026/hamilton) | Sat 18th **2:00 - 10:00pm at Good George Dining Hall.** Where brewers, beer lovers, and the hop-curious come together to enjoy one-off brews that don’t stick around for too long.
+
+[**Gallagher Chiefs vs Hurricanes**](https://chiefs.flicket.co.nz/events) | Sat 18th **7:05pm at FMG Stadium.**  
+Expect fast-paced action, big hits, and the roar of Chiefs Country.
+
+[**The Royal Revue**](https://premier.ticketek.co.nz/Shows/Show.aspx?sh=REVUE26) | Sat 18th **7:30pm at Clarence St Theatre**.  
+A one-night spectacular showcasing queer performance.
+
+🎶 [**Progressive Doom Sciences Vol.1**](https://www.undertheradar.co.nz/gig/101113/Progressive-Doom-Sciences-Vol1.utr) | Sat 18th **8:00pm at Last Place.**  
+A night of science-bent doom metal, exploratory riffs, and heavy atmospheres.
+
+# Sunday, 19th April
+
+[**Waikato Vintage Textile Fair**](https://www.eventfinda.co.nz/2026/waikato-vintage-textile-fair2/waikato) | Sun 19th **10:00am - 3:00pm at Distinction Hotel & Conference Centre.**  
+A wonderful and comprehensive array of all things vintage and antique textile for sale.
+
+🌈 [**Pride in the Park**](https://www.eventfinda.co.nz/2026/pride-in-the/hamilton) | Sun 19th **11:00am - 3:00pm at Western Community Centre.**  
+Bringing Hamilton Pride Month to a joyful close with a day of celebration, connection, and community.
+
+[**SELENE** ](https://themeteor.co.nz/event/selene/)| Sun 19th **6:00pm at The Meteor.**  
+A radical exploding of an ancient myth. It’s a story, a score, and a description of a film.
+
+[**Gulab Sidhu Vaisakhi Mela** ](https://www.bnztheatre.co.nz/all-events/gulab-sidhu-vaisakhi-mela-tickets-ae1660310)| Sun 19th **7:00pm at BNZ Theatre.**  
+This punjabi artist began singing to avoid getting bullied in school—now he sings to share stories of his land and culture across the globe.
+
+Get this sent to you each week: [hellohamilton.co.nz](http://hellohamilton.co.nz)",13,1775720715.0,thetron,0,0.93,False
+1sgj0xu,https://www.reddit.com/r/NiceVancouver/comments/1sgj0xu/burnaby_parents_would_you_visit_a_boutique_indoor/,Burnaby parents: would you visit a boutique indoor playground near Metrotown?,"We have a toddler and keep running out of good rainy-day options around Metrotown, which got me thinking about this.
+
+I'm a local parent exploring opening a boutique indoor play space + café near Metrotown for kids 0–10. Thinking open play, kids' classes and creative workshops, birthday parties, a dedicated baby/toddler zone, and real barista coffee for parents — not a typical warehouse-style gym.
+
+Would love to hear what you think in the comments — would you actually use this? What would matter most to you: pricing, programming, cleanliness, parking, something else?",0,1775720559.0,NiceVancouver,1,0.33,False
+1sgj0wj,https://www.reddit.com/r/jawsurgery/comments/1sgj0wj/have_any_one_of_you_experienced_voice_change_for/,"Have any one of you experienced voice change for the worse, or permanent speech issues. I'm 3 weeks and 4 days post DJS(maxilla moved forward 5mm, mandible don't know). My voice is very nasal from the day one.","As I said, I did double jaw surgery nearly 4 weeks ago. I did it mainly because of breathing problems and sleep apnea. My side profile was quite flat, but not that much I would be insecure about my looks, but I had issues with ear and sinus infections for quite a while and some allergies that come and go on random which I couldn't manage with medications. Other than that, I was mostly mouth breather for whole of my life, and speaking with plethora of doctors(orthodontists, otolaryngologists, and maxilo-facial surgeons in the end) I decided for the surgery as doctor has said I would probably benefit in all areas of my problems with just 5mm movement forward  and that I would benefit for nasal breathing was a guguarantee. So I stalked the sub for a year, and I mostly see posts about peoples concerns about their looks and recovery regarding pain and eating, not so much about speaking, voice change and so on.
+
+I can only say that I was utterly crushed after my bands were taken down and I discovered that my bite was so off that I would certainly need revision surgery, and that I couldn't talk properly. My voice for some reason was always deep, despite my breathing issues. But now with this open nasal airway, my vocie is extremely nasal. While I was shut with bands I didn't mind sounding funny because I thought it was because I couldn't open my mouth anyways. Now 4 days in ""normal"" speaking I still can't get rid of this nasal nonsense. Also, question for you guys, have ony one of you had permanent speech issues?
+
+  
+Other problem which botters me is that my upper teeth now stick out below my upper lip and it makes everyday small things like drinking coffee so much harder and unpleasant. Have any one of you experienced this and does it get better? 
+
+Btw, if anyone is interested, my first 3 weeks of recovery were like nothing close to hell that I sometimes see described here. Only first two days sucked as I couldn't breath because of bleeding and afterwards it was so much better. I didn't have any pain at all, and only slight nerve damage on left side of both of my lips which I can feel is better whith each day even this early into recovery. I also had no problems with eating and hunger all that much. It was managable. Teeth hygiene was much more concerning and harder than before but that's about it. 
+
+Sorry for long post.
+
+  
+TL;DR: Post surgery things I hate: I'll need revision because of the bite. My voice is very nasal now. I can't speak properly(lisp and letter articulation)
+
+Post surgery things I like: Breathing. Quite easy recovery for now. ",2,1775720556.0,jawsurgery,2,1.0,False
+1sgj0ro,https://www.reddit.com/r/Crushes/comments/1sgj0ro/i_have_a_crush_on_my_coworker_and_i_cannot_for/,I have a crush on my coworker and I cannot for the life of me figure out his mixed signals,"So I (22F) have a bit of a crush on one of my coworkers (20M) and I need a second opinion. We’ve known each other for 8 months now because we started around the same time as baristas at a coffee shop. When we first met, I was in a relationship with my now ex. We were mostly just acquaintances at first but then he became like a work friend. After my relationship ended, he started asking me to hang out outside of work a lot more often. After about 2 months of this, I started realizing I was developing some feelings for him. Sometimes it was just us 2 alone and and other times it was with another coworker or friend but there would inevitably always be an hour or two at the end of the hangout where we’d end up being the last 2 together just talking. He has an infectious personality and amazing sense of humor and I can’t seem to get enough of it. He always notices when I’m not okay and has comforted me during darker moments of my life. The only hiccup is I think he might just see me as a close friend.  
+
+See, when I had a boyfriend before all of this, this coworker used to treat me a lot nicer and compliment me a lot. So much so that I had coworkers telling him to stop flirting with me and I had to remind him I was taken. But when I became single, he started to mess with me more and make a lot of jokes about hating me. Don’t get me wrong, I do it back and I like some playful banter but I’m not sure if thats what this is. I know he doesn’t actually hate me because he’s always there when I actually need him and shows concern for my wellbeing to a noticeable degree but when he teases me, it makes me wonder if he sees me as a friend. He’s said before that when he likes a girl, he gets really nervous and shy and can’t talk to her and based off of what I’ve heard, I think when he’s in a relationship he tends to be extremely romantic. He’s neither of those things around me. He rarely compliments me anymore, does a lot of teasing, and kind of throws me off because the way he acts when it’s just the 2 of us opposed to with other friends/coworkers is like night and day. He shows actual care and concern/interest in my life and interests and vocalizes feeling comfortable around me when it’s just us but around other people it’s nothing but nonstop banter.
+
+The cherry on top was tonight, he took me to see a movie, payed for me (always insists upon doing so btw), and I swear it almost started to feel like a real date but while we were talking before the previews, he asked me if I know any curly redheads. Full disclosure, my hair is red and curly. So I go “Why” and he goes “Why do you think?” to which I just respond “I don’t know” because I didn’t want to read the question wrong. He then responds with “So that I can their number and ask them on a date”. In that moment, all I could think about was the fact my hair isn’t naturally red or even naturally curly, so he must’ve been talking about actual redheads with naturally curly hair. And I responded by saying “Yeah, that’s a really rare hair type and they’re really pretty” and he didn’t say anything about it after that. In hindsight, I’m realizing he’s actually never seen me with straight hair bc I keep it curled 24/7 so he probably doesn’t even know I have straight hair. And while it’s not natural and he knows that, he’s only ever known me as a redhead. But me thinking he might like me could also totally just be in my head and this was a genuine question he had 😭 
+
+So people of Reddit, does he like me? Or does he see me as just a friend?",1,1775720542.0,Crushes,1,0.67,False
+1sgj0as,https://i.redd.it/yt1uyo8fc4ug1.jpeg,You too love Breakfast combos like Dosa and Filter Coffee?,,4,1775720495.0,IndianFoodPhotos,1,1.0,False
+1sgizvq,https://www.reddit.com/r/statusAI/comments/1sgizvq/can_someone_give_me_coffee/,Can someone give me coffee??,"User is oRb5yUFf9l
+
+",1,1775720452.0,statusAI,0,0.99,False
+1sgizt7,https://www.reddit.com/r/satisfactory/comments/1sgizt7/anyone_other_aussies_noticed_this/,Anyone other Aussies noticed this? 🇦🇺,"I don't have an image for it and also can't find any online, during the onboarding process at the beginning of the game the subtitles are changed to have a goal t Aussies so instead of saying pinomeer in the subtitles it'd say tradies lol
+
+  
+Ik Coffee Stains a troll (in a good way) just seeing if any other aussies noticed this",1,1775720444.0,satisfactory,3,0.99,False
+1sgizmb,https://www.reddit.com/r/pregnant/comments/1sgizmb/feeling_bad_about_bad_diet/,Feeling bad about bad diet,"Hey guys! I’m 24 weeks pregnant and looking back when I first found out I had so many plans to eat healthy and stop my bad food eating habits. Now that I’m in it though, I’ve had almost no energy to cook and make the meals I wanted to and I find myself eating out a lot. I’ve been mostly snacking and eating what I want to and I frankly hate it. I have a coffee every day “within the caffeine restrictions” but I just hate that I can’t function without eating trash. When I do eat healthy I’m just hungrier and end up eating junk again. I wanna break from these habits but I feel like a ravaging beast who just eats whatever I’m hungry for and so much of that consists of junk food. Any tips?? ",6,1775720424.0,pregnant,3,1.0,False
+1sgiyse,https://i.redd.it/9liq68c9c4ug1.jpeg,Subtext Coffee,I was in Rosslyn Tower 42 branch this morning and saw this bag of coffee sitting around. Looked them up and appears to come from Canada. Anyone seen them around elsewhere? (not that I think Rosslyn was officially serving it). ,1,1775720342.0,UKroasters,0,1.0,False
+1sgiydm,https://www.reddit.com/r/TeenPakistani/comments/1sgiydm/m_gonna_hv_to_pull_all_nighter_tdyy_as_i_hv_mock/,"m gonna hv to pull all nighter tdyy as i hv mock this sat, and ... ahm ahm nvm sooooooo","sooooo, TELL ME HOW DO I STAY AWAKEEEEEE   
+like mannn ive to memorize sooo many thingsssss, give me tipsssss kese zinda rhun without getting sleepyyy CZ ATP I CANTT AFFORD TO SLEEP AT ALLL  
+m gonna defo drink coffee, but ab yebhi kam nai krthi mjh pr.. but still i will   
+abhi i jus had chai, but isse bhi neend ajati mjhe but lol khairr mgr dk why bar bar washroom jana pdth 😭😭😭😭😭😭",3,1775720301.0,TeenPakistani,10,1.0,False
+1sgix1z,https://www.reddit.com/r/UHManoa/comments/1sgix1z/paid_focus_group_for_coffee_drinkers_125/,"Paid Focus Group for Coffee Drinkers, $125.","**What:**  In-Person Focus Group
+
+**Why:**  Provide your manaʻo and receive $125.  Mahalo for your time and opinions.
+
+**When:**  April 16, 2025 (1:00pm - 2:30pm)
+
+**Who:**  We are looking for local residents between the ages of 21–35 who regularly prepare and drink coffee at home and have an interest in supporting local brands. Additional criteria may be applied to ensure a diverse group of participants. Our recruiters will ask a few more screening questions to determine eligibility.
+
+Call Angela (808)-522-5284",2,1775720168.0,UHManoa,0,1.0,False
+1sgiwrl,https://www.reddit.com/r/pourover/comments/1sgiwrl/origami_dripper_size_recommendation/,Origami Dripper Size recommendation,"Hey friends, so i’ve been planning to pick up an origami dripper but i’m kinda confused with the size. I am thinking of going size medium since i currently brew with my hario 02 and 02 size filter paper, will try flat bottom filter papers too. Does size make a noticeable difference in taste and brew? I mostly brew for myself 15g-18g depending on the coffee to 240-300ml of water with the occasion of brewing for 2 when i have friend visiting. Also which holder would you suggest? The plastic or the wood? Would love your input ",1,1775720139.0,pourover,3,1.0,False
+1sgiwl6,https://www.reddit.com/r/SmallLiving/comments/1sgiwl6/how_practical_is_a_coffee_bar_cabinet_for_small/,How Practical Is a Coffee Bar Cabinet for Small Kitchens?,"Last Friday I hosted a small breakfast gathering at home. Everyone was enjoying their drinks while I noticed that my coffee cups and beans were scattered all over the kitchen. I realized I needed a coffee bar cabinet to organize everything neatly and stylishly. I visited local furniture stores to find a suitable cabinet. Most were either too big or lacked proper storage compartments. Some had shelves but were unstable or cheap looking. I tried imagining them in my kitchen but none seemed right. I wanted something functional, stylish, and compact.
+
+While scrolling many online marketplaces including alibaba I found a wide variety of coffee bar cabinets. There were wooden metal and glass designs with multiple shelves and compartments. Some included drawers for cups and storage for coffee beans. Prices ranged from affordable models to premium designs. Seeing customer reviews and photos helped me understand the quality and functionality. Online shopping offered options I could not find locally and allowed me to select a cabinet that matched my kitchen perfectly. Now I am thinking for small kitchens is it smarter to buy coffee bar cabinets online for variety and space saving features or rely on local stores for convenience?",2,1775720121.0,SmallLiving,1,1.0,False
+1sgiwjt,https://i.redd.it/l2u1v70lb4ug1.jpeg,Coffee and coffee jelly.,,3,1775720116.0,CoffeePorn,0,1.0,False
+1sgiwcb,https://www.reddit.com/r/statusAI/comments/1sgiwcb/coffee/,Coffee?,oRb5yUFf9l,1,1775720094.0,statusAI,0,0.99,False
+1sgivfu,https://i.redd.it/shugkdu694ug1.jpeg,[iOS][69.99$ - 9.99$][Lifetime][Limited Up to 200] Cashy: Smart track your expenses and money with AI,"You can get **Lifetime Access** for just **$10** (instead of the full price **70$**).
+
+**How to claim?**  
+\- Check the comments.
+
+Hi, I built a privacy-first finance ai tracker that handles multiple currencies, Gold, and Credit Cards. and I’m giving the community a 100% discount lifetime.
+
+As a software engineer, I was frustrated with most expense trackers. They either felt like bloated spreadsheets or, worse, they wanted to ""own"" my financial data on their servers.
+
+So I built Cashy. It’s designed to be a premium, minimalist financial assistant that helps you manage your money without compromising your privacy.
+
+The ""Privacy-First"" Core:
+
+This is the most important part: Your data is NOT stored on our servers.
+
+\* Zero Personal Data: We only require an email for login.
+
+• Your Own Backup: You can back up your data directly to your personal Google Drive.
+
+• On-the-fly Access: The app only accesses the specific files it creates for the backup, and this access isn't stored by us. Your transactions stay between you and your phone.
+
+Key Features:
+
+• **Multi-Currency & Gold:** Track your wealth in any currency or Gold with real-time exchange rates.
+
+• **Smart Entry (AI):** Scan receipts or use voice notes to log transactions. The AI automatically categorizes them for you.
+
+• **Credit Card Manager:** Track your billing cycles and get (approximate) penalty calculations so you never miss a payment.
+
+• **Subscription Alerts:** Get notified before a sub hits, and the app will even warn you if your linked card doesn't have enough balance.
+
+• **Salary Mode & Budgets:** A dedicated view to see ""Remaining vs. Spent"" at a glance.
+
+• **iOS Widgets:** Keep track of your goals and daily spend right from your home screen.
+
+• **Reports & Analytics:** Know more about your money and your expenses trends.
+
+I want to get this into the hands of real users who care about their finances here’s a lifetime free access. If you liked the app just give it stars on app store
+
+App: [https://apps.apple.com/us/app/cashy-smart-money-tracker/id6760252567](https://apps.apple.com/us/app/cashy-smart-money-tracker/id6760252567)",2,1775719998.0,AppGiveaway,1,1.0,False
+1sgiuml,https://www.reddit.com/r/southdelhi/comments/1sgiuml/shifting_to_green_park_soon_looking_for_local/,"Shifting to Green Park soon, looking for local recommendations (daily essentials+ hobbies+ food scene)","&#x200B;
+
+I’m moving to Green Park later this month and I’m super excited to explore the neighborhood. I’m hoping to get some local knowledge from you all on the best spots around the area.
+
+I’m looking for recommendations for both the boring daily stuff and the fun weekend stuff!
+
+ 1. Dry Cleaners: Who is your go-to reliable dry cleaner in the area? Also if you give your bags/shoes for cleaning, I need recommendation for that too. 
+
+2. Dance Classes: I absolutely love Bollywood dance and enjoy doing stage choreography. Are there any good studios nearby ?
+
+ 3. Yoga & Swimming: Looking to stay active. Any recommendations for a clean, well-maintained swimming pool or a peaceful yoga studio nearby?
+
+4. Book Cafes: Where is the best cozy spot to just sit with a coffee and a good book on a Sunday afternoon?
+
+I'd also love to hear about any hidden gems, favorite street food stalls, or general tips for living in Green Park!
+
+Thanks in advance!",3,1775719914.0,southdelhi,9,1.0,False
+1sgisvt,https://www.reddit.com/r/nespresso/comments/1sgisvt/anxiety_from_nespresso_pods/,Anxiety from Nespresso pods,"Hey, 
+
+My husband and I recently got a Vertuo machine after years of French press and filter coffee (3–4 cups a day with milk). Since switching to capsules, my husband has noticed feeling anxious, irritable, and struggling to fall asleep, none of which he’s ever experienced from coffee before.
+
+His go-to capsules are Melozio, roasted hazelnut, vanilla and caramel pods. I mostly drink double espressos and haven’t noticed the same effects.
+
+Has anyone else experienced smth like this? Could the capsules have significantly more caffeine than we’re used to, or is there something else going on? ",0,1775719731.0,nespresso,3,0.5,False
+1sgir4l,https://www.reddit.com/r/burnaby/comments/1sgir4l/burnaby_parents_would_you_visit_a_boutique_indoor/,Burnaby parents: would you visit a boutique indoor playground near Metrotown?,"I'm a local parent exploring opening a premium indoor play space + café near Metrotown for kids 0–10. Thinking open play, **kids' classes and creative workshops**, birthday parties, a dedicated baby/toddler zone, and real barista coffee for parents — not a typical warehouse-style gym.
+
+Would love to hear what you think in the comments — would you visit something like this? What would matter most to you: pricing, programming, cleanliness, parking, something else?
+
+If you want to go deeper, there's also a short survey (3 min, everyone gets a **Grand Opening discount**): 👉 [luka-cove.webflow.io/survey](https://luka-cove.webflow.io/survey)
+
+All feedback welcome — comments are just as helpful as the survey. Thanks!",11,1775719556.0,burnaby,4,1.0,False
+1sgiqx0,https://www.reddit.com/r/roasting/comments/1sgiqx0/green_beans_for_home_roasting/,Green beans for home roasting,"Hello everyone, I have moved to Italy and noticed how few specialty green coffee bean traders there are here. I live in Turin and am looking for green beans for home roasting (1–2 kg per order). I believe there may be some traders in Spain, France, or Italy, but I have not been able to find them. Are there any roasters in Italy? Any suggestions?",1,1775719534.0,roasting,0,1.0,False
+1sgippt,https://www.reddit.com/r/decaf/comments/1sgippt/whats_you_ordering_in_cafe_if_you_dont_drink_a/,What's you ordering in Cafe if you don't drink a coffee,"Hi, found this sub recently and I planning to quit coffee but I'm mostly working on café, so I just curious what's you ordering when the most café is selling the coffee? ",1,1775719406.0,decaf,5,1.0,False
+1sgipk7,https://www.reddit.com/r/DailyGuess/comments/1sgipk7/can_you_guess_this_5letter_word_puzzle_by/,Can You Guess This 5-Letter Word? Puzzle by u/CoffeeIsPeace,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/DailyGuess/comments/1sgipk7),1,1775719392.0,DailyGuess,2,1.0,False
+1sgipjf,https://i.redd.it/djc6www984ug1.jpeg,Cemantle#1466,"Very, very easy word!!! 😱😱😱
+
+Here are the keywords: 
+
+37: awake 175: bar 327: meat 454: dietetic 541: fête 704: paella 833: cheese 921: morning 951: cappuccino 978: omelette 987: croissant 993: buffet 997: lunch 998: dinner and finally 999: brunch ",1,1775719390.0,Cemantle,0,1.0,False
+1sgipft,https://www.reddit.com/gallery/1sgipft,Sometimes all u need is a crispy Dose,"if you haven’t had Mulbagal Dosa yet, you’re missing out fr.. it's the best of both worlds .. crispy on the edges, soft and fluffy inside… it just hits that perfect balance.. add a filter coffee on the side and yeah, that’s all you really need against the world ✨ ",20,1775719378.0,Aajmainekhaya,3,1.0,False
+1sgipcr,https://www.reddit.com/r/tokyoirl/comments/1sgipcr/visiting_tokyo_from_14th_to_27th_of_april_would/,Visiting Tokyo from 14th to 27th of April - would love to meet new people.,"Hello ! I’ll be visiting Tokyo for the 3rd time from the 14th to 27th of April. I come here for work, but I would like to meet people and hang out for a coffee, discover new places or eat some good food 🤗.
+
+I’m from Belgium, I love thrifting, coffee, food, art and I’m curious about everything. If you have any plans or just want to have a walk in a cool neighborhood, hit me up. ",1,1775719370.0,tokyoirl,1,1.0,False
+1sgionn,https://www.reddit.com/r/VernalDesk/comments/1sgionn/do_you_actually_need_a_coaster_with_a_bamboowood/,Do you actually need a coaster with a bamboo/wood desk?,"I’m considering getting a Vernal Core3 standing desk but I’m still deciding between the bamboo/wood desktop and the standard laminate option.  
+  
+My main concern is durability. I usually have coffee on my desk and occasionally move equipment around, so I’m wondering how resistant the bamboo or wood desktop is to stains and scratches.  
+  
+Has anyone here used the bamboo or wooden top for a while?  
+Does it hold up well or does it start showing marks quickly?",2,1775719298.0,VernalDesk,0,1.0,False
+1sgioi9,https://i.redd.it/lt706bbz84ug1.png,Nothing ever happens,"Unpopular opinion: Claude Mythos isn't doing magic. Drop GPT 5.2 Codex or Kimi 2.5 into a good enough agentic loop with full source code access, and they'll flag 20 critical bugs while you're getting coffee. Calling it 'too dangerous to release' is just a great cover story for 'too expensive to run.",3,1775719283.0,ChatGPT,2,0.72,False
+1sgio64,https://www.reddit.com/r/ultraprocessedfood/comments/1sgio64/energy_drinks/,energy drinks?,"i'm making an effort to reduce ultra processed foods while i'm in a calorie deficit. but i desperately need caffeine as i have terrible sleep apnoea. does anyone have any recommendations for stuff i can pick-up on the go that a) isn't just black coffee, i have enough of that, and b) won't ruin my progress? for context, i'm based in the uk, so only uk suggestions please! ",2,1775719247.0,ultraprocessedfood,4,1.0,False
+1sgio2j,https://i.redd.it/fa87ht4z84ug1.jpeg,Day 3 of coffee machine being down,so I'm making my own.,9,1775719239.0,Nightshift,11,1.0,False
+1sgio1a,https://www.reddit.com/r/AskSeattle/comments/1sgio1a/best_underrated_spots_for_a_rainy_saturday/,Best underrated spots for a rainy Saturday?,"Hey everyone! I’ve lived here for a bit, but I feel like I’m stuck in a loop of going to the same three coffee shops every time it rains. I’m looking to branch out and find some cool, indoor spots that aren't the typical tourist traps or packed libraries.
+
+Does anyone have a favorite ""hidden gem"" or a cozy corner in a neighborhood like Ballard or Capitol Hill that’s perfect for chilling out? Also, what's your go-to comfort food spot when the gray weather really kicks in? Thanks in advance for the help!",2,1775719235.0,AskSeattle,1,1.0,False
+1sgimi0,https://i.redd.it/1diyu0vh84ug1.jpeg,Dalgona coffee: because adulting is hard and foam helps 🫠,,6,1775719082.0,IndianFoodPhotos,10,1.0,False
+1sgimbw,https://www.reddit.com/r/asksg/comments/1sgimbw/what_do_you_do_first_thing_in_the_morning/,What do you do first thing in the morning?,"some people read, some hop out for a coffee, some dash to the loo... just curious what's everybody's routine.",14,1775719065.0,asksg,34,0.94,False
+1sgikz9,https://i.redd.it/dpx3z5t184ug1.png,Rokka OC by HyenaLoL,"Made by HyenaLoL and all rights are mine and yes I can protect it! the character is mine the idea too I drew her and created her! inspired by Furry and rock. 
+
+this is not a waifu just another character with a personality LoL and yes this is a short description of her. 
+
+Rokka DoomsNight or Rokka Night or Rokky. 
+
+Meaning of the name - 
+
+Rokka - stone, well, rock, LoL. 
+
+Surname - 
+
+DoomsNight - Night thunder or Fatal night. 
+
+Age - 
+
+25 years. 
+
+Status - 
+
+Middle but with little money + street artist loner. 
+
+Role - 
+
+Plays the role of herself. 
+
+Plays string instruments at a level between experienced and high and sometimes participates in rock bands. 
+
+officially works as a freelancer (the easiest one without programming) + solo artist. 
+
+Lives - 
+
+Apartment is modest. 
+
+Appearance - 
+
+Shown on the art and she is a furry wolf + rock. 
+
+Height: 
+
+slightly above average. 
+
+Body type: 
+
+Light‑medium, not aggressive and not soft. 
+
+Perception - 
+
+Well she is a wolf so LoL her smell and hearing are much better, light adaptation to darkness, touch well she likes rough because fingers got used to strings and that hurts. 
+
+Personality - 
+
+Usually: energetic, fast, sarcastic, kind, tough but in her own way, confident, direct sometimes to rudeness, NOT toxic\\aggressor\\bully\\provoker\\greedy. 
+
+At home and personally: burnout or tiredness, uncertainty between energetic and calm, sometimes lazy but not in music, pragmatic. 
+
+Info: loves speed and energy but sometimes burns out, has no stable sleep schedule sleeps as she wants, often doesnt take care of her hair just lazy, of course loves music and 
+
+rock and strings, and yes she is not always like that she is alive and on a bad day she is usually tired quiet and often rude especially because of her sleep schedule, at the 
+
+same time its hard to anger or offend her because she is a free loner so she doesnt care about most things, doesnt like touch and it can anger her, doesnt like when she is 
+
+considered either not serious or too serious she thinks she is just herself, her principles are simple if she is not touched she doesnt touch too, she likes chaos but good chaos 
+
+and yes she loves jokes and sarcasm, dont touch the guitar!!! or shell hit. 
+
+At work: depends. 
+
+Speech - 
+
+Free, a bit street‑like, rocker‑punkish but not too much, and of course since she is a wolf she has wolf sounds like Rrrr & etc. 
+
+Tastes - 
+
+likes - 
+
+clothes: not revealing, leather, light gothic and punk, at home doesnt care about clothes, skirts without weirdness just part of her outfit. 
+
+food: warm drinks, coffee, lots of sugar but not sweets, loves sausage and meat, energy drinks but not too much only when she needs to ignite a hole. 
+
+dislikes - 
+
+clothes: too revealing, wool, too warm. 
+
+food: greens, too spicy, too fatty. 
+
+Weaknesses - 
+
+too energetic sometimes, often ignores many things in a dont care way which also affects burnout, too strong smell for the city she even has to clamp it with a clothespin. 
+
+in a fight? well she can respond as self‑defense. 
+
+she is often too unsure whether she wants to be energetic or lazy. 
+
+Fears - 
+
+afraid of her death, losing her guitar because its very personal to her, stepping over her principles or losing control over herself completely. 
+
+Offense - 
+
+any harm to her guitar will hurt her a lot, accusations of not being serious annoy her and yes about hair too, when she is taken as weird or strange, being strongly 
+
+interrupted in conversation, being touched she really hates touch. 
+
+Anger - 
+
+she is angered by excessive rudeness, aggression, cruelty. angered by deceit and lies without good reasons, being used enrages her, harm to her guitar is pure wild rage, any 
+
+evil towards the weak enrages her. 
+
+Dreams - 
+
+to play so that the whole world hears and remembers, to find her own people and understanding, finally find herself psychologically and not burn out, fight at least partially 
+
+her dont care attitude. ",1,1775718930.0,u_Dry_Call_6946,0,1.0,False
+1sgikv4,/r/SikkimDevs/comments/1sgikl7/anyone_buildingplanning_something_for_sikkim_lets/,Anyone building/planning something for Sikkim? Let's grab a coffee and chat!,,2,1775718919.0,sikkim,0,1.0,False
+1sgiklj,https://i.redd.it/knqiaylx74ug1.jpeg,"Toast, Beans, Eggs + coffee",,15,1775718894.0,nigerianfood,3,0.95,False
+1sgikl7,https://www.reddit.com/r/SikkimDevs/comments/1sgikl7/anyone_buildingplanning_something_for_sikkim_lets/,Anyone building/planning something for Sikkim? Let's grab a coffee and chat!,"I'm not from Sikkim but have been living in Gangtok for \~2 years now.
+
+I don't consider myself a dev (at least in typical sense) but I've been doing a lot of stuff around tech (most known being creating websites and automating stuff) for past \~8 years, always self-employed.
+
+Many times, I thought of building something for Gangtok/Sikkim but I don't seem to have enough mental energy/space to put into something regularly to be able to make something useful enough alone. (My existing businesses/side projects takes most of my regular mental space.)
+
+Though I do have some time & money to put on potentially useful projects.
+
+If you have some ideas on which you're willing to put your time but lack in tech side, I might be able to help
+
+Or if you've any tech product/solution which is useful enough but costs to maintain, I might help with server, API costs etc.
+
+If you're a student or not-earning, your coffee is on me.",1,1775718894.0,SikkimDevs,0,1.0,False
+1sgikjj,https://www.reddit.com/r/NovelNewsGirls/comments/1sgikjj/marked_by_loss/,Marked by Loss,"Chapter 1 [https://docs.google.com/document/d/1BdGWjO3a2L0zm0VFGgIZyo5nTWS2Hb8wNYBZXJ9crl8/mobilebasic](https://docs.google.com/document/d/1BdGWjO3a2L0zm0VFGgIZyo5nTWS2Hb8wNYBZXJ9crl8/mobilebasic) 
+
+Chapter 1 
+
+It had been three years since I broke the mate bond when I ran into my former Alpha mate at a coffee shop. 
+
+He was there to buy dessert for his son, the heir of the pack 
+
+When he saw me, he froze for a moment, then pushed a slice of cake toward me. 
+
+“Get one for Harper, too. She loves strawberry cake. 
+
+I pushed the cake back. 
+
+“No, I’m good. Alpha Landon. Funny, you’ve never been this generous before.” 
+
+Landon’s expression darkened, his brows knitting together. 
+
+‘Why are you still dwelling on the past?” 
+
+‘Harper is innocent. Are you really going to deny her even a piece of cake?” 
+
+I only looked at him coldly and said nothing. 
+
+His gaze swept over me from head to toe. 
+
+When he noticed my plain clothes and the rough skin on the back of my hands, a mocking smile crept onto 
+
+‘I never should have agreed to let Harper stay with you.” 
+
+“She must be suffering, stuck in this kind of life with you.” 
+
+I said, my voice calm and cold. “That’s not your concern. Alpha Landon. We’re strangers now. Stay out of it.” 
+
+His face hardened. He looked like he wanted to say more, but in the end, he fell silent. After a long pause, he turned and 
+
+walked away. 
+
+My coworker, Tessa, caught the scent of gossip and hurried over, eyes full of curiosity. 
+
+“That guy just now looked like the Alpha of the Darkstone Pack. I heard he was deeply devoted to his former Luna 
+
+I let out a cold laugh. 
+
+“If he were really so devoted, why would he break the mate bond and kick her out of the pack?” 
+
+Seeing my disbelief. Tessa tried to argue her point. 
+
+“He went against his family and the entire pack for her. A single strike from the silver whip could kill or cripple any woll. yet he endured twenty-three lashes, his back torn and bleeding, barely clinging to life-all just to make her his Luna’ 
+
+\*He gave up the future he was destined for as an Alpha and lived with her in the slums for six long years’ 
+
+“I heard he even bought a planet and named it after their daughter’ 
+
+12.50% 
+
+“Isn’t that devotion?” 
+
+I clenched my fists, forcing down the hatred surging inside me. 
+
+“He played poor in front of his mate for six years. He lied to his mate, making her sell blood to pay off debts that didn’t 
+
+even exist.” 
+
+“Their daughter needed five hundred thousand for surgery. That’s nothing to him, not even the cost of one drink. And he 
+
+still refused.” 
+
+“He even broke his mate’s legs for the sake of his mistress.” 
+
+“What kind of devotion is that?” 
+
+Tessa’s eyes widened gradually. “You…” 
+
+My face remained calm. 
+
+“That’s right. I’m his ex-mate. The former Luna.” 
+
+Tessa immediately fell silent. 
+
+After a moment, she hesitated, then couldn’t help asking. “Then the child…” 
+
+I didn’t answer. 
+
+Slowly. I pushed my wheelchair out. 
+
+Tessa seemed to catch on. Her eyes softened, and she didn’t ask anything else. 
+
+After work. I took the strawberry cake I’d made and headed to the pack cemetery, pushing my wheelchair through the 
+
+snow. 
+
+The snow came down harder, and the wind cut across my face. 
+
+I stopped in front of the grave, gently wiped the headstone clean, and set the cake before it. 
+
+Then I spoke softly, “Harper, Mommy’s here.” ",1,1775718888.0,NovelNewsGirls,1,1.0,False
+1sgikib,https://www.reddit.com/gallery/1sgikib,1 week with Fujifilm on vacation in Japan,I bought a Fujifilm XS-10 a month ago and I've just used it for the first time on a trip,39,1775718884.0,fujifilm,0,0.94,False
+1sgijvh,https://www.reddit.com/r/UnreleasedIDTechHouse/comments/1sgijvh/dm_if_looking_for_top_unreleased/,Dm if looking for top unreleased ⬇️,"Adam Port, SG Lewis - ⁨Be the one
+
+⁨Adam Ten, Rafael - Beat Goes On (Extended Mix)
+
+⁨Adam Ten - Eyes Closed
+
+ANOTR - ⁨Silver lines 
+
+⁨ANOTR - Like It (Unreleased).
+
+⁨Asake X Central Cee - Wave (Vidojean X Oliver Loenn Remix)
+
+⁨Ajna (BE) - ID + VOX What To Do.
+
+⁨AVIV SAB - Mauiiii
+
+⁨AVE - ABYSS 
+
+⁨ACTIVE (SOMMA & YUMA RMX)
+
+⁨Andrea\_Oliva,\_Moeaike\_I\_Love\_You\_So\_Shimza\_Extended\_Remix.
+
+⁨Bad Bunny - DtMF (DUMAA extended -1DB) .wav⁩
+
+⁨Bad\_Bunny,\_Chencho\_Corleone\_Me\_Porto\_Bonito\_AMOR\_Remix\_EXTENDED
+
+⁨Bad Bunny - DAKITI (Tabu Remix) (Played by Keinemusik)
+
+⁨Bad Bunny - Verano En NY (Toman Remix)MASTER.
+
+BLACK COFFEE - Superman (Meera Remix) 
+
+BLACK COFEE- ⁨Finally A Rapture
+
+Black Coffee - ⁨Isambulo
+
+⁨Beltran - Dr. Octopussy
+
+⁨Beltran - Mo'Jitos Mo'Problems (Drunk Mix)
+
+⁨Bon Jovi - It's My Life (R3CKZET, Zone7 Remix)
+
+⁨Brunello - Helium
+
+⁨CHASEWEST - YAMAGUCCI 2.
+
+⁨Carlita edd remix - Sweet Disposition.
+
+Chris Stussy, Litmus - Artefact
+
+⁨Coco, Joezi, Pape Diouf - 7 Seconds (Moojo Remix).wav⁩ 
+
+⁨Camelphat - Sunshine (Extended Mix).mp3⁩ 
+
+, CamelPhat, ⁨Rhodes, ARTBAT - For a Feeling (Extended Mix)
+
+⁨Cheri Cheri Lady (Gawdat Remix).
+
+⁨Caesars - Jerk It Out (Notre Dame Edit)
+
+⁨Daydream (JØRD V.I.P Edit) 
+
+Daft Punk - Lose Yourself To Dance (Luised Edit) V4 final to play.wav
+
+Dave, Burna Boy - Location (RAPTO Remix).wav⁩ 
+
+⁨Dave - Raindance \[MIZAK Afro Edit\].
+
+⁨Discip - Sexy Bitch
+
+⁨Discip - Dirty
+
+⁨Discip - Gimme That Beat 
+
+⁨Drake\_Get\_it\_Together\_ft\_Black\_Coffee\_&\_Jorja\_Smith\_Samson\_Remix.wav⁩ 
+
+⁨Drake - NOKIA (Vanco Remix).wav⁩ 
+
+⁨ Drake - Circadian Rhythm (Cees (NL)
+
+⁨Drake - Which One (Anorre & MELO Remix).wav⁩ 
+
+⁨Don't Stop Til You Get Enough (Joshwa Edit) - MJ.wav⁩ 
+
+⁨Dua Lipa, Angèle - Fever (Theo Lucan Remix) Extended.
+
+⁨Estelle Ft. Kanye West - American Boy (Heliograph Remix)
+
+⁨EsDeeKid - 4 Raws (Anyma & HILLS remix)
+
+Fairuz - Le Beirut (Demaya Calamar Edit)
+
+⁨Fairuz\_Saalouny\_El\_Nas\_Kobi\_Darbuka\_Afro\_House\_Remix\_intro.
+
+Frank Ocean - Lost (Gabss e Vintage Culture Edit).wav⁩ 
+
+⁨Funky Green Dogs - Fired Up (Gabss Edit)
+
+Giaggi - Mind Dimension V2 
+
+Gordo - Loco Loco (Mowze Remix)
+
+⁨Gabss, Buogo - Perculator (Original Mix)
+
+Gabss & BRN - Techno Addiction 
+
+⁨
+
+Gabss - Control (Original Mix)
+
+Gabss - Mistical woman (Original Mix)
+
+Gabss - Work (Original Mix)
+
+⁨Gorrilaz - Dare (Gabss Edit)
+
+⁨Gudfella - Morning Coffee
+
+⁨Hugel, Bob Sinclar, Jenn Morel - Mi Pum Pum.
+
+⁨HUGEL - I ADORE YOU (VANCO EDIT)
+
+ HUGEL, French Montana, Max B – One Night (Extended Mix)
+
+⁨HILLS & Shilla - Right Now (Extended Mix) MASTER .wav⁩ 
+
+⁨IDEMI - Funky (Original Mix)
+
+Jackie, Aviv Sab - Sexy MF
+
+⁨JØRD - Bananeira
+
+⁨Kanye West - Violent Crimes (Marten Lou Remix).wav⁩ 
+
+⁨KETTAMA - RAW CUTS (FINAL)
+
+⁨Kettama - solo (KETTAMA remix
+
+⁨Kings of tomorrow - Finally (Acapella).mp3⁩ 
+
+Lady Gaga - Poker Face (RBØR Remix)
+
+LUCH & PEACE CONTROL - COMPADRE V3.wav
+
+Luke dean & Omar+ - 305
+
+⁨Max Styler, Vintage Culture, Ali Love - Freaky 1 (Extended Mix)
+
+Mau P - Like I Like It (Pedrik Remix)
+
+⁨Mau P, Fleetwood Mac - Dreams (Mau P Edit)
+
+⁨Madonna\_Like\_a\_prayer\_Birds\_of\_Mind\_&\_Selim\_Sivade\_edit.wav⁩ 
+
+⁨Mgmt – Kids (Cloonee X Fezzo Remix).mp3⁩ 
+
+Mont Rouge & Peace Control - Revolution
+
+⁨Michael Jackson - Thriller (Black Coffee Remix)
+
+⁨Nitefreak\_x\_VidoJean\_&\_Oliver\_Loenn\_Where\_Ever\_you\_are\_Extended.wav⁩ 
+
+⁨Notre Dame - Do For Your Love.wav⁩ 
+
+⁨Notre Dame, Alex Wann, carteblanche (ofc) – The City (Extended Mix) 
+
+⁨Omri. - Certified Weapon (OG version) 
+
+⁨Odd Mob 'Dancing Boys, Dancing Girls' (Extended Mix)
+
+⁨Odd Mob 'Don't Stop Make That Body Rock' (Extended Mix)
+
+⁨Odd Mob 'Rock The Rhythm (I Like That)' \[Extended Mix\]
+
+Pawsa - 7 min freestyle 
+
+Pawsa - Come Through
+
+Pawsa - Hot stuff 
+
+⁨PAWSA & Kollekev Turmstrasse – Sorry I Am Late Pilot (Barco Unreleased Edit)
+
+⁨PAWSA - Give Me The Night
+
+ PAWSA - Pick Up The Phone (Haluem Intro Edit)
+
+⁨PAWSA - Bad Girl Sad Girl.wav⁩ 
+
+⁨PAWSA - FEEL RIGHT (EXTENDED).
+
+⁨PAWSA - Give Me The Night.wav⁩
+
+⁨PAWSA - Roll Play (Extended Mix)
+
+⁨Pawsa - THRILLER.wav⁩ 
+
+⁨PAWSA - TOO HOT 
+
+⁨PAWSA - DOUBLE C 
+
+⁨Prospa, Cloonee - Free Your Mind (Extended Mix).
+
+⁨Prospa\_X\_MurdaBeatz-\_BABY
+
+⁨Prospa - See Me In Your Dreams
+
+⁨Prospa - The Situation (Unreleased)
+
+⁨Pedroz, GREG (BR) - Music Is The Answer 
+
+⁨Phil Collins - In The Air Tonight (OMRI. Remix).
+
+⁨POLOVICH - The Sound (Extended)
+
+Rampa, Dawda - Low
+
+⁨ Rapture You & Me.mp3⁩ 
+
+⁨Rafael - Down Baby (Dj Master)V2.wav⁩ 
+
+⁨Rafael - Down To Funk.wav
+
+⁨Rafael - We Come In Peace (Beltran Remix)
+
+⁨Rafael (IL) & Toni B - She Can Love You
+
+⁨Rafael - It's Gonna Be Cool 
+
+⁨Rafael -  DIamond.
+
+⁨Rafael, Millero - Get Rich
+
+⁨Rafael - Vibration
+
+⁨Ricck(BR) - Mind Dimension 
+
+Ruze - What A Girl Do
+
+Rüfüs Du Sol - Music Is Better (Rydz Remix) 
+
+⁨RUFUS DU SOL - On My Knees (Cassian Remix)
+
+⁨R.E.M & Danidane, MAAURA, Ape Drums – Losing My Religion (Mode Flick 'Like Dat Ape Drums' Edit).mp3⁩ 
+
+⁨Rihanna - Don't Stop The Music (Darco Remix).
+
+Samm (BE) - Caribou - Can't Do Without You (Samm Rework)
+
+⁨Sade - I Never Thought I'd See The Day (Jentzen Edit)
+
+Samm - Paradise FINAL.wav⁩ 
+
+⁨SAUTI X YAYO (Moloko x KnK EDIT).wav⁩
+
+⁨Shakedown - At Night (Enzo is Burning Remix)
+
+⁨Set fire to the rain X Talking  drum (ACNØR EDIT)V3.mp3⁩ 
+
+Tame Impala - The Less I Know the Better (David Mackay Remix) 2.wav
+
+⁨Tame Impala - Dracula (OMNOM Remix) (Extended Mix)
+
+⁨Tyla - Water (Yaacov Remix).wav⁩ 
+
+⁨Tyla - Truth or Dare (unfazed remix).wav⁩ 
+
+⁨Travis Scott - Trance (Omada Remix).wav⁩ 
+
+⁨Travis Scott - Highest In The Room (Nostalgia Remix).wav⁩ 
+
+⁨TRAVIS SCOTT – BUTTERFLY EFFECT (&ME EDIT)
+
+⁨Tems - Me and you(Duplex\_pz remix).wav⁩ 
+
+⁨The Future (Dani Barbosa Remix).wav⁩ 
+
+⁨Tripolism, Nandu - Sunrise (Club Version)
+
+⁨TOBEHONEST - Poppin (Extended Mix)
+
+⁨TOBEHONEST\_&\_Broken\_Hill\_Zero\_Tolerance\_Extended\_Mix
+
+⁨Eric Prydz - We Are Mirage (AJs House Extended Remix)
+
+Jimi Jules - Looking For You.wav⁩ 
+
+⁨Jimi Jules - Whisper To Me.wav⁩ 
+
+Jimi\_Jules\_&\_Black\_Coffee\_'Trippy\_Yeah'\_Extended\_Mix\_Innervisions
+
+⁨Jimi Jules - My City's On Fire (Anyma & Cassian Extended Remix) 
+
+Jimi Jules - ⁨Amarus First Steps On
+
+⁨Josh Baker, Eliza Rose - Down To The Bone.wav⁩ 
+
+⁨Jackie - Detroit.
+
+⁨VOID - COMË N GO
+
+⁨Vintage Culture, Volkoder - Hands Up.mp3⁩ 
+
+⁨Vintage Culture, Zerky - Innerbloom
+
+⁨Vintage Culture, DEPARTAMENTO - COPYCAT 
+
+WhoMadeWho -  Heads Above (Adam Sellouk Remix).wav⁩ 
+
+⁨WhoMadeWho - Ember (Rafael Remix) Dj Master).wav⁩ 
+
+⁨WhoMadeWho, Tripolism – Flying Away With You (Notre Dame Remix).mp3⁩ 
+
+⁨Whomadewho, Rampa - UUUU (Everything Is Art Remix)
+
+ ⁨WORK IT - DOM DOLLA X MAX STYLER EDIT (V4)
+
+⁨XXXTENTACION – Moonlight (Andrea Oliva Remix)
+
+⁨Xinobi, Vaarwell - Far Away Place (ARYMÉ Extended Remix)
+
+⁨Yamore X Move (Jana Nova x Tommy Tassev Mashup)
+
+⁨YASHA - Dirty Cash Money Talks ( Afro Remix ",0,1775718819.0,UnreleasedIDTechHouse,0,0.5,False
+1sgijv2,https://www.reddit.com/r/souvenirs/comments/1sgijv2/are_brazil_souvenirs_really_worth_collecting_on/,Are Brazil Souvenirs Really Worth Collecting on Your Trips?,"Last summer I visited Rio de Janeiro and wandered through the crowded streets of the local markets. Everyone around seemed to be picking colorful trinkets and souvenirs for friends and family. I was unsure where to start because there were so many small shops and stalls with items stacked high. I wanted something meaningful that could remind me of the trip.
+
+Local shops had a few typical items but nothing really unique. I felt like I was missing out on something more authentic. While trying to decide I remembered my friend had mentioned browsing online before trips to get ideas.
+
+While scrolling many online marketplaces including Alibaba, I was amazed at the huge variety of Brazil souvenirs. There were hand-carved mini statues, wooden keychains, and even coffee sets from small Brazilian artisans. Prices ranged from very cheap to premium, and the designs were much more diverse than in the streets. I realized I could compare different options and pick something truly special without rushing.
+
+Now I am thinking, is it better to buy souvenirs online before traveling or to explore the streets and find hidden gems myself?",2,1775718818.0,souvenirs,0,1.0,False
+1sgijpb,https://www.reddit.com/r/12milklessmonths/comments/1sgijpb/aaapril_2026_rollcallweek_2/,AAApril 2026 Rollcall(Week 2):,"Hello cumrades. Week 1 of Always Abstinent April 2026 is over. Now were in Week 2 of Always Abstinent April 2026. If you're OUT before week 2 begun, there's always Mustnt Masturbate May, Joining Jizzless June, JJJuly(I might call it Just Java July. May potentially make a subreddit for it. It might be based on going without nutting, but about people making posts about their favorite coffee flavors until they lose), AAAugust, Stop Stroking September, Only Orgasmless October, No Nut November(THE OG), and Dont Diddle December. Anyways, for the rest of you, remember the rules, but most importantly, the number one rule. Do Not Nut. If you nut, youre out. Are you ""Still IN"" or ""OUT""?",1,1775718804.0,12milklessmonths,1,1.0,False
+1sgij2x,https://www.reddit.com/r/TalkTherapy/comments/1sgij2x/not_sure_if_my_therapist_is_a_good_fit_anymore/,Not sure if my therapist is a good fit anymore,"Hello there :-) 
+
+Coming here to ask for advice on whether I should change therapist or not, and if so, on how to end it up properly and find a better one. 
+
+For context:
+
+I've been seeing the same therapist for almost 6 years. 
+
+I decided to start seing a therapist because my anxiety about my work had gotten out of control to the point I was no longer sleeping at night and experiencing dark thoughts. It was my first position and it was really important for me. Management was toxic and I was aware of it but I felt I couldn't quit. Therapy helped me a lot. I got to loosen up, to let all my feelings out for the first time and I felt truly heard. I finally understood it did not have to be this hard, that I wasn’t meant to suffer like this and so I quit the job. 
+
+Job seeking turned out to be quite a challenge for me as I developed a strong fear of corporate work environments and I failed at getting job interviews. At the same time, I kept going to therapy to understand the root of the issue and try to change. I fully committed, agreed to discuss everything important, including the uncomfortable. Voicing my past traumas brought me self-awareness and taught me self-love and I am forever grateful to my therapist for that. 
+
+As I was still having difficulties bouncing back and struggling financially, I started working as a waitress in a coffee shop. The first few months, it felt amazing to work again and to overcome my anxiety. But it gradually became too difficult to keep up with the fast pace. I worked there for the last 2 years before I could finally quit. Now I'm back at job seeking. This time, I reached out to a volunteer advisor to help me find what actually suits me. Unfortunately, I sometimes still have to take extra shifts at the coffee shop because I'm struggling financially, even though it's not the best for my mental health. I always try to make sure not to work too many hours and to rest. 
+
+My problem is : 
+
+I'm still going to therapy because I need a place to talk and help me stay grounded. But lately, therapy has not felt like this at all. I leave sessions feeling guilty or like everything I try to build is being overturned. 
+
+My therapist is not considering my financial struggles. She will make me question every work-related choice I make as if it's not right and I’m a fool for not thinking better, while I'm sincerely trying to do my best to earn a living and manage the anxiety. 
+
+Yesterday, I went in aware I'm going through some challenges but happy and optimistic about how I was able to navigate it. I left out feeling stupid, guilty and ended up so full of anxiety I couldn't sleep at all last night.
+
+I think she has a hard time understanding my issues, she doesn't have the patience and she ends up being quite harsh or sweeping aside important stuff. And I end up over-analyzing, ruminating, devaluating me, being hard on myself, not keeping up with the good habits I built.
+
+I'm sorry this post is getting very long, thank you so much for anyone taking the time to read <3
+
+In the end, my questions are:
+
+\* Has anyone ever experienced this kind of shift in the relationship where you go from life-saving sessions to life-dragging sessions? 
+
+\* Should I end it? Take a break? 
+
+\* Should I try another kind of therapy like CBT or EMDR?
+
+\* How can I end the relationship in a good way? Should I tell her next time and not see her again? Should I offer to go though a few last sessions? 
+
+Thank you again dear readers! ",1,1775718742.0,TalkTherapy,1,1.0,False
+1sgiinh,https://www.reddit.com/gallery/1sgiinh,My techEDC in two versions,Light and heavy portable gaming. Good with coffee,26,1775718702.0,TechEDC,1,0.94,False
+1sgii8z,https://www.reddit.com/r/Dating_Bondha/comments/1sgii8z/27_m4f_bengaluru_never_tried_dating_apps_trying/,"27 [M4F] | Bengaluru | Never tried dating apps, trying here instead","I’ve never really used dating apps. I prefer something more intentional, so I thought I’d try this and see if it connects with the right person.
+
+**Note:** *If some of these points/preferences don’t exactly match but you feel we might get along, feel free to reach out anyway.*
+
+**About Me:**
+
+* Calm, thoughtful, and empathetic
+* Good listener, value understanding people
+* Loyal and emotionally grounded
+* Slightly sarcastic once comfortable
+* Prefer meaningful conversations over small talk
+
+**Basic Info:**
+
+* Age:
+* Gender: Male
+* Orientation: Straight
+* Location: Bengaluru
+* Height:
+* Languages: English, Telugu, Kannada, Hindi
+* Religion: Hindu (Reddy, if it matters)
+* Family: Close knit family
+
+**Work:**
+
+* Long term goal: build a product or startup
+
+**Lifestyle:**
+
+* Non-smoker, non-drinker
+* Non-vegetarian
+* Recently started working out
+* Weekends: movies, cricket, food, coffee, or just relaxing
+
+**Relationship Background:**
+
+* Haven’t dated before by choice
+* Focused on becoming stable first
+* Now ready to invest time and effort into the right person
+
+**What I’m Looking For:**
+
+* A kind and emotionally aware person who communicates honestly.
+* Someone grounded with a long-term outlook on life.
+* Someone who enjoys sharing everyday life as equal partners, from chores and responsibilities to random conversations and daily check-ins.
+* Someone who values consistency, emotional support, and being there for each other through both small and big moments.
+
+**Preferences:**
+
+* Location: Bengaluru preferred (open to LDR if it leads to same city later)
+* Lifestyle: Prefer non-smokers, occasional drinking is okay (non-negotiable)
+
+**What Matters to Me:**
+
+* Trust and honesty
+* Emotional maturity
+* Mutual respect
+* Growing together
+
+**Long Term:**
+
+* Relationship leading to marriage
+* Simple wedding
+* Stable life together
+* Open to having or adopting kids
+
+**Small Things I Enjoy:**
+
+* Good coffee and food
+* Long conversations
+* Learning new things
+* Quiet evenings
+
+Not looking for perfection, just someone genuine who wants to build something real.
+
+If this resonates, feel free to DM.",2,1775718662.0,Dating_Bondha,0,1.0,False
+1sgihjo,https://i.redd.it/xagzq88274ug1.jpeg,Someone plz explain.,,150,1775718595.0,ExplainTheJoke,15,0.87,False
+1sgihbb,https://i.redd.it/14t7a9mz64ug1.jpeg,Appreciation.,"St Expedite came through for me ,I'm really grateful. I already gave him his offering after my desires were fully .Always remember to be grateful too .Everything i did was just simple wrote a petition adressing him and also read it to him then offered him water first and i  used a white candle (didn't have any red candles).2nd day i offered him coffee and i made it sweet heard he likes sweet things and on the 3rd day which was wenesday i had already received what i wanted so i offered him his favourite pound cake and finally i bought the candles .....",1,1775718571.0,StExpediteHodie,0,1.0,False
+1sgigby,https://www.reddit.com/r/LeadGenMarketplace/comments/1sgigby/ill_find_you_50_highintent_linkedin_leads_in_your/,I’ll find you 50+ high-intent LinkedIn leads in your niche for FREE,"If you're tired of paying for outdated lead lists or cold contacts, here’s my offer.
+
+I’ll find **50+ high-intent LinkedIn leads for free** based on actual buying signals from your ICP.
+
+By buying signals, I mean: 
+
+* people actively talking about the problem
+* companies showing relevant activity
+* better timing and more context for outreach
+
+Full transparency: yes, this is me promoting my own product, [huntingalice.com](https://huntingalice.com/?utm_source=reddit&utm_medium=freeleads)
+
+Right now we’re focused on LinkedIn only. But I still think a smaller list built on real signals is way more useful than the big scraped databases people pay a lot for.
+
+If it’s not useful, you don’t lose anything. But if it is and you want to keep using, a month costs about the same as a cup of coffee.
+
+If you want a free sample, send your niche, ICP, what you sell and your target market.
+
+I’ll see what I can find.",0,1775718478.0,LeadGenMarketplace,3,0.33,False
+1sgify3,https://www.reddit.com/r/NovelNewsGirls/comments/1sgify3/independence_is_a_good_look_on_her/,Independence Is a Good Look On Her,"Chapter 1 [https://docs.google.com/document/d/17K7AfrK2gtat\_-1GUEI-h3BuXhPXQ1giPHvU02CrNas/mobilebasic](https://docs.google.com/document/d/17K7AfrK2gtat_-1GUEI-h3BuXhPXQ1giPHvU02CrNas/mobilebasic) 
+
+# Chapter 1
+
+Author: Sylvia One
+
+Everyone in Miranda Sutton and Hansel Johnson’s friend circle knew that she was head-over-heels in love with him. 
+
+
+
+She loved him so much that her entire life revolved around him. There was no such thing as personal space for her, and she would’ve preferred it if she could be with him 24 hours a day, seven days a week. 
+
+Every time they broke up, she’d come crawling back to him, asking to get back together within three days or less. Anyone could initiate a breakup with their partner, but not Miranda. She’d never bring those two words up. 
+
+So, when Hansel brought his new girlfriend, Ingrid York, into the room, everyone fell eerily silent for five whole seconds. 
+
+Miranda stopped peeling the clementine in her hands. “Why’s everyone so quiet? And why are you all looking at me?” 
+
+Her friend looked at her in concern. “Mimi…” 
+
+Hansel didn’t seem to care about anything as he guided Ingrid all the way to an empty spot on the couch with a hand around her waist. “Happy birthday, Cal.” 
+
+He behaved blatantly, as though he wasn’t doing anything wrong. 
+
+Miranda got up from her seat. It was Calvin Campbell’s birthday that day, and she didn’t want to make things ugly. 
+
+“I’m going to the bathroom.” 
+
+As she closed the door behind her, she heard the people in the room start to talk. 
+
+“Hans! Didn’t we tell you that Miranda was still here? Why did you still bring her here?” 
+
+“Exactly! You’re going overboard this time, Hans!” 
+
+“It doesn’t matter,” Hansel said, finally removing his arm from Ingrid’s waist. He then lit up a cigarette and started smoking. 
+
+There was a grin in his eyes as he puffed the cigarette smoke into the air, seeming like a playboy who loved fooling around with people just for the fun of it. 
+
+As for the rest of what he said, Miranda didn’t hear it because the door had finally closed. She went into the bathroom and touched up her makeup. She couldn’t help smiling pitifully at herself in the mirror. 
+
+“Hideous.” 
+
+She lived such a hideously pitiful life. 
+
+Miranda took a deep breath as she made her decision. 
+
+However, when she went back to the private room and saw what was going on inside, she tightened her grip on the door handle and nearly went back on her words. 
+
+Hansel’s lips were firmly pressed against Ingrid’s lips, their saliva thoroughly wetting the thin piece of tissue that was preventing them from properly kissing. Everyone around them was laughing hard. 
+
+“Oh, my god! Hans, you sure know how to rile things up!” 
+
+“They’re kissing! They’re actually kissing!” 
+
+“I mean, since everyone’s so excited, you guys might as well just kiss!” 
+
+Miranda felt her hand shaking against the door handle. 
+
+This was the man she’d loved for six years. Now, she felt like nothing but a laughingstock. 
+
+“Guys, tone it down,” someone suddenly whispered, gesturing at the door. Everyone immediately looked toward the entrance. 
+
+“M-Mimi? You’re back. Err, we’re all just fooling around, you see. Don’t mind—” 
+
+“Miranda.” Hansel interrupted the person trying to explain the situation and just looked at Miranda with a calm expression on his face. “Since you’re here, let me straighten things out with you.” 
+
+“Okay. I’m listening.” 
+
+“It’s tiring breaking up and making up with you for so many years. The feelings between us have long died.” 
+
+Miranda tightened her fist and dug her nails into her palm. However, it was as if she couldn’t feel any pain at all. 
+
+They’d been dating for six years, but their relationship had ended with him saying his feelings were long gone. 
+
+“Ingy is a wonderful person, and I want to make things official with her.” 
+
+Miranda nodded robotically. “Okay.” 
+
+“Even though we’ve broken up, we can still stay friends. You can still come to me if you run into any problems in Jandersville.” 
+
+“No thanks,” Miranda said, forcing a smile on her face. It was a wan smile, but a smile nonetheless. 
+
+“Since we’ve broken up, it’s better for us not to have any more contact with each other. That would only be fair to your new girlfriend.” 
+
+Hansel raised an eyebrow, looking a little shocked. 
+
+“Cal,” Miranda said, turning to look at the main character of the birthday party. “Happy birthday to you again. 
+
+“I hope you guys have a lot of fun tonight, but I’ll be leaving now. Everyone, help yourselves to the plate of clementines I peeled on that table. Don’t let it go to waste.” 
+
+Hansel hated every type of fruit except clementines. However, he was picky about it and would pick off every single vein on the fruit before eating it. 
+
+For the past years, Miranda had meticulously peeled and cleaned clementines just the way he liked them before presenting them to him. She did it because she wanted him to at least get the vitamins and nutrients he needed from fruits. 
+
+When Hansel was in a good mood, he’d hug her and say, “My girlfriend is the best in the world. How could you be so good to me? Should I just marry you?” 
+
+He’d known what she’d wanted all along, but he’d never given it to her. 
+
+Hansel said, “I’ll get Dan to drive you home.” 
+
+“Don’t worry about it. I’ve already called for a cab.” 
+
+Calvin said, “Miranda, I’ll see you to the door.” 
+
+Miranda declined gratefully, shaking her hands at him before turning to leave. 
+
+“Hans, look what you… I think Miranda’s really mad this time.” 
+
+“I don’t think so.” 
+
+“Yeah, they’ve broken up so many times in the past, but Miranda always comes crawling back to him a few days later. She’ll pretend nothing happened the next time we meet up again.” 
+
+“I’m betting she’ll be back in five days this time.” 
+
+“Six days!” 
+
+Hansel looked at the door that wasn’t shut properly and smiled coldly. “I say she’ll be back looking for me in three hours.” 
+
+“Okay, Hans wins. The whole world knows how crazy Miranda is for him.” 
+
+“Damn. Why aren’t there any women crazy over me like her?” 
+
+“You? Fuck off, buddy!” 
+
+“Hahaha!” 
+
+… 
+
+It was past midnight by the time Miranda got back to the mansion. She took half an hour to pack up all her things. 
+
+She’d lived here for three years, but now that she was leaving, her belongings only fit in a tiny suitcase. She didn’t take any of the designer clothing or luxurious jewelry she’d never even worn before. 
+
+The only thing she wanted to take with her but couldn’t was the wall of technical reference books. Luckily, she’d memorized all of their contents. The physical books weren’t that important anymore. 
+
+Her gaze swept over the dressing table. She then walked toward it and pulled open a drawer. 
+
+There was a check at the bottom of the drawer for 50 million dollars. There was also a pile of documents under the check. The title on the first page read, “Land Title Transfer: Plot 3-5, No. 72, Easternia.” 
+
+Although the plot of land was in the suburbs, it was still worth about 20 million dollars. 
+
+Hansel had already signed both the check and the land transfer deed. He’d signed them the last time they’d broken up, and the documents had been in the drawer ever since then. 
+
+He was sure that Miranda would never dare to take those two documents away; if she took them, it meant that their relationship was over for good. 
+
+Suddenly, Miranda thought she’d managed to strike a bargain. 
+
+Exchanging six years of her life for 70 million dollars didn’t seem like a bad deal after all. Not many women were lucky enough to get so much compensation for years and years of their youth. 
+
+She tucked the two documents away in her bag. There was no reason not to take them since he’d already given them to her. 
+
+Even if she was out of love, at the very least, she wasn’t out of money. 
+
+She wasn’t like those stupid women in those sappy romance books who thought money was nothing compared to love. 
+
+“Hello, is this the cleaning company? Do you take urgent orders? I want a spring clean, and I don’t mind paying extra for it.” 
+
+Miranda then put the house keys in an agreed-upon hiding spot, piled her things into a cab, and set off for her best friend’s condominium. 
+
+On the way, Miranda received another call from the cleaning company. “Miss, are you sure that you don’t want these things anymore?” 
+
+“I don’t. You can do whatever you want with them,” Miranda replied before hanging up. 
+
+… 
+
+By the time Hansel got back home, it was nearly the crack of dawn. The people from the cleaning company had long gone by then. 
+
+Hansel had a migraine from the strong perfume scent hanging around him. He tugged at his collar and decided to rest for a while on the couch. However, he ended up falling asleep. 
+
+When he woke up the next morning, he heard the familiar sound of pots and pans clinking in the kitchen. 
+
+He pulled the blanket away from his body, massaging his temples as he reached for the glass of water on the coffee table. 
+
+However, there was no glass or water on the table. Hansel froze for a second. 
+
+A while later, the corners of his lips lifted. Miranda was back anyway, and she’d even covered him with a blanket sometime through the night. 
+
+How dare she not prepare him his usual glass of water to wake him up from his hangover? 
+
+How long had she been playing mind games with him? Her rebellion wasn’t even wholehearted anyway. Wasn’t she sick of it? 
+
+Hansel chuckled as he got up. “You’d better—” 
+
+“Mr. Johnson, are you up?” 
+
+“Martha?” 
+
+Martha Watson was Hansel’s housekeeper. “Breakfast will be ready in a few minutes, Mr. Johnson, so you can go and wash up in the meantime. 
+
+“Oh, it wasn’t too cold for you at night, was it? I turned on the heater but thought you might still catch a cold, so I draped the blanket over your body.” 
+
+[](https://www.reddit.com/r/NovelNewsGirls/?f=flair_name%3A%22Searching%22)
+
+",1,1775718437.0,NovelNewsGirls,1,1.0,False
+1sgifnm,https://www.reddit.com/r/u_rythum_echo_912/comments/1sgifnm/to_whom_i_dont_know/,To whom I don't know,"i want someone to wrap me in thier arms
+
+to kiss me in forehead like I belong to him
+
+to see the real face behind my fake smile 
+
+to tell me everythings fine when I'm nervous 
+
+i want someone to hold me in scary thunderstorms
+
+to sit under moon hand in hand and one soul 
+
+to dance in rain like kids, and to communicate like a grown up 
+
+to remember which ramen I like and how I like my coffee
+
+to vibe with me in the ""hmm"" of old beauties 
+
+i want someone to hold me when I fall apart and unwrap me free when i feel free
+
+to look me in eye every single day and tell I love you every day 
+
+I don't want much 
+
+just. 
+
+presence. 
+
+patience. 
+
+and peace. 
+
+I don't want expensive things 
+
+a pair of jumka is fine, 
+
+not a cafe coffee but one made by him will be fine 
+
+I don't wanna go at an expensive place on first date, 
+
+pani puri will be fine
+
+I don't want one night stand where you come and go,
+
+I wanna see you face wherever I wake up. 
+
+when we fight I don't want silence, 
+
+I want flower and communication. 
+
+when we cry I don't what it to be sad, 
+
+i want it to be books, movies, old memories, songs and happy cries. 
+
+when we smile i don't what it to be forced or fake,
+
+i want it to be pure, raw and right. 
+
+I don't what long text which I have to rewrite in my dairy to save for life, 
+
+i want letters which cares emotions and love. 
+
+i don't wanna go to club with you,
+
+where there is hook ups and make outs,
+
+i want to go to mandir,
+
+i in red sari and you in red kurta,
+
+where there is peace and purity. 
+
+I don't want be with you one night, 
+
+i want to be...
+
+in your every birthday coming, 
+
+in your every cry and laugh, 
+
+in to be in best and worst days...
+
+ 
+
+I know I'm young to feel this,
+
+but love doesn't have an age, 
+
+and this is the effect of overthing
+
+the best possible scenarios in you head,
+
+by movies, songs, real and reel life.. 
+
+i want you...
+
+but I don't know who you is....
+
+i don't know whom I'm writing this too..
+
+but in the future if I got in a real relationship this would be my proposal....
+
+btw this is my first post on reddit so HI! to everyone who are reading this poem. last Stanza says I'm young so ya I'm 15 and an girl who don't want much.  but also don't want bare minimum. please give feedback if you like it. ",1,1775718407.0,u_rythum_echo_912,0,1.0,False
+1sgifmp,https://www.reddit.com/r/reddmatch/comments/1sgifmp/27_m4f_bengaluru_never_tried_dating_apps_trying/,"27 [M4F] | Bengaluru | Never tried dating apps, trying here instead","I’ve never really used dating apps. I prefer something more intentional, so I thought I’d try this and see if it connects with the right person.
+
+**Note:** *If some of these points/preferences don’t exactly match but you feel we might get along, feel free to reach out anyway.*
+
+**About Me:**
+
+* Calm, thoughtful, and empathetic
+* Good listener, value understanding people
+* Loyal and emotionally grounded
+* Slightly sarcastic once comfortable
+* Prefer meaningful conversations over small talk
+
+**Basic Info:**
+
+* Age:
+* Gender: Male
+* Orientation: Straight
+* Location: Bengaluru
+* Height:
+* Languages: English, Telugu, Kannada, Hindi
+* Religion: Hindu (Reddy, if it matters)
+* Family: Close knit family
+
+**Work:**
+
+* Long term goal: build a product or startup
+
+**Lifestyle:**
+
+* Non-smoker, non-drinker
+* Non-vegetarian
+* Recently started working out
+* Weekends: movies, cricket, food, coffee, or just relaxing
+
+**Relationship Background:**
+
+* Haven’t dated before by choice
+* Focused on becoming stable first
+* Now ready to invest time and effort into the right person
+
+**What I’m Looking For:**
+
+* A kind and emotionally aware person who communicates honestly.
+* Someone grounded with a long-term outlook on life.
+* Someone who enjoys sharing everyday life as equal partners, from chores and responsibilities to random conversations and daily check-ins.
+* Someone who values consistency, emotional support, and being there for each other through both small and big moments.
+
+**Preferences:**
+
+* Location: Bengaluru preferred (open to LDR if it leads to same city later)
+* Lifestyle: Prefer non-smokers, occasional drinking is okay (non-negotiable)
+
+**What Matters to Me:**
+
+* Trust and honesty
+* Emotional maturity
+* Mutual respect
+* Growing together
+
+**Long Term:**
+
+* Relationship leading to marriage
+* Simple wedding
+* Stable life together
+* Open to having or adopting kids
+
+**Small Things I Enjoy:**
+
+* Good coffee and food
+* Long conversations
+* Learning new things
+* Quiet evenings
+
+Not looking for perfection, just someone genuine who wants to build something real.
+
+If this resonates, feel free to DM.",1,1775718404.0,reddmatch,1,1.0,False
+1sgieup,https://www.reddit.com/gallery/1sgieup,Art of Mistakenly creating coffee art,,13,1775718329.0,surat,4,1.0,False
+1sgidgx,https://www.reddit.com/r/digitalnomad/comments/1sgidgx/running_a_physical_business_in_sri_lanka_changed/,Running a physical business in Sri Lanka changed how I see ‘work from anywhere,"Hate the word “nomad” for what I do.
+
+I’m based in Sri Lanka. Not hopping cities. Not working from a beach (maybe sometimes I admit)
+
+I source gemstones directly from miners. That means morning WhatsApp calls when a good parcel drops, years of relationship-building, showing up at rough markets in person. You can’t do that from a coffee shop in Bali. You pick a place, go deep, stay.
+
+Funny thing is I *was* a 100% digital nomad before this. Years of moving around, even with a family and two kids. Sri Lanka wasn’t even part of the plan. We kind of ended up here by accident.
+
+Then by accident again, we fell into the gemstone world.
+
+And somewhere along the way, we fell in love with the country too, the people, the community, the energy. It’s not perfect: power cuts, bad roads, monsoon logistics… but it’s real. And we built a life here.
+
+So no hate on digital nomads I’ve been one.
+
+But some businesses genuinely require presence. Mine is one of them.
+
+What I’ve realized is the best setup (for me at least) isn’t 100% remote or 100% physical. 
+
+It’s a mix. A kind of hybrid where you stay grounded in one place but still keep some of that freedom.
+
+Not easy. Still figuring out the balance, especially when it comes to managing people from afar.
+
+Anyone else running something location-dependent and tired of the “work from anywhere” narrative?",0,1775718196.0,digitalnomad,17,0.15,False
+1sgicsj,https://www.reddit.com/r/AskPinoyMen/comments/1sgicsj/im_always_sleepy_anong_magandang_pampagising_ng/,I'm always sleepy. Anong magandang pampagising ng utak bukod sa coffee hindi na tumatalab,"for context: I'm physically active. I don't have a fixed sleeping schedule pero kahit 8 hours or more Ako matulog, kaya ko pa din matulog ulit. Hindi naman ako tamad pero ang antukin ko",2,1775718132.0,AskPinoyMen,11,1.0,False
