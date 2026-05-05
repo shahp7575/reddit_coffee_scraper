@@ -1,0 +1,2143 @@
+id,url,title,text,score,created_utc,subreddit,num_comments,upvote_ratio,over_18
+1t4aojx,https://www.reddit.com/r/Scotland/comments/1t4aojx/cycling_in_around_ayr_and_isle_of_arran/,Cycling in around Ayr and Isle of Arran,"Hi all,
+
+I’m heading up to Prestwick (staying in Monkton) from the 11th–14th for a last-minute cycling trip and looking for some local recommendations.
+
+Plan is to bring the road bike and ride mostly shorter routes, with one bigger day potentially heading over to the Isle of Arran (weather dependent).
+
+So far I’m thinking:
+
+\* Coastal riding around Troon / Irvine / Ayr
+
+\* Maybe heading south towards Dunure / Culzean
+
+\* Ferry over to Arran for either a full loop or partial out-and-back
+
+Would really appreciate any tips on:
+
+\* Must-do road cycling routes in the area (ideally 30–100 km range)
+
+\* Quiet/scenic roads worth prioritising
+
+\* Good coffee stops (important!)
+
+\* Solid food spots / post ride meals or things to do
+
+Any off the bike recommendations. 
+
+Also open to any advice on riding Arran — worth doing the full loop or better to keep it shorter?
+
+Cheers 👍",1,1777974448.0,Scotland,0,1.0,False
+1t4anov,https://www.reddit.com/r/Bloggers/comments/1t4anov/my_3_month_thoughts_on_touch_screen_coffee_machine/,My 3 month thoughts on touch screen coffee machine,"I’ve been using a touch screen coffee machine for 3 months and it has made my morning stress-free! So much easier to simply touch what you want, set the strength/temp and leave! No guessing with all the knobs/ buttons.
+
+With Inflation continuing, I have no friends who will pay more than $500+ on premium brands. I have found that Amazon has decent mid-range models ranging from $200-$300. But surprisingly, I found a dependable one from Alibaba for less than $180. With great reviews from users and quality, it even saves my favorite drinks.
+
+I have one problem with it and that it keep getting clogged with oat milk. Are there touch screen coffee machines that successfully froth plant-based avenues? More so, how can I maintain the screen without scratching?
+
+ ",1,1777974365.0,Bloggers,0,1.0,False
+1t4angk,https://www.youtube.com/watch?v=J6d3pnd7-To&list=PLQBM-Ayflsi3glW4TBflMM3zfU8UeY_Rg,[Playlist] Rooted Beats - Grounded Lo-Fi for your moments of calm and relaxation 🌿☕,"**Hi everyone,**
+
+I wanted to share a project I’ve been building called **Rooted Beats**. I created this playlist for those moments when you just need to unplug from the noise and find a bit of calm.
+
+The focus is on organic, ""grounded"" sounds—beats that feel natural and steady. It’s perfect for winding down after a long day, meditation, or just having a peaceful morning coffee.
+
+
+
+I really hope these sounds bring you some peace today. If you have a favorite track from the list or any thoughts on the vibe, I’d love to hear from you!
+
+Stay grounded, **Rooted Beats** 🌿",1,1777974344.0,songs,0,1.0,False
+1t4amw4,https://v.redd.it/gq1ikn6diazg1,The Black Box Problem,"One of my favorite analogies from the episode is comparing traditional storage to those fancy pod coffee machines. Beautiful, but you're stuck. In this soundbite, I break down why the 'black box' approach to enterprise storage creates serious limitations. If you've ever felt trapped by a storage vendor, I'd love to hear your story in the comments. Have you experienced the pain of being locked in?",1,1777974292.0,esdebe,1,1.0,False
+1t4am6u,https://www.reddit.com/r/PrivacyCompass/comments/1t4am6u/best_vpns_for_chromecast/,Best VPNs for Chromecast,"Here's a thing most guides won't tell you upfront: **Chromecast has no VPN support**. Zero. Zip. You can't just download an app and click connect like you would on your phone.
+
+So when people ask ""what's the best VPN for Chromecast,"" what they're *really* asking is: which VPN makes the annoying workarounds the least annoying? Because there *are* workarounds — a few, actually — and the VPN you pick determines how smoothly they work.
+
+I've spent the better part of this year testing setups on a 4th-gen Chromecast with Google TV (the good one, with the remote) and an older Chromecast 3 dongle that basically requires a router-level setup. Different experiences. Different frustrations. And strong opinions about which VPNs handled both gracefully.
+
+# Why You Even Need a VPN on Chromecast
+
+The short answer: geo-blocks are real and they're everywhere.
+
+BBC iPlayer blocks you the second it sniffs a non-UK IP. Netflix's US library has roughly double the content of most other regions. NBA League Pass blackouts can ruin your Saturday night if you're watching from the ""wrong"" city. A VPN spoofs your location by routing your connection through a server where the content actually works.
+
+But beyond streaming, there's the privacy angle. Your ISP can see every domain you hit, and some actively throttle video traffic during peak hours. A VPN encrypts the connection so all they see is noise. And if you're casting from a hotel's shared WiFi — which I've done, and immediately regretted — encryption stops whoever's sitting on the same network from snooping on your stream.
+
+This is the headache that separates a good Chromecast VPN from a useless one.
+
+# The Setup Options (Ranked by Sanity)
+
+Before picking a VPN, you need to know which setup method you're using. Because not all VPNs support all methods equally.
+
+**Method 1: Google Play Store install** — Only works on Chromecast with Google TV (the 4K and HD models released after 2020). These have a Play Store. You can install a VPN app directly. Done. This is the sane method. Took me four minutes with NordVPN.
+
+**Method 2: VPN on your home router** — The most reliable option that works on every Chromecast generation. Your whole home network runs through the VPN. Every device on that network, including Chromecast, gets protected automatically. The setup takes 20-45 minutes depending on your router and how much the firmware hates you. But once it's done, it's just done.
+
+**Method 3: Virtual router / PC hotspot** — You run the VPN on your Windows or Mac, share that connection as a WiFi hotspot, and connect Chromecast to the hotspot instead of your regular WiFi. Clever workaround, surprisingly fiddly to configure, and your PC has to stay on while you stream. Not ideal for a movie marathon.
+
+**Method 4: Screen mirroring** — You run the VPN on your laptop, mirror Chrome browser content to Chromecast. Works in a pinch. Quality takes a hit and it doesn't work well for every app.
+
+# The Best VPNs for Chromecast in 2026
+
+*Pricing reflects 2-year plans as of May 2026. Monthly prices are significantly higher.*
+
+# 🥇 NordVPN — Best Overall for Chromecast
+
+If you want one answer and you're done, it's NordVPN.
+
+It's available directly on the Google Play Store for Chromecast with Google TV, which makes the install straightforwardly painless. But what I actually care about more is the router setup story: NordVPN has comprehensive tutorials for almost every router model, and you can also buy pre-flashed routers through FlashRouters if you'd rather skip the firmware gymnastics entirely.
+
+In 2026 independent speed tests, NordVPN consistently outperformed Surfshark and ExpressVPN in both local and long-distance connections, maintaining stable, high speeds ideal for 4K streaming. And stable is the word that matters here — not just peak performance, but how rarely it wobbles.
+
+The NordLynx protocol (NordVPN's WireGuard-based implementation) is why the speeds are sharp. It's also why the kill switch response is fast enough that a sudden drop doesn't turn into a leak. I tested dropping the connection mid-stream and reconnect happened in under two seconds.
+
+NordVPN's no-logs policy has been independently verified five times, with the most recent Deloitte assurance engagement carried out between November and December 2024 and published in early 2025. That's not marketing fluff — five audits is genuinely meaningful.
+
+**What I like:** Their SmartPlay DNS feature is worth mentioning for Chromecast users who want streaming unblocking without full VPN overhead. You point your router's DNS at NordVPN's SmartPlay servers and it handles the geo-switching automatically, even for devices that can't run a VPN app.
+
+**What I don't like:** 10 simultaneous connections is fine for most people, but if you're running a chaotic household of streaming devices it can feel tight.
+
+# 🥈 ExpressVPN — Best for Effortless Router Setup
+
+ExpressVPN is the one that solved the router problem in the most elegant way.
+
+It's one of the only VPNs with a dedicated native router app, which makes connecting your Chromecast to the VPN considerably easier than competing services. Setup takes roughly 7-10 minutes once the app is installed. For comparison, manually flashing a router with OpenVPN config files from another provider took me closer to 40 minutes — and that was a router I already knew.
+
+ExpressVPN also supports split-tunneling on routers, letting you create up to 5 different groups of devices. You can put your Chromecast in one group connecting to a VPN server in another country, and your phone in a group that uses your regular connection — meaning you can browse your bank site normally while Chromecast is streaming geo-unlocked content simultaneously.
+
+And then there's the **Aircove Go** — a small travel router with ExpressVPN built in. Plug it into hotel WiFi, connect Chromecast to it, and your casting setup is fully VPN-protected without touching a single setting. For people who travel with a Chromecast, this thing is quietly brilliant.
+
+The Lightway protocol powers ExpressVPN's speed, and it's quick — though in head-to-head tests across 2025-2026, NordLynx generally edges it out on raw throughput. In comprehensive testing, NordVPN retained an average of 92% of original internet speed, while ExpressVPN achieved 91% retention. Basically a tie in practice.
+
+**What I like:** The router app. Nothing else comes close for ease.
+
+**What I don't like:** It's pricier for equivalent security. And ExpressVPN is owned by Kape Technologies, which has a complicated history — worth knowing even if there's been no actual red flag from ExpressVPN itself.
+
+# 🥉 Surfshark — Best Budget Option (With One Catch)
+
+Surfshark is absurdly cheap for what you get. At $1.78/month on the 2-year plan (as of May 2026), it undercuts NordVPN at $3.09/month and ExpressVPN at $2.79/month by enough of a margin that it's the obvious pick if budget is the deciding factor.
+
+The unlimited simultaneous connections policy is the other big draw. One subscription, every device in your house. No 10-device cap anxiety.
+
+But here's the catch I flagged in testing, and you need to know this: Surfshark no longer supports the SmartDNS feature for streaming as of February 2026. SmartDNS was a lightweight way to unblock geo-restricted content on devices that can't run a VPN, including older Chromecast models. That feature is gone now, which means you're fully dependent on router setup or Google TV's Play Store for Chromecast compatibility.
+
+Surfshark's no-logs policy was independently audited by Deloitte in June 2025, covering server configurations, staff practices, and actual data retention — so the privacy claims aren't just marketing copy.
+
+**What I like:** Unlimited devices, budget price, clean apps.
+
+**What I don't like:** SmartDNS removal hurts older Chromecast users. Speeds can be slightly less consistent than NordVPN in back-to-back testing. And Netherlands jurisdiction (Nine Eyes member) will bother strict privacy advocates even with the no-logs audit.
+
+# CyberGhost — Best for People Who Hate Setup
+
+CyberGhost's selling point is that it makes everything stupidly simple. Dedicated streaming servers, optimized and tested regularly by their team, so you just pick ""Netflix US"" instead of hunting for a server that actually works.
+
+CyberGhost has servers in 100 countries across 126 cities, many running on 10-Gbps network cards. The 10-Gbps infrastructure is genuinely meaningful for 4K streaming — bandwidth isn't going to be the bottleneck.
+
+Standard Chromecast dongles require a VPN router or virtual hotspot setup, but if you have Chromecast with Google TV, you can install CyberGhost directly through the Google Play Store.
+
+The 45-day money-back guarantee is the best in this roundup — longer than the standard 30-day window everywhere else, which gives you real time to test whether it works with your specific setup.
+
+**What I like:** Streaming-optimized servers that actually get tested. Long trial window.
+
+**What I don't like:** Owned by Kape Technologies (same as ExpressVPN). Slower on long-distance server connections compared to NordVPN in my experience.
+
+# Private Internet Access — Best for Tinkerers
+
+PIA is the VPN for people who want to configure everything themselves and don't trust providers who make things look too easy.
+
+With 6,000+ servers in 93 countries, PIA provides plenty of connection options for unblocking global content libraries. You can toggle between AES-256 and AES-128-bit encryption, which sounds like a niche feature but actually gives you a meaningful speed boost on slower networks while still being perfectly secure for streaming.
+
+Setup on Chromecast is manual router work — there's no native router app and no one-click solution. But for users who already have a flashed DD-WRT or Tomato router, this is barely a hurdle.
+
+**What I like:** Deep configuration options. Unlimited connections. Honest price point.
+
+**What I don't like:** Setup isn't beginner-friendly. Based in the US (Five Eyes member), which matters to some people even with no-logs policies.
+
+# The Setup Walkthroughs
+
+# If You Have Chromecast with Google TV
+
+This is the easy route.
+
+That's it. Genuinely. The whole reason Chromecast with Google TV was a meaningful upgrade.
+
+# If You Have an Older Chromecast (Dongle)
+
+**Via Windows PC Hotspot:**
+
+Key thing: your phone running the Google Home app also needs to connect to the same hotspot, not your regular WiFi. Otherwise casting breaks.
+
+**Via Router (Most Reliable Long-Term):**
+
+If your router doesn't support VPN firmware, ExpressVPN's Aircove router is a plug-and-play alternative. Pre-flashed routers from FlashRouters are another option if you want your existing VPN provider with zero firmware headaches.
+
+# Common Chromecast + VPN Problems (And the Actual Fixes)
+
+# What About Free VPNs?
+
+Free VPNs typically don't offer the best and most secure service — and may even put your privacy at risk. When a VPN doesn't charge for its services, it has to make money in other ways.
+
+For Chromecast specifically, free VPNs fail on every metric that matters. They don't support router setups. They cap bandwidth (4K streaming through a 500MB/day limit is a cruel joke). And the server networks are too small to reliably unblock major streaming platforms.
+
+The only legitimate free-tier options worth mentioning are **Proton VPN** (unlimited data, no speed cap on free tier, router support with ProtonVPN account) and **Windscribe** (10GB/month free, router capable). But for Chromecast as your primary streaming device? You'll hit their limitations fast.
+
+# FAQ
+
+**Can I use a VPN with any Chromecast?**
+
+Yes, but the setup varies. Chromecast with Google TV (2020 or newer) lets you install VPN apps directly. Older Chromecast dongles require either a router setup or a virtual hotspot from your PC — the dongle itself can't run software.
+
+**Does a VPN slow down Chromecast streaming?**
+
+With a quality VPN like NordVPN or ExpressVPN, the speed reduction is negligible for 4K streaming. Both use modern protocols (NordLynx and Lightway respectively) that are built for throughput. Cheap or free VPNs will absolutely throttle your stream.
+
+**Will my casting still work with a VPN running?**
+
+Only if the casting device and Chromecast are on the same VPN-protected network. Install the VPN at the router level, or connect both devices to the same PC hotspot. Running VPN just on your phone while Chromecast uses regular WiFi will break casting.
+
+**Is it legal to use a VPN with Chromecast?**
+
+Using a VPN is legal in most countries. Accessing geo-restricted content may technically violate a streaming platform's terms of service, though enforcement against individual users is essentially nonexistent. Research the laws in your specific country.
+
+**Does Surfshark still support SmartDNS for Chromecast?**
+
+No. Surfshark removed SmartDNS support in February 2026. You'll need to use the Google Play Store app (Chromecast with Google TV) or a router setup with Surfshark now.
+
+# Bottom Line
+
+And if you've been streaming without any VPN on shared networks — hotel WiFi, the coffee shop down the street, even some ISPs that throttle video — it's worth fixing that sooner rather than later. The setup isn't as painful as most guides make it look.",1,1777974225.0,PrivacyCompass,0,1.0,False
+1t4akn9,https://www.reddit.com/r/BusinessForSaleUAE/comments/1t4akn9/create_restaurant_for_sale_ras_al_khaimah/,CREATE RESTAURANT FOR SALE – RAS AL KHAIMAH,"**CREATE RESTAURANT FOR SALE – RAS AL KHAIMAH**  
+Located in **Al Dhait South**, a fully equipped, Italian-themed restaurant ready for immediate operation.
+
+✅** **  
+**KEY FEATURES**  
+🇮🇹 Italian concept (Pasta, Pizza, Risotto, Burgers)  
+✨ Luxury dine-in interior (modern & premium setup)  
+☕ Specialty coffee setup (heavy-duty machine included)  
+👨‍🍳 Staff-ready structure:  
+1 Manager  
+2 Chefs  
+1 Waitress  
+🔥 Fully operational kitchen
+
+🚀   
+**ONLINE DELIVERY (LIVE)**  
+Active on:  
+Talabat  
+Careem (Keeta)  
+Deliveroo  
+Noon Food  
+➡️ Immediate online orders  
+➡️ No setup or approval delays
+
+💰   
+**BUSINESS DETAILS**  
+📍 Location: Al Dhait South, Ras Al Khaimah  
+💸 Rent: 110,000 AED/year  
+💰 **Asking Price: 280,000 AED (Negotiabl**e)  
+🏪 Status: Turnkey (ready to operate)  
+📦 Includes: Full equipment, kitchen, coffee machines, dining furniture
+
+📈   
+**WHY THIS STANDS OUT**  
+Fully ready — no fit-out cost  
+Delivery platforms already active  
+Suitable for owner-operator or investor  
+Start operations immediately
+
+📲   
+**CONTACT**  
+Serious buyers only  
+DM for full details & viewing",1,1777974075.0,BusinessForSaleUAE,0,1.0,False
+1t4ak7f,https://i.redd.it/kye6i8rmhazg1.jpeg,Allo Coffee Matcha Oat Latte - Katip QC,"If you prefer strong, vegetal, matcha, this is for you! They don't really specify the powder they use but I'm putting this in the bang-for-your-buck tier. 210 pesos for a large serving is pretty good. Their place is small but has WiFi. Very quiet place too. Been in Ateneo for years but haven't had a decent matcha around the area so I'm pretty pleased with this discovery.",1,1777974033.0,matcha_ph,0,1.0,False
+1t4ak13,https://www.reddit.com/r/IndiaCoffee/comments/1t4ak13/new_drop_by_rosette_coffee_sca_89/,New drop by Rosette Coffee SCA 89+,"New drop by Rosette and Kerehaklu with SCA of 89+
+
+Looks interesting
+
+https://rossettecoffee.com/products/kerehaklu-mossto-naturals-peaberry-sca-89",1,1777974018.0,IndiaCoffee,0,0.67,False
+1t4ajsm,https://i.redd.it/ipjtow1jhazg1.jpeg,Tv wall redecor ideas please,"Hi all,
+
+I am looking forward to your suggestion to redesign  my tv wall.
+
+We were in middle of our wedding, when our interior guy cheated us.
+
+I want to remove such a bulky tv unit with bad quality material used.
+
+Please help me redecorate
+
+1. I do not want the entire wall to be covered.
+
+2. I bar cum coffee cabinet near the window
+
+3.covering of the pipe for ac.
+
+P.S its a dumping place for now, I mean I havent styled it.
+
+I did try ideas from chatgpt and gemini, but would love to hear your thoughts.
+
+Thanks",2,1777973998.0,IndianHomeDecor,0,1.0,False
+1t4aj1r,https://i.redd.it/6simc348hazg1.jpeg,Coffee Spot Franchise,,1,1777973923.0,BusinessforSalePH,1,1.0,False
+1t4aiyy,https://www.reddit.com/gallery/1t3bevr,"Vegan cake , chocolate +coffee ,also gluten free",,1,1777973916.0,ShittyVeganFoodPorn,0,1.0,False
+1t4aisk,https://www.reddit.com/gallery/1t4aisk,Hand embroidery workshops in Berlin next week!,"Hi, I'm Santo Cielo, an Uruguayan embroidery artist living in Berlin, and I'm excited to invite you to two hand embroidery workshops happening on Saturday, May 16th at Berlin Textile Coop (Weichselstraße 32, 10247 Berlin)!
+
+**10:00–14:00**
+
+**The Iridescent Dragonfly: Beads & Sequins Embroidery**
+
+Learn how to create sparkling, textured designs with beads and sequins.
+
+**15:30–19:30**
+
+**Under the Sea: Introduction to Raised Embroidery**
+
+Explore dimensional stitches to create beautiful underwater textures... perfect for beginners curious about 3D effects!
+
+Both workshops include all materials, are held in English, and tea, coffee, and snacks are provided. It's the perfect cozy environment to relax, learn, create, and meet fellow makers.
+
+Tickets and full info:[ https://www.santocielo.art/workshops](https://www.santocielo.art/workshops)
+
+Let me know if you have any questions... I'd love to stitch with you! And if you know someone who'd enjoy this, feel free to share! 🧵
+
+Santo
+
+",4,1777973898.0,berlinsocialclub,1,1.0,False
+1t4ahbd,https://i.redd.it/vk6r8pbugazg1.jpeg,Hair recovery progress (iron deficiency),"Left December 2024, right April 2026. 
+
+Iron proteinsuccinylate (Legofer) once a day, taken for 6 months in 2025 (13 -> 38) and for 3 months in 2026 (38 -> 56), second time around with vitamin C and 1-2 hours after last coffee. 
+
+Folic acid low at 3.4 in December 2024, prescribed 5mg/day x 2 months, was normal at 9.6 in January 2026, 3.4 again in April 2026, waiting for appointment. 
+
+No finasteride or dutasteride. Used Minoxidil and Spironolactone for a short period in 2025 but stopped. On Yasmin.
+
+\---
+
+Before the hair loss in 2024, had generalized thinning and loss of color starting around 2010, not addressed. Low iron since forever but never properly corrected. 
+
+Initial cause this time around was probably sudden weight loss + surgery under general anesthesia in early 2024, and cessation of BC (Yasmin) following the surgery. 
+
+I didn't realize I had heavy periods. On BC with monthly breaks 2007-2021, with breaks every 3 months 2021-2024, and off from May 2024 to February 2025. It was enough for all hell to break loose. 
+
+Went back on BC with a withdrawal week once every 3 packs (as before) in February 2025. In January 2026 stopped taking breaks altogether, but experiencing some minor breakthrough bleeding every 1-2 months. ",2,1777973766.0,FemaleHairLoss,2,1.0,False
+1t4ah3h,https://www.reddit.com/r/Trophies/comments/1t4ah3h/mosaic_my_platinum_trophies_so_far_id_like_to/,[Mosaic] My Platinum Trophies so far. I’d like to tackle some harder ones and am looking for tips.,"https://preview.redd.it/ryzkurlidazg1.png?width=2608&format=png&auto=webp&s=24c42c1be27e757006584dfffecd5540b0a6beb9
+
+As you can see, I’ve mainly been picking up ‘easy’ platinum trophies over the last few years. It all started back then with Telltale Games, and I got a taste for it. Over the next few years, though, I never managed to get any really difficult trophies. I think the hardest one was Slay the Spire, and that’s an 8/10.
+
+So I wanted to ask for some good tips on difficult Platinum trophies that are actually worth the effort. The kind where you’re really happy at the end and can be proud of yourself, but where the fun isn’t lost.
+
+I’m open to pretty much any genre except online shooters. I’m just too rubbish at them 😃",1,1777973743.0,Trophies,0,1.0,False
+1t4agbn,https://www.reddit.com/r/MakeNewFriendsHere/comments/1t4agbn/38m_up_at_530am_smashing_coffee_before_work_would/,38m up at 530am smashing coffee before work would love to connect !,"Hey there. I’m 38, currently sitting here at 5:30am drinking coffee before work and figured I’d try this instead of just scrolling.
+
+I’m a screen printer by trade—mostly working with designer stuff—so I spend my days around art, ink, and chaos (the good kind). Outside of work, I’m big on camping, being outdoors, and cooking. There’s something about making a great meal after a long day outside that just hits right.
+
+I’m not looking for anything complicated—just real conversations. Whether you’re into sharing random thoughts, talking about life, swapping recipes, music, or just need someone to chat with while your day gets going, I’m down.
+
+I tend to get along with people who are genuine, a little curious about the world, and can hold a conversation beyond “hey.” Bonus points if you’ve got a favorite camp meal or a go-to comfort dish.
+
+21+ only please.
+
+If you’re also up early (or up late), send a message—tell me what you’re drinking, what you’re thinking about, or what you’re looking forward to today.",1,1777973673.0,MakeNewFriendsHere,1,1.0,False
+1t4ag84,https://i.redd.it/cg6u1q9jgazg1.jpeg,Switched out my knockoff for name brand. Coffee tastes better. Who knew?,"I got the one on the left as part of a cheap espresso martini kit for a white elephant gift exchange. No brand name anywhere, so I can only assume it was meant to be decor. Worked fine for me for years, if a bit bitter.  
+The fact that it didn’t work on induction motivated me to get a new one, on brand this time, and the store paired the plate and the bialetti for a decent price. I made a couple test cups per instructions (something about coffee oils and ""seasoning"" the pot if I had to guess?), and am drinking my first real cup of coffee now. Won’t be going back to no-brand any time soon!  
+Only issue seems to be the bialetti lid won’t stay open. Watching all the brewing videos I didn’t expect it to need me to hold it open for filming, but I was curious if that’s normal?  
+Thanks again to the good people of this sub who let me know the induction plate existed in the first place. I’m a sucker for the classic look, so I went with the original + plate instead of an induction friendly bialetti.",6,1777973663.0,mokapot,2,1.0,False
+1t4ag4p,https://i.redd.it/qk4kczjggazg1.jpeg,Switched out my knockoff for name brand. Coffee tastes better. Who knew?,"I got the one on the left as part of a cheap espresso martini kit for a white elephant gift exchange. No brand name anywhere, so I can only assume it was meant to be decor. Worked fine for me for years, if a bit bitter.  
+The fact that it didn’t work on induction motivated me to get a new one, on brand this time, and the store paired the plate and the bialetti for a decent price. I made a couple test cups per instructions (something about coffee oils and ""seasoning"" the pot if I had to guess?), and am drinking my first real cup of coffee now. Won’t be going back to no-brand any time soon!  
+Only issue seems to be the bialetti lid won’t stay open. Watching all the brewing videos I didn’t expect it to need me to hold it open for filming, but I was curious if that’s normal?  
+Thanks again to the good people of this sub who let me know the induction plate existed in the first place. I’m a sucker for the classic look, so I went with the original + plate instead of an induction friendly bialetti.",1,1777973653.0,mokapot,0,1.0,False
+1t4afzr,https://www.reddit.com/r/Referral/comments/1t4afzr/50_quick_cash_im_paying_you_to_sign_up_for/,"💸 $50 QUICK CASH! I’m paying you to sign up for Revolut (Takes 10 mins, Offer ends in 7 days!) ⏳","Hey Reddit,
+
+Revolut is running a referral promo right now, and I’m splitting my bonus. If you sign up using my link, I will send you a flat $50 cash out of my own pocket as soon as your account clears.
+
+With exactly one week left until the May 12 deadline, we need to move fast! It takes about 10 minutes of active work on your end.
+
+The 5-Step Speedrun:
+
+Use my link: https://revolut.com/referral/?referral-code=michal5va!MAY1-26-AR-H1&geo-redirect  (Must be a brand new user).
+
+Verify: Pass the quick KYC identity check in the app.
+
+Fund it: Top up your account using Apple Pay, Google Pay, or your regular bank card.
+
+Order the physical card: You have to order it, but you don’t have to wait for it to arrive! You can use the virtual card instantly.
+
+Make 3 x $5 purchases: Buy three separate $5 items.
+
+The fastest way: Reload your Amazon gift card balance with $5 three times, or buy three cheap coffees. (Note: Gambling, crypto, or money transfers do not count).
+
+How to get paid:
+
+Once you finish step 5, your name lights up green on my app. The second I get the bonus from Revolut, I will instantly send your $50.
+
+👇 Comment ""PM"" below or send me a direct message if you're using my link so I can reserve your spot and track your progress! \*\*\*",1,1777973641.0,Referral,0,1.0,False
+1t4afla,https://www.reddit.com/r/Needafriend/comments/1t4afla/38m_drinking_coffee_at_530am_before_work_looking/,38m drinking coffee at 530am before work looking to connect,"Hey there. I’m 38, currently sitting here at 5:30am drinking coffee before work and figured I’d try this instead of just scrolling.
+
+I’m a screen printer by trade—mostly working with designer stuff—so I spend my days around art, ink, and chaos (the good kind). Outside of work, I’m big on camping, being outdoors, and cooking. There’s something about making a great meal after a long day outside that just hits right.
+
+I’m not looking for anything complicated—just real conversations. Whether you’re into sharing random thoughts, talking about life, swapping recipes, music, or just need someone to chat with while your day gets going, I’m down.
+
+I tend to get along with people who are genuine, a little curious about the world, and can hold a conversation beyond “hey.” Bonus points if you’ve got a favorite camp meal or a go-to comfort dish.
+
+21+ only please.
+
+If you’re also up early (or up late), send a message—tell me what you’re drinking, what you’re thinking about, or what you’re looking forward to today.",1,1777973600.0,Needafriend,1,1.0,False
+1t4aebk,https://www.reddit.com/r/singleph/comments/1t4aebk/30_f4a_tonight/,30 [F4A] tonight,"Sfw hangouts and good encounters sana! 🥹        
+Yap and palpitate with me. Tell me about your day and let's share a good cup of coffee together? 😊
+
+About me: cis-female, bgc area, working professional, decent & clean, pretty face (sabi lang saakin), fit, eats healthy and regular gym goer.
+
+You: sponty, cute and decent and wanna coffee now
+
+See you in my DMs!",1,1777973478.0,singleph,0,1.0,False
+1t4ae5m,https://v.redd.it/b9ybnqcqfazg1,Working on a coffee factory game,"I’ve been working on Galactic Roastworks for some time, a coffee factory game where you manage production from extracting beans to roasting and delivery.  
+  
+Recently I added bean varieties, roast levels, and a new building, the mine.  
+  
+Still early in development, but I appreciate any feedback!",1,1777973462.0,SoloDevelopment,0,1.0,False
+1t4ae3z,https://www.reddit.com/r/degoogle/comments/1t4ae3z/wheres_my_droidfind_device_alternatives/,Where's My Droid/Find Device Alternatives?,"That's my question. I need something that does that or else my knew phone will fall behind a coffee table, blend into the scenery, or otherwise go off on an adventure never to be found again.
+
+Please tell me there's a free alternative that isn't another phone.",1,1777973457.0,degoogle,3,1.0,False
+1t4adxt,https://v.redd.it/19fnxlpgfazg1,Glimpses of our latest coffee workshop,,1,1777973440.0,Odisha,3,1.0,False
+1t4acgg,https://v.redd.it/19fnxlpgfazg1,Glimpses of our latest workshop,"This was a cupping session by Koraput A1 coffee estate and java clinic cafe
+
+We tasted different coffees from their harvest, learnt about processing and their journey ",1,1777973304.0,odishacoffee,2,1.0,False
+1t4ab12,https://www.reddit.com/r/AskReddit/comments/1t4ab12/what_do_yall_do_when_that_biscuit_drowns_into_ur/,What do ya'll do when that biscuit drowns into ur tea or coffee?,,0,1777973167.0,AskReddit,16,0.17,False
+1t4ab0w,https://i.redd.it/id75ub62fazg1.jpeg,Ferritin 13 -> 56,"Left December 2024, right April 2026. 
+
+Iron proteinsuccinylate (Legofer) once a day, taken for 6 months in 2025 (13 -> 38) and for 3 months in 2026 (38 -> 56), second time around with vitamin C and 1-2 hours after last coffee. 
+
+Folic acid low at 3.4 in December 2024, prescribed 5mg/day x 2 months, was normal at 9.6 in January 2026, 3.4 again in April 2026, waiting for appointment. 
+
+No finasteride or dutasteride. Used Minoxidil and Spironolactone for a short period in 2025 but stopped. On Yasmin.
+
+\---
+
+Before the hair loss in 2024, had generalized thinning and loss of color starting around 2010, not addressed. Low iron since forever but never properly corrected. 
+
+Initial cause this time around was probably sudden weight loss + surgery under general anesthesia in early 2024, and cessation of BC (Yasmin) following the surgery. 
+
+I didn't realize I had heavy periods. On BC with monthly breaks 2007-2021, with breaks every 3 months 2021-2024, and off from May 2024 to February 2025. It was enough for all hell to break loose. 
+
+Went back on BC with a withdrawal week once every 3 packs (as before) in February 2025. In January 2026 stopped taking breaks altogether, but experiencing some minor breakthrough bleeding every 1-2 months. ",1,1777973166.0,u_bitseybloom,0,1.0,False
+1t4aaxe,https://www.reddit.com/gallery/1t4aaxe,Why do companies here always change/discontinue popular items?,"I rarely go to Starbucks, but when I did, it was specifically for this delicious scone with massive chunks of chocolate in it. Filling, delicious, goes perfect with coffee. 
+
+I went in yesterday and saw the scone is now less than half as big as before. It’s like a glorified chocolate chip cookie now.  
+
+There have been a lot of items here that I find once or twice, and then they just disappear.  
+
+I just wanted my big triangular chocolate chip scone.  ",13,1777973157.0,japanresidents,15,0.88,False
+1t4a9h3,https://www.reddit.com/r/NevernessToEverness/comments/1t4a9h3/repeatable_source_of_fons_that_resets_after_a/,Repeatable source of fons that resets after a period of time. Let me know if i missed anything.,"1. Daily Reset : Participation Tasks. 20k fons
+
+
+
+2. Weekly Reset : City Stamina. 500k fons
+
+
+
+3. Bi-weekly Reset : Pink Paw Heist. 1m fons
+
+  
+So if we do all these, in 2 weeks we earn about 2.28m fons. I didn't include coffee shop cause i don't know if it have a cap nor limit on how much income you can hold.
+
+  
+Giovanni Dvořák should not be a miser and double the cap of pink paw heist. It would be interesting if players could buy him out and gain control of the pink paw heist in his world, and invite players in coop to steal from him his fons.",1,1777973015.0,NevernessToEverness,11,0.67,False
+1t4a834,https://www.reddit.com/r/dayton/comments/1t4a834/happy_primary_voting_day_dayton/,"Happy Primary Voting Day, Dayton!!!","Good morning, Reddit! I am once again up at this ungodly fucking hour to work the polls which open at 6:30am and close at 7:30pm. If you have not yet voted in the primaries, please come and say hello to your favorite poll worker, grab your ballot, and vote!
+
+If you have questions about your voter registration status, your polling location, or want to look at a sample ballot, please refer to \[this excellent post\](https://www.reddit.com/r/dayton/comments/1t2wt9l/midterm\_primaries\_are\_tuesday\_heres\_how\_to\_find/) from u/celticdude234. If you have other voting-related questions, drop them here and we'll get you an answer!
+
+To my fellow poll workers: thank you for giving your time today! May your coffee be delicious and I hope you are blessed to have one of your fellow workers bring donuts from Bills or Stans.",11,1777972878.0,dayton,1,1.0,False
+1t4a6y8,https://www.reddit.com/r/MakeNewFriendsHere/comments/1t4a6y8/26m_humans_that_arent_bots_or_sellers_and_are/,26m - humans that aren't bots or sellers and are genuinely interesting,"anyone who's not a bot and is interested in holding a conversation, reach out. I'm 26 from Australia, I work in sports and am practically consumed by anything sports related. I've gotten super into making coffee lately and have spent way too much time messing with my coffee machine. I've got a bunch of terrible tattoos. reach out if any of that sticks lol",1,1777972774.0,MakeNewFriendsHere,2,1.0,False
+1t4a6ls,https://www.reddit.com/r/OCPoetry/comments/1t4a6ls/the_velvet_edge/,The Velvet Edge,"I woke to the cold side of the bed   
+Its been this way for a while;   
+The sun stretching its warmth   
+But the cold seems to have forged its bond   
+In my sheets
+
+I drink my morning coffee while ,   
+The  mug scrutinising the silence between us.   
+I dress myself , in silk and cotton-   
+Armour against a day that’s passing   
+Like a page, Ive stopped trying to fill.
+
+I venture into the forest filled with thorns,   
+Where venomous snakes coil at my feet,   
+Pricking at me, bleeding me dry .   
+I side step the fangs at my heels,   
+I plunge deeper into the thicket-
+
+Surviving what I've learned to expect.   
+And there in a clearing,   
+I lower myself to hold a butterfly,   
+Reaching for its beauty   
+Lying on a petal.
+
+Only to realise ,   
+In the quiet of my after life-   
+That of all the monsters in the woods,   
+the wings I reached for ,   
+
+
+Were the only blades,   
+I couldn't see coming.
+
+COMMENT 1:[https://www.reddit.com/r/OCPoetry/comments/1sad5b9/comment/oe2fuyg/?utm\_source=share&utm\_medium=web3x&utm\_name=web3xcss&utm\_term=1&utm\_content=share\_button](https://www.reddit.com/r/OCPoetry/comments/1sad5b9/comment/oe2fuyg/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+Comment :
+
+[https://www.reddit.com/r/OCPoetry/comments/1smc1m2/comment/ogp4kd9/?utm\_source=share&utm\_medium=web3x&utm\_name=web3xcss&utm\_term=1&utm\_content=share\_button](https://www.reddit.com/r/OCPoetry/comments/1smc1m2/comment/ogp4kd9/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+
+
+",1,1777972740.0,OCPoetry,1,1.0,False
+1t4a6ie,https://www.reddit.com/r/Marathahalli/comments/1t4a6ie/any_female_from_ranchi_in_marathali/,Any female from ranchi in marathali,"Ranchi girls in Marathahalli? Let's connect!
+
+From Ranchi, now in Marathahalli. Love beer more than coffee, music, Jharkhand vibes, and good conversations.
+
+Looking for genuine friends — comment or DM if you're around! 😊",0,1777972730.0,Marathahalli,3,0.5,False
+1t4a683,https://www.reddit.com/gallery/1t4a683,cenzo,"very good service. Help me change the side plate of beef from potatoes to salad since there has already had potatoes in the starter. The dessert is cost- effective but bitter for the cake. very strange. Beef and clams are perfect. it would be better if spending more time resting the steak before cutting.  
+$39+10+6 before gst  
+weekday lunch set",15,1777972705.0,SingaporeEats,4,1.0,False
+1t4a572,https://www.reddit.com/gallery/1t4a572,"1 night stay at hue Hotel for only ₱3000 (accidentally booked wrong date huhu) - save ₱1,261.55!","Selling my 1-night stay at Hue Hotels & Resorts Boracay (Station X) for ONLY ₱3,000 (bought early for ₱4,261.55, website price is ₱4,963).
+
+📅 Date: May 29–30, 2026
+
+🛏 Room: Deluxe Room (Pool View, 2 single beds)
+
+📍 Location: Station X – around 5 min walk to the beach (eskinita)
+
+Why I’m selling:
+
+Booked the wrong date (May instead of April 😭) and already stayed there last April 29–May 3, so I don’t want this to go to waste.
+
+Honest review (I just stayed there):
+
+✔️ SUPER comfy beds (like legit sarap matulog)
+
+✔️ Very clean rooms
+
+✔️ Spacious + nice pool view
+
+✔️ Good location – chill area but near everything
+
+Inclusions:
+
+✔️ Breakfast
+
+✔️ Free WiFi
+
+✔️ Coffee & tea
+
+✔️ Gym access
+
+How it works:
+
+– I’ll rename the booking under you via Agoda
+
+– Can send full proof of booking + payment
+
+– Can also show proof I stayed there recently for legitimacy
+
+💸 Price: ₱3,000 only (negotiable if sure buyer)
+
+Sayang if unused - this is already a steal vs original price of
+
+DM me if interested!",1,1777972604.0,boracay,0,1.0,False
+1t4a3lp,https://www.reddit.com/r/twincitiessocial/comments/1t4a3lp/19_wants_a_coffee_buddy/,19 Wants a coffee buddy,wanna have a little chat while drinking coffee let's see if we have a spark of vibe,12,1777972451.0,twincitiessocial,0,0.93,False
+1t4a2sp,https://i.redd.it/cqt4ii5ccazg1.png,Guess who can't spell Britain,"In other news, that coffee shop is worth a visit, tasty, and they have a cute little coffee vending machine. ",85,1777972372.0,london,16,0.93,False
+1t4a1zx,https://i.redd.it/juhoiljgcazg1.jpeg,M25 looking for female friends,"Marathahalli folks! Looking for genuine connections with cool people. Coffee dates, good talks, party nights and smiles welcome. Ladies, feel free to say hi ",0,1777972292.0,Marathahalli,0,0.5,False
+1t4a1p4,https://www.reddit.com/r/boracay/comments/1t4a1p4/hue_hotel_1_night_for_sale_accidentally_booked/,"HUE hotel 1 night for sale (accidentally booked wrong date huhu) - ₱3,000 only (save ₱1,261.55)","Selling my 1-night stay at Hue Hotels & Resorts Boracay (Station X) for ONLY ₱3,000 (bought early for ₱4,261.55, website price is ₱4,963).
+
+📅 Date: May 29–30, 2026
+
+🛏 Room: Deluxe Room (Pool View, 2 single beds)
+
+📍 Location: Station X – around 5 min walk to the beach (eskinita)
+
+Why I’m selling:
+
+Booked the wrong date (May instead of April 😭) and already stayed there last April 29–May 3, so I don’t want this to go to waste.
+
+Honest review (I just stayed there):
+
+✔️ SUPER comfy beds (like legit sarap matulog)
+
+✔️ Very clean rooms
+
+✔️ Spacious + nice pool view
+
+✔️ Good location – chill area but near everything
+
+Inclusions:
+
+✔️ Breakfast
+
+✔️ Free WiFi
+
+✔️ Coffee & tea
+
+✔️ Gym access
+
+How it works:
+
+– I’ll rename the booking under you via Agoda
+
+– Can send full proof of booking + payment
+
+– Can also show proof I stayed there recently for legitimacy
+
+💸 Price: ₱3,000 only (negotiable if sure buyer)
+
+Sayang if unused - this is already a steal vs original price of 
+
+DM me if interested!",1,1777972261.0,boracay,0,1.0,False
+1t4a1l4,https://www.reddit.com/r/emotionalaffair/comments/1t4a1l4/processing_does_this_count/,Processing. Does this count?,"\[Hi all. Apologies for the long post. I haven’t really admit these feelings anywhere but therapy and to close friends, so I haven’t streamlined it yet.\]
+
+My ex (30F) and I (33M) broke up about 9 months ago. We were together for almost 5 years, lived together for 2, and actively planning to move across the country together for her residency, if necessary, and getting married. 
+
+For context, early on in our relationship, my ex let me know about a friend she’d briefly dated in early med school, however she said it was awkward and they decided to just be friends. One day, she asked if she could get a drink with him. I said yes after some reflection, because I trusted her, but “a drink” turned into her being out with him until 2 a.m. Ironically, his partner at the time was uncomfortable with it and my ex was telling him how relieved she was that I was okay with it. The reality was, I couldn’t sleep the whole time. When she noticed something was wrong once she got home and I was still awake, I admit that I thought I would be more comfortable with the idea, but that the experience helped me establish a new boundary. Tears were shed, but I felt like we got through it. 
+
+Sometime later, we went to a popular local bar for my birthday and the guy happened to be there with some friends. He came over to speak and we shook hands. He even bought me a (bad) drink. Funnily enough, a couple of my closest friends were aware of the situation and helped me laugh it off. Even cracked a couple of jokes at his expense. Then we all went our separate ways. 
+
+But this past summer, she spent a month one state over for an away rotation for med school and ended up in the same city as him because they had a very good program for her specialty. I went and visited her for a week, but she told me she was getting lonely afterwards. Then, a few days later, she asked me if I’d be uncomfortable if we got a drink with him during her last week. 
+
+I was in shock. It was dejavu. I thought this was old news. My first response was “do you feel like you need to?” and she just said yes. So I felt like I was trapped between two bad options - being a controlling partner who wants the woman he just excitedly bought an engagement ring (with her blessing) to be lonely or trust that she’s only friends with this man and try to get over it.
+
+I told her she could go. The two of them ended up hanging out with two other friends of his who were leaving town soon. And when I followed their location on Google Maps, once again, it wasn’t just a drink. They went to 2-4 different bars and, at one point, the GPS said she had been in her apartment for more than 10 minutes, walked around the corner, and came back. And that’s when she text me she was “on the way home!” I didn’t know how accurate it was though because at one point the tracker showed her suddenly in the middle of a nearby lake and back again.
+
+I FaceTimed her to let her know I was uncomfortable, again. But this conversation was a lot shorter.
+
+She came home that next week and I broached the topic. She surprisingly said a lot of the cliche things someone says when they’re caught cheating. “Nothing inappropriate happened.” “I care about you 1,000 times more than him.” “I won’t even breathe the same air as him if that’s what you want.” “We just trauma bonded in med school and he understands my experience.” 
+
+My response was that I don’t want to place any ultimatums, because I trust her, but I don’t trust him. And I feel like he’s hovering in the same way a lot of people do around past lovers they still have feelings for. I even let her know I’d gotten a couple of unexpected offers to reconnect with women from my own past but didn’t even bother to entertain them and shut it down immediately. I suggested that she should think about the intentions behind people’s actions. 
+
+I also asked her why they always have to go out for drinks late at night and can’t meet up for coffee or lunch or just talk on the phone. I also admit that he makes me so angry that I wish I could confront him, but I won’t (and still haven’t).
+
+I knew we were going to do premarital counseling before we actually got engaged, so I decided to table the discussion for a while given that we were scheduling that counseling for when she was settled in a few weeks. 
+
+The next month, she had another away rotation on the east coast. I visited her for a week, had a good time, and came home only for her to text me that she “felt different” and “needed space.” I spent the next two weeks in shock and trying to process a long list of complaints and concerns she dropped on me about me and our relationship that she’d never brought up to me before. I scrambled and found a counselor who could get us in as soon as she got home, hit the gym every single day, and processed with close friends. Even did stuff around the house that I’d been meaning to get to. 
+
+When she came home, she ultimately broke up with me a couple of days later after sleeping on the couch. Over text during a walk when she was clearly avoiding me, a day before counseling was meant to start. She moved out that night with the help of a couple friends.
+
+We took a long walk and I embarrassingly asked her not to date the guy if they ended up in the same place. She said that’s not my place. I then apologized if I overreacted to her relationship with him and all she said was “you were right.” 
+
+So, I say all of this almost a year later. I’m waking up at 3 in the morning everyday, often thinking of her, him, or them. The betrayal I feel but can’t really explain. That’s actually when I’m writing this. 
+
+I often wonder if what I experienced even qualified as being cheated on? And if she recognizes that and how hurtful it was to me? Wondering what really happened and for how long? 
+
+I’ve had many moments of bitterness where I don’t think I’ll ever date again because of how this ended. I’ve regularly felt gullible, naive, and downright stupid. I even find myself wanting to randomly apologize to her for things I shouldn’t, just to open the conversation so that maybe she’ll do the same. (We haven’t spoken in months, fwiw). 
+
+Now, she matched into a residency program across the country and she’ll be moving away soon. And I’m still rebuilding the pieces of my life. ",1,1777972249.0,emotionalaffair,1,1.0,False
+1t4a1de,https://www.reddit.com/r/offmychest/comments/1t4a1de/i_almost_killed_my_dad/,I almost killed my dad,"when I was around six, my dad bought this weird bright pink salt to make some German recipe and he told me if anybody ate a little bit too much they would die and ever since that day forward my six-year-old self would constantly think about putting some into his coffee and killing him, I would think about grabbing a knife from the kitchen and stabbing him, I would think about somehow acquiring a gun and shooting him while he was sitting on the couch. I used to daydream about me killing my dad and getting away with it and being able to live with my mom. or going to prison and just getting away from him. 
+
+the only reason I didn’t do it is because I was too scared that I would fail and my dad would kill me instead.
+
+I had run down millions of different ways that I could kill him and get away with it, eventually,  I realized the coffee idea wouldn’t work because he would obviously taste the salt in his coffee, so I gave up on that idea so I moved over to the stabbing idea where I would walk behind him while he was sitting on the couch watching TV and stab him in the neck and I let him bleed out and then take his body over to the garb and then wipe all the blood away and for some reason in my now seven year-old brain that would be enough for the police to not hold an investigation. to sit in my kitchen, staring at the knifes and thinking about it. 
+
+tldr: don’t abuse your kids and they won’t think of killing you ",1,1777972230.0,offmychest,1,1.0,False
+1t4a1ak,https://www.reddit.com/r/LongDistance/comments/1t4a1ak/is_this_too_much_to_ask/,Is this too much to ask?,"I (23F) have been with my bf (29M) for around 2 years. We met in person, and even though there is an ocean between us, we try to see each other for a few weeks every 1-2 months. Things are going great between us, and we are planning to stay together long term and eventually figure out a way to move in together.
+
+I recently started my PhD program in the US, in a field that doesn’t really support remote work, and he can work fully remote, so it’s been easier for him to visit me while WFH. Because of that, I had decided to rent an apartment by myself without any roommates, which would make his visits a lot more convenient.
+
+However, my PhD stipend after the rent for my studio apartment, is barely enough for my daily expenses. I live in one of the major cities with crazy rents, and I know that I spend a decent amount of money on coffee and sometimes takeouts when I’m too stressed to cook, but even if I tried to budget well, it still doesn’t fully cover what I need.
+
+Now I’m a little hesitant on what to do. My bf has a real job, makes more money than my stipend, and doesn’t have to pay rent in his home country, but I am never someone who feels comfortable asking other people for money. Especially when I’m the only person living in the apartment most of the time, and he’s already paying for most of the flights (ranging from $600 to over 1k round trip each time), and whenever he’s here, he would pay for the groceries and restaurants. Is it too much to ask him for help?
+
+Any suggestions/advice is greatly appreciated!",1,1777972221.0,LongDistance,0,1.0,False
+1t4a0ou,https://www.reddit.com/r/PhR4Friends/comments/1t4a0ou/27m4f_let_me_vent_out_and_dump_this_all/,27[M4F] Let me vent out and dump this all,"in limbo rn. haven't slept for almost 2 days na. still questioning myself as to ""why?"" and ""what did i do wrong?"". so yeah looking to meet someone tonight  (bonus if you're a capricorn) that i can dump all of this and of course would love to have your opinion. cause it's really really heavy and i'm barely able to function. don't worry, i won't bore you naman. we can do it over coffee or something. so yeah hmu if this interests u",1,1777972161.0,PhR4Friends,0,1.0,False
+1t4a0j5,https://www.reddit.com/r/Lincolnuk/comments/1t4a0j5/i_will_be_in_lincoln_this_weekend_to_see_an_old/,I will be in Lincoln this weekend to see an old friend. Where is the best reasonably priced takeaway coffee in the main hub? I know of Costa and Starbucks but I’m looking for something more locally produced and/or cheaper,,1,1777972144.0,Lincolnuk,5,1.0,False
+1t4a0e5,https://www.reddit.com/r/DubaiJobs/comments/1t4a0e5/hiring_dubaibased_digital_marketing_sales_selling/,Hiring: Dubai-based Digital Marketing Sales — Selling to US Clients (Salary + Commission),"Hey Reddit,
+
+I'm running a digital marketing agency based in Dubai, selling services to US clients, and I'm looking to bring on a few sharp salespeople to join the team.
+
+What the role actually looks like right now:
+
+\- Hunting and prospecting — cold calling, cold emailing, LinkedIn and social outreach
+
+\- Being creative with how you get in front of US business owners (the obvious channels are crowded)
+
+\- Booking qualified appointments for our closer
+
+\- Running first calls on inbound leads we receive and qualifying them properly
+
+\- Progression: once you've proven yourself, you'll move into closing deals yourself with full commission upside
+
+Who I want to hear from:
+
+\- Based in Dubai (non-negotiable — we meet up regularly)
+
+\- Actual experience selling digital marketing (please don't apply if you've only sold something unrelated)
+
+\- Hungry, self-driven, doesn't need babysitting
+
+\- Comfortable on calls with US business owners and decision-makers
+
+\- Can run a creative outbound campaign, not just dial the same script
+
+What you get:
+
+\- Base salary + strong commission/bonus structure
+
+\- Clear path from setting appointments → closing deals → bigger commissions
+
+\- Work-from-home flexibility
+
+\- Team meetups at nice hotels and coffee spots around Dubai
+
+\- A real shot to grow with a lean, fast-moving team
+
+If you're motivated and you've actually done this before, drop me a DM with a quick intro — what you've sold, your numbers, and why you want in.",2,1777972130.0,DubaiJobs,0,1.0,False
+1t49zwa,https://www.reddit.com/r/UAEjobseekers/comments/1t49zwa/hiring_dubaibased_digital_marketing_sales_selling/,Hiring: Dubai-based Digital Marketing Sales — Selling to US Clients (Salary + Commission),"Hey Reddit,
+
+I'm running a digital marketing agency based in Dubai, selling services to US clients, and I'm looking to bring on a few sharp salespeople to join the team.
+
+What the role actually looks like right now:
+
+\- Hunting and prospecting — cold calling, cold emailing, LinkedIn and social outreach
+
+\- Being creative with how you get in front of US business owners (the obvious channels are crowded)
+
+\- Booking qualified appointments for our closer
+
+\- Running first calls on inbound leads we receive and qualifying them properly
+
+\- Progression: once you've proven yourself, you'll move into closing deals yourself with full commission upside
+
+Who I want to hear from:
+
+\- Based in Dubai (non-negotiable — we meet up regularly)
+
+\- Actual experience selling digital marketing (please don't apply if you've only sold something unrelated)
+
+\- Hungry, self-driven, doesn't need babysitting
+
+\- Comfortable on calls with US business owners and decision-makers
+
+\- Can run a creative outbound campaign, not just dial the same script
+
+What you get:
+
+\- Base salary + strong commission/bonus structure
+
+\- Clear path from setting appointments → closing deals → bigger commissions
+
+\- Work-from-home flexibility
+
+\- Team meetups at nice hotels and coffee spots around Dubai
+
+\- A real shot to grow with a lean, fast-moving team
+
+If you're motivated and you've actually done this before, drop me a DM with a quick intro — what you've sold, your numbers, and why you want in!",3,1777972081.0,UAEjobseekers,1,1.0,False
+1t49z4j,https://www.reddit.com/r/reddmatch/comments/1t49z4j/m4f_27m_bengaluru_here_for_something_that_lasts/,"[M4F] 27M | Bengaluru - Here for Something That Lasts, Maybe Forever",">***Note:*** *Even if everything doesn’t match perfectly, feel free to reach out if you think we might get along.*
+
+**About Me**
+
+I’m based in Bengaluru and work in an investment bank. I’m at a stable point in life and looking to build something genuine and long-term with the right person.
+
+I value calmness, depth, and understanding. I’m more of a listener than a talker, and I take my time building trust. Once I’m comfortable, my lighter, slightly sarcastic side comes out. I prefer meaningful conversations over small talk and connections that feel steady and real.
+
+**Basic Info**
+
+* Straight
+* 5’7”
+* Languages: English (fluent), Telugu & Kannada (native), Hindi (conversational), Tamil (I can understand)
+* Hindu (Reddy, if that matters to you)
+* Family-oriented and close to them
+
+**Lifestyle & Interests**
+
+I don’t smoke or drink, and I’d prefer the same in a partner (non-smoker is non-negotiable; occasional drinking is fine).
+
+I’ve recently started focusing more on fitness. Outside of work, I enjoy a simple life... cricket, movies, good food, coffee outings, or just unwinding. I keep my circle small, so when I spend time with someone, I’m fully present.
+
+**Work & Balance**
+
+I’m focused on long-term growth, with the goal of building something of my own someday. Work can be demanding, so I may not always be consistently available... but when it matters, I make sure to show up, both emotionally and in the time we share.
+
+**Relationship Background**
+
+I haven’t dated before... by choice. I wanted to reach a place where I could commit seriously, and I feel ready for that now.
+
+**What I’m Looking For**
+
+Someone kind, emotionally aware, and honest. Someone who communicates openly and values consistency.
+
+I’m looking for a partner to share everyday life with... not just the big milestones, but the small, ordinary moments that actually matter.
+
+**Preferences**
+
+* Age: 23–27 (flexible if we connect well)
+* Height: No strict preference
+* Location: Prefer Bengaluru, open to discussing if things align
+
+**What Matters to Me**
+
+* Trust, honesty, and mutual respect
+* Emotional maturity and consistency
+* Growing together while supporting each other
+
+**Long-Term**
+
+I’m looking for something that leads to marriage (ideally within 1-2 years). I prefer a simple wedding and a peaceful, stable life. I’m also open to having or adopting kids.
+
+**Small Things I Enjoy**
+
+* Coffee, good food, and even better conversations
+* The kind of talks that make time disappear
+* Cricket, movies, and simple shared moments
+* Calm, no-drama evenings that just feel right
+* Learning, growing, and not staying the same
+
+I’m not looking for perfection... just someone genuine who wants to build something real, step by step.
+
+If this resonates with you, feel free to reach out 🙂",1,1777972001.0,reddmatch,1,1.0,False
+1t49yr8,https://www.reddit.com/r/Peripheryband/comments/1t49yr8/the_event/,The Event,I'm trying to locate the 1 beat but somehow can't figure this  one out. Am i stupid? Do i need another coffee to get my brain up and running? What's going on here. Can someone help me count?,1,1777971964.0,Peripheryband,1,1.0,False
+1t49whr,https://www.reddit.com/r/IVFbabies/comments/1t49whr/anybody_else_completely_apathetic_about_their_job/,Anybody else completely apathetic about their job?,"Hoping for some solidarity or maybe a kick in the right direction.
+
+I'm expecting my first baby (exactly 16 weeks today!) after almost 3 years TTC, and successfully conceiving via IVF. 
+
+My job is stressful, we don't have enough hours or staff but it is a really important job. I run a service that provides specialist infant feeding support to mums, including writing policies and training staff etc. I care about it so, so much. 
+
+Except... I really don't anymore. Since becoming pregnant all I can think about is finishing work and being with my baby. I'm exhausted. It feels so long away and I just don't know how I'll do another 20 weeks like this. My plan once I finish work is to be a SAHM and then, eventually, build a private practice providing infant feeding support. At the moment though, every day just drags. I can't drink coffee because it makes me sick, can't eat dark chocolate for the caffeine boost, even tea is a bit hit and miss. 
+
+  
+I feel bad for the mums I am supporting, as they deserve so much better. But I'm honestly just so tired. I've also started having a lot of insomnia, which is definitely contributing. Did anyone else have insomnia around this stage, did it get any better? I also get awful premenstrual insomnia and had terrible stimsomnia. I'm terrified I'm just not going to sleep for the rest of my pregnancy and I'm going to ruin my reputation because I now suck at my job. ",1,1777971739.0,IVFbabies,2,1.0,False
+1t49vtt,https://www.reddit.com/r/nairobitechies/comments/1t49vtt/uni_studentsdevs_am_i_wastng_my_time_building_an/,Uni students/Devs: Am I wastng my time building an AI app that actually forces you to use your coursework? Need brutal honesty.,"Hey everyone,
+
+I’m a second-year student at JKUAT. My team and I realized something recently: the units we’re taking (even the ""boring"" ones) aren’t actually useless; we just have zero context on how to apply them. We spend semesters mastering the theory of OS, Database systems, or Discrete Math, but we graduate without knowing how to actually ship production-ready code.
+
+We’re building an app to fix this for ourselves, and I wanted to see if we’re onto something or just over-engineering our own frustrations.
+
+# The Concept
+
+The app works in two distinct gears:
+
+* **Academic Mode:** It syncs with your current JKUAT timetable. During your free time, it assigns **2-3 daily micro-sprints** based on your units. (e.g., If you’re learning indexing in DB, it tasks you with optimizing a specific query in a project).
+* **Holiday Mode:** During the 4-month long break, it flips into ""Super Grind Mode""—a full-time engineering accelerator to help you build out a verified, high-level portfolio.
+
+Instead of human mentors, we built an AI pipeline that acts like a senior engineer who’s had too much coffee.
+
+* **Zero Hand-holding:** If your architecture is messy or your security is weak, it **rejects your PR.**
+* **Socratic Hints:** It doesn't just give you the answer. It gives you ""Socratic hints""—pointing out the vulnerability or the bottleneck and telling you which CS concept you need to go back and study to fix it yourself.
+
+**I’d love some honest feedback from the devs here:**
+
+1. **The Fatigue Factor:** Would you actually do 2-3 daily micro-sprints during a busy semester, or does that sound like ""homework 2.0""?
+2. **Holiday Mode:** How would you have used those 4-month breaks differently if you had a ""grind mode"" like this?
+3. **The CTO:** Is an AI that rejects code too frustrating, or is that the ""tough love"" we need as students?
+4. **What’s missing?** If you could have a tool that forced you to become a better engineer in school, what’s the one feature it *must* have?
+
+",5,1777971672.0,nairobitechies,1,1.0,False
+1t49vb4,https://www.reddit.com/gallery/1t49vb4,What happen to my washed coffee..is it ok?,,0,1777971628.0,roasting,3,0.5,False
+1t49v8t,https://www.reddit.com/r/socialskills/comments/1t49v8t/how_do_i_talk_about_my_workinterests_without/,How do I talk about my work/interests without coming across as annoying or overconfident?,"In my old workplace, I ran into this issue : when others share their work/hobbies/anything, it was well received but when I did the same (usually when prompted), there's 1-2 individuals who would push back in a dismissive or condescending way and try to move the conversation along to something else. (""How could you mistake X for Y?"", scoffing or laughing at me when there's nothing funny and it was a serious topic etc.)
+
+I try to stay open-minded and assume they knew more so I should learn from them, but later realised either accidentally or cross-checking with other people more familiar with the topic that they insisted on something that's... sometimes objectively wrong. But I don't feel confident to correct them since they've interrupted me enough in conversations where I decided not to because everything I say comes out wrong and is received in a weird way by them. A few colleagues I trusted started pulling me away separately if we want to have coffee break to chat knowing we'd get interrupted and in group meetings, I feel like a dunce and hesitant to share anything for fear of being treated like an idiot or too overly confident that I repulse people away.
+
+I’ve been told by others (supervisor, trusted colleagues, friends) when asking for feedback that I come across as enthusiastic, not arrogant or loud. But these responses of sarcasm or backhanded remarks from the rest, make me second-guess them and myself. I feel my confidence dropping over time.
+
+I try to hedge (“I think”, “maybe”), speak only when prompted, and keep my tone measured but sometimes I get excited when it's something I'm passionate about. I don’t think this is just a “difficult people” issue since these individuals are generally well respected (as well by me), so I’m wondering if there’s a gap in how I’m coming across. I want to be able to communicate my ideas in a way that reaches people like them and get proper feedback, not just.. vague hand-wavy comments or dismissal. I want to be taken seriously.
+
+So, how can I communicate confidently which doesn’t invite this kind of pushback where I'm being ""put in my place"" (unless its constructive)?",3,1777971623.0,socialskills,3,0.8,False
+1t49umz,https://www.reddit.com/r/FragranceStories/comments/1t49umz/does_your_perfume_hobby_reflect_other_aspects_of/,Does your perfume hobby reflect other aspects of your life?,"I think perfumery is art, and therefore an instrument for learning about life. Like good movies, music, or literature. To me, the closest analogy is poetry. It’s a short form but still open to interpretation. I notice different things each time I wear something like Yves Saint Laurent Libre. It helps me pay attention more and understand my own preferences better. At the same time, it’s also just something I enjoy on a basic level. Like having coffee or eating something good. It doesn’t always have to mean something deep. But over time, it adds to how I see things and how I make choices. Do you see your perfume hobby as something that teaches you things, or is it just about using what you like?
+
+",4,1777971569.0,FragranceStories,3,1.0,False
+1t49u4j,https://www.reddit.com/gallery/1t49u4j,This is my Mother's sugar spoon.,I'm nearly 60 and I've known this spoon my entire life. Mum still uses it when I visit for coffee.,4,1777971513.0,Spoons,0,1.0,False
+1t49tum,https://www.reddit.com/r/indianrealestate/comments/1t49tum/ajwani_prissa_pratham_spacious_luxury_apartments/,"Ajwani Prissa Pratham: Spacious Luxury Apartments on Shani Mandir Road, Wakad","https://preview.redd.it/j02iv8jv9azg1.png?width=1672&format=png&auto=webp&s=1c5d7525cf2e29fb2e8a7eeb54d44889a22a9c08
+
+
+
+For modern homebuyers in Pune, finding a home that combines luxury, comfort, and long-term value is no longer a dream. As premium residential projects are changing the skyline of Wakad, [Ajwani Prissa Pratham](https://prissapratham-wakad.com/) is an address planned for a high lifestyle. Situated on the prestigious Shani Mandir Road, this landmark development combines spacious homes, thoughtful design, and lifestyle-centric amenities in one of Pune’s most vibrant residential corridors.
+
+# A Premium Address in the Heart of Wakad
+
+is strategically located on Shani Mandir Road, a well-connected and fast-developing locality of Wakad. Wakad is well connected to Hinjawadi IT Park, Baner, Aundh, and the Mumbai-Pune Expressway. It has become a preferred destination for professionals, families, and investors alike.
+
+Living here means easy access to the following:
+
+* Best schools
+* Top hospitals and healthcare centers
+* Premium shopping and entertainment centres
+* Restaurants, Coffee & Lifestyle Destinations
+* Major business centers and IT parks
+
+This makes [Ajwani Prissa Pratham Wakad ](https://prissapratham-wakad.com/)a luxurious residence along with a smart real estate investment in Pune.
+
+# “Spacious Homes Built for Today’s Living”
+
+Provides every home with a focus on openness, elegance, and functionality. The project is an ideal choice for families looking for bigger living spaces blended with a refined urban lifestyle and offers premium 2 & 3 BHK apartments.
+
+Key highlights of the design are the following:
+
+* **Floor-to-ceiling height of 11 feet for a grand sense of openness**
+* **No ducted cooktops that maximise usable space**
+* **Low number of residences per floor for greater privacy**
+* **Quick lifts for easy access**
+* Smart layouts that allow for plenty of natural light and ventilation
+
+These thoughtful touches make for spacious, luxurious, and very comfortable homes.
+
+# 3.5 Acres of Living Master-Planned
+
+[Prissa Pratham](https://prissapratham-wakad.com/) is a premium low-density housing community spread over 3.5 acres. The project consists of three elegant 24-story towers, built over B1 + Ground + 3 podiums, with residences starting from the 4th floor onwards offering elevated views, better ventilation, and a peaceful living environment away from street-level activity.
+
+This special planning improves:
+
+* Confidentiality
+* Scenic Vistas
+* Natural ventilation
+* Lower noise level
+* A peaceful, community-centric way of life
+
+# 67 Lifestyle Amenities For All Ages
+
+Luxury living is not just about large apartments. It is about experiences. comes with 67 carefully selected amenities for recreation, wellness, and family living.
+
+Residents are able to enjoy:
+
+* Today's clubhouse settings
+* Fitness and wellness rooms
+* Landscaped Gardens.
+* Play areas for children
+* Social hangout spaces
+* Recreation and Sports Facilities
+* Dedicated relaxation areas
+
+Each amenity is crafted to enhance everyday living and create a complete lifestyle ecosystem.
+
+# Founded on Trust and Excellence
+
+is developed by a reputed builder with 2500+ successful projects, reflecting strong engineering standards, proven credibility & long-term value. For buyers, that means confidence in quality construction, on-time delivery, and a home built for generations down the road.
+
+# Why Ajwani Prissa Pratham?
+
+Looking for luxury apartments in Wakad, premium 2 & 3 BHK homes in Pune, or a high-value residential investment on Shani Mandir Road? is a good choice.
+
+# In brief: Key points
+
+✔ Wakad prime location  
+ ✔ Premium 2 & 3 BHK Spacious Apartments  
+ ✔ 11 feet floor to ceiling  
+ ✔ three iconic towers (24 floors)  
+ ✔ Master Planned 3.5 Acres  
+ ✔ 67 Amenities Premium  
+ ✔ Privacy-conscious design  
+ ✔ Proven developer background
+
+# Concluding thoughts
+
+[Prissa Pratham Wakad](https://prissapratham-wakad.com/) is not just a residential project; it is a well-planned lifestyle destination. It has all that the modern family looks for in a dream home: spacious homes, premium amenities, trusted construction quality, and a prime Wakad location.
+
+Ajwani Prissa Pratham—For those who want to invest in comfort, convenience, and timeless luxury in Pune.
+
+",1,1777971485.0,indianrealestate,1,1.0,False
+1t49toi,https://www.reddit.com/r/VisitScottsdale/comments/1t49toi/any_underrated_coffee_shops_here_worth_trying_in/,Any underrated coffee shops here worth trying in Scottsdale?,Just a girl visiting Scottsdale and taking everything in slowly . The sun feels different here in the best way ✨ I might stay a little longer than planned 🌞,16,1777971466.0,VisitScottsdale,1,0.86,False
+1t49rg9,https://www.reddit.com/r/navimumbai/comments/1t49rg9/anyone_up_for_a_chill_workcoffee_hangout_in/,☕ Anyone up for a chill work/coffee hangout in Seawoods?,"Just found out about a newly opened cafe in Seawoods — BAN - House of Beans Cafe — and it looks like a pretty cool spot. They’ve got free WiFi, a bunch of games, and a nice vibe to just sit, work, or hang out.
+
+I’m planning to go either today, tomorrow, or sometime this week and was wondering if anyone would like to join? Could be a casual meetup — bring your laptop, work, chat, play games, or just relax.
+
+If you're interested, DM and we can figure out a time that works!",5,1777971246.0,navimumbai,9,0.86,False
+1t49rb7,https://www.reddit.com/r/WegovyUK/comments/1t49rb7/first_ever_wegovy_injection/,First ever Wegovy injection,"I 26f did my first jab of Wegovy yesterday in the afternoon, I decided to inject into thigh as I thought it would be the least painful spot. I followed the instructions to the letter and even had my housemate there while I did it just in case. I was surprised it did sting quite a bit and ached afterwards so I’m a bit worried I did something wrong. Today I feel okay, I’ve had some ‘sucky’ burps and I gagged once earlier but nothing happened. I don’t feel nauseous but I do feel a bit sensitive and not very hungry at all; I’ve had two cups of coffee but this is normal for me I’m not usually a breakfast person.  
+
+My starting weight is 242 lbs I’m aiming to get to 200/180 lbs.
+
+I’m planning on doing a home workout video after work, haven’t done much exercise recently and from what I’ve read exercising is key to weight loss on Wegovy.
+
+Just want to check I’m doing things correctly as a first time user and see if anyone has any tips and tricks.",1,1777971232.0,WegovyUK,2,1.0,False
+1t49qsm,https://www.reddit.com/r/OffMyChestPH/comments/1t49qsm/ang_hirap_talaga_maging_overthinker_pero_better/,Ang hirap talaga maging overthinker!! Pero better safe than sorry!!!,"Paano ka ba mapraning? Kanina kasi habang naglalakad ako papunta sa sakayan ng jeep, may kuyang naglalakad sa left side ko na too close for comfort na yung space. Uncomfy na ako doon sa part na iyon! So syempre ako binilisan ko.
+
+Pagdating sa sunod na kanto may isang kuya na naman sa right ko yung parang sumasabay sa akin ng lakad. Maayos naman pananamit pero parang ewan talaga kumukulo tiyan ko eh. So ang itsura namin ngayon, sa left side ko yung naunang kuya medyo nauna lang ako pero yung kuyang katabi ko sa right parang papalapit na sa akin. Sa unahan may nakita akong coffeeshop. So mas binilisan ko yung lakad at pumasok sa coffee shop. Kitang kita ko yung dalawang kuya huminto at nagtinginan. So sa isip isip ko “GAHDDDD magkakilala sila”
+
+So eto ako nakatambay ngayon sa said coffee shop habang naghihintay ng grab na nakapin mismo sa harap ng coffeeshop. Hinding hindi ako lalabas hanggat wala yung grab na yon.
+
+Nakagastos man ako ng 280 (ordered a burger and drink) pero mabuti na yon kesa mas may malala pang mangyari.
+
+Stay safe guys!!",2,1777971177.0,OffMyChestPH,1,1.0,False
+1t49qmu,https://www.reddit.com/r/BGC_Taguig/comments/1t49qmu/bgc_spots_no_longer_around/,BGC spots no longer around,"Do you guys have any places in BGC that you miss since they're not around anymore? I have been living outside of Manila for a year now and i just miss hanging out in BGC...i'd like to hear some of your stories 🥲
+
+I remember my 18th birthday, it was 2012 and me and my girlfriends ate at Johnny Rockets at Forbes Town. I had PHP 1,000 which i spent on burgers, i felt so rich!
+
+During my internship, my bosses also took me out to dinner at Zong, iirc it was in The Fort Strip. Some days after, i had my first alcholic drink at The Distillery.
+
+I also missed Chelsea at Serendra! I liked their pumpkin soup sooo much.
+
+Paik's Coffee at High Street had one of the best iced coffees imo. 
+
+After school, my friends and i would travel all the way from UST to eat at McDonalds at 32nd and 5th!
+
+And many more years earlier, i remember there was an MTV building in an almost-flat BGC landscape. 
+
+I miss Manila! 😭🩷",11,1777971161.0,BGC_Taguig,24,1.0,False
+1t49qf5,https://www.reddit.com/r/askTO/comments/1t49qf5/moving_to_toronto_for_work_in_june_looking_for/,Moving to Toronto for work in June - looking for neighborhood advice (downtown),"Hi all, I’m relocating to Toronto from New Jersey for work and trying to narrow down where to live. Looking at downtown areas and trying to decide between a studio, 1BR, or 2BR with a roommate.
+
+A few things about me: 33M, single, straight, play pickleball and tennis, like walkable neighborhoods with good food and a bit of life on the streets. Not a huge nightlife person but want to be around people, not isolated.
+
+Would love input on:  
+•	Downtown neighborhoods that fit that vibe (Yonge? Harborfront? King West? Liberty Village? Cabbagetown? St. Lawrence? Where do young professionals in this group live)  
+•	Anything I should know about renting here as a newcomer  
+•	Roommate-finding platforms that actually work (is having roommate initially better vs renting a 1B solo as a newcomer)  
+•    Any personal experiences people want to share on what to expect & what helped you settle there
+
+Appreciate any tips - happy to grab a coffee with anyone once I land.",4,1777971139.0,askTO,12,1.0,False
+1t49pft,https://www.reddit.com/r/LisbonPortugalTravel/comments/1t49pft/passport_control_may_6/,Passport Control- May 6,"Arrived 3.5 hours early and went through passport control at 9:00 am Tuesday. Zero line. Took us 55 minutes from arrival to get through TAP bag drop, security, and passport control. That included scarfing a sandwich in the main terminal because of lack of food at the N gates. After Control? The coffee line at the one sad coffee shop took 30 minutes. ",2,1777971043.0,LisbonPortugalTravel,0,1.0,False
+1t49o0h,https://www.reddit.com/r/friendship/comments/1t49o0h/36m_looking_to_make_a_new_friend/,36M Looking to make a new friend,"Hi, I’m a semi-functioning adult trying to make friends outside of work — please clap.
+
+I’m a mechanic who works overnights, so my sleep schedule is mostly vibes and poor decisions. I run on coffee, ibuprofen, anxiety, and ambition.
+
+My life is also run by two young kids and two extremely high-energy dogs (Australian Shepherd mix + Husky mix) named after Star Wars characters. Chaos is constant, snacks are currency.
+
+I miss hiking and still get outside when life cooperates. I cook a lot and experiment with recipes. Baking and I are not on speaking terms—it requires precision I refuse to provide.
+
+I’m a horror fan and a certified nerd with comics, Marvel/Star Wars collectibles, and a rotating “nerd shelf” that exists purely for joy. I also have tattoos that are purely vibes and am always planning the next one.
+
+My comfort show is The Office, my music is early-2000s punk/rock/screamo, and my brain runs on whatever song is currently stuck on repeat.
+
+Looking for good conversation, nerdy interests, sarcasm, and maybe hikes or food experiments. If you want a friend with chaotic playlists, questionable tattoo ideas, and unsolicited dog photos",1,1777970897.0,friendship,1,1.0,False
+1t49nih,https://www.reddit.com/r/insomnia/comments/1t49nih/staying_sleep/,Staying sleep,"Up 42 I have been struggling with insomnia for like over 3 years now , I can’t sleep without meds I take a huge dose of lunesta every night but my tolerance has grown and it only gives me a few hours of sleep , I do all the things to live a healthy life , don’t really drink alcohol , just 1 cup of coffee in the morning  , run my own business and it’s very stressful , work out often go to bed on time , I do read on my phone at night , so I had never taken Benadryl and I started taking that like 6 months ago and of course it has some major side affects mostly it kills my Lobito and first it was working great I was getting like 6 or seven hours of sleep but I already have a tolerance to it and if I don’t take it I just don’t sleep at all , I too tried every natural supplement , melotin , velarian root, l thyini, magnesium , teas , and nothing really works I’m wondering if anyone has any advice .  This all started after a break up I had a panic attack and it basically never went away so it’s like ptsd , I moved on and was in a new relationship and that didn’t change anything .  I have tried every pharmasudical and almost all of them only give me 1 hour of sleep and have terrible side affects .  Has anyone had luck with muscle relaxers , I don’t like benzos and I don’t know what else I can do , some times it’s caused by the stress of my phone constantly , stress of work , raising my daughter alone but I can’t stop doing those things .  I also have developed high blood pressure due to the lack of sleep so i take beta blockers every day, but I feel if I slept well I don’t need them as much .
+One other strange coronation was this insomnia started like 6 months after I got the Covid vax and I have read that it messed with a cardio vascular issues for a lot of people , I also have hyptic jerk , if you know that this is it’s hell , basicly right when your about to sleep naturally my body spaziums and I get a electrical shock that shoots thru my body right when I’m about to fall asleep with no meds . Insomnia has destroyed my life . 
+",1,1777970849.0,insomnia,1,1.0,False
+1t49ngw,https://www.reddit.com/r/SideHustlePaglu/comments/1t49ngw/tired_of_survey_apps_that_screen_you_out_after_10/,"Tired of survey apps that ""screen you out"" after 10 minutes for $0.05?","We’ve all been there. You spend 15 minutes answering questions about your favorite cereal only to get the ""Sorry, you aren't a match"" screen.
+
+I recently started using **Attapoll** , and it’s honestly been the only one that hasn't made me want to throw my phone. Unlike the others, I actually get daily surveys that don’t disappear the second I click them. It’s not ""quit your job"" money, but it’s ""free coffee/lunch every week"" money.
+
+I have some tips and tricks  to get least likely screened out from surveys. 
+
+If interested comment down or dm me I'll share you those.",1,1777970843.0,SideHustlePaglu,0,1.0,False
+1t49nfm,https://www.reddit.com/r/decaf/comments/1t49nfm/thought_i_was_caffeine_free/,thought i was caffeine free...,"I feel like such a fool. A month ago I quit caffeine (was mostly consuming too strong matchas, multiple a day, sometimes tea, sometimes coffee)
+
+I felt anxious and bad so I decided to quit drinking the matchas (and teas and coffee). I knew about chocolate but didn't do the research at the time. 
+
+Sure enough, once i stopped drinking my strong matchas I went through the withdrawl, had the headaches, felt sleepy and hungry and cranky... 
+
+On the second day of my detox, I had gone to a nature shop to buy a caffeine free alternative. I had picked one next to the one I already knew and liked, but had been wanting to try something new and fun! 
+
+Today, after scrolling this feed doing some reading on peoples experiences with chocolate, I read about a person eating acai bowls and how it has guarana and guarana is NOT caffeine free but instead strongly caffeinated (even more so than coffee...). I knew that my supposed caffeine free alternative had guarana in it, so I called my boyfriend to check the label of my drink. **Guarana wasn't even the only caffeinated ingredient in there**, so I have been unknowingly consuming quite a lot of caffeine... **I have been having at least one cup of this drink every day.** 
+
+I wasn't feeling that bad the last weeks, but also not as good as some people say they feel. Yesterday and today I felt anxious again, which is weird because I don't have anything to feel anxious about... And now I'm connecting the dots and realize I was not even caffeine free all this time I thought i was... It is quite funny but I also feel like I failed and now I'll have to go through withdrawl again. 
+
+This time, I'm also cutting out the chocolate, because I have been overindulging in that as well. 
+
+TLDR: didn't read the label and now I'm at day 0 again... 
+
+Wish me luck! ",2,1777970839.0,decaf,0,1.0,False
+1t49mu2,https://www.reddit.com/r/chat/comments/1t49mu2/36m_looking_to_make_a_new_friend/,36M Looking to make a new friend,"Hi, I’m a semi-functioning adult trying to make friends outside of work — please clap.
+
+I’m a mechanic who works overnights, so my sleep schedule is mostly vibes and poor decisions. I run on coffee, ibuprofen, anxiety, and ambition.
+
+My life is also run by two young kids and two extremely high-energy dogs (Australian Shepherd mix + Husky mix) named after Star Wars characters. Chaos is constant, snacks are currency.
+
+I miss hiking and still get outside when life cooperates. I cook a lot and experiment with recipes. Baking and I are not on speaking terms—it requires precision I refuse to provide.
+
+I’m a horror fan and a certified nerd with comics, Marvel/Star Wars collectibles, and a rotating “nerd shelf” that exists purely for joy. I also have tattoos that are purely vibes and am always planning the next one.
+
+My comfort show is The Office, my music is early-2000s punk/rock/screamo, and my brain runs on whatever song is currently stuck on repeat.
+
+Looking for good conversation, nerdy interests, sarcasm, and maybe hikes or food experiments. If you want a friend with chaotic playlists, questionable tattoo ideas, and unsolicited dog photos",1,1777970779.0,chat,0,1.0,False
+1t49mql,https://v.redd.it/u6y2q3yu7azg1,Blk 106 Hougang coffee shop caught fire 😢,,6,1777970770.0,SingaporeRaw,1,0.88,False
+1t49mmw,https://www.reddit.com/r/MakeNewFriendsHere/comments/1t49mmw/36m_looking_to_make_a_new_friend/,36M Looking to make a new friend,"Hi, I’m a semi-functioning adult trying to make friends outside of work — please clap.
+
+I’m a mechanic who works overnights, so my sleep schedule is mostly vibes and poor decisions. I run on coffee, ibuprofen, anxiety, and ambition.
+
+My life is also run by two young kids and two extremely high-energy dogs (Australian Shepherd mix + Husky mix) named after Star Wars characters. Chaos is constant, snacks are currency.
+
+I miss hiking and still get outside when life cooperates. I cook a lot and experiment with recipes. Baking and I are not on speaking terms—it requires precision I refuse to provide.
+
+I’m a horror fan and a certified nerd with comics, Marvel/Star Wars collectibles, and a rotating “nerd shelf” that exists purely for joy. I also have tattoos that are purely vibes and am always planning the next one.
+
+My comfort show is The Office, my music is early-2000s punk/rock/screamo, and my brain runs on whatever song is currently stuck on repeat.
+
+Looking for good conversation, nerdy interests, sarcasm, and maybe hikes or food experiments. If you want a friend with chaotic playlists, questionable tattoo ideas, and unsolicited dog photos",1,1777970760.0,MakeNewFriendsHere,1,1.0,False
+1t49lsc,https://www.reddit.com/r/MeetNewPeopleHere/comments/1t49lsc/36m_looking_to_make_a_new_friend/,36M Looking to make a new friend,"Hi, I’m a semi-functioning adult trying to make friends outside of work — please clap.
+
+I’m a mechanic who works overnights, so my sleep schedule is mostly vibes and poor decisions. I run on coffee, ibuprofen, anxiety, and ambition.
+
+My life is also run by two young kids and two extremely high-energy dogs (Australian Shepherd mix + Husky mix) named after Star Wars characters. Chaos is constant, snacks are currency.
+
+I miss hiking and still get outside when life cooperates. I cook a lot and experiment with recipes. Baking and I are not on speaking terms—it requires precision I refuse to provide.
+
+I’m a horror fan and a certified nerd with comics, Marvel/Star Wars collectibles, and a rotating “nerd shelf” that exists purely for joy. I also have tattoos that are purely vibes and am always planning the next one.
+
+My comfort show is The Office, my music is early-2000s punk/rock/screamo, and my brain runs on whatever song is currently stuck on repeat.
+
+Looking for good conversation, nerdy interests, sarcasm, and maybe hikes or food experiments. If you want a friend with chaotic playlists, questionable tattoo ideas, and unsolicited dog photos",1,1777970672.0,MeetNewPeopleHere,0,1.0,False
+1t49l8r,https://www.reddit.com/gallery/1t49l8r,CoffeeShop Update: New Repo Builder tool and some questions answered,"Follow-up to the [release post](https://www.reddit.com/r/WiiUHacks/comments/1rps4eg/coffeeshop_is_out_a_wiiu_modstore_manage_your/) a few weeks back. Two  
+things to share.
+
+# The crash from launch week is fixed
+
+A bunch of you ran into a softlock right after first launch, and a couple of you reported it semi-bricked your Aroma install. I'm really sorry about that,  
+it should not have shipped. Root cause was a startup race when no repo was configured yet, plus a hang on shutdown. Both are fixed in **v0.1.7** along with a pile of other stability work (atomic installs, resumable downloads, crash dump capture so I can actually debug the next one).
+
+If you bounced off CoffeeShop because of that bug, please give it another try. The version on the Homebrew AppStore is also up to date.
+
+# Repo Builder
+
+GitHub repo and editing JSON by hand, which a lot of you aren't and the video tutorial only got people part of the way there.
+
+So I built one: [**CoffeeShop Repo Builder**](https://tim.kicker.dev/coffeeshop-builder/) (free, no signup).
+
+What it does:
+
+* Click together your repo metadata, games, and mods. No JSON editing anywhere.
+* Drop a mod ZIP and it computes the SHA-256 plus file size automatically.
+* Already have a repo somewhere? Paste the `repo.json` URL and the builder loads it for editing.
+* Validates everything before export so you can't accidentally publish broken JSON.
+* Export a ZIP, drag it into a new GitHub repo via the web UI, done. No git CLI needed.
+
+The whole thing runs in your browser. Your data never touches my server, no account, no tracking on your repo content. The Export tab walks you through how to publish step by step.
+
+# On the ""give us a repo"" requests
+
+A lot of you asked for an official repo or to share repos with mods preloaded. I want to explain why I'm not doing that.
+
+I've been careful from day one to keep the project clearly on the right side of the line. CoffeeShop is a mod *manager*, not a mod *distributor*. Hosting actual mods is a different legal posture, especially since most Wii U mods bundle Nintendo IP in some form (textures, audio, models). To do it responsibly I'd have to vet every single submission for what assets it contains, which is basically impossible solo, and my real name is publicly attached to this project.
+
+What I'd love instead: **if you make a repo with the builder and you're comfortable sharing it, post it in the comments here.** That's the cleanest path. If I were you I'd publish it under a throwaway / pseudonymous GitHub account. That option isn't available to me but it absolutely is to you.
+
+# TL;DR
+
+* The launch-week softlock and semi-brick bug is fixed in v0.1.7. Update.
+* New tool: [tim.kicker.dev/coffeeshop-builder/](https://tim.kicker.dev/coffeeshop-builder/). Browser-only. Click your repo together instead of editing JSON.
+* I can't host an official mod repo myself for legal reasons. If you want to share yours, drop it below.
+
+Thanks for the patience with the bumpy launch.",4,1777970616.0,WiiUHacks,0,0.83,False
+1t49ko0,https://www.reddit.com/r/Tanzanias/comments/1t49ko0/an_app_to_connect_developers/,An app to connect developers,"I moved from Arusha to Mwanza and couldn't find a single developer to grab coffee with. No way to know who's building what, or even who's around.
+
+So I'm building a simple app you set your city, your stack, and other developers near you show up. No job listings, no recruiters. Just find a dev in your city, see what they're building, follow them, maybe meet up.
+
+Think of it as the thing you wish existed before posting ""any developer in Mwanza?"" in a WhatsApp group of 30k people.
+
+Would you use something like this? And what would make you actually open it every week?",3,1777970559.0,Tanzanias,6,1.0,False
+1t49jx6,https://www.reddit.com/r/tanzania/comments/1t49jx6/an_app_to_connect_developers/,An app to connect developers,"I moved from Arusha to Mwanza and couldn't find a single developer to grab coffee with. No way to know who's building what, or even who's around.
+
+So I'm building a simple app you set your city, your stack, and other developers near you show up. No job listings, no recruiters. Just find a dev in your city, see what they're building, follow them, maybe meet up.
+
+Think of it as the thing you wish existed before posting ""any developer in Mwanza?"" in a WhatsApp group of 30k people.
+
+Would you use something like this? And what would make you actually open it every week?",2,1777970480.0,tanzania,5,1.0,False
+1t49j2g,https://www.reddit.com/r/PinoyUnsentLetters/comments/1t49j2g/email_not_sent/,Email not sent,"We've got nowhere else to be
+
+And it's getting kind of cold
+
+I'm warmest when you're close to me
+
+And I would like to take you home
+
+If loneliness comes crashing in, you can hold me, it's okay
+
+If she makes you feel so empty, you can hurt me, it's okay
+
+And if maybe she decides to stay
+
+We can dance to songs that she will play
+
+All these walls heard me before
+
+Wrap my lips around your name
+
+Leave this memory on my floor
+
+Coffee cups with lipstick stains
+
+If loneliness comes crashing in, you can hold me, it's okay
+
+If she makes you feel so empty, you can hurt me, it's okay
+
+And if maybe she decides to stay
+
+We can dance to songs that she will play
+
+And if maybe you decide to stay
+
+I can show you things that I can't say
+
+ela
+
+https://open.spotify.com/track/5X4evdb1BUzjrcwVjAkbZF?si=YPNyw5ixT5mW3j00V5DRlA",3,1777970396.0,PinoyUnsentLetters,1,1.0,False
+1t49iwf,https://www.reddit.com/r/Cloisville/comments/1t49iwf/birds_on_a_wire_ch_3/,Birds on a Wire - ch 3,"Lois looked at her watch impatiently. Hamilton was late. It was nothing new, but Richard Scardino chose this moment to worry about her and ask about her well-being and generally stand in her way and between her legs. She smiled with effort.
+
+""Rick...""
+
+""I don't understand the whole thing. What do you need Hamilton to check the compound for?""
+
+""The water made Clark sick. I need to find out what caused it, don't you think?""
+
+""Why are you so worried about him? He hasn't spoken to you in days and has been walking around with a sour face for weeks before. He's leaving Metropolis. That's a good thing, why are you trying to stop him?""
+
+""In what universe is it a good thing that Clark is leaving Metropolis?""
+
+""Wasn't that the whole idea behind Bronstein's story?"" Lois looked at him with narrowed eyes.
+
+""Clark isn't leaving because it will advance his career. He's leaving because he's mad at me.""
+
+""Okay, and...?"" She punched him. He smiled. ""Isn't that what you wanted? To get away from him?"" Lois looked at him, pieces of the puzzle slowly coming together in her mind.
+
+""I've been working with Clark for three years now, I've never made him so angry that he won't talk to me. The only time he considered leaving Metropolis was because he had trouble getting used to the big city. Something happened, something that made him angry and until I find out what it is I can’t make him stay.""
+
+""But...""
+
+""I'm not going to let him leave.""
+
+""I thought that was what you wanted."" The puzzle came together almost perfectly, she just had to check one thing, just to be sure.
+
+""Here's Hamilton."" Scardino was still standing in her way. ""Are you trying to stop me from doing my job, Agent Scardino?""
+
+""God forbids!"" Scardino moved aside with a smile. Lois passed him on her way to Hamilton.
+
+""Professor Hamilton!"" She waved at the distracted scientist.
+
+""I'll come in the evening."" Scardino said from behind her.
+
+""Busy.""
+
+""Lois!"" But Lois was no longer listening to him.
+
+ 
+
+ 
+
+When Clark returned from his interviews with the SCU in the afternoon he found Lois standing pensively by the coffee stand. She clutched her coffee cup, absentmindedly chewing on the red plastic stirrer.
+
+""Lois?""
+
+""Hmmm?""
+
+""What did Hamilton say?"" She raised her head.
+
+""Huh?"" and turned to him.
+
+""What did Hamilton say? You met him today, didn't you?"" She tossed the mixer in the trash and strode to her desk.
+
+""Hamilton, yes, exactly."" She put the glass on the table. Clark smiled, she turned to him again. ""He didn't say anything. Too early. But he took a sample from everything possible including the walls and he wants to take water samples from every cell in the complex. I got bored so I came back here, I have more stories I'm working on. Why?""
+
+""Is everything OK?""
+
+""No, not really but I'm working on it."" He looked at her not understanding. ""What did you find out?""
+
+""Well, the cops think the compound doesn't belong to the gang that caught us. They think they wanted to join Intergang and the guests from the ball were their ticket.""
+
+""And what? They chose the compound from the ‘good hiding place for hostages’ catalogue?""
+
+""The cops are still working on it, but these guys were definitely organized. It probably would have taken the SCU a lot longer to find us if they hadn't…"" He looked at her face and trailed off.
+
+""If they're not what?""
+
+""They put surveillance on the mayor.""
+
+""Nonsense. That's not what you meant to say! And there was no surveillance on the mayor!"" Clark shifted uncomfortably under her gaze.
+
+""Lois...""
+
+""It's because of Richard, isn't it?"" Clark didn't answer. ""Tell me or I'll go over to Lupo and squeeze it out of her."" Clark looked away for a moment and then back at his notebook. ""Clark?""
+
+""They attached a tracking device to his phone.""
+
+""It's illegal! And he's an ATF agent why would they do that?""
+
+""The SCU doesn't trust him. Lupo told me that off the record.""
+
+""You should have told me right away!""
+
+Clark looked around, then took her by the elbow and led her into one of the small conference rooms, locking the door behind them. He looked down at her; her eyes were full of rage.
+
+""He's your boyfriend and we don't really talk...""
+
+""I thought after yesterday we agreed on a ceasefire.""
+
+""...And I didn't think you'd believe me."" She bit her bottom lip and looked down. ""Scardino is the most decorated agent in the ATF but he's also the most reprimanded agent. His high success rate is the only reason they haven't fired him from the agency yet. Lupo heard from him what happened at the ball and his supervisor was there with a sour face throughout the interview. They didn't like the fact that he's the only one injured there, they don't trust him.""
+
+""What about you? Do you trust him?"" She looked at him.
+
+""I don't think he's corrupted. I think he takes his job very seriously and is willing to take big risks to put the bad guys in jail. But I don't like him, and I don't trust him with you.""
+
+""I can defend myself.""
+
+""I know that.""
+
+""Probably not if you're hiding things from me!"" Clark sighed and ran a hand through his hair.
+
+""That's exactly why I didn't tell you. You immediately jump to the conclusion that I'm trying to protect you or that I'm jealous. When it started to get serious between the two of you, I wanted to know everything I could about him...""
+
+""You don't trust my judgment?""
+
+""I… Lois, for God's sake! Of course I trust you!""
+
+""It doesn't look like it from here."" She looked at her fingers. ""You're my best friend. Do you really think I'd be mad at you if you were honest with me about Richard?"" She looked at him. Clark raised an eyebrow in question.
+
+""Richard didn't hesitate to express his displeasure with me and I didn't feel that comments from me would be welcome and if he makes you happy who am I to interfere?"" He looked at her for a moment.
+
+""You said you wanted to know everything there was to know about him, what did you find out?""
+
+""My friend at ATF gave me a copy of his file.""
+
+""Where is it?""
+
+""I shreded it. It's a federal offense to do what he did.""
+
+""Okay, so I want this friend's name, and I want to see a copy of Richard's file.""
+
+""I'll have him contact you.""
+
+""Ok.""
+
+ 
+
+ 
+
+""I have to admit that was genius, Lois. I never would have thought of that."" She smiled at him proudly.
+
+""And now I can publish the story with a calm heart.""
+
+""Lois, Clark!"" Clark straightened up as Jimmy approached them, but his hand stayed on Lois' shoulder and she smiled.
+
+""Jimmy, how are you feeling?""
+
+""You mean after Hamilton felt and examined every tissue in my body? Great!"" Clark smiled. ""Can you explain that to me again? Every time Hamilton starts to explain my brain goes into neutral.""
+
+""It's pretty simple, to be honest."" Clark said. ""Kryptonite also affects humans with long enough exposure, so there is no reason why it should not affect other life forms as well...""
+
+""Huh?"" Lois giggled.
+
+""The compound was built to be self-contained, Jimmy."" Lois said, ""Its water tank had kryptonite in it. The kryptonite mutated the usual, normal bacteria in the water, and they became dangerous to humans and Superman.""
+
+""So, they became super bacteria?"" Lois smiled.
+
+""Something like that.""
+
+""There's never a dull moment in this town. I don't see how you're even thinking of leaving, C.K."" Clark put his hands in his pockets and Lois' smile disappeared.
+
+""Clark isn't going anywhere, Olsen."" Lois said firmly. Clark bowed his head with a smile. Jimmy looked between the two of them.
+
+""Whatever you say.""
+
+""Olsen!!!""
+
+""Coming soon, Chief.""
+
+""Get you some coffee, Lois?""
+
+""Yes.""
+
+He returned after a few minutes and placed the cup in her hand and then leaned forward on her desk reading what she had written on the computer. Lois sipped her coffee and smiled to herself. It was four days after the ball before Clark touched her in any way. In the past he did it all the time and she took it for granted and only when he did it again did she realize how much she missed it. He put his hand on her shoulder or put the coffee mug in her hand instead of on the table or put his hand on her lower back just when she needed some support. For Lois it was a sign that Clark had forgiven her. Clark still hadn't changed his plans to leave Metropolis, but Lois allowed herself to hope.
+
+He started correcting her errors and they both got lost in the article and didn't notice Richard Scardino watching them from the elevators. As Clark's hand rested on Lois' shoulder as he pointed out another error, Scardino gritted his teeth in fury. Lois scolded Clark and then laughed at his response. Scardino couldn't stand it anymore; he advanced towards them.
+
+""Lois?"" They both turned to him.
+
+Lois's smile faded as she recognized him. Clark smiled politely.
+
+""Agent Scardino."" He shook his head and turned to his desk.
+
+""Rick, what are you doing here?""
+
+""You've been avoiding me for a week. I wanted to make sure you were okay.""
+
+""I'm a bit busy...""
+
+""You've been busy all week since the ball. Is everything alright?"" Lois stood up.
+
+""I'm sorry but I really can't talk right now."" She considered for a moment. ""Let's meet for a cup of coffee after work, okay? At that new coffee shop that you liked.""
+
+""I can't take off whenever I feel like it, Lois. I'm a busy man."" Fury flashed for a moment in her eyes.
+
+""I know that.""
+
+""Let's talk now.""
+
+""I can’t.""
+
+""Come on, Lois, it's just a story.""
+
+""My work is just as important to me as your work is to you. If you want to talk to me, I'll be at the cafe after six thirty.""
+
+""Why does it always have to be on your terms?""
+
+""Lois! I'm still waiting for your story about the truckers' strike!""
+
+""Five minutes, Chief!"" Lois called back.
+
+""Caesar’s Ghost, Lane! The edition closes in fifteen minutes; I need it now! News waits for no one."" Lois looked at Scardino and raised an eyebrow. ""And don't call me Chief!""
+
+""So be it. I'll be at the cafe at half past six, Lois.""
+
+""Great. I have to get back to work.""",1,1777970378.0,Cloisville,0,1.0,False
+1t49is9,https://www.reddit.com/r/Namibia/comments/1t49is9/swakopmund_is_the_obvious_midtrip_reset_on_a/,Swakopmund is the obvious mid-trip reset on a Namibia self-drive. Here's how to make the most of a day or two there.,"Almost every Namibia self-drive itinerary passes through Swakopmund at some point, and for good reason. After days of gravel roads, remote campsites, and big distances, the Atlantic coast hits differently. Cool air, good coffee, a proper bed if you want one, and a town that somehow feels like coastal Germany dropped into the Namib Desert.
+
+Most people spend one or two nights. Here's how to use that time well.
+
+**Why it works as a mid-trip stop**
+
+The practical value of Swakopmund is often undersold. It's a genuine resupply point: supermarkets, pharmacies, a hardware store if something on the vehicle needs attention, and reliable workshop access if something more serious has come up. If you're carrying a rooftop tent and camping kit, a night in a guesthouse or lodge in Swakopmund gives you a chance to wash clothes, charge everything properly, and eat a meal you didn't cook yourself. Don't underestimate how much that resets your energy for the second half of a trip.
+
+**What's worth doing**
+
+The town itself is compact and walkable. The waterfront area along The Mole is the obvious starting point, particularly in the evening when the light on the water is good and the restaurants are busy. Jetty 1905 is a reliable dinner spot if you want fresh seafood on the water without much fuss.
+
+For activities, the options split into two categories: the ones that use the desert and the ones that use the ocean. Quad biking and sandboarding on the dunes behind town are genuinely fun and accessible to most fitness levels. Living Desert Tours offers a different angle entirely, a guided half-day walk through the Namib looking for the smaller desert-adapted life that most visitors walk past without noticing. It's one of the better guided experiences in Namibia and consistently well-reviewed.
+
+For ocean-based activities, seal kayaking at Walvis Bay is a 45-minute drive south and worth the detour. The pelicans and Cape fur seals come close enough to touch and the lagoon setting is unlike anything else on the trip.
+
+**What's overhyped**
+
+The adventure activity market in Swakopmund is competitive and some operators push hard on skydiving and more extreme options. They're legitimate and some people love them, but they're also the most expensive activities in town and the ones most likely to get cancelled or rescheduled due to weather. If you're on a tight itinerary, build those around them rather than the other way around.
+
+The town's restaurant scene is good but not exceptional outside a few reliable spots. Don't arrive expecting Cape Town or Windhoek levels of variety.
+
+**Walvis Bay vs Swakopmund**
+
+Most self-drivers base themselves in Swakopmund rather than Walvis Bay 30km south, but Walvis Bay is worth at least a half-day visit. The lagoon is a Ramsar-listed wetland and home to enormous flamingo flocks, particularly between November and April. The harbour area has a handful of good seafood spots and a completely different, more working-town atmosphere than Swakopmund's tourist-facing centre.
+
+**Timing on the itinerary**
+
+Swakopmund fits naturally between Sossusvlei and Damaraland if you're doing a classic circular route from Windhoek, or as an end point before heading north toward Etosha via the salt road. Either way, two nights is the sweet spot. One night feels rushed. Three starts to slow the trip down unless you're deliberately building in recovery time.
+
+Happy to answer questions if anyone is planning the coast section of a Namibia trip.",7,1777970365.0,Namibia,2,1.0,False
+1t49hal,https://youtu.be/mL_qZRxdo4Q,Sorry Doug and the other teams… BUT Team France is on top!,Trailer for the Coffee Cup race section made by TEAM FR. The race will be playable this summer! All links are in the video description.,3,1777970216.0,SatisfactoryGame,0,0.71,False
+1t49gca,https://i.redd.it/5j8cfbhz5azg1.jpeg,"Rescued dying from a garden centre 4 years ago, my money tree us still going strong!","A garden centre was practically giving it away because it has become unbound and was only and 1ft high. Since then it's had a diet of whatever is left in my coffee cup when it goes cold and the occasional deep watering and it's still going strong.
+
+Like all of us, it just needed some care and attention.",11,1777970114.0,houseplants,1,1.0,False
+1t49f7a,https://i.redd.it/j0qjmv8b5azg1.png,I designed a concept Swansea home kit for next season,"Hi everyone! I'm designing concept kits for every Championship team; here's the one I made for Swansea. This design features some striped detailing on the cuffs and collar, and a pattern woven into the fabric. I wanted to go with a black sponsor, but opted for realism instead.",5,1777969993.0,swanseacity,1,0.86,False
+1t49f2h,https://www.reddit.com/r/whatsthatbook/comments/1t49f2h/ya_dystopian_scifi_with_blue_cover_of_city/,YA Dystopian Sci-fi with blue cover of city,"I read this book when I was in middle school so around 2016-2018ish. It was the same vibe as maze runner, the giver, divergent, hunger games, five kingdoms. The cover was a blue city maybe with a small silhouette of someone looking out. I got the book at a library it was fiction and hardcover. All I remember about the plot is something to do with a coffee shop at the beginning of the book and something about houses. The main character I think was a girl with a male love interest. Maybe something about memory loss or confusion. Like something had changed and was wrong like didn't know why the city was now the way it was or something. It was in English and it was age appropriate for when I read it. I know this is so vague but any possible idea helps. Thank you to anyone who takes their time and tries to help me!",1,1777969980.0,whatsthatbook,0,1.0,False
+1t49e7f,https://www.reddit.com/r/BosniaTravel/comments/1t49e7f/beautiful_bosnia_where_have_you_been_all_my_life/,Beautiful Bosnia - where have you been all my life?,"(x-post from r/askbosnia) 
+
+Just got back couple nights ago from one of the best trips I've ever taken – Bosnia crept up on me completely. Here's what we did and some tips.
+
+Days 1 & 2 Sarajevo
+
+The first two nights we spent in an Airbnb in Sarajevo old town. We fell in love with burek immediately - we ate it on average twice a day, no regrets whatsoever. Our favourite spot was Buregdžinica Sač. We spent our time wandering the old town market, enjoying the local coffee at Ministry of Ćejf and tea at Čajdžinica Džirlo. One of our favourite things though was watching the sunset from the Yellow Fortress during golden hour - we did this on both evenings and again on our last evening. We also did the Trebević cable cars which gave us some stunning views. One note: the White Fortress - we were told it opens on 8 May, so worth timing your visit if you can.
+
+Day 3 - Sarajevo to Mostar
+
+We hired a car and drove down to Mostar, stopping at a roadside lamb restaurant in Jablanica (Kovačević) on the way. Phenomenal. The drive from Sarajevo to Mostar on the M17 was one of the most amazing drives I have ever done - magnificent views the whole way, and we stopped frequently to take it all in. In Mostar we stayed at Villa Acapulco, close to the old town and with parking, which made life easy. For one of the best views of the Stari Most at sunset, head to Urban Taste of Orient, food is good but not spectacular, but you're really there for the view.
+
+Day 4 - Blagaj, Počitelj & Kravice
+
+The usual tourist route, perhaps, but a full and brilliant day nevertheless.
+
+Day 5 - Dubrovnik
+
+We drove over for an overnight stay. Nice contrast to Bosnia, but honestly? A bit overrated. Glad we went but won't be going back.
+
+Day 6 - Back to Sarajevo
+
+Drove back through Trebinje (stopped here and drove up to the viewpoint too), Stolac and Konjic - a beautiful route in itself. Ended the trip back in Sarajevo with one last sunset from the Yellow Fortress. Perfect way to close it out.
+
+**Tips:**
+
+Burek - Buregdžinica Sač, twice a day, thank me later.
+
+Coffee & tea - Ministry of Ćejf for coffee, Čajdžinica Džirlo for tea. Both brilliant.
+
+Take cash - Most places take euros or BAM but don't rely on it. I think the best exchange in the old town in Sarajevo is Deltal. Also, I think the market in Mostar is a little bit pricier than the market in Sarajevo.
+
+Car rental - We used Zelecar, found their number on Reddit (+387 61 617 181). Cheap, reliable, no deposit required. Strongly recommend.
+
+Use Waze, not Google Maps - Google Maps will send you down laughably tight roads. We nearly got stuck trying to reach Vidikovac (a restaurant with arguably one of the best views in Sarajevo) until some locals spotted us struggling and guided us via a different route. Which brings me to the biggest tip of all...
+
+The people - Bosnians are incredibly lovely, hospitable people. It made our stay extra special.
+
+Bosnia, I hope to be back again soon! If anyone has suggestions for what I should add to the list next time, I'm all ears.",6,1777969908.0,BosniaTravel,1,1.0,False
+1t49e4b,https://www.reddit.com/r/MeetNewPeopleHere/comments/1t49e4b/20f_for_research_purposes_tell_me_ur_go_to_milk/,"20F, for research purposes tell me ur go to milk / milk alternative","my favourite milk of all time is skim cows, currently on an unsweetened almond fix cuz im on a calorie deficit but also it was my go to for matcha so can’t be that bad in coffee right? Its pretty good imo.
+
+Anyway, wondering what yall think / recommend. Someone recommended pea milk…it was repulsive. So my most hated are pea, soy and oat. There are a lot of milk alternatives out there!",2,1777969900.0,MeetNewPeopleHere,4,1.0,False
+1t49dan,https://i.redd.it/21m0nao35azg1.jpeg,Help needed with black coffee,"I just switched from Nescafe to Blue Tokai because I heard instant coffee isn't great, but I’m a total beginner and honestly struggling. Every time I take a sip of this black coffee, I literally get goosebumps, and I can't tell if that’s normal or if I’m just making it way too strong. I don't own a Moka pot, French press, or any fancy gear, so I’ve just been using a regular kitchen strainer to make it. If anyone has tips on how to brew this properly with zero equipment and what the actual coffee-to-water ratio should be so it doesn't taste crazy, I’d really appreciate the help.",0,1777969819.0,IndiaCoffee,9,0.5,False
+1t49da3,https://www.reddit.com/r/Dentalimplant/comments/1t49da3/looking_for_advice_on_how_i_can_get/,"Looking for advice on how I can get implants…scared, ashamed, in pain.","To begin; I am aware I owe no one an explanation for who I am, where I am at this point in my life, or a reason why I feel this may be in the least bit informative…but I am so ashamed of the state of my mouth, I feel I have to at least attempt to impart some understanding and answer the (even from my perspective…most glaring question) how/did I allow myself to get to this extent. I am in a dental emergency and am positive I am destined for dentures/implants. I am looking for info or resources, stories…fuck I’m looking for hope! lol
+
+I’m in my mid 30’s, I’ve had dental issues my whole life and also been an avid sugar fiend…the soda…it calls. Cavities and crowns were the norm, frequent, manageable but after my youngest child was born, my body changed…my dental health declined at warp speed. I needed two extractions and a crown within a year of having her and my hygienist remarked my teeth were “dirtier” than usual. I hadn’t changed my oral hygiene habits and I started watching my mouth fall apart. This started almost 4 years ago. 
+
+Amidst the chaos of Irish twins, new-found motherhood a full time job and zero daycare or help - I realized my marriage would have to end. My husband was an alcoholic, physically & emotionally abusive - emboldened to never change by a family with a name and means. My kids were 1 & 2, I worked a mediocre paying at home job to help keep the lights on and simultaneously ensure my kids would never set foot in a daycare. 
+
+I ended our marriage a few weeks before an annual   
+Halloween trip - scared about what he would do that year. We had been together for 6 years and post covid he began to escalate - particularly on these trips with the particular group we traveled with. The year before, he had locked me out from my camper in a drunken rage, assaulted me, and loudly accused me of infidelity because our youngest child looks more like me than our first. My eldest is his identical twin, he couldn’t reconcile with genetics and it was just an absurd, mean thing to constantly accuse me of. If it needs to be said to be emphatically clear…he is the father of both my children. No fucking idea when I would’ve had the time to cheat - or desire, but you get the picture. 
+
+I begged him to pay for a paternity test to end that particular torment…he never would. I think, deep down he hates me and never actually wanted a family. I genuinely think he was subconsciously trying to pinpoint something on me…to have a pass for his cruelty toward me.
+
+Anyway, I took my kids to my dad’s to muddle through this divorce. He kept all our vehicle and allow me access to any form of our co-owned transportation. Would not simply verbally agree to not drink, was introducing strange women to our kids within two weeks of my moving out, harassed me, provided 0 support, even on months he may have only actually been with our children 2-4 days.
+
+My dad, is a good man, exponentially more kind than my ex and I love him very much. While I love my dad and consider us close, my dad, is also a severe alcoholic. Nearing the end-stages of cirrhosis, he’s not completely immobile, but he’s close. He wasn’t always this way - but the last few years have been excruciating watching him dissolve his humanity in handles of tequila. 
+
+Generally, overall, my situation markedly improved; the truth though? I took my kids from one sunrise situation to another. Not as dire, but required my stay with my dad be only as long as it took me to get a few grand together for a beater cat and a shitty apartment deposit. He’s very mean, constantly calls me a doormat and would undermine my parenting in real time encouraging my kids to not listen. This took me 6 months.
+
+ Even though moths would fly out of my wallet anytime I’d dare to take a gander, boI was steadfast in my resolve to not allow my kids to be alone with an alcoholic. Do not confuse my concern with bitterness. I would never deprive my ex husband of his children and vice versa. I had to hire an attorney, the drinking wasn’t stopping.  
+The money I guessed I would receive from our divorce didn’t even cover my attorneys fees. Also, remember I said earlier their family was well connected? I had to pay to change the judge twice because of collusion ($4k+ just for this alone). This was ultimately a practice in futility as the 3rd judge clearly knows the too. Know that all is said and I still owe my attorney $7k.
+
+I provided over 900 pieces of supporting evidence to show his drinking was beyond out of control and videos that proved he was violent and physically abusive. Anything I could to ensure his sobriety would be a non negotiable. 
+
+At the end of the day, i accomplished what i set out to do, keep my kids safe. My ex was put on strict daily monitoring and has actually stayed sober (most of the time) since our divorce ended. The frustrating part? He submitted 1. ONE. Piece of evidence suggesting i too was an alcoholic. The “evidence” was a 20 second video from Christmas time  where i am heavily pregnant and pouring shots. Thats right, POURING shots, at Christmas, for our families who were in town. I didn’t drink them and I never would have…that bit of speculation and single video apparently influence the judge to order the same monitoring on me. The monitoring is expensive and I just couldn’t believe this was happening. How deeply flawed our court systems are…another blow to my totally depleted bank account. I got myself on Medicare and got myself food stamps to make ends meet.
+
+As all this and more is going on, my mouth is getting worse, my fillings fall out,  crowns break but… I have nothing. No time (with the new slightly better paying main job and second job cleaning medical offices l at night). Deeply in debt, i make too much to get food stamps and too little to even consider a drive thru coffee habit. God bless America. 
+
+I have lots of health issues, lots of autoimmune problems. Arthritis, hashimotos, Sjogrens. My eyes and mouth are constantly dry…leading to the rapid dental decline and significant level of pain. I have let these issues get to point of emergent and have avoided speaking on the matter in general and with all the therapy I’ve sought out, I realize how much aversion can snowball.
+
+All that bullshit being said, this is the situation I am in. I do not want handouts or judgement or even pity…I m looking for sources on how to get myself help and hopefully implants with shit for credit, no co-applicant to help me finance and a strategy on how to approach my dental dilemma,insight on implants failure rate in Sjögrens, recommendations on full moth restoration  and force me to help myself.The pain is all-consuming and becoming intolerable and visually fucking embarrassing. I appreciate your feedback, stories and time. If you read all of that, god bless you 🤣",0,1777969817.0,Dentalimplant,4,0.5,False
+1t49d0h,https://i.redd.it/rscfsd515azg1.jpeg,Friend sent me a picture of their figurines at work,,7,1777969793.0,addressme,1,0.9,False
+1t49cwc,https://www.reddit.com/gallery/1t49cwc,Ube Viet Coffee,,5,1777969781.0,PhilippineUbe,2,0.73,False
+1t49cuj,https://www.reddit.com/r/Disorganized_Attach/comments/1t49cuj/would_you_want_proof_of_accountability_after/,Would you want proof of accountability after cutting someone out your life?,"Not too long ago I started to connect with this girl that I really started to fall for. She is (FA) and incredibly intelligent. Things were great until I had a bad relapse of anxiety which I projected onto her and triggered her avoidant side which resulted in a ""I need to step back"" and that the ""honeymoon phase is over"". 
+
+I let some days pass, we had a nice unrelated conversation afters and she proceeded to assure me that I shouldn't be afraid to reach out. One evening she had a crashout and told me the things that I did wrong, and how it pissed her off. I took full ownership and accountability for them, and validated her feelings after which she thanked me for. Feeling that the crashout was more about other factors in her life as well, I later asked her if she'd like to meet up for coffee, something casual and a means of letting her enjoy a distraction (which she mentioned prior she'd be keen for) but was met with a ""my persistence and instance"" is making her feel uncomfortable. This hit me hard as I was not wanting to overwhelm her, and that it came out of nowhere (for me). I agreed to step back further. Then a couple days later I wished her well for something she had coming up that I knew was important to her; I did not receive a reply and got blocked across the board.
+
+After journaling, speaking with others and a lot of reflection, I could tell that my mistake was not fully withdrawing to allow her nervous system to regulate before reaching out and that I was only contributing to her feeling pressured. It hit me like a truck realizing this, and I felt disappointed in myself for not knowing sooner. 
+
+I deeply care about her, respect the boundary that she placed and in noway will I ever hate her for it. Her feelings are valid and I have done a lot of reading into the internal dynamics of FA. I've also been addressing my own attachment style and the lingering issues I've had in the past with Anxious Attachment. 
+
+It's been about a month since I was blocked, and I have done a lot of inner work since. I want to reach out one last time but feel conflicted as I do not want her to spiral further nor ruin any chance of her reaching out to me when she feels ready to (if that ever happens, I do not have the expectation for it). 
+
+What I want to text her is this;
+
+I don't expect a reply to this nor am seeking validation for what I'm about to say. 
+
+I'm sorry for making you feel uneasy, I should have been more respectful to the space you needed. I will never hate you for it and I fully understand your decision. 
+
+Your feelings are valid, you have every right to move on. I want to thank you for the time we had together, and this opportunity for me to reflect, heal and better myself for the future. I truly wish you the best. 
+
+Would the accountability and validation for her feelings be thoughtful for a FA? In noway am I trying to ease the guilt I feel nor make it seem like a shallow/manipulative way to reconnect. Or should I rather just accept the way things have been left off and allow her the space to reach out if she ever wanted to in the future?
+
+EDIT: If this is the wrong place for this post I will remove it.",0,1777969775.0,Disorganized_Attach,3,0.5,False
+1t49cmp,https://www.reddit.com/r/AskDocs/comments/1t49cmp/is_it_necessary_to_take_proton_pump_inhibitor_for/,Is it necessary to take proton pump inhibitor for 8 weeks to heal inflammation that may or may not be there?,"33 y/o female, 70 kg 165 cm, no medications, don’t drink alcohol, exercise regularly.
+
+In October 2025 I had oral thrush randomly. I had travelled to Italy and chances are overdid it on the pasta, sugar and coffee - combined with stress of being in a crowded place and lack of sleep it manifested as oral thrush. I saw a dentist because it was a weekend and he gave me nystatin and it cleared up. I did stool samples, blood test, and gastroscope to check for h.pylori and candida. It turns out I just had inflammation in my stomach and anemia. 
+
+I started iron supplements and today I don’t have anemia. My doctor prescribed me “Mesopral” before the gastroscope and told me if the result was that I had reflux i could start taking it. It’s a proton pump inhibitor. I do experience belching after eating and have for years, but usually don’t get indigestion or heart burn.
+
+My gastroscope showed inflammation so the doctor told me to take it anyways. I wasn’t consistent with it and eventually stopped after about a week) 
+
+I went back 6 months later for my follow up (I felt fine and was procrastinating) The doctor said I must take mesopral for 4-8 weeks to heal the inflammation in my stomach. Minimum 4, best is 8. So I took it for 4 weeks in April because they were making me feel bloated and when I told him on my follow up yesterday he said that it’s not enough time and I need to take it again for 8 weeks straight. I have changed my diet by cutting out highly processed food and excess sugar (not that I ate a lot of it in the first place) and I continue to exercise regularly with running, walking, and light weight strength and conditioning. 
+
+TLDR: do I really need to take a proton pump inhibitor for 8 weeks to heal inflammation from a gastroscope in October? Or is 4 weeks good enough? Changed my diet and feel better - could there still be inflammation? ",0,1777969753.0,AskDocs,1,0.5,False
+1t49a49,https://www.reddit.com/r/IntrovertsChat/comments/1t49a49/32f/,32F,"32F
+
+HI there! Im 32 and jus looking for convos. Nothing too intense—jus chill chats at our own pace.
+
+My social battery comes with a warning label, so if you also disappear and come back later like nothing happened, we’ll get along just fine.
+
+English isnt my strongest language 💀 and my French is still a work in progress, so I appreciate a bit of patience. I’d honestly rather solve math problems than deal with grammar. Married men or i a r? Ill kindly pretend I didnt see your message. My respect settings jus have a strong filter lol
+
+If you’re into engineering, feel free to message me—I might learn something. I barely survived it myself. Include your age in your msg my reply button only works when theres an age. Currently powered by coffee and one remaining brain cell😂",8,1777969494.0,IntrovertsChat,17,0.75,False
+1t499dc,https://www.reddit.com/r/actuallesbians/comments/1t499dc/the_world_has_20_people_in_it/,The world has 20 people in it,"I'm a somewhat newly out trans lesbian and about a year ago I get a follow request on Instagram from a girl I don't recognize. I look a little closer and turns out? I went to high school with her but neither of us were aware we were women, we chat a bit about it and I learn she's back in our home town after moving away a while like I did and we laugh at the coincidence and I move on. A bit later since I graduated from school and hadn't found a job I move back in with my parents to my home town, I switch my Hinge location to the town about a month ahead of time to maybe have some conversation start up a bit before or after I move and I could start seeing people early on. Literally the day after I move back a person I liked likes me back and turns out OOPS they went to high school with me too and I just didn't recognize them but turns out they're roommates with the first girl and they were gonna add me on Instagram too but didn't know if I'd recognize them (fair play on that one I didn't). We go on a few dates, they think we're better off as friends, fair play, nothing lost and now I have another new old friend out of it.
+
+A few months pass I match with another person on hinge and we're hitting it off pretty well and plan a coffee date, I ask where in the city they are so we can find a cute shop if we know any. Turns out they live right next to me, not quite neighbors but very close considering the size of the city. Three or so weeks and two great dates pass and they wanna venmo me to pay me back for a ticket to the zoo so they do, and being a snoop I scroll through their transaction history a little bit and I see my best friend's name and account in a transaction that happened right after my best friend's birthday two years ago that I wasn't able to attend because of school and I get totally stunlocked that the world shrinking happened twice with this same person and four times overall in the past year.
+
+It is extremely silly how small the world can feel sometimes",2,1777969416.0,actuallesbians,1,0.63,False
+1t498kk,https://www.reddit.com/r/Advice/comments/1t498kk/how_do_i_confess_my_feelings/,How do I confess my feelings?,"Hey, so I'm 21M and I have no experience with dating at all. 1.5 months ago I developed a crush on my university classmate. I decided to try to act immediately, so we've been on 3 dates so far. During the first one we walked for 40 minutes, then sat on a bench for another 40 minutes, and talked during both of these activities. On the second one we had a coffee for an hour and then another walk for 1.5 hours. On the 3rd one we had some pastries for 40 minutes and then again walked for over 2 hours. So I have learned so much about her and I am really into her, I mean we were constantly talking during those dates. We have also studied together twice for maybe a total of 4 hours and we have both helped each other with some things. Next week we are going to the movies and I want our relationship to start moving into a romantic territory instead of just friendship, so how do I communicate that with her? We are both introverts and there hasn't been any physical contact between us yet, I mean even the dates weren't explicitly called ""dates"". So I feel like I have do something now to not end up in the friendzone. I mean I said some things like I how really like spending time with her, I complemented her nails when she showed them to me on 2 separate occasions and even said that she herself is pretty (when I complement her she usually thanks me smiling in a quieter voice). But I don't think it's enough? So I started thinking it might be a good time to tell her how I feel after the movies but I don't really know how to do this...",6,1777969328.0,Advice,12,1.0,False
+1t498cr,https://v.redd.it/r82afytk3azg1,When brewing coffee feels like therapy😌,,10,1777969307.0,Coconaad,3,1.0,False
+1t498as,https://i.redd.it/61xlf79k3azg1.jpeg,Vegetarian noodle and coffee,"Breakfast with coffee and Vegetarian Noodle .....
+
+Di Linh town - Viet Nam ...",9,1777969302.0,Vietnam_Tourism,0,1.0,False
+1t497vy,https://www.reddit.com/r/PureLuxy/comments/1t497vy/the_cumulus_coffee_machine_beautiful_design_but/,"The Cumulus coffee machine: beautiful design, but does it taste as good as it looks?","My honest verdict after 4 months of daily use.  
+  
+First impression: stunning.  
+It looks like a piece of furniture, not an appliance.  
+  
+The taste test:  
+→ Single origin Ethiopian light roast: 8.5/10 extraction  
+→ Dark roast blend: 8/10 — handles both well  
+→ Consistency shot-to-shot: excellent  
+  
+The build quality:  
+→ No plastic parts that touch water — all stainless  
+→ Portafilter weight: 400g — feels premium  
+→ Grinder: conical burr, 40mm — better than most in class  
+  
+The frustrations:  
+→ No pre-infusion (misses the 10-second pre-wet that improves extraction)  
+→ Steam pressure is inconsistent at boiler cold starts  
+→ Price premium vs Gaggia is hard to justify on taste alone  
+  
+Worth it for design lovers. Full review 👇
+
+[https://pureluxy.com/cumulus-coffee-machine-review/](https://pureluxy.com/cumulus-coffee-machine-review/)
+
+\#CumulusCoffee #EspressoMachine #HomeBarista #CoffeeDesign #CoffeeMachine #CoffeeReview #PureLuxy",1,1777969268.0,PureLuxy,0,1.0,False
+1t497t3,https://www.reddit.com/r/tonsilstones/comments/1t497t3/if_tonsil_stones_are_wrecking_your_quality_of/,"If tonsil stones are wrecking your quality of life, consider this","I’ve been dealing with tonsillitis for years and it got worse recently to the point where I just went all in and cut out sweets completely. No chocolate, no coffee, nothing. On top of that, I had really bad tonsil stones. I ended up buying a bunch of syringes just to irrigate them every day. It helped, but it never fully got rid of the problem.
+
+It honestly started affecting my quality of life. Having to clean your mouth after every meal or snack gets exhausting. It was frustrating and, at times, pretty depressing.
+
+I’m now on day 8 after a tonsillectomy. It still hurts a lot when I eat or drink, but it’s getting better. I can finally talk normally again.
+
+If you’re dealing with constant infections or even just tonsil stones, go see a doctor. Even if it’s “just stones,” they can seriously mess with your daily life. Some doctors don’t push for surgery unless you’re getting tonsillitis multiple times a year. But honestly, even tonsil stones alone can be bad enough to justify it if it’s already affecting your daily life.
+
+In my case, I did have multiple infections in 2024, but none in 2025 after cutting sugar completely. I didn’t mention that part because I didn’t want the surgeon to hesitate.
+
+Now all my syringes and my three waterpiks are basically useless for that purpose. I’ll probably still use them for flossing, but that whole phase of constantly dealing with tonsil stones is finally over. Honestly, it feels like a huge weight off.",3,1777969261.0,tonsilstones,2,1.0,False
+1t497q5,https://www.reddit.com/gallery/1t497q5,"[TRIP REPORT] 46 Days, 7,000+ km through South Africa, Eswatini, and Lesotho 🇿🇦 🇸🇿 🇱🇸 AMA!","In 2025, we took a year off to travel the world, and this 46-day journey across South Africa, Eswatini, and Lesotho was the undisputed highlight. We covered over 7,000 kilometers in a rental SUV, experiencing everything from the Big Five in Kruger to the high-altitude passes of Lesotho, the Wild Coast, and the dramatic coastline of the Garden Route.
+
+South Africa gets a lot of negative press, but it is a stunningly beautiful country and I wanted to share my experiences, so you too can enjoy this incredible country.
+
+  
+AMA! I will happily answer any questions you have, even if you're not considering doing the same trip. 
+
+# Week-by-Week Route Summary
+
+**Week 1: Johannesburg, Panorama Route & Kruger**
+
+Started in Johannesburg and drove to Graskop to take in God's Window, Bourke's Luck Potholes, and the Three Rondavels. Spent a few incredible days self-driving through Kruger National Park (staying at Satara and Lower Sabie rest camps).
+
+**Week 2: Eswatini & The Drakensberg Mountains**
+
+Crossed the border into Eswatini and stayed in Hlane Royal National Park (doing the Walking with Rhinos tour). Drove to the Drakensberg Mountains to hike Monk's Cowl and take in the dramatic mountain scenery.
+
+**Week 3: Golden Gate & Lesotho Highlands**
+
+Explored the golden-hued cliffs of Golden Gate Highlands National Park, then crossed into Lesotho. Stayed in Semonkong and hiked to Maletsunyane Falls, Africa's tallest single-drop waterfall.
+
+**Week 4: The Wild Coast & Addo Elephant Park**
+
+Spent a few days on the remote Wild Coast including a night at Coffee Bay, and a few nights in East London. We did a day trip self-drive safari among the massive herds at Addo Elephant National Park.
+
+**Week 5: Tsitsikamma & The Garden Route**
+
+Explored the coastal trails and suspension bridges at Tsitsikamma National Park. Slowed down in Knysna to base ourselves for exploring Plettenberg Bay and Robberg Nature Reserve.
+
+**Week 6: Oudtshoorn, Winelands & Cape Town**
+
+Watched meerkats wake up in Oudtshoorn, hit the southernmost tip of Africa at L'Agulhas, toured the vineyards of Stellenbosch, and wrapped up the trip in Cape Town with visits to Table Mountain and Boulders Beach.
+
+**Safety Tips**
+
+Before the trip, we were incredibly nervous after reading some scary stories online. In all honesty, we felt safe for 95% of the trip, but that was because we did our research, listened to local advice, and followed these strict rules:
+
+* **Never drive at night:** This is the most important rule. Roads can be poorly lit, have massive potholes, or have wildlife on them. Plan your drives to arrive before dark.
+* **Keep valuables out of sight:** Hide all cameras, phones, and bags. In your rental car, lock everything in the trunk; nothing should be visible from outside.
+* **Take an Uber:** Locals advised us to avoid taxis in Cape Town. Use Uber instead, and always take them home at night rather than walking alone.
+* **Don't stop for hitchhikers:** It's rare, but tourists have been robbed. If someone needs help, drive to the nearest town to find assistance.
+* **Be mindful in townships:** Drive through without stopping if you’re passing by, and keep moving.
+* **Trust your gut:** If a situation feels off, don't second-guess it.
+
+**Logistics & FAQ**
+
+* **Do you need a 4x4?** For the majority of South Africa's main routes and national parks, a standard 2WD or compact SUV is perfectly fine. However, for the highlands of Lesotho and some remote parts of the Wild Coast, we highly recommend a high-clearance vehicle or 4x4.
+* **Best time of year?** For wildlife viewing in Kruger, the Dry Season (May to September) is best. For Cape Town and the Garden Route, Summer (November to February) offers the best beach weather, though it can be windy.
+* **Budget expectations:** On a mid-range budget using Airbnbs and SANParks camps, expect to spend roughly $8,000 - $12,000 CAD for two people (including car rental, gas, food, and activities). Consider a SANParks Wild Card to significantly save on entrance fees.
+* **Cross-Border Fees**: All rental companies charge you extra to take your car across the border. They did give us some paperwork but it was never asked for by authorities at any of the borders we crossed. Most companies have GPS tracking in their cars, so they'll know if you cross the border without telling them. It was $85 for the paperwork, definitely worth it in our opinion!",3,1777969254.0,roadtrip,0,1.0,False
+1t497gd,https://www.reddit.com/r/punemeetup/comments/1t497gd/suggest_things_to_do_as_a_homealone_38m/,Suggest things to do as a home-alone 38M,"Wife and kids are out. Parents are out. Have the home to myself until Friday.
+
+Suggest things I can do.
+
+Kitchen pest control DIY, multiple cycles of dishwasher and washing machine, changed kitchen taps, adjusted a sliding door, rejigged the home layout a bit, this is what Ive done in the past 24 hours.
+
+Have some visible dangling wires I can fix, what else?
+
+Also chilling while doing tasks, completed my sleep backlog so lost 2 days there.
+
+Feel free to drop by for coffee, if thats your thing. Can also host that millennial meetup I always wanted to host. ",1,1777969227.0,punemeetup,4,1.0,False
+1t497dk,https://www.reddit.com/r/CaffeineFreeLife/comments/1t497dk/is_diet_coke_caffeine_the_same/,Is Diet Coke caffeine the same?,"I’m 39 and I started drinking daily Diet Coke at 4 (not a typo) my parents would always have Diet Coke in the fridge for us to help ourselves too and I over did it from a very young age. It’s been daily my whole life and the worst has been like 12 cans a day but on average, my daily was around 8 cans per day. I’ve never drank tea or coffee as I don’t like it but I gave up Diet Coke 3 days ago and feel so awful. Headache, tired, low mood and more and I’m hearing it might be because it has caffeine?? I planed to quit smoking too but if just giving up the Diet Coke and chocolate is doing this I really don’t know if I can stack another thing on top ",1,1777969218.0,CaffeineFreeLife,0,1.0,False
+1t4975z,https://www.reddit.com/r/Tonsillectomy/comments/1t4975z/if_tonsil_stones_are_wrecking_your_quality_of/,"If tonsil stones are wrecking your quality of life, consider this","I’ve been dealing with tonsillitis for years and it got worse recently to the point where I just went all in and cut out sweets completely. No chocolate, no coffee, nothing. On top of that, I had really bad tonsil stones. I ended up buying a bunch of syringes just to irrigate them every day. It helped, but it never fully got rid of the problem.
+
+It honestly started affecting my quality of life. Having to clean your mouth after every meal or snack gets exhausting. It was frustrating and, at times, pretty depressing.
+
+I’m now on day 8 after a tonsillectomy. It still hurts a lot when I eat or drink, but it’s getting better. I can finally talk normally again.
+
+If you’re dealing with constant infections or even just tonsil stones, go see a doctor. Even if it’s “just stones,” they can seriously mess with your daily life. Some doctors don’t push for surgery unless you’re getting tonsillitis multiple times a year. But honestly, even tonsil stones alone can be bad enough to justify it if it’s already affecting your daily life.
+
+In my case, I did have multiple infections in 2024, but none in 2025 after cutting sugar completely. I didn’t mention that part because I didn’t want the surgeon to hesitate.
+
+Now all my syringes and my three waterpiks are basically useless for that purpose. I’ll probably still use them for flossing, but that whole phase of constantly dealing with tonsil stones is finally over. Honestly, it feels like a huge weight off.",1,1777969200.0,Tonsillectomy,0,1.0,False
+1t496xt,https://www.reddit.com/r/AskReddit/comments/1t496xt/what_is_your_coffee_order/,what is your coffee order?,,2,1777969176.0,AskReddit,15,0.75,False
+1t49461,https://www.reddit.com/r/AskDocs/comments/1t49461/twitchpulsing_in_left_temple_for_about_1_month/,Twitch/pulsing in left temple for about 1 month,"Hello, 26M. I don't smoke, I don't drink coffee, and I generally drink a lot of water due to a past history of kidney stones. I'm not currently taking any medications but I'm taking magnesium supplements. I don't have any known medical conditions.
+
+For about a month now, I've been experiencing a twitching/pulsing sensation localized in my left temple, roughly in the area between the top of my ear and my eyebrow. When it first started, the episodes could last a long time (up to around 6 hours), and a few times it even woke me up at night. Recently, it has become shorter but still happens about 1–2 times per day.
+
+I've noticed that it seems more likely to happen when I wear over-ear headphones or when I sleep on my left side with pressure on that area, or after I eat. These are a couple of examples of when I can reproduce it, but other times it's completely random. For example it also happened when I was playing guitar (which is meant to relax me actually) or when taking a walk in the park. It's always in the exact same spot and only on the left side. I can sometimes reduce or stop it by applying ice for a couple of minutes.
+
+It doesn't give me headaches, but more like a sense of pressure on the area which sometimes gets ""heavier"" and other times disappears completely.
+
+I also have a long standing jaw click, which has never been painful or a problem. A dentist suggested the issue could be related to my jaw and mentioned that a bite splint might help, but that would take time to address, since I'll also be away for half a month. My doctor, on the other hand, suggested it could be stress-related, but I'm not fully convinced since it has also occurred during periods when I didn't feel stressed at all.
+
+I'm trying to understand what this could be and how to manage it. Does this sound more like a muscle twitch, nerve issue, vascular pulse, or something related to TMJ? And is there anything I can do in the short term to reduce or stop it? It's kinda driving me crazy and making me anxious.
+
+Thanks in advance.",1,1777968890.0,AskDocs,1,1.0,False
+1t493vw,https://www.reddit.com/r/Monash/comments/1t493vw/mystery_coffee_from_menzies_coffee_robot_clayton/,"""Mystery Coffee"" from Menzies coffee robot (Clayton)","My mate was telling me how he ordered the ""Mystery Coffee"" from the coffee robot in the Menzies building, only to watch it add a mound of seasoning on the top of his coffee. He said he thought it was some sort of spice mix like maybe chai but when he mixed it in and tasted it, he realized it was some sort of instant noodle seasoning. 
+
+Apparently it was foul, I fully believe him so I will investigate tomorrow but has anyone else experienced this? It was $5.50 and he couldn't get a refund, what's he supposed to do complain to the robot like bro it just put noodle seasoning in his coffee...",16,1777968863.0,Monash,8,1.0,False
+1t493po,https://www.reddit.com/r/tripplohotelsproscons/comments/1t493po/grand_hotel_timeo_pros_and_cons_based_on_reviews/,Grand Hotel Timeo PROS and CONS based on reviews,"Here are two of the standout pros and two of the standout cons of Grand Hotel Timeo, based entirely on what previous guests have written in their reviews of the hotel.
+
+**PRO 1: A view without equal**
+
+This is not merely a view — it is the view, in the fullest sense of the word. The hotel sits right alongside the ancient Greek theatre, and from your balcony or the celebrated Literary Terrace, you have an uninterrupted sweep across Mount Etna and the Ionian Sea. Guests consistently describe it as the most beautiful place they have ever sat and had a coffee. Watching the sun sink behind a smouldering volcano whilst live music drifts through the warm evening air is precisely the sort of moment you come here for.
+
+**PRO 2: Exceptional service with a genuinely personal touch**
+
+Where many luxury hotels can feel rather stiff and impersonal, Grand Hotel Timeo is consistently praised for its genuine warmth. The staff here possess an almost uncanny ability to anticipate your needs — whether that means a personalised greeting with your favourite fruit waiting in the room, or the swift and gracious resolution of even the smallest concern. A service rating of nearly 10 out of 10 is no accident; the team here truly make you feel like a guest of the Sicilian aristocracy.
+
+**CON 1: The logistical challenge of Villa Flora**
+
+The hotel is split across two buildings. If you book a room in the annexe, Villa Flora, you will find yourself around 50 metres from the main building. That may not sound far — but in practice it means stepping out onto a public street, navigating the crowds queuing to visit the Greek theatre, and passing through security checks every time you wish to use the pool, the gym, or the breakfast room. Many guests find that the exclusive feel of the hotel is somewhat lost in the process, and that something as simple as going for a swim becomes more of an undertaking than it ought to be.
+
+**CON 2: A musty smell in certain rooms**
+
+This is a historic building dating from 1873, and it occasionally shows. A recurring concern in reviews is a faint smell of damp in some rooms — particularly those that have not been recently renovated. If you are sensitive to odours or require fully contemporary standards throughout, it is worth being extremely particular about which room you select, and not hesitating to request a change immediately if things fall short on arrival.
+
+***Have you stayed at Grand Hotel Timeo yourself? If so, do feel free to share what you consider to be its greatest pros and cons. And if you have any questions about Grand Hotel Timeo, please leave them in the comments below — we and the community will do our best to get back to you as quickly as we can!***",1,1777968846.0,tripplohotelsproscons,0,1.0,False
+1t493fj,https://www.reddit.com/r/BookZen/comments/1t493fj/justice_for_juniper_novel/,Justice For Juniper Novel,"“HR Department,” Juniper answered the phone professionally seeing the line from the CEO’s office displayed.
+
+“Juniper Kennedy?”
+
+“Yes.” Her eyes widened nervously at the brusque tone of the man on the other line.
+
+“My office. Three minutes.”
+
+The line went dead. She removed her headset and stared at it in disbelief.
+
+“What’s wrong?” her supervisor, Maxine, head of HR, looked at her with concern as she staggered to her feet.
+
+“I don’t know. That was the CEO, and he just called me to his office.”
+
+“Phineas Perez? The CEO? Are you sure?”
+
+“Yes. It was his office display number on my phone.” She pointed to the desk phone.
+
+“I’ve never even been to his office. What did you do?”
+
+“I don’t know!” she threw her hands up in disbelief.
+
+“Doesn’t your mother work for his family?”
+
+“She’s the live-in housekeeper for his parents.”
+
+“Maybe something happened to her.”
+
+“Jesus, Maxine,” she flung her things on her desk and grabbed her ID pass and hung it over her neck. She walked briskly to the elevator and stepped inside.
+
+By the time she reached the top floor every fiber of her being was vibrating with panic. Maxine’s words reverberating in her mind.
+
+“God, Mama don’t be hurt.” She was surprised to find Mr. Perez’s assistant not at her desk and his door was ajar but barely. She stood at the desk not sure what to do. She turned back towards the elevator hoping the AA came back soon.
+
+“Are you going to stand out there all fucking morning or are you coming in?”
+
+She looked up to see the man who could grace the cover of GQ wearing a potato sack and still sell out every single copy, glaring at her.
+
+“You’re late. I gave you three minutes. It’s been six.”
+
+“Is my mother okay?”
+
+He pulled his head back, “how the fuck would I know?” He waved at her to enter the office.
+
+She walked in and was surprised to see two other men standing there. One of them held a chair out for her.
+
+Her body immediately reacted to all three men. They were the caliber of men chosen for television shows like The Bachelorette or those firemen or police drama shows her mother loved to watch. All three of them completely different and yet all three of them sexier than hell. Brown, blue, and hazel eyes all stared at her while she took a seat, and she breathed in the cologne of the man closest to her. She was blaming her reaction to them on hormones. She might be married but she wasn’t blind or immune to good looking men. One of them might even make it into a role-playing session with Kyst later. She packed the thought away.
+
+“Juniper, this is my lawyer Benicio and my private investigator Adil.”
+
+His words snapped her out of her daydream. Private investigator and lawyer? Did they think she’d done something wrong?
+
+“Look, I don’t know what this is about.”
+
+“Obviously so can you sit there and listen instead of interrupting?”
+
+“Jesus, man, it’s not her fault,” Adil griped as he sat in the chair next to her. “In fact, if anything you owe her.”
+
+“Owe me for what?” she looked back to the blue-eyed man behind the desk. His eyes were the color of arctic ice and equally cold.
+
+He frowned and then narrowed his gaze on her, “oh shit. Your mother. I just remembered who you are. You’re the girl my father insisted we hire because your mother is their housekeeper.”
+
+“I interviewed for the position after graduating college.”
+
+“Sure. Yeah, this has nothing to do with your mother. It’s about your husband fucking my wife.”
+
+She choked on the accumulation of spit which clogged her throat at the bold accusation. Adil patted her back while Benicio rolled his eyes and went to the mini fridge to get a bottle of water.
+
+Phineas clearly didn’t give a damn she was choking, and he continued speaking over her wheezing.
+
+“Six months ago, my wife came to visit me here in the office and didn’t get what she wanted. She left here in tears,” his expression told her he didn’t care in the least about his wife’s emotional state. “On her way out of here, your husband who dropped you off after lunch or something, saw her sobbing outside the building and asked her if she was okay. He took her across the street to the café, and she poured her miserable little heart out to him. That was when they met. They exchanged numbers.”
+
+“He’s a nice guy.”
+
+“Yeah, he’s so nice he’s doing me a favor by helping me get divorced.” Phineas snorted with disdain. “He’s so nice, for the last four weeks, every Wednesday when I need to leave Toronto to visit the offices in Ottawa, he works from home, and she goes to your apartment, and they fuck.”
+
+“Allegedly,” Benicio spoke up. “Allegedly fuck. We can’t prove it because we can’t get inside. It’s a secure building and while we can get access into it, your apartment is locked up tight.”
+
+“You think your wife is going into my apartment to have sex with my husband?”
+
+“No. I don’t think it.”
+
+She started to feel a sense of relief but then he continued.
+
+“I know it. Here’s the thing. I’ve been married a year. I consummated our marriage, mostly because I was really fucking drunk and did what my grandfather wanted me to do. I married his army buddies granddaughter. I mean it was either I do it or lose my seat as CEO. I did it but we signed a prenup. I can’t divorce her without cause and the fact my dick finds her repulsive isn’t a good one apparently.”
+
+“What?” she was abundantly confused, and it hurt her brain.
+
+“My wife has a voice which makes me want to shove my dick in a woodchipper instead of her. She did this wailing grunting thing on our wedding night which still haunts me. She also called herself a pillow princess, which is codeword for dead fish. She laid there and screamed like I was the antichrist. She then curled up next to me afterwards and told me it was the best she ever had. I scrubbed myself raw for three days after.” He shook his head as if trying to dispel the memory. “I can only divorce her for one of three reasons. She steals from the company or the family. She doesn’t produce an heir in five years. Which is feasible because I’m never touching her again but fuck five years seems a long time. It’s only been one and I’m already contemplating a suicide murder situation. Five years with her and I’d rather spend the time in a maximum-security penitentiary for her murder but it’s a last resort.” He was holding up two fingers and then he added the third, “she fucks someone else. It actually defines intercourse in the prenup. She needs to be having an extra marital affair including intercourse. She can participate in all the emotional affairs she wants apparently because I’m not likely to be warm and fuzzy enough for her but unless dick meets vagina, she gets to continue receiving her monthly stipend. If I divorce her for any reason but those three, then she gets ten percent of the company shares, fifty million dollars and my villa in Spain. I really don’t want the bitch to get anything.”
+
+She shook her head in confusion.
+
+“Here’s the thing,” he sucked his lips over his teeth. “I need the proof. I mean we all know what’s going on in their little love shack, but I need proof. This is where you come in.”
+
+“Where I come in?”
+
+“Yes. See, I want you, when your husband is out of your apartment tonight for ten minutes, to let my buddy Adil here in, so he can put a camera in your living room, bedroom and at your front entrance. All he needs is ten minutes.”
+
+“My surveillance tells me your husband cleans the apartment Tuesday night, doesn’t he? He takes out the trash around nine pm every Tuesday night.” Adil spoke up. “It’s new right? He’s only been doing this over the last several weeks, but he’s been deep cleaning on Tuesday night. He takes the trash out and he takes his phone with him. He sends her messages confirming they are on for the next day. He goes back up to you and plays devoted husband until nine-twenty-five Wednesday morning.”
+
+“And doing laundry on Wednesday before you come home so he can get my wife’s cloying perfume off your bedsheets.”
+
+Why
+
+“Why are you doing this?” she asked suddenly, looking at Phineas.
+
+“I’m not doing fuck all. Don’t you want to know whether or not your husband is double-dipping?”
+
+“You’re not a nice person.”
+
+The words sounded lame and weak as far as insults go but it was all she had as she sat here reeling.
+
+“Tell you what,” he leaned back in his chair and steepled his fingers over his chest. “Here’s what we’ll do. Adil will sit outside your building tonight. You observe your husband’s behavior. If you even feel the slightest bit he’s messing with your devotion, send Adil a text and he’ll wait for Kyst to walk out with the bag of garbage. He’ll install the three cameras. Tomorrow, we’ll throw a viewing party right here. If I’m wrong and the reason she is there is to simply rearrange your furniture or he’s planning a surprise interior design for you, then no harm no foul.”
+
+“There is harm and foul if I don’t trust my husband and I put cameras in my house!”
+
+“Wouldn’t you rather be safe than sorry.”
+
+“I’d rather not have this conversation at all!” she was starting to feel her patience waning.
+
+“Here,” Adil held his phone out.
+
+“What?” she looked at it like it had three heads.
+
+“Photos of your husband and her at a coffee shop last Friday. This is her entering the building you live in on the Wednesday before. Maybe it is innocent. As you said, he’s a nice man and maybe he’s simply cheering up a sad woman, but wouldn’t you like to be certain?”
+
+There was no mistaking it. The man in the photo sitting across from the blonde bombshell in the café was her husband Kyst. They weren’t touching. They were each holding their own cups of coffee. The photo seemed relaxed, and the lawyer that he was, if she’d stumbled across them in person, she would presume he was simply meeting a client.
+
+Yet, it was also no denying it was the same woman in the other photo entering her apartment block.
+
+“Well, what’s it going to be Juniper? You in? Are we catching dirty cheating liars together or will I need to find another way to catch them?”
+
+She glared at him, but he continued anyway.
+
+“Before you run out of here screaming and crying,” Phineas continued, “I don’t intend to destroy your marriage callously. I know you love this guy. If you want to stay with him after we bust them, I’m sure my parents could recommend a great marital counsellor. After all, my mother has stayed with him after three, four affairs over the last forty years. I’ll pay for it. Discretely of course. However, if you find you want to be as rid of the marriage as I do, for several reasons of course, yours being betrayal, lies and the risk of an STD since she’s allegedly allergic to latex,” he made a face, “another reason I wouldn’t touch her because I’m not impregnating her, then we’re you’re there for you.”
+
+“Get on with it,” she waved at him angrily. She was starting to think this guy got off being shocking. It was almost as if he enjoyed making her squirm with his nastiness.
+
+“If you want to divorce him, Benicio here will oversee your divorce free of charge, and he’ll make sure you get what you deserve. You’ll also be given a one-million-dollar payment for the emotional distress for the use of your apartment for our sting operation. You will also be provided a condo of similar value to the one you currently reside in, so you are not displaced and homeless.”
+
+“The condo was my idea.” Adil leaned his head sideways towards her conspiratorially. “I would hate to sleep in a bed I knew my partner screwed someone else in. Do you know I actually own one of those black lights forensic teams use to find seminal fluid? I have it on a keychain. When I go to a girl’s place, if the sheets aren’t clean, I’m not getting in it. No way in hell would I want to live in a house where my partner was messing around, and I would know. You’ll definitely need a new place, but Beni will make sure you get your half due to you.”
+
+She wasn’t even sure how much of Adil’s statement she wanted to unpack. “So, if we put the cameras in and nothing comes of it, then what? What if she’s a client and since he works from home, he’s giving her legal advice from our apartment?” she was grasping at straws and she knew it.
+
+“Then nothing. We’ll collect the cameras, and you forget this happened.”
+
+“But I’ll know I didn’t trust him. If he finds out I didn’t trust him,” her voice cracked with the fear. Was she really doubting her husband’s love for her? He loved her. She knew it in her bones. They’d been together since high school. They were each the only lover the other ever had. They weren’t perfect but what married couple were? A feeling of unease was filling her. Was she a blind fool?
+
+“If he finds out, I’ll tell him I threatened your mother’s job. He’ll believe you.” Phineas shrugged, “but my gut, which made me a billion dollars last year in investments alone and never fails me, is telling me this is right.”
+
+She sat there quietly contemplating the conversation of the last ten minutes.
+
+“Why do you hate her so much?”
+
+“What?”
+
+“Why do you hate your wife?”
+
+Benicio snickered and Adil leaned back in his own seat kicking his feet straight out.
+
+Adil shot her a look, “I love this story!” he gritted through clenched teeth his eyes bright with excitement.
+
+“Her grandfather and mine were army buddies. Her grandfather saved my grandfather’s life and almost died as a result. He lost half of his leg. My grandfather’s family were wealthy. Hers was not. My grandfather wanted to take care of his buddy, but her grandfather was a proud man, a good man and instead of cash asked for a job when they left the army. Her grandfather worked hard. Eventually he made enough money so he could start his own business. They remained the best of friends until he died. My father and her father are good friends, with their fathers taking them on camping trips and all the manly man things. When we were kids, I was introduced to Denise. My grandfather made jokes about us finally being able to join the family, but I wasn’t interested. She does nothing for me. Regardless, he’s my grandfather. Her grandfather took sick last year. Prostate cancer and he died almost right away. My grandfather said on his deathbed the old man asked him to take care of Denise. My grandfather and father’s version of agreement was to say I’d marry her.”
+
+“Still don’t see why any of this is her fault,” Juniper wrinkled her nose, grateful she’d grown up dirt poor in a single-family household, so she’d never been married off like this.
+
+“The minute the bitch knew what my grandfather was plotting she saw dollar signs. Because her grandfather was such a hardworking man, he believed his children needed to work for themselves. He left most of his money to charity. Her father is the same way. They don’t give to her needlessly. She needs to work. She’s an interior designer. Decent at her job. She found out though that she was going to be hitched to a billionaire, and she was really excited. I, fool that I was, didn’t think she was such a money-grubbing bitch at first and believed she was as good of a human being as her grandfather and father. I thought I could do my grandfather proud; despite the fact I wasn’t attracted to her at all. Family and all that. Then the day of the wedding rolls around and I see her true colors.”
+
+Timestamp
+
+A giggle from Adil made her frown. What was this guy’s problem? He looked like he’d spent all night dumpster diving from the mess of his hair and the ratty jeans he wore and yet his devil may care attitude and wide smile was charming. She could understand why he was a PI because she bet he disarmed a lot of people with his easygoing personality.
+
+Her eyes were drawn back to Phineas in his no-nonsense suit and tie and worse attitude when he continued his story. “The one and only thing I’d insisted on for the wedding reception was a catering company. It was all I asked. The caterer is the wife of a friend who was starting her own business after being a chef in restaurants for years. This big event would put her on the map. I caught Denise berating her and then,” he clenched his jaw, “she fucking hit her. Denise slapped her, pushed her to the floor, and said once she was Mrs. Perez, she would make sure nobody would ever hire her again and she would ruin her name in catering. Do you know why she did this? Over gouda. She hit and berated a woman over fucking gouda being used instead of cheese with holes in it. I dragged her out of there and put her in her place.”
+
+“She beat a woman up over cheese?”
+
+“Gouda!” Adil said with a laugh.
+
+“I took a moment during the reception to toast the caterer and hired her on the spot as the exclusive and only caterer I would use for all Perez Industries functions.”
+
+“But his bride wasn’t done,” Benicio snorted. “Tell her about the morning after.”
+
+“The wedding night was shit. I slept in a guest bedroom because her perfume was making me want to puke after all the booze I drank. Honestly, I know we fucked, but I still contend I didn’t come, and I was still wearing my suit entirely in the morning. I’d only unzipped and pulled it out,” he smirked, “technically I pulled out twice.”
+
+“Too much information!” she held her hand up disgustedly. “You do know I work in your HR department!”
+
+“Fine,” he rolled his eyes, “anyway, next morning I’m sleeping off my hangover in the guest bedroom and I hear her on the phone in my room where I was sleeping. She’s literally in my room and talking on the phone. She says, I’m still passed-out cold from all the fun. I lay there listening to her telling one of her friends how it was the best sex of her life, she couldn’t wait to get pregnant and already made plans to get her IUD out. Then,” he made a face as Benicio snickered, “she stole my wallet.”
+
+“I’m sorry what?”
+
+“She stole my wallet from my jacket. I watched her do it. She thought I was sleeping. She literally opened my suit jacket, took my wallet, and started flipping through it. When I asked her what the fuck she was doing, she said she needed a credit card for one of the wedding staffers. Lying bitch.”
+
+“You’re saying you hate her because she’s mean to service workers, is a gold digger, lied about you being decent in bed and removed her IUD without talking to you about it?”
+
+“I’m good in bed!”
+
+“Says the guy who didn’t even get naked on his wedding night and now won’t sleep with his own wife and thinks she is screwing around with my husband. I’m thinking this is a you-problem.” She wasn’t sure where this level of sass was coming from but the fact the three of them were being so incredibly inappropriate in her workplace was annoying.
+
+“Look, you asked why I hated her, it’s because I don’t like snobs. I have money. I have tons of money, but I worked my ass off to get where I am, and I would never look down on anyone because of their social circumstances. My mother taught me better. The fact my grandfather put in the cheating clause keeps me from divorcing her and giving her money she doesn’t deserve. I am trapped in my own house because my grandfather insists she lives with me. I sleep there,” he pointed to a sofa, “most nights. I don’t trust her not to drug my food she wants that baby so bad.” He gave an exaggerated shudder.
+
+“All of this, at the risk of repeating myself, is your problem. I trust my husband.” Her eyes flicked to the phone’s image. “If my husband saw her six months ago and felt sorry for her, I believe it’s nothing more than this. He wouldn’t betray me. He took our vows seriously. Our sex life is damn good. I think you’re grasping at straws.”
+
+“Then prove she’s doing nothing with him. If you trust him, putting the camera in there to vindicate him, isn’t going to cause any harm then. Prove me wrong.” Adil wiggled the phone, “maybe this is simply her asking an attorney who deals with real estate law, to get her contacts with the realtors he works with to hook her up for work, though, she hasn’t taken a single interior design job since her engagement. She does nothing at all and she’s bored. Seducing your husband and hiding it from hers would be a piece of cake for her.”
+
+“She doesn’t work?”
+
+“No. She just goes to coffee shops with other women’s husbands and drinks lattes.” Adil shrugged, “it’s only three cameras. I can turn them on and off remotely, so I won’t even turn them on until you leave the apartment to come to work in the morning.”
+
+She took the phone in her hand again and then something caught her eye. It was glaringly obvious and caused a feeling akin to a boulder being dropped into her stomach. More than the couple, the coffee, the shop, and the surroundings there was one teeny, tiny piece of critical information which suddenly struck her like a semi-truck taking out a fly with its windshield at high speed. The tiniest detail. The timestamp.
+
+Eleven-fifteen. It matched the time she was waiting for him to show up at her appointment with the gynecologist to go over the results of her most recent fertility tests and to talk about why they were having trouble conceiving. He didn’t show up. When he’d met her at the door to this building apologizing for missing her appointment, he’d almost been in tears over missing something so vitally important. His excuse? His boss gave him an impromptu file and kept him in his office to discuss the importance of it and by the time he realized the time he was late. He’d run all the way from the law firm to his office building.
+
+He'd lied to her. At eleven-fifteen he was in a coffee shop drinking coffee with her boss’s wife while she’d been getting life-changing information from the doctor all on her own. He told her he was at work, in his boss’s office, in an emergency meeting which went on too long.
+
+If it was innocent. If it was truly innocent and it was simply him being a nice person to a woman in need, why lie? If he met this woman six months ago, why was he still meeting with her now? All of the possibilities were running through her mind and yet, she wanted to trust him. She wanted to believe this was some huge misunderstanding yet, that boulder sitting in her stomach felt heavier with each passing moment.
+
+She stared at the timestamp and then looked up at Phineas and nodded. “Fine. I’ll do it.”
+
+Adil reached out and took his phone from her hands and put it away. “You’re making the right decision.”
+
+“I feel sick.”
+
+“Look, maybe I’m wrong,” Phineas shrugged. “Maybe for the first time in my life, I’m wrong about something.”
+
+“Are you always this cocky and arrogant?”
+
+“Yeah, he is,” Benicio grunted. “He’s a giant twat wrapped up in a cunt.”
+
+She blinked at the lawyer with surprise, “huh.”
+
+“Don’t mind him.” Phineas shrugged, “he lost a lot of money to me at poker last night and he’s still mad at me.”
+
+Benicio sighed and then turned his chair entirely face to her, “look, at the end of the day, this is going to make or break your relationship. Whatever you do, whatever you decide, my job is to make sure I’m protecting both of you legally. I begged him for hours last night, today and this morning.” His hazel eyes were soft and kind as he stared at her, “I wanted Adil to find another way, but he wants to get this done before the one-year anniversary which is in two weeks. This is the most effective and efficient method, but I don’t necessarily agree this is the kindest method to you. This is going to sting.”
+
+“Isn’t there a waiting period? Why rush?”
+
+“For a contested divorce, absolutely there is but she won’t contest,” Phineas folded his arms over his chest clearly annoyed by his friend. “My grandfather has a birthday party coming up in under two weeks. It’s a milestone one. He’ll be eighty. I want this handled beforehand, so his day isn’t ruined.”
+
+Adil patted her hand softly, “we’ll be there every step of the way, but this is the fastest way. Don’t you want to know, for sure?”
+
+She wanted to scream no, but instead she nodded and pinched herself hoping it was all a bad dream, and feeling the burn of her own touch screaming at her it wasn’t.",1,1777968817.0,BookZen,0,1.0,False
+1t493dy,https://www.reddit.com/r/Amenorrhearecovery/comments/1t493dy/what_stage_counts_as_the_start_of_recovery/,What stage counts as the “start” of recovery,"I just thought of a question that popped into my head 
+
+So when it says 3-6 months mostly for periods to return after entering recovery, at what point is counted day one of recovery , if someone made small changes and step by step changes , what part counts as day one the timeline from when they entered recovery ??
+
+So for example with me I count 4.5 months since I’ve been “all In” I count from this point because that’s the day I stopped all exercise .   
+But abit before that I increased calories , and I reduced my step count , and my final step eventually was stopping cardio exercise, and then abit after that I eventually realised I was delaying breakfast until 2 hours after I wokeup and had my coffee first, then 2 months ago I began eating a bar with my coffee within 30 minutes of waking up and then have my breakfast an hour after that
+
+So basically those are my big changes I’ve made, but is my timeline of “all in” recovery start counting down from the day I stopped all exercise ??  
+I know maybe I’m over thinking it but I just want to know at what point you counted from your recovery to when your period came back ? 
+
+I’ve been counting from the day I stopped exercise would that be accurate in my story ? If so that means I’m 4.5 months into recovery ? ",3,1777968813.0,Amenorrhearecovery,1,1.0,False
+1t4931a,https://www.reddit.com/r/teenagers/comments/1t4931a/exam_season_at_least_for_me_how_black_do_you_like/,Exam season (at least for me). How black do you like your coffee?,"https://preview.redd.it/fo7xk9nv1azg1.png?width=640&format=png&auto=webp&s=33dcb0a4fc8e4a221eb8a72f435931f0985058cd
+
+",1,1777968778.0,teenagers,5,1.0,False
+1t49311,https://i.redd.it/sxmahma02azg1.jpeg,This week 🔥,"The season getting started 🫣  
+Links in bio ✅",1,1777968778.0,u_Anxious-Vehicle3502,0,1.0,False
+1t48zd1,https://i.redd.it/azccw3hw0azg1.jpeg,Vanilla latte 😍,What’s your favourite coffee? Mine is Vanilla latte currently ,2,1777968406.0,BeyondtheBio,0,1.0,False
+1t48xwk,https://i.redd.it/vtz89h1g0azg1.jpeg,My potty language is 1 ;( Is it bad??,sorry text (boptional),5,1777968255.0,no_or_youll_be_banned,13,1.0,False
+1t48xkk,https://i.redd.it/940mgufc0azg1.jpeg,Update on coffee kilju,"After having a few drinks while out at my local gay bars over a week ago during day 6 of this brew, it kept my buzz going that night and tasted absolutely amazing, think of that coca cola coffee soda from a couple years ago without the acidic taste and a mild ring of alcohol, I drink about half it that night/morning.
+
+Then during last weekend when it was about 13 days old I had the rest and it was completely different, most beer like kilju I made and that includes the time I tried to combine kvass and kilju in one recipe. It tasted like a cheap draft with a hint of coffee/dark chocolate.
+
+https://www.reddit.com/r/prisonhooch/s/SfOXpXNOcx",5,1777968217.0,prisonhooch,0,1.0,False
+1t48wt0,https://www.reddit.com/r/EnglishPractice/comments/1t48wt0/a_french_person_trying_to_get_rid_of_their_accent/,A French person trying to get rid of their accent,"Hello everyone,
+
+I’d like to meet people coming from the UK so I can improve my English accent. I really enjoy speaking English, but I’d like to work on my weak points.
+
+I’m from Paris and I’m into simple things like having a coffee on a terrasse, reading a book in a park, or even doing some sport. I’m open to all kinds of activities :)
+
+See you soon",1,1777968139.0,EnglishPractice,0,1.0,False
+1t48w2v,https://www.reddit.com/r/WidowAndBored/comments/1t48w2v/cant_sleep_early_morning_checkin/,☀️ Can’t Sleep / Early Morning Check-In,"
+
+Awake early or didn’t sleep much?
+
+You’re not alone.
+
+This thread is for quiet morning company.
+
+Say hi, lurk, or share something small — coffee, weather, a thought, or nothing at all.
+
+
+
+No heavy topics. No fixing.
+
+Just presence.
+
+
+
+If you reply to someone, please keep it kind and low-pressure.",1,1777968066.0,WidowAndBored,0,1.0,False
+1t48vdp,https://www.reddit.com/r/eurovision/comments/1t48vdp/eurovision_2026_day_4_of_the_live_megathread/,Eurovision 2026: Day 4 of the Live Megathread,"It’s already been a busy morning here at the Wiener Stadthalle. On the way to get a morning coffee we got to speak to Team Cyprus about Antigoni’s stage prop, wish Søren Torpegaard Lund and his dancers the best of luck for this morning’s rehearsal, and give Atvara a lil’ wave as she and her team left the welcome briefing that each of the delegations are given by the big dude in charge, Martin Green CBE.
+
+Before the coffee hits and the incoherence creeps in, let’s get today’s schedule out of the way. 
+
+This is what we’re seated and ready for on Tuesday 5 May; Day 4 of rehearsals for Vienna 2026:
+
+10:30 🇨🇾 Cyprus: **Antigoni -** [***JALLA***](https://youtu.be/TzSs51BiQrE?si=V7RXWWnYJ9sKR5Zp)
+
+11:10 🇱🇻 Latvia: **Atvara -** [***Ēnā***](https://youtu.be/6C2ivaB5D00?si=1iEhVjC2lmFKPOD1)
+
+11:50 🇩🇰 Denmark: **Søren Torpegaard Lund -** [***Før Vi Går Hjem***](https://youtu.be/xKzEP9dwoss?si=iRvQ1N6WBz5AWsxy)
+
+12:45 🇦🇺 Australia: **Delta Goodrem -** [***Eclipse***](https://youtu.be/EUMCr1pnaMY?si=8kKiXa9SyCiGD6_p)
+
+13:25 🇺🇦 Ukraine: **LELÉKA -** [***Ridnym***](https://youtu.be/SoEXezpblAc?si=cXFPG79tzGyHQa6v)
+
+15:00 🇦🇱 Albania: **Alis -** [***Nân***](https://youtu.be/b9AdRrA554o?si=y300qG_WDhQnYY94)
+
+15:40 🇲🇹 Malta: **AIDAN -** [***Bella***](https://youtu.be/CW6mQLBh6Js?si=UNqnhNESZ1LKz2pN)
+
+16:20 🇳🇴 Norway: **JONAS LOVV -** [***YA YA YA***](https://youtu.be/MasllzWk_bQ?si=5_M9JQ8MgMb--jrb)
+
+If you’ve been following the Live Megathread for Days 1 to 3, you’ll know that time here in the Wiener Stadthalle is merely a man-made construct. And honestly, they may have a point there. Mrs Einstein said it best at Dublin 1997; *Niemand Heeft Nog Tijd* ⏱️
+
+\----------------------------------------------
+
+**10:25 - I’m dancing on the table baby**
+
+🇨🇾 💃
+
+\----------------------------------------------
+
+**10:26 - Shake my hips do tsifteteli**
+
+🇨🇾 💃
+
+\----------------------------------------------
+
+**10:27 - And they want…**
+
+🇨🇾 💃
+
+\----------------------------------------------
+
+**10:28 - JALLA**
+
+🇨🇾 💃  *Follow me into the music, let’s dance the* *~~night~~* *morning away!*
+
+The stage is being set up for Antigoni. What would you like to know about our Cypriot superstar's rehearsal?
+
+\----------------------------------------------
+
+**10:45 - La La Loving this prop**
+
+We're getting flashbacks to Cyprus 2012. Guys, we have a table! More on this to come.
+
+\----------------------------------------------
+
+**11:15 - You want more?...**
+
+Antigoni has rehearsed *JALLA* for Cyprus here in Vienna. She’s been telling us along that she’s “*dancing on the table*” and this morning the ancient Cypriot prophecy came true.
+
+We all remember where we were when Ivi Adamou danced on the table for Cyprus at Baku 2012, but for 2026 the Cypriot delegation have scaled the idea up in a major way. This table is so huge, there is room for four dancers to get up there with her. This table is so huge, Antigoni and her dancers can use it as a catwalk (and the choreo is stun, they even have plates!). This table is so huge, the chairs don’t go at it, they go on it. 
+
+And what’s a big table without the right table setting? This one’s got a table runner made of an LED strip, which assists in creating arguably the most visually stunning part of the performance - the *“you want more?...”* bit of the song. It’s followed by a purposeful strut from Our ‘Tig, and it’s finally time to leave the table and make full use of the Wiener Stadthalle catwalk - accompanied by the kind of fire and pyro that’s normally reserved for the rock numbers!
+
+Antigoni is dressed in a short, white, beaded Aphrodite dress, looking like she’s all set for a Nicosia night out in July. The song is performed in front of a backdrop that features giant, ancient pillars lit in blue.
+
+\----------------------------------------------
+
+**11:40 - Atvara has smashed it!**
+
+Next up to rehearse has been Latvia. Atvara having three run throughs of *Ēnā*.
+
+Many of you will have seen the national final performance that led to Atvara winning *Supernova* in Latvia back in February. And if you’ve seen it, it’s probably been more than once as it’s definitely a performance you wanna keep coming back to. We watched it again before we left the hotel this morning. How else would we be starting our day?
+
+And so it makes sense that not a lot has changed from that memorable *Supernova* performance. The Latvian delegation confirmed that it was enjoyable to simply scale the staging up in size for the Eurovision Song Contest. Though with that, we did notice a couple of elements had changed in the upgrade.
+
+The gems sewn onto her dress have multiplied, with them now spreading further down the side to her waste and almost covering her left arm. There is also more glass - enough shards to fill the Wiener Stadthalle. Watching this performance is going to make the health and safety officials sweat! 
+
+If you've got tickets to Vienna 2026 next week, it's going to be a real treat to catch Atvara sing this live in front of you.
+
+\----------------------------------------------
+
+**11:45 - Making his (den)mark**
+
+What’s this now?... 
+
+A box?! 
+
+Being constructed on the Wiener Stadthalle stage? 
+
+Søren Torpegaard Lund is up next to rehearse for Denmark. And it looks like one of the most talked-about national final performances of the 2026 season has made its way to Vienna.
+
+Let’s see if anything has changed and, above all, how it’s all done. They say you should never witness ‘how the sausage is made’. But we’ve never been ones to shy away from a banger! 
+
+",98,1777968006.0,eurovision,173,0.98,False
+1t48u11,https://www.surftwinsessaouira.com/blog/morocco-surf-camp-what-to-expect-whats-included-worth-it,"Morocco Surf Camp — What to Expect, What's Included & Is It Worth It?","You've been thinking about it for a while. A week in Morocco, surfing every day, good food, warm weather, and coming home actually able to surf. But you have questions. Is a surf camp in Morocco worth it? What's actually included? Will it suit your level? What happens if the waves are flat?
+
+We've been running surf camps in Essaouira and Sidi Kaouki since 2017, welcoming over 7,000 guests from more than 50 countries. Here's an honest, no-fluff breakdown of what to expect from a Morocco surf camp — the good, the great, and everything in between.
+
+# What Is a Morocco Surf Camp?
+
+A surf camp in Morocco is an all-inclusive surf holiday package that combines accommodation, daily surf coaching, meals, transport, and equipment in one booking. Instead of planning everything separately — finding a hotel, booking lessons, renting a board, figuring out transport — everything is taken care of before you arrive.
+
+At [Surf Twins Essaouira](https://www.surftwinsessaouira.com/en/surf-packages), our surf camp packages are based in Sidi Kaouki, 25km south of Essaouira on Morocco's Atlantic coast. Our most popular package runs 6 nights and includes everything listed below.
+
+# What's Included in a Morocco Surf Camp?
+
+Here's exactly what you get with our [surf camp package from €380](https://www.surftwinsessaouira.com/en/surf-packages):
+
+* **6 nights accommodation** in Sidi Kaouki — comfortable guesthouse with pool, garden, and sea views
+* **12 hours of surf coaching** across 6 days — 2 hours per day with a certified local instructor
+* **All meals included** — breakfast every morning, traditional Moroccan lunch on the beach, dinner every evening
+* **Daily transport** to and from the best surf spots — we choose based on conditions each morning
+* **All equipment** — surfboard and wetsuit for every session
+* **Airport transfer** from Marrakech or Agadir included
+* **Free afternoon surf** every day after the lesson — boards available to use
+
+No hidden costs. No extras to pay on arrival. The price covers everything.
+
+# Is It Suitable for Beginners?
+
+Yes — and in fact, beginners get the most out of a surf camp. Here's why:
+
+When you surf every day for a week with the same certified instructor who can track your progress, the improvement is dramatic compared to taking occasional lessons back home. By day 3 most beginners are catching green waves consistently. By day 6, most people are riding along the face of waves and understanding how to read the ocean.
+
+We've welcomed complete beginners in their 50s and 60s who caught their first waves on day 1 and left after a week surfing independently. The combination of warm water, consistent waves, good coaching, and time in the water simply works.
+
+We also run camps for intermediate and advanced surfers — working on technique, wave selection, turns, and reading more powerful conditions. If you've been surfing for a while and want to break through a plateau, a week of focused coaching in good waves is the fastest way to do it.
+
+# What Are the Waves Like at the Surf Camp?
+
+Sidi Kaouki receives consistent Atlantic swell year-round. The beach is long and sandy with multiple peaks — we can always find conditions that match your level. Beginners start in the sheltered bay with small, forgiving waves. As you progress we move you to more dynamic peaks further along the beach.
+
+We also take camp guests to secret spots that aren't on any tourist map — breaks that only locals know. Some of the best surf experiences our guests have had are at spots they never would have found on their own.
+
+The wind at Sidi Kaouki blows side-shore from the Atlantic, which keeps the waves clean and groomed. Mornings are typically the best time to surf — lighter winds, glassier conditions — which is why we run our coaching sessions in the morning and leave afternoons for free surfing.
+
+# What's the Accommodation Like?
+
+Our surf camp guests stay in a comfortable guesthouse in Sidi Kaouki — a traditional Moroccan riad-style property with a pool, garden, and views of the Atlantic. Rooms are clean, well-furnished, and designed for people who've been in the ocean all day and want somewhere comfortable to rest and recover.
+
+Sidi Kaouki itself is a small, quiet coastal village — nothing like the busy tourist areas of Marrakech or Agadir. It's peaceful, local, and genuinely Moroccan. Most guests love how removed it feels from the typical tourist circuit.
+
+# What's the Food Like?
+
+This is one of the things guests consistently mention in reviews. The food is genuinely excellent.
+
+Breakfast is fresh bread, msemen (Moroccan flatbread), honey, argan oil, fruit, coffee, and mint tea. Lunch on the beach is usually a tagine or couscous with fresh vegetables, followed by fresh-squeezed orange juice. Dinner is a full Moroccan meal — soup, main course, dessert.
+
+If you have dietary requirements (vegetarian, vegan, gluten-free, allergies) just let us know when you book. We accommodate everyone.
+
+# What If I'm Travelling Alone?
+
+Most of our surf camp guests travel solo — it's actually one of the most common ways people book. Surf camps are a great way to meet people, and the shared experience of learning to surf together creates connections quickly.
+
+By day 2 most solo travellers have already made friends with the rest of the group. By the end of the week people are exchanging contacts and making plans to meet again.
+
+# What Time of Year Is Best?
+
+**Spring (March–May)** and **autumn (September–October)** are our busiest and most popular seasons — consistent swell, warm weather, and ideal conditions for all levels.
+
+**Summer (June–August)** is excellent for beginners — smaller, more manageable waves, warm water, and long days. Strong afternoon winds make this peak kitesurf season too.
+
+**Winter (November–February)** brings the most powerful waves. Fewer guests, lower prices, and excellent conditions for intermediate and advanced surfers. Still warm enough to surf comfortably in a 3/2mm wetsuit.
+
+# How Do I Book?
+
+The easiest way is WhatsApp — [contact us at +212 643 806 655](https://www.surftwinsessaouira.com/en/contact). Tell us your dates, how many people, and your surfing level. We'll confirm availability, answer any questions, and arrange everything from there.
+
+You can also book through our [contact page](https://www.surftwinsessaouira.com/en/contact). We typically respond within minutes.
+
+Surf camp packages start from **€380 all-inclusive**. [View the full package details here](https://www.surftwinsessaouira.com/en/surf-packages).
+
+7,000+ surfers since 2017. Twin local brothers who have surfed this coastline every day of their lives. Come find your wave. 🤙",1,1777967861.0,u_Safe_Ad_5552,0,1.0,False
+1t48st4,https://www.reddit.com/r/NevernessToEverness/comments/1t48st4/stressfullll/,Stressfullll,"Im playing the coffee shop thing and on 1-5 some customers get in for a split second and get mad that i didn't serve them
+
+Im using adler since he refills your coffee but goddamn is there a qay to help?",5,1777967741.0,NevernessToEverness,16,0.78,False
+1t48s8c,https://www.reddit.com/r/TorontoHangoutFriends/comments/1t48s8c/20m_just_looking_to_meet_new_people/,20M | just looking to meet new people,"Hey, I’ve been in Toronto for about a year now, still kinda figuring out my social circle here.
+
+Just looking for chill conversations day to day—random stuff, life, memes, whatever comes up. I’m a bit quiet at first but warm up pretty quickly if the vibe’s right 😅
+
+Into tech, philosophy, fitness, movies, music, and camping when I get the chance.
+
+If we get along, I’m down to grab a coffee or go for a walk sometime. Nothing serious or anything, just trying to be more social and meet new people in the city.
+
+No pressure, just see how it goes.",1,1777967681.0,TorontoHangoutFriends,0,1.0,False
