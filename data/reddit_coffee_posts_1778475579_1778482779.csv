@@ -1,0 +1,1832 @@
+id,url,title,text,score,created_utc,subreddit,num_comments,upvote_ratio,over_18
+1t9vhzt,https://i.redd.it/0vbifcemhg0h1.jpeg,"Team Café La Leche is all set and ready for the new week 🙌🏻😎☕ Happy Monday, Replikatown 🥰",,2,1778482519.0,Replikatown,1,1.0,False
+1t9vh90,https://www.reddit.com/r/no/comments/1t9vh90/how_often_do_you_drink_coffee/,How often do you drink coffee?,,2,1778482452.0,no,3,1.0,False
+1t9vgyk,https://i.redd.it/1grlvcybhg0h1.jpeg,Are u coffee addict?,,1,1778482423.0,DesiMingle,1,1.0,False
+1t9vgxd,https://www.reddit.com/r/confession/comments/1t9vgxd/my_moma_was_diagnosed_with_terminal_cancer_my/,"My Moma was diagnosed with terminal cancer, My daddy was in a accident,drunk driver. They both have passed now, my therapist suggested I write about it…","Held Through the Fire………
+
+
+
+
+The ocean was calm that morning.
+
+I remember standing on the deck of the Disney cruise ship with a cup of coffee in my hand while the wind tangled my hair. Kayla was laughing somewhere behind me with Sadie and Turtle, and for the first time in a long time, life felt light. No schedules. No hospital calls. No bad news. Just sunshine reflecting across the water and the sound of people enjoying their vacations around us.
+
+I didn’t know my world was already changing.
+
+Somewhere between the ocean and home, my phone rang.
+
+I can still remember the feeling in my chest before I even answered it. The kind of fear that arrives before words do.
+
+My daddy had been in an accident.
+
+Everything after that felt blurry and sharp at the same time. I remember the panic. The confusion. The feeling of standing still while my entire life moved underneath me.
+
+When I stepped off that ship, I stepped into a life I no longer recognized.
+
+My daddy was in a coma with a traumatic brain injury. Machines breathed beside him while doctors spoke in careful tones that never sounded hopeful enough. At the same time, my mama was already fighting a battle of her own. Her cancer had returned, and this time it had spread to her bones.
+
+Terminal.
+
+That word settled over our family like a storm cloud that never moved.
+
+I would later learn my daddy had gone alone to Chili’s to watch the Georgia game. He had been struggling emotionally in ways I understand more clearly now. He was overserved alcohol and tried to drive himself home.
+
+He never made it.
+
+A tree stopped him before he could get there
+
+And in one single night, the life I knew disappeared.",3,1778482420.0,confession,3,1.0,False
+1t9vfdj,https://www.reddit.com/r/gwalior/comments/1t9vfdj/visiting_wednesdayfriday_looking_for_entrepreneurs/,Visiting Wednesday-Friday; looking for entrepreneurs,"Would like to meet consumer-brand founders
+
+No agenda, just good coffee and conversation
+
+  
+Here's my LI: [https://in.linkedin.com/in/vanshikaaoberoi](https://in.linkedin.com/in/vanshikaaoberoi)
+
+Let's connect? ",1,1778482275.0,gwalior,0,1.0,False
+1t9veyd,https://i.redd.it/w2oa3cm0fg0h1.jpeg,"Yrr, cold coffee pine me maja atta he bahut😋",,1,1778482234.0,AajMereSaathYeHua,0,1.0,False
+1t9vet4,https://www.reddit.com/r/MakeNewFriendsHere/comments/1t9vet4/22f_woke_up_and_finding_conversation/,22f woke up and finding conversation.,"Just woke up and already feeling like I need a human conversation before my brain starts buffering again. Also, if anyone’s feeling extra kind today, coffee would genuinely fix at least 90% of my problems right now. Blinkit exists for a reason..",1,1778482221.0,MakeNewFriendsHere,3,1.0,False
+1t9ver5,https://i.redd.it/h5m6t0eqgg0h1.jpeg,"You could lurk, but you’d rather send. ✨Spoilthe princess✨",,1,1778482218.0,THRONE_your_WISHLIST,1,1.0,False
+1t9vehi,https://www.reddit.com/r/u_seoul-tv/comments/1t9vehi/connected_to_stadium_free_wifi_at_a_kleague_match/,"Connected to ""Stadium_Free_WiFi"" at a K-League match — woke up to my Instagram posting crypto scams and a stranger logged into my bank app","Posting this because I had no idea this was a thing until it happened to me, and it turns out it's happening at basically every major sporting event. The Wi-Fi I connected to wasn't from the stadium. It was from some guy in the parking lot. Took me a full weekend to clean up the damage.
+
+# How it happened
+
+Went to a K-League match last season. Got to my seat, pulled out my phone to check the lineup, and noticed the data was crawling — the whole stadium was on mobile networks at the same time, so everything was slow.
+
+Scrolled through available Wi-Fi networks. Saw one called ""Stadium\_Free\_WiFi."" Clean name, strong signal, no password required. Connected without thinking about it. Used it to load the lineup, refresh Twitter a few times, check the live stats. Nothing important — or so I thought.
+
+The match ended. I went home. Forgot about the Wi-Fi entirely.
+
+# What I woke up to
+
+Next morning, Instagram notifications were exploding. My story was full of crypto investment scams I'd never posted. DMs going out to my followers asking them to ""check this opportunity."" Friends texting me asking if I'd been hacked.
+
+That was bad enough. Then I opened my banking app and saw an authorized device alert from the night before — a device I'd never owned, logged in from a location I'd never been.
+
+Started piecing it together. The only thing that had changed between ""everything fine"" and ""everything compromised"" was that one Wi-Fi connection at the stadium.
+
+# What was actually happening
+
+Turns out ""Stadium\_Free\_WiFi"" wasn't run by the stadium. The actual stadium Wi-Fi was named something different and required signing in through their app.
+
+What I'd connected to was a **rogue access point** — a portable router being run by someone sitting in the parking lot or nearby. Equipment cost: maybe ₩300,000. Setup time: 20 minutes. The attacker just needs a believable network name and proximity to a crowd.
+
+Once your phone connects, you're routing all your internet traffic through their hardware. They can see:
+
+* Every website you visit (DNS requests)
+* Any data sent over unencrypted (non-HTTPS) connections
+* App traffic that doesn't use proper encryption (older apps, sloppy developers)
+* Session cookies that keep you logged into things
+
+And the worst part — they can redirect you. You open your bank app, but the rogue network silently sends you to a fake login page that looks identical to the real one. You type your password. The attacker captures it, then logs into your real bank from their device.
+
+# Why major events specifically
+
+This attack works on a Tuesday at a coffee shop, but the math is brutal at a stadium.
+
+A coffee shop attacker might catch ten victims in a day. A Champions League final or a KBO playoff game puts the same attacker in range of 25,000 to 80,000 phones in a three-hour window. Same setup, same hardware, hundreds of times the catch.
+
+And the event itself is the perfect cover. You're not in scrutiny mode at a match. You're checking the score, posting to your story, looking up player stats, refreshing the live commentary. The emotional state of watching sports is the opposite of the careful state you need to spot a fake network.
+
+This is also why fan zones, public viewing parties, and bars near stadiums are now hunting grounds. Anywhere a crowd gathers to watch a match with phones in their hands.
+
+# How the redirect attack actually works
+
+This is the part I didn't understand until I asked a friend who works in security.
+
+When your phone connects to Wi-Fi, the network controls **DNS** — the system that translates domain names like ""kbstar.com"" into IP addresses. On a rogue network, the attacker can substitute their own DNS responses.
+
+You type your bank's URL. The rogue network sends you to an IP address the attacker controls. That IP serves up a perfect clone of the bank's login page — same fonts, same logo, same colors. You enter your credentials. The fake page captures them, then forwards you to the real bank so you don't suspect anything went wrong.
+
+If the site uses HTTPS properly (the padlock icon in your browser), your phone will usually warn you with a certificate error. But many people click through certificate warnings, and some apps don't even show them.
+
+# How to actually protect yourself
+
+The single most effective thing you can do is **don't use public Wi-Fi at events at all**. Use your mobile data. 5G is fast enough for replays, stats, social posts, and streaming highlights. The Wi-Fi data you save isn't worth the risk of handing your accounts to a stranger.
+
+If you have to use public Wi-Fi:
+
+**Verify the network name with the venue.** Real stadium Wi-Fi usually has a specific name listed on signage, in the event app, or on tickets. If you don't see it confirmed somewhere official, assume the network is fake.
+
+**Check for HTTPS on every page.** Look for the lock icon in your browser before entering anything sensitive. No lock means no encryption means anyone on the network can read your traffic.
+
+**Watch for certificate warnings.** If your browser pops up a warning about a security certificate, that's your phone telling you the network is intercepting traffic. Close the page. Don't click ""proceed anyway.""
+
+**Don't open banking, payment, or password manager apps.** These are the highest-value targets. Save them for trusted networks.
+
+**Turn off auto-connect to open networks.** Go to your phone's Wi-Fi settings and disable the option that lets your phone automatically join open networks. This is the single most effective long-term protection — it stops your phone from trusting strangers just because they're nearby.
+
+# What to do if you think you connected to a rogue hotspot
+
+1. **Forget the network immediately.** Wi-Fi settings → find the network → ""Forget this network."" This prevents your phone from auto-reconnecting next time you're in range.
+2. **Switch to mobile data or a trusted network before doing anything else.**
+3. **Change passwords on important accounts.** Email first, then banking, then social media, then everything else. Don't reuse passwords.
+4. **Check authorized devices on every important account.** Email, banking, streaming, social — most platforms have a ""logged-in devices"" section in settings. Sign out anything unfamiliar.
+5. **Enable 2FA on accounts that don't have it.** Even if the attacker has your password, 2FA blocks the login.
+6. **Watch your bank statements for the next 30 days.** Some attackers sit on credentials for weeks before using them, to avoid linking the fraud back to a specific event.
+
+What I lost
+
+The Instagram damage was annoying but recoverable — reset the password, deleted the scam posts, apologized to friends who DMed me. The bank app was scarier. I caught the new authorized device before any transactions happened, but only because the bank's alert system pinged me. If the attacker had been a little patient and waited a few days, I'd have noticed nothing until money was gone.
+
+Total financial loss: zero. Time lost cleaning up: about 12 hours across a weekend. Lessons learned: a lot.
+
+The stadium isn't running the free Wi-Fi. Some guy in the parking lot is. He doesn't care about the match. He cares about the tens of thousands of phones in his range with their owners too distracted to check what they just connected to.
+
+The fix is boring and old-fashioned: use your mobile data, verify network names before connecting, and treat every ""free Wi-Fi"" prompt at a public event as suspicious by default.
+
+If you've been to a major sporting event recently and connected to anything called ""Free\_WiFi,"" ""Guest\_Network,"" or ""Stadium\_Public,"" it's worth running the audit above just in case. Better an hour of paranoia than a weekend of cleanup.
+
+Anyone else been hit at a stadium or fan zone? Curious what network names are being used in other cities — the more these get documented, the easier they are to spot.",1,1778482194.0,u_seoul-tv,0,1.0,False
+1t9vbej,https://www.reddit.com/r/DailyGuess/comments/1t9vbej/can_you_guess_this_5letter_word_puzzle_by/,Can You Guess This 5-Letter Word? Puzzle by u/CoffeeIsPeace,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/DailyGuess/comments/1t9vbej),1,1778481915.0,DailyGuess,2,1.0,False
+1t9vb3y,https://www.reddit.com/r/u_ComprehensiveTone787/comments/1t9vb3y/a_journal_i_found_part_2/,A journal I found - part 2,"Hey guys, Kova again. As I transcribe this, I can’t help but reflect on my own trip underground. I knew it’d be cold and wet. I grew up with basements and was familiar with the insulating properties of the earth. You cannot prepare yourself for how suffocating it can be. When the tour guide shut off the lights for a moment, it was as if the world itself crashed down on me. I knew the ceiling was 120 feet above me, but unable to see it, it felt as if it were on top of me. And though every noise in the cave echoed for miles, when nothing makes noise, the silence builds in your ears like a tightening pair of ear muffs. 
+
+I think about this expedition team, sent off into the abyss with their flashlights as their only light. How the ever encompassing darkness must have felt like it was wrapping around them, with no ability to tell night from day. Can you imagine what they must have felt?
+
+May 21st, 9:32 pm
+
+We’ve entered the cave. We agreed to take off at night, to enjoy the sunlight as much as we could. We’ve only been in for a few hours at this point, and we’re setting up our first base camp.
+
+Management agreed, since we have the supplies and we left so late at night, we can extend the mission by a day. 4 days underground. 
+
+It’s harder to write in this journal than I expected. I didn’t really think about having to hold the flashlight while I do it. 
+
+Jeff’s telling his stories, using the shadows from his flashlight to make the horrors of his ancient folk tales. Everyone is getting along nicely, at least. 
+
+May 22nd. 5:13 am
+
+I slept like a rock. And now that’s written down, memorialized forever. 
+
+Everyone looks pretty restless, though. Sarah, of course, was the first to be awake, preparing breakfast MREs for the team like the leader she is. Instant cave coffee is shit.
+
+Jeff slept the longest out of all of us. 7 whole hours. It’s apparently morning, not that anyone can tell. It’s eerie, no sun or birds to wake up to.
+
+Emily snores. A true testament to how the walls carved by water form amplifying acoustics better than most auditoriums. I’ll have to check the seismic records when I get back up top.
+
+May 22nd, 11:48 am
+
+Emily is really handy. She can read the sonar data and map a course straight ahead for us. We’ve come to a few dead ends so far. This cave system is twisty and turny and forks off a lot, so there’s still plenty to explore. Hell, it’s practically endless.
+
+There’s a cliff up ahead. Sarah says we shouldn’t try to descend it, but Emily is sure there is ground only a little way down. She hasn’t been wrong yet, I believe her.
+
+We put it to a vote. Carlos, still nervous about being here at all, thinks it’s dangerous. He sided with Sarah. Jeff sided with Emily, much to her joy. We’ve all been trained for this anyway. 
+
+May 22nd, 12:12 pm
+
+Jeff's anchor slipped, and he fell on the way down. Thankfully, not far, maybe 5 feet. No serious injuries, he assures us he’s fine. Although he’s yelling at Emily and Sarah as they try to patch up his cuts.
+
+Jeff landed on some kind of pottery. It was empty, and now mostly broken. He’s excited to have found it, and more so that he doesn’t recognize it. 
+
+We’ve decided to camp here for a bit to study the pottery, and to make sure Jeff really is okay. Carlos is compulsively testing the ropes to make sure the other anchors don’t slip. I should talk to him.
+
+May 22nd, 8:16 pm
+
+	Carlos noticed some rocks that looked unnatural. He said they didn’t belong here, with this kind of formation. He noticed them as we were descending further. 
+
+	We went to investigate them, and they have paintings on them. There were paintings of a beast, large and slender, unlike anything I’ve recognized. Jeff told us that it was likely an early rendition of the Genoskwa, a man-eating giant with skin as hard as the cave itself. 
+
+	I’m not a cave painting expert, but this creature looks far frailer. I couldn’t imagine this depiction having any strength to it at all.
+
+	As we chose our final resting point for the night, Jeff told us another story the painting reminded him of. He said the Mohawks had a myth of a man who got so hungry he ate himself until he was just a skeleton. 
+
+	Carlos isn’t doing well. He keeps looking back, jumping at every shadow. Sarah’s noticed too. I’m guessing he won't sleep much tonight.",1,1778481887.0,u_ComprehensiveTone787,0,1.0,False
+1t9vayt,https://www.reddit.com/r/pearlsdentalclinic/comments/1t9vayt/get_stain_free_teeth_with_dental_scaling_by_best/,Get stain free teeth with dental scaling by best dentist in Jammu at Pearls Dental Clinic jammu,"Remove Deep Stains with Professional Teeth Whitening
+
+Stains from tea, coffee, and smoking can dull your smile over time. With expert teeth whitening in jammu, you can effectively lift these stains and restore a cleaner look. At Pearls Dental Clinic, we offer advanced whitening treatments for patients in gandhinagar  jammu
+
+Our procedure is controlled and enamel-safe, ensuring visible improvement without damage. If you’re searching for teeth whitening near me or the best teeth whitening clinic near me, our clinic provides reliable cosmetic dental care.",1,1778481876.0,pearlsdentalclinic,0,1.0,False
+1t9va23,https://www.reddit.com/gallery/1t9va23,Decluttering from my wife's gourmand collection,"Al Rehab - French coffee (90ml / 100ml)
+
+Khadlaj - Fursan White (only test sprays missing)
+
+Both perfumes are fully macerated.
+
+Alrehab (2024 batch)
+
+Khadlaj (2025)
+
+Both are true BEAST performers in winters
+
+2-3 hours of projection and full day longevity (I get even more from khadlaj)
+
+French coffee bought from Fragstalk
+
+Khadlaj bought from ScentAdda perfume shop (Taimoor Nagar, Delhi)
+
+Selling price:
+
+Al rehab: 1000/-
+
+Fursan: 2000/-
+
+\+ shipping
+
+Take both for 2900 + shipping",1,1778481790.0,desifragdeclutter,2,1.0,False
+1t9v9og,https://www.reddit.com/r/LoveLetters/comments/1t9v9og/daydreams/,Daydreams,"Sometimes I find myself daydreaming…  
+Silly little things,  
+Like waking beside you listening to you snore,  
+Hair a wreck, sleepwalking on cold floors into the kitchen to make our coffee,  
+Drinking it together in silence, or talking about what the plan is for the day, current affairs or discussing our dreams from the night before,  
+Cracking eggs making us breakfast,  
+Sitting under the sun tending the garden while you’re enjoying your own hobbies,  
+Sneaking behind you to hug you,  
+Smelling your cologne, your skin, your hair,  
+Putting my hands in your shirt on your chest and feeling your heartbeat,  
+Speaking with only our eyes,  
+Catching your hand as you walk by to  
+Pull you in for a kiss.
+
+But I guess everyone daydreams like this.  
+I’m tired, I think I’ll go to bed now. Goodnight.",5,1778481754.0,LoveLetters,1,1.0,False
+1t9v9nv,https://www.reddit.com/r/BuyItForLife/comments/1t9v9nv/need_strong_coffee_recommendations/,Need strong coffee recommendations,"I'm struggling with long study sessions, anxiety, and very low energy. My sleep schedule is completely messed up i barely get 5 hours sleep and even that is interrupted. I feel dull and sleepy in the afternoon
+
+At this point i need a strong coffee recommendation to help me stay alert and fight sleepiness. Taste and budget are not priorities right now. I'm looking for the strongest options available for a serious energy boost.
+
+Please let me know if you have any other suggestions to help me handle this situation.",0,1778481753.0,BuyItForLife,14,0.4,False
+1t9v9nd,https://www.reddit.com/r/u_Character_Move_7822/comments/1t9v9nd/the_hollywood_smile_guide_choosing_between/,The 'Hollywood Smile' Guide: Choosing Between Veneers and Lumineers,"If you live in Los Angeles, you already know that a bright, symmetrical smile is more than just a confidence booster it is a personal signature. Whether you are stepping into a boardroom in Downtown LA or an audition room in Burbank, your smile often speaks before you do.
+
+When patients come to **Top LA Dentals** asking for that flawless ""Hollywood Smile,"" the conversation almost always turns to porcelain. Specifically, patients want to know the difference between the two heavyweights of aesthetic dentistry: traditional porcelain veneers and Lumineers.
+
+If you are currently **choosing between veneers and Lumineers**, you likely have a lot of questions. Which one looks more natural? Does it hurt? And what is the real **cost of veneers vs. Lumineers**?
+
+In this comprehensive guide, we are stripping away the marketing jargon to give you the honest, clinical truth about which **cosmetic dental treatment** is right for your face.
+
+# What Are Traditional Dental Veneers?
+
+Traditional dental veneers are the gold standard of cosmetic dentistry. They are ultra-thin shells of medical-grade porcelain custom-crafted by a master ceramist to fit over the front surface of your teeth.
+
+**The Process:** To ensure the veneer lies flat and looks completely natural, your dentist must prepare the tooth. This involves gently removing a fraction of a millimeter (about 0.5mm) of your natural enamel. This prevents the final result from looking bulky or ""chiclet-like.""
+
+# The Pros of Traditional Veneers:
+
+* **Total Transformation:** Because they have a slight thickness to them, traditional veneers are exceptional at masking deep, dark stains (like those from tetracycline antibiotics) that cannot be bleached.
+* **Structural Correction:** They can correct mild to moderate crowding, gaps, and rotated teeth.
+* **Lifelike Light Reflection:** High-end porcelain mimics the exact light-reflecting properties of natural dental enamel.
+
+https://preview.redd.it/ck9nw863fg0h1.jpg?width=2816&format=pjpg&auto=webp&s=9bb53d7e6787df05db998a1b84d5bd36763e03bb
+
+# What Are Lumineers? (The ""No-Prep"" Alternative)
+
+Lumineers are actually a specific brand of veneers made from a patented, ultra-strong ceramic called Cerinate. Their main selling point is their thinness. At roughly 0.2mm thick, they are comparable to a contact lens.
+
+**The Process:** Because they are so thin, Lumineers are often marketed as a ""no-prep"" or ""minimal-prep"" option. In many cases, the dentist does not need to remove any of your natural tooth enamel. The Lumineer is simply bonded directly to the front of your existing tooth.
+
+# The Pros of Lumineers:
+
+* **Preservation of Enamel:** If you decide you no longer want them in 15 years, the process is technically reversible because your natural enamel is still intact.
+* **Speed:** The application process is generally faster and requires fewer visits.
+* **Comfort:** Because there is rarely any drilling or enamel removal, Lumineers are one of the most popular **painless smile makeover options**.
+
+# The Big Question: Are Lumineers Better Than Veneers?
+
+Patients frequently ask our LA cosmetic team, ""**Are Lumineers better than veneers?**"" The honest answer is: **No, they are just different tools for different jobs.**
+
+Lumineers are fantastic, but they are not for everyone. Because they add a layer to your existing tooth without removing any enamel, they can make your teeth look thick or ""bulky"" if your teeth are already large or slightly protruding.
+
+Furthermore, because Lumineers are so thin and translucent, they struggle to hide severely discolored teeth. If you put a translucent white lens over a dark yellow tooth, the yellow will still show through.
+
+**The Verdict:** If your teeth are already relatively straight, small, and light in color and you just want to add volume and perfect the shape, Lumineers are incredible. If you want to fix crooked teeth, close large gaps, or cover deep stains, traditional porcelain veneers will yield a much more natural, stunning result.
+
+https://preview.redd.it/q5526y87fg0h1.jpg?width=2816&format=pjpg&auto=webp&s=b554a36c55c50f0ad83afbf74838649c9c8852e2
+
+# How to Choose Dental Veneers That Fit You
+
+Getting a smile makeover is an art form. When discussing **how to choose dental veneers**, we look far beyond just picking a shade of white. At Top LA Dentals, we utilize a Facial-Driven Design approach.
+
+Here is what our cosmetic experts analyze before making a recommendation:
+
+* **Face Shape:** Long, narrow faces benefit from slightly wider veneers to create balance, while round faces look best with longer, more slender teeth.
+* **Lip Dynamics:** We evaluate how your upper lip moves when you smile and speak. The edges of your upper teeth should naturally follow the curve of your lower lip.
+* **Skin Tone:** Going ""paper white"" can actually wash out your complexion. We select a custom shade that brightens your face while maintaining a realistic warmth.
+
+# The Financial Investment: Cost of Veneers vs Lumineers
+
+Quality cosmetic dentistry in Los Angeles is an investment in your self-esteem and your professional image.
+
+Generally speaking, the **cost of veneers vs lumineers** is quite similar.
+
+* **Traditional Veneers** require more chair time and highly specialized lab work to craft the individual porcelain shells, which factors into the cost.
+* **Lumineers** require less chair time, but because the Cerinate material is proprietary and must be sent to the official DenMat lab, the lab fees are often higher.
+
+At Top LA Dentals, we believe in complete transparency. During your consultation, we provide a flat-fee breakdown for both options. We also offer flexible financing to ensure your dream smile doesn't disrupt your lifestyle.
+
+# Painless Smile Makeover Options
+
+If fear of the dentist has kept you from achieving the smile you want, it is time to reconsider. Modern cosmetic dentistry is incredibly gentle.
+
+Because Lumineers often require no enamel removal, the procedure is entirely needle-free and drill-free. Even with traditional veneers, we use advanced local anesthetics and offer various sedation options to ensure you are completely relaxed. Most of our patients watch a movie on our overhead screens while we work, experiencing zero discomfort.
+
+# FAQs
+
+# Q1: How long do veneers and Lumineers last?
+
+**Ans:** With proper care (daily brushing, flossing, and regular cleanings), both traditional veneers and Lumineers can last 10 to 15 years, and often much longer.
+
+# Q2: Can I stain my new veneers with coffee or wine?
+
+**Ans:** No! One of the greatest benefits of high-quality dental porcelain is that it is non-porous. Unlike natural enamel, your new veneers will not stain from your morning coffee or evening red wine.
+
+# Q3: Will I have to wear temporary teeth?
+
+**Ans:** If you choose traditional veneers, yes. While your permanent veneers are being crafted in the lab, you will wear custom ""temporaries"" for about two weeks. With Lumineers, because your teeth aren't shaved down, you usually do not need temporaries.
+
+# Q4: Do they feel like real teeth?
+
+**Ans:** Absolutely. Once bonded, they become a permanent part of your tooth structure. You eat, speak, and brush exactly as you normally would.
+
+# Conclusion: Let the Experts Guide You
+
+**Choosing between veneers and lumineers** shouldn't be a guessing game, and it isn't a decision you have to make alone. The success of your smile makeover depends entirely on the skill, eye, and experience of your cosmetic dentist.
+
+At **Top LA Dentals**, we have transformed thousands of smiles across Los Angeles. We don't do ""cookie-cutter"" dentistry. We take the time to analyze your unique facial structure, listen to your goals, and recommend the precise **cosmetic dental treatment** that will make you look and feel your absolute best.
+
+# Ready for Your Hollywood Smile?
+
+Your perfect smile is waiting. Stop wondering ""what if"" and come see what is possible.
+
+* **View Our Before & After Gallery:**[ www.topladental.com](https://www.topladental.com/)
+* **Visit Our LA Office:** Centre of LA",1,1778481751.0,u_Character_Move_7822,0,1.0,False
+1t9v9f1,https://www.reddit.com/r/MakeNewFriendsHere/comments/1t9v9f1/26_f_cant_sleep_in_need_of_some_new_friends/,"26 F can't sleep, in need of some new friends","Can't sleep, looking for a good chat. Just don't be a creep and keep things sfw.
+
+It would be cool to make some new friends as well : )
+
+I'm a grad student who likes reading, spending time outdoors, cats, coffee, and fun trips.
+
+hmu with your age and let's chit chat about random stuff and see if we vibe. 
+
+[](https://www.reddit.com/submit/?source_id=t3_1t8zw6g&composer_entry=crosspost_prompt)
+
+",1,1778481730.0,MakeNewFriendsHere,4,1.0,False
+1t9v96e,https://www.reddit.com/r/Anxiety/comments/1t9v96e/solutions_for_extreme_exam_anxiety/,Solutions for extreme exam anxiety,"TW: brief mention of self-harm
+
+Hello, a little background about me:
+
+I have been diagnosed with severe generalised anxiety disorder and have been going to Cognitive Behavioural Therapy for about 1.5 years. I have seen many improvements in my overall anxiety.
+
+My issue is It tends to manifest intensely during exams; I often aggressively vomit the day before and of an exam. Because of this I can’t eat before exams, can’t drink before exams, sometimes I genuinely can’t move from the nausea and anxiety.
+
+I also unwillingly wake up very early and sleep horribly the night before, but I can’t drink coffee to lessen my tiredness- I found out the hard way that it makes everything much much worse. The one time I did it was so intense I took dirty scissors from the art room and was about to SH (I never had before), but luckily a teacher walked in.
+
+Every other part of my anxiety has gotten better and I feel like I’ve done everything I can to help outside of meds, but this just keeps getting worse and I’m so tired. My therapist is very hesitant to start anxiety medication because of addiction, which I agree with.  
+Every time I look for solutions online it just says to breathe deeply and study a lot in advance- I always study in advance and have always gotten top grades, needless to say it hasn’t helped.
+
+Any advice is appreciated, If you’ve read all this thank you",2,1778481706.0,Anxiety,1,1.0,False
+1t9v8ie,https://i.redd.it/w2oa3cm0fg0h1.jpeg,"Yrr, cold coffee pine me maja atta he bahut😋",,1,1778481641.0,slayingIndia,1,1.0,False
+1t9v84e,https://www.reddit.com/r/AppliancesTrends/comments/1t9v84e/brera_gaggia/,brera gaggia,"Has anyone here tried the [**brera gaggia**](https://pureluxy.com/gaggia-brera-espresso-machine/) for daily use? I’m looking for something convenient but still capable of making café-quality drinks at home.
+
+Most reviews say it’s super easy to use, which is great for mornings when you just want coffee fast. But I’m wondering if that convenience sacrifices flavor or crema quality.
+
+Would you recommend it for someone who drinks espresso every day?",1,1778481605.0,AppliancesTrends,0,1.0,False
+1t9v81l,https://www.reddit.com/r/Fitness_India/comments/1t9v81l/suggest_strong_coffee_brands/,Suggest strong coffee brands,"I'm struggling with long study sessions, anxiety, and very low energy. My sleep schedule is completely messed up i barely get 5 hours sleep and even that is interrupted. I feel dull and sleepy in the afternoon
+
+At this point i need a strong coffee recommendation to help me stay alert and fight sleepiness. Taste and budget are not priorities right now. I'm looking for the strongest options available for a serious energy boost.
+
+Please let me know if you have any other suggestions to help me handle this situation.",1,1778481598.0,Fitness_India,0,1.0,False
+1t9v71j,https://www.reddit.com/gallery/1t9v71j,I gave my best friend the pink bag she would never have bought for herself.,"My best friend is the kind of person who remembers everything.
+
+Your favorite coffee order.
+
+The song you played on repeat after a breakup.
+
+The tiny details you mention once and forget.
+
+She’s the first person to celebrate your wins and the first to show up when life falls apart.
+
+But when it comes to herself, she always says the same thing:
+
+“I don’t need anything.”
+
+A few months ago, we were shopping together when she picked up this little pink bag.
+
+She turned it over in her hands, smiled, and said quietly,
+
+“This is so pretty.”
+
+Then she put it back.
+
+I asked why.
+
+She shrugged and said,
+
+“It’s not something I really need.”
+
+That answer broke my heart a little.
+
+Because if there is anyone in my life who deserves something beautiful just because it makes her happy, it’s her.
+
+So for her birthday, I wrapped it up.
+
+When she opened the box, she got very quiet.
+
+Then she looked at me and said,
+
+“You remembered.”
+
+That was all.
+
+Three simple words, and suddenly neither of us could stop crying.
+
+I think the most meaningful gifts aren’t about the item itself.
+
+They’re about letting someone know:
+
+I notice the things you love.
+
+I remember the things you don’t ask for.
+
+And you deserve beautiful things too.
+
+Every time I see her carrying this bag, I’m reminded how lucky I am to have a friend like her.
+
+And how good it feels to love someone in a way they can actually hold.
+
+Have you ever given someone a gift that said everything you didn’t know how to say?",3,1778481502.0,RepHermes,8,1.0,False
+1t9v6l1,https://www.reddit.com/r/nurburgring/comments/1t9v6l1/need_help/,need help😭,"Hey everyone,
+
+Bit of a long shot, but I’m currently stuck around the Nürburgring area and trying to get back to Cologne this morning.Deutsche Bahn absolutely destroyed my original plan 😭
+
+I’m a design student from Milan doing a Nürburgring weekend trip alone, and unfortunately seems like all the bus are cancelled…
+
+If anyone is driving towards Köln/Cologne and happens to have a spare seat, I’d be super grateful. Happy to help with fuel costs, snacks, coffee, whatever.Can also get dropped anywhere with train access nearby.
+
+I travel light (just a backpack), speak English/Chinese and some Italian, and I promise I’m not a serial killer — just a slightly sleep-deprived Nürburgring pilgrim.",5,1778481460.0,nurburgring,1,1.0,False
+1t9v657,https://www.reddit.com/gallery/1t9v657,Saw a 10/10 daddie at cafe searching for his daughter,"Just a normal day at cafe, people drinking coffee, eating food, holding hand, kissing and shit.
+
+But yesterday something spicy happened. At exactly 12:17, a couple walked inn, clearly chopped, failed drips and both looking like NPCs who accidentally got voice lines and immediately regretted it. 😭🤮(Reference picture 2)
+
+They ordered a cappuccino and some garlic bread, like bro who orders Garlic Bread with CAPPUCCINO?!?!!? Their taste is so catastrophically finished, I'm convinced their tongue and brain had a massive falling out and decided to sabotage each other for life.🤡☠️
+
+The couple started making out, like Bro STOP!!! nobody wants to see THAT🙅‍♀️🙈🙊🤮🥀🥀
+
+Then an unc with a black tee with ""E saral"" written on it walked in. He was jumping all around and shouting ""eye eye tea tuff h""👁️👁️☕ and ""tumahre papa ko phone lagau??"" with his tounge out the whole time🤪💦💦 (reference picture 3)
+
+The chopped couple got scared and reached climax. At that exact moment the real thing happened. A 10/10 40y/o koreanboo walked in😘🥰😍. His drip was soo cool that I had 3 orgasms fr💦💦. jawline was so sharp, he could cut that couple into pieces (ifykyk)😏😏 (dad in picture 4)
+
+The couple got dressed and idk from where in the world's ""Top 10 most cringe moment"" ahh video, the boy started giving a TED TALK . His talk was so bad and cringe like, if cringe had a Hall of Fame, his lines would be the MVPs 🙏🥀🥀 (reference picture 5)
+
+But my focus was elsewhere. I was looking at the father and gooning to him🤭🥴 (pic 6) .Just for him, i started playing "" pyar kiya toh Darna kya, pyar kiya tohh nibhana""😘💖💝💦. I directed the whole moment myself. Everything I did was just for the father🤭🤗
+
+But he left, story end.🥺🥺
+
+
+
+I my mind, we already were making out. He picked up his cigarette and lit it. And I asked him, what are we mr.dad??(reference picture 7)",2,1778481417.0,ICSE,6,0.75,False
+1t9v640,https://www.reddit.com/r/Fitness_India/comments/1t9v640/hello_guys_need_suggestions/,Hello guys. Need suggestions.,"Hello everyone. 
+
+I'm a 23 Male, 6'1"", 80kg and I have recently started working out. It's my first time in a gym. I live in a rural area and I have no prior knowledge of what to eat apart from some things.
+
+I am listing my daily schedule here from breakfast to dinner and help would be very much appreciated. As I already mentioned i come from rural area so I have lots of dairy products in my diet.
+
+
+Pre workout (4:30 AM) - 1 banana and a cup of black coffee 
+
+Post workout (6:30 AM) - Chana chat or besan chila with juice made of 5 almonds, 5 cashews, 10 kismis, pumpkin seeds, sunflower seeds, 2 anjeer, 2 khajur with 2 banana and approx 250ml milk
+
+At 9:00 AM - approx 700-800ml milk
+
+Lunch (12:30 PM) - Rice with 50g soya chunks and 200g curd OR 6 Chapati with dal and curd
+
+Snacks (4:00 PM) - 50g peanuts with some fruits 
+
+Dinner (7:30 PM) - 6 Chapati with sabji and 200g curd
+
+Before bed (10:00 PM) - 700-800ml Milk
+
+
+P.S. - I'm not attaching any photo as I am specifically asking about diet. Thank you.",1,1778481414.0,Fitness_India,0,1.0,False
+1t9v5n4,https://i.redd.it/ydd640h7eg0h1.jpeg,Christmas coffee can Chex mix,"I grew up hoping I’d get one of these every Christmas. That savoury taste was SOO good! And whenever I got one, it was always disappointing, whatever relation made it inevitably skimped on the ingredients. 
+
+I’m eating a bag of commercial Chex Mix right now and reminiscing about the olden days when I rode my dinosaur to Xmas dinner 😂",1,1778481369.0,GenerationJones,0,1.0,False
+1t9v5ck,https://www.reddit.com/r/dating_advice/comments/1t9v5ck/does_this_girl_like_me/,Does this girl like me??,"Sorry in advance because this is kinda long 😭 I just genuinely need some outside perspective because I feel like I’m losing my ability to tell what’s friendly vs romantic anymore.
+
+Earlier this semester I had feelings for a girl in my class/group and asked her out for coffee. She rejected me really nicely, but afterward things got awkward and distant between us. That whole situation honestly messed with my head more than I expected.
+
+At the same time though, there’s another girl in the group who I’ve gotten a lot closer to recently, and now I genuinely can’t tell if there’s something there or if she’s just an incredibly sweet person. After the first rejection, I’m honestly terrified of misreading things again. Also they both are friends, not close, they just met this semester just like me, but still friends. 
+
+A few things that happened:
+
+\- Me, her, and another friend got coffee one night and ended up hanging out for around 4 hours just talking about life, stories, relationships, family stuff, etc.  
+\- During that hangout she admitted she expected me to spend the whole time talking about the girl who rejected me, and I basically responded “why would I?” which seemed to surprise her.  
+\- A few days later I invited her to walk around our school’s garden before class because I framed it as my “good luck finals ritual” (which was completely made up 😭). Her response was: “Am I that readable? OMG yes, I’ve been wanting to go.”  
+\- The garden thing didn’t end up happening because of timing, but after class that same day we randomly ended up alone together in the library from around 7 PM until midnight.  
+\- We talked literally the entire time. We played games, raced around in library chairs, joked around, talked about movies, love, therapy, family issues, insecurities, childhood stories, finals stress, everything.  
+\- At one point she brought up an embarrassing Instagram comment she had seen where I was being dramatic about getting rejected earlier in the semester 😭 I got awkward and quiet afterward, and she started imitating me scratching my hair and avoiding eye contact and joked: “It’s like I’m watching a movie.”  
+\- I made a joke about there being an awkward silence and she immediately responded: “There is no awkward silence. There hasn’t been any at all.”  
+\- She kept asking questions that honestly felt like she was trying to figure me out psychologically.  
+\- We talked a lot about love and rom-coms. I literally explained the plot of my favorite romance movie to her for like 15 minutes and she stayed fully invested the whole time.  
+\- She listened to me ramble about wrestling, basketball, movies, storytelling, random nerdy interests, etc.  
+\- At one point I said I am a nerd but i don’t want people to know cause I think nerds aren’t likable and she responded with “I I think nerds are likable. I should know.”  
+\- She told me my eyes “say a lot.”  
+\- We did a lot of teasing/playful banter throughout the night.  
+\- She shared her hair clip with me so I could tie my hair back.  
+\- While we were leaving she realized I was the one wearing a cologne she liked and literally leaned around smelling me again 😭  
+\- We ended up getting food together around 1 AM because she kept hinting at wanting food and later admitted she had been “waiting for me to ask.”  
+\- Multiple times I asked if she wanted to leave and she kept saying no, she wanted to stay and keep talking.  
+\- She mentioned that her normal study group had been texting her for hours wondering where she was, but she ignored them and stayed with me instead.  
+\- At one point she said she learned that I’m “a really great guy… more than she thought.”  
+\- We also had some genuinely vulnerable conversations about emotions, hurting people unintentionally, family issues, etc. When I talked about how guilty I feel if I hurt someone emotionally, she told me most guys wouldn’t care about that.  
+\- She also said she could tell I liked the first girl way before I ever asked her out “just by intuition.”
+
+The biggest thing for me honestly is just how calm I felt around her. It didn’t feel forced or performative. I genuinely just liked hearing her talk and spending time with her.
+
+But after getting rejected earlier in the semester, I genuinely don’t trust my ability to read situations anymore 😭 Part of me feels like this is obviously building toward something, and another part of me thinks she might just be a very emotionally intelligent and sweet person.
+
+My friends and even my sister reacted with “WHAT???” when I told them we hung out alone for 6+ hours and she still didn’t want to leave.
+
+So I guess my questions are:
+
+\- Does this sound romantic/flirty to you guys or just emotionally close friendship?  
+\- Am I overthinking this?  
+\- Should I actually try asking her out at some point?  
+\- If so, how would you approach it without making things weird?
+
+Would really appreciate some honest outside perspectives because I feel trapped in my own head about it 😭",1,1778481341.0,dating_advice,5,1.0,False
+1t9v576,https://www.reddit.com/r/gardening/comments/1t9v576/recommendation_on_community_garden_rules/,Recommendation on community garden rules?,"Hello, three friends and I recently took on running our local community garden. There are no established rules at the moment so we are pretty much starting from scratch.
+
+Anyway, what are some good rules I should have for it? Also, good tips for running it? Id like to have an area for people to could have their own plots but I also want a lot of the garden to be for the community. Right now, I'm thinking about giving those who volunteered over the season first dibs on harvest.
+
+I also want to have it be a good/beautiful place for people to come and enjoy a coffee, picnic, take professional pictures, etc since there isn't really anywhere like that where I live (small rural desert town). 
+
+Thank you for any suggestions!",3,1778481326.0,gardening,1,1.0,False
+1t9v55v,https://www.reddit.com/r/gaggiaclassic/comments/1t9v55v/question_about_shades_of_coffee_steam_valve/,Question about shades of coffee steam valve,Hi! Are the shades of the coffee steam valve harder to turn than the original one? Cause I installed it yesterday and found that it feels different from the original. Also need to mention that I applied silicon grease.,1,1778481323.0,gaggiaclassic,0,1.0,False
+1t9v507,https://i.redd.it/68h8xiw0eg0h1.jpeg,Upcoming plein air/ art picnic - Bellerive pier,"Another casual sketchy meetup, this time around Bellerive Pier. Open to all types of people and all arty abilities. Come along for a morning of drawing/ painting.
+
+This Saturday 16th at 10am, meeting at the pier outside Cocomo + Co in case anyone wants to grab a coffee first.
+
+We’ll have the option to paint the scene of the water with the mountain backdrop, the boats, or any close-up items we might like (there are sea stars, oysters, ducks, nice vegetation) - lots of good choices!
+
+Some snacks and basic hot tea/ coffee provided, byo picnic blanket or chair to get comfy. I’ll have some basic art supplies available if you want to try stuff (sketching and coloured pencils, watercolour paints) otherwise byo.",3,1778481308.0,hobart,0,1.0,False
+1t9v43r,https://www.reddit.com/r/WhatShouldIDo/comments/1t9v43r/does_this_girl_like_me/,Does this girl like me??,"Sorry in advance because this is kinda long 😭 I just genuinely need some outside perspective because I feel like I’m losing my ability to tell what’s friendly vs romantic anymore.
+
+Earlier this semester I had feelings for a girl in my class/group and asked her out for coffee. She rejected me really nicely, but afterward things got awkward and distant between us. That whole situation honestly messed with my head more than I expected.
+
+At the same time though, there’s another girl in the group who I’ve gotten a lot closer to recently, and now I genuinely can’t tell if there’s something there or if she’s just an incredibly sweet person. After the first rejection, I’m honestly terrified of misreading things again. Also one more thing, her and the other girl are friends, not super close they just met this semester just like me. 
+
+A few things that happened:
+
+\- Me, her, and another friend got coffee one night and ended up hanging out for around 4 hours just talking about life, stories, relationships, family stuff, etc.  
+\- after that hangout she admitted she expected me to spend the whole time talking about the girl who rejected me, and I basically responded “why would I?” which seemed to surprise her.  
+\- A few days later I invited her to walk around our school’s garden before class because I framed it as my “good luck finals ritual” (which was completely made up 😭). Her response was: “Am I that readable? OMG yes, I’ve been wanting to go.”  
+\- The garden thing didn’t end up happening because of timing, but after class that same day we randomly ended up alone together in the library from around 7 PM until midnight.  
+\- We talked literally the entire time. We played games, raced around in library chairs, joked around, talked about movies, love, therapy, family issues, insecurities, childhood stories, finals stress, everything.  
+\- At one point she brought up an embarrassing Instagram comment she had seen where I was being dramatic about getting rejected earlier in the semester 😭 I got awkward and quiet afterward, and she started imitating me scratching my hair and avoiding eye contact and joked: “It’s like I’m watching a movie.”  
+\- I made a joke about there being an awkward silence and she immediately responded: “There is no awkward silence. There hasn’t been any at all.”  
+\- She kept asking questions that honestly felt like she was trying to figure me out psychologically.  
+\- We talked a lot about love and rom-coms. I literally explained the plot of my favorite romance movie to her for like 15 minutes and she stayed fully invested the whole time.  
+\- She listened to me ramble about wrestling, basketball, movies, storytelling, random nerdy interests, etc.  
+\- At one point I said I am a nerd but i don’t like people to know cause I think nerds aren’t likable and she responded with “I I think nerds are likable. I should know.”  
+\- She told me my eyes “say a lot.”  
+\- We did a lot of teasing/playful banter throughout the night.  
+\- She shared her hair clip with me so I could tie my hair back.  
+\- While we were leaving she realized I was the one wearing a cologne she liked and literally leaned around smelling me again 😭  
+\- We ended up getting food together around 1 AM because she kept hinting at wanting food and later admitted she had been “waiting for me to ask.”  
+\- Multiple times I asked if she wanted to leave and she kept saying no, she wanted to stay and keep talking.  
+\- She mentioned that her normal study group had been texting her for hours wondering where she was, but she ignored them and stayed with me instead.  
+\- At one point she said she learned that I’m “a really great guy… more than she thought.”  
+\- We also had some genuinely vulnerable conversations about emotions, hurting people unintentionally, family issues, etc. When I talked about how guilty I feel if I hurt someone emotionally, she told me most guys wouldn’t care about that.  
+\- She also said she could tell I liked the first girl way before I ever asked her out “just by intuition.”
+
+The biggest thing for me honestly is just how calm I felt around her. It didn’t feel forced or performative. I genuinely just liked hearing her talk and spending time with her.
+
+But after getting rejected earlier in the semester, I genuinely don’t trust my ability to read situations anymore 😭 Part of me feels like this is obviously building toward something, and another part of me thinks she might just be a very emotionally intelligent and sweet person.
+
+My friends and even my sister reacted with “WHAT???” when I told them we hung out alone for 6+ hours and she still didn’t want to leave.
+
+So I guess my questions are:
+
+\- Does this sound romantic/flirty to you guys or just emotionally close friendship?  
+\- Am I overthinking this?  
+\- Should I actually try asking her out at some point?  
+\- If so, how would you approach it without making things weird?
+
+Would really appreciate some honest outside perspectives because I feel trapped in my own head about it 😭",1,1778481221.0,WhatShouldIDo,2,1.0,False
+1t9v40f,https://www.reddit.com/r/MakeNewFriendsHere/comments/1t9v40f/20f_i_fear_the_iced_coffee_is_winning/,20F I fear the iced coffee is winning,"update from the large iced coffee situation earlier: the jitters are finally calming down but now i’m low-key a little nauseous 😭 like why does caffeine go from “wow i can conquer the world” to “i need to lay perfectly still and rethink my choices” so fast lol
+
+i swear there’s no middle ground with coffee for me. either it does absolutely nothing or it sends me into another dimension and then leaves me fighting for survival on my bed afterward 💀
+
+anybody else get like this after too much caffeine or am i just weak LMAO",3,1778481212.0,MakeNewFriendsHere,5,1.0,False
+1t9v3xo,https://www.reddit.com/r/Entrepreneurs/comments/1t9v3xo/need_help_focusing/,Need help focusing,"I (19M) need help focusing into my ecom business.
+
+I mostly spend time on my computer at my desk, but focusing becomes a real challenge.
+
+I try to keep my desk clean (pc, nuts to eat, water, pc accessories)
+
+I drink coffee and energy drinks to focus also, but it looks like I'm burning out mentally
+
+I also have a job on the side, which leaves me with no time to have fun or do something that I like, that may also be the issue",2,1778481203.0,Entrepreneurs,0,1.0,False
+1t9v3em,/r/IndiaCoffee/comments/1t9ujwd/best_strong_coffee_recommendations/,BEST STRONG COFFEE RECOMMENDATIONS,,1,1778481156.0,SnacksIndia,0,1.0,False
+1t9v3c1,https://www.reddit.com/r/Akola/comments/1t9v3c1/good_cafe_reccomendations_for_coffee_and_please/,Good cafe reccomendations for coffee and please no chai sutta bar reccomendations. I need a proper cafe,"Bhua amravati se aayi hai. Unko achi coffee pini hai ache cafe and all mei.
+
+Batado yaaroo",3,1778481150.0,Akola,8,1.0,False
+1t9v34a,https://i.redd.it/w8znpsrhdg0h1.jpeg,Anime_irl,,8,1778481129.0,anime_irl,2,0.9,False
+1t9v218,https://www.reddit.com/r/BangaloreMeetups/comments/1t9v218/anyone_free_on_monday/,Anyone free on Monday,Anyone free around Mahadevpura. Coffee on me if you are a girl too and we both can go somewhere shopping together in Pheonix or watch a movie.,0,1778481026.0,BangaloreMeetups,7,0.4,False
+1t9v1xh,https://i.redd.it/3jvoz8q5dg0h1.jpeg,#WEATHER & COFFEE 😍,,1,1778481017.0,PakPhotographers,0,1.0,False
+1t9v18f,https://www.reddit.com/gallery/1t9v18f,Corporate trauma really gets rebranded as Character Development on LinkedIn.,"the best part is how these stories are always framed like I suffered unnecessarily, therefore everyone else should too.
+
+heads-up, my next post is how my boss spat in my coffee so that i could get my daily steps in by walking from my desk to the coffee machine 😎",14,1778480956.0,LinkedInLunatics,8,0.94,False
+1t9v10l,https://www.reddit.com/r/sleephackers/comments/1t9v10l/i_hit_snooze_every_morning_for_4_years_fixing_it/,"I hit snooze every morning for 4 years, fixing it changed my entire life","I want to be upfront, I didn’t think I had a problem.
+
+I thought I was just tired. I thought I needed more sleep. I thought some people are morning people and some people aren’t, and I was just wired differently.
+
+That was cope. My alarm would go off at 7am. I’d tap snooze. 7:09. Snooze. 7:18. Snooze. 7:27. Snooze.
+
+Eventually I’d panic at like 7:50, throw myself out of bed, skip breakfast, sometimes skip a shower, and rush out the door already stressed before the day had even started.
+
+Every single morning.
+
+And then I’d spend the rest of the day paying for it.
+
+I’d get to work still half asleep, spend the first hour just waiting to feel human, grab coffee after coffee trying to force my brain to function.
+
+My productive window was tiny. Maybe a couple of hours in the late morning before I’d hit an afternoon slump and basically write off the rest of the day.
+
+I was getting through life, but never on top of it. I assumed that was just how I was built.
+
+I was 26 and I had basically never had a good morning in my adult life.
+
+The actual problem
+
+I tried fixing my sleep first because that seemed logical. Earlier bedtime, no screens before bed, magnesium, cooler room, all of it.
+
+Some of it helped at the margins, but I’d still wake up and immediately tap snooze without even thinking about it. Muscle memory. My hand would find the phone before my eyes were even open.
+
+That was the real issue, and it took me embarrassingly long to figure it out.
+
+The native iOS alarm is just too easy to dismiss. You’re half asleep, completely irrational, and you have one job: tap a button and go back to sleep.
+
+Of course you’re going to do it.
+
+You’re not making a conscious decision, your body is just doing what it’s done a thousand times before. I had five alarms set and I was bypassing all of them basically in my sleep.
+
+Every morning I was starting the day with an immediate failure. Before I’d even got out of bed I’d already broken a promise to myself.
+
+And that energy carried into everything else.
+
+What actually changed things
+
+A few months ago I came across an app called Waken.
+
+The idea is simple, but it genuinely felt annoying when I first read about it, which probably should have told me something.
+
+When your alarm goes off you have to complete a task before it stops. Not tap a button. Actually do something.
+
+Some mornings it’s push ups. Some mornings it sends you on an object hunt around your place. You have to find something specific, take a photo of it, and the app analyses the photo before the alarm turns off.
+
+Other mornings it’s going outside and photographing the sky, or making your bed, or doing sit ups.
+
+You cannot dismiss it until the task is done.
+
+There is no snooze. There is no way out. You either do the task or the alarm keeps going.
+
+The first morning I used it I was furious. It was 7am and I had to find my TV remote and take a photo of it before the alarm would stop.
+
+I was stumbling around my flat half asleep genuinely annoyed.
+
+But I was awake.
+
+Properly awake.
+
+Not groggy, not half conscious, actually up and moving.
+
+And then I just kept going.
+
+Week one: brutal
+
+The first week was rough honestly. My brain was fighting me every morning.
+
+I’d wake up to the alarm, remember I couldn’t just snooze it, and feel this flash of resentment.
+
+Some of the tasks felt genuinely hard at 7am. Push ups when you’ve just woken up are not pleasant. Hunting for an object around your flat when you’re barely conscious feels absurd.
+
+But that’s exactly the point.
+
+By the time I’d done it I was awake. Not just technically out of bed, actually awake and moving.
+
+I started noticing that after completing the task I had momentum. I was already up, already moving, so I’d just keep going.
+
+Made coffee. Did a stretch. Ate breakfast for the first time in probably two years.
+
+By day five I started setting one alarm instead of five.
+
+Week two: something shifted
+
+The second week the mornings stopped feeling like punishment.
+
+I was waking up, completing the task, and then actually having time before I had to leave. I’d forgotten what that felt like.
+
+I’d sit and eat breakfast without rushing. I’d go outside for ten minutes. I’d get to work without that frantic, already-behind energy that had defined my mornings for years.
+
+My first hour at work changed completely.
+
+Instead of spending it waiting to feel human, I was actually functional when I sat down. I was getting more done before lunch than I used to get done in an entire day.
+
+The afternoon slump basically disappeared.
+
+I think I’d been running on a deficit every single day from starting my mornings already stressed and behind. Once I fixed the start, the rest of the day sorted itself out.
+
+A month in
+
+A month in and I don’t recognise my mornings.
+
+I wake up before my alarm some days now. I have a full routine. I work out most mornings, I eat a proper breakfast, I get outside before I sit down to work.
+
+I’m at my desk focused and ready by the time I used to still be negotiating with myself in bed.
+
+My productivity has probably doubled.
+
+Not because I discovered some complicated system or started waking up at 5am, just because I stopped losing the first hour of every day and starting from a deficit.
+
+That one change compounded into everything else.
+
+I’ve built a streak in Waken which sounds like a small thing, but genuinely motivates me not to break it. Milestones unlock as you go. It makes something as simple as getting out of bed feel like progress, which it is.
+
+What I actually think happened
+
+Hitting snooze every morning wasn’t just a bad habit in isolation.
+
+It was a signal I was sending myself every single day before I’d even got out of bed.
+
+You told yourself you’d wake up at 7.
+
+You didn’t.
+
+You failed before the day started.
+
+And that failure compounded. It affected how I felt about myself, how I approached the rest of the day, the kind of person I thought I was.
+
+I had genuinely convinced myself I wasn’t a morning person.
+
+But I wasn’t a morning person because I was sabotaging every morning before it began.
+
+The moment I made it impossible to snooze, my mornings fixed themselves almost automatically.
+
+If you hit snooze every day
+
+Count how many alarms you actually have set right now.
+
+If it’s more than one, you already know you have a problem.
+
+The issue isn’t your sleep. The issue is that your alarm requires nothing from you.
+
+You will always take the path of least resistance at 7am because you are not a rational person at 7am.
+
+You need to make the easy option unavailable.
+
+Make waking up require something.
+
+It doesn’t have to be complicated. It just has to be something your half-asleep brain cannot bypass on autopilot.
+
+The first few days will feel annoying. Push through it.
+
+By week two your mornings will look different.
+
+By week four you won’t remember why you ever needed five alarms.
+
+Where I’m at now
+
+Four months ago I was hitting snooze five times every morning, rushing out the door stressed, spending half my day waiting to feel awake, and writing off my mornings as something I was just bad at.
+
+Now I wake up on time, have a real routine, and do more before 10am than I used to do before lunch.
+
+My days feel longer in a good way. I feel like I’m actually living them instead of just recovering from the start.
+
+Fixing my mornings didn’t fix my entire life overnight.
+
+But it fixed the foundation everything else was built on.
+
+Stop hitting snooze.
+
+You’re not tired.
+
+You’re just choosing the easiest option available.
+
+Take that option away.",1,1778480937.0,sleephackers,0,1.0,False
+1t9v09c,https://i.redd.it/v500z80qcg0h1.gif,H: 350 Canned Coffee W: T60 Helmet Plan,,1,1778480869.0,Market76,2,1.0,False
+1t9uzfg,https://www.reddit.com/r/AlasFeels/comments/1t9uzfg/what_would_you_do_if_you_were_me/,What would you do if you were me?,"I’m talking to this girl. She’s sweet and flirtatious in person whenever we go out, but she’s really dry and unresponsive over chat. Bilang lang sa daliri reply nya sa isang araw (literally) 
+
+Additional context: she just got out of an 8-year relationship around 2 months ago. Her ex was abusive she said.
+
+What I can’t stop wondering is, why is she so warm and sweet in person, but distant in chats? Nag aaya lumabas, sine, coffee. Meanwhile, every time she messages me, I reply almost instantly like an idiot lol. Then her next reply usually comes 3+ hours later, whether it’s a weekday or weekend.
+
+I’m aware there’s a chance I’m just a rebound or someone helping her pass the time while she heals. I also know she’s probably still emotionally unavailable. But honestly, I’m having a hard time distancing myself because of the mixed signals
+
+If you were me, what would you do?  
+Would you risk it and stay patient?  
+Or would you distance yourself while it’s still early?
+
+Kelangan ko lang masampal ng realidad.
+
+",1,1778480791.0,AlasFeels,3,1.0,False
+1t9uzen,https://www.reddit.com/r/enlistedgame/comments/1t9uzen/what_style_of_event_do_you_prefer/,What style of event do you prefer ?,"Alright time for a poll. 
+
+I like a public poll it's good to see where the communities heads at. 
+
+So for today's poll I'm going to ask 
+
+Do you prefer getting 25K in two days before the event stage resets
+
+Or do you prefer getting 60K but as soon as you reach that goal it resets and you can grind for the next event. 
+
+This was the case for the saboteur class 
+
+Four soldiers to unlock by getting 60 K over the course of a month. 
+
+Anyway. I'll enjoy my morning coffee. And you guys can enjoy the poll. 
+
+Big thanks to u/MarquesTreasures who actually gave me the idea 
+
+So. Shout-out to him. 
+
+Anyway. Good morning
+
+[View Poll](https://www.reddit.com/poll/1t9uzen)",2,1778480788.0,enlistedgame,7,1.0,False
+1t9uyg9,https://www.reddit.com/r/makemoneyuk/comments/1t9uyg9/klarna_virtual_debit_card_offer_get_10_after_3/,Klarna - Virtual Debit Card Offer – Get £10 After 3 Purchases!,"Klarna is currently offering a £10 reward for both new and existing users who sign up for a virtual debit card and complete the qualifying spend requirements. There’s also a referral scheme paying up to £40 per successful invite.
+
+**Here are the steps:**
+
+1. [**Sign up using this referral link**](https://l.klarna.com/22XC/invite_drcn1EJg1H1_b-Om)
+2. Select the free account option
+3. Activate the virtual debit card
+4. Add at least £15 to the account
+5. Make 3 separate card purchases worth at least £5
+
+Once all three qualifying transactions have settled, the £10 reward is usually credited instantly.
+
+**Please Note -** Klarna seems to have tightened checks around what counts as an eligible transaction. Transfers to accounts such as Monzo, Revolut, Trading212, etc. are reportedly no longer qualifying.
+
+The safest approach is to use the card for genuine everyday spending. For example:
+
+* Split a supermarket shop into 3 separate payments
+* Buy lunch and/or coffee a few times
+* Use it for regular low-cost purchases you’d make anyway
+
+After completing the offer yourself, you’ll unlock the referral programme and can earn up to £40 per person you invite, subject to Klarna’s referral limits and terms.
+
+[Non-referral Link](https://klarna.com) \- **No Bonus.**",2,1778480695.0,makemoneyuk,4,1.0,False
+1t9uxsk,https://l.klarna.com/22XC/invite_vP8RVi0rS_2fShWQ,🚀 Easy £10 Bonus + Your Chance to earn £400 with Klarna!,"Looking for a quick win? Klarna is currently offering a **£10 reward** for new card users, and once you're in, you can earn up to **£400** by referring your own friends (£40 per referral!).
+
+I’ve already bagged **£80** from just two friends, it’s super straightforward and moves fast.
+
+**🛠️ How to get your £10 in 4 simple steps**:
+
+1.	**Accept the Invite:** Click my link \[Insert Your Referral Link Here\] to join.
+
+2.	**Get the Klarna Card:** Sign up for the Klarna Card and add it to your **Digital Wallet** (Apple Pay or Google Pay) for instant use.
+
+3.	**Shop 3 Times:** Use your Klarna card to make **3 separate purchases**.  
+• Note: Each purchase must be at least **£5**.
+
+4.	**Get Paid:** Once your 3rd purchase clears, your reward is yours!
+
+**💰 Why this is a top-tier deal:**  
+• **Speed:** You don’t have to wait for a physical card to arrive. Add it to your phone and start your 3 shops immediately.  
+• **The Big Money:** Once you’ve signed up, you get your own referral link. Klarna pays **£40 per friend** you invite.  
+• **Huge Potential:** You can invite up to 10 friends, meaning a total potential payout of **£400** for you!  
+**⚠️ A few quick tips**:  
+• You have **30 days** from signing up to finish your 3 shops.  
+• Transfers and top-ups don't count—just use it for your morning coffee, lunch, or some groceries!",2,1778480635.0,Referraluk,3,1.0,False
+1t9ux0n,https://i.redd.it/a2pjozzsbg0h1.jpeg,Band discovery: 10 to the chest,"Morning guys! It's 8am for me and I start like always... 
+
+Black coffee and metal recs. 
+
+So what's your opinion on 10 to the chest? 
+
+Any similar bands I should try? ",2,1778480561.0,MetalForTheMasses,2,0.75,False
+1t9uwvt,https://www.reddit.com/r/AmITheJerk/comments/1t9uwvt/aitj_for_feeling_sidelined_when_my_coworker_tried/,AITJ for feeling sidelined when my coworker tried to take credit for my presentation?,"Sitting in the office break room around midday, coffee machine making that annoying bubbling sound again, and my coworker just casually drops that she’s going to use my entire presentation for the client pitch.
+
+I still had the file open on my laptop, cursor blinking, like I hadn’t even processed what she said yet. I’ve been working on this for days, staying late, fixing layouts at home, even skipping lunch yesterday just to get it right. My eyes were literally burning from the screen.
+
+She’s standing there eating yogurt, spoon tapping the cup loudly, scrolling through my slides over my shoulder like it’s already hers. Then she goes, “You’re better at the backend design stuff anyway, I’ll present it, I’m more client-facing.”
+
+I just froze for a second. Like… what?
+
+There was this awkward silence, even the room felt louder somehow. I asked, “Wait, what do you mean?” and she laughed and said, “Don’t worry, I’ll make it sound good.”
+
+That part honestly got me. I just slowly closed my laptop, trying not to react too much.
+
+Now I’m sitting here wondering if I’m overthinking it or if I just got completely sidelined in my own work.
+
+It still feels off, like I didn’t even get a choice in it.
+
+AITJ",8,1778480550.0,AmITheJerk,12,0.75,False
+1t9uvzt,https://www.reddit.com/gallery/1t9uvzt,Moved to LA and struggling to find customers for my ceramics,"I’m a ceramic artist who recently moved to LA from Armenia. Back home, my work was really popular and I had a strong customer base, but since moving here 7 months ago, I’ve been struggling to get orders.
+
+I make handmade ceramic mugs and different pottery pieces, but I specialize in custom pet mugs. I know my work is good I just feel lost when it comes to finding customers in LA.
+
+I’m very active on Instagram and TikTok, but Etsy hasn’t worked well for me so far.
+
+Would really appreciate any advice from artists, small business owners, or anyone who’s grown a handmade business in LA.  
+How did you find your first customers? Markets? Coffee shop collabs? Content ideas? Anything helps 🙏
+
+Lunare Ceramics",12,1778480464.0,Ceramics,2,1.0,False
+1t9uut0,https://www.reddit.com/r/ExpatFinance/comments/1t9uut0/used_the_same_card_for_4_years_and_one_move_broke/,Used the same card for 4 years and one move broke the whole setup,"Used the same debit card for almost 4 years. Worked across two countries in southeast Asia, was the closest thing I had to a constant.
+
+Moved to Portugal two weeks ago. Suddenly there's a 1.5% FX fee on everything I buy. Monthly fee kicked in too because I don't qualify for the free tier anymore without a local salary feeding the account, and the ATM cap is half of what it was.
+
+The local bank route isn't quick either. The non-resident process wants paperwork I don't have collected yet, so in the meantime I'm bleeding money on coffee and groceries.
+
+Went through a version of this last time I moved too. The setup tax of relocating is starting to feel heavier than the move itself.
+
+How do you all handle the card layer when you actually live across countries long term? Not interested in the private banking version. Just the boring problem of wanting one card that doesn't quietly get worse every time my address changes.",1,1778480349.0,ExpatFinance,2,1.0,False
+1t9uuoc,https://i.redd.it/2wznfye0bg0h1.png,11th May Daily Challenges,[11th May Daily Walkthrough](https://www.coyotejack.net/red-dead-dailies/) is posted. Starting in New Hanover today before heading over to Lemoyne.,6,1778480338.0,RedDeadOnline,0,1.0,False
+1t9uuk6,https://www.reddit.com/r/pakcoffee/comments/1t9uuk6/help_me_find_these_coffee_beans/,Help me find these coffee beans,"Hi Guys, where can I find hadero beans here in Pak. ",1,1778480327.0,pakcoffee,0,1.0,False
+1t9uu53,https://www.reddit.com/r/Market76/comments/1t9uu53/h18_leaders_w_180_canned_coffee/,H:18 leaders W: 180 canned coffee,,1,1778480288.0,Market76,9,1.0,False
+1t9ut8w,https://www.reddit.com/r/qatar/comments/1t9ut8w/coffee_enthusiasts_in_qatar/,Coffee enthusiasts in Qatar,"Hey everyone 👋
+
+I’m currently planning to launch an online coffee business here in Qatar and wanted to get some thoughts from the community.
+
+The idea is to focus more on specialty coffee tools, brewing essentials, and coffee merch such as:
+
+* Drippers (V60, Origami, etc.)
+* Paper filters
+* Water mineral packets for better brewing
+* Specialty coffee beans from international roasteries
+* Home brewing accessories
+* Coffee-related merch (shirts, tote bags, mugs, stickers, etc.)
+
+I noticed that while coffee culture in Qatar is growing fast, some niche brewing products are still hard to find locally or are expensive because of shipping.
+
+**Do you think there’s a market for this kind of business here?**  
+**What products do you personally wish were easier to buy in Qatar?**
+
+Also would appreciate any advice regarding:
+
+* importing coffee beans/tools
+* customer preferences in Qatar
+* pricing expectations
+* delivery/logistics
+* competition I should study
+
+Would love to hear honest thoughts and suggestions before fully diving in. Thanks 🙌☕",4,1778480207.0,qatar,0,1.0,False
+1t9usth,https://www.reddit.com/r/PaperWritingHelper/comments/1t9usth/the_restaurant_job_where_my_manager_let_me_study/,The restaurant job where my manager let me study during slow shifts,"I waited tables at a diner near campus. It was dead between 2 PM and 5 PM. No customers. Nothing to do.
+
+My manager said *you can study as long as you put the book down when someone walks in.*
+
+I wrote three papers at that diner. I studied for two finals. I drank free coffee.
+
+Not all managers are monsters. Some understand that you are a student first.
+
+If you are looking for a part time job, look for slow shifts. Early mornings. Late afternoons. Weekday lunch. Times when customers are rare.
+
+Ask in the interview. *Is there downtime during shifts where I could study?*
+
+If they say no, they are not the right job for you.
+
+Have you ever had a job that let you study on the clock? What was it? Best job ever. ☕",1,1778480165.0,PaperWritingHelper,0,1.0,False
+1t9usp6,https://www.reddit.com/r/nespresso/comments/1t9usp6/vertuo_up_lever_psa/,Vertuo Up - Lever PSA,"Hey coffee lovers. Might sound obvious but we just got our Up delivered this morning and to our surprise one of the things we saw at the store that we thought was a feature is actually not - the capsule lever can stop midway from closed to fully open (when it is basically in a vertical orientation). We have a pantry with some shelves and after measurements we thought the Up would be usable if we could open the lever halfway only - and it does indeed fit our shelf. However, with the lever at said position, the capsule is unable to be fully inserted since the mechanism to press it only fully retracts when the lever is fully raised. 
+
+TL;DR - the lever’s halfway point stop might be there to prevent it from falling from the vertical position and damaging the machine, but it isn’t usable for capsule handling. ",3,1778480155.0,nespresso,0,1.0,False
+1t9urkj,https://www.reddit.com/r/tifu/comments/1t9urkj/tifu_by_peeing_on_my_kitten/,TIFU by peeing on my kitten.,"Fairly typical day working from home, decided to have a break and put a coffee on and went to the toilet. While standing there doing my thing, I hear one of the kittens scratching in the litter box behind me. No big deal, they seem to like to do their business at the same time as me.
+
+Given I had already had a couple of coffees already, there was substantial output and I was starting to wind up what was a long and satisfying wee, when out of no where, the cat in question jumped into the toilet. Not only was the toilet completely full of urine, but because I was not quite finished so she is copping it from above as well. The now rather distressed and urine soaked cat makes a run for it. Running through the house leaving a trail behind her, I eventually grab her, and now what? I quickly head to the laundry and give her a warm bath in the sink (luckily she doesn't mind a bath and I think she realized it was an improvement over her current situation). Quickly sprayed cleaner on the worst of the trails and wiped them up (luckily she didn't make it upstairs to the carpeted area), then sent the robot vacuum/mop on a thorough clean, and back to my meeting like nothing had happened,
+
+  
+tl;dr; Cat jumped in the toilet while was taking a leak, urine soaked cat then ran around the house trying to escape.",20,1778480051.0,tifu,18,0.79,False
+1t9ur4u,https://www.reddit.com/r/b2bmarketing/comments/1t9ur4u/most_of_your_best_b2b_leads_already_knew_they/,most of your best B2B leads already knew they were going to reach out before you ever touched them and your attribution model has no idea,"let me walk you through a situation that genuinely changed how i think about B2B marketing.
+
+imagine you close a really strong deal. good fit, fast cycle, champion who was already sold before the first sales call. so you go into your CRM and attribution dashboard to figure out what drove it.
+
+it says the source was a google ad. last click. and on paper that looks like a win for paid search.
+
+but then you get on a post sale call with the customer and you ask them casually how they first heard about you.
+
+and they say something like ""oh i've been following your content for about eight months. one of your linkedin posts came up in a conversation in a slack community i'm in. then i saw your CEO mention something in a podcast three months later. then a peer in my network mentioned you over coffee. by the time i searched for you and clicked that ad i had already basically decided.""
+
+the google ad didn't generate that lead. it just happened to be standing at the finish line when someone who was already sold finally raised their hand.
+
+the concept is called the dark funnel. and it describes all the invisible touchpoints that actually shaped the buyer's decision before they ever entered your trackable world. community conversations, word of mouth, organic content shares, podcasts, slack groups, industry events, peer recommendations. none of it shows up in your attribution model. all of it is doing the real work.
+
+the scary part is most B2B marketing teams are optimising budgets and cutting channels based on attribution data that is only capturing maybe thirty percent of what actually influenced the buyer.
+
+so you end up defunding the things that are building real awareness and doubling down on the things that just happen to be last in line.
+
+has anyone actually built a way to measure or at least account for dark funnel influence in how you make budget decisions? because i feel like most teams either ignore it or acknowledge it exists and then go back to optimising last click anyway.",1,1778480009.0,b2bmarketing,2,1.0,False
+1t9uq1f,https://www.reddit.com/r/NevernessToEverness/comments/1t9uq1f/fastest_way_to_spend_city_stamina/,Fastest way to Spend City Stamina?,"Reached Tycoon lvl 23 and got the 700 Stamina cap. But how can i spend it on the fastest way?
+
+Doing the same Task over and over is absolute boring with how little Stamina is used. Ive done the Coffee minigame last week and 30 sec for 12 Stamina is very effective but after 5 minutes i was totally bored out of it.
+
+Arent there Tasks that cost 100+ Stamina? Do the Devs really expect us to do the same boring tasks for Hours every Week?",1,1778479910.0,NevernessToEverness,26,0.67,False
+1t9uodm,https://i.redd.it/yqsg877g9g0h1.jpeg,What was the last text she sent before ghosting you?,"“GPS says it’s about 20 minutes out, see you soon!”
+
+So anyway I’m sure her and some other dude had a good laugh while I sat in a parking lot for about an hour before accepting she was indeed not going to see me soon. 
+
+Adobo coffee rubbed chicken leg, fire roasted tomatillo sauce with cilantro lime rice.  
+Bonus points if you can name the technique I used in the drumstick",12,1778479769.0,BoyDinnerDiaries,4,1.0,False
+1t9unbw,https://www.reddit.com/r/espresso/comments/1t9unbw/different_extraction_time_same_setting_eureka/,Different extraction time - same Setting [Eureka Libra GbW],"Hello coffee lovers,
+
+I have the following Problem: I am grinding with a eureka libra gbw grinder.
+
+Currently I am drinking very dark beans, italian roast, 80/20 mix.
+
+Yesterday I had 18g in and 36g out in about 30 seconds. Today it was 18g and 36g out in 20 seconds….same beans, same grinding setup
+
+To my Workflow: I am grindig, wdt, Distributing and tamping….93 degrees celsius and 9 bar pressure
+
+I Hope that anybody could help or give me some advice for a New grinder ….
+
+(Sorry if there are any english mistakes - I am no native speaker….)",1,1778479680.0,espresso,0,1.0,False
+1t9un5y,https://v.redd.it/4ycyf9g49g0h1,260511 MEOVV MCOUNTDOWN x Mega Concert - Message From Meovv,[Source](https://x.com/mega_mgc_coffee/status/2053709184160452791),1,1778479663.0,Narin,0,1.0,False
+1t9umjn,https://www.reddit.com/r/FortCollins/comments/1t9umjn/anyone_know_whats_up_past_and_present_with_the/,Anyone know what’s up (past and present) with the auto repair shop at Stover and Myrtle?,"I’m just curious what the word on the street is about the place. It seemed busy at night, but not during the day when it was R&L Automotive (and in the years before that to be honest), and cars seemed to be in the parking area for random amounts of time. One night I passed by and there were a dozen or so cop cars surrounding it, and they seemed to be shut down pretty abruptly.
+
+Anyway, the building seems to be bright yellow as of last week and there’s been a very nice white Jag outside. I was wondering if anyone knew what the future holds for it. Personally, I would love a cafe or coffee shop in the area.",1,1778479611.0,FortCollins,0,0.6,False
+1t9umhc,https://v.redd.it/epebowey8g0h1,260511 MEOVV MCOUNTDOWN x Mega Concert - Message From Meovv,[Source](https://x.com/mega_mgc_coffee/status/2053709184160452791),2,1778479605.0,sooin,0,1.0,False
+1t9uly5,https://www.reddit.com/r/MauritiusSocial/comments/1t9uly5/hello_not_sure_if_this_is_still_active_but_im/,"Hello, not sure if this is still active, but im looking to meet up, hang out with and just chill. if you're around curepipe, hit me up!","Hello, not sure if this is still active, but im looking to meet up, hang out with and just chill. if you're around curepipe, hit me up!
+
+Hello! M18 (soon 19), im just looking to be able to meet, hang out, chat and overall just chill with somebody (preferably a girl)
+
+We could talk about our life experiences, future plans and stuff like that over a coffee or whilst on a walk?
+
+Been going through a rough patch, just need somebody to talk to.
+
+In case you noticed, yes i posted this on another community too, just wasn't getting any reaction lol
+
+If you're interested, please dm me or just comment, thanks!",2,1778479560.0,MauritiusSocial,2,1.0,False
+1t9ulbi,https://v.redd.it/w33ivwgn8g0h1,260511 MEOVV MCOUNTDOWN x Mega Concert - Message From Meovv,[Source](https://x.com/mega_mgc_coffee/status/2053709184160452791),5,1778479504.0,gawon,0,1.0,False
+1t9ukw8,/r/IndiaCoffee/comments/1t9ujwd/best_strong_coffee_recommendations/,BEST STRONG COFFEE RECOMMENDATIONS,,2,1778479468.0,SnacksIndia,0,1.0,False
+1t9uknr,https://www.reddit.com/r/AutismAustralia/comments/1t9uknr/i_will_call_you_later_to_meetuphave_a_coffee/,"""I will call you later to meetup/have a coffee""","Anyone getting really annoyed about this constant promise from typicals?
+
+Like the amount of times coworkers are very friendly and nice and say that only to then forget your existence is so damn frequent.
+
+Like I had a coworker promise he would do that and mention it multiple times after we were in a long trip for work.
+
+Never happened, and since we worked in different departments we never interacted again.
+
+  
+I am not even offended they forgot me, it is clear they had better things to do, the difference is I know I have better things to do so I will never make such promises unless I actually mean it.
+
+Why is outright lying to others or to yourself so socially acceptable?",2,1778479447.0,AutismAustralia,4,0.75,False
+1t9ujwd,https://www.reddit.com/r/IndiaCoffee/comments/1t9ujwd/best_strong_coffee_recommendations/,BEST STRONG COFFEE RECOMMENDATIONS,"I am preparing for a competitive exam, and my sleep schedule is completely messed up. I need a strong coffee recommendation to help me stay alert and fight sleepiness.
+
+Taste and budget are not my priorities right now. I am looking for the strongest options available. Please suggest the best coffee for a energy kick.",0,1778479380.0,IndiaCoffee,5,0.33,False
+1t9ujhz,https://www.reddit.com/r/newzealand/comments/1t9ujhz/helping_out_a_friend/,Helping Out a Friend,"Hi everyone!
+
+Some of you may remember this, some may not. A little over a month ago, i made a post on here regarding a young (22m) Filipino lad who had come up to Auckland from Hamilton to study at UoA. He originally posted on here asking about spots to park/freedom camp, as he was new to the city, had no friend or whanau up here, and was planning to just live out of his car and attend uni. His issue was that his car had no WOF or rego so he was looking for places where he could park and not get found, and pinged. 
+
+So i reached out to him personally and said hey look, it aint much but i live in a quiet neighborhood. Ur welcome to come park here on my lawn so its on private property, and i have a couch u can crash on for a wee while, so you have a roof over your head and all. (The key to this is that i said he could stay for a lil bit, just temporary, to give him time to find his feet, try save a bit of money, and get used to our fair city) and not only that, this entire time i have let him stay here for free. Just trying to be good hearted. 
+
+Anyway that was Feb 3rd. Its now almost halfway thru May and i feel like up until this point I've been reasonably generous. He's not a bother, a nuisance or a danger to anyone. He's a quiet kid who keeps to himself, always has his nose in a book, or is out and about. But i feel like he needs his own proper room/space, as living in my lounge isnt very private for him, and also as we get into the colder months, i have nowhere to host my parents when they come for a coffee and aee my kids (we're already a family of 4 excluding this dude)
+
+What I was wondering is, is there anybody out there in Auckland with a spare room, or sleepout, or currently looking for a flatmate - ANYTHING like that at all for this guy? Im not asking for anyone to do what im doing for him and letting him live with you for free. Thats a bit far fetched, and i dont expect anyone else to have the same sorta aroha and soul as me. But I just thought i would put my feelers out and see whats out there. Now, being Reddit, i am prepared for scathing skepticism, negative opinions and all the rest of it, but i am merely a good Samariten trying to pay it forward and live life on the good path. But if anyone knows of anything, please me know. Im a giver, and I just want to help. ",37,1778479346.0,newzealand,25,0.88,False
+1t9uj4r,https://www.reddit.com/r/Hypothyroidism/comments/1t9uj4r/tsh_increased_from_569_to_105_in_one_month/,TSH increased from 5.69 to 10.5 in one month despite starting Thyronorm -  possible reasons?,"My wife's thyroid results:
+
+* April:
+   * TSH: 5.69
+   * T3/T4 normal
+* May:
+   * TSH: 10.5
+   * T3/T4 still normal
+
+One thing that surprised us is that in all her previous health checkups over the years, she never had thyroid issues before. This is the first time we’ve seen abnormal thyroid values.
+
+Doctor said this suggests subclinical hypothyroidism and started:
+
+* Thyronorm 50 mcg
+* Ovastep-M for PCOD
+
+One important thing we realized:  
+She was usually drinking tea/coffee first, then taking Thyronorm, and then breakfast shortly after. We later learned this may reduce absorption significantly.
+
+Doctor also advised Anti-TPO antibody testing and endocrinologist review.
+
+Has anyone seen TSH jump this much within a month?
+
+Would appreciate experiences/advice.",1,1778479312.0,Hypothyroidism,0,1.0,False
+1t9uiv8,https://www.reddit.com/r/auckland/comments/1t9uiv8/helping_out_a_friend/,Helping Out a Friend,"Hi everyone!
+
+Some of you may remember this, some may not. A little over a month ago, i made a post on here regarding a young (22m) Filipino lad who had come up to Auckland from Hamilton to study at UoA. He originally posted on here asking about spots to park/freedom camp, as he was new to the city, had no friend or whanau up here, and was planning to just live out of his car and attend uni. His issue was that his car had no WOF or rego so he was looking for places where he could park and not get found, and pinged. 
+
+So i reached out to him personally and said hey look, it aint much but i live in a quiet neighborhood. Ur welcome to come park here on my lawn so its on private property, and i have a couch u can crash on for a wee while, so you have a roof over your head and all. (The key to this is that i said he could stay for a lil bit, just temporary, to give him time to find his feet, try save a bit of money, and get used to our fair city) and not only that, this entire time i have let him stay here for free. Just trying to be good hearted. 
+
+Anyway that was Feb 3rd. Its now almost halfway thru May and i feel like up until this point I've been reasonably generous. He's not a bother, a nuisance or a danger to anyone. He's a quiet kid who keeps to himself, always has his nose in a book, or is out and about. But i feel like he needs his own proper room/space, as living in my lounge isnt very private for him, and also as we get into the colder months, i have nowhere to host my parents when they come for a coffee and aee my kids (we're already a family of 4 excluding this dude)
+
+What I was wondering is, is there anybody out there in Auckland with a spare room, or sleepout, or currently looking for a flatmate - ANYTHING like that at all for this guy? Im not asking for anyone to do what im doing for him and letting him live with you for free. Thats a bit far fetched, and i dont expect anyone else to have the same sorta aroha and soul as me. But I just thought i would put my feelers out and see whats out there. Now, being Reddit, i am prepared for scathing skepticism, negative opinions and all the rest of it, but i am merely a good Samariten trying to pay it forward and live life on the good path. But if anyone knows of anything, please me know. Im a giver, and I just want to help. ",5,1778479290.0,auckland,7,0.73,False
+1t9uiqf,https://www.reddit.com/r/ask_privacy/comments/1t9uiqf/how_to_use_facebook_marketplace_without_getting/,how to use facebook marketplace without getting scammed?,"my wife wants me to sell our old furniture on facebook marketplace since were redecorating the basement...  last time i tried selling something online it was on craigslist in 2015 so im pretty out of touch  
+i need to know how to use facebook marketplace without getting scammed or having weirdos show up at my house... heard horror stories from my coworker who sold a bike and ended up with 3 different people texting him at 2am asking dumb questions  
+  
+my wife says just create a separate facebook account but apparently facebook bans those now if they catch you. and using the family account means anyone i sell to can see pics of my kids which feels gross  
+also the messaging system is weird... do i give them my real number or keep it on messenger? what about meeting up - my house seems sketchy but a parking lot at night also seems sketchy  
+im trying to sell an old couch (too big to easily move), coffee table, some kids toys the kids outgrew and an exercise bike (used twice lol)  
+My questions: do you put exact address or just neighborhood? meet at house or somewhere public? accept cash only or are payment apps safe now? how to deal with lowball offers without being rude?  
+really dont want to deal with the privacy nightmare but also dont want to just throw this stuff away when its still good... my buddy said just put it on the curb with a free sign but my wife says thats trashy  
+anyone selling regularly on facebook marketplace? hows the privacy situation in 2026? feels like everything you do online now requires giving up too much personal info just to sell a used couch
+
+",1,1778479279.0,ask_privacy,0,1.0,False
+1t9ug5z,https://www.reddit.com/r/Preworkoutsupplements/comments/1t9ug5z/dark_labs_euphoria_capsules_went_beyond/,"Dark labs - Euphoria capsules went beyond expiration date, is it still usable? (MM-YYYY = 03-2026)","Hi everyone, i had ordered euphoria capsules from Dark Labs (and also a few other stuff) a few years ago. I haven’t used it in a long time because i stopped going to the gym because of private stuff. I still have a lot of these Euphoria capsules left, and i remember them being extremely nice to take alongside a daily driver, or even just 2 cups of coffee!
+
+My question was if it would be okay for me to still take them, even if they’re now 2 months over the expiration date?
+
+As far as I’ve learned from my doctor a while back when i was in hospital, is that expiration dates in tablets and/or capsules can exceed far greater time, talking about YEARS that exceeded the date which is written on the box or whatever your pills/capsules are in, to let these medicine get “bad” or not potent enough. (FYI, this was about pharmaceutical medicine only). So i wondered if this would also be applicable with these euphoria caps, because i just saw that they were sold out everywhere.
+
+It’d be heartbreaking to throw them away too, but i won’t take them nor throw them away unless i’ve read you peoples’ opinions, because i’ve taken medicine that was expired a lot of times and at most, the only thing noticeable was just a slight potency decrease. This stuff isn’t really what u can call “medicine” so that’s why i don’t want to do anything stupid, yet..😉 Ty in advance for helping me out!",2,1778479063.0,Preworkoutsupplements,2,1.0,False
+1t9uf8q,https://www.reddit.com/r/pittsburgh/comments/1t9uf8q/looking_for_a_local_indie_band_to_open_for_on_our/,Looking for a local Indie Band to open for on our tour,"Hey! My name is Benny La Mar, I'm a inde-folk singer-songwriter from Nashville, Tennessee. I'm looking for a local band or two to set up a show with specifically on August 21st. Open for any kind of gig! Brewery, coffee shop, dive bar, you name it. I will have my entire sound system with me so I am happy to supply that at whatever venue. Let me know if you are or know any bands that could be down for this! Shoot me a message and I can send over my music and see if we're a fit! Thanks!",2,1778478979.0,pittsburgh,0,1.0,False
+1t9uf68,https://www.reddit.com/r/relationship_advice/comments/1t9uf68/i_19f_am_not_sure_if_a_guy_19f_likes_me_or_not/,I (19F) am not sure if a guy (19F) likes me or not,"Ive been talking to/hanging out with this guy for the past month or two and im not sure if hes interested in me. 
+
+We met eachother through a radio show club on my campus, we would just talk a little bit between his show and my show as i was after his. However, one day he asked if he could stay for my show to finish a cup of coffee and now he stays for all of my shows. 
+
+We've started hanging out a few times outside of the club. Hes asked me for help with something to do with the club ish and ive asked him on a walk. Last week, we went on a walk that ended up being a 6 hour adventure around the city where we ended up getting dinner together. Now this weekend we hung out again going out for another 6 hours around the city on saturday and then on sunday we hung out for about 2 hours. 
+
+However, we dont really text outside of hanging out. Sometimes we have small conversations but its never much aside from asking eachother to hang out. I cant tell if hes into me or not because i feel like he could just being friendly? He seems like he likes getting to know me and stuff but he hasn't made any crazy moves.
+
+Any advice/opinions on if he likes me or not would be appreciated. Thank you!",0,1778478972.0,relationship_advice,4,0.33,False
+1t9uf2l,https://www.reddit.com/r/TanongLang/comments/1t9uf2l/anuanong_lugar_ang_worth_it_puntahan_sa_intramuros/,Anu-anong lugar ang worth it puntahan sa Intramuros?,"Ayon I'm planning to meet up with a friend sa intra this week. Hindi kasi ako familiar sa lugar, pls recommend places that are worth to visit especially during 5 PM onwards. Padagdagan narin ng coffee shop recoms and pop up flower stands.",1,1778478964.0,TanongLang,1,1.0,False
+1t9udrz,https://i.redd.it/tyeergsp6g0h1.jpeg,Tired of switching between 5 different tools just to create one campaign?,"I built [Design Hive AI](https://designhiveai.com.au/?utm_source=chatgpt.com) to solve a problem I kept running into as a designer and marketer:
+
+Too many platforms.
+
+Too much wasted time.
+
+Inconsistent branding everywhere.
+
+So we created an AI-powered studio that helps you generate:
+
+Social media ads
+
+Product packaging
+
+Labels & stickers
+
+Menus
+
+Signage
+
+Infographics
+
+Marketing creatives
+
+—all in one workflow.
+
+The goal is simple:
+
+**Idea → Design → Campaign-ready visuals in minutes.**
+
+Some things we’re focusing heavily on:
+
+✅ Fast AI-powered generation
+
+✅ Consistent branding across visuals
+
+✅ Commercial-quality outputs
+
+✅ Templates for real business use
+
+✅ Beginner-friendly experience
+
+We’re currently building out the platform and would genuinely love feedback from designers, marketers, creators, and small business owners.
+
+You can check it out here:
+
+[Design Hive Studio](https://app.designhivestudio.ai/?utm_source=chatgpt.com)
+
+\#DesignHiveAI #AIDesign #Marketing #DigitalMarketing #GraphicDesign #AIArt #CreativeTools",1,1778478850.0,u_designhive23,0,1.0,False
+1t9ud0w,https://www.reddit.com/r/PuneIntroverts/comments/1t9ud0w/new_to_pune_like_minimalist_plain_vibes_over_a/,New to pune; like minimalist plain vibes over a good coffee,"Hi Pune folks, moved here a few months ago and realized my social life is currently just my laptop screen. Apart from this I play badminton on weekends mostly but again no particular friend group to hangout or play with.
+
+Looking for individuals (either gender) to checkout places and be my Pune buddy?
+
+Also if it matters, about me; I'm a M27.
+
+I don't drink or do Phu Phu so I would prefer if you don't do it either (I don't mind it, just a preference; no offence)
+
+I stay at Wadgaon Sheri ",1,1778478779.0,PuneIntroverts,0,1.0,False
+1t9ucth,https://i.redd.it/4ah3vdne6g0h1.png,When Technology Promises a Smart Life… But Forgets the Wi-Fi Password 😂🤖,"Technology was supposed to save time, reduce stress, and make life easier.  
+Instead, I spend 20 minutes updating apps, restarting routers, and explaining to my AI assistant that “turn off the lights” does NOT mean “play sad music.” 😅
+
+Still… we can’t live without it. 🚀",1,1778478759.0,AIChatbotTools,0,1.0,False
+1t9ucqy,https://www.reddit.com/gallery/1t9ucqy,Red Velvet for My Mama,"My mom has been baking a lot lately to cope with some health struggles she's dealing with that is keeping her out of work. She's also been making her coffee at home more and showing it off. So for Mother's Day I decorated an iced coffee cup for her. (It says:  Sweet as pan dulce) However, I gave up one of my prized unmade minis to make her a straw charm to go with it. It's a running joke that my mom's favorite cake is red velvet. 
+
+When I was growing up for some reason I thought that was her favorite and I convinced my younger siblings, stepdad, and my grandma too. She never corrected me until I was well into my 20s lol. It's actually chocolate on chocolate! She still loved this red velvet though.",7,1778478753.0,miniverse_makeitmini,0,1.0,False
+1t9ubp6,https://www.reddit.com/r/Target/comments/1t9ubp6/can_we_talk_about_this_awful_new_grocery/,"Can we talk about this awful new grocery reset/""remodel""","I've become convinced they're using AI to design POGs and sales-plans now cause what do you mean the bakery aisle got split in half, and now flour and sugar reside ten aisle down from the baking mixes? Why is bread in a completely different aisle than peanut butter? Why are coffee pods in a different aisle than coffee grounds?? Target's talking a big game about improving guest experience, but all I've heard is guest complaints because they can't find anything anymore.",7,1778478655.0,Target,1,1.0,False
+1t9ublt,https://i.redd.it/963xvgt36g0h1.jpeg,Show me your coffee mugs!,"While we focus of coffee, a good coffee mug adds to the aesthetic and experience.
+
+Share yours.",4,1778478647.0,muglife,0,1.0,False
+1t9ubhu,https://www.reddit.com/gallery/1t9ubhu,"Dehradun 🫰 : City trend, which one looks better?",,11,1778478638.0,Dehradun,5,0.76,False
+1t9uba3,https://www.reddit.com/r/espresso/comments/1t9uba3/how_to_taste_my_espresso/,How to taste my espresso??,"Not sure if I am tasting all the notes mentioned on my coffee bag. No matter which bag I use, all I really just taste is coffee. I am able to consistently get my 25 seconds 1:2 ratios (16g in 32g out on my Bambino). I do not taste milk chocolate, fruitiness. Am I missing something or do others also feel the same?",2,1778478619.0,espresso,5,1.0,False
+1t9uamx,https://www.reddit.com/r/Needafriend/comments/1t9uamx/hi_all_im_saudi_30_yo_m_looking_for_new_friends/,"Hi all, im saudi 30 yo m looking for new friends","Im a bit gloomy i listen to dark Russian hip hop music and American rap i like video games , fast cars , cursing, movies im a coffee guy . I don’t like cinemas and traveling , gym, tea , Katy Perry and niki Minaj music. Im open for football, used to not like any local teams but now hilal. And used to like ac milan in the glory days ( rolandinho - kaka - Maldini etc days ) also open to listen to Arabic music ( excluding iraqi songs and shelat ) i live in Riyadh . I smoke cigs but can quit for a long time if the person im with do not smoke. ",1,1778478563.0,Needafriend,1,1.0,False
+1t9u8tf,https://www.reddit.com/gallery/1t9u8tf,Multi Color Knit Track Sweater,Has anyone bought either color-way? How does it fit if so? Thinking about grabbing. Thanks!,1,1778478400.0,AimeLeonDore,0,0.99,False
+1t9u8kq,https://i.redd.it/yqozcna85g0h1.jpeg,Coffee mugs appreciation.,,1,1778478379.0,coffeeindia,0,1.0,False
+1t9u8cw,https://i.redd.it/yqozcna85g0h1.jpeg,Coffee mugs appreciation.,Show me the mugs!,13,1778478359.0,IndiaCoffee,10,1.0,False
+1t9u84m,https://www.reddit.com/r/MakeNewFriendsHere/comments/1t9u84m/hi_all_im_saudi_30_yo_m_looking_for_new_friends/,"Hi all, im saudi 30 yo m looking for new friends","Im a bit gloomy i listen to dark Russian hip hop music and American rap i like video games , fast cars , cursing, movies im a coffee guy . I don’t like cinemas and traveling , gym, tea , Katy Perry and niki Minaj music. Im open for football, used to not like any local teams but now hilal. And used to like ac milan in the glory days ( rolandinho - kaka - Maldini etc days ) also open to listen to Arabic music ( excluding iraqi songs and shelat ) i live in Riyadh . I smoke cigs but can quit for a long time if the person im with do not smoke. ",0,1778478338.0,MakeNewFriendsHere,1,0.33,False
+1t9u7jg,https://www.reddit.com/r/GERD/comments/1t9u7jg/how_do_i_survive_this_coffeedominated_world/,How do I survive this coffee-dominated world?,"I’m in 11th grade right now and in the middle of AP exams. I’ve had my GERD at a disabling level for almost a year now, but before that I barely drank coffee since I didn’t have any AP classes. This year, I pulled my first all-nighter,  went from 8 hours of sleep on average to about 4, and met the horrifying realization that this is just what high school does to people. All my friends feel the same way. However, all my friends have coffee daily, with zero issue. I’ve noticed something. On the day of a test, I can be prepared, awake, or painless. Never all three. Get a good nights sleep, I haven’t studied and I get a 0 on the study guide worth more than the test. Stay up late and drink coffee, acid reflux, tummy ache. Stay up late and rawdog, I’m exhausted. I’ve heard college will be worse. How do I even do this? The drug that everyone needs to function in society makes me feel like I’m constantly about to throw up.",2,1778478286.0,GERD,3,1.0,False
+1t9u65j,https://www.reddit.com/r/hungryjacks/comments/1t9u65j/is_the_jacks_cafe_biscoff_latte_actually_better/,"Is the Jack’s Cafe ""Biscoff Latte"" actually better than the McCafe version?","Hungry Jack's has really leaned into the barista game this year. I tried the Biscoff Latte this morning and I’m genuinely shocked by the quality. To the Jack’s Cafe fans: are we officially switching our morning coffee run to HJs? Also, has anyone tried the ""Dirty Chai"" hack where you add a shot to the new Chai Latte? Is it consistent across stores or does it depend on who is on the machine?",4,1778478159.0,hungryjacks,2,1.0,False
+1t9u5zq,https://www.reddit.com/r/u_Lazy-Basis6868/comments/1t9u5zq/pro_carpet_cleaning_hobart_revitalize_your_home/,Pro Carpet Cleaning Hobart: Revitalize Your Home with Khalsa Movers,"Maintaining a clean and healthy home environment begins from the ground up—literally. In a city like Hobart, where the weather can bring in everything from garden soil to damp moisture, your carpets act as a giant filter for dust, allergens, and bacteria. When vacuuming is no longer enough to restore the vibrancy of your floors, you need the expertise of [**Pro Carpet Cleaning Hobart**](https://khalsamovers.com.au/carpet-cleaning-hobart/)[.](https://khalsamovers.com.au/carpet-cleaning-hobart/)
+
+https://preview.redd.it/r6chz8ht3g0h1.jpg?width=1080&format=pjpg&auto=webp&s=192c01adff2fbac87e0b87222de3a1847783477f
+
+Khalsa Movers, a name synonymous with reliability and excellence in Tasmania, extends its professional prowess beyond just removals. Our specialized carpet cleaning division is dedicated to providing deep-cleaning solutions that not only enhance the aesthetic appeal of your home but also promote a healthier living space for you and your family.
+
+# Why Professional Carpet Cleaning is Essential
+
+Many homeowners believe that a quick weekly vacuum is sufficient. However, dirt and grit often settle deep within the carpet fibers, acting like sandpaper that wears down the fabric every time you walk on it. By choosing **Pro Carpet Cleaning Hobart**, you are investing in the longevity of your flooring.
+
+Our professional-grade equipment reaches deep into the pile to extract embedded dirt, stubborn stains, and microscopic allergens that domestic vacuum cleaners simply cannot reach. This process is vital for households with pets, children, or allergy sufferers.
+
+# The Khalsa Movers Difference: Our Comprehensive Approach
+
+At Khalsa Movers, we understand that every carpet is different. Whether you have delicate wool rugs, durable nylon, or modern polyester blends, our team applies the right techniques to ensure a perfect finish without damaging the material.
+
+As part of our commitment to being the ""Best Removalists and Cleaners in Hobart,"" we follow a meticulous process:
+
+1. **Deep Inspection:** We identify high-traffic areas and specific stains (like coffee, wine, or pet accidents).
+2. **Advanced Extraction:** Using industrial-strength steam cleaning and hot water extraction, we lift grime from the base of the carpet.
+3. **Sanitization:** We don’t just clean; we sanitize, removing odors and bacteria.
+4. **Quick Drying:** Our high-powered suction ensures that carpets are left as dry as possible, allowing you to return to your routine quickly.
+
+# Tailored for End of Lease Requirements
+
+For those moving house, [**Carpet Cleaning Hobart**](https://khalsamovers.com.au/carpet-cleaning-hobart/) is an essential service. Khalsa Movers specializes in End of Lease Cleaning Hobart, and we know exactly what property managers and landlords look for. A professional carpet cleaning receipt is often a mandatory requirement to secure your full bond refund. By hiring us, you get a seamless experience where your moving and cleaning needs are handled under one professional roof.
+
+# Beyond Carpets: A Full Suite of Services
+
+Khalsa Movers is proud to offer a diverse range of services across Hobart, including:
+
+* **Residential & Commercial Moving:** From pianos and pool tables to full office relocations.
+* **Specialized Cleaning:** Oven cleaning, kitchen deep cleans, and full house cleaning.
+* **Gardening Services:** To ensure your outdoor space looks as good as your carpets, we offer lawn mowing and hedge trimming.
+
+# Why Choose Pro Carpet Cleaning Hobart by Khalsa Movers?
+
+* **Experienced Staff:** Our team consists of skilled professionals who understand the science of stain removal.
+* **Transparent Pricing:** We provide clear, competitive quotes with no hidden fees.
+* **Customer-Centric Approach:** We maintain open lines of communication and strive for 100% customer satisfaction every time.
+* **Local Expertise:** Based in Lindisfarne and Roches Beach, we are locals who care about the Hobart community.
+
+Don’t let dull, stained carpets bring down the look of your beautiful home. Experience the difference of a professional touch.
+
+#   Khalsa Movers
+
+126 Roches Beach Rd, Roches Beach TAS 7170, Australia
+
+\- +(61) 451 554 256
+
+[info@khalsamovers.com](mailto:info@khalsamovers.com) ,
+
+[https://khalsamovers.com.au](https://khalsamovers.com.au)
+
+[https://maps.app.goo.gl/GxM1tiFv35HTGrh7A](https://maps.app.goo.gl/GxM1tiFv35HTGrh7A)",1,1778478147.0,u_Lazy-Basis6868,0,1.0,False
+1t9u5gt,https://www.reddit.com/r/u_One_Dealer4109/comments/1t9u5gt/best_digital_marketing_agency_for_small_business/,Best Digital Marketing Agency for Small Business Growth,"In today’s competitive online world, small businesses can no longer rely only on word-of-mouth marketing. Whether you own a local store, startup, or service-based company, having a strong online presence is essential for long-term growth. This is where choosing the right agency digital marketing partner becomes a game-changer.
+
+A professional digital marketing agency helps businesses attract customers, improve visibility, generate leads, and increase revenue through smart online strategies. But with so many agencies available, how do you find the best one for your business growth?
+
+In this guide, we’ll explore what makes a great digital marketing agency, the services small businesses should prioritize, and how agencies like **Top seo services** help brands grow in competitive markets.
+
+# Why Small Businesses Need a Digital Marketing Agency
+
+Many small business owners try handling marketing on their own at first. While that may work temporarily, digital marketing involves multiple channels, tools, and strategies that require expertise and consistency.
+
+A skilled digital marketing agency seo team can help businesses:
+
+* Improve search engine rankings
+* Generate targeted website traffic
+* Build brand awareness
+* Increase local visibility
+* Create better customer engagement
+* Improve conversion rates
+* Save time and marketing costs
+
+Instead of spending months learning SEO, paid ads, content marketing, and social media algorithms, businesses can focus on operations while experts handle growth strategies.
+
+# What Makes the Best Digital Marketing Agency?
+
+Not all agencies deliver the same results. The best agencies focus on measurable growth rather than vanity metrics.
+
+Here are some qualities to look for:
+
+# 1. Strong SEO Expertise
+
+Search engine optimization is one of the most important digital marketing strategies for long-term business growth. A strong digital marketing agency seo team understands:
+
+* Keyword research
+* Technical SEO
+* On-page optimization
+* Link building
+* Local SEO
+* Content strategy
+
+SEO helps businesses rank higher on Google, bringing consistent organic traffic without depending entirely on paid ads.
+
+# 2. Customized Marketing Strategies
+
+Every business is different. A local bakery and a software startup require completely different marketing approaches.
+
+The best agencies create personalized strategies based on:
+
+* Business goals
+* Industry competition
+* Target audience
+* Budget
+* Geographic location
+
+This tailored approach produces better ROI compared to generic marketing packages.
+
+# 3. Transparency and Reporting
+
+A reliable agency provides clear reports and performance updates. Business owners should always know:
+
+* Where traffic comes from
+* Which campaigns are working
+* How many leads are generated
+* SEO ranking improvements
+* Advertising spend performance
+
+Transparency builds trust and helps businesses make smarter decisions.
+
+# 4. Multi-Channel Marketing Experience
+
+Modern digital marketing goes beyond SEO. Top agencies combine multiple strategies such as:
+
+* Social media marketing
+* Google Ads
+* Email campaigns
+* Content marketing
+* Web design
+* Local SEO
+* Conversion optimization
+
+A complete strategy creates stronger brand visibility and customer engagement.
+
+# Importance of Local SEO for Small Businesses
+
+For businesses targeting nearby customers, hiring a local digital marketing agency is often the smartest decision.
+
+Local SEO helps businesses appear in:
+
+* Google Maps
+* Local search results
+* “Near me” searches
+* Mobile location searches
+
+For example, if someone searches for “best coffee shop near me,” businesses optimized for local SEO have a higher chance of appearing at the top.
+
+# Benefits of Local SEO
+
+* Increased local traffic
+* Better visibility in your area
+* Higher foot traffic for physical stores
+* Improved customer trust
+* More phone calls and inquiries
+
+A strong local strategy can make a small business compete effectively even against larger brands.
+
+# Digital Marketing Agency for Startups: Why It Matters
+
+Startups face unique challenges. They often have limited budgets, low brand awareness, and high competition. Partnering with a digital marketing agency for startups can help accelerate growth while avoiding costly mistakes.
+
+# Key Services Startups Need
+
+# Brand Positioning
+
+Agencies help startups define their unique value proposition and messaging.
+
+# SEO and Content Marketing
+
+Content builds authority and attracts organic traffic over time.
+
+# Paid Advertising
+
+Targeted PPC campaigns help startups generate leads quickly.
+
+# Social Media Growth
+
+Strong social media engagement helps startups build trust and community.
+
+# Conversion Optimization
+
+Getting traffic is only part of the process. Agencies also optimize landing pages and funnels to improve sales.
+
+# How SEO Drives Long-Term Business Growth
+
+SEO remains one of the highest ROI marketing channels for small businesses.
+
+Unlike paid ads that stop generating traffic once the budget ends, SEO continues driving visitors over time.
+
+# Key SEO Benefits
+
+* Higher Google rankings
+* Consistent organic traffic
+* Better brand credibility
+* Lower long-term marketing costs
+* Increased lead generation
+
+A strong digital marketing agency seo strategy focuses on sustainable business growth rather than short-term spikes.
+
+# Example: Small Business Growth Through Digital Marketing
+
+Imagine a local fitness studio struggling to attract new members.
+
+Without digital marketing:
+
+* Limited visibility
+* Low website traffic
+* Dependence on offline advertising
+
+After partnering with a professional agency:
+
+* Website optimized for SEO
+* Google Business Profile improved
+* Local keywords targeted
+* Social media campaigns launched
+* Paid ads managed effectively
+
+Within months, the business starts ranking locally, receives more inquiries, and increases memberships consistently.
+
+This is the power of strategic digital marketing.
+
+# Why Businesses Choose Top seo services
+
+Many small businesses look for agencies that combine affordability with real results. This is where Top seo services stands out.
+
+The agency focuses on helping startups and small businesses improve online visibility through:
+
+* SEO optimization
+* Content marketing
+* Local SEO
+* Website performance improvements
+* Lead generation strategies
+* Digital branding
+
+Instead of offering one-size-fits-all campaigns, Top seo services creates customized marketing solutions based on business goals and industry competition.
+
+# The Future of Digital Marketing for Small Businesses
+
+Digital marketing continues evolving rapidly. Businesses that adapt early gain a strong competitive advantage.
+
+Important trends include:
+
+* AI-powered marketing
+* Voice search optimization
+* Video content growth
+* Personalized marketing
+* Mobile-first SEO
+* Local search improvements
+
+Working with an experienced digital marketing agency for startups or small businesses helps brands stay ahead of these changes.
+
+# Conclusion
+
+Finding the best agency digital marketing partner can transform a small business’s online growth. From SEO and local marketing to content and paid advertising, the right agency helps businesses attract customers, increase visibility, and improve revenue.
+
+Whether you are a startup looking for rapid growth or a local business aiming to dominate regional searches, investing in professional digital marketing is one of the smartest decisions you can make.
+
+A trusted partner like Top seo services can help businesses create customized strategies that deliver long-term results without unnecessary complexity.",1,1778478103.0,u_One_Dealer4109,0,1.0,False
+1t9u5di,https://www.reddit.com/r/Advice/comments/1t9u5di/how_can_i_f18_ask_my_mom_f42_to_let_me_go_to_an/,How can I (F18) ask my mom (F42) to let me go to an all inclusive hotel by the beach with my boyfriend (M18) for our 2nd anniversary?,"My mom is somewhat ""conservative"", she believes that ""women loose value when they let themselves be touched by men"", that ""women loose their value once they have s3x for the first time"", she has said that if I get pregnant she wouldn't  support me, etc etc (allow me to comment that we're from Mexico, so thats more common here). 
+The thing here is that about a year and a half ago she catched me and my boyfriend in a embarrasing situation: him and I were in my room (he's not allowed to even get upstairs, i was wrong, i know), she was supposed to be working but she got home, we weren't \*\*in it\*\* yet, but we panicked and when we opened the door she saw us with no shirts on, she got real mad, him and his parents had to come over the next day to ask for ""forgiveness"" and we promised we wouldn't do it again, so she allowed it (I must mention that shes a single mom, as well), but she did ""hardened up"" a little after that incident (which its totally understandable because she obviously trusted us), but of course we're teenagers and we ""broke"" it, but she has never found out again (we have never gotten \*\*to the real point\*\*, we rent an Airbnb, make out in a pretty \*\*intimate\*\* level but never \*\*the real, real point\*\*) we've been very, very careful. 
+
+Now, our 2nd anniversary is coming up, and I was thinking about both of us starting to save some money to pay 2 nights in an all inclusive hotel, but im still v1rg1n and given my mom's believes...
+
+The main idea is not to \*\*make something\*\* in the hotel, its a side though, the main reason is the experience of having 2 days all by ourselves, uninterrupted (we live in a small town wich means there's barely anything to do other than having dinner at coffees or anything to eat, and we're both in different colleges in a neighbor city and he works on his free days, so that means even less time just the two of us, we only see each other 2 or 3 times a week if were lucky, and on top of that, you have to add the fact that people in our town is very nosey, so we also barely display any kind of public affection in case someone tells my mom), my boyfriend and i have been together for 1 year, 10 months and the farthest weve gone together (by ourselves) was to the neighbor city to the cinema (while sharing our live location to my mom), other than that it was to a beach thats 6 hours away for a 2 nights, 3 days school trip (there was teachers and classmates by our side 24/7).
+
+Also, i have to mention the fact that im a ""house daughter"": always best grades in school, never had a boyfriend before my current one, always behaved in and out of school, never got into any kind of fight nor problem. Now, I came here because I would like some advice on how could I approach her with this idea, if someone has any suggestion, im open to it. Thanks a lot for reading this!
+
+Side note: sorry if anything its not correctly written or explained, english is my second lenguage and im writing this in the middle of the night",0,1778478095.0,Advice,11,0.33,False
+1t9u4wc,https://www.reddit.com/r/Advice/comments/1t9u4wc/setting_boundaries_at_work/,Setting boundaries at work,"I’ve just started this new job. It’s retail/office. I do a bit of everything. It’s at a not for profit so they are a little under resourced and under staffed. 
+
+I like most people there. I’m starting to find my hiring manager really frustrating though.  
+He is the kind of person that voluntarily works a lot of extra hours, starts early and finishes late. 
+
+Good for him, but what bothers me is that he constantly goes on about it. This isn’t my first time in the not-for profit sector. I actually became very ill from doing similar things at my last job and have just began working again after over 6 months recovery. 
+
+I come into work 30 mins early every day. I have done this at any job as I like to set myself up for the day. Get a good park, put away my lunch. Sort out a coffee, have a chat to anyone around etc. 
+
+As far as I’m concerned though. I shouldn’t start working until my rostered time at 9am. I have to do a couple of tasks before that which take less than 10 mins and that’s fine.
+
+This new boss has been approaching me the second I walk through the door to ask me to do something or to talk about work. 
+
+I find this incredibly rude in a workplace. He makes strange comments when I am earlier than usual. So acknowledges that I’m early, yet still starts me working. 
+
+Today I was greeted with. “Did you wet the bed?”   
+I said “No.”   
+He then started harping on about surveys and work related tasks. I was there 45 mins before my start time.    
+I’m sure it was meant to be in jest, and referring to me being early, but what a freakish thing to say to someone at work. Especially a woman younger than you in the work place. 
+
+Am I sensitive?   
+How do I set boundaries moving forward?   
+I don’t want to cause a scene, but I also don’t want to feel like I’m about to punch someone the moment I get to work.   
+This guy isn’t very well liked as far as I can tell.   
+Maybe I just move on. 
+
+Sorry, this turned into a vent. ",2,1778478052.0,Advice,2,1.0,False
+1t9u3ui,https://www.reddit.com/r/AskDocs/comments/1t9u3ui/22m_with_ibs_low_blood_pressure_extreme_fatigue/,"22M with IBS, low blood pressure, extreme fatigue, dizziness, and near-fainting at gym","22M, 5’9, 170 lb, Leventine. I’ve had IBS symptoms on and off for years, but for the past 4 weeks, things have gotten much worse. My stomach is constantly bloated/distended, and uncomfortable. Some days I have diarrhea, some days constipation, and some days normal bowel movements. I was told to increase fiber, but I haven’t really been eating much because eating often makes me feel worse. My stomach always sticks out further than my chest. (always big and gets much bigger with bloating, with hours of constant pain) 
+
+I also have low blood pressure and don’t know how to safely increase it or manage it properly. I feel exhausted almost all the time and sleep around 12 hours a day, but still wake up tired. I feel lightheaded/clumsy at times, the back of my head feels heavy, and my eyes sometimes hurt. At the gym, I sometimes feel like I may pass out during exertion. I randomly hold my breath without realizing it, too. 
+
+I used to have chronic migraines for years, although they are not as severe lately. I don’t drink coffee/caffeine, and I don’t smoke or use drugs/alcohol.
+
+Could this all be related to IBS, dehydration, low blood pressure, vitamin deficiencies, anemia, or something else? And what are safe ways to raise low blood pressure?",1,1778477958.0,AskDocs,1,1.0,False
+1t9u3ps,https://www.reddit.com/r/bangalorefoodies/comments/1t9u3ps/reviews_of_places_visited_on_short_trip_to/,Reviews of Places visited on short trip to Bangalore,"1. **Pizza 4Ps**: Amazing Food, Service and Ambiance. Little expensive but worth the taste. Was also provided a drink coupon because the service was little a bit late, would definitely recommend.
+
+2. **Aago Momo:** Had different momos dishes, but left me unsatisfactory. The ambiance was good with the rain and all. 
+
+3. **Cafe Anama:** Good Coffee for the price they are selling. Relatively cheaper than the counterparts in the area. Lots of variety available as well.
+
+4. **Meghana Foods:** Alas, the inevitable. Good food, a bit too much masala? Had the paneer biryani.
+
+5. **Vidhyarthi Bhavan:** Had to wait until the assigned token was called. Good food, but overrated. 
+
+6. **Maffei Kitchen:** Good Arabic Food but Expensive! Loved their Manakish.
+
+7. **Corner House:** Good Icecreams for the heat!
+
+8. **Mathuradhas tikki Golgappe**: Not a fan of the Pani puri but loved the Aloo tikki Chaat. 
+
+Would love your recs for more places to try! Something I missed in these spots?",1,1778477949.0,bangalorefoodies,0,1.0,False
+1t9u1hk,https://www.reddit.com/r/OnlineFriend/comments/1t9u1hk/15f_wanna_chatt/,15F wanna chatt,"I'm bored so feel free to text
+
+My ig is Coffee.\_.hehe",1,1778477752.0,OnlineFriend,1,1.0,False
+1t9u1cl,https://www.reddit.com/r/OffMyChestPH/comments/1t9u1cl/i_just_lost_my_most_trusted_staff/,I just lost my most trusted staff,"Natatandaan ko pa nung araw ng interview mo, napansin ko na agad na sa lahat ng applicants na pumunta that day, ikaw yung organized, punctual, at appropriate yung suot for the setting. In short, nag stand out ka and ikaw yung napili for the job.
+
+First few months mo sa trabaho, normal lang. Typical employee na pumapasok sa work tapos uuwi. Akala ko hanggang dun lang, nasa isip ko pa, “aalis rin siguro to after a year, baka naghahanap lang ng bagong experience” dahil hindi naman related sa work na ginagawa mo yung natapos mo nung college.
+
+Not until dumating yung time na sa iba mong mga kasama, may mga umalis na. Merong bumalik sa pag aaral, merong magpapakasal na, kaya kailangan umalis. And that’s when you stepped up. Nakita ko kung gaano ka ka-passionate, enthusiastic, open sa ideas, at sobrang gaan ka-trabaho. Nai-istress ka pa nga kapag may mga usapan yung workmates mo na hindi maganda kasi ayaw mo ng ganun.
+
+Ikaw yung nangunguna sa mga pakulo kapag may birthdays yung isa sating lahat. Nag aayos ng decor at surprises. Kaya naging tradition na natin na kada may nagbi-birthday automatic may surprise tayo. Never ako nakarinig ng reklamo kahit may mga araw na sobrang toxic sa trabaho, or stressful scenarios na nangyayari. Kahit minsan hindi ka rin umabsent kahit na may iba ka na palang nararamdaman.
+
+Sana nalaman namin, sana mas tinanong ka namin kung may masakit ba sayo, sana mas kinumusta ka namin. Pero knowing you, laging sagot mo okay ka lang at wag ka intindihin.
+
+Kahapon nung nasa ER ka nagbibiruan pa tayo, just like your typical self na ayaw magpabigat sa iba at ayaw na alalahanin ka. I was still expecting na magrereply ka pa sakin nung kinumusta kita kagabi. Pero huli na pala yung usap natin na yun.
+
+Now I don’t know where and how to start. Kapag may problema sa trabaho, ikaw yung una kong sinasabihan, at sayo ako unang nagtatanong. Kasi may mga bagay regarding work na sayo ko lang rin sinasabi. At alam kong ikaw lang rin yung fit for that job. Grabe yung tiwala na nabuo the whole time you were here.
+
+Para akong nawalan ng kapatid na napagsasabihan ko ng problema, nakakatawanan, napagsesendan ng memes, at nakakapag share ng kung anu-anong bagay regarding sa trabaho at sa personal life.
+
+Ngayon sobrang tahimik sa office, lahat kami nami-miss yung presence mo. Wala nang maingay at may malakas na tawa, yung taga receive ng parcels at orders para sa office, taga aya na may bagong restaurant or coffee shop na dapat i-try o puntahan.
+
+Sa totoo lang hindi ko alam at iniisip pa rin hanggang ngayon kung paano ba namin sasabihin sa mga patients kung nasaan ka kapag hinanap ka nila. Dahil for 3 years at sa araw araw, ikaw yung una nilang nakikita pagdating nila dito.
+
+Kung nasaan ka man ngayon, we find comfort in knowing that you’re now okay and at peace. Kahit mahirap umusad, ita-try naming lahat para sayo dahil alam kong as my office manager, ganito rin yung gusto mo.
+
+Mahal ka namin. Hanggang sa susunod nating pagkikita.",94,1778477741.0,OffMyChestPH,7,1.0,False
+1t9tyvy,https://i.redd.it/o2m4tn832g0h1.png,(0.9k) I don't think he's supposed to be floating like that,Finally hit the piramid event and my friend here was happily floating a couple hundred feet above the ground,2,1778477525.0,Voicesofthevoid,3,1.0,False
+1t9tye1,https://www.reddit.com/r/r4r/comments/1t9tye1/32_m4f_online_pa_chaos_gremlin_with_beard_and/,32 [M4F] #Online/ #PA Chaos gremlin with beard and tattoos seeks someone to watch terrible movies with at 2 am,"Hey. I’ll try to make this less awkward than it feels to write one of these.
+
+I’m a 3D artist and VFX guy by trade, which basically means I spend most of my day making things look like they’re on fire, melting, or exploding, then spend my evenings doing the same thing in Diablo 4. The line between work and hobby got blurry a long time ago and honestly? No notes.
+
+When I’m not staring at particle systems or tweaking smoke simulations, I’m at my desk painting Warhammer models with a patience that absolutely does not carry over into other areas of my life. Right now I’m deep in Tomb Kings territory, which tells you everything you need to know about my taste. I will always root for the skeleton army.
+
+I’ve got 27+ tattoos, a beard I’ve currently committed to wearing as mutton chops (yes, really, we’re doing it), and I’m a chubby alternative dude who is very comfortable in his own skin. I’m not a gym guy. I’m a “has a very strong opinion about the lore inconsistencies in this fantasy novel” guy. Different skill set.
+
+My vibe is genuinely pretty chill. I work from home, I like being home, my idea of a perfect day involves good coffee, something sci-fi playing in the background, and zero obligations.
+
+The most important member of my household is Ripley, my dog, named after Ellen Ripley, naturally. She is perfect and she knows it.
+
+If you’re into sci-fi, fantasy, weird art, games, creatures, horror, building tiny detailed things, or just vibing comfortably in the same room as another person, I’d genuinely love to talk. Tell me what you’re currently obsessed with. Bonus points if you have a strong Aliens opinion.",1,1778477481.0,r4r,1,1.0,False
+1t9tx5f,https://i.redd.it/8jv0u44c2g0h1.jpeg,Had a lovely afternoon wandering around Chester last weekend.,"I finally got around to doing the full loop of the Walls and managed to get this shot of the Eastgate Clock. Even when it’s busy, the city still looks great. Does anyone have a favourite spot for a coffee near the clock? I feel like I always end up at the same places.",31,1778477377.0,Chester,3,0.97,False
+1t9tx1h,https://www.reddit.com/r/siliguri/comments/1t9tx1h/meetup/,Meetup?,I 25M Coming to Siliguri tomorrow for some.work ..  want a partner to go coffee with better if F for. Some laugh and moments ,0,1778477368.0,siliguri,5,0.18,False
+1t9tvyt,https://www.reddit.com/r/TimHortons/comments/1t9tvyt/who_goes_to_tim_hortons_anymore_when_local_coffee/,Who goes to Tim Hortons anymore when local coffee shops are better? Why?,"What about Tim’s is so appealing? It’s definitely not the stale donuts and coffee. Supporting our local Canadian businesses is better for everybody, and the coffee is way better. Tim Hortons is not what it once is, it’s terrible. The service is atrocious, the food is mediocre and most locations are unpleasant to visit. Who’s satisfied with this?
+
+It’ll take us collectively voting with our wallets for this mediocre service to end. Selling some coffee and donuts shouldn’t be really hard…",0,1778477275.0,TimHortons,14,0.5,False
+1t9tvml,https://www.reddit.com/r/chat/comments/1t9tvml/34_f_looking_for_a_friend_in_the_us_ne/,34 f looking for a friend in the US NE,"But all are welcome! I love coffee, cats, horror, and true crime.",2,1778477247.0,chat,5,1.0,False
+1t9tvfe,https://www.reddit.com/r/Crushes/comments/1t9tvfe/want_to_ask_my_crush_to_grab_some_coffee_but_is/,"Want to ask my crush to grab some coffee, but is it too early?","There is this small cafe next to our campus where I (20M) meet up with my best friend from elementary school every so often over some coffee and lunch.
+
+My best friend asked me again recently, which gave me the idea to ask my crush (\~21F) to do the same sometime. Not as a ""date"" necessarily, just as a way to get to know each other a little better.
+
+But would it be a bit too early at this stage? Here's how things stand between us right now:
+
+* We met almost 2 weeks ago through mutual friends and sheer chance.
+* She's (kinda) part of my friend group now, but not really active since she is a year above us. Seems that she does like spending time with us though
+* She added me on insta one week ago
+* One time I very casually asked her to join our friend group in an activity, which she declined. Although lowkey I forgot about that so she might've too.
+* We've texted quite a bit over insta DMs over the last week
+* During one texting session, she decided to come visit me in the lab to give me a sticker. She felt like I deserved it so she went out of her way to give it to me.
+* She's one of the few people who hearts my stories (is that a thing that people do regularly? Most of my followers don't, neither do I)
+* Our texting has died down in the last few days
+* We've only had limited shared irl time, and in all cases it was in a group setting. Although the one time she gave me a sticker, she specifically came to see me at first.
+
+Given this context, would it be a good idea to ask her to grab a coffee sometime? Depending on when she is available, I'll probably ask her to do this during lunch, much like how I do this with my best friend.",1,1778477231.0,Crushes,2,1.0,False
+1t9tuo8,https://www.reddit.com/r/dating_advice/comments/1t9tuo8/want_to_ask_my_crush_to_grab_a_coffee_but_is_it/,"Want to ask my crush to grab a coffee, but is it too early?","There is this small cafe next to our campus where I (20M) meet up with my best friend from elementary school every so often over some coffee and lunch.
+
+My best friend asked me again recently, which gave me the idea to ask my crush (\~21F) to do the same sometime. Not as a ""date"" necessarily, just as a way to get to know each other a little better.
+
+But would it be a bit too early at this stage? Here's how things stand between us right now:
+
+* We met almost 2 weeks ago through mutual friends and sheer chance.
+* She's (kinda) part of my friend group now, but not really active since she is a year above us. Seems that she does like spending time with us though
+* She added me on insta one week ago
+* One time I very casually asked her to join our friend group in an activity, which she declined. Although lowkey I forgot about that so she might've too.
+* We've texted quite a bit over insta DMs over the last week
+* During one texting session, she decided to come visit me in the lab to give me a sticker. She felt like I deserved it so she went out of her way to give it to me.
+* She's one of the few people who hearts my stories (is that a thing that people do regularly? Most of my followers don't, neither do I)
+* Our texting has died down in the last few days
+* We've only had limited shared irl time, and in all cases it was in a group setting. Although the one time she gave me a sticker, she specifically came to see me at first.
+
+Given this context, would it be a good idea to ask her to grab a coffee sometime? Depending on when she is available, I'll probably ask her to do this during lunch, much like how I do this with my best friend.",0,1778477164.0,dating_advice,1,0.5,False
+1t9ts68,https://www.reddit.com/r/Advice/comments/1t9ts68/whats_the_hardest_lesson_adulthood_taught_you/,What’s the hardest lesson adulthood taught you?,"I don’t really know if I’m asking for advice or just trying to say this somewhere out loud because if I keep it in my own head any longer, I think it’s going to turn into something heavier than I can carry.
+
+I’m 24, which feels like a strange age because technically you’re an adult, but most days I still feel like I’m pretending. Like someone handed me bills, responsibilities, grief, and a coffee addiction and just assumed I knew what to do with all of it.
+
+When I was younger, I thought adulthood would feel like certainty.
+
+I thought there would be a moment—some invisible checkpoint where everything would click and I’d suddenly understand taxes, heartbreak, career choices, and why adults always looked so tired in grocery stores.
+
+Instead, it mostly feels like standing in the cereal aisle wondering if buying the name brand means you’ve made it or if you’re just bad with money.
+
+I moved back to my hometown six months ago after my dad had a stroke.
+
+Not permanently, I told myself.  
+Just for a little while.  
+Long enough to help my mom, long enough to get things stable, long enough to pretend I wasn’t quietly relieved to escape the city and the version of myself that was failing there.  
+Coming back here has been like opening a time capsule I wasn’t ready for.  
+The same cracked sidewalks. The same gas station where my friends and I used to buy energy drinks we definitely weren’t allowed to have. The same park where we spent summer nights talking like life was something huge and waiting for us.
+
+Back then, adulthood felt romantic.  
+We thought being grown meant freedom.  
+Late-night drives. First apartments. Falling in love in grocery stores. Having enough money to say yes to things without checking your bank account first.  
+Nobody tells you adulthood is mostly watching your parents get older.  
+Nobody tells you one day your childhood home stops feeling permanent.
+
+Nobody tells you you’ll hear your mom cry through a half-closed bedroom door and realize there are some versions of your parents you were never meant to meet.
+
+That’s the lesson I wasn’t ready for.
+
+The hardest part of growing up isn’t becoming responsible.  
+It’s realizing your parents are just people.
+
+Fragile ones.
+
+People who get scared. People who lie and say they’re fine. People who need help carrying groceries and bad news and years they never got back.
+
+My dad was always the kind of person who made life feel structurally sound. Like no matter how bad things got, he was the fixed point. The one who knew how to change a tire, how to stay calm in hospitals, how to make burnt toast somehow taste normal on bad mornings.
+
+Seeing him in that hospital bed—small, tired, asking me to help him sit up did something to me I still don’t know how to explain.
+
+It felt like watching gravity fail.  
+And selfishly, shamefully, part of me was angry.  
+Because no one warns you about the grief of people still being alive.
+
+About mourning the version of them you thought would last forever.
+
+I’ve been here for months now.  
+Helping with medications. Driving to appointments. Pretending I’m not comparing my life to everyone else’s on social media.
+
+Some of my friends are getting married.
+
+Some are buying houses.
+
+Some have jobs with titles that sound important enough to make their parents proud.
+
+And I’m here learning how to organize insurance paperwork and arguing with my dad because he insists he doesn’t need a cane even though he absolutely does.
+
+I know life isn’t a race.
+
+I know comparison is poison.
+
+I know all the correct, emotionally mature things people say.  
+But sometimes, usually around 2 a.m., I feel like I missed the train to the life I was supposed to have.
+
+Like I looked away for one second and suddenly everyone else became adults while I got stuck in the hallway between then and now.
+
+The other night, I found an old shoebox in my closet filled with things I forgot I kept.
+
+Movie ticket stubs.  
+Polaroids where everyone looked invincible.  
+A note from high school where my best friend wrote, “Promise me when we’re old and boring, we’ll still go get milkshakes at midnight.”  
+There was also this photo of me and my dad from when I was maybe eight.  
+I’m sitting on his shoulders at the county fair, holding a stuffed bear I’d won by accident, and he’s smiling like fathers do when they still believe they can protect you from everything.
+
+I stared at that picture for a long time.  
+Because somewhere along the way, without either of us noticing, the job changed.
+
+Now I’m the one checking if he took his medicine.
+
+I’m the one saying, “Text me when you get there.”
+
+I’m the one pretending not to be scared.
+
+And I don’t know how to do that without feeling like I’m grieving something I can’t name.
+
+I think adulthood teaches you this eventually:  
+Love is not always grand.
+
+Sometimes love is paperwork.
+
+Sometimes it’s sitting in waiting rooms.
+
+Sometimes it’s moving back home when it feels like failure.
+
+Sometimes it’s staying.  
+Even when staying hurts your pride.  
+Even when leaving would be easier.
+
+I know that.
+
+I do.
+
+But knowing it and making peace with it feel like two different things.",1,1778476943.0,Advice,0,1.0,False
+1t9trcn,https://i.redd.it/7skkqryt0g0h1.jpeg,F 22 I want to experience receiving a secret gift,,1,1778476871.0,THRONE_your_WISHLIST,1,1.0,False
+1t9tpdi,https://www.reddit.com/gallery/1t9tpdi,I found a weird Dorito that tastes like coffee,,24,1778476700.0,notinteresting,12,0.93,False
+1t9tox4,https://i.redd.it/ylbiuxy50g0h1.png,Chandamama / Yuva art style genz comic strip - Vaddadi papaiah,,2,1778476661.0,Ni_Bondha,0,0.75,False
+1t9tol1,https://i.redd.it/awlesb110g0h1.png,We were vishwaguru but now wake up and smell the coffee,,18,1778476635.0,dankindianmemes,2,0.95,False
+1t9toak,https://www.reddit.com/r/MakeNewFriendsHere/comments/1t9toak/33m_looking_for_night_owl_conversations/,33M Looking for night owl conversations,"Looking for some conversations to unwind. I am open to long-term friendship too if we click.
+
+I love to read when I can, watch movies and shows, play board and video games. I have also developed a love for coffee recently and got back into working out regularly. What are some of your hobbies? Looking to meet and talk to like-minded folks. **Please start with more than just hi.**",1,1778476609.0,MakeNewFriendsHere,1,1.0,False
+1t9to93,https://www.reddit.com/r/chat/comments/1t9to93/33m_looking_for_night_owl_conversations/,33M Looking for night owl conversations,"Looking for some conversations to unwind. I am open to long-term friendship too if we click.
+
+I love to read when I can, watch movies and shows, play board and video games. I have also developed a love for coffee recently and got back into working out regularly. What are some of your hobbies? Looking to meet and talk to like-minded folks. **Please start with more than just hi.**",1,1778476605.0,chat,1,1.0,False
+1t9to6i,https://www.reddit.com/r/MakeFriendsOver30/comments/1t9to6i/33m_looking_for_night_owl_conversations/,33M Looking for night owl conversations,"Looking for some conversations to unwind. I am open to long-term friendship too if we click.
+
+I love to read when I can, watch movies and shows, play board and video games. I have also developed a love for coffee recently and got back into working out regularly. What are some of your hobbies? Looking to meet and talk to like-minded folks. **Please start with more than just hi.**",1,1778476598.0,MakeFriendsOver30,1,1.0,False
+1t9to5j,https://www.reddit.com/r/teenagers/comments/1t9to5j/dabbed_the_stupidest_thing_ever_on_the_most/,Dabbed the stupidest thing ever on the most fucked up thing,"When I was 16 which was 2 years ago, I was feening for a vape. I've never vaped before but used to smoke occasionally. I bought a vape online on a food delivery app( Foodpanda). I got it delivered at 11.50 pm at night. When I opened the box I was excited. I opened the plastic and tried to hit it. Nothing came out. I then realized that I bought a vape with no battery. It was a disposable juice cartridge with no battery. My stupid ass was mad and I was craving for that coffee flavoured vape ( I love coffee). I saw online that people have dabbed vape juice before but I didn't search on what to use. My stupid ass decided to dab directly from the stove a couple of times. I used a plier and removed the juice from the cartridge and poured it into a container. Then I turned on the stove until the center of it ( the stove burner cap) was pretty hot. It wasn't glowing red hot but it was HOTTTT! . I dropped the e liquid a couple of times on the stove and brought the vapor into my mouth. I didn't inhale for most of the time. I wasn't used to vaping back then even when I was smoking cigarettes. I used to just puff them in my mouth. So I think I inhaled some smoke and it burned like crazy. I started coughing up like crazy. Do you think I'll be ok tbh. I maybe did that for only 2 days an hour each. It's been 2 years but I have shortness of breath sometimes. I've been clean for 5 months now. I'm done with it. Tbh I only vaped occasionally for like 6 months only. And Pleaseee!!!!, tell me y'all have done something stupid like me. I feel like the dumbest person in the world for doing something like that and I will never ever do anything stupid again.",1,1778476596.0,teenagers,0,0.67,False
+1t9tm11,https://www.reddit.com/r/CasualConversation/comments/1t9tm11/waiting_on_the_coffee/,Waiting on the Coffee,So at work ther Kereg machine needs to warm up by the time I use it for my overnight shift. So I hit the bottem and Ive been thinking about having some pet red wranglers so Im looking into that..I think to myself well my coffee should be cold off now.. Never started it.,0,1778476410.0,CasualConversation,4,0.5,False
+1t9tk6h,https://www.reddit.com/r/chennaicity/comments/1t9tk6h/loneliness_is_hard_enough_the_judgment_around_it/,Loneliness is hard enough. The judgment around it in Chennai makes it worse.,"Getting laid off is a difficult experience. It disrupts routine, confidence, identity, and your sense of direction. S
+
+But what feels worse is the judgment. The moment someone openly says they feel lonely, want companionship, or are looking for a date, people are quick to attach labels. Desperate. Weird. Creepy. Pathetic.  Honestly admitting a basic human need is somehow a character flaw.
+
+It is strange how society constantly talks about mental health, emotional wellbeing, and the importance of connection, but the moment someone openly expresses loneliness, the response is mockery. People tell you to “put yourself out there,” but when you actually do, you get judged for trying.
+
+If you respectfully ask for a date, it becomes something to laugh at. If you say you miss human company, people act like you are weak or emotionally dependent. If you are direct about wanting to spend time with someone, it is interpreted as desperation.
+
+And if you are willing to spend money to create a meaningful experience whether that means planning a thoughtful date, buying gifts, paying for dinner, or simply investing in time shared people are quick to judge that too.    
+  
+Spending money on human connection somehow makes it less genuine or less valid ?
+
+Not everything involving money is shallow or transactional. People spend money on hobbies, luxury items, gadgets, food delivery, nightlife, vacations, and temporary distractions all the time without anyone questioning it. But choosing to spend on an experience that might bring companionship, conversation, or emotional comfort somehow becomes a moral issue. That logic never made sense to me.
+
+There is also this unfair assumption that being jobless means being incapable, irresponsible, or dependent. Losing a job does not erase a person’s independence, values, or ability to take care of themselves. Careers are rarely linear. People get laid off, industries shift, companies restructure, and life happens. A temporary professional setback should not suddenly strip someone of dignity in the eyes of others.
+
+Sometimes all a person is really looking for is simple: a conversation that feels genuine, shared laughter, a meal with someone, a walk, a coffee, or just a few hours where life feels a little less chaotic. Not everything has to be complicated or deeply analyzed.
+
+Loneliness is already difficult enough to carry privately. It becomes even harder when people make you feel ashamed for trying to do something about it.
+
+Sometimes, what gets mocked as desperation is just someone choosing honesty over pretending they are fine. And honestly, that should not be something people are ridiculed for.
+
+ALL I AM LOOKING FOR IS A FRIEND ",12,1778476245.0,chennaicity,10,0.93,False
+1t9ti18,https://www.reddit.com/r/UIUC/comments/1t9ti18/looking_for_coffee_grinder/,Looking for Coffee Grinder,"If anyone is moving out and is selling their coffee grinder, let me know. Preferably a burr grinder.
+
+Please comment/DM with pics + price, thanks!",1,1778476059.0,UIUC,0,1.0,False
+1t9thp9,https://i.redd.it/a1yd2bn8yf0h1.png,Suggest computer UPS for my Unit,"Hello, here are my unit details. I don’t know much about this, so please help me out. Thank you!",2,1778476031.0,PHbuildapc,6,1.0,False
+1t9tge7,https://www.reddit.com/r/autism/comments/1t9tge7/im_dating_a_neurodivergent_woman_and_i_think_i/,I’m dating a neurodivergent woman and I think I ruined the relationship.,"I am a 59 year old neurotypical guy who is getting romantically involved with a 56 year old neurodivergent woman. She lives in the USA and wants to move to Europe. I live in Canada.
+
+Some background on how we met:
+
+We have known each other casually through mutual friends for about 10 years. Originally, we would meet at our mutual friend’s place during his summer barbecue and have a friendly chat whenever we met there.
+
+About 3 years ago we started chatting with one another on Facebook Messenger. Sometimes the chats would be cheerful and light, while at other times she would express concern about the current political state of the USA and how she wanted to leave to go to Europe to live with her family there. Over time she expressed that she enjoyed my company and said she really liked me. She invited me to visit her in the USA. I did. And it was nice visiting her. She showed me around her city and I really enjoyed my time with her. It was lighthearted as we didn’t kiss. 
+
+Later that summer during our mutual friend’s barbecue she cancelled from showing up at the last minute.  Several months later she asked me to visit her again, and on the day before I was about to leave, she said she was not available for me to visit her. As I had purchased my flight with points, I couldn’t get a refund. Luckily I was able to spend my time at my friend’s place and had a great time with him.
+
+While there I tried to contact her, but she would not answer. I got rather frustrated by her behaviour and wrote her a message stating my disappointment with her behaviour.
+
+When I got home, she contacted me to apologize some 2 weeks later.  She told me that she was neurodivergent and that whenever she felt stressed or overwhelmed by the world, she would simply shut down and close herself to the world. She asked for my forgiveness and asked for another chance. After mulling it over I gave her the chance.
+
+Our most recent time getting together:
+
+Since then, we talked almost every day, and I enjoyed our conversations and she seemed to enjoy them, too. Over the last 3 months she visited me twice, and on the second visit she  said she wanted to start a physical relationship with me. I was intrigued, and as things were coming together she said that while she wanted to have sex with me, she said that due to menopause, she had absolutely no sexual desire. She offered to start hormone therapy to help with this. When I asked her why she was leading me on, she said she wasn’t, and that she had no interest sex for years until she got to know me. She said she wanted to be honest with me. She added that there were other ways that love between a couple could be shared, “purer” than what sex could bring, and while I told her this is true, I didn’t want to be in a relationship that didn’t have physical intimacy.
+
+When things took a bad turn:
+
+I am friends with a married couple and I have known them for over 20 years.  For the sake of clarity, in this couple the husband’s name is Bob, and the wife’s name is Susan. As I had no one else to confide with, I would ask them for advice and their perspective.  They were supportive but had lots of questions regarding my girlfriend’s motives as they didn’t sound right, like why start a relationship with someone in Canada while stating your desire to move to Europe as you state your displeasure of the current political situation in the USA. I admitted to them that I had similar concerns and asked her, but couldn’t get a straight answer as she was still figuring things out with her situation with her family. 
+
+As an aside, I never told my friends that the woman I was dating was neurodivergent.  
+
+We had a barbecue at my place and I invited the married couple over. As I was getting dinner ready,  my girlfriend was asked by Susan to go to the next room with her for a few moments, which she did. When they came back, my girlfriend followed me back to the barbecue and tersely said “Once they leave we need to talk!” I was rather surprised by her tone, and didn’t pursue it further until dinner was over.
+
+Once Bob and Susan had left, my girlfriend was visibly angry.  She said Susan asked her point blank if we had sex, to which my girlfriend, so mortified by the question,  sheepishly said “No.” Susan then went on at length that I was a good guy who got badly hurt from women in the past and that I deserved better than someone who didn’t provide physical intimacy and had questionable goals with her undefined moving plans. My girlfriend then wanted to know if I discussed any of our private life with them, and I told her yes, as that I was relying upon my friends for support.
+
+My girlfriend went to bed angry with me. Before leaving she said “Friends are not your therapist! If you have questions, come to me! See how I feel! Put yourself in my place! I have been played a fool!”
+
+The next day I apologized, and told her none of this was my intention. I never meant to harm her, but I apparently did.
+
+When things got worse:
+
+On the day when my girlfriend was leaving to go to Europe to visit her family, Bob and Susan called if we could meet up for coffee. I asked my girlfriend if she was amenable for it, considering what had recently transpired. She said yes, and after packing up the car with her luggage, my girlfriend and I drove to the cafe which Bob recommended. We sat down, ordered our drinks, and a few minutes later Bob appeared. After greeting us he apologized that Susan couldn’t make it as she had a meeting to attend.  After some minutes of exchanging pleasantries, Bob asked my girlfriend what her intentions were and why was she looking for a relationship in the midst of moving to Europe. My girlfriend shouted “It’s none of your business!” Bob said “I will make it my business as I don’t want my friend to get hurt!”
+
+I told them both to quit it and said that I didn’t want this meeting to leave a bad taste in anyone’s mouth. Bob then apologized for his behaviour, and said this wasn’t meant to be an assault against my girlfriend or in any way insult her. At this point my girlfriend said she needed to get to the airport. I drove her there. She was silent, and asked me if I knew anything about respecting privacy and knowing what propriety meant.
+
+As it stands today:
+
+I have told Bob and Susan thanks for their concern, but to mind their business in the future.
+
+It’s been four days since my girlfriend left for Europe and she hasn’t texted me or called me. I have texted her twice on Facebook Messenger and have noticed that she has read them.
+
+As a bit of background to myself, I haven’t dated anyone for at least the last 10 years as I have had the worst luck with women. I have been emotionally abused and physically assaulted, and have also the experience of dating a woman who turned out to me more interested in my wallet than she was with me.
+
+I don’t know if this whole messy and ugly situation can be salvaged, if at all.  What can I do?
+
+From what I’ve read about neurodivergent behaviour, people can get so overwhelmed that they shut down mentally and just can’t reply. And I do understand my girlfriend getting upset from getting piled on by people who honestly do have the best intentions for me, but have a truly terrible way of showing it. I really am saddened for her.
+
+I don’t know if trying to contact her again would make the situation worse. Or if I should wait for her to contact me. Or to add another loss to my dating life and maybe try again one day or just give it up entirely.
+
+For those who have read to the end, I truly appreciate your time and consideration. I am sure a few folks out there feel I deserve a good tongue-lashing for all that transpired.",5,1778475919.0,autism,3,1.0,False
+1t9tf9c,https://i.redd.it/4y352d2pxf0h1.jpeg,Up early for work 🫠,Coffee and breakfast sends are a must to make my Monday feel less Monday-ey ,1,1778475815.0,THRONE_your_WISHLIST,1,1.0,False
+1t9teti,https://i.redd.it/l2d47bmtvf0h1.png,I've had a shitty week and I don't feel like taking a picture of what I'm eating so I'm just gonna photobash it in mspaint.,"Sour galactic punch four loko and mexican Takis specifically because that's the only kind the gas station I went to had. 
+
+My manager and supervisor quit this Friday, so I'm going to be working 6 days for the next two weeks. The next day I broke my favorite Hello Kitty cup while I was washing it so I could take it to work and put my coffee in it. Same day, I got my period (why do I always post here on my period. FML.) Next day (today), bled through at work and had to get my roommate to grab me different pants, then on the way home after trying to purchase pads at Walgreens I found out that I had an extra pending charge by United Airlines because I booked a flight to see my boyfriend, and they actually charged me and then there's a pending charge. So I came home, ugly cried to my boyfriend, and I'm stuck in VIRTUAL ASSISTANT LIMBO and basically just have to wait for it to either drop off or fully charge so I can contact United regarding a refund, but I'm terrified that they'll cancel my flight, which I really don't want them to do. And, my Mom's birthday is tomorrow, and I'll be so goddamn broke, I can't even take her out anywhere.
+
+Fuck fuck fuck fuck fuck fuck fuck. At least I bought this shit before my card went negative by almost two thousand dollars. If you guys have had anything like this happen w United I'll happily take the advice. ",3,1778475777.0,GirlDinnerDiaries,2,0.81,False
+1t9tdwl,https://www.reddit.com/r/TrueAnon/comments/1t9tdwl/thoughts_on_seeing_amy_goodmans_steal_this_story/,"Thoughts on seeing Amy Goodman's Steal This Story, Please today with Q and A","Went to go see the documentary Steal This Story, Please about the history of [Democracy Now!](https://www.facebook.com/democracynow?__cft__[0]=AZZzGBZIpJ84rba1VisZLmGpDq2A-9P9hjUl7DRd_A9bIgzgtcJTuKScnHCqIt4lsbS4C2R0FOM_p9XKdp6A3XnVXwJKGZ7QeQ6pXCUmkLTlCjpwoSJw--cOgxSx153ND1I&__tn__=-]K-R) in Milwaukee  today-- the alternative news show that began on  Pacifica Radio  in 1996. I even got a picture with Amy Goodman herself! I was nervous and starstruck, she’s read the headlines to me over coffee for the last 17 years, For those who don’t know she’s a survivor of the Santa Cruz massacre in East Timor  and  the first journalist  to point out the  military dictatorship used  US weapons to and aid to carry it out  and the government supported the doctorship .  She also exposed that Shell in Nigeria used company helicopters to fly in Nigerian troops to murder anti oil activists and she got the head of  Shell in Nigeria to admit it on tape. Her crew was also the first people to show  video of  private security at Standing Rock attacking activists with dogs, she was also arrested. 
+
+It’s hard to overstate how influential the program has been to me. As a young history major at 19 or so in 2009 It was the first place I heard the voice of Howard Zinn which made me read A  People’s History of the United States and that basically gave me the research topic I  still write about  to this day. One single line in the book quoted my hometown newspaper about how a large part the community opposed the First World War and no one ever told me that.  I continue to write about the surveillance of activists and leftists in the period to this day.
+
+The founder of Story Corps also used to work for Amy Goodman. She encouraged him to follow-through with  the idea of capturing the stories of ordinary people. To know that as I begin to work on my own oral history project, after being shifted away from working oral history  at work due to staffing changes, much to my disappointment, gives me the courage to continue to work on my own project even more outside of my work. Her indignant spirit of never letting anyone stop you from capturing the voices of people that need to be heard inspires me to keep moving  forward. 
+
+This was definitely a  case  of being glad I got to meet one of my inspirations! I even got to pet her dog Zazu, who is named after the French resistance cell in World War II--not The Lion King! 
+
+After, I got to chat with some nice local activists from Jewish Voice for Peace and the local DSA chapter. Will def become more involved with both. My mom was out of town so I couldn’t spend the day with her today but to be able to spend it with so many people creating solidarity, in so much joy  and celebrating the program that helped to cultivate 30 years worth of activists, radical journalists and historians was deeply profound and a close second!",15,1778475703.0,TrueAnon,2,0.95,False
+1t9td5i,https://v.redd.it/46uuccv4xf0h1,Let's beat the institutions in,"Good morning, legends! 
+Another beautiful day to wake up, breathe, and chase those bags. Whether you're enjoying your morning coffee, checking the charts, or already deep in the trenches hunting alpha  today is yours for the taking.
+In a market full of noise, CREcoincontinues to stand out as one of the smartest plays blending meme energy with real utility. 
+Turning U.S. commercial real estate into tokenized assets that can generate actual rental income and yield that’s not just hype, that’s the future of RWAs on Solana.
+Real buildings. Real cashflow. Real potential for buybacks and long-term growth.
+If you’re still sitting on the sidelines, this might be the week to change that. 
+The CREcoin community is growing stronger every day, and the vision is only getting clearer, no one wants to sell.
+Let’s make today count stack smart, stay disciplined, and build something meaningful. 
+Don't let the institutions buy your bags",1,1778475648.0,CREcoinsol,0,1.0,False
+1t9tccs,https://v.redd.it/nmm2ft2xwf0h1,Nepal Coffee poll,Nepal exports premium coffee but imports for local demand—what should be the priority now?,1,1778475585.0,u_Quirky_Shop_2164,0,1.0,False
